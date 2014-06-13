@@ -1,0 +1,5462 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Burevjesnik",
+    "tt": 886623,
+    "air_date": "1982-02-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mile Rupcic",
+        "nm": 750413,
+        "roles": [
+          {
+            "char": "Marko"
+          }
+        ]
+      },
+      {
+        "name": "Mira Furlan",
+        "nm": 1245,
+        "roles": [
+          {
+            "char": "Zdenka"
+          }
+        ]
+      },
+      {
+        "name": "Kruno Valentic",
+        "nm": 884142,
+        "roles": [
+          {
+            "char": "Gospodin Mijo"
+          }
+        ]
+      },
+      {
+        "name": "Zeljko Mavrovic",
+        "nm": 561437,
+        "roles": [
+          {
+            "char": "Tomo"
+          }
+        ]
+      },
+      {
+        "name": "Relja Basic",
+        "nm": 59823,
+        "roles": [
+          {
+            "char": "Gazda Milan"
+          }
+        ]
+      },
+      {
+        "name": "Ena Begovic",
+        "nm": 66807,
+        "roles": [
+          {
+            "char": "Ana"
+          }
+        ]
+      },
+      {
+        "name": "Pavle Bogdanovic",
+        "nm": 91659,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miljenko Brlecic",
+        "nm": 67709,
+        "roles": [
+          {
+            "char": "Zuti"
+          }
+        ]
+      },
+      {
+        "name": "Mate Ergovic",
+        "nm": 258894,
+        "roles": [
+          {
+            "char": "Nadzornik Tucan"
+          }
+        ]
+      },
+      {
+        "name": "Spiro Guberina",
+        "nm": 345544,
+        "roles": [
+          {
+            "char": "August Cilic"
+          }
+        ]
+      },
+      {
+        "name": "Mihailo 'Misa' Janketic",
+        "nm": 417712,
+        "roles": [
+          {
+            "char": "Pukovnik Tomic",
+            "as Mihailo Janketic": true
+          }
+        ]
+      },
+      {
+        "name": "Irena Kolesar",
+        "nm": 464027,
+        "roles": [
+          {
+            "char": "Teta Lenka"
+          }
+        ]
+      },
+      {
+        "name": "Vladimir Krstulovic",
+        "nm": 472437,
+        "roles": [
+          {
+            "char": "Mikulec",
+            "as Vlado Krstulovic": true
+          }
+        ]
+      },
+      {
+        "name": "Sreten Mokrovic",
+        "nm": 596368,
+        "roles": [
+          {
+            "char": "Albin"
+          }
+        ]
+      },
+      {
+        "name": "Mustafa Nadarevic",
+        "nm": 618768,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Minja Nikolic",
+        "nm": 631895,
+        "roles": [
+          {
+            "char": "Zdenkina majka"
+          }
+        ]
+      },
+      {
+        "name": "Nikola Otrzan",
+        "nm": 652967,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jelisaveta Sablic",
+        "nm": 754807,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bozidar Smiljanic",
+        "nm": 806988,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Darko Stazic",
+        "nm": 824073,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zvonko Strmac",
+        "nm": 834665,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Milan Strljic",
+        "nm": 834663,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mladen Vasary",
+        "nm": 890331,
+        "roles": [
+          {
+            "char": "Bozo"
+          }
+        ]
+      },
+      {
+        "name": "Slobodan Velimirovic",
+        "nm": 892537,
+        "roles": [
+          {
+            "char": "Lugar, policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Marinko Alpeza",
+        "nm": 2435094,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Andrea Bakovic",
+        "nm": 49217,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mirko Boman",
+        "nm": 93527,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tomislav Celjak",
+        "nm": 2436078,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dinko Cutura",
+        "nm": 1076314,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mladen Cutura",
+        "nm": 960771,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ankica Dobric",
+        "nm": 229766,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kresimir Dolencic",
+        "nm": 230939,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Drazen Drzanic",
+        "nm": 2435630,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Karlo Dujmovic",
+        "nm": 2434438,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Suncica Dindic",
+        "nm": 2430395,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jadranka Dzumrukcic",
+        "nm": 2429548,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nina Ferencic",
+        "nm": 2434041,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nikola Gec",
+        "nm": 311419,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Josip Grozaj",
+        "nm": 2430941,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dusko Gruborovic",
+        "nm": 344335,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Velimir Hecimovic",
+        "nm": 2430319,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zdenka Hersak",
+        "nm": 380839,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ilija Ivezic",
+        "nm": 412402,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Darko Kralj",
+        "nm": 2433531,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marina Krezic",
+        "nm": 2431527,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bozidar Matti",
+        "nm": 2430417,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Safet Mehmedbasic",
+        "nm": 2432208,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rajko Minkovic",
+        "nm": 591454,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dario Novak",
+        "nm": 2429814,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stjepan Pepeljnjak",
+        "nm": 2431489,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Blazenka Plevko",
+        "nm": 2432981,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Danilo Poprzen",
+        "nm": 1059224,
+        "roles": [
+          {
+            "char": "Policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Ante Posinkovic",
+        "nm": 2430985,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Melita Prvonozec",
+        "nm": 2429582,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miladinka Rackov",
+        "nm": 2430505,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Josip Ravnak",
+        "nm": 2435365,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Djuro Rogina",
+        "nm": 737334,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivan Rozic",
+        "nm": 2432699,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Damir Saban",
+        "nm": 754494,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Satovic",
+        "nm": 2434820,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Joza Seb",
+        "nm": 780895,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mato Sebalj",
+        "nm": 2428757,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miro Segrt",
+        "nm": 782113,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Igor Serdar",
+        "nm": 784916,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Uzarevic",
+        "nm": 2431020,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Smrt fasizmu - sloboda narodu",
+    "tt": 891402,
+    "air_date": "1982-02-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mira Furlan",
+        "nm": 1245,
+        "roles": [
+          {
+            "char": "Zdenka"
+          }
+        ]
+      },
+      {
+        "name": "Mustafa Nadarevic",
+        "nm": 618768,
+        "roles": [
+          {
+            "char": "Brko Serdar"
+          }
+        ]
+      },
+      {
+        "name": "Ena Begovic",
+        "nm": 66807,
+        "roles": [
+          {
+            "char": "Ana"
+          }
+        ]
+      },
+      {
+        "name": "Mile Rupcic",
+        "nm": 750413,
+        "roles": [
+          {
+            "char": "Marko"
+          }
+        ]
+      },
+      {
+        "name": "Inge Appelt",
+        "nm": 31997,
+        "roles": [
+          {
+            "char": "Budakova supruga"
+          }
+        ]
+      },
+      {
+        "name": "Boris Bakal",
+        "nm": 48129,
+        "roles": [
+          {
+            "char": "Viktor Rosenzweig, zatocenik u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Relja Basic",
+        "nm": 59823,
+        "roles": [
+          {
+            "char": "Gazda Milan"
+          }
+        ]
+      },
+      {
+        "name": "Pavle Bogdanovic",
+        "nm": 91659,
+        "roles": [
+          {
+            "char": "Mrki, clan CK"
+          }
+        ]
+      },
+      {
+        "name": "Miljenko Brlecic",
+        "nm": 67709,
+        "roles": [
+          {
+            "char": "Zuti"
+          }
+        ]
+      },
+      {
+        "name": "Boris Buzancic",
+        "nm": 125582,
+        "roles": [
+          {
+            "char": "Direktor"
+          }
+        ]
+      },
+      {
+        "name": "Slobodan Dimitrijevic",
+        "nm": 227347,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Predrag Ejdus",
+        "nm": 252222,
+        "roles": [
+          {
+            "char": "Otokar Kersovani"
+          }
+        ]
+      },
+      {
+        "name": "Boris Festini",
+        "nm": 275285,
+        "roles": [
+          {
+            "char": "Popravljac radiostanice"
+          }
+        ]
+      },
+      {
+        "name": "Igor Galo",
+        "nm": 303276,
+        "roles": [
+          {
+            "char": "Toni"
+          }
+        ]
+      },
+      {
+        "name": "Ilija Ivezic",
+        "nm": 412402,
+        "roles": [
+          {
+            "char": "Zeljeznicar"
+          }
+        ]
+      },
+      {
+        "name": "Bozo Jajcanin",
+        "nm": 1045660,
+        "roles": [
+          {
+            "char": "Sef strazara u logoru Kerestinec"
+          }
+        ]
+      },
+      {
+        "name": "Mihailo 'Misa' Janketic",
+        "nm": 417712,
+        "roles": [
+          {
+            "char": "Pukovnik Tomic",
+            "as Mihailo Janketic": true
+          }
+        ]
+      },
+      {
+        "name": "Ivica Katic",
+        "nm": 441289,
+        "roles": [
+          {
+            "char": "Ognjen Prica, zatocenik u Kerestincu",
+            "as Ivan Katic": true
+          }
+        ]
+      },
+      {
+        "name": "Ugljesa Kojadinovic",
+        "nm": 463605,
+        "roles": [
+          {
+            "char": "Divko Budak"
+          }
+        ]
+      },
+      {
+        "name": "Irena Kolesar",
+        "nm": 464027,
+        "roles": [
+          {
+            "char": "Teta Lenka"
+          }
+        ]
+      },
+      {
+        "name": "Vasja Kovacic",
+        "nm": 1081631,
+        "roles": [
+          {
+            "char": "Zeleznicar"
+          }
+        ]
+      },
+      {
+        "name": "Dusko Krizanec",
+        "nm": 2442669,
+        "roles": [
+          {
+            "char": "Bozidar Adzija, zatocenik u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Vladimir Krstulovic",
+        "nm": 472437,
+        "roles": [
+          {
+            "char": "Mikulec",
+            "as Vlado Krstulovic": true
+          }
+        ]
+      },
+      {
+        "name": "Pero Kvrgic",
+        "nm": 477018,
+        "roles": [
+          {
+            "char": "August Cesarec"
+          }
+        ]
+      },
+      {
+        "name": "Dragoljub Lazarov",
+        "nm": 493777,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marijan Lovric",
+        "nm": 522759,
+        "roles": [
+          {
+            "char": "Ivan Krndelj"
+          }
+        ]
+      },
+      {
+        "name": "Marino Matota",
+        "nm": 559263,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Mavrovic",
+        "nm": 561437,
+        "roles": [
+          {
+            "char": "Tomo"
+          }
+        ]
+      },
+      {
+        "name": "Radoslav Milenkovic",
+        "nm": 587027,
+        "roles": [
+          {
+            "char": "Ivek"
+          }
+        ]
+      },
+      {
+        "name": "Dragan Milivojevic",
+        "nm": 587524,
+        "roles": [
+          {
+            "char": "Tabornik Majsec"
+          }
+        ]
+      },
+      {
+        "name": "Sreten Mokrovic",
+        "nm": 596368,
+        "roles": [
+          {
+            "char": "Albin"
+          }
+        ]
+      },
+      {
+        "name": "Minja Nikolic",
+        "nm": 631895,
+        "roles": [
+          {
+            "char": "Zdenkina majka",
+            "as Miroslava-Minja Nikolic": true
+          }
+        ]
+      },
+      {
+        "name": "Ivica Pajer",
+        "nm": 657018,
+        "roles": [
+          {
+            "char": "Zatvorski cuvar u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Edo Perocevic",
+        "nm": 674390,
+        "roles": [
+          {
+            "char": "Konspirator"
+          }
+        ]
+      },
+      {
+        "name": "Milan Plecas",
+        "nm": 687101,
+        "roles": [
+          {
+            "char": "Albin"
+          }
+        ]
+      },
+      {
+        "name": "Tihomir Polanec",
+        "nm": 688861,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ante Rumora",
+        "nm": 1176481,
+        "roles": [
+          {
+            "char": "Rac, ustaski natporucnik"
+          }
+        ]
+      },
+      {
+        "name": "Jelisaveta Sablic",
+        "nm": 754807,
+        "roles": [
+          {
+            "char": "Seka"
+          }
+        ]
+      },
+      {
+        "name": "Dubravko Sidor",
+        "nm": 796674,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bozidar Smiljanic",
+        "nm": 806988,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Damir Saban",
+        "nm": 754494,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dani Segina",
+        "nm": 782047,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Milan Strljic",
+        "nm": 834663,
+        "roles": [
+          {
+            "char": "Laufer"
+          }
+        ]
+      },
+      {
+        "name": "Mirko Svec",
+        "nm": 840951,
+        "roles": [
+          {
+            "char": "Andrija Zaja, zatocenik u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Eduard Tudor",
+        "nm": 2441160,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kruno Valentic",
+        "nm": 884142,
+        "roles": [
+          {
+            "char": "Gospodin Mijo"
+          }
+        ]
+      },
+      {
+        "name": "Mladen Vasary",
+        "nm": 890331,
+        "roles": [
+          {
+            "char": "Bozo"
+          }
+        ]
+      },
+      {
+        "name": "Slobodan Velimirovic",
+        "nm": 892537,
+        "roles": [
+          {
+            "char": "Lugar, policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Marinko Alpezo",
+        "nm": 2439255,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ozren Anic",
+        "nm": 2439368,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Bacic",
+        "nm": 45585,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Andrea Bakovic",
+        "nm": 49217,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sasa Binder",
+        "nm": 2004132,
+        "roles": [
+          {
+            "char": "Zeljeznicar",
+            "as Aleksandar Binder": true
+          }
+        ]
+      },
+      {
+        "name": "Drazen Bojic",
+        "nm": 2442433,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stanko Bogojevic",
+        "nm": 91868,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tomislav Boric",
+        "nm": 2442164,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivan Buzancic",
+        "nm": 1095599,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dinko Cutura",
+        "nm": 1076314,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mladen Cutura",
+        "nm": 960771,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Darko Curdo",
+        "nm": 192649,
+        "roles": [
+          {
+            "char": "Ivan, zeljeznicar"
+          }
+        ]
+      },
+      {
+        "name": "Zoran Ciric",
+        "nm": 1152577,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dubravka Dezelic",
+        "nm": 1538834,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Drazen Drzanic",
+        "nm": 2435630,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Duvnjak",
+        "nm": 245217,
+        "roles": [
+          {
+            "char": "Veslac, mladi ilegalac"
+          }
+        ]
+      },
+      {
+        "name": "Eugen Franjkovic",
+        "nm": 291617,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nikola Gec",
+        "nm": 311419,
+        "roles": [
+          {
+            "char": "Policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Dusko Gruborovic",
+        "nm": 344335,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Velimir Hecimovic",
+        "nm": 2430319,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Jurisa",
+        "nm": 432936,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Karacic",
+        "nm": 2442357,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Kovacic",
+        "nm": 1152733,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Königsknecht",
+        "nm": 477930,
+        "roles": [
+          {
+            "char": "Zatocenik u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Luka Lipusinovic",
+        "nm": 2440910,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Petar Marinkovic",
+        "nm": 2442947,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mijo Mirkovic",
+        "nm": 2442537,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Antun Nalis",
+        "nm": 620548,
+        "roles": [
+          {
+            "char": "Ribic"
+          }
+        ]
+      },
+      {
+        "name": "Nikola Otrzan",
+        "nm": 652967,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Branislav Pantelic",
+        "nm": 2438046,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stjepan Pepeljnjak",
+        "nm": 2431489,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Julije Perlaki",
+        "nm": 674162,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Danilo Poprzen",
+        "nm": 1059224,
+        "roles": [
+          {
+            "char": "Policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Ante Posinkovic",
+        "nm": 2430985,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miladinka Rackov",
+        "nm": 2430505,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vidoje Rakovic",
+        "nm": 2439905,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jure Ravic",
+        "nm": 2443389,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Igor Serdar",
+        "nm": 784916,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Darko Skupnjak",
+        "nm": 2438060,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Darko Stazic",
+        "nm": 824073,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miroslav Stojanovic",
+        "nm": 1196560,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Franko Strmotic",
+        "nm": 1082448,
+        "roles": [
+          {
+            "char": "Zatvorski cuvar u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Marko Svagusa",
+        "nm": 840867,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vlado Kvrgic",
+        "nm": 2440364,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dragomir Stanojevic",
+        "nm": 822667,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Nepokoreni",
+    "tt": 1359902,
+    "air_date": "1982-03-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pero Kvrgic",
+        "nm": 477018,
+        "roles": [
+          {
+            "char": "August Cesarec"
+          }
+        ]
+      },
+      {
+        "name": "Ugljesa Kojadinovic",
+        "nm": 463605,
+        "roles": [
+          {
+            "char": "Divko Budak"
+          }
+        ]
+      },
+      {
+        "name": "Marijan Lovric",
+        "nm": 522759,
+        "roles": [
+          {
+            "char": "Ivan Krndelj"
+          }
+        ]
+      },
+      {
+        "name": "Sreten Mokrovic",
+        "nm": 596368,
+        "roles": [
+          {
+            "char": "Albin"
+          }
+        ]
+      },
+      {
+        "name": "Inge Appelt",
+        "nm": 31997,
+        "roles": [
+          {
+            "char": "Budakova supruga"
+          }
+        ]
+      },
+      {
+        "name": "Boris Bakal",
+        "nm": 48129,
+        "roles": [
+          {
+            "char": "Viktor Rosenzweig, zatocenik u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Sasa Binder",
+        "nm": 2004132,
+        "roles": [
+          {
+            "char": "Zeljeznicar-dousnik"
+          }
+        ]
+      },
+      {
+        "name": "Sabrija Biser",
+        "nm": 83942,
+        "roles": [
+          {
+            "char": "Brico"
+          }
+        ]
+      },
+      {
+        "name": "Pavle Bogdanovic",
+        "nm": 91659,
+        "roles": [
+          {
+            "char": "Mrki, clan CK"
+          }
+        ]
+      },
+      {
+        "name": "Branko Bonacci",
+        "nm": 1072622,
+        "roles": [
+          {
+            "char": "Doktor Marijan"
+          }
+        ]
+      },
+      {
+        "name": "Miljenko Brlecic",
+        "nm": 67709,
+        "roles": [
+          {
+            "char": "Zuti"
+          }
+        ]
+      },
+      {
+        "name": "Darko Curdo",
+        "nm": 192649,
+        "roles": [
+          {
+            "char": "Ivan, zeljeznicar"
+          }
+        ]
+      },
+      {
+        "name": "Slobodan Dimitrijevic",
+        "nm": 227347,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Predrag Ejdus",
+        "nm": 252222,
+        "roles": [
+          {
+            "char": "Otokar Kersovani"
+          }
+        ]
+      },
+      {
+        "name": "Igor Galo",
+        "nm": 303276,
+        "roles": [
+          {
+            "char": "Toni"
+          }
+        ]
+      },
+      {
+        "name": "Bozo Jajcanin",
+        "nm": 1045660,
+        "roles": [
+          {
+            "char": "Sef strazara u logoru Kerestinec"
+          }
+        ]
+      },
+      {
+        "name": "Mihailo 'Misa' Janketic",
+        "nm": 417712,
+        "roles": [
+          {
+            "char": "Pukovnik Tomic",
+            "as Mihailo Janketic": true
+          }
+        ]
+      },
+      {
+        "name": "Erol Kadic",
+        "nm": 434330,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivica Katic",
+        "nm": 441289,
+        "roles": [
+          {
+            "char": "Ognjen Prica, zatocenik u Kerestincu",
+            "as Ivan Katic": true
+          }
+        ]
+      },
+      {
+        "name": "Vasja Kovacic",
+        "nm": 1081631,
+        "roles": [
+          {
+            "char": "Zeleznicar"
+          }
+        ]
+      },
+      {
+        "name": "Drago Krca",
+        "nm": 470495,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dusko Krizanec",
+        "nm": 2442669,
+        "roles": [
+          {
+            "char": "Bozidar Adzija, zatocenik u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Vladimir Krstulovic",
+        "nm": 472437,
+        "roles": [
+          {
+            "char": "Mikulec"
+          }
+        ]
+      },
+      {
+        "name": "Dragoljub Lazarov",
+        "nm": 493777,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Leib",
+        "nm": 500015,
+        "roles": [
+          {
+            "char": "Gospodin Gabrek"
+          }
+        ]
+      },
+      {
+        "name": "Franjo Majetic",
+        "nm": 538097,
+        "roles": [
+          {
+            "char": "Ravnikar, ustaski bojnik"
+          }
+        ]
+      },
+      {
+        "name": "Iva Marjanovic",
+        "nm": 548194,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marino Matota",
+        "nm": 559263,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Radoslav Milenkovic",
+        "nm": 587027,
+        "roles": [
+          {
+            "char": "Ivek"
+          }
+        ]
+      },
+      {
+        "name": "Dragan Milivojevic",
+        "nm": 587524,
+        "roles": [
+          {
+            "char": "Tabornik Majsec"
+          }
+        ]
+      },
+      {
+        "name": "Mustafa Nadarevic",
+        "nm": 618768,
+        "roles": [
+          {
+            "char": "Brko Serdar"
+          }
+        ]
+      },
+      {
+        "name": "Vjera Zagar-Nardelli",
+        "nm": 951822,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivica Pajer",
+        "nm": 657018,
+        "roles": [
+          {
+            "char": "Zatvorski cuvar u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Julije Perlaki",
+        "nm": 674162,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Milan Plecas",
+        "nm": 687101,
+        "roles": [
+          {
+            "char": "Albin"
+          }
+        ]
+      },
+      {
+        "name": "Ante Rumora",
+        "nm": 1176481,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mile Rupcic",
+        "nm": 750413,
+        "roles": [
+          {
+            "char": "Marko"
+          }
+        ]
+      },
+      {
+        "name": "Bozidar Smiljanic",
+        "nm": 806988,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Milan Strljic",
+        "nm": 834663,
+        "roles": [
+          {
+            "char": "Laufer"
+          }
+        ]
+      },
+      {
+        "name": "Mirko Svec",
+        "nm": 840951,
+        "roles": [
+          {
+            "char": "Andrija Zaja, zatocenik u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Eduard Tudor",
+        "nm": 2441160,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Djuro Utjesanovic",
+        "nm": 882528,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Kruno Valentic",
+        "nm": 884142,
+        "roles": [
+          {
+            "char": "Gospodin Mijo"
+          }
+        ]
+      },
+      {
+        "name": "Mladen Vasary",
+        "nm": 890331,
+        "roles": [
+          {
+            "char": "Bozo"
+          }
+        ]
+      },
+      {
+        "name": "Slobodan Velimirovic",
+        "nm": 892537,
+        "roles": [
+          {
+            "char": "Lugar, policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Zvonimir Zoricic",
+        "nm": 957925,
+        "roles": [
+          {
+            "char": "Zeljeznicar provokator"
+          }
+        ]
+      },
+      {
+        "name": "Marinko Alpeza",
+        "nm": 2435094,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ozren Anic",
+        "nm": 2439368,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Andrea Bakovic",
+        "nm": 49217,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Petar Bakovic",
+        "nm": 4748731,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Franjo Benkovic",
+        "nm": 2485564,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stanko Bogojevic",
+        "nm": 91868,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tomislav Boric",
+        "nm": 2442164,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivan Buzancic",
+        "nm": 1095599,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zoran Ciric",
+        "nm": 1152577,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dinko Cutura",
+        "nm": 1076314,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mladen Cutura",
+        "nm": 960771,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Drazen Drzanic",
+        "nm": 2435630,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Duvnjak",
+        "nm": 245217,
+        "roles": [
+          {
+            "char": "Veslac, mladi ilegalac"
+          }
+        ]
+      },
+      {
+        "name": "Zvonimir Ferencic",
+        "nm": 272291,
+        "roles": [
+          {
+            "char": "Seljak"
+          }
+        ]
+      },
+      {
+        "name": "Ljudevit Galic",
+        "nm": 302089,
+        "roles": [
+          {
+            "char": "Lugar"
+          }
+        ]
+      },
+      {
+        "name": "Nikola Gec",
+        "nm": 311419,
+        "roles": [
+          {
+            "char": "Policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Dusko Gruborovic",
+        "nm": 344335,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Velimir Hecimovic",
+        "nm": 2430319,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ilija Ivezic",
+        "nm": 412402,
+        "roles": [
+          {
+            "char": "Zeljeznicar"
+          }
+        ]
+      },
+      {
+        "name": "Vladimir Jagaric",
+        "nm": 1149278,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Karacic",
+        "nm": 2442357,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jana Kasper",
+        "nm": 1178686,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Königsknecht",
+        "nm": 477930,
+        "roles": [
+          {
+            "char": "Zatocenik u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Joakim Matkovic",
+        "nm": 2022656,
+        "roles": [
+          {
+            "char": "Vozac kamiona"
+          }
+        ]
+      },
+      {
+        "name": "Vladimir Oblescuk",
+        "nm": 643408,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nikola Otrzan",
+        "nm": 652967,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Branislav Pantelic",
+        "nm": 2438046,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stjepan Pepeljnjak",
+        "nm": 2431489,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gordan Piculjan",
+        "nm": 682045,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Nikolaj Popovic",
+        "nm": 2090556,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Danilo Poprzen",
+        "nm": 1059224,
+        "roles": [
+          {
+            "char": "Policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Ante Posinkovic",
+        "nm": 2430985,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miladinka Rackov",
+        "nm": 2430505,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Damir Saban",
+        "nm": 754494,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Sajh",
+        "nm": 4748728,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Igor Serdar",
+        "nm": 784916,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Darko Skupnjak",
+        "nm": 2438060,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Darko Stazic",
+        "nm": 824073,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Miroslav Stojanovic",
+        "nm": 1196560,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Franko Strmotic",
+        "nm": 1082448,
+        "roles": [
+          {
+            "char": "Zatvorski cuvar u Kerestincu"
+          }
+        ]
+      },
+      {
+        "name": "Damir Sumic",
+        "nm": 1160462,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marko Svagusa",
+        "nm": 840867,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Uzarevic",
+        "nm": 2431020,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dominik Zen",
+        "nm": 954804,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Zvonko Zungul",
+        "nm": 958674,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rudolf Zupcic",
+        "nm": 2487710,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "72 - 96",
+    "tt": 1647209,
+    "air_date": "1982-03-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bozidar Alic",
+        "nm": 19562,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Djordje Rapajic",
+        "nm": 710654,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mirjana Majurec",
+        "nm": 538311,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bozidar Oreskovic",
+        "nm": 649730,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rade Serbedzija",
+        "nm": 784884,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Boris Festini",
+        "nm": 275285,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tomislav Gotovac",
+        "nm": 331849,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vinko Kraljevic",
+        "nm": 469405,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mustafa Nadarevic",
+        "nm": 618768,
+        "roles": [
+          {
+            "char": "Brko Serdar"
+          }
+        ]
+      },
+      {
+        "name": "Zoran Pokupec",
+        "nm": 688733,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Martin Sagner",
+        "nm": 756199,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zarko Savic",
+        "nm": 767632,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kresimir Zidaric",
+        "nm": 956006,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Drago Bahun",
+        "nm": 46989,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivan Bibalo",
+        "nm": 80822,
+        "roles": [
+          {
+            "char": "Ustaski djelatnik u bijelom odjelu"
+          }
+        ]
+      },
+      {
+        "name": "Toso Jelic",
+        "nm": 420535,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Antun Kujavec",
+        "nm": 1118696,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tanja Mazele",
+        "nm": 3901257,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tihomir Penavic",
+        "nm": 2456081,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gordan Piculjan",
+        "nm": 682045,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ranko Stojic",
+        "nm": 2164049,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Doris Saric-Kukuljica",
+        "nm": 765198,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ilija Zovko",
+        "nm": 958093,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Petar Buntic",
+        "nm": 120567,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marijan Habazin",
+        "nm": 352122,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Kristof",
+        "nm": 471683,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stjepan Spoljaric",
+        "nm": 819350,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Domagoj Vukusic",
+        "nm": 904394,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Dugi bijeg",
+    "tt": 891401,
+    "air_date": "1982-03-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ilija Dzuvalekovski",
+        "nm": 246251,
+        "roles": [
+          {
+            "char": "Dr Ivan Ribar"
+          }
+        ]
+      },
+      {
+        "name": "Faruk Begolli",
+        "nm": 66800,
+        "roles": [
+          {
+            "char": "Ivo Lola Ribar",
+            "as Faruk Begoli": true
+          }
+        ]
+      },
+      {
+        "name": "Slavko Brankov",
+        "nm": 105121,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Emil Glad",
+        "nm": 321569,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Slavica Jukic",
+        "nm": 432140,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ljubo Kapor",
+        "nm": 438512,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marija Kohn",
+        "nm": 463396,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Josip Marotti",
+        "nm": 549605,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dragan Milivojevic",
+        "nm": 587524,
+        "roles": [
+          {
+            "char": "Tabornik Majsec"
+          }
+        ]
+      },
+      {
+        "name": "Drago Mitrovic",
+        "nm": 594008,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mustafa Nadarevic",
+        "nm": 618768,
+        "roles": [
+          {
+            "char": "Brko Serdar"
+          }
+        ]
+      },
+      {
+        "name": "Lojze Rozman",
+        "nm": 747635,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Bacic",
+        "nm": 45585,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stjepan Bahert",
+        "nm": 46880,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mirela Brekalo",
+        "nm": 107019,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Franjo Benkovic",
+        "nm": 2485564,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rajko Bundalo",
+        "nm": 120373,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nada Gacesic",
+        "nm": 300443,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rudolf Gerovac",
+        "nm": 2489923,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dusko Gojic",
+        "nm": 1118211,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zijad Gracic",
+        "nm": 333480,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Haberstok",
+        "nm": 2485568,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Igor Hajdarhodzic",
+        "nm": 1085536,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Slavko Juraga",
+        "nm": 432838,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vjenceslav Kapural",
+        "nm": 438634,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Igor Kovacic",
+        "nm": 2485773,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Kristof",
+        "nm": 471683,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tone Kuntner",
+        "nm": 475276,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Natasa Maricic",
+        "nm": 547196,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Joakim Matkovic",
+        "nm": 2022656,
+        "roles": [
+          {
+            "char": "Kondukter"
+          }
+        ]
+      },
+      {
+        "name": "Boris Miholjevic",
+        "nm": 586253,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tomislav Milanovski",
+        "nm": 586884,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Antun Nalis",
+        "nm": 620548,
+        "roles": [
+          {
+            "char": "Ribic"
+          }
+        ]
+      },
+      {
+        "name": "Andrej Nahtigal",
+        "nm": 619611,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Oblescuk",
+        "nm": 643408,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Branislav Petrovic",
+        "nm": 678254,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gordan Piculjan",
+        "nm": 682045,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Tihomir Polanec",
+        "nm": 688861,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Puhalo",
+        "nm": 700142,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ursa Raukar",
+        "nm": 1066381,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marko Simcic",
+        "nm": 799395,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jovan Stefanovic",
+        "nm": 825043,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nevenka Sain",
+        "nm": 1100339,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Joza Seb",
+        "nm": 780895,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miro Segrt",
+        "nm": 782113,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Radoslav Spitzmuller",
+        "nm": 818496,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zdenka Trach",
+        "nm": 870457,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Andrija Tunjic",
+        "nm": 876653,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Adam Vedernjak",
+        "nm": 891664,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Branimir Vidic",
+        "nm": 896489,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Greta Vinkovic",
+        "nm": 899014,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rudolf Zupcic",
+        "nm": 2487710,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nina Bell",
+        "nm": 1168177,
+        "roles": [
+          {
+            "char": "Ivo Lola Ribar's daughter",
+            "as Nina Turkalj": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Udarne grupe",
+    "tt": 1529490,
+    "air_date": "1982-03-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Milan Strljic",
+        "nm": 834663,
+        "roles": [
+          {
+            "char": "Laufer"
+          }
+        ]
+      },
+      {
+        "name": "Mile Rupcic",
+        "nm": 750413,
+        "roles": [
+          {
+            "char": "Marko"
+          }
+        ]
+      },
+      {
+        "name": "Mladen Vasary",
+        "nm": 890331,
+        "roles": [
+          {
+            "char": "Bozo",
+            "as Mladen Vasari": true
+          }
+        ]
+      },
+      {
+        "name": "Alexander Cvetkovic",
+        "nm": 194130,
+        "roles": [
+          {
+            "char": "Davor",
+            "as Aleksandar Cvjetkovic": true
+          }
+        ]
+      },
+      {
+        "name": "Pavle Bogdanovic",
+        "nm": 91659,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ljerka Prekratic",
+        "nm": 97217,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miljenko Brlecic",
+        "nm": 67709,
+        "roles": [
+          {
+            "char": "Zuti"
+          }
+        ]
+      },
+      {
+        "name": "Raniero Brumini",
+        "nm": 1184532,
+        "roles": [
+          {
+            "char": "Talijan"
+          }
+        ]
+      },
+      {
+        "name": "Jurica Dijakovic",
+        "nm": 226620,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mate Ergovic",
+        "nm": 258894,
+        "roles": [
+          {
+            "char": "Nadzornik Tucan"
+          }
+        ]
+      },
+      {
+        "name": "Mira Furlan",
+        "nm": 1245,
+        "roles": [
+          {
+            "char": "Zdenka"
+          }
+        ]
+      },
+      {
+        "name": "Ilija Ivezic",
+        "nm": 412402,
+        "roles": [
+          {
+            "char": "Zeljeznicar"
+          }
+        ]
+      },
+      {
+        "name": "Mihailo 'Misa' Janketic",
+        "nm": 417712,
+        "roles": [
+          {
+            "char": "Pukovnik Tomic",
+            "as Mihailo Janketic": true
+          }
+        ]
+      },
+      {
+        "name": "Marino Matota",
+        "nm": 559263,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mustafa Nadarevic",
+        "nm": 618768,
+        "roles": [
+          {
+            "char": "Brko Serdar"
+          }
+        ]
+      },
+      {
+        "name": "Vladimir Oblescuk",
+        "nm": 643408,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Rogulja",
+        "nm": 1115088,
+        "roles": [
+          {
+            "char": "Sef u tvornici akumulatora"
+          }
+        ]
+      },
+      {
+        "name": "Ante Rumora",
+        "nm": 1176481,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jelisaveta Sablic",
+        "nm": 754807,
+        "roles": [
+          {
+            "char": "Seka"
+          }
+        ]
+      },
+      {
+        "name": "Darko Srica",
+        "nm": 820227,
+        "roles": [
+          {
+            "char": "Franc, konobar cinker"
+          }
+        ]
+      },
+      {
+        "name": "Borivoj Sembera",
+        "nm": 783734,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Branko Spoljar",
+        "nm": 819349,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marija Aleksic",
+        "nm": 17986,
+        "roles": [
+          {
+            "char": "Cvjecarka"
+          }
+        ]
+      },
+      {
+        "name": "Marinko Alpezo",
+        "nm": 2439255,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Andrea Bakovic",
+        "nm": 49217,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Aleksandar Basevic",
+        "nm": 3653809,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dorijan Bauman",
+        "nm": 1158383,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lenko Blazevic",
+        "nm": 2296940,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Marko Bralic",
+        "nm": 1060290,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Rikard Brzeska",
+        "nm": 108346,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Petar Buntic",
+        "nm": 120567,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ankica Dobric",
+        "nm": 229766,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Duvnjak",
+        "nm": 245217,
+        "roles": [
+          {
+            "char": "Veslac, mladi ilegalac"
+          }
+        ]
+      },
+      {
+        "name": "Jadranka Dzumrukcic",
+        "nm": 2429548,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bozidar Feldman",
+        "nm": 3648735,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sanda Fiderseg",
+        "nm": 1172065,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ranko Ganic",
+        "nm": 304383,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nikola Gec",
+        "nm": 311419,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivona Grunbaum",
+        "nm": 2510530,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mato Jelic",
+        "nm": 420532,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Jurisa",
+        "nm": 432936,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mirko Kovacevic",
+        "nm": 3648463,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dusanka Kozlina",
+        "nm": 3652930,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Kristof",
+        "nm": 471683,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Antun Kujavec",
+        "nm": 1118696,
+        "roles": [
+          {
+            "char": "Apotekar"
+          }
+        ]
+      },
+      {
+        "name": "Mijo Mirkovic",
+        "nm": 2442537,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Danilo Poprzen",
+        "nm": 1059224,
+        "roles": [
+          {
+            "char": "Policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Ante Posinkovic",
+        "nm": 2430985,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zelimir Sablic",
+        "nm": 1160222,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Darko Skupnjak",
+        "nm": 2438060,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Franjo Simek",
+        "nm": 799423,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stjepan Spoljaric",
+        "nm": 819350,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Taraana Raja",
+        "nm": 2351977,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Adela Vedernjak",
+        "nm": 3654620,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mia Vojnic",
+        "nm": 3653857,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dominik Zen",
+        "nm": 954804,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Camac na Kupi",
+    "tt": 930315,
+    "air_date": "1982-04-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Izet Hajdarhodzic",
+        "nm": 354436,
+        "roles": [
+          {
+            "char": "Vladimir Nazor"
+          }
+        ]
+      },
+      {
+        "name": "Enes Kisevic",
+        "nm": 457171,
+        "roles": [
+          {
+            "char": "Ivan Goran Kovacic"
+          }
+        ]
+      },
+      {
+        "name": "Etta Bortolazzi",
+        "nm": 97559,
+        "roles": [
+          {
+            "char": "Nazorova sestra"
+          }
+        ]
+      },
+      {
+        "name": "Vanja Drach",
+        "nm": 236620,
+        "roles": [
+          {
+            "char": "Kipar"
+          }
+        ]
+      },
+      {
+        "name": "Sven Lasta",
+        "nm": 489913,
+        "roles": [
+          {
+            "char": "Doktor"
+          }
+        ]
+      },
+      {
+        "name": "Edo Perocevic",
+        "nm": 674390,
+        "roles": [
+          {
+            "char": "Konspirator"
+          }
+        ]
+      },
+      {
+        "name": "Antun Vrbenski",
+        "nm": 904027,
+        "roles": [
+          {
+            "char": "Inzinir"
+          }
+        ]
+      },
+      {
+        "name": "Milka Podrug-Kokotovic",
+        "nm": 688072,
+        "roles": [
+          {
+            "char": "Goranova majka"
+          }
+        ]
+      },
+      {
+        "name": "Martin Bahmec",
+        "nm": 1064685,
+        "roles": [
+          {
+            "char": "Slikar"
+          }
+        ]
+      },
+      {
+        "name": "Zdenko Botic",
+        "nm": 98547,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Eduard Cerny",
+        "nm": 2602494,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Eugen Franjkovic",
+        "nm": 291617,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Ljudevit Galic",
+        "nm": 302089,
+        "roles": [
+          {
+            "char": "Popravljac instrumenata"
+          }
+        ]
+      },
+      {
+        "name": "Dusko Gruborovic",
+        "nm": 344335,
+        "roles": [
+          {
+            "char": "Kurir",
+            "as Dusan Gruborovic": true
+          }
+        ]
+      },
+      {
+        "name": "Zvonimir Juric",
+        "nm": 432934,
+        "roles": [
+          {
+            "char": "Konobar"
+          }
+        ]
+      },
+      {
+        "name": "Bogumil Kleva",
+        "nm": 2600261,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Fahro Konjhodzic",
+        "nm": 465173,
+        "roles": [
+          {
+            "char": "Prosjak"
+          }
+        ]
+      },
+      {
+        "name": "Branko Kubik",
+        "nm": 1172532,
+        "roles": [
+          {
+            "char": "Dr. Ferenkovic, ustaski casnik"
+          }
+        ]
+      },
+      {
+        "name": "Dragan Milivojevic",
+        "nm": 587524,
+        "roles": [
+          {
+            "char": "Tabornik Majsec"
+          }
+        ]
+      },
+      {
+        "name": "Gordan Piculjan",
+        "nm": 682045,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Joza Seb",
+        "nm": 780895,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miro Segrt",
+        "nm": 782113,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nenad Segvic",
+        "nm": 1177229,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Radoslav Spitzmuller",
+        "nm": 818496,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zlatko Stefanac",
+        "nm": 2603493,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tom Stojkovic",
+        "nm": 831268,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Antun Tudic",
+        "nm": 876096,
+        "roles": [
+          {
+            "char": "Nosac kofera"
+          }
+        ]
+      },
+      {
+        "name": "Dragomir Stanojevic",
+        "nm": 822667,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Covjek u sjeni",
+    "tt": 658755,
+    "air_date": "1982-04-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ivo Gregurevic",
+        "nm": 340005,
+        "roles": [
+          {
+            "char": "Profesor Hrastinski"
+          }
+        ]
+      },
+      {
+        "name": "Vera Zima",
+        "nm": 956529,
+        "roles": [
+          {
+            "char": "Nada, profesorova supruga"
+          }
+        ]
+      },
+      {
+        "name": "Zdenka Anusic",
+        "nm": 31675,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zdenko Jelcic",
+        "nm": 420507,
+        "roles": [
+          {
+            "char": "Ilegalac"
+          }
+        ]
+      },
+      {
+        "name": "Ljubo Kapor",
+        "nm": 438512,
+        "roles": [
+          {
+            "char": "Mucan, policajac"
+          }
+        ]
+      },
+      {
+        "name": "Dragutin Klobucar",
+        "nm": 459916,
+        "roles": [
+          {
+            "char": "Ilegalac Orjen"
+          },
+          {
+            "char": "Tomo Pilic"
+          }
+        ]
+      },
+      {
+        "name": "Bozena Kraljeva",
+        "nm": 1058734,
+        "roles": [
+          {
+            "char": "Susjeda koja slusa radio London"
+          }
+        ]
+      },
+      {
+        "name": "Otokar Levaj",
+        "nm": 505128,
+        "roles": [
+          {
+            "char": "Profesor Luka Ivic"
+          }
+        ]
+      },
+      {
+        "name": "Tomislav Lipljin",
+        "nm": 1058840,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Franjo Majetic",
+        "nm": 538097,
+        "roles": [
+          {
+            "char": "Ravnikar, ustaski bojnik"
+          }
+        ]
+      },
+      {
+        "name": "Mustafa Nadarevic",
+        "nm": 618768,
+        "roles": [
+          {
+            "char": "Brko Serdar"
+          }
+        ]
+      },
+      {
+        "name": "Niko Pavlovic",
+        "nm": 667855,
+        "roles": [
+          {
+            "char": "Profesor u gimnaziji"
+          }
+        ]
+      },
+      {
+        "name": "Slavko Sestak",
+        "nm": 1228872,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Anja Sovagovic-Despot",
+        "nm": 816298,
+        "roles": [
+          {
+            "char": "Ilegalka iz tiskare"
+          }
+        ]
+      },
+      {
+        "name": "Ivan Tomljenovic",
+        "nm": 866884,
+        "roles": [
+          {
+            "char": "Direktor gimnazije",
+            "as Ico Tomljenovic": true
+          }
+        ]
+      },
+      {
+        "name": "Zvonimir Torjanac",
+        "nm": 868069,
+        "roles": [
+          {
+            "char": "Profesor u gimnaziji"
+          }
+        ]
+      },
+      {
+        "name": "Zlatko Vitez",
+        "nm": 900007,
+        "roles": [
+          {
+            "char": "Ivan, ilegalac"
+          }
+        ]
+      },
+      {
+        "name": "Petar Buntic",
+        "nm": 120567,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zlatko Dragicevic",
+        "nm": 4740511,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Duvnjak",
+        "nm": 245217,
+        "roles": [
+          {
+            "char": "Srednjoskolac",
+            "Veslac": true
+          }
+        ]
+      },
+      {
+        "name": "Emil Glad",
+        "nm": 321569,
+        "roles": [
+          {
+            "char": "Domobranski casnik u kavani"
+          }
+        ]
+      },
+      {
+        "name": "Zeljko Haberstok",
+        "nm": 2485568,
+        "roles": [
+          {
+            "char": "Cinovnik u uredu"
+          }
+        ]
+      },
+      {
+        "name": "Sanda Hrzic",
+        "nm": 4740174,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Jagaric",
+        "nm": 1149278,
+        "roles": [
+          {
+            "char": "Prodavac novina u kavani"
+          }
+        ]
+      },
+      {
+        "name": "Franjo Jurcec",
+        "nm": 432877,
+        "roles": [
+          {
+            "char": "Policijski ekspert za krivotvorine"
+          }
+        ]
+      },
+      {
+        "name": "Srecko Jurdana",
+        "nm": 432890,
+        "roles": [
+          {
+            "char": "Ustasa iz tiskare"
+          }
+        ]
+      },
+      {
+        "name": "Ivo Kristof",
+        "nm": 471683,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivan Lovricek",
+        "nm": 522762,
+        "roles": [
+          {
+            "char": "Slagar u tiskari"
+          }
+        ]
+      },
+      {
+        "name": "Boris Lucic",
+        "nm": 1169198,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jadranka Matkovic",
+        "nm": 559127,
+        "roles": [
+          {
+            "char": "Ilegalka iz tiskare"
+          }
+        ]
+      },
+      {
+        "name": "Branislav Petrovic",
+        "nm": 678254,
+        "roles": [
+          {
+            "char": "Domobranski casnik koji pusi cigaru",
+            "as Bane Petrovic": true
+          }
+        ]
+      },
+      {
+        "name": "Tihomir Polanec",
+        "nm": 688861,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zarko Potocnjak",
+        "nm": 693156,
+        "roles": [
+          {
+            "char": "Covjek koji trazi propusnice"
+          }
+        ]
+      },
+      {
+        "name": "Zarko Savic",
+        "nm": 767632,
+        "roles": [
+          {
+            "char": "Policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Ranko Stojic",
+        "nm": 2164049,
+        "roles": [
+          {
+            "char": "Ustaski agent u bijelom mantilu"
+          }
+        ]
+      },
+      {
+        "name": "Mario Tenjer",
+        "nm": 4739029,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Domagoj Vukusic",
+        "nm": 904394,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Zec",
+        "nm": 4739924,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Crna kozna torba",
+    "tt": 1249335,
+    "air_date": "1982-04-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Milan Strljic",
+        "nm": 834663,
+        "roles": [
+          {
+            "char": "Laufer"
+          }
+        ]
+      },
+      {
+        "name": "Zvonko Lepetic",
+        "nm": 503275,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miljenko Brlecic",
+        "nm": 67709,
+        "roles": [
+          {
+            "char": "Zuti"
+          }
+        ]
+      },
+      {
+        "name": "Mihailo 'Misa' Janketic",
+        "nm": 417712,
+        "roles": [
+          {
+            "char": "Pukovnik Tomic",
+            "as Mihailo Janketic": true
+          }
+        ]
+      },
+      {
+        "name": "Lana Golob",
+        "nm": 326598,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mustafa Nadarevic",
+        "nm": 618768,
+        "roles": [
+          {
+            "char": "Brko Serdar"
+          }
+        ]
+      },
+      {
+        "name": "Antun Nalis",
+        "nm": 620548,
+        "roles": [
+          {
+            "char": "Ribic"
+          }
+        ]
+      },
+      {
+        "name": "Jelisaveta Sablic",
+        "nm": 754807,
+        "roles": [
+          {
+            "char": "Seka"
+          }
+        ]
+      },
+      {
+        "name": "Darko Stazic",
+        "nm": 824073,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Nada Subotic",
+        "nm": 836982,
+        "roles": [
+          {
+            "char": "Supruga domobranskog pukovnika"
+          }
+        ]
+      },
+      {
+        "name": "Djuro Utjesanovic",
+        "nm": 882528,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Ljubo Zecevic",
+        "nm": 954102,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Matko Brljevic",
+        "nm": 3654522,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miroslav Buhin",
+        "nm": 119556,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Petar Buntic",
+        "nm": 120567,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nikola Car",
+        "nm": 135802,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Velimir Chytil",
+        "nm": 161612,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rade Curic",
+        "nm": 3654223,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Goran Basic",
+        "nm": 1101406,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nikola Gec",
+        "nm": 311419,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marijan Habazin",
+        "nm": 352122,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sime Jagarinac",
+        "nm": 415547,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stijepka Kavuric",
+        "nm": 1081577,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Kristof",
+        "nm": 471683,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dragutin Lesnik",
+        "nm": 1159561,
+        "roles": [
+          {
+            "char": "Ustasa u potjeri za Lauferom"
+          }
+        ]
+      },
+      {
+        "name": "Marino Matota",
+        "nm": 559263,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Medic",
+        "nm": 3653080,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lena Politeo",
+        "nm": 689212,
+        "roles": [
+          {
+            "char": "Gospodja u krznenoj bundi"
+          }
+        ]
+      },
+      {
+        "name": "Danilo Poprzen",
+        "nm": 1059224,
+        "roles": [
+          {
+            "char": "Policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Ivo Prnjak",
+        "nm": 3654709,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vlado Simac",
+        "nm": 1429496,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stjepan Spoljaric",
+        "nm": 819350,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mirko Svec",
+        "nm": 840951,
+        "roles": [
+          {
+            "char": "Ustasa, kontrolor isprava u vlaku"
+          }
+        ]
+      },
+      {
+        "name": "Josip Vidovic",
+        "nm": 3648370,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Domagoj Vukusic",
+        "nm": 904394,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dragomir Stanojevic",
+        "nm": 822667,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Glumac",
+    "tt": 998780,
+    "air_date": "1982-04-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Spiro Guberina",
+        "nm": 345544,
+        "roles": [
+          {
+            "char": "August Cilic"
+          }
+        ]
+      },
+      {
+        "name": "Boris Buzancic",
+        "nm": 125582,
+        "roles": [
+          {
+            "char": "Direktor"
+          }
+        ]
+      },
+      {
+        "name": "Ivka Dabetic",
+        "nm": 1154970,
+        "roles": [
+          {
+            "char": "Kamelija",
+            "Ciliceva supruga": true
+          }
+        ]
+      },
+      {
+        "name": "Melanija Dugandzic",
+        "nm": 1435228,
+        "roles": [
+          {
+            "char": "Nevenka"
+          }
+        ]
+      },
+      {
+        "name": "Milan Erak",
+        "nm": 258577,
+        "roles": [
+          {
+            "char": "Kambera, istrazitelj"
+          }
+        ]
+      },
+      {
+        "name": "Rikard Simonelli",
+        "nm": 800553,
+        "roles": [
+          {
+            "char": "Puksec, ustaski logornik"
+          }
+        ]
+      },
+      {
+        "name": "Matko Raguz",
+        "nm": 706655,
+        "roles": [
+          {
+            "char": "Ilegalac"
+          }
+        ]
+      },
+      {
+        "name": "Ivo Serdar",
+        "nm": 784917,
+        "roles": [
+          {
+            "char": "Vitek"
+          }
+        ]
+      },
+      {
+        "name": "Lela Margitic",
+        "nm": 546651,
+        "roles": [
+          {
+            "char": "Gdja Vitek"
+          }
+        ]
+      },
+      {
+        "name": "Biserka Alibegovic",
+        "nm": 19547,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Demeter Bitenc",
+        "nm": 84459,
+        "roles": [
+          {
+            "char": "Klesar"
+          }
+        ]
+      },
+      {
+        "name": "Mario Bogliuni",
+        "nm": 4924439,
+        "roles": [
+          {
+            "char": "Svirac pianina"
+          }
+        ]
+      },
+      {
+        "name": "Davor Borcic",
+        "nm": 1101464,
+        "roles": [
+          {
+            "char": "Ustaski bojnik"
+          }
+        ]
+      },
+      {
+        "name": "Rikard Brzeska",
+        "nm": 108346,
+        "roles": [
+          {
+            "char": "Zeljeznicar"
+          }
+        ]
+      },
+      {
+        "name": "Amir Bukvic",
+        "nm": 2949354,
+        "roles": [
+          {
+            "char": "Hamlet - kazalisni glumac"
+          }
+        ]
+      },
+      {
+        "name": "Petar Buntic",
+        "nm": 120567,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sasa Dabetic",
+        "nm": 196398,
+        "roles": [
+          {
+            "char": "Crvenokosa dama iz salona",
+            "as Aleksandra Dabetic": true
+          }
+        ]
+      },
+      {
+        "name": "Jurica Dijakovic",
+        "nm": 226620,
+        "roles": [
+          {
+            "char": "Stranka ispred Vitekovog ureda"
+          }
+        ]
+      },
+      {
+        "name": "Drago Diklic",
+        "nm": 226700,
+        "roles": [
+          {
+            "char": "Pjevac sansone"
+          }
+        ]
+      },
+      {
+        "name": "Ante Dulcic",
+        "nm": 241305,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Grubisic",
+        "nm": 4925385,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Igor Hajdarhodzic",
+        "nm": 1085536,
+        "roles": [
+          {
+            "char": "Ilegalac",
+            "igrac ajnca": true
+          }
+        ]
+      },
+      {
+        "name": "Slavko Juraga",
+        "nm": 432838,
+        "roles": [
+          {
+            "char": "Policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Ivo Jurisa",
+        "nm": 432936,
+        "roles": [
+          {
+            "char": "Ustaski casnik na prijemu"
+          }
+        ]
+      },
+      {
+        "name": "Ljubo Kapor",
+        "nm": 438512,
+        "roles": [
+          {
+            "char": "Policijski agent",
+            "as Ljubomir Kapor": true
+          }
+        ]
+      },
+      {
+        "name": "Vladimir Krstulovic",
+        "nm": 472437,
+        "roles": [
+          {
+            "char": "Stranka ispred Vitekovog ureda"
+          }
+        ]
+      },
+      {
+        "name": "Vladimir Leib",
+        "nm": 500015,
+        "roles": [
+          {
+            "char": "Saptac u kazalistu"
+          }
+        ]
+      },
+      {
+        "name": "Angel Palasev",
+        "nm": 657382,
+        "roles": [
+          {
+            "char": "Ilegalac",
+            "cistac cipela": true
+          }
+        ]
+      },
+      {
+        "name": "Julije Perlaki",
+        "nm": 674162,
+        "roles": [
+          {
+            "char": "Seljak ispred Vitekovog ureda"
+          }
+        ]
+      },
+      {
+        "name": "Ante Rumora",
+        "nm": 1176481,
+        "roles": [
+          {
+            "char": "Glumac u partizanima"
+          }
+        ]
+      },
+      {
+        "name": "Zarko Savic",
+        "nm": 767632,
+        "roles": [
+          {
+            "char": "Policijski agent"
+          }
+        ]
+      },
+      {
+        "name": "Mladen Serment",
+        "nm": 785252,
+        "roles": [
+          {
+            "char": "Glumac u kabaretu"
+          }
+        ]
+      },
+      {
+        "name": "Sime Stamac",
+        "nm": 3453571,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Branka Strmac",
+        "nm": 834664,
+        "roles": [
+          {
+            "char": "Gdja ispred Vitekovog ureda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Smrt sekretara",
+    "tt": 1537098,
+    "air_date": "1982-05-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Zarko Potocnjak",
+        "nm": 693156,
+        "roles": [
+          {
+            "char": "Sekretar mjesnog komiteta"
+          }
+        ]
+      },
+      {
+        "name": "Krunoslav Saric",
+        "nm": 765193,
+        "roles": [
+          {
+            "char": "Sekretar rajonskog komiteta",
+            "as Kruno Saric": true
+          }
+        ]
+      },
+      {
+        "name": "Bogdan Diklic",
+        "nm": 226699,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bogumil Kleva",
+        "nm": 2600261,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Miralem Zupcevic",
+        "nm": 958237,
+        "roles": [
+          {
+            "char": "Mato"
+          }
+        ]
+      },
+      {
+        "name": "Franjo Majetic",
+        "nm": 538097,
+        "roles": [
+          {
+            "char": "Ravnikar, ustaski bojnik"
+          }
+        ]
+      },
+      {
+        "name": "Boris Pavlenic",
+        "nm": 667693,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jelena Gruic",
+        "nm": 344443,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Andrej Kljakovic",
+        "nm": 3670839,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Renata Jurkovic",
+        "nm": 1242930,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jagoda Antunac",
+        "nm": 1231381,
+        "roles": [
+          {
+            "char": "Matova zena"
+          }
+        ]
+      },
+      {
+        "name": "Vlajko Sparavalo",
+        "nm": 816915,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mato Jelic",
+        "nm": 420532,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Kadic",
+        "nm": 434331,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stjepan Bahert",
+        "nm": 46880,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Igor Hajdarhodzic",
+        "nm": 1085536,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Milan Plecas",
+        "nm": 687101,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Pavle Bogdanovic",
+        "nm": 91659,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Aleksandar Grunbaum",
+        "nm": 344494,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miro Segrt",
+        "nm": 782113,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Angel Palasev",
+        "nm": 657382,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Smiljka Bencet",
+        "nm": 70332,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zvonimir Juric",
+        "nm": 432934,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gordan Piculjan",
+        "nm": 682045,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Branislav Petrovic",
+        "nm": 678254,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Drago Bahun",
+        "nm": 46989,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zdenka Trach",
+        "nm": 870457,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Boris Przulj",
+        "nm": 2623133,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zlatko Martincevic",
+        "nm": 1098499,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Branimir Vidic",
+        "nm": 896489,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marijan Habazin",
+        "nm": 352122,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Kristof",
+        "nm": 471683,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Domagoj Vukusic",
+        "nm": 904394,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dragomir Stanojevic",
+        "nm": 822667,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Cetvorka",
+    "tt": 899120,
+    "air_date": "1982-05-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jelisaveta Sablic",
+        "nm": 754807,
+        "roles": [
+          {
+            "char": "Seka"
+          }
+        ]
+      },
+      {
+        "name": "Miodrag Krivokapic",
+        "nm": 471771,
+        "roles": [
+          {
+            "char": "Golman"
+          }
+        ]
+      },
+      {
+        "name": "Ilija Ivezic",
+        "nm": 412402,
+        "roles": [
+          {
+            "char": "Zeljeznicar"
+          }
+        ]
+      },
+      {
+        "name": "Josip Genda",
+        "nm": 312657,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Aleksandar Grunbaum",
+        "nm": 344494,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Boris Buzancic",
+        "nm": 125582,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dragan Despot",
+        "nm": 221620,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vlatko Dulic",
+        "nm": 241325,
+        "roles": [
+          {
+            "char": "Partizanski komandir"
+          }
+        ]
+      },
+      {
+        "name": "Mirjana Kauzlaric",
+        "nm": 442510,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivica Simic",
+        "nm": 2484623,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tomislav Striga",
+        "nm": 1167862,
+        "roles": [
+          {
+            "char": "Gutic"
+          }
+        ]
+      },
+      {
+        "name": "Ivica Zadro",
+        "nm": 951755,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bozidar Koscak",
+        "nm": 1149521,
+        "roles": [
+          {
+            "char": "Imbra Zgorelec"
+          }
+        ]
+      },
+      {
+        "name": "Ratko Buljan",
+        "nm": 119934,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Biserka Alibegovic",
+        "nm": 19547,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dzevad Alibegovic",
+        "nm": 1943729,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Bacic",
+        "nm": 45585,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Davor Borcic",
+        "nm": 1101464,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zvonimir Juric",
+        "nm": 432934,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marija Geml",
+        "nm": 312560,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dusko Gruborovic",
+        "nm": 344335,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivona Grunbaum",
+        "nm": 2510530,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Branko Kubik",
+        "nm": 1172532,
+        "roles": [
+          {
+            "char": "Ustaski casnik"
+          }
+        ]
+      },
+      {
+        "name": "Olga Pivac",
+        "nm": 686083,
+        "roles": [
+          {
+            "char": "Kumica na placu"
+          }
+        ]
+      },
+      {
+        "name": "Tihomir Polanec",
+        "nm": 688861,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zarko Savic",
+        "nm": 767632,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marijan Habazin",
+        "nm": 352122,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Galeb",
+    "tt": 998779,
+    "air_date": "1982-05-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Aljosa Vuckovic",
+        "nm": 904222,
+        "roles": [
+          {
+            "char": "Galeb"
+          }
+        ]
+      },
+      {
+        "name": "Ratko Glavina",
+        "nm": 1081292,
+        "roles": [
+          {
+            "char": "Spiro"
+          }
+        ]
+      },
+      {
+        "name": "Miljenka Androic",
+        "nm": 29057,
+        "roles": [
+          {
+            "char": "Vera"
+          }
+        ]
+      },
+      {
+        "name": "Rade Markovic",
+        "nm": 548589,
+        "roles": [
+          {
+            "char": "Domobranski general"
+          }
+        ]
+      },
+      {
+        "name": "Zvonimir Ferencic",
+        "nm": 272291,
+        "roles": [
+          {
+            "char": "Domobranski pukovnik Loren"
+          }
+        ]
+      },
+      {
+        "name": "Stane Potisk",
+        "nm": 693131,
+        "roles": [
+          {
+            "char": "Njemacki general"
+          }
+        ]
+      },
+      {
+        "name": "Adem Cejvan",
+        "nm": 147900,
+        "roles": [
+          {
+            "char": "Glavni ilegalac"
+          }
+        ]
+      },
+      {
+        "name": "Stevo Krnjajic",
+        "nm": 1159494,
+        "roles": [
+          {
+            "char": "Mlinaric - ustaski satnik"
+          }
+        ]
+      },
+      {
+        "name": "Zivomir Licanin",
+        "nm": 1585927,
+        "roles": [
+          {
+            "char": "Ustasa - batinas"
+          }
+        ]
+      },
+      {
+        "name": "Danko Ljustina",
+        "nm": 515605,
+        "roles": [
+          {
+            "char": "Stef, dezurni domobran"
+          }
+        ]
+      },
+      {
+        "name": "Ivica Plovanic",
+        "nm": 2622065,
+        "roles": [
+          {
+            "char": "Gurkus - domobranski pukovnik"
+          }
+        ]
+      },
+      {
+        "name": "Nedim Prohic",
+        "nm": 698518,
+        "roles": [
+          {
+            "char": "Crni"
+          }
+        ]
+      },
+      {
+        "name": "Vicko Ruic",
+        "nm": 749538,
+        "roles": [
+          {
+            "char": "Beli"
+          }
+        ]
+      },
+      {
+        "name": "Semka Sokolovic-Bertok",
+        "nm": 812506,
+        "roles": [
+          {
+            "char": "Susjeda"
+          }
+        ]
+      },
+      {
+        "name": "Pero Vrca",
+        "nm": 1082658,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Edo Vujic",
+        "nm": 904292,
+        "roles": [
+          {
+            "char": "Prokazatelj iz antikvarijata",
+            "as Cedo Vujic": true
+          }
+        ]
+      },
+      {
+        "name": "Katja Zupcic",
+        "nm": 958722,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bogumil Kleva",
+        "nm": 2600261,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Radoslav Spitzmuller",
+        "nm": 818496,
+        "roles": [
+          {
+            "char": "Mikus",
+            "as Radoslav Spicmiler": true
+          }
+        ]
+      },
+      {
+        "name": "Bozidar Trakic",
+        "nm": 2623810,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Petar Buntic",
+        "nm": 120567,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marijan Habazin",
+        "nm": 352122,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Kristof",
+        "nm": 471683,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Leskovec",
+        "nm": 504036,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Boris Przulj",
+        "nm": 2623133,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Adolf Strzinar",
+        "nm": 2623504,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vlado Simac",
+        "nm": 1429496,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Domagoj Vukusic",
+        "nm": 904394,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Kraj rata",
+    "tt": 1673213,
+    "air_date": "1982-05-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mustafa Nadarevic",
+        "nm": 618768,
+        "roles": [
+          {
+            "char": "Brko Serdar"
+          }
+        ]
+      },
+      {
+        "name": "Mihailo 'Misa' Janketic",
+        "nm": 417712,
+        "roles": [
+          {
+            "char": "Pukovnik Tomic",
+            "as Mihailo Janketic": true
+          }
+        ]
+      },
+      {
+        "name": "Inge Appelt",
+        "nm": 31997,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jelisaveta Sablic",
+        "nm": 754807,
+        "roles": [
+          {
+            "char": "Seka"
+          }
+        ]
+      },
+      {
+        "name": "Boris Buzancic",
+        "nm": 125582,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mladena Gavran",
+        "nm": 310611,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jurica Dijakovic",
+        "nm": 226620,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bozidar Feldman",
+        "nm": 3648735,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Emil Glad",
+        "nm": 321569,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stevo Grubic",
+        "nm": 3998883,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vlatko Perkovic",
+        "nm": 2411350,
+        "roles": [
+          {
+            "char": "Karlovac, sef narodne zastite"
+          }
+        ]
+      },
+      {
+        "name": "Gordan Piculjan",
+        "nm": 682045,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ante Rumora",
+        "nm": 1176481,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Darko Stazic",
+        "nm": 824073,
+        "roles": [
+          {
+            "char": "Ustasa"
+          }
+        ]
+      },
+      {
+        "name": "Djuro Utjesanovic",
+        "nm": 882528,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dusko Valentic",
+        "nm": 884141,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kostadinka Velkovska",
+        "nm": 892578,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ljubo Zecevic",
+        "nm": 954102,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Biserka Alibegovic",
+        "nm": 19547,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dzevad Alibegovic",
+        "nm": 1943729,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Bacic",
+        "nm": 45585,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zlatko Bandic",
+        "nm": 4737649,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Aleksandar Basevic",
+        "nm": 3653809,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stanko Bogojevic",
+        "nm": 91868,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Bosnjak",
+        "nm": 98049,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Djurkinjak Damir",
+        "nm": 4738131,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mesud Dedovic",
+        "nm": 214132,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dubravka Dezelic",
+        "nm": 1538834,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kresimir Dolencic",
+        "nm": 230939,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Drazen Drzanic",
+        "nm": 2435630,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Karlo Dujmovic",
+        "nm": 2434438,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dusan Dzakula",
+        "nm": 1435252,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Fici",
+        "nm": 275674,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nikola Gec",
+        "nm": 311419,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marija Geml",
+        "nm": 312560,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivona Grunbaum",
+        "nm": 2510530,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zvonko Hochstadter",
+        "nm": 4738079,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Krakic Ivica",
+        "nm": 4737520,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stjepan Knezevic",
+        "nm": 1248514,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vladimir Kovacic",
+        "nm": 1152733,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Darko Kralj",
+        "nm": 2433531,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jadranko Krsnik",
+        "nm": 4737802,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Branko Kubik",
+        "nm": 1172532,
+        "roles": [
+          {
+            "char": "Ustaski casnik"
+          }
+        ]
+      },
+      {
+        "name": "Zeljko Königsknecht",
+        "nm": 477930,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Boris Lucic",
+        "nm": 1169198,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zdravko Marsanic",
+        "nm": 1149907,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Davorin Milanovski",
+        "nm": 4737276,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tomislav Milanovski",
+        "nm": 586884,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mijo Mirkovic",
+        "nm": 2442537,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jura Mofcan",
+        "nm": 595554,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Franjo Pacljik",
+        "nm": 4737402,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Angel Palasev",
+        "nm": 657382,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Krsto Petanjek",
+        "nm": 1160029,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Olga Pivac",
+        "nm": 686083,
+        "roles": [
+          {
+            "char": "Zena koja vice i trazi pomoc"
+          }
+        ]
+      },
+      {
+        "name": "Nikolaj Popovic",
+        "nm": 2090556,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivo Prnjak",
+        "nm": 3654709,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zlatko Sambolic",
+        "nm": 4737485,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Joza Seb",
+        "nm": 780895,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Igor Serdar",
+        "nm": 784916,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Darko Skupnjak",
+        "nm": 2438060,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sisko Spanicek",
+        "nm": 4737759,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Branko Spoljar",
+        "nm": 819349,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Franko Strmotic",
+        "nm": 1082448,
+        "roles": [
+          {
+            "char": "Strazar ispred zatvora"
+          }
+        ]
+      },
+      {
+        "name": "Ante Sucur",
+        "nm": 837124,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Branko Supek",
+        "nm": 839457,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zdenka Trach",
+        "nm": 870457,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bozidar Trakic",
+        "nm": 2623810,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Greta Vinkovic",
+        "nm": 899014,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dragomir Stanojevic",
+        "nm": 822667,
+        "roles": [
+
+        ]
+      }
+    ]
+  }
+]

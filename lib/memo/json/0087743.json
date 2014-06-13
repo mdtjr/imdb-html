@@ -1,0 +1,910 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 1698247,
+    "air_date": "1984-10-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Gareth Thomas",
+        "nm": 858848,
+        "roles": [
+          {
+            "char": "Morgan Thomas",
+            "ch": 393505
+          }
+        ]
+      },
+      {
+        "name": "Martyn Hesford",
+        "nm": 381367,
+        "roles": [
+          {
+            "char": "Lee Turner"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Yates",
+        "nm": 946789,
+        "roles": [
+          {
+            "char": "Val Turner"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Collins",
+        "nm": 172552,
+        "roles": [
+          {
+            "char": "Carol"
+          }
+        ]
+      },
+      {
+        "name": "Robert Demeger",
+        "nm": 218290,
+        "roles": [
+          {
+            "char": "Mr. Ellis"
+          }
+        ]
+      },
+      {
+        "name": "Gary Oldman",
+        "nm": 198,
+        "roles": [
+          {
+            "char": "Colin",
+            "ch": 73105
+          }
+        ]
+      },
+      {
+        "name": "Stephen Yardley",
+        "nm": 946421,
+        "roles": [
+          {
+            "char": "Alan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 1698248,
+    "air_date": "1984-10-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Gareth Thomas",
+        "nm": 858848,
+        "roles": [
+          {
+            "char": "Morgan Thomas",
+            "ch": 393505
+          }
+        ]
+      },
+      {
+        "name": "Martyn Hesford",
+        "nm": 381367,
+        "roles": [
+          {
+            "char": "Lee Turner"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Yates",
+        "nm": 946789,
+        "roles": [
+          {
+            "char": "Val Turner"
+          }
+        ]
+      },
+      {
+        "name": "Maxine Audley",
+        "nm": 41602,
+        "roles": [
+          {
+            "char": "Eileen Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Jack Walters",
+        "nm": 910251,
+        "roles": [
+          {
+            "char": "Pugh Davies"
+          }
+        ]
+      },
+      {
+        "name": "Alan Rowe",
+        "nm": 746465,
+        "roles": [
+          {
+            "char": "Harry Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Charles Dale",
+        "nm": 197656,
+        "roles": [
+          {
+            "char": "Gareth Price"
+          }
+        ]
+      },
+      {
+        "name": "Robin John",
+        "nm": 2982592,
+        "roles": [
+          {
+            "char": "Graham",
+            "as Robbin John": true
+          }
+        ]
+      },
+      {
+        "name": "Artro Morris",
+        "nm": 606367,
+        "roles": [
+          {
+            "char": "Les"
+          }
+        ]
+      },
+      {
+        "name": "Islwyn Morris",
+        "nm": 1483358,
+        "roles": [
+          {
+            "char": "Bryn"
+          }
+        ]
+      },
+      {
+        "name": "Gary Oldman",
+        "nm": 198,
+        "roles": [
+          {
+            "char": "Colin",
+            "ch": 73105
+          }
+        ]
+      },
+      {
+        "name": "John Skitt",
+        "nm": 804392,
+        "roles": [
+          {
+            "char": "Matthew Gibbs"
+          }
+        ]
+      },
+      {
+        "name": "James Warrior",
+        "nm": 913136,
+        "roles": [
+          {
+            "char": "Tom Griffiths"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Yardley",
+        "nm": 946421,
+        "roles": [
+          {
+            "char": "Alan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Episode #1.3",
+    "tt": 1698249,
+    "air_date": "1984-10-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Gareth Thomas",
+        "nm": 858848,
+        "roles": [
+          {
+            "char": "Morgan Thomas",
+            "ch": 393505
+          }
+        ]
+      },
+      {
+        "name": "Martyn Hesford",
+        "nm": 381367,
+        "roles": [
+          {
+            "char": "Lee Turner"
+          }
+        ]
+      },
+      {
+        "name": "Maxine Audley",
+        "nm": 41602,
+        "roles": [
+          {
+            "char": "Eileen Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Jack Walters",
+        "nm": 910251,
+        "roles": [
+          {
+            "char": "Pugh Davies"
+          }
+        ]
+      },
+      {
+        "name": "Alan Rowe",
+        "nm": 746465,
+        "roles": [
+          {
+            "char": "Harry Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Michael Troughton",
+        "nm": 873742,
+        "roles": [
+          {
+            "char": "Vicar"
+          }
+        ]
+      },
+      {
+        "name": "Charles Dale",
+        "nm": 197656,
+        "roles": [
+          {
+            "char": "Gareth Price"
+          }
+        ]
+      },
+      {
+        "name": "Pippa Hinchley",
+        "nm": 385478,
+        "roles": [
+          {
+            "char": "Sarah Griffiths"
+          }
+        ]
+      },
+      {
+        "name": "Robin John",
+        "nm": 2982592,
+        "roles": [
+          {
+            "char": "Graham",
+            "as Robbin John": true
+          }
+        ]
+      },
+      {
+        "name": "Artro Morris",
+        "nm": 606367,
+        "roles": [
+          {
+            "char": "Les"
+          }
+        ]
+      },
+      {
+        "name": "David Quilter",
+        "nm": 703629,
+        "roles": [
+          {
+            "char": "Tom Duncan"
+          }
+        ]
+      },
+      {
+        "name": "John Skitt",
+        "nm": 804392,
+        "roles": [
+          {
+            "char": "Matthew Gibbs"
+          }
+        ]
+      },
+      {
+        "name": "James Warrior",
+        "nm": 913136,
+        "roles": [
+          {
+            "char": "Tom Griffiths"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Episode #1.4",
+    "tt": 1698250,
+    "air_date": "1984-11-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Gareth Thomas",
+        "nm": 858848,
+        "roles": [
+          {
+            "char": "Morgan Thomas",
+            "ch": 393505
+          }
+        ]
+      },
+      {
+        "name": "Martyn Hesford",
+        "nm": 381367,
+        "roles": [
+          {
+            "char": "Lee Turner"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Yates",
+        "nm": 946789,
+        "roles": [
+          {
+            "char": "Val Turner"
+          }
+        ]
+      },
+      {
+        "name": "Maxine Audley",
+        "nm": 41602,
+        "roles": [
+          {
+            "char": "Eileen Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Alan Rowe",
+        "nm": 746465,
+        "roles": [
+          {
+            "char": "Harry Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Carrick",
+        "nm": 140354,
+        "roles": [
+          {
+            "char": "James Austin",
+            "as Antony Carrick": true
+          }
+        ]
+      },
+      {
+        "name": "Harriet Cole",
+        "nm": 2111532,
+        "roles": [
+          {
+            "char": "Ros"
+          }
+        ]
+      },
+      {
+        "name": "Pippa Hinchley",
+        "nm": 385478,
+        "roles": [
+          {
+            "char": "Sarah Griffiths"
+          }
+        ]
+      },
+      {
+        "name": "Helen Lindsay",
+        "nm": 512229,
+        "roles": [
+          {
+            "char": "Mary Austin"
+          }
+        ]
+      },
+      {
+        "name": "Gary Oldman",
+        "nm": 198,
+        "roles": [
+          {
+            "char": "Colin",
+            "ch": 73105
+          }
+        ]
+      },
+      {
+        "name": "David Quilter",
+        "nm": 703629,
+        "roles": [
+          {
+            "char": "Tom Duncan"
+          }
+        ]
+      },
+      {
+        "name": "John Skitt",
+        "nm": 804392,
+        "roles": [
+          {
+            "char": "Matthew Gibbs"
+          }
+        ]
+      },
+      {
+        "name": "Tommy Summers",
+        "nm": 1500621,
+        "roles": [
+          {
+            "char": "Barry"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Yardley",
+        "nm": 946421,
+        "roles": [
+          {
+            "char": "Alan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Episode #1.5",
+    "tt": 1698251,
+    "air_date": "1984-11-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Gareth Thomas",
+        "nm": 858848,
+        "roles": [
+          {
+            "char": "Morgan Thomas",
+            "ch": 393505
+          }
+        ]
+      },
+      {
+        "name": "Martyn Hesford",
+        "nm": 381367,
+        "roles": [
+          {
+            "char": "Lee Turner"
+          }
+        ]
+      },
+      {
+        "name": "Maxine Audley",
+        "nm": 41602,
+        "roles": [
+          {
+            "char": "Eileen Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Jack Walters",
+        "nm": 910251,
+        "roles": [
+          {
+            "char": "Pugh Davies"
+          }
+        ]
+      },
+      {
+        "name": "Alan Rowe",
+        "nm": 746465,
+        "roles": [
+          {
+            "char": "Harry Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Tracey Childs",
+        "nm": 157598,
+        "roles": [
+          {
+            "char": "Louise Gibbs"
+          }
+        ]
+      },
+      {
+        "name": "Michael Fleming",
+        "nm": 281740,
+        "roles": [
+          {
+            "char": "Boulton"
+          }
+        ]
+      },
+      {
+        "name": "John Skitt",
+        "nm": 804392,
+        "roles": [
+          {
+            "char": "Matthew Gibbs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Episode #1.6",
+    "tt": 1698252,
+    "air_date": "1984-11-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Gareth Thomas",
+        "nm": 858848,
+        "roles": [
+          {
+            "char": "Morgan Thomas",
+            "ch": 393505
+          }
+        ]
+      },
+      {
+        "name": "Martyn Hesford",
+        "nm": 381367,
+        "roles": [
+          {
+            "char": "Lee Turner"
+          }
+        ]
+      },
+      {
+        "name": "Maxine Audley",
+        "nm": 41602,
+        "roles": [
+          {
+            "char": "Eileen Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Jack Walters",
+        "nm": 910251,
+        "roles": [
+          {
+            "char": "Pugh Davies"
+          }
+        ]
+      },
+      {
+        "name": "Alan Rowe",
+        "nm": 746465,
+        "roles": [
+          {
+            "char": "Harry Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Harriet Cole",
+        "nm": 2111532,
+        "roles": [
+          {
+            "char": "Ros"
+          }
+        ]
+      },
+      {
+        "name": "Charles Dale",
+        "nm": 197656,
+        "roles": [
+          {
+            "char": "Gareth Price"
+          }
+        ]
+      },
+      {
+        "name": "Julian Firth",
+        "nm": 278747,
+        "roles": [
+          {
+            "char": "Greener"
+          }
+        ]
+      },
+      {
+        "name": "Pippa Hinchley",
+        "nm": 385478,
+        "roles": [
+          {
+            "char": "Sarah Griffiths"
+          }
+        ]
+      },
+      {
+        "name": "Robin John",
+        "nm": 2982592,
+        "roles": [
+          {
+            "char": "Graham",
+            "as Robbin John": true
+          }
+        ]
+      },
+      {
+        "name": "Gary Oldman",
+        "nm": 198,
+        "roles": [
+          {
+            "char": "Colin",
+            "ch": 73105
+          }
+        ]
+      },
+      {
+        "name": "David Quilter",
+        "nm": 703629,
+        "roles": [
+          {
+            "char": "Tom Duncan"
+          }
+        ]
+      },
+      {
+        "name": "John Skitt",
+        "nm": 804392,
+        "roles": [
+          {
+            "char": "Matthew Gibbs"
+          }
+        ]
+      },
+      {
+        "name": "James Warrior",
+        "nm": 913136,
+        "roles": [
+          {
+            "char": "Tom Griffiths"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Episode #1.7",
+    "tt": 1698253,
+    "air_date": "1984-11-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Gareth Thomas",
+        "nm": 858848,
+        "roles": [
+          {
+            "char": "Morgan Thomas",
+            "ch": 393505
+          }
+        ]
+      },
+      {
+        "name": "Martyn Hesford",
+        "nm": 381367,
+        "roles": [
+          {
+            "char": "Lee Turner"
+          }
+        ]
+      },
+      {
+        "name": "Maxine Audley",
+        "nm": 41602,
+        "roles": [
+          {
+            "char": "Eileen Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Jack Walters",
+        "nm": 910251,
+        "roles": [
+          {
+            "char": "Pugh Davies"
+          }
+        ]
+      },
+      {
+        "name": "Alan Rowe",
+        "nm": 746465,
+        "roles": [
+          {
+            "char": "Harry Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Charles Dale",
+        "nm": 197656,
+        "roles": [
+          {
+            "char": "Gareth Price"
+          }
+        ]
+      },
+      {
+        "name": "Jan Edwards",
+        "nm": 5575446,
+        "roles": [
+          {
+            "char": "Jean"
+          }
+        ]
+      },
+      {
+        "name": "Pippa Hinchley",
+        "nm": 385478,
+        "roles": [
+          {
+            "char": "Sarah Griffiths"
+          }
+        ]
+      },
+      {
+        "name": "Robin John",
+        "nm": 2982592,
+        "roles": [
+          {
+            "char": "Graham",
+            "as Robbin John": true
+          }
+        ]
+      },
+      {
+        "name": "Basil Moss",
+        "nm": 608914,
+        "roles": [
+          {
+            "char": "Ted Rivers"
+          }
+        ]
+      },
+      {
+        "name": "David Quilter",
+        "nm": 703629,
+        "roles": [
+          {
+            "char": "Tom Duncan"
+          }
+        ]
+      },
+      {
+        "name": "John Skitt",
+        "nm": 804392,
+        "roles": [
+          {
+            "char": "Matthew Gibbs"
+          }
+        ]
+      },
+      {
+        "name": "James Warrior",
+        "nm": 913136,
+        "roles": [
+          {
+            "char": "Tom Griffiths"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Episode #1.8",
+    "tt": 1698254,
+    "air_date": "1984-11-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Gareth Thomas",
+        "nm": 858848,
+        "roles": [
+          {
+            "char": "Morgan Thomas",
+            "ch": 393505
+          }
+        ]
+      },
+      {
+        "name": "Martyn Hesford",
+        "nm": 381367,
+        "roles": [
+          {
+            "char": "Lee Turner"
+          }
+        ]
+      },
+      {
+        "name": "Ioan Meredith",
+        "nm": 580584,
+        "roles": [
+          {
+            "char": "Williams"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Yates",
+        "nm": 946789,
+        "roles": [
+          {
+            "char": "Val Turner"
+          }
+        ]
+      },
+      {
+        "name": "Maxine Audley",
+        "nm": 41602,
+        "roles": [
+          {
+            "char": "Eileen Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Jack Walters",
+        "nm": 910251,
+        "roles": [
+          {
+            "char": "Pugh Davies"
+          }
+        ]
+      },
+      {
+        "name": "Alan Rowe",
+        "nm": 746465,
+        "roles": [
+          {
+            "char": "Harry Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Michael Troughton",
+        "nm": 873742,
+        "roles": [
+          {
+            "char": "Vicar"
+          }
+        ]
+      }
+    ]
+  }
+]

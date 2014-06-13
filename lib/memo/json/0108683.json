@@ -1,0 +1,2592 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Doing the Business",
+    "tt": 1048325,
+    "air_date": "1994-01-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Robert Stephens",
+        "nm": 827137,
+        "roles": [
+          {
+            "char": "Commander Oakwood"
+          }
+        ]
+      },
+      {
+        "name": "Gwyneth Strong",
+        "nm": 834974,
+        "roles": [
+          {
+            "char": "Charlotte"
+          }
+        ]
+      },
+      {
+        "name": "Robert Carlyle",
+        "nm": 1015,
+        "roles": [
+          {
+            "char": "Detective Constable Trevor Prescott"
+          }
+        ]
+      },
+      {
+        "name": "Adie Allen",
+        "nm": 20237,
+        "roles": [
+          {
+            "char": "DC Liz Hulley"
+          }
+        ]
+      },
+      {
+        "name": "Niall Buggy",
+        "nm": 119501,
+        "roles": [
+          {
+            "char": "Elbow",
+            "ch": 241762
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Storry",
+        "nm": 832695,
+        "roles": [
+          {
+            "char": "Detective Superintendent Travis"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Tiernan",
+        "nm": 862907,
+        "roles": [
+          {
+            "char": "Billy Pink",
+            "ch": 118937
+          }
+        ]
+      },
+      {
+        "name": "Oliver Parker",
+        "nm": 662529,
+        "roles": [
+          {
+            "char": "Peter Smithers"
+          }
+        ]
+      },
+      {
+        "name": "John Vine",
+        "nm": 898905,
+        "roles": [
+          {
+            "char": "Andrew Deniston"
+          }
+        ]
+      },
+      {
+        "name": "Nick Hobbs",
+        "nm": 387614,
+        "roles": [
+          {
+            "char": "McGuinness"
+          }
+        ]
+      },
+      {
+        "name": "Ray Burnside",
+        "nm": 122946,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Richard Hahlo",
+        "nm": 5121085,
+        "roles": [
+          {
+            "char": "Photographer"
+          }
+        ]
+      },
+      {
+        "name": "Jim Norton",
+        "nm": 636235,
+        "roles": [
+          {
+            "char": "DCI Otterly"
+          }
+        ]
+      },
+      {
+        "name": "Peter McNamara",
+        "nm": 534063,
+        "roles": [
+          {
+            "char": "DC Wallis"
+          }
+        ]
+      },
+      {
+        "name": "Paul Barber",
+        "nm": 53448,
+        "roles": [
+          {
+            "char": "Bobby Fletcher"
+          }
+        ]
+      },
+      {
+        "name": "Colette Brown",
+        "nm": 113297,
+        "roles": [
+          {
+            "char": "Wendy"
+          }
+        ]
+      },
+      {
+        "name": "James Vaughan",
+        "nm": 891049,
+        "roles": [
+          {
+            "char": "First Constable"
+          }
+        ]
+      },
+      {
+        "name": "Sidney Cole",
+        "nm": 170781,
+        "roles": [
+          {
+            "char": "Second Constable"
+          }
+        ]
+      },
+      {
+        "name": "Glyn Grimstead",
+        "nm": 342371,
+        "roles": [
+          {
+            "char": "Third Constable"
+          }
+        ]
+      },
+      {
+        "name": "Richard Cubison",
+        "nm": 190928,
+        "roles": [
+          {
+            "char": "Inspector"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Wellon",
+        "nm": 2283180,
+        "roles": [
+          {
+            "char": "Brian"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Keogh",
+        "nm": 449040,
+        "roles": [
+          {
+            "char": "Lady Maud"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Penny",
+        "nm": 5121395,
+        "roles": [
+          {
+            "char": "Julia"
+          }
+        ]
+      },
+      {
+        "name": "Simon Fisher-Becker",
+        "nm": 279839,
+        "roles": [
+          {
+            "char": "Colonel"
+          }
+        ]
+      },
+      {
+        "name": "Josh Maguire",
+        "nm": 536592,
+        "roles": [
+          {
+            "char": "Sam Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Edward Tudor-Pole",
+        "nm": 876128,
+        "roles": [
+          {
+            "char": "Vince",
+            "as Edward Tudor Pole": true
+          }
+        ]
+      },
+      {
+        "name": "Simon Kunz",
+        "nm": 475336,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Michael Stainton",
+        "nm": 821596,
+        "roles": [
+          {
+            "char": "Jolly"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Kelly",
+        "nm": 446192,
+        "roles": [
+          {
+            "char": "Sup. Stafford"
+          }
+        ]
+      },
+      {
+        "name": "Edward Halsted",
+        "nm": 357076,
+        "roles": [
+          {
+            "char": "Priest",
+            "as Edward Halstead": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Imbusch",
+        "nm": 408161,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Hard Sell",
+    "tt": 1048326,
+    "air_date": "1994-01-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Robert Stephens",
+        "nm": 827137,
+        "roles": [
+          {
+            "char": "Commander Oakwood"
+          }
+        ]
+      },
+      {
+        "name": "Gwyneth Strong",
+        "nm": 834974,
+        "roles": [
+          {
+            "char": "Charlotte"
+          }
+        ]
+      },
+      {
+        "name": "Niall Buggy",
+        "nm": 119501,
+        "roles": [
+          {
+            "char": "Elbow",
+            "ch": 241762
+          }
+        ]
+      },
+      {
+        "name": "Adie Allen",
+        "nm": 20237,
+        "roles": [
+          {
+            "char": "DC Liz Hulley"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Tiernan",
+        "nm": 862907,
+        "roles": [
+          {
+            "char": "Billy Pink",
+            "ch": 118937
+          }
+        ]
+      },
+      {
+        "name": "Josh Maguire",
+        "nm": 536592,
+        "roles": [
+          {
+            "char": "Sam Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Peter Caffrey",
+        "nm": 128460,
+        "roles": [
+          {
+            "char": "Craig Napier",
+            "as Peter Caffery": true
+          }
+        ]
+      },
+      {
+        "name": "Lee Whitlock",
+        "nm": 926101,
+        "roles": [
+          {
+            "char": "Blink",
+            "ch": 367667
+          }
+        ]
+      },
+      {
+        "name": "David Barrass",
+        "nm": 56708,
+        "roles": [
+          {
+            "char": "Burn"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Alessi",
+        "nm": 18155,
+        "roles": [
+          {
+            "char": "Sharp"
+          }
+        ]
+      },
+      {
+        "name": "Bill Leadbitter",
+        "nm": 494901,
+        "roles": [
+          {
+            "char": "Derek Bilton"
+          }
+        ]
+      },
+      {
+        "name": "Michael Stainton",
+        "nm": 821596,
+        "roles": [
+          {
+            "char": "Jolly"
+          }
+        ]
+      },
+      {
+        "name": "Arbel Jones",
+        "nm": 427513,
+        "roles": [
+          {
+            "char": "Gwen"
+          }
+        ]
+      },
+      {
+        "name": "Paul Slack",
+        "nm": 805141,
+        "roles": [
+          {
+            "char": "Alan"
+          }
+        ]
+      },
+      {
+        "name": "Susan Gott",
+        "nm": 331873,
+        "roles": [
+          {
+            "char": "Cassie"
+          }
+        ]
+      },
+      {
+        "name": "Elaine Lordan",
+        "nm": 520522,
+        "roles": [
+          {
+            "char": "Deborah"
+          }
+        ]
+      },
+      {
+        "name": "Danny Webb",
+        "nm": 916073,
+        "roles": [
+          {
+            "char": "McCarthy",
+            "ch": 241763
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Phil Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Romolo Bruni",
+        "nm": 116278,
+        "roles": [
+          {
+            "char": "Restaurant Owner"
+          }
+        ]
+      },
+      {
+        "name": "Metin Marlow",
+        "nm": 549240,
+        "roles": [
+          {
+            "char": "Chef"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Marcus",
+        "nm": 7154,
+        "roles": [
+          {
+            "char": "McCarthy's Man"
+          },
+          {
+            "char": "Pursuer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Trust Me",
+    "tt": 787552,
+    "air_date": "1994-01-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Robert Stephens",
+        "nm": 827137,
+        "roles": [
+          {
+            "char": "Commander Oakwood"
+          }
+        ]
+      },
+      {
+        "name": "Adie Allen",
+        "nm": 20237,
+        "roles": [
+          {
+            "char": "DC Liz Hulley"
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Storry",
+        "nm": 832695,
+        "roles": [
+          {
+            "char": "Travis"
+          }
+        ]
+      },
+      {
+        "name": "Danny Webb",
+        "nm": 916073,
+        "roles": [
+          {
+            "char": "McCarthy",
+            "ch": 241763
+          }
+        ]
+      },
+      {
+        "name": "Colin Stinton",
+        "nm": 830479,
+        "roles": [
+          {
+            "char": "Hanson"
+          }
+        ]
+      },
+      {
+        "name": "Henry Goodman",
+        "nm": 329094,
+        "roles": [
+          {
+            "char": "Loman"
+          }
+        ]
+      },
+      {
+        "name": "Oengus MacNamara",
+        "nm": 534062,
+        "roles": [
+          {
+            "char": "Boyle"
+          }
+        ]
+      },
+      {
+        "name": "Sharon Duce",
+        "nm": 239756,
+        "roles": [
+          {
+            "char": "Ronnie"
+          }
+        ]
+      },
+      {
+        "name": "Roger McKern",
+        "nm": 571676,
+        "roles": [
+          {
+            "char": "Alan"
+          }
+        ]
+      },
+      {
+        "name": "Adam Meggido",
+        "nm": 576310,
+        "roles": [
+          {
+            "char": "Andrew"
+          }
+        ]
+      },
+      {
+        "name": "Emma Parish",
+        "nm": 661683,
+        "roles": [
+          {
+            "char": "Beth"
+          }
+        ]
+      },
+      {
+        "name": "Michael Parkinson",
+        "nm": 1521696,
+        "roles": [
+          {
+            "char": "Young Officer"
+          }
+        ]
+      },
+      {
+        "name": "Nigel Humphreys",
+        "nm": 402014,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Sue Wallace",
+        "nm": 908873,
+        "roles": [
+          {
+            "char": "Senior Policewoman"
+          }
+        ]
+      },
+      {
+        "name": "Burnell Tucker",
+        "nm": 875813,
+        "roles": [
+          {
+            "char": "Official"
+          }
+        ]
+      },
+      {
+        "name": "Roy Antony",
+        "nm": 5121718,
+        "roles": [
+          {
+            "char": "Postman"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Tindall",
+        "nm": 863883,
+        "roles": [
+          {
+            "char": "Police Officer"
+          }
+        ]
+      },
+      {
+        "name": "Phil Mitchell",
+        "nm": 4545115,
+        "roles": [
+          {
+            "char": "Younger CID Officer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Where the Money Is",
+    "tt": 787553,
+    "air_date": "1994-01-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Robert Stephens",
+        "nm": 827137,
+        "roles": [
+          {
+            "char": "Commander Oakwood"
+          }
+        ]
+      },
+      {
+        "name": "Gwyneth Strong",
+        "nm": 834974,
+        "roles": [
+          {
+            "char": "Charlotte"
+          }
+        ]
+      },
+      {
+        "name": "Danny Webb",
+        "nm": 916073,
+        "roles": [
+          {
+            "char": "McCarthy",
+            "ch": 241763
+          }
+        ]
+      },
+      {
+        "name": "Derek Newark",
+        "nm": 627610,
+        "roles": [
+          {
+            "char": "Hicks"
+          }
+        ]
+      },
+      {
+        "name": "Liza Walker",
+        "nm": 907981,
+        "roles": [
+          {
+            "char": "Alannah"
+          }
+        ]
+      },
+      {
+        "name": "Michael Coles",
+        "nm": 171326,
+        "roles": [
+          {
+            "char": "Glass"
+          }
+        ]
+      },
+      {
+        "name": "Martin Beaumont",
+        "nm": 64615,
+        "roles": [
+          {
+            "char": "Steve"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Bennett",
+        "nm": 71739,
+        "roles": [
+          {
+            "char": "Betty"
+          }
+        ]
+      },
+      {
+        "name": "James Smith",
+        "nm": 5121218,
+        "roles": [
+          {
+            "char": "Massingham"
+          }
+        ]
+      },
+      {
+        "name": "Bazil Otoin",
+        "nm": 1535359,
+        "roles": [
+          {
+            "char": "Security Man"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Weaver",
+        "nm": 915935,
+        "roles": [
+          {
+            "char": "Sandra"
+          }
+        ]
+      },
+      {
+        "name": "Cate Fowler",
+        "nm": 288676,
+        "roles": [
+          {
+            "char": "Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Peters",
+        "nm": 676500,
+        "roles": [
+          {
+            "char": "Homeless Person"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lasocki",
+        "nm": 5121339,
+        "roles": [
+          {
+            "char": "Teenager"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Quicker Than the Eye",
+    "tt": 503915,
+    "air_date": "1994-02-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Robert Stephens",
+        "nm": 827137,
+        "roles": [
+          {
+            "char": "Commander Oakwood"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Fulford",
+        "nm": 298089,
+        "roles": [
+          {
+            "char": "Tate"
+          }
+        ]
+      },
+      {
+        "name": "Ken Hutchison",
+        "nm": 404455,
+        "roles": [
+          {
+            "char": "Henry Ellis"
+          }
+        ]
+      },
+      {
+        "name": "Julie Graham",
+        "nm": 334150,
+        "roles": [
+          {
+            "char": "Lisa"
+          }
+        ]
+      },
+      {
+        "name": "Alain Debray",
+        "nm": 213530,
+        "roles": [
+          {
+            "char": "Badin"
+          }
+        ]
+      },
+      {
+        "name": "Alan Ross",
+        "nm": 743182,
+        "roles": [
+          {
+            "char": "Godard"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Sharp",
+        "nm": 5121672,
+        "roles": [
+          {
+            "char": "Irving"
+          }
+        ]
+      },
+      {
+        "name": "Rocky Samrai",
+        "nm": 760237,
+        "roles": [
+          {
+            "char": "Asian Boy"
+          }
+        ]
+      },
+      {
+        "name": "Iraj Emami",
+        "nm": 5121704,
+        "roles": [
+          {
+            "char": "Victor"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Minns",
+        "nm": 1357333,
+        "roles": [
+          {
+            "char": "1st Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Nick Powell",
+        "nm": 694249,
+        "roles": [
+          {
+            "char": "Tom",
+            "as Nicholas Powell": true
+          }
+        ]
+      },
+      {
+        "name": "Sophie Stanton",
+        "nm": 822811,
+        "roles": [
+          {
+            "char": "Tracey"
+          }
+        ]
+      },
+      {
+        "name": "John Bleasdale",
+        "nm": 88069,
+        "roles": [
+          {
+            "char": "Topper"
+          }
+        ]
+      },
+      {
+        "name": "Luke Strain",
+        "nm": 833170,
+        "roles": [
+          {
+            "char": "Wesley"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "The Cost of Living",
+    "tt": 843882,
+    "air_date": "1994-02-09",
+    "description": "Raynor believes that his cover blown, so with his crime boss' girlfriend he tries to escape. However he manages to launch himself into a series of confrontations and shocking revelations.",
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Robert Stephens",
+        "nm": 827137,
+        "roles": [
+          {
+            "char": "Commander Oakwood"
+          }
+        ]
+      },
+      {
+        "name": "Gwyneth Strong",
+        "nm": 834974,
+        "roles": [
+          {
+            "char": "Charlotte"
+          }
+        ]
+      },
+      {
+        "name": "Niall Buggy",
+        "nm": 119501,
+        "roles": [
+          {
+            "char": "Elbow",
+            "ch": 241762
+          }
+        ]
+      },
+      {
+        "name": "Adie Allen",
+        "nm": 20237,
+        "roles": [
+          {
+            "char": "DC Liz Hulley"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Tiernan",
+        "nm": 862907,
+        "roles": [
+          {
+            "char": "Billy Pink",
+            "ch": 118937
+          }
+        ]
+      },
+      {
+        "name": "Christopher Fulford",
+        "nm": 298089,
+        "roles": [
+          {
+            "char": "Tate"
+          }
+        ]
+      },
+      {
+        "name": "Julie Graham",
+        "nm": 334150,
+        "roles": [
+          {
+            "char": "Lisa"
+          }
+        ]
+      },
+      {
+        "name": "Stevie Jolly",
+        "nm": 2359417,
+        "roles": [
+          {
+            "char": "Lee"
+          }
+        ]
+      },
+      {
+        "name": "Eric Mason",
+        "nm": 556702,
+        "roles": [
+          {
+            "char": "Commissionaire"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Ineson",
+        "nm": 408591,
+        "roles": [
+          {
+            "char": "Brian"
+          }
+        ]
+      },
+      {
+        "name": "Nick Bartlett",
+        "nm": 58867,
+        "roles": [
+          {
+            "char": "Wayne"
+          }
+        ]
+      },
+      {
+        "name": "Alison King",
+        "nm": 1547343,
+        "roles": [
+          {
+            "char": "Brian's Mum"
+          }
+        ]
+      },
+      {
+        "name": "Sue Broomfield",
+        "nm": 1584385,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Francis Magee",
+        "nm": 535837,
+        "roles": [
+          {
+            "char": "Balaclava",
+            "as Francis McGee": true
+          }
+        ]
+      },
+      {
+        "name": "Clare Owen",
+        "nm": 654108,
+        "roles": [
+          {
+            "char": "Connie"
+          }
+        ]
+      },
+      {
+        "name": "Peter Joyce",
+        "nm": 431592,
+        "roles": [
+          {
+            "char": "John"
+          }
+        ]
+      },
+      {
+        "name": "Irene Richard",
+        "nm": 723814,
+        "roles": [
+          {
+            "char": "Miriam"
+          }
+        ]
+      },
+      {
+        "name": "Otis Munyangiri",
+        "nm": 1502415,
+        "roles": [
+          {
+            "char": "Youth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Stone",
+    "tt": 1038155,
+    "air_date": "1995-01-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Frances Tomelty",
+        "nm": 866626,
+        "roles": [
+          {
+            "char": "Commander Stone"
+          }
+        ]
+      },
+      {
+        "name": "Robert Stephens",
+        "nm": 827137,
+        "roles": [
+          {
+            "char": "Commander Oakwood"
+          }
+        ]
+      },
+      {
+        "name": "Adie Allen",
+        "nm": 20237,
+        "roles": [
+          {
+            "char": "Liz Hulley"
+          }
+        ]
+      },
+      {
+        "name": "Niall Buggy",
+        "nm": 119501,
+        "roles": [
+          {
+            "char": "Elbow",
+            "ch": 241762
+          }
+        ]
+      },
+      {
+        "name": "Danny Webb",
+        "nm": 916073,
+        "roles": [
+          {
+            "char": "Gerry McCarthy",
+            "ch": 241763
+          }
+        ]
+      },
+      {
+        "name": "Glyn Grain",
+        "nm": 334426,
+        "roles": [
+          {
+            "char": "Asst Comm Radlett"
+          }
+        ]
+      },
+      {
+        "name": "Trevor Sellers",
+        "nm": 783380,
+        "roles": [
+          {
+            "char": "D.I. Bonham"
+          }
+        ]
+      },
+      {
+        "name": "Philip Pickard",
+        "nm": 681758,
+        "roles": [
+          {
+            "char": "D.C. Ebsworth",
+            "as Phil Pickard": true
+          }
+        ]
+      },
+      {
+        "name": "Nadia Sawalha",
+        "nm": 137198,
+        "roles": [
+          {
+            "char": "Arabella"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Warren",
+        "nm": 912725,
+        "roles": [
+          {
+            "char": "Bruce"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Gordon",
+        "nm": 330617,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Clare Owen",
+        "nm": 654108,
+        "roles": [
+          {
+            "char": "Connie Oakwood"
+          }
+        ]
+      },
+      {
+        "name": "Paul Hegarty",
+        "nm": 1111639,
+        "roles": [
+          {
+            "char": "John Cottrill"
+          }
+        ]
+      },
+      {
+        "name": "Douglas McFerran",
+        "nm": 568855,
+        "roles": [
+          {
+            "char": "Don Faber"
+          }
+        ]
+      },
+      {
+        "name": "Ian Congdon",
+        "nm": 498505,
+        "roles": [
+          {
+            "char": "Martin"
+          }
+        ]
+      },
+      {
+        "name": "Billy Hartman",
+        "nm": 366920,
+        "roles": [
+          {
+            "char": "Wilbur"
+          }
+        ]
+      },
+      {
+        "name": "Graham Lines",
+        "nm": 512651,
+        "roles": [
+          {
+            "char": "Dr. Hailman"
+          }
+        ]
+      },
+      {
+        "name": "Mina Anwar",
+        "nm": 31689,
+        "roles": [
+          {
+            "char": "Dr. Resdale"
+          }
+        ]
+      },
+      {
+        "name": "Sharon Muircroft",
+        "nm": 1137408,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Dice",
+    "tt": 1038154,
+    "air_date": "1995-01-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Frances Tomelty",
+        "nm": 866626,
+        "roles": [
+          {
+            "char": "Commander Stone"
+          }
+        ]
+      },
+      {
+        "name": "Adie Allen",
+        "nm": 20237,
+        "roles": [
+          {
+            "char": "Liz Hulley"
+          }
+        ]
+      },
+      {
+        "name": "Niall Buggy",
+        "nm": 119501,
+        "roles": [
+          {
+            "char": "Elbow",
+            "ch": 241762
+          }
+        ]
+      },
+      {
+        "name": "Danny Webb",
+        "nm": 916073,
+        "roles": [
+          {
+            "char": "Gerry McCarthy",
+            "ch": 241763
+          }
+        ]
+      },
+      {
+        "name": "Charlie Drake",
+        "nm": 236867,
+        "roles": [
+          {
+            "char": "Freddie Windsor"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Bicknell",
+        "nm": 81070,
+        "roles": [
+          {
+            "char": "Oliver Thorn"
+          }
+        ]
+      },
+      {
+        "name": "Joanne Adams",
+        "nm": 11068,
+        "roles": [
+          {
+            "char": "Rose"
+          }
+        ]
+      },
+      {
+        "name": "Nadia Sawalha",
+        "nm": 137198,
+        "roles": [
+          {
+            "char": "Arabella"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Warren",
+        "nm": 912725,
+        "roles": [
+          {
+            "char": "Bruce"
+          }
+        ]
+      },
+      {
+        "name": "Trevor Sellers",
+        "nm": 783380,
+        "roles": [
+          {
+            "char": "D.I. Bonham",
+            "as Trevor Sellars": true
+          }
+        ]
+      },
+      {
+        "name": "Daniel Kruyer",
+        "nm": 1269091,
+        "roles": [
+          {
+            "char": "D.I. Carter"
+          }
+        ]
+      },
+      {
+        "name": "Philip Pickard",
+        "nm": 681758,
+        "roles": [
+          {
+            "char": "D.C. Ebsworth",
+            "as Phil Pickard": true
+          }
+        ]
+      },
+      {
+        "name": "Constantine Gregory",
+        "nm": 339778,
+        "roles": [
+          {
+            "char": "Sir Marcus Hinchcliffe"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Block",
+        "nm": 88772,
+        "roles": [
+          {
+            "char": "Albertson"
+          }
+        ]
+      },
+      {
+        "name": "Douglas McFerran",
+        "nm": 568855,
+        "roles": [
+          {
+            "char": "Don Faber"
+          }
+        ]
+      },
+      {
+        "name": "Maria Gough",
+        "nm": 1219024,
+        "roles": [
+          {
+            "char": "Hospital Nurse"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Shooting Party",
+    "tt": 1099253,
+    "air_date": "1995-01-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Frances Tomelty",
+        "nm": 866626,
+        "roles": [
+          {
+            "char": "Commander Stone"
+          }
+        ]
+      },
+      {
+        "name": "Niall Buggy",
+        "nm": 119501,
+        "roles": [
+          {
+            "char": "Elbow",
+            "ch": 241762
+          }
+        ]
+      },
+      {
+        "name": "Michael Jayston",
+        "nm": 419785,
+        "roles": [
+          {
+            "char": "Chauncy"
+          }
+        ]
+      },
+      {
+        "name": "Ron Donachie",
+        "nm": 231871,
+        "roles": [
+          {
+            "char": "McLaverty"
+          }
+        ]
+      },
+      {
+        "name": "Mark Williams",
+        "nm": 931247,
+        "roles": [
+          {
+            "char": "John Samms"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Wait",
+        "nm": 906585,
+        "roles": [
+          {
+            "char": "Kerrigan"
+          }
+        ]
+      },
+      {
+        "name": "Tony Hirst",
+        "nm": 1554716,
+        "roles": [
+          {
+            "char": "Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Norman Roberts",
+        "nm": 731466,
+        "roles": [
+          {
+            "char": "Troy"
+          }
+        ]
+      },
+      {
+        "name": "Colin Farrell",
+        "nm": 268200,
+        "roles": [
+          {
+            "char": "Lucas"
+          }
+        ]
+      },
+      {
+        "name": "Campbell Morrison",
+        "nm": 607094,
+        "roles": [
+          {
+            "char": "Brock"
+          }
+        ]
+      },
+      {
+        "name": "Sarah London",
+        "nm": 518778,
+        "roles": [
+          {
+            "char": "Julie Samms"
+          }
+        ]
+      },
+      {
+        "name": "Constantine Gregory",
+        "nm": 339778,
+        "roles": [
+          {
+            "char": "Sir Marcus Hinchcliffe"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Block",
+        "nm": 88772,
+        "roles": [
+          {
+            "char": "Albertson"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Saul",
+        "nm": 766651,
+        "roles": [
+          {
+            "char": "Quentin"
+          }
+        ]
+      },
+      {
+        "name": "Jaroslaw Dunaj",
+        "nm": 241769,
+        "roles": [
+          {
+            "char": "Captain"
+          }
+        ]
+      },
+      {
+        "name": "Frank Moorey",
+        "nm": 602088,
+        "roles": [
+          {
+            "char": "Interrogator"
+          }
+        ]
+      },
+      {
+        "name": "Selina Griffiths",
+        "nm": 341753,
+        "roles": [
+          {
+            "char": "Customs Officer"
+          }
+        ]
+      },
+      {
+        "name": "Irene Ng",
+        "nm": 5186413,
+        "roles": [
+          {
+            "char": "Nursing Sister"
+          }
+        ]
+      },
+      {
+        "name": "Ben Fellows",
+        "nm": 271508,
+        "roles": [
+          {
+            "char": "Assistant at Cafe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Kidnap",
+    "tt": 1099254,
+    "air_date": "1995-01-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Frances Tomelty",
+        "nm": 866626,
+        "roles": [
+          {
+            "char": "Commander Stone"
+          }
+        ]
+      },
+      {
+        "name": "Adie Allen",
+        "nm": 20237,
+        "roles": [
+          {
+            "char": "Liz Hulley"
+          }
+        ]
+      },
+      {
+        "name": "Niall Buggy",
+        "nm": 119501,
+        "roles": [
+          {
+            "char": "Elbow",
+            "ch": 241762
+          }
+        ]
+      },
+      {
+        "name": "John Hallam",
+        "nm": 356268,
+        "roles": [
+          {
+            "char": "Mark Wise"
+          }
+        ]
+      },
+      {
+        "name": "Serena Gordon",
+        "nm": 330601,
+        "roles": [
+          {
+            "char": "Serena Wise"
+          }
+        ]
+      },
+      {
+        "name": "Susan Fleetwood",
+        "nm": 281453,
+        "roles": [
+          {
+            "char": "Diane Wellman"
+          }
+        ]
+      },
+      {
+        "name": "David Kennedy",
+        "nm": 447986,
+        "roles": [
+          {
+            "char": "Hamley"
+          }
+        ]
+      },
+      {
+        "name": "Steve Sweeney",
+        "nm": 842199,
+        "roles": [
+          {
+            "char": "Peters"
+          }
+        ]
+      },
+      {
+        "name": "Dominic Grant",
+        "nm": 335365,
+        "roles": [
+          {
+            "char": "Bailey"
+          }
+        ]
+      },
+      {
+        "name": "Trevor Sellers",
+        "nm": 783380,
+        "roles": [
+          {
+            "char": "D.I. Bonham",
+            "as Trevor Sellars": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "A Game of Two Halves",
+    "tt": 787550,
+    "air_date": "1995-02-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Frances Tomelty",
+        "nm": 866626,
+        "roles": [
+          {
+            "char": "Commander Stone"
+          }
+        ]
+      },
+      {
+        "name": "Adie Allen",
+        "nm": 20237,
+        "roles": [
+          {
+            "char": "Liz Hulley"
+          }
+        ]
+      },
+      {
+        "name": "Niall Buggy",
+        "nm": 119501,
+        "roles": [
+          {
+            "char": "Elbow",
+            "ch": 241762
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Cope",
+        "nm": 178560,
+        "roles": [
+          {
+            "char": "Ordell"
+          }
+        ]
+      },
+      {
+        "name": "Arabella Weir",
+        "nm": 918572,
+        "roles": [
+          {
+            "char": "Claudia"
+          }
+        ]
+      },
+      {
+        "name": "John Hallam",
+        "nm": 356268,
+        "roles": [
+          {
+            "char": "Mark Wise"
+          }
+        ]
+      },
+      {
+        "name": "Jack Ellis",
+        "nm": 254879,
+        "roles": [
+          {
+            "char": "Lewis"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Alessi",
+        "nm": 18155,
+        "roles": [
+          {
+            "char": "D.S. Elgin"
+          }
+        ]
+      },
+      {
+        "name": "Ronan Vibert",
+        "nm": 895812,
+        "roles": [
+          {
+            "char": "Loach",
+            "ch": 318984
+          }
+        ]
+      },
+      {
+        "name": "Michael Cochrane",
+        "nm": 168253,
+        "roles": [
+          {
+            "char": "Charlwood"
+          }
+        ]
+      },
+      {
+        "name": "Tony Guilfoyle",
+        "nm": 346950,
+        "roles": [
+          {
+            "char": "Smith"
+          }
+        ]
+      },
+      {
+        "name": "Dominic Grant",
+        "nm": 335365,
+        "roles": [
+          {
+            "char": "Bailey"
+          }
+        ]
+      },
+      {
+        "name": "Constantine Gregory",
+        "nm": 339778,
+        "roles": [
+          {
+            "char": "Sir Marcus Hinchcliffe"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Block",
+        "nm": 88772,
+        "roles": [
+          {
+            "char": "Albertson"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Saul",
+        "nm": 766651,
+        "roles": [
+          {
+            "char": "Quentin"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Bostrom",
+        "nm": 98284,
+        "roles": [
+          {
+            "char": "Walker",
+            "ch": 354704
+          }
+        ]
+      },
+      {
+        "name": "William Key",
+        "nm": 450776,
+        "roles": [
+          {
+            "char": "D.C. Guyler"
+          }
+        ]
+      },
+      {
+        "name": "John Warnaby",
+        "nm": 912353,
+        "roles": [
+          {
+            "char": "Hamilton"
+          }
+        ]
+      },
+      {
+        "name": "Caroline Loncq",
+        "nm": 518642,
+        "roles": [
+          {
+            "char": "Gillian"
+          }
+        ]
+      },
+      {
+        "name": "Dominic Wallis",
+        "nm": 1528685,
+        "roles": [
+          {
+            "char": "Eric"
+          }
+        ]
+      },
+      {
+        "name": "Sidney Cole",
+        "nm": 170781,
+        "roles": [
+          {
+            "char": "DC Cooper",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "The Lost Ones",
+    "tt": 964194,
+    "air_date": "1995-02-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Frances Tomelty",
+        "nm": 866626,
+        "roles": [
+          {
+            "char": "Commander Stone"
+          }
+        ]
+      },
+      {
+        "name": "Adie Allen",
+        "nm": 20237,
+        "roles": [
+          {
+            "char": "Liz Hulley"
+          }
+        ]
+      },
+      {
+        "name": "Joy Elias-Rilwan",
+        "nm": 253529,
+        "roles": [
+          {
+            "char": "Leela"
+          }
+        ]
+      },
+      {
+        "name": "Danny Scheinmann",
+        "nm": 770652,
+        "roles": [
+          {
+            "char": "Karim"
+          }
+        ]
+      },
+      {
+        "name": "Paul Shelley",
+        "nm": 791221,
+        "roles": [
+          {
+            "char": "Rappaport"
+          }
+        ]
+      },
+      {
+        "name": "John Hallam",
+        "nm": 356268,
+        "roles": [
+          {
+            "char": "Mark Wise"
+          }
+        ]
+      },
+      {
+        "name": "Ronan Vibert",
+        "nm": 895812,
+        "roles": [
+          {
+            "char": "Loach",
+            "ch": 318984
+          }
+        ]
+      },
+      {
+        "name": "Jack Ellis",
+        "nm": 254879,
+        "roles": [
+          {
+            "char": "Lewis"
+          }
+        ]
+      },
+      {
+        "name": "Dominic Grant",
+        "nm": 335365,
+        "roles": [
+          {
+            "char": "Bailey"
+          }
+        ]
+      },
+      {
+        "name": "Ben Walden",
+        "nm": 907060,
+        "roles": [
+          {
+            "char": "Marcus"
+          }
+        ]
+      },
+      {
+        "name": "Badi Uzzaman",
+        "nm": 882732,
+        "roles": [
+          {
+            "char": "Bhaskar",
+            "as Badiuzzaman": true
+          }
+        ]
+      },
+      {
+        "name": "Anya Phillips",
+        "nm": 680217,
+        "roles": [
+          {
+            "char": "Nima",
+            "as Anya Philips": true
+          }
+        ]
+      },
+      {
+        "name": "Chris Beaumont",
+        "nm": 64582,
+        "roles": [
+          {
+            "char": "Traffic PC #1",
+            "as Christopher Beaumont": true
+          }
+        ]
+      },
+      {
+        "name": "Fergus McLarnon",
+        "nm": 572253,
+        "roles": [
+          {
+            "char": "Traffic PC #2"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Gleaves",
+        "nm": 322366,
+        "roles": [
+          {
+            "char": "PC"
+          }
+        ]
+      },
+      {
+        "name": "Enid Irvin",
+        "nm": 410134,
+        "roles": [
+          {
+            "char": "Vera"
+          }
+        ]
+      },
+      {
+        "name": "Alistair Maydon",
+        "nm": 1859723,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Bill Moody",
+        "nm": 600449,
+        "roles": [
+          {
+            "char": "Cashier"
+          }
+        ]
+      },
+      {
+        "name": "Susie McKenna",
+        "nm": 571433,
+        "roles": [
+          {
+            "char": "Bank Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Leach",
+        "nm": 494848,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Glen Davies",
+        "nm": 1246347,
+        "roles": [
+          {
+            "char": "Cabbie"
+          }
+        ]
+      },
+      {
+        "name": "Graeme Edler",
+        "nm": 249401,
+        "roles": [
+          {
+            "char": "Security Guard",
+            "as Graeme Elder": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Quiet Storm",
+    "tt": 964195,
+    "air_date": "1995-02-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Frances Tomelty",
+        "nm": 866626,
+        "roles": [
+          {
+            "char": "Commander Stone"
+          }
+        ]
+      },
+      {
+        "name": "Peter Marinker",
+        "nm": 547707,
+        "roles": [
+          {
+            "char": "Captain Osprey"
+          }
+        ]
+      },
+      {
+        "name": "Joy Elias-Rilwan",
+        "nm": 253529,
+        "roles": [
+          {
+            "char": "Leela"
+          }
+        ]
+      },
+      {
+        "name": "Danny Scheinmann",
+        "nm": 770652,
+        "roles": [
+          {
+            "char": "Karim"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Jenn",
+        "nm": 421047,
+        "roles": [
+          {
+            "char": "Yuri Malinkov"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Martino",
+        "nm": 553892,
+        "roles": [
+          {
+            "char": "Arnel"
+          }
+        ]
+      },
+      {
+        "name": "Jay Ibot",
+        "nm": 5346701,
+        "roles": [
+          {
+            "char": "Benn"
+          }
+        ]
+      },
+      {
+        "name": "Ronan Vibert",
+        "nm": 895812,
+        "roles": [
+          {
+            "char": "Loach",
+            "ch": 318984
+          }
+        ]
+      },
+      {
+        "name": "Constantine Gregory",
+        "nm": 339778,
+        "roles": [
+          {
+            "char": "Sir Marcus Hinchcliffe"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Block",
+        "nm": 88772,
+        "roles": [
+          {
+            "char": "Albertson"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Bostrom",
+        "nm": 98284,
+        "roles": [
+          {
+            "char": "Walker",
+            "ch": 354704
+          }
+        ]
+      },
+      {
+        "name": "Christopher Saul",
+        "nm": 766651,
+        "roles": [
+          {
+            "char": "Quentin"
+          }
+        ]
+      },
+      {
+        "name": "Edward Lyon",
+        "nm": 528925,
+        "roles": [
+          {
+            "char": "Amersham"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Bland",
+        "nm": 87375,
+        "roles": [
+          {
+            "char": "Jill"
+          }
+        ]
+      },
+      {
+        "name": "Dean Williamson",
+        "nm": 932017,
+        "roles": [
+          {
+            "char": "Foreman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Getting Wise",
+    "tt": 787551,
+    "air_date": "1995-02-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Leslie Grantham",
+        "nm": 335714,
+        "roles": [
+          {
+            "char": "Mick Raynor"
+          }
+        ]
+      },
+      {
+        "name": "Frances Tomelty",
+        "nm": 866626,
+        "roles": [
+          {
+            "char": "Commander Stone"
+          }
+        ]
+      },
+      {
+        "name": "Adie Allen",
+        "nm": 20237,
+        "roles": [
+          {
+            "char": "Liz Hulley"
+          }
+        ]
+      },
+      {
+        "name": "Danny Webb",
+        "nm": 916073,
+        "roles": [
+          {
+            "char": "Gerry McCarthy",
+            "ch": 241763
+          }
+        ]
+      },
+      {
+        "name": "Niall Buggy",
+        "nm": 119501,
+        "roles": [
+          {
+            "char": "Elbow",
+            "ch": 241762
+          }
+        ]
+      },
+      {
+        "name": "John Hallam",
+        "nm": 356268,
+        "roles": [
+          {
+            "char": "Mark Wise"
+          }
+        ]
+      },
+      {
+        "name": "Ronan Vibert",
+        "nm": 895812,
+        "roles": [
+          {
+            "char": "Loach",
+            "ch": 318984
+          }
+        ]
+      },
+      {
+        "name": "Dominic Grant",
+        "nm": 335365,
+        "roles": [
+          {
+            "char": "Bailey"
+          }
+        ]
+      },
+      {
+        "name": "Chris Barnes",
+        "nm": 55545,
+        "roles": [
+          {
+            "char": "O'Brian"
+          }
+        ]
+      },
+      {
+        "name": "Billy McColl",
+        "nm": 566096,
+        "roles": [
+          {
+            "char": "Dyer"
+          }
+        ]
+      },
+      {
+        "name": "Glyn Grain",
+        "nm": 334426,
+        "roles": [
+          {
+            "char": "Asst. Comm. Radlett"
+          }
+        ]
+      },
+      {
+        "name": "Constantine Gregory",
+        "nm": 339778,
+        "roles": [
+          {
+            "char": "Sir Marcus Hinchcliffe"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Block",
+        "nm": 88772,
+        "roles": [
+          {
+            "char": "Albertson"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Saul",
+        "nm": 766651,
+        "roles": [
+          {
+            "char": "Quentin"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Bostrom",
+        "nm": 98284,
+        "roles": [
+          {
+            "char": "Walker",
+            "ch": 354704
+          }
+        ]
+      },
+      {
+        "name": "Rupert Holliday-Evans",
+        "nm": 391080,
+        "roles": [
+          {
+            "char": "D.C.I. Burtsall"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Milnes",
+        "nm": 1296275,
+        "roles": [
+          {
+            "char": "Police Inspector"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Regan",
+        "nm": 716490,
+        "roles": [
+          {
+            "char": "Curtis"
+          }
+        ]
+      }
+    ]
+  }
+]

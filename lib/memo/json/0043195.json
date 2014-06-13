@@ -1,0 +1,30 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 1352052,
+    "air_date": "1951-07-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ernie Kovacs",
+        "nm": 468237,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      },
+      {
+        "name": "Edie Adams",
+        "nm": 10944,
+        "roles": [
+          {
+            "char": "Herself - Vocalist",
+            "as Edith Adams": true
+          }
+        ]
+      }
+    ]
+  }
+]

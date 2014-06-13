@@ -1,0 +1,3711 @@
+[
+  {
+    "se": "S01E01",
+    "title": "He's the Famous Detective",
+    "tt": 842247,
+    "air_date": "1984-11-26",
+    "description": "How Sherlock Hound first met Watson.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Holmes",
+            "ch": 26631
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôsei Tomita",
+        "nm": 866729,
+        "roles": [
+          {
+            "char": "Watson",
+            "ch": 26702
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Evil Genius, Professor Moriarty",
+    "tt": 843020,
+    "air_date": "1984-12-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Holmes",
+            "ch": 26631
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôsei Tomita",
+        "nm": 866729,
+        "roles": [
+          {
+            "char": "Watson",
+            "ch": 26702
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Little Martha's Big Mystery!?",
+    "tt": 842246,
+    "air_date": "1984-12-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Kidnapping Case of Mrs. Hudson",
+    "tt": 843019,
+    "air_date": "1984-12-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Blue Ruby",
+    "tt": 850045,
+    "air_date": "1984-12-24",
+    "description": "Prof. Moriarty steals the Blue Carbuncle, but got robbed by a pickpocket.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Solve the Mystery of the Green Balloon!",
+    "tt": 850050,
+    "air_date": "1984-12-31",
+    "description": "A green balloon containing a distress call from a family in need of help.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "The Great Chase of the Little Detectives",
+    "tt": 850052,
+    "air_date": "1985-01-07",
+    "description": "Prof. Moriarty steals a golden statuette and hides it somewhere on the boats near the docks.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "The Speckled Band",
+    "tt": 850056,
+    "air_date": "1985-01-14",
+    "description": "A rainstorm sends Hound and Watson to a mysterious house.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Treasure Under the Sea",
+    "tt": 850058,
+    "air_date": "1985-01-21",
+    "description": "Prof. Moriarty stole a submarine from the navy, and is using it to steal the recently discovered ship hoard of Napoleon's Treasure.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "The Air Battle Over Dover!",
+    "tt": 850051,
+    "air_date": "1985-01-28",
+    "description": "The air post isn't doing well due to a lot of planes being sabotaged. After Mrs. Hudson saved a pilot's life, she, Hound, & Watson set out to investigate.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "The Targeted Giant Coin Bank",
+    "tt": 850057,
+    "air_date": "1985-02-04",
+    "description": "Hound and Watson visit a dreary town to investigate the missing sovereign gold coins own by the richest man in town.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "The Professor's Big Failure in the Storm!!",
+    "tt": 850055,
+    "air_date": "1985-02-11",
+    "description": "Hound and Watson were called to protect a girl's father who's delivering money by carriage from Prof. Moriarty.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Missing Freight Car!? The Professor's Big Magic Trick",
+    "tt": 850049,
+    "air_date": "1985-02-18",
+    "description": "A freight car containing crates of gold bars has mysteriously disappeared from between the other freight cars. Hound must figure out where the freight car is.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Gourmet! The Coral Lobsters",
+    "tt": 850047,
+    "air_date": "1985-02-25",
+    "description": "Prof. Moriarty has stolen the Coral Lobsters after having a craving idea for having actual lobsters for meal time.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Look! The Shining Thief",
+    "tt": 850048,
+    "air_date": "1985-03-04",
+    "description": "Prof. Moriarty steals gold bullion bars from the bank and kidnaps a sculptor for making a statue of his own kind.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "The Magic Castle! Holmes, Dead or Alive?",
+    "tt": 850053,
+    "air_date": "1985-03-11",
+    "description": "The Sacred Cross Sword contains the key in finding the treasure at Stone Hedge.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "The Monster of the Thames River",
+    "tt": 850054,
+    "air_date": "1985-03-18",
+    "description": "There have been reports of ships attacked by a monster at the Thames River. Hound and Watson went to investigate the river.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Blundered Operation at Loch Ness!",
+    "tt": 850046,
+    "air_date": "1985-03-25",
+    "description": "Three french students were kidnapped by Prof. Moriarty and are forced to make paintings so he could sell them off at auctions.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "The Soseki Kite Battle Over London!",
+    "tt": 900402,
+    "air_date": "1985-04-01",
+    "description": "The Rosetta Stone (A stone with 4 countries connected to it) mysteriously floats away from the museum.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Chase the Airship White Silver!",
+    "tt": 900398,
+    "air_date": "1985-04-08",
+    "description": "Moriarty plans to smuggle acquired gold coins with the help of a new airship.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Buzz Buzz! The Fly Fly Mecha Operation",
+    "tt": 900396,
+    "air_date": "1985-04-15",
+    "description": "There's a thief roaming around England, and it's not Moriarty.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Grand Flight Championship of Chaos!?",
+    "tt": 900642,
+    "air_date": "1985-04-22",
+    "description": "Moriarty steals a plane engine for an advantage in competing a race.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "Game of Wits! Parrot vs Professor",
+    "tt": 900399,
+    "air_date": "1985-04-29",
+    "description": "The answer lies within a parrot.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "Listen! The Tribute to Moriarty",
+    "tt": 900401,
+    "air_date": "1985-05-06",
+    "description": "Moriarty steals the one and only Big Ben bell.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E25",
+    "title": "Chaos! The Doll Swap Case",
+    "tt": 900397,
+    "air_date": "1985-05-13",
+    "description": "A jewel is secretly inside an ordinary doll.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E26",
+    "title": "Good-bye Holmes! The Last Case",
+    "tt": 900400,
+    "air_date": "1985-05-20",
+    "description": "Sherlock's next case is involved with love affairs.",
+    "cast": [
+      {
+        "name": "Taichirô Hirokawa",
+        "nm": 386380,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kousei Tomita",
+        "nm": 4337996,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yôko Asagami",
+        "nm": 38290,
+        "roles": [
+          {
+            "char": "Marie Hudson",
+            "ch": 33649,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Parris",
+        "nm": 663506,
+        "roles": [
+          {
+            "char": "Mrs. Hudson",
+            "ch": 33649,
+            "English": true
+          }
+        ]
+      },
+      {
+        "name": "Chikao Ohtsuka",
+        "nm": 645212,
+        "roles": [
+          {
+            "char": "Professor Moriarty",
+            "ch": 27269,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôzô Iizuka",
+        "nm": 959936,
+        "roles": [
+          {
+            "char": "Inspector Lestrade",
+            "ch": 35944,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Masuoka",
+        "nm": 557951,
+        "roles": [
+          {
+            "char": "George",
+            "voice": true
+          },
+          {
+            "char": "Todd",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuo Senda",
+        "nm": 784121,
+        "roles": [
+          {
+            "char": "Smiley",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Dr. Watson",
+            "ch": 26702,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Camp",
+        "nm": 131985,
+        "roles": [
+          {
+            "char": "Prof. Moriarty",
+            "ch": 27269,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Moss",
+        "nm": 1661237,
+        "roles": [
+          {
+            "char": "Sherlock Hound",
+            "ch": 26631,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Mieko Nobusawa",
+        "nm": 633732,
+        "roles": [
+          {
+            "char": "Mrs. Ellison",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  }
+]

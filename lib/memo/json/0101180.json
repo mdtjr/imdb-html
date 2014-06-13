@@ -1,0 +1,858 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Sex & Snooker",
+    "tt": 1420363,
+    "air_date": "1991-07-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Patricia Hodge",
+        "nm": 388092,
+        "roles": [
+          {
+            "char": "Julia Merrygrove",
+            "ch": 336429
+          }
+        ]
+      },
+      {
+        "name": "Denis Quilley",
+        "nm": 703615,
+        "roles": [
+          {
+            "char": "George Rudge",
+            "ch": 336430
+          }
+        ]
+      },
+      {
+        "name": "Lionel Jeffries",
+        "nm": 420383,
+        "roles": [
+          {
+            "char": "Grandpa Rudge",
+            "ch": 336431
+          }
+        ]
+      },
+      {
+        "name": "Jean Alexander",
+        "nm": 18495,
+        "roles": [
+          {
+            "char": "Granny Trellis",
+            "ch": 336432
+          }
+        ]
+      },
+      {
+        "name": "Ray Lonnen",
+        "nm": 519546,
+        "roles": [
+          {
+            "char": "Steve Merrygrove",
+            "ch": 336433
+          }
+        ]
+      },
+      {
+        "name": "Anne Reid",
+        "nm": 717176,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "Tracie Bennett",
+        "nm": 72099,
+        "roles": [
+          {
+            "char": "Nikki"
+          }
+        ]
+      },
+      {
+        "name": "James Warrior",
+        "nm": 913136,
+        "roles": [
+          {
+            "char": "Colin Pink",
+            "ch": 336434
+          }
+        ]
+      },
+      {
+        "name": "Claudia Bryan",
+        "nm": 116917,
+        "roles": [
+          {
+            "char": "Samantha Merrygrove",
+            "ch": 336435
+          }
+        ]
+      },
+      {
+        "name": "Jason Flemyng",
+        "nm": 2076,
+        "roles": [
+          {
+            "char": "John Merrygrove",
+            "ch": 336436
+          }
+        ]
+      },
+      {
+        "name": "Chris Garner",
+        "nm": 307690,
+        "roles": [
+          {
+            "char": "Warren Rudge",
+            "ch": 308194
+          }
+        ]
+      },
+      {
+        "name": "Lorraine Ashbourne",
+        "nm": 38690,
+        "roles": [
+          {
+            "char": "Karen Rudge",
+            "ch": 336437
+          }
+        ]
+      },
+      {
+        "name": "Sara Griffiths",
+        "nm": 341752,
+        "roles": [
+          {
+            "char": "Tracey Rudge",
+            "ch": 336438
+          }
+        ]
+      },
+      {
+        "name": "Tim Barker",
+        "nm": 55001,
+        "roles": [
+          {
+            "char": "Landlord"
+          }
+        ]
+      },
+      {
+        "name": "Tricia George",
+        "nm": 313633,
+        "roles": [
+          {
+            "char": "Connie"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Knutt",
+        "nm": 461837,
+        "roles": [
+          {
+            "char": "Arthur Wadkin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Poppadoms & Peeping Toms",
+    "tt": 1420364,
+    "air_date": "1991-07-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Patricia Hodge",
+        "nm": 388092,
+        "roles": [
+          {
+            "char": "Julia Merrygrove",
+            "ch": 336429
+          }
+        ]
+      },
+      {
+        "name": "Denis Quilley",
+        "nm": 703615,
+        "roles": [
+          {
+            "char": "George Rudge",
+            "ch": 336430
+          }
+        ]
+      },
+      {
+        "name": "Lionel Jeffries",
+        "nm": 420383,
+        "roles": [
+          {
+            "char": "Grandpa Rudge",
+            "ch": 336431
+          }
+        ]
+      },
+      {
+        "name": "Jean Alexander",
+        "nm": 18495,
+        "roles": [
+          {
+            "char": "Granny Trellis",
+            "ch": 336432
+          }
+        ]
+      },
+      {
+        "name": "Ray Lonnen",
+        "nm": 519546,
+        "roles": [
+          {
+            "char": "Steve Merrygrove",
+            "ch": 336433
+          }
+        ]
+      },
+      {
+        "name": "Anne Reid",
+        "nm": 717176,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "Tracie Bennett",
+        "nm": 72099,
+        "roles": [
+          {
+            "char": "Nikki"
+          }
+        ]
+      },
+      {
+        "name": "James Warrior",
+        "nm": 913136,
+        "roles": [
+          {
+            "char": "Colin Pink",
+            "ch": 336434
+          }
+        ]
+      },
+      {
+        "name": "Claudia Bryan",
+        "nm": 116917,
+        "roles": [
+          {
+            "char": "Samantha Merrygrove",
+            "ch": 336435
+          }
+        ]
+      },
+      {
+        "name": "Jason Flemyng",
+        "nm": 2076,
+        "roles": [
+          {
+            "char": "John Merrygrove",
+            "ch": 336436
+          }
+        ]
+      },
+      {
+        "name": "Chris Garner",
+        "nm": 307690,
+        "roles": [
+          {
+            "char": "Warren Rudge",
+            "ch": 308194
+          }
+        ]
+      },
+      {
+        "name": "Lorraine Ashbourne",
+        "nm": 38690,
+        "roles": [
+          {
+            "char": "Karen Rudge",
+            "ch": 336437
+          }
+        ]
+      },
+      {
+        "name": "Sara Griffiths",
+        "nm": 341752,
+        "roles": [
+          {
+            "char": "Tracey Rudge",
+            "ch": 336438
+          }
+        ]
+      },
+      {
+        "name": "Bob Barrett",
+        "nm": 57073,
+        "roles": [
+          {
+            "char": "Martin Lake"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Socks & Self Denial",
+    "tt": 1420365,
+    "air_date": "1991-07-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Patricia Hodge",
+        "nm": 388092,
+        "roles": [
+          {
+            "char": "Julia Merrygrove",
+            "ch": 336429
+          }
+        ]
+      },
+      {
+        "name": "Denis Quilley",
+        "nm": 703615,
+        "roles": [
+          {
+            "char": "George Rudge",
+            "ch": 336430
+          }
+        ]
+      },
+      {
+        "name": "Lionel Jeffries",
+        "nm": 420383,
+        "roles": [
+          {
+            "char": "Grandpa Rudge",
+            "ch": 336431
+          }
+        ]
+      },
+      {
+        "name": "Jean Alexander",
+        "nm": 18495,
+        "roles": [
+          {
+            "char": "Granny Trellis",
+            "ch": 336432
+          }
+        ]
+      },
+      {
+        "name": "Ray Lonnen",
+        "nm": 519546,
+        "roles": [
+          {
+            "char": "Steve Merrygrove",
+            "ch": 336433
+          }
+        ]
+      },
+      {
+        "name": "Anne Reid",
+        "nm": 717176,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "Tracie Bennett",
+        "nm": 72099,
+        "roles": [
+          {
+            "char": "Nikki"
+          }
+        ]
+      },
+      {
+        "name": "James Warrior",
+        "nm": 913136,
+        "roles": [
+          {
+            "char": "Colin Pink",
+            "ch": 336434
+          }
+        ]
+      },
+      {
+        "name": "Claudia Bryan",
+        "nm": 116917,
+        "roles": [
+          {
+            "char": "Samantha Merrygrove",
+            "ch": 336435
+          }
+        ]
+      },
+      {
+        "name": "Jason Flemyng",
+        "nm": 2076,
+        "roles": [
+          {
+            "char": "John Merrygrove",
+            "ch": 336436
+          }
+        ]
+      },
+      {
+        "name": "Chris Garner",
+        "nm": 307690,
+        "roles": [
+          {
+            "char": "Warren Rudge",
+            "ch": 308194
+          }
+        ]
+      },
+      {
+        "name": "Lorraine Ashbourne",
+        "nm": 38690,
+        "roles": [
+          {
+            "char": "Karen Rudge",
+            "ch": 336437
+          }
+        ]
+      },
+      {
+        "name": "Sara Griffiths",
+        "nm": 341752,
+        "roles": [
+          {
+            "char": "Tracey Rudge",
+            "ch": 336438
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Vegetable Samosas & Virgins",
+    "tt": 1420366,
+    "air_date": "1991-07-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Patricia Hodge",
+        "nm": 388092,
+        "roles": [
+          {
+            "char": "Julia Merrygrove",
+            "ch": 336429
+          }
+        ]
+      },
+      {
+        "name": "Denis Quilley",
+        "nm": 703615,
+        "roles": [
+          {
+            "char": "George Rudge",
+            "ch": 336430
+          }
+        ]
+      },
+      {
+        "name": "Lionel Jeffries",
+        "nm": 420383,
+        "roles": [
+          {
+            "char": "Grandpa Rudge",
+            "ch": 336431
+          }
+        ]
+      },
+      {
+        "name": "Jean Alexander",
+        "nm": 18495,
+        "roles": [
+          {
+            "char": "Granny Trellis",
+            "ch": 336432
+          }
+        ]
+      },
+      {
+        "name": "Ray Lonnen",
+        "nm": 519546,
+        "roles": [
+          {
+            "char": "Steve Merrygrove",
+            "ch": 336433
+          }
+        ]
+      },
+      {
+        "name": "Anne Reid",
+        "nm": 717176,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "Tracie Bennett",
+        "nm": 72099,
+        "roles": [
+          {
+            "char": "Nikki"
+          }
+        ]
+      },
+      {
+        "name": "James Warrior",
+        "nm": 913136,
+        "roles": [
+          {
+            "char": "Colin Pink",
+            "ch": 336434
+          }
+        ]
+      },
+      {
+        "name": "Claudia Bryan",
+        "nm": 116917,
+        "roles": [
+          {
+            "char": "Samantha Merrygrove",
+            "ch": 336435
+          }
+        ]
+      },
+      {
+        "name": "Jason Flemyng",
+        "nm": 2076,
+        "roles": [
+          {
+            "char": "John Merrygrove",
+            "ch": 336436
+          }
+        ]
+      },
+      {
+        "name": "Chris Garner",
+        "nm": 307690,
+        "roles": [
+          {
+            "char": "Warren Rudge",
+            "ch": 308194
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Sinners & Sea Bass",
+    "tt": 1420367,
+    "air_date": "1991-08-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Patricia Hodge",
+        "nm": 388092,
+        "roles": [
+          {
+            "char": "Julia Merrygrove",
+            "ch": 336429
+          }
+        ]
+      },
+      {
+        "name": "Denis Quilley",
+        "nm": 703615,
+        "roles": [
+          {
+            "char": "George Rudge",
+            "ch": 336430
+          }
+        ]
+      },
+      {
+        "name": "Lionel Jeffries",
+        "nm": 420383,
+        "roles": [
+          {
+            "char": "Grandpa Rudge",
+            "ch": 336431
+          }
+        ]
+      },
+      {
+        "name": "Jean Alexander",
+        "nm": 18495,
+        "roles": [
+          {
+            "char": "Granny Trellis",
+            "ch": 336432
+          }
+        ]
+      },
+      {
+        "name": "Ray Lonnen",
+        "nm": 519546,
+        "roles": [
+          {
+            "char": "Steve Merrygrove",
+            "ch": 336433
+          }
+        ]
+      },
+      {
+        "name": "Anne Reid",
+        "nm": 717176,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "Tracie Bennett",
+        "nm": 72099,
+        "roles": [
+          {
+            "char": "Nikki"
+          }
+        ]
+      },
+      {
+        "name": "James Warrior",
+        "nm": 913136,
+        "roles": [
+          {
+            "char": "Colin Pink",
+            "ch": 336434
+          }
+        ]
+      },
+      {
+        "name": "Claudia Bryan",
+        "nm": 116917,
+        "roles": [
+          {
+            "char": "Samantha Merrygrove",
+            "ch": 336435
+          }
+        ]
+      },
+      {
+        "name": "Jason Flemyng",
+        "nm": 2076,
+        "roles": [
+          {
+            "char": "John Merrygrove",
+            "ch": 336436
+          }
+        ]
+      },
+      {
+        "name": "Chris Garner",
+        "nm": 307690,
+        "roles": [
+          {
+            "char": "Warren Rudge",
+            "ch": 308194
+          }
+        ]
+      },
+      {
+        "name": "Lorraine Ashbourne",
+        "nm": 38690,
+        "roles": [
+          {
+            "char": "Karen Rudge",
+            "ch": 336437
+          }
+        ]
+      },
+      {
+        "name": "Sara Griffiths",
+        "nm": 341752,
+        "roles": [
+          {
+            "char": "Tracey Rudge",
+            "ch": 336438
+          }
+        ]
+      },
+      {
+        "name": "Bob Barrett",
+        "nm": 57073,
+        "roles": [
+          {
+            "char": "Martin Lake"
+          }
+        ]
+      },
+      {
+        "name": "Richard Butler",
+        "nm": 125101,
+        "roles": [
+          {
+            "char": "Alderman Potter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Waiters & Whoopie Cushions",
+    "tt": 1420368,
+    "air_date": "1991-08-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Patricia Hodge",
+        "nm": 388092,
+        "roles": [
+          {
+            "char": "Julia Merrygrove",
+            "ch": 336429
+          }
+        ]
+      },
+      {
+        "name": "Denis Quilley",
+        "nm": 703615,
+        "roles": [
+          {
+            "char": "George Rudge",
+            "ch": 336430
+          }
+        ]
+      },
+      {
+        "name": "Lionel Jeffries",
+        "nm": 420383,
+        "roles": [
+          {
+            "char": "Grandpa Rudge",
+            "ch": 336431
+          }
+        ]
+      },
+      {
+        "name": "Jean Alexander",
+        "nm": 18495,
+        "roles": [
+          {
+            "char": "Granny Trellis",
+            "ch": 336432
+          }
+        ]
+      },
+      {
+        "name": "Ray Lonnen",
+        "nm": 519546,
+        "roles": [
+          {
+            "char": "Steve Merrygrove",
+            "ch": 336433
+          }
+        ]
+      },
+      {
+        "name": "Anne Reid",
+        "nm": 717176,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "Tracie Bennett",
+        "nm": 72099,
+        "roles": [
+          {
+            "char": "Nikki"
+          }
+        ]
+      },
+      {
+        "name": "James Warrior",
+        "nm": 913136,
+        "roles": [
+          {
+            "char": "Colin Pink",
+            "ch": 336434
+          }
+        ]
+      },
+      {
+        "name": "Claudia Bryan",
+        "nm": 116917,
+        "roles": [
+          {
+            "char": "Samantha Merrygrove",
+            "ch": 336435
+          }
+        ]
+      },
+      {
+        "name": "Jason Flemyng",
+        "nm": 2076,
+        "roles": [
+          {
+            "char": "John Merrygrove",
+            "ch": 336436
+          }
+        ]
+      },
+      {
+        "name": "Chris Garner",
+        "nm": 307690,
+        "roles": [
+          {
+            "char": "Warren Rudge",
+            "ch": 308194
+          }
+        ]
+      },
+      {
+        "name": "Lorraine Ashbourne",
+        "nm": 38690,
+        "roles": [
+          {
+            "char": "Karen Rudge",
+            "ch": 336437
+          }
+        ]
+      },
+      {
+        "name": "Sara Griffiths",
+        "nm": 341752,
+        "roles": [
+          {
+            "char": "Tracey Rudge",
+            "ch": 336438
+          }
+        ]
+      }
+    ]
+  }
+]

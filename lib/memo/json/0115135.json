@@ -1,0 +1,5273 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 542075,
+    "air_date": "1996-07-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Johnny Bond",
+        "nm": 93963,
+        "roles": [
+          {
+            "char": "Herb Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Hilary Cleary",
+        "nm": 165841,
+        "roles": [
+          {
+            "char": "Rose Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Josephine Davison",
+        "nm": 205729,
+        "roles": [
+          {
+            "char": "Aimee Barlow"
+          }
+        ]
+      },
+      {
+        "name": "Miranda Harcourt",
+        "nm": 362005,
+        "roles": [
+          {
+            "char": "Rebekah Tennant"
+          }
+        ]
+      },
+      {
+        "name": "Nathaniel Lees",
+        "nm": 498731,
+        "roles": [
+          {
+            "char": "Avery Wilson",
+            "ch": 109817
+          }
+        ]
+      },
+      {
+        "name": "Robert Pollock",
+        "nm": 689692,
+        "roles": [
+          {
+            "char": "Marcus"
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Smith",
+        "nm": 808963,
+        "roles": [
+          {
+            "char": "Damon South",
+            "ch": 308039
+          }
+        ]
+      },
+      {
+        "name": "Fran Viveaere",
+        "nm": 900260,
+        "roles": [
+          {
+            "char": "Madeleine Huria"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 542086,
+    "air_date": "1996-07-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Johnny Bond",
+        "nm": 93963,
+        "roles": [
+          {
+            "char": "Herb Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Hilary Cleary",
+        "nm": 165841,
+        "roles": [
+          {
+            "char": "Rose Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Cliff Curtis",
+        "nm": 193295,
+        "roles": [
+          {
+            "char": "Daniel Freeman",
+            "ch": 109818
+          }
+        ]
+      },
+      {
+        "name": "Josephine Davison",
+        "nm": 205729,
+        "roles": [
+          {
+            "char": "Aimee Barlow"
+          }
+        ]
+      },
+      {
+        "name": "Francesca Durning",
+        "nm": 1850971,
+        "roles": [
+          {
+            "char": "Mama Kostapas"
+          }
+        ]
+      },
+      {
+        "name": "Miranda Harcourt",
+        "nm": 362005,
+        "roles": [
+          {
+            "char": "Rebekah Tennant"
+          }
+        ]
+      },
+      {
+        "name": "Nathaniel Lees",
+        "nm": 498731,
+        "roles": [
+          {
+            "char": "Avery Wilson",
+            "ch": 109817
+          }
+        ]
+      },
+      {
+        "name": "Tony Loughran",
+        "nm": 1101921,
+        "roles": [
+          {
+            "char": "Alex Kostapas",
+            "ch": 145635
+          }
+        ]
+      },
+      {
+        "name": "Kevin Smith",
+        "nm": 808963,
+        "roles": [
+          {
+            "char": "Damon South",
+            "ch": 308039
+          }
+        ]
+      },
+      {
+        "name": "Sonja Williams",
+        "nm": 1120843,
+        "roles": [
+          {
+            "char": "Gretchen Nash"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Episode #1.3",
+    "tt": 542094,
+    "air_date": "1996-07-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Cliff Curtis",
+        "nm": 193295,
+        "roles": [
+          {
+            "char": "Daniel Freeman",
+            "ch": 109818
+          }
+        ]
+      },
+      {
+        "name": "Josephine Davison",
+        "nm": 205729,
+        "roles": [
+          {
+            "char": "Aimee Barlow"
+          }
+        ]
+      },
+      {
+        "name": "Francesca Durning",
+        "nm": 1850971,
+        "roles": [
+          {
+            "char": "Mama Kostapas"
+          }
+        ]
+      },
+      {
+        "name": "Miranda Harcourt",
+        "nm": 362005,
+        "roles": [
+          {
+            "char": "Rebekah Tennant"
+          }
+        ]
+      },
+      {
+        "name": "Gareth Kayes",
+        "nm": 1851057,
+        "roles": [
+          {
+            "char": "Gregor"
+          }
+        ]
+      },
+      {
+        "name": "Nathaniel Lees",
+        "nm": 498731,
+        "roles": [
+          {
+            "char": "Avery Wilson",
+            "ch": 109817
+          }
+        ]
+      },
+      {
+        "name": "Tony Loughran",
+        "nm": 1101921,
+        "roles": [
+          {
+            "char": "Alex Kostapas",
+            "ch": 145635
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Russell Shipman",
+        "nm": 1851214,
+        "roles": [
+          {
+            "char": "Warwick Jennings"
+          }
+        ]
+      },
+      {
+        "name": "Fran Viveaere",
+        "nm": 900260,
+        "roles": [
+          {
+            "char": "Madeleine Huria"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Episode #1.4",
+    "tt": 542095,
+    "air_date": "1996-08-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blakely",
+        "nm": 86800,
+        "roles": [
+          {
+            "char": "Siobhan O'Halloran"
+          }
+        ]
+      },
+      {
+        "name": "Cliff Curtis",
+        "nm": 193295,
+        "roles": [
+          {
+            "char": "Daniel Freeman",
+            "ch": 109818
+          }
+        ]
+      },
+      {
+        "name": "Miranda Harcourt",
+        "nm": 362005,
+        "roles": [
+          {
+            "char": "Rebekah Tennant"
+          }
+        ]
+      },
+      {
+        "name": "Craig Muller",
+        "nm": 612109,
+        "roles": [
+          {
+            "char": "Jeff Hamilton"
+          }
+        ]
+      },
+      {
+        "name": "Jared Sheffield",
+        "nm": 790781,
+        "roles": [
+          {
+            "char": "Nevin"
+          }
+        ]
+      },
+      {
+        "name": "Sonja Williams",
+        "nm": 1120843,
+        "roles": [
+          {
+            "char": "Gretchen Nash"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Episode #1.5",
+    "tt": 542096,
+    "air_date": "1996-08-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blakely",
+        "nm": 86800,
+        "roles": [
+          {
+            "char": "Siobhan O'Halloran"
+          }
+        ]
+      },
+      {
+        "name": "Cliff Curtis",
+        "nm": 193295,
+        "roles": [
+          {
+            "char": "Daniel Freeman",
+            "ch": 109818
+          }
+        ]
+      },
+      {
+        "name": "Gilbert Goldie",
+        "nm": 325641,
+        "roles": [
+          {
+            "char": "Mr. Llewellyn",
+            "ch": 317551
+          }
+        ]
+      },
+      {
+        "name": "Miranda Harcourt",
+        "nm": 362005,
+        "roles": [
+          {
+            "char": "Rebekah Tennant"
+          }
+        ]
+      },
+      {
+        "name": "Craig Muller",
+        "nm": 612109,
+        "roles": [
+          {
+            "char": "Jeff Hamilton"
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Jared Sheffield",
+        "nm": 790781,
+        "roles": [
+          {
+            "char": "Nevin"
+          }
+        ]
+      },
+      {
+        "name": "Fran Viveaere",
+        "nm": 900260,
+        "roles": [
+          {
+            "char": "Madeleine Huria"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Episode #1.6",
+    "tt": 542097,
+    "air_date": "1996-08-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Johnny Bond",
+        "nm": 93963,
+        "roles": [
+          {
+            "char": "Herb Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Hilary Cleary",
+        "nm": 165841,
+        "roles": [
+          {
+            "char": "Rose Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Heather Lindsay",
+        "nm": 512227,
+        "roles": [
+          {
+            "char": "Aileen Jones"
+          }
+        ]
+      },
+      {
+        "name": "Michael Morrissey",
+        "nm": 607399,
+        "roles": [
+          {
+            "char": "Alan Cutter"
+          }
+        ]
+      },
+      {
+        "name": "Craig Muller",
+        "nm": 612109,
+        "roles": [
+          {
+            "char": "Jeff Hamilton"
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Jared Sheffield",
+        "nm": 790781,
+        "roles": [
+          {
+            "char": "Nevin"
+          }
+        ]
+      },
+      {
+        "name": "David Stott",
+        "nm": 832786,
+        "roles": [
+          {
+            "char": "Brett Bateman",
+            "ch": 317768
+          }
+        ]
+      },
+      {
+        "name": "Stephen Tozer",
+        "nm": 870352,
+        "roles": [
+          {
+            "char": "Ernest Kellett",
+            "ch": 308441
+          }
+        ]
+      },
+      {
+        "name": "Fran Viveaere",
+        "nm": 900260,
+        "roles": [
+          {
+            "char": "Madeleine Huria"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Episode #1.7",
+    "tt": 542098,
+    "air_date": "1996-08-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Tony Barry",
+        "nm": 58181,
+        "roles": [
+          {
+            "char": "Roger Merritt",
+            "ch": 95057
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blakely",
+        "nm": 86800,
+        "roles": [
+          {
+            "char": "Siobhan O'Halloran"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Briant",
+        "nm": 108464,
+        "roles": [
+          {
+            "char": "Paula Gray",
+            "as Jo Briant": true
+          }
+        ]
+      },
+      {
+        "name": "Laurie Dee",
+        "nm": 214198,
+        "roles": [
+          {
+            "char": "Bradley Foster"
+          }
+        ]
+      },
+      {
+        "name": "Heather Lindsay",
+        "nm": 512227,
+        "roles": [
+          {
+            "char": "Aileen Jones"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Frank Whitten",
+        "nm": 926492,
+        "roles": [
+          {
+            "char": "Carl Jones"
+          }
+        ]
+      },
+      {
+        "name": "Sonja Williams",
+        "nm": 1120843,
+        "roles": [
+          {
+            "char": "Gretchen Nash"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Episode #1.8",
+    "tt": 542099,
+    "air_date": "1996-09-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Tony Barry",
+        "nm": 58181,
+        "roles": [
+          {
+            "char": "Roger Merritt",
+            "ch": 95057
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blakely",
+        "nm": 86800,
+        "roles": [
+          {
+            "char": "Siobhan O'Halloran"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Boddy",
+        "nm": 90812,
+        "roles": [
+          {
+            "char": "Helen Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Heather Lindsay",
+        "nm": 512227,
+        "roles": [
+          {
+            "char": "Aileen Jones"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Frank Whitten",
+        "nm": 926492,
+        "roles": [
+          {
+            "char": "Carl Jones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Episode #1.9",
+    "tt": 542100,
+    "air_date": "1996-09-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Tony Barry",
+        "nm": 58181,
+        "roles": [
+          {
+            "char": "Roger Merritt",
+            "ch": 95057
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blakely",
+        "nm": 86800,
+        "roles": [
+          {
+            "char": "Siobhan O'Halloran"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Bond",
+        "nm": 93963,
+        "roles": [
+          {
+            "char": "Herb Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Briant",
+        "nm": 108464,
+        "roles": [
+          {
+            "char": "Paula Gray",
+            "as Jo Briant": true
+          }
+        ]
+      },
+      {
+        "name": "Hilary Cleary",
+        "nm": 165841,
+        "roles": [
+          {
+            "char": "Rose Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Gilbert Goldie",
+        "nm": 325641,
+        "roles": [
+          {
+            "char": "Mr. Llewellyn",
+            "ch": 317551
+          }
+        ]
+      },
+      {
+        "name": "Mark Lee",
+        "nm": 497826,
+        "roles": [
+          {
+            "char": "Nick Vogel",
+            "ch": 215587
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Craig Parker",
+        "nm": 662164,
+        "roles": [
+          {
+            "char": "Seth",
+            "ch": 145634
+          }
+        ]
+      },
+      {
+        "name": "Robert Pollock",
+        "nm": 689692,
+        "roles": [
+          {
+            "char": "Marcus"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Tollemache",
+        "nm": 1763213,
+        "roles": [
+          {
+            "char": "Annie Lawrence"
+          }
+        ]
+      },
+      {
+        "name": "Emma Turner",
+        "nm": 877539,
+        "roles": [
+          {
+            "char": "Zoe"
+          }
+        ]
+      },
+      {
+        "name": "Fran Viveaere",
+        "nm": 900260,
+        "roles": [
+          {
+            "char": "Madeleine Huria"
+          }
+        ]
+      },
+      {
+        "name": "Sonja Williams",
+        "nm": 1120843,
+        "roles": [
+          {
+            "char": "Gretchen Nash"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Episode #1.10",
+    "tt": 542076,
+    "air_date": "1996-09-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Tony Barry",
+        "nm": 58181,
+        "roles": [
+          {
+            "char": "Roger Merritt",
+            "ch": 95057
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blakely",
+        "nm": 86800,
+        "roles": [
+          {
+            "char": "Siobhan O'Halloran"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Briant",
+        "nm": 108464,
+        "roles": [
+          {
+            "char": "Paula Gray",
+            "as Jo Briant": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Gittins",
+        "nm": 321243,
+        "roles": [
+          {
+            "char": "John Gable",
+            "ch": 320344
+          }
+        ]
+      },
+      {
+        "name": "Gilbert Goldie",
+        "nm": 325641,
+        "roles": [
+          {
+            "char": "Mr. Llewellyn",
+            "ch": 317551
+          }
+        ]
+      },
+      {
+        "name": "Mark Lee",
+        "nm": 497826,
+        "roles": [
+          {
+            "char": "Nick Vogel",
+            "ch": 215587
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Craig Parker",
+        "nm": 662164,
+        "roles": [
+          {
+            "char": "Seth",
+            "ch": 145634
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Rands",
+        "nm": 709964,
+        "roles": [
+          {
+            "char": "Minister of Justice"
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Tollemache",
+        "nm": 1763213,
+        "roles": [
+          {
+            "char": "Annie Lawrence"
+          }
+        ]
+      },
+      {
+        "name": "Emma Turner",
+        "nm": 877539,
+        "roles": [
+          {
+            "char": "Zoe"
+          }
+        ]
+      },
+      {
+        "name": "Fran Viveaere",
+        "nm": 900260,
+        "roles": [
+          {
+            "char": "Madeleine Huria"
+          }
+        ]
+      },
+      {
+        "name": "Susan Winter",
+        "nm": 935830,
+        "roles": [
+          {
+            "char": "Lynley Gable"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Episode #1.11",
+    "tt": 542077,
+    "air_date": "1997-12-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Tony Barry",
+        "nm": 58181,
+        "roles": [
+          {
+            "char": "Roger Merritt",
+            "ch": 95057
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blakely",
+        "nm": 86800,
+        "roles": [
+          {
+            "char": "Siobhan O'Halloran"
+          }
+        ]
+      },
+      {
+        "name": "Marcia Cameron",
+        "nm": 1120617,
+        "roles": [
+          {
+            "char": "Dorothy Nelson"
+          }
+        ]
+      },
+      {
+        "name": "Mark Lee",
+        "nm": 497826,
+        "roles": [
+          {
+            "char": "Nick Vogel",
+            "ch": 215587
+          }
+        ]
+      },
+      {
+        "name": "May Lloyd",
+        "nm": 516079,
+        "roles": [
+          {
+            "char": "Leonie Wood"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Robert Pollock",
+        "nm": 689692,
+        "roles": [
+          {
+            "char": "Marcus"
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Brett Stewart",
+        "nm": 829226,
+        "roles": [
+          {
+            "char": "Jack MacNamara"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Tollemache",
+        "nm": 1763213,
+        "roles": [
+          {
+            "char": "Annie Lawrence"
+          }
+        ]
+      },
+      {
+        "name": "Sonja Williams",
+        "nm": 1120843,
+        "roles": [
+          {
+            "char": "Gretchen Nash"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Episode #1.12",
+    "tt": 542078,
+    "air_date": "1997-12-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blakely",
+        "nm": 86800,
+        "roles": [
+          {
+            "char": "Siobhan O'Halloran"
+          }
+        ]
+      },
+      {
+        "name": "Alan Brash",
+        "nm": 105368,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Kama Brown",
+        "nm": 113950,
+        "roles": [
+          {
+            "char": "Nicky Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Bryer Dossetter",
+        "nm": 2007754,
+        "roles": [
+          {
+            "char": "Mrs. Pohutukawa"
+          }
+        ]
+      },
+      {
+        "name": "William Kircher",
+        "nm": 456270,
+        "roles": [
+          {
+            "char": "Ross Palmer",
+            "ch": 308439
+          }
+        ]
+      },
+      {
+        "name": "Nathaniel Lees",
+        "nm": 498731,
+        "roles": [
+          {
+            "char": "Avery Wilson",
+            "ch": 109817
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Leibert",
+        "nm": 500028,
+        "roles": [
+          {
+            "char": "Candy"
+          }
+        ]
+      },
+      {
+        "name": "May Lloyd",
+        "nm": 516079,
+        "roles": [
+          {
+            "char": "Leonie Wood"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "David Stott",
+        "nm": 832786,
+        "roles": [
+          {
+            "char": "Brett Bateman",
+            "ch": 317768
+          }
+        ]
+      },
+      {
+        "name": "Sonja Williams",
+        "nm": 1120843,
+        "roles": [
+          {
+            "char": "Gretchen Nash"
+          }
+        ]
+      },
+      {
+        "name": "Mark Wright",
+        "nm": 942624,
+        "roles": [
+          {
+            "char": "Derek Gillespie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Episode #1.13",
+    "tt": 542079,
+    "air_date": "1997-12-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Johnny Bond",
+        "nm": 93963,
+        "roles": [
+          {
+            "char": "Herb Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Kama Brown",
+        "nm": 113950,
+        "roles": [
+          {
+            "char": "Nicky Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Hilary Cleary",
+        "nm": 165841,
+        "roles": [
+          {
+            "char": "Rose Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "William Kircher",
+        "nm": 456270,
+        "roles": [
+          {
+            "char": "Ross Palmer",
+            "ch": 308439
+          }
+        ]
+      },
+      {
+        "name": "May Lloyd",
+        "nm": 516079,
+        "roles": [
+          {
+            "char": "Leonie Wood"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Richard Shirtcliffe",
+        "nm": 794407,
+        "roles": [
+          {
+            "char": "Tom Goulding"
+          }
+        ]
+      },
+      {
+        "name": "David Stott",
+        "nm": 832786,
+        "roles": [
+          {
+            "char": "Brett Bateman",
+            "ch": 317768
+          }
+        ]
+      },
+      {
+        "name": "Mark Wright",
+        "nm": 942624,
+        "roles": [
+          {
+            "char": "Derek Gillespie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Episode #1.14",
+    "tt": 542080,
+    "air_date": "1998-01-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Chris Bailey",
+        "nm": 1917477,
+        "roles": [
+          {
+            "char": "Prosecutor"
+          }
+        ]
+      },
+      {
+        "name": "Tony Barry",
+        "nm": 58181,
+        "roles": [
+          {
+            "char": "Roger Merritt",
+            "ch": 95057
+          }
+        ]
+      },
+      {
+        "name": "Kama Brown",
+        "nm": 113950,
+        "roles": [
+          {
+            "char": "Nicky Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Bryer Dossetter",
+        "nm": 2007754,
+        "roles": [
+          {
+            "char": "Mrs. Pohutukawa"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Flyger",
+        "nm": 283398,
+        "roles": [
+          {
+            "char": "Mrs. Langston"
+          }
+        ]
+      },
+      {
+        "name": "George Henare",
+        "nm": 376234,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Greg Johnson",
+        "nm": 425168,
+        "roles": [
+          {
+            "char": "Ray Gilligan"
+          }
+        ]
+      },
+      {
+        "name": "William Kircher",
+        "nm": 456270,
+        "roles": [
+          {
+            "char": "Ross Palmer",
+            "ch": 308439
+          }
+        ]
+      },
+      {
+        "name": "May Lloyd",
+        "nm": 516079,
+        "roles": [
+          {
+            "char": "Leonie Wood"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Richard Shirtcliffe",
+        "nm": 794407,
+        "roles": [
+          {
+            "char": "Tom Goulding"
+          }
+        ]
+      },
+      {
+        "name": "David Stott",
+        "nm": 832786,
+        "roles": [
+          {
+            "char": "Brett Bateman",
+            "ch": 317768
+          }
+        ]
+      },
+      {
+        "name": "Mark Wright",
+        "nm": 942624,
+        "roles": [
+          {
+            "char": "Derek Gillespie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Episode #1.15",
+    "tt": 542081,
+    "air_date": "1998-01-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Bruce Allpress",
+        "nm": 21600,
+        "roles": [
+          {
+            "char": "Graham Waters"
+          }
+        ]
+      },
+      {
+        "name": "Tony Barry",
+        "nm": 58181,
+        "roles": [
+          {
+            "char": "Roger Merritt",
+            "ch": 95057
+          }
+        ]
+      },
+      {
+        "name": "Kama Brown",
+        "nm": 113950,
+        "roles": [
+          {
+            "char": "Nicky Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Alison Bruce",
+        "nm": 115410,
+        "roles": [
+          {
+            "char": "Katherine Dwyer"
+          }
+        ]
+      },
+      {
+        "name": "William Kircher",
+        "nm": 456270,
+        "roles": [
+          {
+            "char": "Ross Palmer",
+            "ch": 308439
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "David Stott",
+        "nm": 832786,
+        "roles": [
+          {
+            "char": "Brett Bateman",
+            "ch": 317768
+          }
+        ]
+      },
+      {
+        "name": "Joy Watson",
+        "nm": 914736,
+        "roles": [
+          {
+            "char": "Joyce Waters"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Episode #1.16",
+    "tt": 542082,
+    "air_date": "1998-01-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Tony Barry",
+        "nm": 58181,
+        "roles": [
+          {
+            "char": "Roger Merritt",
+            "ch": 95057
+          }
+        ]
+      },
+      {
+        "name": "Joanna Briant",
+        "nm": 108464,
+        "roles": [
+          {
+            "char": "Paula Gray",
+            "as Jo Briant": true
+          }
+        ]
+      },
+      {
+        "name": "Kama Brown",
+        "nm": 113950,
+        "roles": [
+          {
+            "char": "Nicky Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Paul Gittins",
+        "nm": 321243,
+        "roles": [
+          {
+            "char": "John Gable",
+            "ch": 320344
+          }
+        ]
+      },
+      {
+        "name": "William Kircher",
+        "nm": 456270,
+        "roles": [
+          {
+            "char": "Ross Palmer",
+            "ch": 308439
+          }
+        ]
+      },
+      {
+        "name": "Nathaniel Lees",
+        "nm": 498731,
+        "roles": [
+          {
+            "char": "Avery Wilson",
+            "ch": 109817
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Lorna Riley",
+        "nm": 2005350,
+        "roles": [
+          {
+            "char": "Ginette"
+          }
+        ]
+      },
+      {
+        "name": "Ashleigh Seagar",
+        "nm": 780445,
+        "roles": [
+          {
+            "char": "Debra Munro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Episode #1.17",
+    "tt": 542083,
+    "air_date": "1998-01-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Tony Barry",
+        "nm": 58181,
+        "roles": [
+          {
+            "char": "Roger Merritt",
+            "ch": 95057
+          }
+        ]
+      },
+      {
+        "name": "Joanna Briant",
+        "nm": 108464,
+        "roles": [
+          {
+            "char": "Paula Gray",
+            "as Jo Briant": true
+          }
+        ]
+      },
+      {
+        "name": "Kama Brown",
+        "nm": 113950,
+        "roles": [
+          {
+            "char": "Nicky Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Paul Gittins",
+        "nm": 321243,
+        "roles": [
+          {
+            "char": "John Gable",
+            "ch": 320344
+          }
+        ]
+      },
+      {
+        "name": "William Kircher",
+        "nm": 456270,
+        "roles": [
+          {
+            "char": "Ross Palmer",
+            "ch": 308439
+          }
+        ]
+      },
+      {
+        "name": "Nathaniel Lees",
+        "nm": 498731,
+        "roles": [
+          {
+            "char": "Avery Wilson",
+            "ch": 109817
+          }
+        ]
+      },
+      {
+        "name": "Cherie McQuilkin",
+        "nm": 1098615,
+        "roles": [
+          {
+            "char": "The Applicant"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Ashleigh Seagar",
+        "nm": 780445,
+        "roles": [
+          {
+            "char": "Debra Munro"
+          }
+        ]
+      },
+      {
+        "name": "Sonja Williams",
+        "nm": 1120843,
+        "roles": [
+          {
+            "char": "Gretchen Nash"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Episode #1.18",
+    "tt": 542084,
+    "air_date": "1998-01-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Kama Brown",
+        "nm": 113950,
+        "roles": [
+          {
+            "char": "Nicky Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Andy Dye",
+        "nm": 245646,
+        "roles": [
+          {
+            "char": "Repairman"
+          }
+        ]
+      },
+      {
+        "name": "Mike Edward",
+        "nm": 249761,
+        "roles": [
+          {
+            "char": "Eugene",
+            "ch": 145633
+          }
+        ]
+      },
+      {
+        "name": "Adrienne Hill",
+        "nm": 384016,
+        "roles": [
+          {
+            "char": "Library Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Dave Horn",
+        "nm": 1071282,
+        "roles": [
+          {
+            "char": "Repairman"
+          }
+        ]
+      },
+      {
+        "name": "William Kircher",
+        "nm": 456270,
+        "roles": [
+          {
+            "char": "Ross Palmer",
+            "ch": 308439
+          }
+        ]
+      },
+      {
+        "name": "Nathaniel Lees",
+        "nm": 498731,
+        "roles": [
+          {
+            "char": "Avery Wilson",
+            "ch": 109817
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Ashleigh Seagar",
+        "nm": 780445,
+        "roles": [
+          {
+            "char": "Debra Munro"
+          }
+        ]
+      },
+      {
+        "name": "Sonja Williams",
+        "nm": 1120843,
+        "roles": [
+          {
+            "char": "Gretchen Nash"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Episode #1.19",
+    "tt": 542085,
+    "air_date": "1998-01-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Johnny Bond",
+        "nm": 93963,
+        "roles": [
+          {
+            "char": "Herb Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Kama Brown",
+        "nm": 113950,
+        "roles": [
+          {
+            "char": "Nicky Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Hilary Cleary",
+        "nm": 165841,
+        "roles": [
+          {
+            "char": "Rose Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Devenie",
+        "nm": 222313,
+        "roles": [
+          {
+            "char": "Neil Gribble"
+          }
+        ]
+      },
+      {
+        "name": "Mike Edward",
+        "nm": 249761,
+        "roles": [
+          {
+            "char": "Eugene",
+            "ch": 145633
+          }
+        ]
+      },
+      {
+        "name": "William Kircher",
+        "nm": 456270,
+        "roles": [
+          {
+            "char": "Ross Palmer",
+            "ch": 308439
+          }
+        ]
+      },
+      {
+        "name": "Nathaniel Lees",
+        "nm": 498731,
+        "roles": [
+          {
+            "char": "Avery Wilson",
+            "ch": 109817
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Ilona Rodgers",
+        "nm": 734714,
+        "roles": [
+          {
+            "char": "Beverley Gribble"
+          }
+        ]
+      },
+      {
+        "name": "Ashleigh Seagar",
+        "nm": 780445,
+        "roles": [
+          {
+            "char": "Debra Munro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Episode #1.20",
+    "tt": 542087,
+    "air_date": "1998-01-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Catherine Boniface",
+        "nm": 94566,
+        "roles": [
+          {
+            "char": "Young Woman"
+          }
+        ]
+      },
+      {
+        "name": "Kama Brown",
+        "nm": 113950,
+        "roles": [
+          {
+            "char": "Nicky Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Mike Edward",
+        "nm": 249761,
+        "roles": [
+          {
+            "char": "Eugene",
+            "ch": 145633
+          }
+        ]
+      },
+      {
+        "name": "Eugene Halpin",
+        "nm": 1342511,
+        "roles": [
+          {
+            "char": "Tim"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Jim Moriarty",
+        "nm": 605355,
+        "roles": [
+          {
+            "char": "Detective Steve Jordan"
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Ashleigh Seagar",
+        "nm": 780445,
+        "roles": [
+          {
+            "char": "Debra Munro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Episode #1.21",
+    "tt": 542088,
+    "air_date": "1998-02-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Robert Harte",
+        "nm": 366630,
+        "roles": [
+          {
+            "char": "Howard Nicholson",
+            "ch": 308137
+          }
+        ]
+      },
+      {
+        "name": "George Henare",
+        "nm": 376234,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Graham Lauder",
+        "nm": 2009821,
+        "roles": [
+          {
+            "char": "Prisoner #1"
+          }
+        ]
+      },
+      {
+        "name": "Brian McNeill",
+        "nm": 573943,
+        "roles": [
+          {
+            "char": "Professor Robert Mason"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Moraleda",
+        "nm": 602529,
+        "roles": [
+          {
+            "char": "Michael Lee",
+            "ch": 109815
+          }
+        ]
+      },
+      {
+        "name": "Jim Moriarty",
+        "nm": 605355,
+        "roles": [
+          {
+            "char": "Detective Steve Jordan"
+          }
+        ]
+      },
+      {
+        "name": "Michael Morrissey",
+        "nm": 607399,
+        "roles": [
+          {
+            "char": "Alan Cutter"
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Tamati Rice",
+        "nm": 723561,
+        "roles": [
+          {
+            "char": "Cam Winiata"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Smith",
+        "nm": 2006160,
+        "roles": [
+          {
+            "char": "Patrick Walsh"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Tozer",
+        "nm": 870352,
+        "roles": [
+          {
+            "char": "Ernest Kellett",
+            "ch": 308441
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Episode #1.22",
+    "tt": 542089,
+    "air_date": "1998-02-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Bill Borlase",
+        "nm": 96985,
+        "roles": [
+          {
+            "char": "Justice of Peace"
+          }
+        ]
+      },
+      {
+        "name": "Kama Brown",
+        "nm": 113950,
+        "roles": [
+          {
+            "char": "Nicky Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Vicky Burrett",
+        "nm": 123109,
+        "roles": [
+          {
+            "char": "Moira Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Paul Minifie",
+        "nm": 591365,
+        "roles": [
+          {
+            "char": "Crown Prosecutor"
+          }
+        ]
+      },
+      {
+        "name": "Jim Moriarty",
+        "nm": 605355,
+        "roles": [
+          {
+            "char": "Detective Steve Jordan"
+          }
+        ]
+      },
+      {
+        "name": "Celia Nicholson",
+        "nm": 629790,
+        "roles": [
+          {
+            "char": "Leigh Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Aurora Philips",
+        "nm": 1861484,
+        "roles": [
+          {
+            "char": "Sarah"
+          }
+        ]
+      },
+      {
+        "name": "Tamati Rice",
+        "nm": 723561,
+        "roles": [
+          {
+            "char": "Cam Winiata"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Smith",
+        "nm": 2006160,
+        "roles": [
+          {
+            "char": "Patrick Walsh"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Tozer",
+        "nm": 870352,
+        "roles": [
+          {
+            "char": "Ernest Kellett",
+            "ch": 308441
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "Episode #1.23",
+    "tt": 542090,
+    "air_date": "1998-02-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Carl Bland",
+        "nm": 87357,
+        "roles": [
+          {
+            "char": "Ivan",
+            "ch": 308440
+          }
+        ]
+      },
+      {
+        "name": "Gerry Eller",
+        "nm": 1120261,
+        "roles": [
+          {
+            "char": "Sue"
+          }
+        ]
+      },
+      {
+        "name": "Lana Garland",
+        "nm": 307542,
+        "roles": [
+          {
+            "char": "Ani"
+          }
+        ]
+      },
+      {
+        "name": "Heidi Jeory",
+        "nm": 969393,
+        "roles": [
+          {
+            "char": "Cushla"
+          }
+        ]
+      },
+      {
+        "name": "John Kerr",
+        "nm": 1116905,
+        "roles": [
+          {
+            "char": "Warwick Jennings"
+          }
+        ]
+      },
+      {
+        "name": "Shimpal Lelisi",
+        "nm": 500955,
+        "roles": [
+          {
+            "char": "Ofisa"
+          }
+        ]
+      },
+      {
+        "name": "Glenis Levestam",
+        "nm": 1394185,
+        "roles": [
+          {
+            "char": "Sheila Harris"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Moody",
+        "nm": 600448,
+        "roles": [
+          {
+            "char": "Vernon Gallagher",
+            "ch": 318788
+          }
+        ]
+      },
+      {
+        "name": "Colin Moy",
+        "nm": 610325,
+        "roles": [
+          {
+            "char": "Craig Widdows",
+            "ch": 315870
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Tamati Rice",
+        "nm": 723561,
+        "roles": [
+          {
+            "char": "Cam Winiata"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Thurtell",
+        "nm": 862273,
+        "roles": [
+          {
+            "char": "Angus"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Tozer",
+        "nm": 870352,
+        "roles": [
+          {
+            "char": "Ernest Kellett",
+            "ch": 308441
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "Episode #1.24",
+    "tt": 542091,
+    "air_date": "1998-02-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Alison Bruce",
+        "nm": 115410,
+        "roles": [
+          {
+            "char": "Katherine Dwyer"
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Frewen",
+        "nm": 2016525,
+        "roles": [
+          {
+            "char": "Tania Mills"
+          }
+        ]
+      },
+      {
+        "name": "Lana Garland",
+        "nm": 307542,
+        "roles": [
+          {
+            "char": "Ani"
+          }
+        ]
+      },
+      {
+        "name": "Shimpal Lelisi",
+        "nm": 500955,
+        "roles": [
+          {
+            "char": "Ofisa"
+          }
+        ]
+      },
+      {
+        "name": "Glenis Levestam",
+        "nm": 1394185,
+        "roles": [
+          {
+            "char": "Sheila Harris"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Moody",
+        "nm": 600448,
+        "roles": [
+          {
+            "char": "Vernon Gallagher",
+            "ch": 318788
+          }
+        ]
+      },
+      {
+        "name": "Tamati Rice",
+        "nm": 723561,
+        "roles": [
+          {
+            "char": "Cam Winiata"
+          }
+        ]
+      },
+      {
+        "name": "Gavin Rutherford",
+        "nm": 2005377,
+        "roles": [
+          {
+            "char": "Jim Mills"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Thurtell",
+        "nm": 862273,
+        "roles": [
+          {
+            "char": "Angus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E25",
+    "title": "Episode #1.25",
+    "tt": 542092,
+    "air_date": "1998-02-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Tamati Rice",
+        "nm": 723561,
+        "roles": [
+          {
+            "char": "Cam Winiata"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Tozer",
+        "nm": 870352,
+        "roles": [
+          {
+            "char": "Ernest Kellett",
+            "ch": 308441
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Moody",
+        "nm": 600448,
+        "roles": [
+          {
+            "char": "Vernon Gallagher",
+            "ch": 318788
+          }
+        ]
+      },
+      {
+        "name": "Robert Harte",
+        "nm": 366630,
+        "roles": [
+          {
+            "char": "Howard Nicholson",
+            "ch": 308137
+          }
+        ]
+      },
+      {
+        "name": "Carl Bland",
+        "nm": 87357,
+        "roles": [
+          {
+            "char": "Ivan",
+            "ch": 308440
+          }
+        ]
+      },
+      {
+        "name": "Liz Mullane",
+        "nm": 611943,
+        "roles": [
+          {
+            "char": "Maureen Moss"
+          }
+        ]
+      },
+      {
+        "name": "Toni Marsh",
+        "nm": 550678,
+        "roles": [
+          {
+            "char": "Shelley"
+          }
+        ]
+      },
+      {
+        "name": "Sussanna Hooper",
+        "nm": 973289,
+        "roles": [
+          {
+            "char": "Diane"
+          }
+        ]
+      },
+      {
+        "name": "Lindy Davis",
+        "nm": 205039,
+        "roles": [
+          {
+            "char": "Lisa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E26",
+    "title": "Episode #1.26",
+    "tt": 542093,
+    "air_date": "1998-02-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudia Black",
+        "nm": 85227,
+        "roles": [
+          {
+            "char": "Angela Kostapas",
+            "ch": 103736
+          }
+        ]
+      },
+      {
+        "name": "Katrina Browne",
+        "nm": 115026,
+        "roles": [
+          {
+            "char": "Kristen Wood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Campbell",
+        "nm": 132524,
+        "roles": [
+          {
+            "char": "Aaron Kellett",
+            "ch": 239324
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chappell",
+        "nm": 152615,
+        "roles": [
+          {
+            "char": "Bronwyn Kellett",
+            "ch": 225900
+          }
+        ]
+      },
+      {
+        "name": "Oliver Driver",
+        "nm": 238135,
+        "roles": [
+          {
+            "char": "Josh Gribble",
+            "ch": 228899
+          }
+        ]
+      },
+      {
+        "name": "Laurie Foell",
+        "nm": 283801,
+        "roles": [
+          {
+            "char": "Stephanie Cox",
+            "ch": 117500,
+            "as Laurie Foel": true
+          }
+        ]
+      },
+      {
+        "name": "John Freeman",
+        "nm": 293448,
+        "roles": [
+          {
+            "char": "Gideon Miller",
+            "ch": 71352
+          }
+        ]
+      },
+      {
+        "name": "Michelle Huirama",
+        "nm": 401253,
+        "roles": [
+          {
+            "char": "Wiki Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mesure",
+        "nm": 582351,
+        "roles": [
+          {
+            "char": "Ryan Waters",
+            "ch": 71353
+          }
+        ]
+      },
+      {
+        "name": "Peter Muller",
+        "nm": 612221,
+        "roles": [
+          {
+            "char": "Hugh Campbell",
+            "ch": 228897
+          }
+        ]
+      },
+      {
+        "name": "Johnny Bond",
+        "nm": 93963,
+        "roles": [
+          {
+            "char": "Herb Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Dean Butler",
+        "nm": 124890,
+        "roles": [
+          {
+            "char": "Dermott"
+          }
+        ]
+      },
+      {
+        "name": "Hilary Cleary",
+        "nm": 165841,
+        "roles": [
+          {
+            "char": "Rose Crabtree"
+          }
+        ]
+      },
+      {
+        "name": "Fiona Edgar",
+        "nm": 249203,
+        "roles": [
+          {
+            "char": "Julie"
+          }
+        ]
+      },
+      {
+        "name": "Ian Hughes",
+        "nm": 400655,
+        "roles": [
+          {
+            "char": "Wade"
+          }
+        ]
+      },
+      {
+        "name": "Heidi Jeory",
+        "nm": 969393,
+        "roles": [
+          {
+            "char": "Cushla"
+          }
+        ]
+      },
+      {
+        "name": "John Kerr",
+        "nm": 1116905,
+        "roles": [
+          {
+            "char": "Warwick Jennings"
+          }
+        ]
+      },
+      {
+        "name": "Colin Moy",
+        "nm": 610325,
+        "roles": [
+          {
+            "char": "Craig Widdows",
+            "ch": 315870
+          }
+        ]
+      },
+      {
+        "name": "Donogh Rees",
+        "nm": 715901,
+        "roles": [
+          {
+            "char": "Mia Fulsome"
+          }
+        ]
+      },
+      {
+        "name": "Tamati Rice",
+        "nm": 723561,
+        "roles": [
+          {
+            "char": "Cam Winiata"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Tozer",
+        "nm": 870352,
+        "roles": [
+          {
+            "char": "Ernest Kellett",
+            "ch": 308441
+          }
+        ]
+      }
+    ]
+  }
+]

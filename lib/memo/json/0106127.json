@@ -1,0 +1,974 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 697115,
+    "air_date": "1993-11-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Connie Sellecca",
+        "nm": 783314,
+        "roles": [
+          {
+            "char": "Dianne Benedict"
+          }
+        ]
+      },
+      {
+        "name": "Matt Salinger",
+        "nm": 758413,
+        "roles": [
+          {
+            "char": "Mike Chulack",
+            "ch": 71551
+          }
+        ]
+      },
+      {
+        "name": "Megan Follows",
+        "nm": 1227,
+        "roles": [
+          {
+            "char": "Kate Benedict",
+            "as Megan Porter Follows": true
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Lopez",
+        "nm": 182,
+        "roles": [
+          {
+            "char": "Melinda Lopez",
+            "ch": 200754
+          }
+        ]
+      },
+      {
+        "name": "Pepe Serna",
+        "nm": 785277,
+        "roles": [
+          {
+            "char": "Salvador Lopez"
+          }
+        ]
+      },
+      {
+        "name": "Danny Gonzalez",
+        "nm": 327655,
+        "roles": [
+          {
+            "char": "Cesar Lopez"
+          }
+        ]
+      },
+      {
+        "name": "John Chaidez",
+        "nm": 149659,
+        "roles": [
+          {
+            "char": "Johnny Lopez"
+          }
+        ]
+      },
+      {
+        "name": "Justin Lazard",
+        "nm": 493699,
+        "roles": [
+          {
+            "char": "Kevin Cook",
+            "ch": 84718
+          }
+        ]
+      },
+      {
+        "name": "Frances Lee McCain",
+        "nm": 564589,
+        "roles": [
+          {
+            "char": "Felicity Cook"
+          }
+        ]
+      },
+      {
+        "name": "Ronny Cox",
+        "nm": 1074,
+        "roles": [
+          {
+            "char": "George Cook",
+            "ch": 71549
+          }
+        ]
+      },
+      {
+        "name": "Ray Wise",
+        "nm": 936403,
+        "roles": [
+          {
+            "char": "Judge Jim Stinson",
+            "ch": 84716
+          }
+        ]
+      },
+      {
+        "name": "Michelle Phillips",
+        "nm": 680645,
+        "roles": [
+          {
+            "char": "Joanna Russell"
+          }
+        ]
+      },
+      {
+        "name": "Erich Anderson",
+        "nm": 26687,
+        "roles": [
+          {
+            "char": "Bruce Christianson #1",
+            "ch": 71550
+          }
+        ]
+      },
+      {
+        "name": "Sean Fitzgerald",
+        "nm": 280384,
+        "roles": [
+          {
+            "char": "Brian Christianson #2",
+            "ch": 71550
+          }
+        ]
+      },
+      {
+        "name": "Chuck Bulot",
+        "nm": 120239,
+        "roles": [
+          {
+            "char": "Officer Parker"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Egan",
+        "nm": 250716,
+        "roles": [
+          {
+            "char": "Moderator"
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Real Estate Agent"
+          }
+        ]
+      },
+      {
+        "name": "Michael McGrady",
+        "nm": 569732,
+        "roles": [
+          {
+            "char": "?"
+          }
+        ]
+      },
+      {
+        "name": "Lance Patrick",
+        "nm": 1882777,
+        "roles": [
+          {
+            "char": "Best Man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Save the Last Dance for Me",
+    "tt": 697116,
+    "air_date": "1993-12-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Connie Sellecca",
+        "nm": 783314,
+        "roles": [
+          {
+            "char": "Dianne Benedict"
+          }
+        ]
+      },
+      {
+        "name": "Matt Salinger",
+        "nm": 758413,
+        "roles": [
+          {
+            "char": "Mike Chulack",
+            "ch": 71551
+          }
+        ]
+      },
+      {
+        "name": "Megan Follows",
+        "nm": 1227,
+        "roles": [
+          {
+            "char": "Kate Benedict",
+            "as Megan Porter Follows": true
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Lopez",
+        "nm": 182,
+        "roles": [
+          {
+            "char": "Melinda Lopez",
+            "ch": 200754
+          }
+        ]
+      },
+      {
+        "name": "Pepe Serna",
+        "nm": 785277,
+        "roles": [
+          {
+            "char": "Salvador Lopez"
+          }
+        ]
+      },
+      {
+        "name": "Danny Gonzalez",
+        "nm": 327655,
+        "roles": [
+          {
+            "char": "Cesar Lopez"
+          }
+        ]
+      },
+      {
+        "name": "John Chaidez",
+        "nm": 149659,
+        "roles": [
+          {
+            "char": "Johnny Lopez"
+          }
+        ]
+      },
+      {
+        "name": "Justin Lazard",
+        "nm": 493699,
+        "roles": [
+          {
+            "char": "Kevin Cook",
+            "ch": 84718
+          }
+        ]
+      },
+      {
+        "name": "Frances Lee McCain",
+        "nm": 564589,
+        "roles": [
+          {
+            "char": "Felicity Cook"
+          }
+        ]
+      },
+      {
+        "name": "Ronny Cox",
+        "nm": 1074,
+        "roles": [
+          {
+            "char": "George Cook",
+            "ch": 71549
+          }
+        ]
+      },
+      {
+        "name": "Ray Wise",
+        "nm": 936403,
+        "roles": [
+          {
+            "char": "Judge Jim Stinson",
+            "ch": 84716
+          }
+        ]
+      },
+      {
+        "name": "Michelle Phillips",
+        "nm": 680645,
+        "roles": [
+          {
+            "char": "Joanna Russell"
+          }
+        ]
+      },
+      {
+        "name": "Erich Anderson",
+        "nm": 26687,
+        "roles": [
+          {
+            "char": "Bruce Christianson #1",
+            "ch": 71550
+          }
+        ]
+      },
+      {
+        "name": "Sean Fitzgerald",
+        "nm": 280384,
+        "roles": [
+          {
+            "char": "Brian Christianson #2",
+            "ch": 71550
+          }
+        ]
+      },
+      {
+        "name": "Ramy Zada",
+        "nm": 951719,
+        "roles": [
+          {
+            "char": "Det. Jerry Kuntz",
+            "ch": 135257
+          }
+        ]
+      },
+      {
+        "name": "Chuck Bulot",
+        "nm": 120239,
+        "roles": [
+          {
+            "char": "Officer Parker"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Ann Lewis",
+        "nm": 507859,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Coincidence or Conspiracy",
+    "tt": 697108,
+    "air_date": "1993-12-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Connie Sellecca",
+        "nm": 783314,
+        "roles": [
+          {
+            "char": "Dianne Benedict"
+          }
+        ]
+      },
+      {
+        "name": "Matt Salinger",
+        "nm": 758413,
+        "roles": [
+          {
+            "char": "Mike Chulack",
+            "ch": 71551
+          }
+        ]
+      },
+      {
+        "name": "Megan Follows",
+        "nm": 1227,
+        "roles": [
+          {
+            "char": "Kate Benedict",
+            "as Megan Porter Follows": true
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Lopez",
+        "nm": 182,
+        "roles": [
+          {
+            "char": "Melinda Lopez",
+            "ch": 200754
+          }
+        ]
+      },
+      {
+        "name": "Pepe Serna",
+        "nm": 785277,
+        "roles": [
+          {
+            "char": "Salvador Lopez"
+          }
+        ]
+      },
+      {
+        "name": "Justin Lazard",
+        "nm": 493699,
+        "roles": [
+          {
+            "char": "Kevin Cook",
+            "ch": 84718
+          }
+        ]
+      },
+      {
+        "name": "Ray Wise",
+        "nm": 936403,
+        "roles": [
+          {
+            "char": "Judge Jim Stinson",
+            "ch": 84716
+          }
+        ]
+      },
+      {
+        "name": "Sean Fitzgerald",
+        "nm": 280384,
+        "roles": [
+          {
+            "char": "Brian Christianson #2",
+            "ch": 71550
+          }
+        ]
+      },
+      {
+        "name": "Ramy Zada",
+        "nm": 951719,
+        "roles": [
+          {
+            "char": "Det. Jerry Kuntz",
+            "ch": 135257
+          }
+        ]
+      },
+      {
+        "name": "Stephen Nichols",
+        "nm": 629731,
+        "roles": [
+          {
+            "char": "Tommy Simmons",
+            "ch": 84717
+          }
+        ]
+      },
+      {
+        "name": "Jaime H. Campos",
+        "nm": 2667040,
+        "roles": [
+          {
+            "char": "Sheriff Deputy",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Living in Between",
+    "tt": 697113,
+    "air_date": "1994-12-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Connie Sellecca",
+        "nm": 783314,
+        "roles": [
+          {
+            "char": "Dianne Benedict"
+          }
+        ]
+      },
+      {
+        "name": "Matt Salinger",
+        "nm": 758413,
+        "roles": [
+          {
+            "char": "Mike Chulack",
+            "ch": 71551
+          }
+        ]
+      },
+      {
+        "name": "Megan Follows",
+        "nm": 1227,
+        "roles": [
+          {
+            "char": "Kate Benedict",
+            "as Megan Porter Follows": true
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Lopez",
+        "nm": 182,
+        "roles": [
+          {
+            "char": "Melinda Lopez",
+            "ch": 200754
+          }
+        ]
+      },
+      {
+        "name": "Pepe Serna",
+        "nm": 785277,
+        "roles": [
+          {
+            "char": "Salvador Lopez"
+          }
+        ]
+      },
+      {
+        "name": "Justin Lazard",
+        "nm": 493699,
+        "roles": [
+          {
+            "char": "Kevin Cook",
+            "ch": 84718
+          }
+        ]
+      },
+      {
+        "name": "Ray Wise",
+        "nm": 936403,
+        "roles": [
+          {
+            "char": "Judge Jim Stinson",
+            "ch": 84716
+          }
+        ]
+      },
+      {
+        "name": "Michelle Phillips",
+        "nm": 680645,
+        "roles": [
+          {
+            "char": "Joanna Russell"
+          }
+        ]
+      },
+      {
+        "name": "Sean Fitzgerald",
+        "nm": 280384,
+        "roles": [
+          {
+            "char": "Brian Christianson #2",
+            "ch": 71550
+          }
+        ]
+      },
+      {
+        "name": "Ramy Zada",
+        "nm": 951719,
+        "roles": [
+          {
+            "char": "Det. Jerry Kuntz",
+            "ch": 135257
+          }
+        ]
+      },
+      {
+        "name": "Stephen Nichols",
+        "nm": 629731,
+        "roles": [
+          {
+            "char": "Tommy Simmons",
+            "ch": 84717
+          }
+        ]
+      },
+      {
+        "name": "Lena Banks",
+        "nm": 3086341,
+        "roles": [
+          {
+            "char": "Mourner",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "I Can't Get No Satisfaxion",
+    "tt": 697110,
+    "air_date": "1993-12-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Connie Sellecca",
+        "nm": 783314,
+        "roles": [
+          {
+            "char": "Dianne Benedict"
+          }
+        ]
+      },
+      {
+        "name": "Matt Salinger",
+        "nm": 758413,
+        "roles": [
+          {
+            "char": "Mike Chulack",
+            "ch": 71551
+          }
+        ]
+      },
+      {
+        "name": "Megan Follows",
+        "nm": 1227,
+        "roles": [
+          {
+            "char": "Kate Benedict",
+            "as Megan Porter Follows": true
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Lopez",
+        "nm": 182,
+        "roles": [
+          {
+            "char": "Melinda Lopez",
+            "ch": 200754
+          }
+        ]
+      },
+      {
+        "name": "Stephen Nichols",
+        "nm": 629731,
+        "roles": [
+          {
+            "char": "Tommy Simmons",
+            "ch": 84717
+          }
+        ]
+      },
+      {
+        "name": "Ray Wise",
+        "nm": 936403,
+        "roles": [
+          {
+            "char": "Judge Jim Stinson",
+            "ch": 84716
+          }
+        ]
+      },
+      {
+        "name": "Ramy Zada",
+        "nm": 951719,
+        "roles": [
+          {
+            "char": "Det. Jerry Kuntz",
+            "ch": 135257
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Swimming Through Mud",
+    "tt": 697117,
+    "air_date": "1994-01-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Connie Sellecca",
+        "nm": 783314,
+        "roles": [
+          {
+            "char": "Dianne Benedict"
+          }
+        ]
+      },
+      {
+        "name": "Matt Salinger",
+        "nm": 758413,
+        "roles": [
+          {
+            "char": "Mike Chulack",
+            "ch": 71551
+          }
+        ]
+      },
+      {
+        "name": "Megan Follows",
+        "nm": 1227,
+        "roles": [
+          {
+            "char": "Kate Benedict",
+            "as Megan Porter Follows": true
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Lopez",
+        "nm": 182,
+        "roles": [
+          {
+            "char": "Melinda Lopez",
+            "ch": 200754
+          }
+        ]
+      },
+      {
+        "name": "Pepe Serna",
+        "nm": 785277,
+        "roles": [
+          {
+            "char": "Salvador Lopez"
+          }
+        ]
+      },
+      {
+        "name": "Danny Gonzalez",
+        "nm": 327655,
+        "roles": [
+          {
+            "char": "Cesar Lopez"
+          }
+        ]
+      },
+      {
+        "name": "John Chaidez",
+        "nm": 149659,
+        "roles": [
+          {
+            "char": "Johnny Lopez"
+          }
+        ]
+      },
+      {
+        "name": "Justin Lazard",
+        "nm": 493699,
+        "roles": [
+          {
+            "char": "Kevin Cook",
+            "ch": 84718
+          }
+        ]
+      },
+      {
+        "name": "Frances Lee McCain",
+        "nm": 564589,
+        "roles": [
+          {
+            "char": "Felicity Cook"
+          }
+        ]
+      },
+      {
+        "name": "Ronny Cox",
+        "nm": 1074,
+        "roles": [
+          {
+            "char": "George Cook",
+            "ch": 71549
+          }
+        ]
+      },
+      {
+        "name": "Ray Wise",
+        "nm": 936403,
+        "roles": [
+          {
+            "char": "Judge Jim Stinson",
+            "ch": 84716
+          }
+        ]
+      },
+      {
+        "name": "Michelle Phillips",
+        "nm": 680645,
+        "roles": [
+          {
+            "char": "Joanna Russell"
+          }
+        ]
+      },
+      {
+        "name": "Ramy Zada",
+        "nm": 951719,
+        "roles": [
+          {
+            "char": "Det. Jerry Kuntz",
+            "ch": 135257
+          }
+        ]
+      },
+      {
+        "name": "Stephen Nichols",
+        "nm": 629731,
+        "roles": [
+          {
+            "char": "Tommy Simmons",
+            "ch": 84717
+          }
+        ]
+      },
+      {
+        "name": "Rome Romanne",
+        "nm": 2586628,
+        "roles": [
+          {
+            "char": "Young Waiter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "If the Truth Be Told",
+    "tt": 697111,
+    "air_date": "1994-01-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ryal Haakenson",
+        "nm": 3422607,
+        "roles": [
+          {
+            "char": "Wedding Guest"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Nichols",
+        "nm": 629731,
+        "roles": [
+          {
+            "char": "Tommy Simmons",
+            "ch": 84717
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Down Looks Like Up",
+    "tt": 697109,
+    "air_date": "1994-01-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Robert Duncan McNeill",
+        "nm": 536,
+        "roles": [
+          {
+            "char": "Pete Dyson",
+            "ch": 139871
+          }
+        ]
+      },
+      {
+        "name": "John Schneider",
+        "nm": 773884,
+        "roles": [
+          {
+            "char": "Richard McGill",
+            "ch": 75480
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Miss Friendly Santa Rita",
+    "tt": 697114,
+    "air_date": "1994-01-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Brenda Bakke",
+        "nm": 283,
+        "roles": [
+          {
+            "char": "Lara Peterson"
+          }
+        ]
+      },
+      {
+        "name": "Robert Duncan McNeill",
+        "nm": 536,
+        "roles": [
+          {
+            "char": "Pete Dyson",
+            "ch": 139871
+          }
+        ]
+      },
+      {
+        "name": "John Schneider",
+        "nm": 773884,
+        "roles": [
+          {
+            "char": "Richard McGill",
+            "ch": 75480
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Justifiable Jealousy",
+    "tt": 697112,
+    "air_date": "1994-02-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Brenda Bakke",
+        "nm": 283,
+        "roles": [
+          {
+            "char": "Lara Peterson"
+          }
+        ]
+      },
+      {
+        "name": "Laura Gardner",
+        "nm": 307019,
+        "roles": [
+          {
+            "char": "Police Woman"
+          }
+        ]
+      },
+      {
+        "name": "Robert Duncan McNeill",
+        "nm": 536,
+        "roles": [
+          {
+            "char": "Pete Dyson",
+            "ch": 139871
+          }
+        ]
+      },
+      {
+        "name": "John Schneider",
+        "nm": 773884,
+        "roles": [
+          {
+            "char": "Richard McGill",
+            "ch": 75480
+          }
+        ]
+      }
+    ]
+  }
+]

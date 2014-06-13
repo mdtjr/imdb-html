@@ -1,0 +1,43 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Computer Suitor",
+    "tt": 1127664,
+    "air_date": "1970-09-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Howard Morris",
+        "nm": 606593,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jane Webb",
+        "nm": 916140,
+        "roles": [
+          {
+            "char": "Geraldine Lewis",
+            "voice": true
+          },
+          {
+            "char": "Rhonda",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "David L. Lander",
+        "nm": 5581,
+        "roles": [
+          {
+            "char": "Jerry Lewis",
+            "ch": 34513,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  }
+]

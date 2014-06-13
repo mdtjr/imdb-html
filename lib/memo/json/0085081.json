@@ -1,0 +1,1301 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Rousters",
+    "tt": 690405,
+    "air_date": "1983-10-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Cactus Jack Slade",
+            "ch": 343660
+          }
+        ]
+      },
+      {
+        "name": "Fred Dryer",
+        "nm": 4885,
+        "roles": [
+          {
+            "char": "Will Clayton",
+            "ch": 343661
+          }
+        ]
+      },
+      {
+        "name": "Robert Davi",
+        "nm": 1108,
+        "roles": [
+          {
+            "char": "Norman Clayton",
+            "ch": 343662
+          }
+        ]
+      },
+      {
+        "name": "Danny Wells",
+        "nm": 920164,
+        "roles": [
+          {
+            "char": "Arnold Lane",
+            "ch": 343663
+          }
+        ]
+      },
+      {
+        "name": "Beau Starr",
+        "nm": 823462,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Alan Stock",
+        "nm": 830711,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lisa Trusel",
+        "nm": 874407,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ken Swofford",
+        "nm": 842855,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Pamela Susan Shoop",
+        "nm": 794870,
+        "roles": [
+          {
+            "char": "Trish Callahan",
+            "ch": 343664
+          }
+        ]
+      },
+      {
+        "name": "John Dennis Johnston",
+        "nm": 426665,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Robert Dryer",
+        "nm": 238739,
+        "roles": [
+          {
+            "char": "Lawson Brother #1",
+            "ch": 343665
+          }
+        ]
+      },
+      {
+        "name": "David Graf",
+        "nm": 333701,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jerry Biggs",
+        "nm": 81847,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Al White",
+        "nm": 924424,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Leo Gordon",
+        "nm": 330388,
+        "roles": [
+          {
+            "char": "Unhappy Gun Buyer",
+            "ch": 343666,
+            "as Leo V. Gordon": true
+          }
+        ]
+      },
+      {
+        "name": "Terrence McNally",
+        "nm": 573645,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rex Ryon",
+        "nm": 753420,
+        "roles": [
+          {
+            "char": "Cop #2"
+          }
+        ]
+      },
+      {
+        "name": "Randy McClane",
+        "nm": 572186,
+        "roles": [
+          {
+            "char": "Harold the Strong Man",
+            "ch": 343668
+          }
+        ]
+      },
+      {
+        "name": "Jack Garner",
+        "nm": 307715,
+        "roles": [
+          {
+            "char": "Dan Sergeant",
+            "ch": 343669
+          }
+        ]
+      },
+      {
+        "name": "Len Ross",
+        "nm": 743608,
+        "roles": [
+          {
+            "char": "Booking Officer",
+            "ch": 343670
+          }
+        ]
+      },
+      {
+        "name": "Bruce Tuthill",
+        "nm": 878295,
+        "roles": [
+          {
+            "char": "'Bandit' Belasco",
+            "ch": 343671
+          }
+        ]
+      },
+      {
+        "name": "K.C. Winkler",
+        "nm": 935241,
+        "roles": [
+          {
+            "char": "Waitress #2"
+          }
+        ]
+      },
+      {
+        "name": "John McLaughlin",
+        "nm": 572350,
+        "roles": [
+          {
+            "char": "Cop #3"
+          }
+        ]
+      },
+      {
+        "name": "Jan Burrell",
+        "nm": 123068,
+        "roles": [
+          {
+            "char": "Gail"
+          }
+        ]
+      },
+      {
+        "name": "Wyatt Johnson",
+        "nm": 426453,
+        "roles": [
+          {
+            "char": "Cop #1"
+          }
+        ]
+      },
+      {
+        "name": "Nomi Mitty",
+        "nm": 594197,
+        "roles": [
+          {
+            "char": "Waitress #1"
+          }
+        ]
+      },
+      {
+        "name": "Beth Nufer",
+        "nm": 637768,
+        "roles": [
+          {
+            "char": "Babs",
+            "ch": 343674
+          }
+        ]
+      },
+      {
+        "name": "Doree Sitterly",
+        "nm": 803274,
+        "roles": [
+          {
+            "char": "Elephant Girl",
+            "ch": 343675
+          }
+        ]
+      },
+      {
+        "name": "Mark Voland",
+        "nm": 901344,
+        "roles": [
+          {
+            "char": "Clown"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Carnival That Ate Sladetown",
+    "tt": 690404,
+    "air_date": "1983-10-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      },
+      {
+        "name": "Robert Pierce",
+        "nm": 670564,
+        "roles": [
+          {
+            "char": "Carl Gunter Von Scoik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Finders Keepers",
+    "tt": 690401,
+    "air_date": "1983-10-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      },
+      {
+        "name": "Deborah Shelton",
+        "nm": 1730,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "A Picture's Worth a Thousand Dollars",
+    "tt": 690398,
+    "air_date": "1983-10-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      },
+      {
+        "name": "Caryn Richman",
+        "nm": 725020,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Eye Witness Blues",
+    "tt": 690400,
+    "air_date": "1983-12-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      },
+      {
+        "name": "Rick Fitts",
+        "nm": 280109,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Robin Riker",
+        "nm": 726939,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Andrew Robinson",
+        "nm": 732367,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Everybody Loves a Clown",
+    "tt": 690399,
+    "air_date": "1983-12-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      },
+      {
+        "name": "Duncan Gamble",
+        "nm": 303778,
+        "roles": [
+          {
+            "char": "First Cop"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Josephson",
+        "nm": 430752,
+        "roles": [
+          {
+            "char": "Ivan"
+          }
+        ]
+      },
+      {
+        "name": "Jeff MacKay",
+        "nm": 533171,
+        "roles": [
+          {
+            "char": "Gandy"
+          }
+        ]
+      },
+      {
+        "name": "Herman Poppe",
+        "nm": 691551,
+        "roles": [
+          {
+            "char": "Yuri"
+          }
+        ]
+      },
+      {
+        "name": "Robert Tessier",
+        "nm": 856377,
+        "roles": [
+          {
+            "char": "Bender"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Never Trust a Crystal Ball",
+    "tt": 1119029,
+    "air_date": "1984-06-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Two and a Helf Day of the Condor",
+    "tt": 690406,
+    "air_date": "1984-06-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      },
+      {
+        "name": "Elsa Raven",
+        "nm": 712341,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Slade vs. Slade",
+    "tt": 690402,
+    "air_date": "1984-06-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      },
+      {
+        "name": "Ruta Lee",
+        "nm": 498181,
+        "roles": [
+          {
+            "char": "Mrs. Slade"
+          }
+        ]
+      },
+      {
+        "name": "Richard Molinare",
+        "nm": 596815,
+        "roles": [
+          {
+            "char": "Director"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Snake Eyes",
+    "tt": 690403,
+    "air_date": "1984-06-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      },
+      {
+        "name": "Jack Andreozzi",
+        "nm": 28396,
+        "roles": [
+          {
+            "char": "Charlie"
+          }
+        ]
+      },
+      {
+        "name": "Randi Brooks",
+        "nm": 112205,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dana Hill",
+        "nm": 384162,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dana Lee",
+        "nm": 497086,
+        "roles": [
+          {
+            "char": "Yakuza"
+          }
+        ]
+      },
+      {
+        "name": "Jay Rasumny",
+        "nm": 711564,
+        "roles": [
+          {
+            "char": "Stick man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Cold Streak",
+    "tt": 1906169,
+    "air_date": "1984-07-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "This Town Ain't Big Enough for the Twelve of Us",
+    "tt": 1906170,
+    "air_date": "1984-07-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Wyatt Earp to the Rescue",
+    "tt": 1906171,
+    "air_date": "1984-07-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chad Everett",
+        "nm": 263496,
+        "roles": [
+          {
+            "char": "Wyatt Earp III",
+            "ch": 343655
+          }
+        ]
+      },
+      {
+        "name": "Jim Varney",
+        "nm": 1815,
+        "roles": [
+          {
+            "char": "Evan Earp",
+            "ch": 343656
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Ellen Slade",
+            "ch": 343657
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Amanda Earp",
+            "ch": 343658
+          }
+        ]
+      },
+      {
+        "name": "Timothy Gibbs",
+        "nm": 316743,
+        "roles": [
+          {
+            "char": "Michael Earp",
+            "ch": 343659
+          }
+        ]
+      },
+      {
+        "name": "Hoyt Axton",
+        "nm": 1924,
+        "roles": [
+          {
+            "char": "Jack Slade",
+            "ch": 343660
+          }
+        ]
+      }
+    ]
+  }
+]

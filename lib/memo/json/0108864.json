@@ -1,0 +1,70 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 1261261,
+    "air_date": "1994-05-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Alan Rothwell",
+        "nm": 745335,
+        "roles": [
+          {
+            "char": "Piano Tuner"
+          }
+        ]
+      },
+      {
+        "name": "Alice Hunter-Vernazza",
+        "nm": 4230787,
+        "roles": [
+          {
+            "char": "Blind date",
+            "as Alice Elizabeth Hunter": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 1411453,
+    "air_date": "1994-06-05",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E03",
+    "title": "Episode #1.3",
+    "tt": 1411454,
+    "air_date": "1994-06-12",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E04",
+    "title": "Episode #1.4",
+    "tt": 1411455,
+    "air_date": "1994-06-19",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E05",
+    "title": "Episode #1.5",
+    "tt": 1411456,
+    "air_date": "1994-06-26",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E06",
+    "title": "Episode #1.6",
+    "tt": 1411457,
+    "air_date": "1994-07-10",
+    "description": null,
+    "cast": null
+  }
+]

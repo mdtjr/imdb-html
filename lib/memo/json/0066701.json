@@ -1,0 +1,3447 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Overture",
+    "tt": 673510,
+    "air_date": "1971-09-17",
+    "description": "British playboy Lord Brett Sinclair and his American counterpart Danny Wilde are summoned by retired Judge Fulton to an hotel on the French Riviera where they get into a fight. As an alternative to being arrested the judge 'persuades' them to work for him to apprehend criminals seemingly beyond the law. Their first assignment involves locating Maria Lorenzo - a girl identified by an unusual birthmark. Her brother, head of a crime syndicate, was supposedly killed two years earlier but is very much alive and still carrying on his illegal activities, unknown to Maria. Through Maria, Brett and Danny must find her brother and end his wicked ways.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Laurence Naismith",
+        "nm": 619802,
+        "roles": [
+          {
+            "char": "Judge Fulton",
+            "ch": 33359
+          }
+        ]
+      },
+      {
+        "name": "Imogen Hassall",
+        "nm": 368302,
+        "roles": [
+          {
+            "char": "Maria Lorenzo"
+          }
+        ]
+      },
+      {
+        "name": "Alex Scott",
+        "nm": 778808,
+        "roles": [
+          {
+            "char": "Coley"
+          }
+        ]
+      },
+      {
+        "name": "Michael Godfrey",
+        "nm": 324001,
+        "roles": [
+          {
+            "char": "Robert Dupont"
+          }
+        ]
+      },
+      {
+        "name": "Bruno Barnabe",
+        "nm": 55350,
+        "roles": [
+          {
+            "char": "Bruno, Maitre de"
+          }
+        ]
+      },
+      {
+        "name": "Neal Arden",
+        "nm": 34008,
+        "roles": [
+          {
+            "char": "Inspector Flavel"
+          }
+        ]
+      },
+      {
+        "name": "John Acheson",
+        "nm": 9810,
+        "roles": [
+          {
+            "char": "Triver"
+          }
+        ]
+      },
+      {
+        "name": "Nina Baden-Semper",
+        "nm": 46021,
+        "roles": [
+          {
+            "char": "Air Hostess",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Maxwell Craig",
+        "nm": 2382053,
+        "roles": [
+          {
+            "char": "Aircraft Captain",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Cliff Diggins",
+        "nm": 226504,
+        "roles": [
+          {
+            "char": "Dupont's Henchman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Beulah Hughes",
+        "nm": 400468,
+        "roles": [
+          {
+            "char": "Brett's girl in Bar",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Alf Joint",
+        "nm": 426996,
+        "roles": [
+          {
+            "char": "Waiter",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Francoise Leriche",
+        "nm": 2393153,
+        "roles": [
+          {
+            "char": "Blonde Hitch-Hiker 1",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Lester",
+        "nm": 504513,
+        "roles": [
+          {
+            "char": "Coley's 1st Henchman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Lloyd",
+        "nm": 2051190,
+        "roles": [
+          {
+            "char": "Air Hostess 3",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Terence Maidment",
+        "nm": 537404,
+        "roles": [
+          {
+            "char": "Coley's 2nd Henchman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Olivia Mela",
+        "nm": 2392547,
+        "roles": [
+          {
+            "char": "Girl in bikini",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Maria O'Brien",
+        "nm": 4496806,
+        "roles": [
+          {
+            "char": "Air Hostess 1",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Nosher Powell",
+        "nm": 694118,
+        "roles": [
+          {
+            "char": "English Tourist",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jan Rennison",
+        "nm": 719706,
+        "roles": [
+          {
+            "char": "Other girl in bar",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Christine Rodgers",
+        "nm": 734686,
+        "roles": [
+          {
+            "char": "Air Hostess 2",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Gordon Rollings",
+        "nm": 712606,
+        "roles": [
+          {
+            "char": "Bar tender",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Christine Smith",
+        "nm": 962608,
+        "roles": [
+          {
+            "char": "Danny's girl in Bar",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Gold Napoleon",
+    "tt": 673517,
+    "air_date": "1971-09-24",
+    "description": "An attempt to assassinate an art student at the Code d'Azur airport lead Brett and Danny to a syndicate smuggling gold in the form of counterfeit coins.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Susan George",
+        "nm": 1265,
+        "roles": [
+          {
+            "char": "Michelle Devigne"
+          }
+        ]
+      },
+      {
+        "name": "Alfred Marks",
+        "nm": 548767,
+        "roles": [
+          {
+            "char": "Pullicino"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Naismith",
+        "nm": 619802,
+        "roles": [
+          {
+            "char": "Judge Fulton",
+            "ch": 33359
+          }
+        ]
+      },
+      {
+        "name": "Harold Goldblatt",
+        "nm": 325354,
+        "roles": [
+          {
+            "char": "Maurice Devigne"
+          }
+        ]
+      },
+      {
+        "name": "Michael McStay",
+        "nm": 574569,
+        "roles": [
+          {
+            "char": "Vernier"
+          }
+        ]
+      },
+      {
+        "name": "Hugh Manning",
+        "nm": 543286,
+        "roles": [
+          {
+            "char": "Chief of Police"
+          }
+        ]
+      },
+      {
+        "name": "Charles Houston",
+        "nm": 396806,
+        "roles": [
+          {
+            "char": "Jacoby"
+          }
+        ]
+      },
+      {
+        "name": "Balbina",
+        "nm": 49524,
+        "roles": [
+          {
+            "char": "Sister"
+          }
+        ]
+      },
+      {
+        "name": "Hugo De Vernier",
+        "nm": 212109,
+        "roles": [
+          {
+            "char": "Hospital Porter"
+          }
+        ]
+      },
+      {
+        "name": "Jean Driant",
+        "nm": 237870,
+        "roles": [
+          {
+            "char": "Douane"
+          }
+        ]
+      },
+      {
+        "name": "Paul Armstrong",
+        "nm": 35855,
+        "roles": [
+          {
+            "char": "Foundary foreman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Nevillie Barber",
+        "nm": 3721043,
+        "roles": [
+          {
+            "char": "Airport Security Guard",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jan-Michael Vincent",
+        "nm": 1821,
+        "roles": [
+          {
+            "char": "Helicopter pilot",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Take Seven",
+    "tt": 673515,
+    "air_date": "1971-10-01",
+    "description": "Judge Fulton sends Brett and Danny to the aid of Jenny Lindley, whose supposedly long dead brother Mark has suddenly reappeared to wrest possession of the family estate from her. The judge believes that Mark is an impostor and his suspicions seem considerable when somebody tries to kill Jenny. Whilst Mark has an alibi, a hit-man has been involved, who, in turn, is shot dead. The Persuaders find a diary, belonging to a former employee of the Lindley family, which provides the answer to the mystery but by this time Jenny has gone to see Mark and Brett and Danny fear that she may be in danger.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Sinéad Cusack",
+        "nm": 193661,
+        "roles": [
+          {
+            "char": "Jenny Lindley",
+            "as Sinead Cusack": true
+          }
+        ]
+      },
+      {
+        "name": "Laurence Naismith",
+        "nm": 619802,
+        "roles": [
+          {
+            "char": "Judge Fulton",
+            "ch": 33359
+          }
+        ]
+      },
+      {
+        "name": "Christian Roberts",
+        "nm": 730938,
+        "roles": [
+          {
+            "char": "Mark Lindley"
+          }
+        ]
+      },
+      {
+        "name": "John Kelland",
+        "nm": 445503,
+        "roles": [
+          {
+            "char": "Harvester"
+          }
+        ]
+      },
+      {
+        "name": "Sue Lloyd",
+        "nm": 516145,
+        "roles": [
+          {
+            "char": "Maggie"
+          }
+        ]
+      },
+      {
+        "name": "Veronica Hurst",
+        "nm": 403667,
+        "roles": [
+          {
+            "char": "The Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Victor Platt",
+        "nm": 686910,
+        "roles": [
+          {
+            "char": "The Farmer"
+          }
+        ]
+      },
+      {
+        "name": "Julie Crosthwaite",
+        "nm": 189385,
+        "roles": [
+          {
+            "char": "Mandy",
+            "as Julie Crosthwait": true
+          }
+        ]
+      },
+      {
+        "name": "Garfield Morgan",
+        "nm": 604669,
+        "roles": [
+          {
+            "char": "Peter Hayward"
+          }
+        ]
+      },
+      {
+        "name": "Colin Vancao",
+        "nm": 888490,
+        "roles": [
+          {
+            "char": "The Major"
+          }
+        ]
+      },
+      {
+        "name": "Richard Hurndall",
+        "nm": 403528,
+        "roles": [
+          {
+            "char": "David Conron"
+          }
+        ]
+      },
+      {
+        "name": "Edward Malin",
+        "nm": 539625,
+        "roles": [
+          {
+            "char": "Judge Fulton's Barber",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Greensleeves",
+    "tt": 673508,
+    "air_date": "1971-10-08",
+    "description": "Brett discovers a mysterious group has reopened his family's closed-up country house for unknown reasons.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Nicols",
+        "nm": 630482,
+        "roles": [
+          {
+            "char": "Melanie Sadler"
+          }
+        ]
+      },
+      {
+        "name": "Cy Grant",
+        "nm": 335328,
+        "roles": [
+          {
+            "char": "Richard Congoto"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Keir",
+        "nm": 445139,
+        "roles": [
+          {
+            "char": "Sir John Hassocks",
+            "ch": 86373
+          }
+        ]
+      },
+      {
+        "name": "George Woodbridge",
+        "nm": 940161,
+        "roles": [
+          {
+            "char": "Gregory Ward"
+          }
+        ]
+      },
+      {
+        "name": "Tom Adams",
+        "nm": 11403,
+        "roles": [
+          {
+            "char": "Piers Emerson"
+          }
+        ]
+      },
+      {
+        "name": "Tommy Godfrey",
+        "nm": 324034,
+        "roles": [
+          {
+            "char": "Benny Ryan"
+          }
+        ]
+      },
+      {
+        "name": "Carmen Munroe",
+        "nm": 613184,
+        "roles": [
+          {
+            "char": "Carmen Congoto"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Brough",
+        "nm": 112645,
+        "roles": [
+          {
+            "char": "Moorehead"
+          }
+        ]
+      },
+      {
+        "name": "Clifton Jones",
+        "nm": 427790,
+        "roles": [
+          {
+            "char": "Dr. Kibu"
+          }
+        ]
+      },
+      {
+        "name": "Robert Cawdron",
+        "nm": 147204,
+        "roles": [
+          {
+            "char": "Leyland"
+          }
+        ]
+      },
+      {
+        "name": "Michael Martin",
+        "nm": 552782,
+        "roles": [
+          {
+            "char": "Jackson"
+          }
+        ]
+      },
+      {
+        "name": "Alan Chuntz",
+        "nm": 161328,
+        "roles": [
+          {
+            "char": "Valet",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Powerswitch",
+    "tt": 673511,
+    "air_date": "1971-09-25",
+    "description": "Julie Blake is murdered and, helped by her friend and fellow dancer Pekoe, the Persuaders conclude it is because she discovered that millionaire Lanny Koestler was a fake. In fact he is an actor, Morgan Alcott, employed by Koestler's duplicitous wife, to impersonate him until she can transfer his assets into her own accounts. When she has done so he will have outlived his purpose and will be murdered. The Persuaders seek to prevent this and to expose her and her accomplices.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Annette Andre",
+        "nm": 28130,
+        "roles": [
+          {
+            "char": "Pekoo Rayne"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Naismith",
+        "nm": 619802,
+        "roles": [
+          {
+            "char": "Judge Fulton",
+            "ch": 33359
+          }
+        ]
+      },
+      {
+        "name": "Terence Alexander",
+        "nm": 18776,
+        "roles": [
+          {
+            "char": "Matthew Crane"
+          }
+        ]
+      },
+      {
+        "name": "Leslie Crawford",
+        "nm": 186874,
+        "roles": [
+          {
+            "char": "Ravel",
+            "as Les Crawford": true
+          }
+        ]
+      },
+      {
+        "name": "Melissa Stribling",
+        "nm": 834320,
+        "roles": [
+          {
+            "char": "Lisa Koestler"
+          }
+        ]
+      },
+      {
+        "name": "Vicki Woolf",
+        "nm": 941171,
+        "roles": [
+          {
+            "char": "rent-a-car Girl"
+          }
+        ]
+      },
+      {
+        "name": "John Phillips",
+        "nm": 680515,
+        "roles": [
+          {
+            "char": "Lanning Koestler"
+          }
+        ]
+      },
+      {
+        "name": "Lionel Blair",
+        "nm": 86296,
+        "roles": [
+          {
+            "char": "Quinn Travis"
+          }
+        ]
+      },
+      {
+        "name": "Paul Whitsun-Jones",
+        "nm": 926402,
+        "roles": [
+          {
+            "char": "Inspector Blanchard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "The Time and the Place",
+    "tt": 673523,
+    "air_date": "1971-10-22",
+    "description": "While driving along a country road, Danny's attention is attracted by a leggy girl in a short skirt. He quickly leaves her however when he hears a suspicious sound from within the woodland, confirmed by finding a dead body. But by the time he has dragged Brett back to see it, the body has mysteriously vanished and the pair are marched off as trespassers by a hostile gamekeeper.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Ian Hendry",
+        "nm": 376915,
+        "roles": [
+          {
+            "char": "Lord Croxley"
+          }
+        ]
+      },
+      {
+        "name": "Anna Palk",
+        "nm": 657728,
+        "roles": [
+          {
+            "char": "Marie"
+          }
+        ]
+      },
+      {
+        "name": "Patrick O'Connell",
+        "nm": 640147,
+        "roles": [
+          {
+            "char": "Ryder"
+          }
+        ]
+      },
+      {
+        "name": "Robert Flemyng",
+        "nm": 281866,
+        "roles": [
+          {
+            "char": "Sir George"
+          }
+        ]
+      },
+      {
+        "name": "David Rees",
+        "nm": 1624332,
+        "roles": [
+          {
+            "char": "TV Interviewer"
+          }
+        ]
+      },
+      {
+        "name": "Basil Dignam",
+        "nm": 226584,
+        "roles": [
+          {
+            "char": "Prime Minister Norman Russell"
+          }
+        ]
+      },
+      {
+        "name": "Duncan Lamont",
+        "nm": 483653,
+        "roles": [
+          {
+            "char": "William Benton"
+          }
+        ]
+      },
+      {
+        "name": "Terence Sewards",
+        "nm": 786559,
+        "roles": [
+          {
+            "char": "Marsden"
+          }
+        ]
+      },
+      {
+        "name": "Campbell Singer",
+        "nm": 801907,
+        "roles": [
+          {
+            "char": "Porter"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Toone",
+        "nm": 867555,
+        "roles": [
+          {
+            "char": "The General"
+          }
+        ]
+      },
+      {
+        "name": "Olga Lowe",
+        "nm": 523015,
+        "roles": [
+          {
+            "char": "Traffic Warden"
+          }
+        ]
+      },
+      {
+        "name": "Cliff Diggins",
+        "nm": 226504,
+        "roles": [
+          {
+            "char": "Croxley's waiter",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Harry Fielder",
+        "nm": 276092,
+        "roles": [
+          {
+            "char": "Clay Pigeon Operator",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Tom Gill",
+        "nm": 318749,
+        "roles": [
+          {
+            "char": "Lord Croxley's butler",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Alan Johns",
+        "nm": 1660088,
+        "roles": [
+          {
+            "char": "Policeman at accident",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Howard Lang",
+        "nm": 485771,
+        "roles": [
+          {
+            "char": "Coalition Club Member",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "David Lodge",
+        "nm": 517084,
+        "roles": [
+          {
+            "char": "Thompson",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Nightingale",
+        "nm": 631472,
+        "roles": [
+          {
+            "char": "Coalition club member",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Someone Like Me",
+    "tt": 673513,
+    "air_date": "1971-10-29",
+    "description": "Knocked unconscious after a staged road block, Brett awakes in a fake hospital, from which he eventually escapes, to be told by Danny that he has a double who has been impersonating him. Reclusive millionaire Sam Milford is due in town and Brett is one of the few people he trusts to come near him. Danny reasons that the double is out to kill Sam but then realises that there is no double and Brett himself was programmed to kill whilst in hospital.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Reginald Marsh",
+        "nm": 550646,
+        "roles": [
+          {
+            "char": "Dr. Fowler"
+          }
+        ]
+      },
+      {
+        "name": "Tony Wright",
+        "nm": 942877,
+        "roles": [
+          {
+            "char": "David Alton"
+          }
+        ]
+      },
+      {
+        "name": "Anne De Vigier",
+        "nm": 212130,
+        "roles": [
+          {
+            "char": "Nurse Crane"
+          }
+        ]
+      },
+      {
+        "name": "Gerald Sim",
+        "nm": 799245,
+        "roles": [
+          {
+            "char": "Dr. Gordon"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Lee",
+        "nm": 496866,
+        "roles": [
+          {
+            "char": "Sam Milford"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Briggs",
+        "nm": 109050,
+        "roles": [
+          {
+            "char": "Charlie"
+          }
+        ]
+      },
+      {
+        "name": "Joanne Dainton",
+        "nm": 197411,
+        "roles": [
+          {
+            "char": "Miss Lindsay"
+          }
+        ]
+      },
+      {
+        "name": "Vivian Neves",
+        "nm": 627399,
+        "roles": [
+          {
+            "char": "Danny's Girl",
+            "Annabelle": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Burnham",
+        "nm": 122505,
+        "roles": [
+          {
+            "char": "Scott Maskell"
+          }
+        ]
+      },
+      {
+        "name": "Diana Terry",
+        "nm": 1821417,
+        "roles": [
+          {
+            "char": "Brett's Girl"
+          }
+        ]
+      },
+      {
+        "name": "Derek Cox",
+        "nm": 184991,
+        "roles": [
+          {
+            "char": "Milford's Bodyguard 1",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Gerry Crampton",
+        "nm": 186229,
+        "roles": [
+          {
+            "char": "Milford's Bodyguard 2",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Anyone Can Play",
+    "tt": 673504,
+    "air_date": "1971-11-05",
+    "description": "Following coincidental events in a Brighton casino, Danny is mistaken for a Soviet spy and given a mysterious list of names. British intelligence is far from happy as they were on the verge of discovering the identity of the true spy. Brett joins Danny in his efforts to locate the real Russian agent by using the list - which, rather oddly, consists of the names of railway stations.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Cyd Hayman",
+        "nm": 371340,
+        "roles": [
+          {
+            "char": "Lyn"
+          }
+        ]
+      },
+      {
+        "name": "Dudley Foster",
+        "nm": 287783,
+        "roles": [
+          {
+            "char": "Heather"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Connor",
+        "nm": 175447,
+        "roles": [
+          {
+            "char": "Train Guard"
+          }
+        ]
+      },
+      {
+        "name": "Ed Devereaux",
+        "nm": 222358,
+        "roles": [
+          {
+            "char": "Ryker"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Coll",
+        "nm": 171576,
+        "roles": [
+          {
+            "char": "London Agent"
+          }
+        ]
+      },
+      {
+        "name": "Richard Vernon",
+        "nm": 894710,
+        "roles": [
+          {
+            "char": "Sir Maxwell Dean"
+          }
+        ]
+      },
+      {
+        "name": "Graham Weston",
+        "nm": 922957,
+        "roles": [
+          {
+            "char": "Northern Agent"
+          }
+        ]
+      },
+      {
+        "name": "Tim Goodman",
+        "nm": 329249,
+        "roles": [
+          {
+            "char": "Webster"
+          }
+        ]
+      },
+      {
+        "name": "Peter Forbes-Robertson",
+        "nm": 285426,
+        "roles": [
+          {
+            "char": "Inspector Langford"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Jordan",
+        "nm": 430128,
+        "roles": [
+          {
+            "char": "Pelli"
+          }
+        ]
+      },
+      {
+        "name": "Kit Taylor",
+        "nm": 852723,
+        "roles": [
+          {
+            "char": "Croupier"
+          }
+        ]
+      },
+      {
+        "name": "Jack Arrow",
+        "nm": 37393,
+        "roles": [
+          {
+            "char": "Casino Receptionist",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Richards",
+        "nm": 724358,
+        "roles": [
+          {
+            "char": "Last Agent on Train",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Paddy Ryan",
+        "nm": 752761,
+        "roles": [
+          {
+            "char": "First Agent on Train",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "The Old, the New, and the Deadly",
+    "tt": 673521,
+    "air_date": "1971-10-23",
+    "description": "Danny becomes the target of assassination attempts after accidentally exposing Count Marceau as a Nazi. At the same time Suzy Denton is anxious to clear the name of her late father who, thanks to Marceau, died with the stigma of being, erroneously, termed a Nazi. The key to Suzy's mission lies in the statuette of a bird which the Persuaders must obtain from Marceau along with the kidnapped Suzy.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Anna Gaël",
+        "nm": 311184,
+        "roles": [
+          {
+            "char": "Suzy",
+            "as Anna Gael": true
+          }
+        ]
+      },
+      {
+        "name": "Derren Nesbitt",
+        "nm": 626352,
+        "roles": [
+          {
+            "char": "Groski"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth J. Warren",
+        "nm": 912915,
+        "roles": [
+          {
+            "char": "Verner"
+          }
+        ]
+      },
+      {
+        "name": "Juliet Harmer",
+        "nm": 363457,
+        "roles": [
+          {
+            "char": "Prue"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Troughton",
+        "nm": 873743,
+        "roles": [
+          {
+            "char": "Count Marceau"
+          }
+        ]
+      },
+      {
+        "name": "Gary Cockrell",
+        "nm": 168324,
+        "roles": [
+          {
+            "char": "Frank"
+          }
+        ]
+      },
+      {
+        "name": "Jasmina Hilton",
+        "nm": 385265,
+        "roles": [
+          {
+            "char": "Serena"
+          }
+        ]
+      },
+      {
+        "name": "Frederick Jaeger",
+        "nm": 415355,
+        "roles": [
+          {
+            "char": "Luther"
+          }
+        ]
+      },
+      {
+        "name": "Michael Segal",
+        "nm": 781825,
+        "roles": [
+          {
+            "char": "Denton"
+          }
+        ]
+      },
+      {
+        "name": "Michael Anthony",
+        "nm": 30955,
+        "roles": [
+          {
+            "char": "Hotel Desk Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Michael Finbar",
+        "nm": 3737036,
+        "roles": [
+          {
+            "char": "Man developing photo",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Les White",
+        "nm": 925123,
+        "roles": [
+          {
+            "char": "Groski's Man at the top of the stairs in club",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Angie... Angie",
+    "tt": 673503,
+    "air_date": "1971-11-19",
+    "description": "Angie is an old male friend of Danny's from the days before he struck it rich and Danny finds it hard to believe that Angie, re-encountered on the French Riviera, is now a hitman paid to rub out a witness against corruption in big business. Despite Brett's warnings of caution Danny is prepared to champion Angie but this leads to a showdown between the two old friends, which only one can survive.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Larry Storch",
+        "nm": 832415,
+        "roles": [
+          {
+            "char": "Angie"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Naismith",
+        "nm": 619802,
+        "roles": [
+          {
+            "char": "Judge Fulton",
+            "ch": 33359
+          }
+        ]
+      },
+      {
+        "name": "Lionel Murton",
+        "nm": 615463,
+        "roles": [
+          {
+            "char": "Ben"
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lindholm",
+        "nm": 79446,
+        "roles": [
+          {
+            "char": "Marissa Nave"
+          }
+        ]
+      },
+      {
+        "name": "John Alderson",
+        "nm": 17580,
+        "roles": [
+          {
+            "char": "Kyle Sandor"
+          }
+        ]
+      },
+      {
+        "name": "Anna Brett",
+        "nm": 107926,
+        "roles": [
+          {
+            "char": "Bank Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Rose Alba",
+        "nm": 16196,
+        "roles": [
+          {
+            "char": "Madama La Gata"
+          }
+        ]
+      },
+      {
+        "name": "Alan Chuntz",
+        "nm": 161328,
+        "roles": [
+          {
+            "char": "Sandor's Bodyguard",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Paddy Ryan",
+        "nm": 752761,
+        "roles": [
+          {
+            "char": "Cinema Projectionist",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Chain of Events",
+    "tt": 673505,
+    "air_date": "1971-10-16",
+    "description": "Danny finds himself in a deadly situation when a dying parachutist chains him to an attaché case, containing secret information which the British government are anxious to obtain. Not only does the head of MI6 mistake him for a renegade C.I.A, agent but X-rays of the case show that it contains an electronic device which will cause it to explode unless unlocked with a key. Brett tries to locate the key whilst Danny evades 'Franz Schubert', an unfriendly European also after the attaché case.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Suzanna Leigh",
+        "nm": 500299,
+        "roles": [
+          {
+            "char": "Emily Major"
+          }
+        ]
+      },
+      {
+        "name": "Peter Vaughan",
+        "nm": 891092,
+        "roles": [
+          {
+            "char": "Lance Schubert"
+          }
+        ]
+      },
+      {
+        "name": "George Baker",
+        "nm": 48468,
+        "roles": [
+          {
+            "char": "Britten"
+          }
+        ]
+      },
+      {
+        "name": "James Beckett",
+        "nm": 65691,
+        "roles": [
+          {
+            "char": "Previn"
+          }
+        ]
+      },
+      {
+        "name": "John Glyn-Jones",
+        "nm": 323335,
+        "roles": [
+          {
+            "char": "Dr. Rogers"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Child",
+        "nm": 157461,
+        "roles": [
+          {
+            "char": "Carlton"
+          }
+        ]
+      },
+      {
+        "name": "Morris Perry",
+        "nm": 675225,
+        "roles": [
+          {
+            "char": "Beecham-Bennett"
+          }
+        ]
+      },
+      {
+        "name": "James Bree",
+        "nm": 106657,
+        "roles": [
+          {
+            "char": "Bill Wilton"
+          }
+        ]
+      },
+      {
+        "name": "Neil Wilson",
+        "nm": 933906,
+        "roles": [
+          {
+            "char": "Police Constable"
+          }
+        ]
+      },
+      {
+        "name": "Peter Brace",
+        "nm": 102704,
+        "roles": [
+          {
+            "char": "Schubert's Man 1",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Gerry Crampton",
+        "nm": 186229,
+        "roles": [
+          {
+            "char": "Baxter",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Leon Eagles",
+        "nm": 247127,
+        "roles": [
+          {
+            "char": "Profokiev",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Simmons",
+        "nm": 799689,
+        "roles": [
+          {
+            "char": "Jeep Driver",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Rocky Taylor",
+        "nm": 853092,
+        "roles": [
+          {
+            "char": "Schubert's Man 2",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Dervis Ward",
+        "nm": 911497,
+        "roles": [
+          {
+            "char": "Agent",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "That's Me Over There",
+    "tt": 673516,
+    "air_date": "1971-12-03",
+    "description": "Thaddeus Krane is a ruthless millionaire who has made his wealth from the sufferings of others and his young secretary Cliff aims to expose him by contacting Brett. However Cliff is killed and Brett abducted and whisked away so that Krane's henchmen can ascertain how much he knows. To confuse Krane Judge Fulton persuades Danny to impersonate Brett, and all is going well until a lady friend of Brett's almost ruins the situation with her curiosity.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Keen",
+        "nm": 444584,
+        "roles": [
+          {
+            "char": "Thaddeus Krane"
+          }
+        ]
+      },
+      {
+        "name": "Suzan Farmer",
+        "nm": 267799,
+        "roles": [
+          {
+            "char": "Ann Summers"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Naismith",
+        "nm": 619802,
+        "roles": [
+          {
+            "char": "Judge Fulton",
+            "ch": 33359
+          }
+        ]
+      },
+      {
+        "name": "Allan Cuthbertson",
+        "nm": 193862,
+        "roles": [
+          {
+            "char": "Colonel Wright"
+          }
+        ]
+      },
+      {
+        "name": "Peter Gilmore",
+        "nm": 319566,
+        "roles": [
+          {
+            "char": "Mather"
+          }
+        ]
+      },
+      {
+        "name": "Juliet Harmer",
+        "nm": 363457,
+        "roles": [
+          {
+            "char": "Prue"
+          }
+        ]
+      },
+      {
+        "name": "Derek Newark",
+        "nm": 627610,
+        "roles": [
+          {
+            "char": "Lloyd"
+          }
+        ]
+      },
+      {
+        "name": "Terence Edmond",
+        "nm": 249469,
+        "roles": [
+          {
+            "char": "Cliff Turner"
+          }
+        ]
+      },
+      {
+        "name": "John Stone",
+        "nm": 831959,
+        "roles": [
+          {
+            "char": "Auctioneer"
+          }
+        ]
+      },
+      {
+        "name": "Neil Hallett",
+        "nm": 356488,
+        "roles": [
+          {
+            "char": "Prentice"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Newell",
+        "nm": 627822,
+        "roles": [
+          {
+            "char": "Fat Man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "The Long Goodbye",
+    "tt": 673518,
+    "air_date": "1971-12-10",
+    "description": "On holiday in Scotland the Persuaders find a crashed plane containing dead scientist Brian Wilks and a formula he has written down. Three girls turn up claiming to be the dead man's daughter and after the formula, a way to make cheap, synthetic fuel, but the Persuaders correctly Carla as the true claimant. Further complications arise when both Andreas Theopolos, the dead man's business partner, and tycoon Sir Hugo Chalmers both lay claim to the formula - which one of them, having already murdered Wilks, will kill to obtain.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Leo Genn",
+        "nm": 312890,
+        "roles": [
+          {
+            "char": "Sir Hugo Chalmers"
+          }
+        ]
+      },
+      {
+        "name": "Nicola Pagett",
+        "nm": 656452,
+        "roles": [
+          {
+            "char": "Carla Wilks"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Naismith",
+        "nm": 619802,
+        "roles": [
+          {
+            "char": "Judge Fulton",
+            "ch": 33359
+          }
+        ]
+      },
+      {
+        "name": "Noel Willman",
+        "nm": 932529,
+        "roles": [
+          {
+            "char": "Theopolos"
+          }
+        ]
+      },
+      {
+        "name": "Glynn Edwards",
+        "nm": 250022,
+        "roles": [
+          {
+            "char": "Boris"
+          }
+        ]
+      },
+      {
+        "name": "Madeline Smith",
+        "nm": 809184,
+        "roles": [
+          {
+            "char": "Carla I"
+          }
+        ]
+      },
+      {
+        "name": "Peter Sallis",
+        "nm": 758608,
+        "roles": [
+          {
+            "char": "Piper"
+          }
+        ]
+      },
+      {
+        "name": "Anouska Hempel",
+        "nm": 376138,
+        "roles": [
+          {
+            "char": "Carla II"
+          }
+        ]
+      },
+      {
+        "name": "Valerie Leon",
+        "nm": 502538,
+        "roles": [
+          {
+            "char": "Space Queen"
+          }
+        ]
+      },
+      {
+        "name": "Brian Jackson",
+        "nm": 413319,
+        "roles": [
+          {
+            "char": "Jenson"
+          }
+        ]
+      },
+      {
+        "name": "Deborah Moore",
+        "nm": 601105,
+        "roles": [
+          {
+            "char": "Little Girl"
+          }
+        ]
+      },
+      {
+        "name": "Derek Chafer",
+        "nm": 149530,
+        "roles": [
+          {
+            "char": "Policeman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Cheshire",
+        "nm": 156188,
+        "roles": [
+          {
+            "char": "Taxi Driver",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "The Man in the Middle",
+    "tt": 673519,
+    "air_date": "1971-10-09",
+    "description": "Somebody in British intelligence is selling secrets to foreign powers and Brett agrees to pose as the traitor, incurring the curiosity of British agent Kay Hunter, who follows him. Brett is approached by a man named Krilov, anxious to buy secrets from him but when it is discovered that Brett is a decoy, Krilov imprisons him. He is rescued by Danny and Archie, a foolish, impecunious relative of the Sinclairs, and manages to flush out the real traitor. However Krilov abducts Kay and it is down to Archie to save the day.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Terry-Thomas",
+        "nm": 856103,
+        "roles": [
+          {
+            "char": "Archibald Sinclair Beachum"
+          }
+        ]
+      },
+      {
+        "name": "Suzy Kendall",
+        "nm": 447648,
+        "roles": [
+          {
+            "char": "Kay Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Naismith",
+        "nm": 619802,
+        "roles": [
+          {
+            "char": "Judge Fulton",
+            "ch": 33359
+          }
+        ]
+      },
+      {
+        "name": "Stephen Greif",
+        "nm": 340039,
+        "roles": [
+          {
+            "char": "Krilov"
+          }
+        ]
+      },
+      {
+        "name": "Frank Maher",
+        "nm": 536842,
+        "roles": [
+          {
+            "char": "Jones"
+          }
+        ]
+      },
+      {
+        "name": "John Orchard",
+        "nm": 649443,
+        "roles": [
+          {
+            "char": "Gregor"
+          }
+        ]
+      },
+      {
+        "name": "Michael Balfour",
+        "nm": 50163,
+        "roles": [
+          {
+            "char": "Donkey cart Driver"
+          }
+        ]
+      },
+      {
+        "name": "Stanley Meadows",
+        "nm": 575080,
+        "roles": [
+          {
+            "char": "David Price"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Moffat",
+        "nm": 595571,
+        "roles": [
+          {
+            "char": "Senka"
+          }
+        ]
+      },
+      {
+        "name": "Richard Burrell",
+        "nm": 123085,
+        "roles": [
+          {
+            "char": "Smith"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Element of Risk",
+    "tt": 673506,
+    "air_date": "1971-12-24",
+    "description": "Danny is mistaken for Lomax, an international criminal, and taken to meet Mitchell, who has engaged Lomax to master-mind a plot to rob an American air force base of a huge amount of gold bullion. Learning of his friend's plight, Brett poses as the gang's getaway pilot but the game seems to be up when the real Lomax arrives. Can the Persuaders rely on female gang member Charlie to save them?",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "June Ritchie",
+        "nm": 728587,
+        "roles": [
+          {
+            "char": "Charlie"
+          }
+        ]
+      },
+      {
+        "name": "Peter Bowles",
+        "nm": 101248,
+        "roles": [
+          {
+            "char": "Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Naismith",
+        "nm": 619802,
+        "roles": [
+          {
+            "char": "Judge Fulton",
+            "ch": 33359
+          }
+        ]
+      },
+      {
+        "name": "William Marlowe",
+        "nm": 549333,
+        "roles": [
+          {
+            "char": "Carl"
+          }
+        ]
+      },
+      {
+        "name": "David Healy",
+        "nm": 372242,
+        "roles": [
+          {
+            "char": "Colonel Adler"
+          }
+        ]
+      },
+      {
+        "name": "Shane Rimmer",
+        "nm": 727300,
+        "roles": [
+          {
+            "char": "Lomax"
+          }
+        ]
+      },
+      {
+        "name": "Tony Doonan",
+        "nm": 233243,
+        "roles": [
+          {
+            "char": "Grant",
+            "as Anthony Doonan": true
+          }
+        ]
+      },
+      {
+        "name": "J.M. Bay",
+        "nm": 1522368,
+        "roles": [
+          {
+            "char": "Anderson"
+          }
+        ]
+      },
+      {
+        "name": "James Cosmo",
+        "nm": 181920,
+        "roles": [
+          {
+            "char": "Inspector Williams",
+            "ch": 73700
+          }
+        ]
+      },
+      {
+        "name": "Karen Kessey",
+        "nm": 450285,
+        "roles": [
+          {
+            "char": "Joan",
+            "as Keren Kessey": true
+          }
+        ]
+      },
+      {
+        "name": "Margaret Nolan",
+        "nm": 634318,
+        "roles": [
+          {
+            "char": "Sophie"
+          }
+        ]
+      },
+      {
+        "name": "Katherine Kessey",
+        "nm": 450286,
+        "roles": [
+          {
+            "char": "Jean"
+          }
+        ]
+      },
+      {
+        "name": "Carol Cleveland",
+        "nm": 166470,
+        "roles": [
+          {
+            "char": "Girl at Airport"
+          }
+        ]
+      },
+      {
+        "name": "Victor Platt",
+        "nm": 686910,
+        "roles": [
+          {
+            "char": "The Farmer"
+          }
+        ]
+      },
+      {
+        "name": "Michael Sloan",
+        "nm": 805994,
+        "roles": [
+          {
+            "char": "Radio Operator"
+          }
+        ]
+      },
+      {
+        "name": "Bob Sherman",
+        "nm": 792384,
+        "roles": [
+          {
+            "char": "The Lieutenant"
+          }
+        ]
+      },
+      {
+        "name": "George Fisher",
+        "nm": 279510,
+        "roles": [
+          {
+            "char": "Kramer"
+          }
+        ]
+      },
+      {
+        "name": "Bill Herbert",
+        "nm": 378506,
+        "roles": [
+          {
+            "char": "Uniformed Policeman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Dennis Plenty",
+        "nm": 1553846,
+        "roles": [
+          {
+            "char": "Plain Colthes Policeman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Yorke",
+        "nm": 948774,
+        "roles": [
+          {
+            "char": "Plainclothes Policeman at Airport",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "A Home of One's Own",
+    "tt": 673502,
+    "air_date": "1971-12-04",
+    "description": "When Danny buys a ramshackle country cottage which he plans to renovate he is surprised by the fact that local squire Rupert Hathaway is desperate to buy it from him and will resort to violence when Danny refuses to sell. A woman called Lucy comes to see Danny. She is a member of the Fraud Squad, investigating the death of a colleague whom she believes was killed by Hathaway. The squire is at the centre of some highly illegal goings-on to which the cottage is crucial and Lucy seeks Danny's help in bringing him to justice.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Hannah Gordon",
+        "nm": 330240,
+        "roles": [
+          {
+            "char": "Lucy Scott"
+          }
+        ]
+      },
+      {
+        "name": "John Ronane",
+        "nm": 739905,
+        "roles": [
+          {
+            "char": "Rupert Hathaway"
+          }
+        ]
+      },
+      {
+        "name": "Leon Greene",
+        "nm": 338839,
+        "roles": [
+          {
+            "char": "Abel Gaunt"
+          }
+        ]
+      },
+      {
+        "name": "Michael Wynne",
+        "nm": 944044,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Talfryn Thomas",
+        "nm": 859560,
+        "roles": [
+          {
+            "char": "The Poacher"
+          }
+        ]
+      },
+      {
+        "name": "Michael Sheard",
+        "nm": 790410,
+        "roles": [
+          {
+            "char": "Constable John Walden"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Five Miles to Midnight",
+    "tt": 673507,
+    "air_date": "1972-01-07",
+    "description": "Judge Fulton charges Danny and Brett to get former gangster Frank Rocco from Italy to America to testify against a large crime syndicate. They must evade both the police and Torino, a rival mobster out to silence Rocco. Accompanied by photo-journalist Sidonie, the party eludes the police but are forced to take shelter in a villa owned by wealthy Count Sangallo, who is in alliance with Torino and is about to deliver them to him.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Joan Collins",
+        "nm": 1058,
+        "roles": [
+          {
+            "char": "Sidonie"
+          }
+        ]
+      },
+      {
+        "name": "Robert Hutton",
+        "nm": 404665,
+        "roles": [
+          {
+            "char": "Frank Rocco"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Naismith",
+        "nm": 619802,
+        "roles": [
+          {
+            "char": "Judge Fulton",
+            "ch": 33359
+          }
+        ]
+      },
+      {
+        "name": "Robert Rietty",
+        "nm": 726403,
+        "roles": [
+          {
+            "char": "Torino"
+          }
+        ]
+      },
+      {
+        "name": "Ian Thompson",
+        "nm": 860221,
+        "roles": [
+          {
+            "char": "Vasile"
+          }
+        ]
+      },
+      {
+        "name": "Ferdy Mayne",
+        "nm": 562807,
+        "roles": [
+          {
+            "char": "Count Sangallo"
+          }
+        ]
+      },
+      {
+        "name": "Robert Gallico",
+        "nm": 302906,
+        "roles": [
+          {
+            "char": "Manny Howard"
+          }
+        ]
+      },
+      {
+        "name": "Jean Marsh",
+        "nm": 550577,
+        "roles": [
+          {
+            "char": "Nicola"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Diamond",
+        "nm": 224586,
+        "roles": [
+          {
+            "char": "Brusati"
+          }
+        ]
+      },
+      {
+        "name": "Harry Fielder",
+        "nm": 276092,
+        "roles": [
+          {
+            "char": "Policeman",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Nuisance Value",
+    "tt": 673509,
+    "air_date": "1972-01-14",
+    "description": "Whilst Danny is on a date with Lisa Zorakin, spoilt daughter of a millionaire, the girl is abducted. Zorakin suspects that Danny is involved but in fact Lisa is a willing captive, her kidnapper being Michel, her lover, and the plan is to extract a 'ransom' to set them up together. Danny agrees to investigate on behalf of Zorakin to clear his name but further complications are provided by Lisa's long-suffering companion Mary, who also wants a share.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Vivienne Ventura",
+        "nm": 893387,
+        "roles": [
+          {
+            "char": "Lisa",
+            "as Viviane Ventura": true
+          }
+        ]
+      },
+      {
+        "name": "David Cargill",
+        "nm": 137083,
+        "roles": [
+          {
+            "char": "Patterson"
+          }
+        ]
+      },
+      {
+        "name": "George Murcell",
+        "nm": 613685,
+        "roles": [
+          {
+            "char": "Zorakin"
+          }
+        ]
+      },
+      {
+        "name": "Ricardo Montez",
+        "nm": 599695,
+        "roles": [
+          {
+            "char": "Inspector Santos"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Lawson",
+        "nm": 493324,
+        "roles": [
+          {
+            "char": "Mary"
+          }
+        ]
+      },
+      {
+        "name": "Clive Cazes",
+        "nm": 147394,
+        "roles": [
+          {
+            "char": "Matra"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Bates",
+        "nm": 61012,
+        "roles": [
+          {
+            "char": "Michel"
+          }
+        ]
+      },
+      {
+        "name": "George Roderick",
+        "nm": 734604,
+        "roles": [
+          {
+            "char": "Bodega Landlord"
+          }
+        ]
+      },
+      {
+        "name": "Michael Culver",
+        "nm": 191741,
+        "roles": [
+          {
+            "char": "Kurt"
+          }
+        ]
+      },
+      {
+        "name": "Peter Brayham",
+        "nm": 106278,
+        "roles": [
+          {
+            "char": "Zorakin's Heavy #2",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Derek Chafer",
+        "nm": 149530,
+        "roles": [
+          {
+            "char": "Man in Hotel",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Romo Gorrara",
+        "nm": 331279,
+        "roles": [
+          {
+            "char": "Zorakin's Heavy 1",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "The Morning After",
+    "tt": 673520,
+    "air_date": "1971-12-11",
+    "description": "Brett wakes up to a unique 'morning after'. He has acquired a wife, Kristen, and there is evidence that a legal marriage took place. However, one of the two witnesses is involved in a plot to abduct Swedish diplomat Lars Seelman, arriving in Britain on important business. Will Kristen aid the plotters or will her attachment to her new husband lead her to help him save Seelman?",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Catherine Schell",
+        "nm": 770711,
+        "roles": [
+          {
+            "char": "Kristin"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Naismith",
+        "nm": 619802,
+        "roles": [
+          {
+            "char": "Judge Fulton",
+            "ch": 33359
+          }
+        ]
+      },
+      {
+        "name": "Tony Bonner",
+        "nm": 94937,
+        "roles": [
+          {
+            "char": "Jon"
+          }
+        ]
+      },
+      {
+        "name": "Frank Gatliff",
+        "nm": 309698,
+        "roles": [
+          {
+            "char": "Andersson"
+          }
+        ]
+      },
+      {
+        "name": "Yutte Stensgaard",
+        "nm": 826662,
+        "roles": [
+          {
+            "char": "Bibi"
+          }
+        ]
+      },
+      {
+        "name": "Penny Sugg",
+        "nm": 837456,
+        "roles": [
+          {
+            "char": "Liv"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Horsfall",
+        "nm": 395420,
+        "roles": [
+          {
+            "char": "Christianson"
+          }
+        ]
+      },
+      {
+        "name": "Walter Horsbrugh",
+        "nm": 395380,
+        "roles": [
+          {
+            "char": "The Butler"
+          }
+        ]
+      },
+      {
+        "name": "Griffith Jones",
+        "nm": 428175,
+        "roles": [
+          {
+            "char": "Lars Seelman"
+          }
+        ]
+      },
+      {
+        "name": "Marianne Stone",
+        "nm": 832031,
+        "roles": [
+          {
+            "char": "Chambermaid"
+          }
+        ]
+      },
+      {
+        "name": "Johns David",
+        "nm": 3926520,
+        "roles": [
+          {
+            "char": "Swedish Policeman 1",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Doug Robinson",
+        "nm": 732569,
+        "roles": [
+          {
+            "char": "Christian's Heavy 1",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Walsh",
+        "nm": 909882,
+        "roles": [
+          {
+            "char": "Christoan's Heavy 2",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Read and Destroy",
+    "tt": 673512,
+    "air_date": "1972-01-28",
+    "description": "Whilst being exchanged for a Soviet spy at a remote border crossing freelance agent Felix Meadowes goes on the run and asks his old school friend Brett to help him lie low. He has written his memoirs and both the British and American governments, the latter employing Danny as their man, are anxious to retrieve them. Danny and Brett are now working against each other and to complicate matters Felix has two wives, and has made provision for both in the event of his death. The memoirs are actually on a microfilm hidden in Felix's toupee, but who will get to them first?",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Joss Ackland",
+        "nm": 722,
+        "roles": [
+          {
+            "char": "Felix Meadowes"
+          }
+        ]
+      },
+      {
+        "name": "Nigel Green",
+        "nm": 338210,
+        "roles": [
+          {
+            "char": "John Cavendish"
+          }
+        ]
+      },
+      {
+        "name": "Kate O'Mara",
+        "nm": 641817,
+        "roles": [
+          {
+            "char": "Heidi Schulman"
+          }
+        ]
+      },
+      {
+        "name": "William Mervyn",
+        "nm": 581674,
+        "roles": [
+          {
+            "char": "Sir Charles Worthington"
+          }
+        ]
+      },
+      {
+        "name": "Magda Konopka",
+        "nm": 465260,
+        "roles": [
+          {
+            "char": "Ingrid Meadowes"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Hall",
+        "nm": 355637,
+        "roles": [
+          {
+            "char": "Col Ivan Ivanov"
+          }
+        ]
+      },
+      {
+        "name": "George Merritt",
+        "nm": 581416,
+        "roles": [
+          {
+            "char": "Chivers"
+          }
+        ]
+      },
+      {
+        "name": "Carl Bohen",
+        "nm": 92025,
+        "roles": [
+          {
+            "char": "Dieter Schultz",
+            "as Carl Bohun": true
+          }
+        ]
+      },
+      {
+        "name": "Elliott Sullivan",
+        "nm": 838057,
+        "roles": [
+          {
+            "char": "Joe Pfeiffer"
+          }
+        ]
+      },
+      {
+        "name": "Brian Hayes",
+        "nm": 1752702,
+        "roles": [
+          {
+            "char": "Benson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "A Death in the Family",
+    "tt": 673501,
+    "air_date": "1972-01-12",
+    "description": "Brett attends the funeral of his uncle Randolph, where his cousin Kate, a crime novelist, tells him that she believes he was murdered. Brett is not convinced but then six more members of the Sinclair family are all bumped off, as well as the family undertaker. It becomes apparent, however, that one of the dead men is not dead after all when he traps Kate and Danny in the family vault. It is down to Brett to rescue them.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          },
+          {
+            "char": "Aunt Sophie"
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          },
+          {
+            "char": "The General"
+          },
+          {
+            "char": "The Admiral"
+          },
+          {
+            "char": "Lady Agatha"
+          }
+        ]
+      },
+      {
+        "name": "Diane Cilento",
+        "nm": 162284,
+        "roles": [
+          {
+            "char": "Kate Sinclair"
+          }
+        ]
+      },
+      {
+        "name": "Denholm Elliott",
+        "nm": 1186,
+        "roles": [
+          {
+            "char": "Roland"
+          }
+        ]
+      },
+      {
+        "name": "Roland Culver",
+        "nm": 191745,
+        "roles": [
+          {
+            "char": "Duke of Caith"
+          }
+        ]
+      },
+      {
+        "name": "William Rushton",
+        "nm": 750775,
+        "roles": [
+          {
+            "char": "Lance"
+          }
+        ]
+      },
+      {
+        "name": "Moultrie Kelsall",
+        "nm": 447016,
+        "roles": [
+          {
+            "char": "Sir Angus"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Sandford",
+        "nm": 761851,
+        "roles": [
+          {
+            "char": "Onslow"
+          }
+        ]
+      },
+      {
+        "name": "Ivor Dean",
+        "nm": 212796,
+        "roles": [
+          {
+            "char": "Mr. Beebe"
+          }
+        ]
+      },
+      {
+        "name": "Beulah Hughes",
+        "nm": 400468,
+        "roles": [
+          {
+            "char": "Girl dressing the Duke of Caith",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "The Ozerov Inheritance",
+    "tt": 673522,
+    "air_date": "1972-01-01",
+    "description": "The Persuaders are called in to assist the Grand Duchess Ozerov, an elderly Russian former aristocrat. There is contention as to the rightful owner of her jewels, kept in a Swiss bank. The Russian government is one claimant and her nephew Sergei another, in addition to the duchess herself. Brett and Danny are to go to the Russian village where there is proof of her marriage to Prince Ozerov and, consequently, her right to own the jewels. However two men in the pay of Sergei are out to stop them.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Gladys Cooper",
+        "nm": 178066,
+        "roles": [
+          {
+            "char": "Grand Duchess Ozerov"
+          }
+        ]
+      },
+      {
+        "name": "Prunella Ransome",
+        "nm": 710426,
+        "roles": [
+          {
+            "char": "Princess Alexandra"
+          }
+        ]
+      },
+      {
+        "name": "Gary Raymond",
+        "nm": 713267,
+        "roles": [
+          {
+            "char": "Sergei"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Fürst",
+        "nm": 299822,
+        "roles": [
+          {
+            "char": "Yelker",
+            "as Joseph Furst": true
+          }
+        ]
+      },
+      {
+        "name": "Cyril Shaps",
+        "nm": 788670,
+        "roles": [
+          {
+            "char": "Professor Ganguin"
+          }
+        ]
+      },
+      {
+        "name": "Georgina Simpson",
+        "nm": 801010,
+        "roles": [
+          {
+            "char": "Magda"
+          }
+        ]
+      },
+      {
+        "name": "Anouska Hempel",
+        "nm": 376138,
+        "roles": [
+          {
+            "char": "Stewardess"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Parkes",
+        "nm": 662747,
+        "roles": [
+          {
+            "char": "Walther"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Ridley",
+        "nm": 725965,
+        "roles": [
+          {
+            "char": "Uncle Rodney"
+          }
+        ]
+      },
+      {
+        "name": "Denys Peek",
+        "nm": 670216,
+        "roles": [
+          {
+            "char": "Dante"
+          }
+        ]
+      },
+      {
+        "name": "Yuri Borienko",
+        "nm": 96796,
+        "roles": [
+          {
+            "char": "Nikolai"
+          }
+        ]
+      },
+      {
+        "name": "Raymond Young",
+        "nm": 949974,
+        "roles": [
+          {
+            "char": "Inspector Mansour"
+          }
+        ]
+      },
+      {
+        "name": "Alf Costa",
+        "nm": 2105613,
+        "roles": [
+          {
+            "char": "Policeman in Office",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "To the Death, Baby",
+    "tt": 673524,
+    "air_date": "1972-02-09",
+    "description": "Wealthy Shelley Masterson is being courted for her money by the suave Foster, who is being backed by gangster Coady and Brett and Danny vie for her affections to save her, particularly as she has signed a document leaving everything to Foster should she die. To help her they give her money with which to pay off Foster, only to find that they have been duped. She is not a victim but a confidence trickster herself.",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Jennie Linden",
+        "nm": 511614,
+        "roles": [
+          {
+            "char": "Shelley Masterton"
+          }
+        ]
+      },
+      {
+        "name": "Terence Morgan",
+        "nm": 605059,
+        "roles": [
+          {
+            "char": "Carl Foster"
+          }
+        ]
+      },
+      {
+        "name": "Thorley Walters",
+        "nm": 910381,
+        "roles": [
+          {
+            "char": "John Hatton"
+          }
+        ]
+      },
+      {
+        "name": "Harold Innocent",
+        "nm": 409205,
+        "roles": [
+          {
+            "char": "Coady"
+          }
+        ]
+      },
+      {
+        "name": "Robert Russell",
+        "nm": 751416,
+        "roles": [
+          {
+            "char": "Ramon"
+          }
+        ]
+      },
+      {
+        "name": "Roger Delgado",
+        "nm": 217069,
+        "roles": [
+          {
+            "char": "Estoban"
+          }
+        ]
+      },
+      {
+        "name": "John Moreno",
+        "nm": 604016,
+        "roles": [
+          {
+            "char": "Waiter",
+            "as Juan Moreno": true
+          }
+        ]
+      },
+      {
+        "name": "Pauline Chamberlain",
+        "nm": 2108929,
+        "roles": [
+          {
+            "char": "Woman at Bullfight",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "Someone Waiting",
+    "tt": 673514,
+    "air_date": "1971-12-18",
+    "description": "After Brett enters his car for a motor race, attempts are made on his life. A man called Vine approaches him, asking him to throw the race. He is working for Louise Cornell, head of a race fixing gang but she denies any allegations of trying to kill him - she just bribes people to lose. Could the would-be assassin be Jenkins, a former racer who, after an incident years earlier where he tried to overtake Brett, leading to an accident which incapacitated him, was never able to drive again?",
+    "cast": [
+      {
+        "name": "Tony Curtis",
+        "nm": 348,
+        "roles": [
+          {
+            "char": "Danny Wilde",
+            "ch": 29785
+          }
+        ]
+      },
+      {
+        "name": "Roger Moore",
+        "nm": 549,
+        "roles": [
+          {
+            "char": "Lord Brett Sinclair",
+            "ch": 29786
+          }
+        ]
+      },
+      {
+        "name": "Penelope Horner",
+        "nm": 395126,
+        "roles": [
+          {
+            "char": "Carrie Bowman"
+          }
+        ]
+      },
+      {
+        "name": "John Cairney",
+        "nm": 129055,
+        "roles": [
+          {
+            "char": "Jenkins Brothers [Twins]"
+          }
+        ]
+      },
+      {
+        "name": "David Neal",
+        "nm": 623597,
+        "roles": [
+          {
+            "char": "Jerry Sandford"
+          }
+        ]
+      },
+      {
+        "name": "Donald Pickering",
+        "nm": 681826,
+        "roles": [
+          {
+            "char": "Morley Lyndon"
+          }
+        ]
+      },
+      {
+        "name": "Jenny Hanley",
+        "nm": 360081,
+        "roles": [
+          {
+            "char": "Magda"
+          }
+        ]
+      },
+      {
+        "name": "Lois Maxwell",
+        "nm": 561755,
+        "roles": [
+          {
+            "char": "Louise Cornell"
+          }
+        ]
+      },
+      {
+        "name": "Sean Lynch",
+        "nm": 528445,
+        "roles": [
+          {
+            "char": "Yates"
+          }
+        ]
+      },
+      {
+        "name": "Maxwell Shaw",
+        "nm": 789871,
+        "roles": [
+          {
+            "char": "Vine"
+          }
+        ]
+      },
+      {
+        "name": "Helena Ross",
+        "nm": 743455,
+        "roles": [
+          {
+            "char": "Joe"
+          }
+        ]
+      },
+      {
+        "name": "Tim Barrett",
+        "nm": 56974,
+        "roles": [
+          {
+            "char": "John Radcliffe"
+          }
+        ]
+      },
+      {
+        "name": "Russ Henderson",
+        "nm": 376587,
+        "roles": [
+          {
+            "char": "Sam"
+          }
+        ]
+      },
+      {
+        "name": "Sam Kydd",
+        "nm": 477330,
+        "roles": [
+          {
+            "char": "Dwyer"
+          }
+        ]
+      }
+    ]
+  }
+]

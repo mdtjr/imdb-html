@@ -1,0 +1,874 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Royal Family",
+    "tt": 522118,
+    "air_date": "1954-09-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charles Coburn",
+        "nm": 2013,
+        "roles": [
+          {
+            "char": "Oscar Wolfe",
+            "ch": 211024
+          }
+        ]
+      },
+      {
+        "name": "Claudette Colbert",
+        "nm": 1055,
+        "roles": [
+          {
+            "char": "Julie Cavendish",
+            "ch": 211025
+          }
+        ]
+      },
+      {
+        "name": "Helen Hayes",
+        "nm": 371040,
+        "roles": [
+          {
+            "char": "Fanny Cavendish",
+            "ch": 211023
+          }
+        ]
+      },
+      {
+        "name": "Fredric March",
+        "nm": 545298,
+        "roles": [
+          {
+            "char": "Tony Cavendish",
+            "ch": 211026
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Gwen Cavendish",
+            "ch": 211027
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Man Who Came to Dinner",
+    "tt": 522116,
+    "air_date": "1954-10-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Joan Bennett",
+        "nm": 910,
+        "roles": [
+          {
+            "char": "Lorraine Sheldon",
+            "ch": 54630
+          }
+        ]
+      },
+      {
+        "name": "Catherine Doucet",
+        "nm": 234692,
+        "roles": [
+          {
+            "char": "Harriet Stanley",
+            "ch": 95595
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Field",
+        "nm": 276058,
+        "roles": [
+          {
+            "char": "Mrs. Stanley",
+            "ch": 211053
+          }
+        ]
+      },
+      {
+        "name": "Reginald Gardiner",
+        "nm": 306786,
+        "roles": [
+          {
+            "char": "Beverly Carlton",
+            "ch": 54633
+          }
+        ]
+      },
+      {
+        "name": "Margaret Hamilton",
+        "nm": 2121,
+        "roles": [
+          {
+            "char": "Sarah"
+          }
+        ]
+      },
+      {
+        "name": "Buster Keaton",
+        "nm": 36,
+        "roles": [
+          {
+            "char": "Dr. Bradley",
+            "ch": 58259
+          }
+        ]
+      },
+      {
+        "name": "Bert Lahr",
+        "nm": 481618,
+        "roles": [
+          {
+            "char": "Banjo",
+            "ch": 54631
+          }
+        ]
+      },
+      {
+        "name": "Merle Oberon",
+        "nm": 643353,
+        "roles": [
+          {
+            "char": "Maggie Cutler",
+            "ch": 54629
+          }
+        ]
+      },
+      {
+        "name": "Zasu Pitts",
+        "nm": 686032,
+        "roles": [
+          {
+            "char": "Miss Preen",
+            "ch": 58257
+          }
+        ]
+      },
+      {
+        "name": "William Prince",
+        "nm": 697733,
+        "roles": [
+          {
+            "char": "Bert Jefferson",
+            "ch": 54632
+          }
+        ]
+      },
+      {
+        "name": "Howard St. John",
+        "nm": 820643,
+        "roles": [
+          {
+            "char": "Mr. Stanley",
+            "ch": 211054
+          }
+        ]
+      },
+      {
+        "name": "Frank Tweddell",
+        "nm": 878515,
+        "roles": [
+          {
+            "char": "John"
+          }
+        ]
+      },
+      {
+        "name": "Monty Woolley",
+        "nm": 941253,
+        "roles": [
+          {
+            "char": "Sheridan Whiteside",
+            "ch": 31483
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Panama Hattie",
+    "tt": 522113,
+    "air_date": "1954-11-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Art Carney",
+        "nm": 138770,
+        "roles": [
+          {
+            "char": "Woozy"
+          }
+        ]
+      },
+      {
+        "name": "Neil Hamilton",
+        "nm": 358076,
+        "roles": [
+          {
+            "char": "Charlie Randolph"
+          }
+        ]
+      },
+      {
+        "name": "Jack E. Leonard",
+        "nm": 502651,
+        "roles": [
+          {
+            "char": "Windy"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Macauley",
+        "nm": 531346,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Mort Marshall",
+        "nm": 551067,
+        "roles": [
+          {
+            "char": "First Spy"
+          }
+        ]
+      },
+      {
+        "name": "Ethel Merman",
+        "nm": 581062,
+        "roles": [
+          {
+            "char": "Hattie Maloney",
+            "ch": 365556
+          }
+        ]
+      },
+      {
+        "name": "Ray Middleton",
+        "nm": 585553,
+        "roles": [
+          {
+            "char": "Nick Bullett"
+          }
+        ]
+      },
+      {
+        "name": "Tony Mottola",
+        "nm": 609555,
+        "roles": [
+          {
+            "char": "Senor Aguilar"
+          }
+        ]
+      },
+      {
+        "name": "Karin Wolfe",
+        "nm": 938081,
+        "roles": [
+          {
+            "char": "Gerry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Philadelphia Story",
+    "tt": 128407,
+    "air_date": "1954-12-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mary Astor",
+        "nm": 802,
+        "roles": [
+          {
+            "char": "Margaret Lord",
+            "ch": 11859
+          }
+        ]
+      },
+      {
+        "name": "Richard Carlson",
+        "nm": 137999,
+        "roles": [
+          {
+            "char": "Mike Connor",
+            "ch": 11856
+          }
+        ]
+      },
+      {
+        "name": "Dick Foran",
+        "nm": 285264,
+        "roles": [
+          {
+            "char": "George Kittredge",
+            "ch": 54627
+          }
+        ]
+      },
+      {
+        "name": "Herbert Marshall",
+        "nm": 3339,
+        "roles": [
+          {
+            "char": "Seth Lord",
+            "ch": 11860
+          }
+        ]
+      },
+      {
+        "name": "Dorothy McGuire",
+        "nm": 570192,
+        "roles": [
+          {
+            "char": "Tracy Lord",
+            "ch": 11857
+          }
+        ]
+      },
+      {
+        "name": "Neva Patterson",
+        "nm": 666332,
+        "roles": [
+          {
+            "char": "Liz Imbrie",
+            "ch": 11858
+          }
+        ]
+      },
+      {
+        "name": "John Payne",
+        "nm": 668361,
+        "roles": [
+          {
+            "char": "C.K. Dexter Haven",
+            "ch": 33495
+          }
+        ]
+      },
+      {
+        "name": "Charles Winninger",
+        "nm": 935415,
+        "roles": [
+          {
+            "char": "Uncle Willie",
+            "ch": 54628
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Arsenic and Old Lace",
+    "tt": 225093,
+    "air_date": "1955-01-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Alexander",
+        "nm": 18514,
+        "roles": [
+          {
+            "char": "'Teddy Roosevelt' Brewster",
+            "ch": 12315
+          }
+        ]
+      },
+      {
+        "name": "Orson Bean",
+        "nm": 4730,
+        "roles": [
+          {
+            "char": "Mortimer Brewster",
+            "ch": 12308
+          }
+        ]
+      },
+      {
+        "name": "Richard Bishop",
+        "nm": 84174,
+        "roles": [
+          {
+            "char": "Lt. Rooney",
+            "ch": 77848
+          }
+        ]
+      },
+      {
+        "name": "Patricia Breslin",
+        "nm": 107746,
+        "roles": [
+          {
+            "char": "Elaine Harper",
+            "ch": 12311
+          }
+        ]
+      },
+      {
+        "name": "Billie Burke",
+        "nm": 992,
+        "roles": [
+          {
+            "char": "Martha Brewster",
+            "ch": 12313
+          }
+        ]
+      },
+      {
+        "name": "King Calder",
+        "nm": 129478,
+        "roles": [
+          {
+            "char": "Officer Brophy",
+            "ch": 220859
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gordon",
+        "nm": 330050,
+        "roles": [
+          {
+            "char": "Officer Klein",
+            "ch": 220860
+          }
+        ]
+      },
+      {
+        "name": "Helen Hayes",
+        "nm": 371040,
+        "roles": [
+          {
+            "char": "Abby Brewster",
+            "ch": 12314
+          }
+        ]
+      },
+      {
+        "name": "Edward Everett Horton",
+        "nm": 2143,
+        "roles": [
+          {
+            "char": "Mr. Witherspoon",
+            "ch": 12312
+          }
+        ]
+      },
+      {
+        "name": "Boris Karloff",
+        "nm": 472,
+        "roles": [
+          {
+            "char": "Jonathan Brewster",
+            "ch": 12310
+          }
+        ]
+      },
+      {
+        "name": "Peter Lorre",
+        "nm": 48,
+        "roles": [
+          {
+            "char": "Dr. Herman Einstein",
+            "ch": 12309
+          }
+        ]
+      },
+      {
+        "name": "Allen Tower",
+        "nm": 1019980,
+        "roles": [
+          {
+            "char": "Rev. Dr. Harper",
+            "ch": 12316,
+            "as Allan Tower": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "The Show-Off",
+    "tt": 522119,
+    "air_date": "1955-02-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carleton Carpenter",
+        "nm": 139292,
+        "roles": [
+          {
+            "char": "Joe Fisher",
+            "ch": 418369
+          }
+        ]
+      },
+      {
+        "name": "Alice Ghostley",
+        "nm": 315933,
+        "roles": [
+          {
+            "char": "Clara Hyland",
+            "ch": 418372
+          }
+        ]
+      },
+      {
+        "name": "Jackie Gleason",
+        "nm": 1276,
+        "roles": [
+          {
+            "char": "Aubrey Piper",
+            "ch": 297734
+          }
+        ]
+      },
+      {
+        "name": "Cathy O'Donnell",
+        "nm": 640732,
+        "roles": [
+          {
+            "char": "Amy Fisher",
+            "ch": 52627
+          }
+        ]
+      },
+      {
+        "name": "Thelma Ritter",
+        "nm": 728812,
+        "roles": [
+          {
+            "char": "Mrs. Fisher",
+            "ch": 297736
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "The Guardsman",
+    "tt": 522115,
+    "air_date": "1955-03-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claudette Colbert",
+        "nm": 1055,
+        "roles": [
+          {
+            "char": "Actress"
+          }
+        ]
+      },
+      {
+        "name": "Franchot Tone",
+        "nm": 867144,
+        "roles": [
+          {
+            "char": "Actor"
+          }
+        ]
+      },
+      {
+        "name": "Mary Grace Canfield",
+        "nm": 133936,
+        "roles": [
+          {
+            "char": "Liesl",
+            "ch": 8783
+          }
+        ]
+      },
+      {
+        "name": "Reginald Gardiner",
+        "nm": 306786,
+        "roles": [
+          {
+            "char": "Critic"
+          }
+        ]
+      },
+      {
+        "name": "Margaret Hamilton",
+        "nm": 2121,
+        "roles": [
+          {
+            "char": "Usher"
+          }
+        ]
+      },
+      {
+        "name": "Edith King",
+        "nm": 454678,
+        "roles": [
+          {
+            "char": "Mama"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Stage Door",
+    "tt": 522114,
+    "air_date": "1955-04-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charles Drake",
+        "nm": 236866,
+        "roles": [
+          {
+            "char": "Keith Burgess"
+          }
+        ]
+      },
+      {
+        "name": "Rhonda Fleming",
+        "nm": 281766,
+        "roles": [
+          {
+            "char": "Jean Maitland",
+            "ch": 26234
+          }
+        ]
+      },
+      {
+        "name": "Treva Frazee",
+        "nm": 1237726,
+        "roles": [
+          {
+            "char": "Bobby Melrose"
+          }
+        ]
+      },
+      {
+        "name": "Peggy Ann Garner",
+        "nm": 307750,
+        "roles": [
+          {
+            "char": "Kaye Hamilton",
+            "ch": 211050
+          }
+        ]
+      },
+      {
+        "name": "Elsa Lanchester",
+        "nm": 6471,
+        "roles": [
+          {
+            "char": "Mrs. Orcutt",
+            "ch": 365557
+          }
+        ]
+      },
+      {
+        "name": "Diana Lynn",
+        "nm": 528658,
+        "roles": [
+          {
+            "char": "Terry Randall",
+            "ch": 26232
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Maguire",
+        "nm": 536594,
+        "roles": [
+          {
+            "char": "Louise Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Victor Moore",
+        "nm": 602005,
+        "roles": [
+          {
+            "char": "Adolph Gretzl"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Morgan",
+        "nm": 604605,
+        "roles": [
+          {
+            "char": "David Kingsley"
+          }
+        ]
+      },
+      {
+        "name": "Nita Talbot",
+        "nm": 847953,
+        "roles": [
+          {
+            "char": "Judith Canfield"
+          }
+        ]
+      },
+      {
+        "name": "Virginia Vincent",
+        "nm": 898782,
+        "roles": [
+          {
+            "char": "Bernice Niemeyer"
+          }
+        ]
+      },
+      {
+        "name": "Melissa Weston",
+        "nm": 922994,
+        "roles": [
+          {
+            "char": "Pat Kendall"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth York",
+        "nm": 961981,
+        "roles": [
+          {
+            "char": "Mary Harper"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Broadway",
+    "tt": 522112,
+    "air_date": "1955-05-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Joseph Cotten",
+        "nm": 1072,
+        "roles": [
+          {
+            "char": "Dan McCorn",
+            "ch": 365550
+          }
+        ]
+      },
+      {
+        "name": "Don Gordon",
+        "nm": 330150,
+        "roles": [
+          {
+            "char": "Dolph"
+          }
+        ]
+      },
+      {
+        "name": "Martha Hyer",
+        "nm": 405054,
+        "roles": [
+          {
+            "char": "Pearl"
+          }
+        ]
+      },
+      {
+        "name": "Piper Laurie",
+        "nm": 1453,
+        "roles": [
+          {
+            "char": "Billie Moore",
+            "ch": 365549
+          }
+        ]
+      },
+      {
+        "name": "Frank Marth",
+        "nm": 551731,
+        "roles": [
+          {
+            "char": "Scar Edwards",
+            "ch": 365553
+          }
+        ]
+      },
+      {
+        "name": "Carole Mathews",
+        "nm": 290190,
+        "roles": [
+          {
+            "char": "Mazie"
+          }
+        ]
+      },
+      {
+        "name": "Gene Nelson",
+        "nm": 625383,
+        "roles": [
+          {
+            "char": "Roy Lane",
+            "ch": 365548
+          }
+        ]
+      },
+      {
+        "name": "David Sheiner",
+        "nm": 790905,
+        "roles": [
+          {
+            "char": "Joe"
+          }
+        ]
+      },
+      {
+        "name": "Akim Tamiroff",
+        "nm": 848667,
+        "roles": [
+          {
+            "char": "Nick Verdis",
+            "ch": 365551
+          }
+        ]
+      },
+      {
+        "name": "Iggie Wolfington",
+        "nm": 938370,
+        "roles": [
+          {
+            "char": "Porky"
+          }
+        ]
+      },
+      {
+        "name": "Keenan Wynn",
+        "nm": 943978,
+        "roles": [
+          {
+            "char": "Steve Crandell"
+          }
+        ]
+      }
+    ]
+  }
+]

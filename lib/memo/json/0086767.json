@@ -1,0 +1,196 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Happy Birthday, Scooby-Doo",
+    "tt": 1443230,
+    "air_date": "1984-09-08",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E02",
+    "title": "Scooby's Peep-Hole Pandemonium/The Hand of Horror",
+    "tt": 1443236,
+    "air_date": "1984-09-15",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E03",
+    "title": "Scoo-Be or Not Scoo-Be?/The Stoney Glare Stare",
+    "tt": 1443232,
+    "air_date": "1984-09-22",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E04",
+    "title": "Mission Un-Doo-Able/The Bee Team",
+    "tt": 1443231,
+    "air_date": "1984-09-29",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E05",
+    "title": "Doom Service/A Code in the Nose",
+    "tt": 1443228,
+    "air_date": "1984-10-06",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E06",
+    "title": "Ghosts of the Ancient Astronauts",
+    "tt": 1443229,
+    "air_date": "1984-10-13",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E07",
+    "title": "The Night of the Living Toys/South Pole Vault",
+    "tt": 1443235,
+    "air_date": "1984-10-20",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E08",
+    "title": "A Halloween Hassle at Dracula's Castle",
+    "tt": 1234522,
+    "air_date": "1984-10-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Casey Kasem",
+        "nm": 440487,
+        "roles": [
+          {
+            "char": "Shaggy",
+            "ch": 527
+          }
+        ]
+      },
+      {
+        "name": "Don Messick",
+        "nm": 582106,
+        "roles": [
+          {
+            "char": "Scooby-Doo",
+            "ch": 609
+          }
+        ]
+      },
+      {
+        "name": "Heather North",
+        "nm": 636011,
+        "roles": [
+          {
+            "char": "Daphine"
+          }
+        ]
+      },
+      {
+        "name": "Frank Welker",
+        "nm": 919798,
+        "roles": [
+          {
+            "char": "Fred",
+            "ch": 513
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "A Night Louse at the White House",
+    "tt": 1443226,
+    "air_date": "1984-11-03",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E10",
+    "title": "Showboat Scooby/The 'Dooby Dooby Doo' Ado",
+    "tt": 1443234,
+    "air_date": "1984-11-10",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E11",
+    "title": "Sherlock Doo",
+    "tt": 1443233,
+    "air_date": "1984-11-17",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E12",
+    "title": "A Scarey Duel with a Cartoon Ghoul/E*I*E*I*O",
+    "tt": 1443227,
+    "air_date": "1984-11-24",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E13",
+    "title": "The Nutcracker Scoob",
+    "tt": 1183445,
+    "air_date": "1984-12-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Casey Kasem",
+        "nm": 440487,
+        "roles": [
+          {
+            "char": "Shaggy",
+            "ch": 527,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Don Messick",
+        "nm": 582106,
+        "roles": [
+          {
+            "char": "Scooby-Doo",
+            "ch": 609,
+            "voice": true
+          },
+          {
+            "char": "Scrappy-Doo",
+            "ch": 29323,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Heather North",
+        "nm": 636011,
+        "roles": [
+          {
+            "char": "Daphne",
+            "ch": 494,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Frank Welker",
+        "nm": 919798,
+        "roles": [
+          {
+            "char": "Fred",
+            "ch": 513,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  }
+]

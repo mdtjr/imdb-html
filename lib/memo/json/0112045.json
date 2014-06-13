@@ -1,0 +1,1927 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Birth of a Legend",
+    "tt": 630500,
+    "air_date": "1995-04-18",
+    "description": "In 1867 Ernest Pratt, an imperfect man with vices, is a struggling writer of a series of books based on his popular and fictional character Nicodemus Legend. After being mistaken as Legend, Pratt is enlisted by a helpless group of town folk to once again help them, against a powerful female land owner and the town's sheriff in her pocket.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Balaban",
+        "nm": 837,
+        "roles": [
+          {
+            "char": "Harry Parver",
+            "ch": 246007
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Beacham",
+        "nm": 883,
+        "roles": [
+          {
+            "char": "Vera Slaughter"
+          }
+        ]
+      },
+      {
+        "name": "Katherine Moffat",
+        "nm": 595578,
+        "roles": [
+          {
+            "char": "Kate Sullivan"
+          }
+        ]
+      },
+      {
+        "name": "Jon Pennell",
+        "nm": 672072,
+        "roles": [
+          {
+            "char": "Silas Slaughter"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Rowe",
+        "nm": 746503,
+        "roles": [
+          {
+            "char": "Sheriff Sam Motes",
+            "ch": 127058
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472
+          }
+        ]
+      },
+      {
+        "name": "Tim Thomerson",
+        "nm": 859772,
+        "roles": [
+          {
+            "char": "John Wesley Coe"
+          }
+        ]
+      },
+      {
+        "name": "Peter Schrum",
+        "nm": 775623,
+        "roles": [
+          {
+            "char": "Alidar Brull",
+            "as Pete Schrum": true
+          }
+        ]
+      },
+      {
+        "name": "Betsy Beard",
+        "nm": 63874,
+        "roles": [
+          {
+            "char": "Mrs. Brull"
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Copperman",
+        "nm": 178814,
+        "roles": [
+          {
+            "char": "Viktoria Brull"
+          }
+        ]
+      },
+      {
+        "name": "Dick Bellerue",
+        "nm": 2471753,
+        "roles": [
+          {
+            "char": "Geezer"
+          }
+        ]
+      },
+      {
+        "name": "John Furlong",
+        "nm": 298952,
+        "roles": [
+          {
+            "char": "Governor Kirkpatrick Dennehy"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Glaeser",
+        "nm": 321680,
+        "roles": [
+          {
+            "char": "Antonio the Barber"
+          }
+        ]
+      },
+      {
+        "name": "Savannah Morgan",
+        "nm": 4020732,
+        "roles": [
+          {
+            "char": "Girl in Novel"
+          }
+        ]
+      },
+      {
+        "name": "Eddie Mui",
+        "nm": 4624,
+        "roles": [
+          {
+            "char": "Mr. Fat's Son"
+          }
+        ]
+      },
+      {
+        "name": "Jack Ong",
+        "nm": 648643,
+        "roles": [
+          {
+            "char": "Guest Star"
+          }
+        ]
+      },
+      {
+        "name": "Forrie J. Smith",
+        "nm": 808210,
+        "roles": [
+          {
+            "char": "Jesse James",
+            "ch": 1
+          }
+        ]
+      },
+      {
+        "name": "Bob Sorenson",
+        "nm": 814877,
+        "roles": [
+          {
+            "char": "Titus Berman",
+            "as Bob Sorrenson": true
+          }
+        ]
+      },
+      {
+        "name": "Monty Stuart",
+        "nm": 829685,
+        "roles": [
+          {
+            "char": "Frank James",
+            "ch": 26654
+          }
+        ]
+      },
+      {
+        "name": "Kara Vieau",
+        "nm": 6505132,
+        "roles": [
+          {
+            "char": "Mom"
+          }
+        ]
+      },
+      {
+        "name": "John A. Willingham",
+        "nm": 932236,
+        "roles": [
+          {
+            "char": "Posse Member"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Wilson",
+        "nm": 933589,
+        "roles": [
+          {
+            "char": "Miss Freeman"
+          }
+        ]
+      },
+      {
+        "name": "Merik Woodmansee",
+        "nm": 2022755,
+        "roles": [
+          {
+            "char": "Autograph Boy"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Woods",
+        "nm": 1467315,
+        "roles": [
+          {
+            "char": "Man with Knife"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Mr. Pratt Goes to Sheridan",
+    "tt": 630507,
+    "air_date": "1995-04-25",
+    "description": "A well known bank robber name Jimmy Siringo comes to Pratt telling him he's been falsely accused of murdering a bank guard and stealing one million dollars, and wants his help in clearing his name of said charges.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472
+          }
+        ]
+      },
+      {
+        "name": "Robert Donner",
+        "nm": 232817,
+        "roles": [
+          {
+            "char": "Mayor Chamberlain Brown",
+            "ch": 81455
+          }
+        ]
+      },
+      {
+        "name": "John Chappell",
+        "nm": 152612,
+        "roles": [
+          {
+            "char": "Lamar"
+          }
+        ]
+      },
+      {
+        "name": "Randy Oglesby",
+        "nm": 644750,
+        "roles": [
+          {
+            "char": "G. H. Winslow"
+          }
+        ]
+      },
+      {
+        "name": "Michael H. Moss",
+        "nm": 609040,
+        "roles": [
+          {
+            "char": "Barnes",
+            "as Michael Moss": true
+          }
+        ]
+      },
+      {
+        "name": "Stephen Baldwin",
+        "nm": 286,
+        "roles": [
+          {
+            "char": "Jimmy Siringo"
+          }
+        ]
+      },
+      {
+        "name": "Lily Nielsen",
+        "nm": 5431648,
+        "roles": [
+          {
+            "char": "Mrs. Yancey"
+          }
+        ]
+      },
+      {
+        "name": "Rusty Ferracane",
+        "nm": 4223133,
+        "roles": [
+          {
+            "char": "Amos White"
+          }
+        ]
+      },
+      {
+        "name": "Billy Jo Patton",
+        "nm": 666539,
+        "roles": [
+          {
+            "char": "Marshall"
+          }
+        ]
+      },
+      {
+        "name": "Bob Lester",
+        "nm": 504419,
+        "roles": [
+          {
+            "char": "Shotgun Rider"
+          }
+        ]
+      },
+      {
+        "name": "Marian Wald",
+        "nm": 907014,
+        "roles": [
+          {
+            "char": "Lady #1"
+          }
+        ]
+      },
+      {
+        "name": "Mona Tadych",
+        "nm": 5431652,
+        "roles": [
+          {
+            "char": "Lady #2"
+          }
+        ]
+      },
+      {
+        "name": "Claude File",
+        "nm": 276863,
+        "roles": [
+          {
+            "char": "Dealer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Legend on His President's Secret Service",
+    "tt": 630506,
+    "air_date": "1995-05-02",
+    "description": "President Ulysses S. Grant seeks Pratt's help to uncover a possible plot to kill him and who knows what else.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Ethan Catridge Steele"
+          }
+        ]
+      },
+      {
+        "name": "Fionnula Flanagan",
+        "nm": 1217,
+        "roles": [
+          {
+            "char": "Julia Grant"
+          }
+        ]
+      },
+      {
+        "name": "Leah Lail",
+        "nm": 5115,
+        "roles": [
+          {
+            "char": "Abigail Steele"
+          }
+        ]
+      },
+      {
+        "name": "Alan Brooks",
+        "nm": 111848,
+        "roles": [
+          {
+            "char": "Potter"
+          }
+        ]
+      },
+      {
+        "name": "G.W. Bailey",
+        "nm": 47265,
+        "roles": [
+          {
+            "char": "Ulysses S. Grant",
+            "ch": 29461
+          }
+        ]
+      },
+      {
+        "name": "Ana Auther",
+        "nm": 42593,
+        "roles": [
+          {
+            "char": "Henrietta"
+          }
+        ]
+      },
+      {
+        "name": "Aaron Chadwick",
+        "nm": 149468,
+        "roles": [
+          {
+            "char": "Rubin"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Foster",
+        "nm": 288061,
+        "roles": [
+          {
+            "char": "Redneck #2"
+          }
+        ]
+      },
+      {
+        "name": "Patrick McCord",
+        "nm": 1734399,
+        "roles": [
+          {
+            "char": "Lynch"
+          }
+        ]
+      },
+      {
+        "name": "Marc Miles",
+        "nm": 587185,
+        "roles": [
+          {
+            "char": "Redneck #1"
+          }
+        ]
+      },
+      {
+        "name": "Robert Bradford Shelton",
+        "nm": 791389,
+        "roles": [
+          {
+            "char": "Grady",
+            "as Robert Shelton": true
+          }
+        ]
+      },
+      {
+        "name": "John A. Willingham",
+        "nm": 932236,
+        "roles": [
+          {
+            "char": "Posse Member"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Custer's Next to Last Stand",
+    "tt": 630503,
+    "air_date": "1995-05-09",
+    "description": "A mystery man with a golden eye patch is threatening Pratt's life. At the same time Pratt also has to deal with problems from Custer.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Alex Hyde-White",
+        "nm": 405033,
+        "roles": [
+          {
+            "char": "George Armstrong Custer",
+            "ch": 16893
+          }
+        ]
+      },
+      {
+        "name": "Robert Donner",
+        "nm": 232817,
+        "roles": [
+          {
+            "char": "Mayor Chamberlain Brown",
+            "ch": 81455
+          }
+        ]
+      },
+      {
+        "name": "Richard Cox",
+        "nm": 185210,
+        "roles": [
+          {
+            "char": "Flintridge Caine"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Laurence",
+        "nm": 491090,
+        "roles": [
+          {
+            "char": "Libbie Custer"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Hoffman",
+        "nm": 389045,
+        "roles": [
+          {
+            "char": "Standing Beaver",
+            "as Pato Hoffman": true
+          }
+        ]
+      },
+      {
+        "name": "Fritz Sperberg",
+        "nm": 818277,
+        "roles": [
+          {
+            "char": "Miles McKinney"
+          }
+        ]
+      },
+      {
+        "name": "Ted Parks",
+        "nm": 663019,
+        "roles": [
+          {
+            "char": "Whipple"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Roakes",
+        "nm": 2807797,
+        "roles": [
+          {
+            "char": "Captain Bragg",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "John A. Willingham",
+        "nm": 932236,
+        "roles": [
+          {
+            "char": "Posse Member",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "The Life, Death, and Life of Wild Bill Hickock",
+    "tt": 630511,
+    "air_date": "1995-05-16",
+    "description": "Wild Bill Hickock seeks the help of Pratt's alter ego, Legend, but is turned down. But the bad still think they are working together, and both are now in peril.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472
+          }
+        ]
+      },
+      {
+        "name": "Mike Faherty",
+        "nm": 5507222,
+        "roles": [
+          {
+            "char": "Tommy Squirrel"
+          }
+        ]
+      },
+      {
+        "name": "Ed Adams",
+        "nm": 10939,
+        "roles": [
+          {
+            "char": "Henchman"
+          }
+        ]
+      },
+      {
+        "name": "Robert Donner",
+        "nm": 232817,
+        "roles": [
+          {
+            "char": "Mayor Chamberlain Brown",
+            "ch": 81455
+          }
+        ]
+      },
+      {
+        "name": "Debbie James",
+        "nm": 416415,
+        "roles": [
+          {
+            "char": "Marjorie"
+          }
+        ]
+      },
+      {
+        "name": "John Pyper-Ferguson",
+        "nm": 701561,
+        "roles": [
+          {
+            "char": "Jack McCall",
+            "ch": 36042
+          }
+        ]
+      },
+      {
+        "name": "Clark A. Ray",
+        "nm": 712786,
+        "roles": [
+          {
+            "char": "Henry",
+            "as Clark Ray": true
+          }
+        ]
+      },
+      {
+        "name": "William Russ",
+        "nm": 750916,
+        "roles": [
+          {
+            "char": "Wild Bill Hickock",
+            "ch": 16894
+          }
+        ]
+      },
+      {
+        "name": "John A. Willingham",
+        "nm": 932236,
+        "roles": [
+          {
+            "char": "Posse Member"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Knee-High Noon",
+    "tt": 630505,
+    "air_date": "1995-05-23",
+    "description": "E. C. Allen, the publisher of the Legend book series, orders Pratt to include a new character: Legend junior. And the mother of the young boy makes demands and otherwise causes a nuisance in Pratt's life.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472
+          }
+        ]
+      },
+      {
+        "name": "Michael Patrick Carter",
+        "nm": 141824,
+        "roles": [
+          {
+            "char": "Ben Davenport"
+          }
+        ]
+      },
+      {
+        "name": "Don Collier",
+        "nm": 171896,
+        "roles": [
+          {
+            "char": "Vine"
+          }
+        ]
+      },
+      {
+        "name": "Courtney Gains",
+        "nm": 301381,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mary-Margaret Humes",
+        "nm": 401799,
+        "roles": [
+          {
+            "char": "Laura Davenport"
+          }
+        ]
+      },
+      {
+        "name": "Harlan Knudson",
+        "nm": 461759,
+        "roles": [
+          {
+            "char": "Druggist"
+          }
+        ]
+      },
+      {
+        "name": "Ray McKinnon",
+        "nm": 571964,
+        "roles": [
+          {
+            "char": "Lyle"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Hill Newman",
+        "nm": 628008,
+        "roles": [
+          {
+            "char": "Milton Faber",
+            "ch": 80473
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "The Gospel According to Legend",
+    "tt": 630510,
+    "air_date": "1995-06-12",
+    "description": "Pratt recognizes a snakeoil salesman from back west, who has come to town spreading the word of the gospel, claiming to have changed.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472
+          }
+        ]
+      },
+      {
+        "name": "Tim Considine",
+        "nm": 175919,
+        "roles": [
+          {
+            "char": "Edgar Taggert"
+          }
+        ]
+      },
+      {
+        "name": "Brendan Kinkade",
+        "nm": 6539234,
+        "roles": [
+          {
+            "char": "Daniel Kilkelly"
+          }
+        ]
+      },
+      {
+        "name": "Robert Englund",
+        "nm": 387,
+        "roles": [
+          {
+            "char": "Mordechai"
+          },
+          {
+            "char": "Willy Miles"
+          }
+        ]
+      },
+      {
+        "name": "Phillip Connery",
+        "nm": 175228,
+        "roles": [
+          {
+            "char": "Brother Jude"
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Mitchell",
+        "nm": 593381,
+        "roles": [
+          {
+            "char": "Driver"
+          }
+        ]
+      },
+      {
+        "name": "Tina Peeler",
+        "nm": 6539233,
+        "roles": [
+          {
+            "char": "Heron Twin #1"
+          }
+        ]
+      },
+      {
+        "name": "Tess Harper",
+        "nm": 2128,
+        "roles": [
+          {
+            "char": "Heron Twin #2",
+            "as Tesa Harper": true
+          }
+        ]
+      },
+      {
+        "name": "Rick Taylor",
+        "nm": 1240383,
+        "roles": [
+          {
+            "char": "Operator"
+          }
+        ]
+      },
+      {
+        "name": "Jess King",
+        "nm": 454857,
+        "roles": [
+          {
+            "char": "Shill",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Mark \"Jeff\" Reed",
+        "nm": 3707053,
+        "roles": [
+          {
+            "char": "Townsperson",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Bone of Contention",
+    "tt": 630501,
+    "air_date": "1995-06-20",
+    "description": "Pratt and Bartok investigate the murder of a man who brought Bartok a dinosaur bone.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472
+          }
+        ]
+      },
+      {
+        "name": "Ana Auther",
+        "nm": 42593,
+        "roles": [
+          {
+            "char": "Henrietta"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Rudolph Kendall"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Kilpatrick",
+        "nm": 453304,
+        "roles": [
+          {
+            "char": "Dave Larson"
+          }
+        ]
+      },
+      {
+        "name": "Robert Mason",
+        "nm": 1721868,
+        "roles": [
+          {
+            "char": "Miles McMillan",
+            "as Robert Toevs": true
+          }
+        ]
+      },
+      {
+        "name": "Douglas Rowe",
+        "nm": 746503,
+        "roles": [
+          {
+            "char": "Sheriff Sam Motes",
+            "ch": 127058
+          }
+        ]
+      },
+      {
+        "name": "Beth Toussaint",
+        "nm": 869728,
+        "roles": [
+          {
+            "char": "Beth McMillan"
+          }
+        ]
+      },
+      {
+        "name": "Mark \"Jeff\" Reed",
+        "nm": 3707053,
+        "roles": [
+          {
+            "char": "Farm Hand",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Revenge of the Herd",
+    "tt": 630508,
+    "air_date": "1995-07-04",
+    "description": "The European publisher branch of the Legend books, comes to town with his son, wanting to go on a great American hunt for buffalo, but his actions cause trouble with the Arapaho people.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472
+          }
+        ]
+      },
+      {
+        "name": "Bob Balaban",
+        "nm": 837,
+        "roles": [
+          {
+            "char": "Harry Parver",
+            "ch": 246007
+          }
+        ]
+      },
+      {
+        "name": "Robert Donner",
+        "nm": 232817,
+        "roles": [
+          {
+            "char": "Mayor Chamberlain Brown",
+            "ch": 81455
+          }
+        ]
+      },
+      {
+        "name": "Reiner Schöne",
+        "nm": 770635,
+        "roles": [
+          {
+            "char": "Ludwig Hauptman",
+            "as Reiner Schone": true
+          }
+        ]
+      },
+      {
+        "name": "Christian Arin",
+        "nm": 6315106,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John Chappell",
+        "nm": 152612,
+        "roles": [
+          {
+            "char": "Lamar"
+          }
+        ]
+      },
+      {
+        "name": "Rodney A. Grant",
+        "nm": 2110,
+        "roles": [
+          {
+            "char": "Towashie"
+          }
+        ]
+      },
+      {
+        "name": "Deryle J. Lujan",
+        "nm": 1499787,
+        "roles": [
+          {
+            "char": "Young Arapaho",
+            "as Deryle Lujan": true
+          }
+        ]
+      },
+      {
+        "name": "Mike Casper",
+        "nm": 143855,
+        "roles": [
+          {
+            "char": "Gizzard-Eating Williams"
+          }
+        ]
+      },
+      {
+        "name": "Dick Bellerue",
+        "nm": 2471753,
+        "roles": [
+          {
+            "char": "Smoky"
+          }
+        ]
+      },
+      {
+        "name": "John Dahlstrand",
+        "nm": 6315107,
+        "roles": [
+          {
+            "char": "Helmut"
+          }
+        ]
+      },
+      {
+        "name": "George Salazar",
+        "nm": 757694,
+        "roles": [
+          {
+            "char": "Lone Eagle"
+          }
+        ]
+      },
+      {
+        "name": "Frank Soto",
+        "nm": 815526,
+        "roles": [
+          {
+            "char": "Indian"
+          }
+        ]
+      },
+      {
+        "name": "Kaitlin Williams",
+        "nm": 6315108,
+        "roles": [
+          {
+            "char": "Little Girl"
+          }
+        ]
+      },
+      {
+        "name": "Beth Wilkerson",
+        "nm": 6315109,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Fall of a Legend",
+    "tt": 630504,
+    "air_date": "1995-07-18",
+    "description": "Pratt is wrongfully convicted of murder and he, Bartok and Ramos must help clear his name.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472
+          }
+        ]
+      },
+      {
+        "name": "Lisa Akey",
+        "nm": 15231,
+        "roles": [
+          {
+            "char": "Drusilla"
+          }
+        ]
+      },
+      {
+        "name": "Dick Bellerue",
+        "nm": 2471753,
+        "roles": [
+          {
+            "char": "Smoky"
+          }
+        ]
+      },
+      {
+        "name": "Kim Breckon",
+        "nm": 6509102,
+        "roles": [
+          {
+            "char": "Louise"
+          }
+        ]
+      },
+      {
+        "name": "Peter Cirino",
+        "nm": 6509100,
+        "roles": [
+          {
+            "char": "Halewa"
+          }
+        ]
+      },
+      {
+        "name": "Linda Dearmond",
+        "nm": 6509101,
+        "roles": [
+          {
+            "char": "Bonnie Blue"
+          }
+        ]
+      },
+      {
+        "name": "Robert Donner",
+        "nm": 232817,
+        "roles": [
+          {
+            "char": "Mayor Chamberlain Brown",
+            "ch": 81455
+          }
+        ]
+      },
+      {
+        "name": "John Dennis Johnston",
+        "nm": 426665,
+        "roles": [
+          {
+            "char": "Dan Rusch"
+          }
+        ]
+      },
+      {
+        "name": "Gary Kirk",
+        "nm": 456469,
+        "roles": [
+          {
+            "char": "Seth"
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Mitchell",
+        "nm": 593381,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Andrew Hill Newman",
+        "nm": 628008,
+        "roles": [
+          {
+            "char": "Milton Faber",
+            "ch": 80473
+          }
+        ]
+      },
+      {
+        "name": "James Reeves",
+        "nm": 716214,
+        "roles": [
+          {
+            "char": "Henchman"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Rowe",
+        "nm": 746503,
+        "roles": [
+          {
+            "char": "Sheriff Sam Motes",
+            "ch": 127058
+          }
+        ]
+      },
+      {
+        "name": "Michael Ruud",
+        "nm": 748618,
+        "roles": [
+          {
+            "char": "Amos Dern"
+          }
+        ]
+      },
+      {
+        "name": "Michael Wayne",
+        "nm": 915611,
+        "roles": [
+          {
+            "char": "Elijah"
+          }
+        ]
+      },
+      {
+        "name": "John A. Willingham",
+        "nm": 932236,
+        "roles": [
+          {
+            "char": "Posse Member"
+          }
+        ]
+      },
+      {
+        "name": "Jerome Zelle",
+        "nm": 954592,
+        "roles": [
+          {
+            "char": "Harold"
+          }
+        ]
+      },
+      {
+        "name": "Mark \"Jeff\" Reed",
+        "nm": 3707053,
+        "roles": [
+          {
+            "char": "Denver Worker",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Clueless in San Francisco",
+    "tt": 630502,
+    "air_date": "1995-07-25",
+    "description": "The wife of the chief of the Black Foot Indians seeks Pratt's help in finding her parents, who she was separated from by accident when she was very young.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472
+          }
+        ]
+      },
+      {
+        "name": "Debbie Bartelt",
+        "nm": 58489,
+        "roles": [
+          {
+            "char": "Melissa Walsh"
+          }
+        ]
+      },
+      {
+        "name": "Baz",
+        "nm": 63253,
+        "roles": [
+          {
+            "char": "Reporter #2",
+            "as Bazzel Baz": true
+          }
+        ]
+      },
+      {
+        "name": "Dennis Burkley",
+        "nm": 122036,
+        "roles": [
+          {
+            "char": "Quelle Heure"
+          }
+        ]
+      },
+      {
+        "name": "Gary Clarke",
+        "nm": 164766,
+        "roles": [
+          {
+            "char": "Reporter #1"
+          }
+        ]
+      },
+      {
+        "name": "Grace Etchen",
+        "nm": 6509227,
+        "roles": [
+          {
+            "char": "Grandmother Walsh"
+          }
+        ]
+      },
+      {
+        "name": "Catherine Gilman",
+        "nm": 4066027,
+        "roles": [
+          {
+            "char": "Mrs. O'Hara"
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Paytents"
+          }
+        ]
+      },
+      {
+        "name": "James Hong",
+        "nm": 393222,
+        "roles": [
+          {
+            "char": "Chai"
+          }
+        ]
+      },
+      {
+        "name": "Patty Maloney",
+        "nm": 540593,
+        "roles": [
+          {
+            "char": "Zorelda"
+          }
+        ]
+      },
+      {
+        "name": "Janis Paige",
+        "nm": 656712,
+        "roles": [
+          {
+            "char": "Delilah Pratt"
+          }
+        ]
+      },
+      {
+        "name": "Jon Proudstar",
+        "nm": 698913,
+        "roles": [
+          {
+            "char": "Rain Pony"
+          }
+        ]
+      },
+      {
+        "name": "Charles Young",
+        "nm": 6509226,
+        "roles": [
+          {
+            "char": "Tattoo Man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Skeletons in the Closet",
+    "tt": 630509,
+    "air_date": "1995-08-08",
+    "description": "The skeleton of a dead Aztec indian leads Ramos on a journey to find out what happened to the stranger, and on a personal journey of his own.",
+    "cast": [
+      {
+        "name": "Richard Dean Anderson",
+        "nm": 760,
+        "roles": [
+          {
+            "char": "Ernest Pratt",
+            "ch": 42750
+          },
+          {
+            "char": "Nicodemus Legend",
+            "ch": 42750
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Janos Bartok",
+            "ch": 67997
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Huitzilopochtli Ramos",
+            "ch": 67998,
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Jarrad Paul",
+        "nm": 666871,
+        "roles": [
+          {
+            "char": "Skeeter",
+            "ch": 80472
+          }
+        ]
+      },
+      {
+        "name": "Gina Carizoza",
+        "nm": 1039602,
+        "roles": [
+          {
+            "char": "Mrs. Ruis"
+          }
+        ]
+      },
+      {
+        "name": "Ramon Chavez",
+        "nm": 154607,
+        "roles": [
+          {
+            "char": "Father Jaime"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Fry",
+        "nm": 296765,
+        "roles": [
+          {
+            "char": "Mashburn"
+          }
+        ]
+      },
+      {
+        "name": "Robert Keith",
+        "nm": 445291,
+        "roles": [
+          {
+            "char": "Sheriff Stapleton"
+          }
+        ]
+      },
+      {
+        "name": "Marisol Padilla Sánchez",
+        "nm": 655694,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "John Vernon",
+        "nm": 6893,
+        "roles": [
+          {
+            "char": "Seamus Calhoun"
+          }
+        ]
+      },
+      {
+        "name": "Lara Flynn Boyle",
+        "nm": 1223,
+        "roles": [
+          {
+            "char": "Theresa Dunleavy",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  }
+]

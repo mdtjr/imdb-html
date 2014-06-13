@@ -1,0 +1,6690 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Angel Attack",
+    "tt": 781951,
+    "air_date": "1995-10-04",
+    "description": "Shinji Ikari, a 14-year-old boy in the city of Tokyo-3, is delivered to the secret organization NERV, where he is requested by his enigmatic father to save the city from an invading creature called an Angel.",
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Rei Ayanami, Telephone Voice, PA Announcer,",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Fumihiko Tachiki",
+        "nm": 846192,
+        "roles": [
+          {
+            "char": "Gendô Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Motomu Kiyokawa",
+        "nm": 457952,
+        "roles": [
+          {
+            "char": "Kôzô Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Miki Nagasawa",
+        "nm": 619179,
+        "roles": [
+          {
+            "char": "Maya Ibuki, Woman B",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiro Yuuki",
+        "nm": 951300,
+        "roles": [
+          {
+            "char": "Makoto Hyûga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Takehito Koyasu",
+        "nm": 468729,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tomomichi Nishimura",
+        "nm": 632770,
+        "roles": [
+          {
+            "char": "UN General A",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hidenari Ugaki",
+        "nm": 880045,
+        "roles": [
+          {
+            "char": "UN General B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Naka",
+        "nm": 619904,
+        "roles": [
+          {
+            "char": "UN General C",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Akiko Hiramatsu",
+        "nm": 386235,
+        "roles": [
+          {
+            "char": "NERV Personnel",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nagasumi Takashi",
+        "nm": 4863747,
+        "roles": [
+          {
+            "char": "NERV Personnel",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Rick Peeples",
+        "nm": 1661242,
+        "roles": [
+          {
+            "char": "Keel Lorenz",
+            "ch": 51193,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jessica Calvello",
+        "nm": 130774,
+        "roles": [
+          {
+            "char": "Additional Voices",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Kilgore",
+        "nm": 453052,
+        "roles": [
+          {
+            "char": "Additional Voices",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Doug Medford",
+        "nm": 1422612,
+        "roles": [
+          {
+            "char": "Additional Voices",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Ben Nunez",
+        "nm": 1422648,
+        "roles": [
+          {
+            "char": "Additional Voices",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Layton Payne",
+        "nm": 668386,
+        "roles": [
+          {
+            "char": "Additional Voices",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Lorraine Reyes",
+        "nm": 721344,
+        "roles": [
+          {
+            "char": "Additional Voices",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Rockwell",
+        "nm": 734327,
+        "roles": [
+          {
+            "char": "Additional Voices",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Holly Vee",
+        "nm": 1451603,
+        "roles": [
+          {
+            "char": "Additional Voices",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Vic Mignogna",
+        "nm": 586003,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Monica Rial",
+        "nm": 722676,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "John Swasey",
+        "nm": 841748,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Masako Katsuki",
+        "nm": 441534,
+        "roles": [
+          {
+            "char": "Female doctor",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Unfamiliar Ceiling",
+    "tt": 781967,
+    "air_date": "1995-10-11",
+    "description": "In the wake of the previous battle, Misato hastily decides to let Shinji have a room in her apartment, where he discovers just what an irresponsible person his new guardian is. Shinji is also haunted by memories of his fight with the Angel.",
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Fumihiko Tachiki",
+        "nm": 846192,
+        "roles": [
+          {
+            "char": "Gendô Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Genmu Kiyokawa",
+        "nm": 2974376,
+        "roles": [
+          {
+            "char": "Kôzô Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          },
+          {
+            "char": "Committee Member B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiro Yuuki",
+        "nm": 951300,
+        "roles": [
+          {
+            "char": "Makoto Hyûga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Miki Nagasawa",
+        "nm": 619179,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Takehito Koyasu",
+        "nm": 468729,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          },
+          {
+            "char": "Committee Member D",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mugihito",
+        "nm": 611212,
+        "roles": [
+          {
+            "char": "Keel Lorentz",
+            "ch": 51193,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Hospital Announcer 2",
+            "voice": true
+          },
+          {
+            "char": "Housewife B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Miyamura",
+        "nm": 594436,
+        "roles": [
+          {
+            "char": "Female Announcer",
+            "voice": true
+          },
+          {
+            "char": "Hospital Announcer 1",
+            "voice": true
+          },
+          {
+            "char": "Housewife A",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Takashi Nagasako",
+        "nm": 619172,
+        "roles": [
+          {
+            "char": "Committee Member A",
+            "voice": true
+          },
+          {
+            "char": "Military Officer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Katsumi Suzuki",
+        "nm": 840598,
+        "roles": [
+          {
+            "char": "Committee Member C",
+            "voice": true
+          },
+          {
+            "char": "News Announcer",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "A Transfer",
+    "tt": 773248,
+    "air_date": "1995-10-18",
+    "description": "Shinji transfers into a new school within Tokyo-3, catching the fascination of his classmates - and igniting the ire of one student whose sister was injured in the EVA's last battle. Meanwhile, a second Angel makes its way into the city.",
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          },
+          {
+            "char": "Girl C",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          },
+          {
+            "char": "Girl D",
+            "voice": true
+          },
+          {
+            "char": "Female Operator B",
+            "voice": true
+          },
+          {
+            "char": "Woman on Radio)",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Genmu Kiyokawa",
+        "nm": 2974376,
+        "roles": [
+          {
+            "char": "Kôzô Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiro Yuuki",
+        "nm": 951300,
+        "roles": [
+          {
+            "char": "Makoto Hyûga",
+            "ch": 51186,
+            "voice": true
+          },
+          {
+            "char": "Boy A",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Miki Nagasawa",
+        "nm": 619179,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          },
+          {
+            "char": "Girl B",
+            "voice": true
+          },
+          {
+            "char": "Announcer",
+            "voice": true
+          },
+          {
+            "char": "Announcer A",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Takehito Koyasu",
+        "nm": 468729,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tomokazu Seki",
+        "nm": 782840,
+        "roles": [
+          {
+            "char": "Tôji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tetsuya Iwanaga",
+        "nm": 412561,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Junko Iwao",
+        "nm": 412585,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          },
+          {
+            "char": "Female Morning Newscaster",
+            "voice": true
+          },
+          {
+            "char": "Announcer B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eiji Maruyama",
+        "nm": 555459,
+        "roles": [
+          {
+            "char": "Old Teacher",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Miyamura",
+        "nm": 594436,
+        "roles": [
+          {
+            "char": "Girl A",
+            "voice": true
+          },
+          {
+            "char": "Weather Girl",
+            "voice": true
+          },
+          {
+            "char": "Female Operator A",
+            "voice": true
+          },
+          {
+            "char": "Woman A",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Nagano",
+        "nm": 619122,
+        "roles": [
+          {
+            "char": "Boy",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Maria Kawamura",
+        "nm": 442844,
+        "roles": [
+          {
+            "char": "Female Announcement B",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Hedgehog's Dilemma",
+    "tt": 781955,
+    "air_date": "1995-10-25",
+    "description": "Frustrated by his newfound responsibilities, Shinji runs away from Misato and NERV. After being escorted back to the organization by armed officials, Shinji must decide whether he truly wants to abandon his role as a pilot.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          },
+          {
+            "char": "Girl B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice": true
+          },
+          {
+            "char": "Girl C",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Fumihiko Tachiki",
+        "nm": 846192,
+        "roles": [
+          {
+            "char": "Gendô Ikari",
+            "ch": 51184,
+            "Station Attendant - Middle-Aged Male - Center": true
+          },
+          {
+            "char": "Station Announcer",
+            "Station Attendant - Middle-Aged Male - Center": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Toshihiko Seki",
+        "nm": 782841,
+        "roles": [
+          {
+            "char": "Tôji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          },
+          {
+            "char": "Assistant C",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tetsuya Iwanaga",
+        "nm": 412561,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          },
+          {
+            "char": "Assistant A",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiro Yuuki",
+        "nm": 951300,
+        "roles": [
+          {
+            "char": "Announcer",
+            "Speaker": true
+          },
+          {
+            "char": "Man B",
+            "Speaker": true
+          },
+          {
+            "char": "Man",
+            "Speaker": true
+          },
+          {
+            "char": "Man",
+            "Speaker": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Nagano",
+        "nm": 619122,
+        "roles": [
+          {
+            "char": "Movie Theater Couple",
+            "Man": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Miyamura",
+        "nm": 594436,
+        "roles": [
+          {
+            "char": "Movie Theater Couple",
+            "Woman": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Train Announcer",
+            "Female Recorded Voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Rei, Beyond Her Heart",
+    "tt": 781959,
+    "air_date": "1995-11-01",
+    "description": "Rei Ayanami, the pilot of Evangelion Unit 00, is scheduled to undergo another activation test following a horrible accident nearly a month earlier. Shinji makes attempts to understand Rei and her close relationship with his father.",
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          },
+          {
+            "char": "Woman",
+            "voice": true
+          },
+          {
+            "char": "Female Announcer B",
+            "voice": true
+          },
+          {
+            "char": "Woman on Radio C",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Fumihiko Tachiki",
+        "nm": 846192,
+        "roles": [
+          {
+            "char": "Gendô Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Genmu Kiyokawa",
+        "nm": 2974376,
+        "roles": [
+          {
+            "char": "Kôzô Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiro Yuuki",
+        "nm": 951300,
+        "roles": [
+          {
+            "char": "Makoto Hyûga",
+            "ch": 51186,
+            "voice": true
+          },
+          {
+            "char": "Boy B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Miki Nagasawa",
+        "nm": 619179,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          },
+          {
+            "char": "Woman on Radio B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Takehito Koyasu",
+        "nm": 468729,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tomokazu Seki",
+        "nm": 782840,
+        "roles": [
+          {
+            "char": "Tôji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tetsuya Iwanaga",
+        "nm": 412561,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jin Yamanoi",
+        "nm": 1225250,
+        "roles": [
+          {
+            "char": "Man A",
+            "voice": true
+          },
+          {
+            "char": "Laborer A",
+            "voice": true
+          },
+          {
+            "char": "Man",
+            "voice": true
+          },
+          {
+            "char": "Man on Radio A",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Nagano",
+        "nm": 619122,
+        "roles": [
+          {
+            "char": "Man B",
+            "voice": true
+          },
+          {
+            "char": "Boy A",
+            "voice": true
+          },
+          {
+            "char": "Man on Radio B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Miyamura",
+        "nm": 594436,
+        "roles": [
+          {
+            "char": "Woman A",
+            "voice": true
+          },
+          {
+            "char": "Female Announcer A",
+            "voice": true
+          },
+          {
+            "char": "Girl",
+            "voice": true
+          },
+          {
+            "char": "Woman on Radio A",
+            "voice": true
+          },
+          {
+            "char": "Woman on Radio D",
+            "voice": true
+          },
+          {
+            "char": "Female Announcer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Maria Kawamura",
+        "nm": 442844,
+        "roles": [
+          {
+            "char": "Female Announcement A",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Rei II",
+    "tt": 781962,
+    "air_date": "1995-11-08",
+    "description": "A new Angel invades, striking a critical blow against Shinji. Taking the enemy's abilities into account, Misato crafts a special strategy involving Units 00 and 01 as well as an enormous positron rifle. Shinji also discovers Rei's motive as a pilot.",
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          },
+          {
+            "char": "Announcer",
+            "voice": true
+          },
+          {
+            "char": "Phone Time Announcement",
+            "ch": 412619,
+            "voice": true
+          },
+          {
+            "char": "Woman A",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Fumihiko Tachiki",
+        "nm": 846192,
+        "roles": [
+          {
+            "char": "Gendô Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Genmu Kiyokawa",
+        "nm": 2974376,
+        "roles": [
+          {
+            "char": "Kôzô Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiro Yuuki",
+        "nm": 951300,
+        "roles": [
+          {
+            "char": "Makoto Hyûga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Miki Nagasawa",
+        "nm": 619179,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          },
+          {
+            "char": "Female Voice from Helicopter",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Takehito Koyasu",
+        "nm": 468729,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tomokazu Seki",
+        "nm": 782840,
+        "roles": [
+          {
+            "char": "Tôji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          },
+          {
+            "char": "Tactical Staffer B",
+            "voice": true
+          },
+          {
+            "char": "Institute Member",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tetsuya Iwanaga",
+        "nm": 412561,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          },
+          {
+            "char": "Tactical Staffer A",
+            "voice": true
+          },
+          {
+            "char": "Laborer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Nagano",
+        "nm": 619122,
+        "roles": [
+          {
+            "char": "Soldier",
+            "voice": true
+          },
+          {
+            "char": "Male Operator",
+            "voice": true
+          },
+          {
+            "char": "Man",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Miyamura",
+        "nm": 594436,
+        "roles": [
+          {
+            "char": "Voice from Publicity Car",
+            "voice": true
+          },
+          {
+            "char": "Female Announcement",
+            "voice": true
+          },
+          {
+            "char": "Woman",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "A Human Work",
+    "tt": 781965,
+    "air_date": "1995-11-15",
+    "description": "A new nuclear-powered military robot, Jet Alone, goes out of control during a demonstration ceremony and heads toward an almost certain meltdown. With the help of Shinji and EVA-01, Misato takes it upon herself to stop its rampage.",
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Fumihiko Tachiki",
+        "nm": 846192,
+        "roles": [
+          {
+            "char": "Gendô Ikari",
+            "ch": 51184,
+            "voice": true
+          },
+          {
+            "char": "Yasugi",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiro Yuuki",
+        "nm": 951300,
+        "roles": [
+          {
+            "char": "Makoto Hyûga",
+            "ch": 51186,
+            "voice": true
+          },
+          {
+            "char": "Boy C",
+            "voice": true
+          },
+          {
+            "char": "Control Staffer E",
+            "voice": true
+          },
+          {
+            "char": "Technician",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Miki Nagasawa",
+        "nm": 619179,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tomokazu Seki",
+        "nm": 782840,
+        "roles": [
+          {
+            "char": "Tôji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          },
+          {
+            "char": "Control Staffer B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tetsuya Iwanaga",
+        "nm": 412561,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          },
+          {
+            "char": "Control Staffer A",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Junko Iwao",
+        "nm": 412585,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hôchû Ôtsuka",
+        "nm": 960037,
+        "roles": [
+          {
+            "char": "Shirô Tokita",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Yamadera",
+        "nm": 945290,
+        "roles": [
+          {
+            "char": "Man on Phone",
+            "voice": true
+          },
+          {
+            "char": "Boy B",
+            "voice": true
+          },
+          {
+            "char": "Manda",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Nagano",
+        "nm": 619122,
+        "roles": [
+          {
+            "char": "Boy A",
+            "voice": true
+          },
+          {
+            "char": "Man on Phone",
+            "voice": true
+          },
+          {
+            "char": "Man on Plane",
+            "voice": true
+          },
+          {
+            "char": "Control Staffers C",
+            "voice": true
+          },
+          {
+            "char": "Control Staffer D",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Girl",
+            "voice": true
+          },
+          {
+            "char": "Announcement",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Asuka Strikes!",
+    "tt": 781953,
+    "air_date": "1995-11-22",
+    "description": "Misato, Shinji, Touji and Kensuke travel to a famous aircraft carrier to collect the new EVA-02 and its prideful pilot, Asuka Langley Souryuu. A seaborne Angel strikes the fleet, and Asuka leads Shinji into her Eva's entry plug for an immediate demonstration of her skills.",
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice": true
+          },
+          {
+            "char": "Ship-wide Announcement",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          },
+          {
+            "char": "Dog on TV Drama",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice": true
+          },
+          {
+            "char": "Speaker B",
+            "voice": true
+          },
+          {
+            "char": "Female Announcement",
+            "voice": true
+          },
+          {
+            "char": "Female Speaker",
+            "voice": true
+          },
+          {
+            "char": "Woman on TV Drama",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Miyamura",
+        "nm": 594436,
+        "roles": [
+          {
+            "char": "Asuka Langley Sôryû",
+            "ch": 18088,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Fumihiko Tachiki",
+        "nm": 846192,
+        "roles": [
+          {
+            "char": "Gendô Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tomokazu Seki",
+        "nm": 782840,
+        "roles": [
+          {
+            "char": "Tôji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          },
+          {
+            "char": "Announcement",
+            "voice": true
+          },
+          {
+            "char": "Speaker D",
+            "voice": true
+          },
+          {
+            "char": "Announcement A",
+            "voice": true
+          },
+          {
+            "char": "Male Speaker B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tetsuya Iwanaga",
+        "nm": 412561,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          },
+          {
+            "char": "Male Announcement",
+            "ch": 410310,
+            "voice": true
+          },
+          {
+            "char": "Speaker C",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Yamadera",
+        "nm": 945290,
+        "roles": [
+          {
+            "char": "Ryôji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tomomichi Nishimura",
+        "nm": 632770,
+        "roles": [
+          {
+            "char": "Captain of Over The Rainbow",
+            "voice": true
+          },
+          {
+            "char": "Man on TV Drama",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jin Yamanoi",
+        "nm": 1225250,
+        "roles": [
+          {
+            "char": "Vice Captain",
+            "voice": true
+          },
+          {
+            "char": "Speaker A",
+            "voice": true
+          },
+          {
+            "char": "Speaker",
+            "voice": true
+          },
+          {
+            "char": "Male Speaker A",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "José Luis Castañeda",
+        "nm": 144505,
+        "roles": [
+          {
+            "char": "O.T.R. Admiral",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Both of You, Dance Like You Want to Win!",
+    "tt": 781968,
+    "air_date": "1995-11-29",
+    "description": "A quick attack against a new Angel by Asuka and Shinji ends in an embarrassing defeat when the Angel suddenly divides itself. Shinji and Asuka undergo learning a series of synchronized dance movements as per a new team-oriented strategy.",
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Yukina Kurimoto",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Miyamura",
+        "nm": 594436,
+        "roles": [
+          {
+            "char": "Asuka Langley Sôryû",
+            "ch": 18088,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiro Yuuki",
+        "nm": 951300,
+        "roles": [
+          {
+            "char": "Makoto Hyûga",
+            "ch": 51186,
+            "voice": true
+          },
+          {
+            "char": "Extra Schoolboy D",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Miki Nagasawa",
+        "nm": 619179,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Takehito Koyasu",
+        "nm": 468729,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          },
+          {
+            "char": "Extra Schoolboy A",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Yamadera",
+        "nm": 945290,
+        "roles": [
+          {
+            "char": "Ryôji Kaji",
+            "ch": 18091,
+            "voice": true
+          },
+          {
+            "char": "Extra Schoolboy E",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tomokazu Seki",
+        "nm": 782840,
+        "roles": [
+          {
+            "char": "Tôji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          },
+          {
+            "char": "Extra Schoolboy B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tetsuya Iwanaga",
+        "nm": 412561,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          },
+          {
+            "char": "Extra Schoolboy C",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Junko Iwao",
+        "nm": 412585,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Magma Diver",
+    "tt": 781957,
+    "air_date": "1995-12-06",
+    "description": "Banned by Misato from going on a class trip to Okinawa, Shinji and Asuka catch up on their studies. An embryonic Angel is found inside a volcano, and Asuka volunteers to carry out the perilous task of retrieving the creature.",
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Miyamura",
+        "nm": 594436,
+        "roles": [
+          {
+            "char": "Asuka Langley Sôryû",
+            "ch": 18088,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Fumihiko Tachiki",
+        "nm": 846192,
+        "roles": [
+          {
+            "char": "Gendô Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Genmu Kiyokawa",
+        "nm": 2974376,
+        "roles": [
+          {
+            "char": "Kôzô Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiro Yuuki",
+        "nm": 951300,
+        "roles": [
+          {
+            "char": "Makoto Hyûga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Miki Nagasawa",
+        "nm": 619179,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Takehito Koyasu",
+        "nm": 468729,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Yamadera",
+        "nm": 945290,
+        "roles": [
+          {
+            "char": "Ryôji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tomokazu Seki",
+        "nm": 782840,
+        "roles": [
+          {
+            "char": "Tôji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          },
+          {
+            "char": "Committee Member B",
+            "voice": true
+          },
+          {
+            "char": "Staffer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tetsuya Iwanaga",
+        "nm": 412561,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          },
+          {
+            "char": "Male Speaker",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Junko Iwao",
+        "nm": 412585,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          },
+          {
+            "char": "Department Store Announcement",
+            "voice": true
+          },
+          {
+            "char": "Female Announcement",
+            "voice": true
+          },
+          {
+            "char": "Woman",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mugihito",
+        "nm": 611212,
+        "roles": [
+          {
+            "char": "Keel Lorentz",
+            "ch": 51193,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Nagano",
+        "nm": 619122,
+        "roles": [
+          {
+            "char": "Committee Member A",
+            "voice": true
+          },
+          {
+            "char": "Delivery Man",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "The Day Tokyo-3 Stood Still",
+    "tt": 781963,
+    "air_date": "1995-12-13",
+    "description": "A city-wide power outage puts NERV into a crisis as another Angel invades Tokyo-3. Shinji, Rei and Asuka attempt to make their way into the headquarters as NERV personnel ready the Evas for manual deployment.",
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "Speaker": true
+          },
+          {
+            "char": "Woman",
+            "Speaker": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          },
+          {
+            "char": "Lower Floor Female Voice",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Miyamura",
+        "nm": 594436,
+        "roles": [
+          {
+            "char": "Asuka Langley Sôryû",
+            "ch": 18088,
+            "voice": true
+          },
+          {
+            "char": "Female Secretary's Voice",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Fumihiko Tachiki",
+        "nm": 846192,
+        "roles": [
+          {
+            "char": "Gendô Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michitaka Kobayashi",
+        "nm": 633027,
+        "roles": [
+          {
+            "char": "Kôzô Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiro Yuuki",
+        "nm": 951300,
+        "roles": [
+          {
+            "char": "Makoto Hyûga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Miki Nagasawa",
+        "nm": 619179,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Takehito Koyasu",
+        "nm": 468729,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Yamadera",
+        "nm": 945290,
+        "roles": [
+          {
+            "char": "Ryôji Kaji",
+            "ch": 18091,
+            "voice": true
+          },
+          {
+            "char": "Soldier B",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hidenari Ugaki",
+        "nm": 880045,
+        "roles": [
+          {
+            "char": "Soldier A",
+            "voice": true
+          },
+          {
+            "char": "Man",
+            "voice": true
+          },
+          {
+            "char": "Speaker from Cessna",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tomomichi Nishimura",
+        "nm": 632770,
+        "roles": [
+          {
+            "char": "Soldier C",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kôichi Nagano",
+        "nm": 619122,
+        "roles": [
+          {
+            "char": "Driver",
+            "Speaker": true
+          },
+          {
+            "char": "Man",
+            "Speaker": true
+          }
+        ]
+      },
+      {
+        "name": "Akiko Yajima",
+        "nm": 944985,
+        "roles": [
+          {
+            "char": "Miss Uguisu",
+            "voice": true
+          },
+          {
+            "char": "Child's Voice",
+            "voice": true
+          },
+          {
+            "char": "Female Operator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "She Said, \"Don't Make Others Suffer for Your Personal Hatred.\"",
+    "tt": 781966,
+    "air_date": "1995-12-20",
+    "description": "Misato is promoted to the rank of Major, but she reveals her long-buried sentiments concerning her work at NERV. A massive Angel appears in Earth's stratosphere, and all three Evangelions are deployed to stop it.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Liliputian Hitcher",
+    "tt": 781952,
+    "air_date": "1995-12-27",
+    "description": "During a simulation plug experiment, an Angel with the ability to mimic computer circuitry manages to invade the MAGI supercomputer system and trigger a self-destruct sequence. Ritsuko delves into the system's inner workings and leads a furious attempt to cancel the process.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Laura Chapman",
+        "nm": 152441,
+        "roles": [
+          {
+            "char": "Naoko Akagi",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Weaving a Story",
+    "tt": 781960,
+    "air_date": "1996-01-03",
+    "description": "The Human Instrumentality Committee recollects the past Angel encounters and battles while Gendou conceals the matter of the recently discovered virus-like Angel. Rei and Shinji undergo inter-compatibility testing with their respective Evangelions, but this experiment culminates in a strangely familiar incident.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Those Women Longed for the Touch of Others' Lips and Thus Invited Their Kisses",
+    "tt": 781956,
+    "air_date": "1996-01-10",
+    "description": "Shinji visits his mother's grave in the company of his father, and Misato reflects upon her bygone romance with Kaji. Soon afterward, Kaji and Misato discover a startling secret within NERV's Terminal Dogma.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Splitting of the Breast",
+    "tt": 781954,
+    "air_date": "1996-01-17",
+    "description": "A bizarre Angel possessing a spherical shadow in the air and a Dirac sea-type body on the ground absorbs Shinji and EVA-01. While NERV searches for a means of destroying the Angel--even if that means killing Shinji as well--Shinji languishes inside the entry plug, pondering his role as a pilot and his relationship with the people in his life.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kim Sevier",
+        "nm": 786420,
+        "roles": [
+          {
+            "char": "Yui Ikari",
+            "ch": 51191,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "The Fourth Child",
+    "tt": 781964,
+    "air_date": "1996-01-24",
+    "description": "As EVA-04, the planned testbed for the S² engine, disappears under mysterious circumstances, NERV quickly prepares the testing of EVA-03 and the selection of its pilot. Shinji and Touji continue to bond, and Hikari begins to emotionally open herself to Touji.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Ambivalence",
+    "tt": 781961,
+    "air_date": "1996-01-31",
+    "description": "The activation of EVA-03 goes awry when an Angel takes control of the unit. With EVA-03 itself re-designated as an Angel, Shinji is faced with the moral dilemma of terminating the rogue Evangelion at the risk of harming or killing the pilot trapped within.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Introjection",
+    "tt": 781950,
+    "air_date": "1996-02-07",
+    "description": "Shinji, furious at his father for the orders given in the previous battle, resigns from NERV. But as an Angel lays waste to the Geo-Front and the other Evangelions, he begins to reconsider his hasty decision.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kim Sevier",
+        "nm": 786420,
+        "roles": [
+          {
+            "char": "Yui Ikari",
+            "ch": 51191,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Weaving a Story II: Oral Stage",
+    "tt": 781958,
+    "air_date": "1996-02-14",
+    "description": "His physical form absorbed by EVA-01, Shinji drifts through an introspective state, again contemplating his \"mission\" and role as a pilot. Meanwhile, Ritsuko and NERV desperately attempt to recover him.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kim Sevier",
+        "nm": 786420,
+        "roles": [
+          {
+            "char": "Yui Ikari",
+            "ch": 51191,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "He Was Aware That He Was Still a Child",
+    "tt": 785996,
+    "air_date": "1996-02-21",
+    "description": "As Kouzou is interrogated by SEELE, he reminisces about the history of NERV, its parent company GEHIRN, Yui and Gendou Ikari, and Ritsuko's mother Naoko Akagi. At the same time, a horrible fate is in store for Kaji concerning his shadowy dealings.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kim Sevier",
+        "nm": 786420,
+        "roles": [
+          {
+            "char": "Yui Ikari",
+            "ch": 51191,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Laura Chapman",
+        "nm": 152441,
+        "roles": [
+          {
+            "char": "Naoko Akagi",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rick Peeples",
+        "nm": 1661242,
+        "roles": [
+          {
+            "char": "Keel Lorenz",
+            "ch": 51193,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rebeca Patiño",
+        "nm": 2376505,
+        "roles": [
+          {
+            "char": "Naoko Akagi",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Don't Be",
+    "tt": 785995,
+    "air_date": "1996-02-28",
+    "description": "Asuka, haunted by childhood memories of her mother's suicide and a notion that she \"lost\" to Shinji in the previous battle, begins to lose her precious self-confidence as a pilot. A new Angel appears in space and invades Asuka's psyche through a strange beam of light, rendering her helpless.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Maria Kawamura",
+        "nm": 442844,
+        "roles": [
+          {
+            "char": "Asuka's Mother",
+            "Sohryu Kyouko Zeppelin": true
+          }
+        ]
+      },
+      {
+        "name": "Rafael Rivera",
+        "nm": 3369383,
+        "roles": [
+          {
+            "char": "Asuka's Father",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ruth Toscano",
+        "nm": 3364774,
+        "roles": [
+          {
+            "char": "Asuka's Mother",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Liza Willert",
+        "nm": 929788,
+        "roles": [
+          {
+            "char": "Asuka's Grandmother",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "Rei III",
+    "tt": 785997,
+    "air_date": "1996-03-06",
+    "description": "When an Angel resembling a coil of light arrives, Rei and Shinji are sent to battle it, but the assimilating ability of the foe prompts Rei to self-destruct the EVA-00 in order to kill it and save Shinji. Mysteries abound as a clone of Rei later appears in the hospital, and Ritsuko reveals the terrible secret of the \"dummy plug\" system to Misato and Shinji.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kim Sevier",
+        "nm": 786420,
+        "roles": [
+          {
+            "char": "Yui Ikari",
+            "ch": 51191,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "The Beginning and the End, or \"Knockin' on Heaven's Door\"",
+    "tt": 790338,
+    "air_date": "1996-03-13",
+    "description": "A despondent Shinji encounters a kind-hearted boy named Kaworu, who quickly becomes his close friend. However, Kaworu (selected earlier as the replacement pilot for EVA-02) is soon revealed to be the final Angel. This turn of events leaves Shinji with a cruel dilemma: saving humanity will mean he must kill his only true friend in the world.",
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice: Japanese version": true
+          },
+          {
+            "char": "Yui Ikari",
+            "ch": 51191,
+            "voice: Japanese version": true
+          },
+          {
+            "char": "Pen Pen",
+            "ch": 51192,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Miyamura",
+        "nm": 594436,
+        "roles": [
+          {
+            "char": "Asuka Langley Sôryû",
+            "ch": 18088,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Fumihiko Tachiki",
+        "nm": 846192,
+        "roles": [
+          {
+            "char": "Gendô Ikari",
+            "ch": 51184,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Motomu Kiyokawa",
+        "nm": 457952,
+        "roles": [
+          {
+            "char": "Kôzô Fuyutsuki",
+            "ch": 51185,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Kaworu Nagisa",
+            "ch": 18087,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiro Yuuki",
+        "nm": 951300,
+        "roles": [
+          {
+            "char": "Makoto Hyûga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Miki Nagasawa",
+        "nm": 619179,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Takehito Koyasu",
+        "nm": 468729,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Kim Sevier",
+        "nm": 786420,
+        "roles": [
+          {
+            "char": "Yui Ikari",
+            "ch": 51191,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mugihito",
+        "nm": 611212,
+        "roles": [
+          {
+            "char": "Keel Lorentz",
+            "ch": 51193,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ernesto Lezama",
+        "nm": 2339858,
+        "roles": [
+          {
+            "char": "Kaworu Nagisa",
+            "ch": 18087,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E25",
+    "title": "Do You Love Me?",
+    "tt": 785994,
+    "air_date": "1996-03-20",
+    "description": "Shinji, pained by his choice to kill his friend Kaworu, shuts himself off from the world and the people in his life and reflects upon what his true purpose in life is. Instrumentality begins as Shinji wishes for a world of complete solitude and seclusion.",
+    "cast": [
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kim Sevier",
+        "nm": 786420,
+        "roles": [
+          {
+            "char": "Yui Ikari",
+            "ch": 51191,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Laura Chapman",
+        "nm": 152441,
+        "roles": [
+          {
+            "char": "Naoko Akagi",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Maria Kawamura",
+        "nm": 442844,
+        "roles": [
+          {
+            "char": "Asuka's Mother",
+            "Sohryu Kyouko Zeppelin": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E26",
+    "title": "The Beast That Shouted Love at the Heart of the World",
+    "tt": 776639,
+    "air_date": "1996-03-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Spike Spencer",
+        "nm": 818111,
+        "roles": [
+          {
+            "char": "Shinji Ikari",
+            "ch": 26890,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice: Japanese version": true
+          },
+          {
+            "char": "Yui Ikari",
+            "ch": 51191,
+            "voice: Japanese version": true
+          },
+          {
+            "char": "Pen Pen",
+            "ch": 51192,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Allison Keith",
+        "nm": 445206,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Misato Katsuragi",
+            "ch": 18089,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Ulu",
+        "nm": 880735,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Miyamura",
+        "nm": 594436,
+        "roles": [
+          {
+            "char": "Asuka Langley Sôryû",
+            "ch": 18088,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Winn Lee",
+        "nm": 935313,
+        "roles": [
+          {
+            "char": "Rei Ayanami",
+            "ch": 27594,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Grant",
+        "nm": 335674,
+        "roles": [
+          {
+            "char": "Asuka Langly Soryu",
+            "ch": 18088,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Yuriko Yamaguchi",
+        "nm": 945372,
+        "roles": [
+          {
+            "char": "Ritsuko Akagi",
+            "ch": 18090,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Tristan MacAvery",
+        "nm": 531355,
+        "roles": [
+          {
+            "char": "Gendo Ikari",
+            "ch": 51184,
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Aaron Krohn",
+        "nm": 471968,
+        "roles": [
+          {
+            "char": "Ryoji Kaji",
+            "ch": 18091,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Pisano",
+        "nm": 685411,
+        "roles": [
+          {
+            "char": "Toji Suzuhara",
+            "ch": 51189,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Stoll",
+        "nm": 831518,
+        "roles": [
+          {
+            "char": "Kensuke Aida",
+            "ch": 51183,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Guil Lunde",
+        "nm": 969616,
+        "roles": [
+          {
+            "char": "Kozo Fuyutsuki",
+            "ch": 51185,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Fumihiko Tachiki",
+        "nm": 846192,
+        "roles": [
+          {
+            "char": "Gendô Ikari",
+            "ch": 51184,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Greenfield",
+        "nm": 335744,
+        "roles": [
+          {
+            "char": "Makoto Hyuga",
+            "ch": 51186,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kendra Benham",
+        "nm": 999161,
+        "roles": [
+          {
+            "char": "Maya Ibuki",
+            "ch": 51187,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Lee",
+        "nm": 497485,
+        "roles": [
+          {
+            "char": "Shigeru Aoba",
+            "ch": 51188,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Amerson",
+        "nm": 971348,
+        "roles": [
+          {
+            "char": "Hikari Horaki",
+            "ch": 51190,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kim Sevier",
+        "nm": 786420,
+        "roles": [
+          {
+            "char": "Yui Ikari",
+            "ch": 51191,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Laura Chapman",
+        "nm": 152441,
+        "roles": [
+          {
+            "char": "Naoko Akagi",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rick Peeples",
+        "nm": 1661242,
+        "roles": [
+          {
+            "char": "Keel Lorenz",
+            "ch": 51193,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pedro de Aguillón",
+        "nm": 13649,
+        "roles": [
+          {
+            "char": "Seele Member",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  }
+]

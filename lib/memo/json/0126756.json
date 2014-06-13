@@ -1,0 +1,59 @@
+[
+  {
+    "se": "S??E??",
+    "title": "Episode dated 1 April 1991",
+    "tt": 688116,
+    "air_date": "1991-04-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Stipe",
+        "nm": 5468,
+        "roles": [
+          {
+            "char": "R.E.M."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S??E??",
+    "title": "Episode dated 23 March 1992",
+    "tt": 868546,
+    "air_date": "1992-03-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christopher Guest",
+        "nm": 1302,
+        "roles": [
+          {
+            "char": "Nigel Tufnel",
+            "ch": 8522
+          }
+        ]
+      },
+      {
+        "name": "Michael McKean",
+        "nm": 571106,
+        "roles": [
+          {
+            "char": "David St. Hubbins",
+            "ch": 8527
+          }
+        ]
+      },
+      {
+        "name": "Harry Shearer",
+        "nm": 733427,
+        "roles": [
+          {
+            "char": "Derek Smalls",
+            "ch": 8524
+          }
+        ]
+      }
+    ]
+  }
+]

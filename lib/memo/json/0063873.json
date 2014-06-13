@@ -1,0 +1,3536 @@
+[
+  {
+    "se": "S01E00",
+    "title": "The Whole World Is Watching",
+    "tt": 65211,
+    "air_date": "1969-03-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nichols",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Hal Holbrook",
+        "nm": 1358,
+        "roles": [
+          {
+            "char": "Chancellor Graham"
+          }
+        ]
+      },
+      {
+        "name": "Steve Ihnat",
+        "nm": 407307,
+        "roles": [
+          {
+            "char": "Officer Platt"
+          }
+        ]
+      },
+      {
+        "name": "Stephen McNally",
+        "nm": 573640,
+        "roles": [
+          {
+            "char": "Governor"
+          }
+        ]
+      },
+      {
+        "name": "Richard Ely",
+        "nm": 255934,
+        "roles": [
+          {
+            "char": "Gil Bennett"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Olivieri",
+        "nm": 647214,
+        "roles": [
+          {
+            "char": "Ed Shepp"
+          }
+        ]
+      },
+      {
+        "name": "Roy Poole",
+        "nm": 690880,
+        "roles": [
+          {
+            "char": "Jim Church"
+          }
+        ]
+      },
+      {
+        "name": "Dana Elcar",
+        "nm": 253020,
+        "roles": [
+          {
+            "char": "Huston"
+          }
+        ]
+      },
+      {
+        "name": "Carrie Snodgress",
+        "nm": 811202,
+        "roles": [
+          {
+            "char": "Megan Baker"
+          }
+        ]
+      },
+      {
+        "name": "Eileen Wesson",
+        "nm": 921880,
+        "roles": [
+          {
+            "char": "Debbie"
+          }
+        ]
+      },
+      {
+        "name": "Kermit Murdock",
+        "nm": 613794,
+        "roles": [
+          {
+            "char": "Second Judge"
+          }
+        ]
+      },
+      {
+        "name": "Juanita Moore",
+        "nm": 601428,
+        "roles": [
+          {
+            "char": "Mrs. Harberson"
+          }
+        ]
+      },
+      {
+        "name": "Charles Brewer",
+        "nm": 108125,
+        "roles": [
+          {
+            "char": "Student Witness"
+          }
+        ]
+      },
+      {
+        "name": "John S. Ragin",
+        "nm": 706505,
+        "roles": [
+          {
+            "char": "Arresting Officer"
+          }
+        ]
+      },
+      {
+        "name": "Bennes Mardenn",
+        "nm": 546265,
+        "roles": [
+          {
+            "char": "Doctor Sloan"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Nisbet",
+        "nm": 632604,
+        "roles": [
+          {
+            "char": "Jail Guard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E01",
+    "title": "A Game of Chance",
+    "tt": 528569,
+    "air_date": "1969-09-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Michael Carr",
+        "nm": 139801,
+        "roles": [
+          {
+            "char": "Detective Mike Perkins",
+            "as Mike Carr": true
+          }
+        ]
+      },
+      {
+        "name": "Dick Gordon",
+        "nm": 974084,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Steve Ihnat",
+        "nm": 407307,
+        "roles": [
+          {
+            "char": "Lt. William Anderson"
+          }
+        ]
+      },
+      {
+        "name": "Todd Martin",
+        "nm": 551716,
+        "roles": [
+          {
+            "char": "Steven Holt"
+          }
+        ]
+      },
+      {
+        "name": "David Mauro",
+        "nm": 561216,
+        "roles": [
+          {
+            "char": "Kervorkian"
+          }
+        ]
+      },
+      {
+        "name": "John Milford",
+        "nm": 587333,
+        "roles": [
+          {
+            "char": "Sgt. Joe Benedict"
+          }
+        ]
+      },
+      {
+        "name": "Leslie Perkins",
+        "nm": 1017291,
+        "roles": [
+          {
+            "char": "Milly"
+          }
+        ]
+      },
+      {
+        "name": "John S. Ragin",
+        "nm": 706505,
+        "roles": [
+          {
+            "char": "Ralph Horton",
+            "as John Ragin": true
+          }
+        ]
+      },
+      {
+        "name": "Sandra Smith",
+        "nm": 809869,
+        "roles": [
+          {
+            "char": "Anne Carlin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The People Against Ortega",
+    "tt": 528587,
+    "air_date": "1969-10-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nichols",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "Robert Webber",
+        "nm": 916434,
+        "roles": [
+          {
+            "char": "Sam Rand"
+          }
+        ]
+      },
+      {
+        "name": "Frank Ramírez",
+        "nm": 709236,
+        "roles": [
+          {
+            "char": "Jessie Ortega",
+            "as Frank Ramirez": true
+          }
+        ]
+      },
+      {
+        "name": "John Randolph",
+        "nm": 709907,
+        "roles": [
+          {
+            "char": "Judge Murchison"
+          }
+        ]
+      },
+      {
+        "name": "Kermit Murdock",
+        "nm": 613794,
+        "roles": [
+          {
+            "char": "DA Charles Pettit"
+          }
+        ]
+      },
+      {
+        "name": "Nina Shipman",
+        "nm": 794110,
+        "roles": [
+          {
+            "char": "Marcy Rand"
+          }
+        ]
+      },
+      {
+        "name": "Lincoln Kilpatrick",
+        "nm": 453299,
+        "roles": [
+          {
+            "char": "Clellan"
+          }
+        ]
+      },
+      {
+        "name": "Gene Widhoff",
+        "nm": 1553574,
+        "roles": [
+          {
+            "char": "Newspaper Artist"
+          }
+        ]
+      },
+      {
+        "name": "Ken Drake",
+        "nm": 236951,
+        "roles": [
+          {
+            "char": "Chaplain"
+          }
+        ]
+      },
+      {
+        "name": "Fred Slyter",
+        "nm": 806354,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "James Chandler",
+        "nm": 151383,
+        "roles": [
+          {
+            "char": "Governor Benteen",
+            "as Jim Chandler": true
+          }
+        ]
+      },
+      {
+        "name": "George E. Carey",
+        "nm": 136955,
+        "roles": [
+          {
+            "char": "Warden"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "The Crowd Pleaser",
+    "tt": 528579,
+    "air_date": "1969-11-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nichols",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Mel Tormé",
+        "nm": 868123,
+        "roles": [
+          {
+            "char": "Harry Carter"
+          }
+        ]
+      },
+      {
+        "name": "Georg Stanford Brown",
+        "nm": 113617,
+        "roles": [
+          {
+            "char": "Richie"
+          }
+        ]
+      },
+      {
+        "name": "Dana Elcar",
+        "nm": 253020,
+        "roles": [
+          {
+            "char": "District Attorney Shannon"
+          }
+        ]
+      },
+      {
+        "name": "Juanita Moore",
+        "nm": 601428,
+        "roles": [
+          {
+            "char": "Emma Greenley"
+          }
+        ]
+      },
+      {
+        "name": "Lillian Lehman",
+        "nm": 499642,
+        "roles": [
+          {
+            "char": "Thelma"
+          }
+        ]
+      },
+      {
+        "name": "Elissa Dulce Hoopai",
+        "nm": 393702,
+        "roles": [
+          {
+            "char": "Valerie Yamagata",
+            "as Elissa Dulce": true
+          }
+        ]
+      },
+      {
+        "name": "Fredricka Meyers",
+        "nm": 583543,
+        "roles": [
+          {
+            "char": "Secretary",
+            "as Fredricka Myers": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Ashe",
+        "nm": 38816,
+        "roles": [
+          {
+            "char": "2nd Judge"
+          }
+        ]
+      },
+      {
+        "name": "Vince Williams",
+        "nm": 931882,
+        "roles": [
+          {
+            "char": "Callahan"
+          }
+        ]
+      },
+      {
+        "name": "Walter Woolf King",
+        "nm": 455373,
+        "roles": [
+          {
+            "char": "1st Judge"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Bowman",
+        "nm": 101304,
+        "roles": [
+          {
+            "char": "1st Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Bob Hull",
+        "nm": 2967370,
+        "roles": [
+          {
+            "char": "2nd Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Smiley",
+        "nm": 806972,
+        "roles": [
+          {
+            "char": "Court Clerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Rockford Riddle",
+    "tt": 528589,
+    "air_date": "1969-11-16",
+    "description": "Wife on trial for killing husband's mistress. Husband testifies he did it. After trial he recants; goes to jail - doesn't matter, the actress playing the wife is Claudette Longet who would killed her lover in real life. Must see episode!!.",
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Charles Aidman",
+        "nm": 14493,
+        "roles": [
+          {
+            "char": "Henry Rockford"
+          }
+        ]
+      },
+      {
+        "name": "Claudine Longet",
+        "nm": 519296,
+        "roles": [
+          {
+            "char": "Suzanne"
+          }
+        ]
+      },
+      {
+        "name": "Leslie Perkins",
+        "nm": 1017291,
+        "roles": [
+          {
+            "char": "Carol Peterson"
+          }
+        ]
+      },
+      {
+        "name": "George Murdock",
+        "nm": 613787,
+        "roles": [
+          {
+            "char": "District Attorney Braddock",
+            "ch": 109570
+          }
+        ]
+      },
+      {
+        "name": "Charles Brewer",
+        "nm": 108125,
+        "roles": [
+          {
+            "char": "Assistant DA Dekker"
+          }
+        ]
+      },
+      {
+        "name": "Charles Lampkin",
+        "nm": 483907,
+        "roles": [
+          {
+            "char": "Barber"
+          }
+        ]
+      },
+      {
+        "name": "Bart Burns",
+        "nm": 122576,
+        "roles": [
+          {
+            "char": "2nd Judge"
+          }
+        ]
+      },
+      {
+        "name": "Vince Howard",
+        "nm": 397660,
+        "roles": [
+          {
+            "char": "Barth"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Crews",
+        "nm": 187705,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Shriek of Silence",
+    "tt": 528578,
+    "air_date": "1969-11-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nichols",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Craig Stevens",
+        "nm": 301887,
+        "roles": [
+          {
+            "char": "Stephen Patterson"
+          }
+        ]
+      },
+      {
+        "name": "Richard Van Vleet",
+        "nm": 888186,
+        "roles": [
+          {
+            "char": "Paul Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Sterne",
+        "nm": 605147,
+        "roles": [
+          {
+            "char": "Barry Goram"
+          }
+        ]
+      },
+      {
+        "name": "George Murdock",
+        "nm": 613787,
+        "roles": [
+          {
+            "char": "District Attorney Braddock",
+            "ch": 109570
+          }
+        ]
+      },
+      {
+        "name": "Walter Brooke",
+        "nm": 111754,
+        "roles": [
+          {
+            "char": "Charles Hines"
+          }
+        ]
+      },
+      {
+        "name": "Carol Booth",
+        "nm": 95657,
+        "roles": [
+          {
+            "char": "Ellen Sherman"
+          }
+        ]
+      },
+      {
+        "name": "Pamela McMyler",
+        "nm": 573510,
+        "roles": [
+          {
+            "char": "Mary Hammond"
+          }
+        ]
+      },
+      {
+        "name": "Herbert Nelson",
+        "nm": 625410,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Fred Holliday",
+        "nm": 391050,
+        "roles": [
+          {
+            "char": "Asst. DA Tom McMurray"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Manza",
+        "nm": 544382,
+        "roles": [
+          {
+            "char": "Wilfred Fletcher"
+          }
+        ]
+      },
+      {
+        "name": "Jo De Winter",
+        "nm": 212412,
+        "roles": [
+          {
+            "char": "Beth Patterson"
+          }
+        ]
+      },
+      {
+        "name": "Rai Tasco",
+        "nm": 850847,
+        "roles": [
+          {
+            "char": "Bailiff"
+          }
+        ]
+      },
+      {
+        "name": "James Bacon",
+        "nm": 45786,
+        "roles": [
+          {
+            "char": "2nd Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Vernon Scott",
+        "nm": 1027275,
+        "roles": [
+          {
+            "char": "1st Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Don 'Red' Barry",
+        "nm": 57983,
+        "roles": [
+          {
+            "char": "Detective Lt. Morse",
+            "as Donald Barry": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Trial of a Mafioso",
+    "tt": 528594,
+    "air_date": "1970-01-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Richard Conte",
+        "nm": 2017,
+        "roles": [
+          {
+            "char": "DeLacey"
+          }
+        ]
+      },
+      {
+        "name": "Linda Marsh",
+        "nm": 550604,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Frank Campanella",
+        "nm": 132100,
+        "roles": [
+          {
+            "char": "Castelli"
+          }
+        ]
+      },
+      {
+        "name": "Joe De Santis",
+        "nm": 211460,
+        "roles": [
+          {
+            "char": "Don Passetto"
+          }
+        ]
+      },
+      {
+        "name": "Paul Micale",
+        "nm": 583995,
+        "roles": [
+          {
+            "char": "James Doro"
+          }
+        ]
+      },
+      {
+        "name": "Pat Renella",
+        "nm": 719466,
+        "roles": [
+          {
+            "char": "Joseph Candelmo"
+          }
+        ]
+      },
+      {
+        "name": "Len Wayland",
+        "nm": 915485,
+        "roles": [
+          {
+            "char": "Lt. Harper"
+          }
+        ]
+      },
+      {
+        "name": "Bill Quinn",
+        "nm": 703767,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Nick Benedict",
+        "nm": 70798,
+        "roles": [
+          {
+            "char": "Al Shaw",
+            "as Nicholas Benedict": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Point of Honor",
+    "tt": 528577,
+    "air_date": "1970-01-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "Veronica Cartwright",
+        "nm": 1021,
+        "roles": [
+          {
+            "char": "Mary"
+          }
+        ]
+      },
+      {
+        "name": "Roger Davis",
+        "nm": 205380,
+        "roles": [
+          {
+            "char": "Randy Burroughs"
+          }
+        ]
+      },
+      {
+        "name": "Maria Grimm",
+        "nm": 342290,
+        "roles": [
+          {
+            "char": "Sherma"
+          }
+        ]
+      },
+      {
+        "name": "Herbert Nelson",
+        "nm": 625410,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Andy Romano",
+        "nm": 738850,
+        "roles": [
+          {
+            "char": "Sergeant Vriggs"
+          }
+        ]
+      },
+      {
+        "name": "Paul Stevens",
+        "nm": 828676,
+        "roles": [
+          {
+            "char": "District Attorney Phillips"
+          }
+        ]
+      },
+      {
+        "name": "Charles Wagenheim",
+        "nm": 905688,
+        "roles": [
+          {
+            "char": "Hotel Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Grace Lee Whitney",
+        "nm": 926298,
+        "roles": [
+          {
+            "char": "Blonde"
+          }
+        ]
+      },
+      {
+        "name": "Austin Willis",
+        "nm": 932270,
+        "roles": [
+          {
+            "char": "Hanley"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "The Shattered Image",
+    "tt": 528591,
+    "air_date": "1970-02-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Tod Andrews",
+        "nm": 28878,
+        "roles": [
+          {
+            "char": "Ted Hollister"
+          }
+        ]
+      },
+      {
+        "name": "Karen Ericson",
+        "nm": 259155,
+        "roles": [
+          {
+            "char": "Nina Hollister",
+            "as Karen Huston": true
+          }
+        ]
+      },
+      {
+        "name": "Will Geer",
+        "nm": 2095,
+        "roles": [
+          {
+            "char": "Ralph Turner"
+          }
+        ]
+      },
+      {
+        "name": "Duane Grey",
+        "nm": 340558,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Allan Lurie",
+        "nm": 527082,
+        "roles": [
+          {
+            "char": "Mel Gale"
+          }
+        ]
+      },
+      {
+        "name": "Ford Rainey",
+        "nm": 707077,
+        "roles": [
+          {
+            "char": "District Attorney Douglass"
+          }
+        ]
+      },
+      {
+        "name": "Audrey Totter",
+        "nm": 869429,
+        "roles": [
+          {
+            "char": "Edith Powell"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "The Verdict",
+    "tt": 528593,
+    "air_date": "1970-09-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Will Geer",
+        "nm": 2095,
+        "roles": [
+          {
+            "char": "Judge Scanlon"
+          }
+        ]
+      },
+      {
+        "name": "Stephen McNally",
+        "nm": 573640,
+        "roles": [
+          {
+            "char": "Arthur Cleary"
+          }
+        ]
+      },
+      {
+        "name": "John Kerr",
+        "nm": 449734,
+        "roles": [
+          {
+            "char": "Dr. Blackburn"
+          }
+        ]
+      },
+      {
+        "name": "Florence St. Peter",
+        "nm": 820791,
+        "roles": [
+          {
+            "char": "Holly Griffin"
+          }
+        ]
+      },
+      {
+        "name": "Mary Gregory",
+        "nm": 339889,
+        "roles": [
+          {
+            "char": "Stella Copeland"
+          }
+        ]
+      },
+      {
+        "name": "Bill Quinn",
+        "nm": 703767,
+        "roles": [
+          {
+            "char": "Dr. Staley"
+          }
+        ]
+      },
+      {
+        "name": "Paul Napier",
+        "nm": 621037,
+        "roles": [
+          {
+            "char": "George Scharf"
+          }
+        ]
+      },
+      {
+        "name": "Sue Carlton",
+        "nm": 138229,
+        "roles": [
+          {
+            "char": "Mrs. Syden"
+          }
+        ]
+      },
+      {
+        "name": "E.A. Sirianni",
+        "nm": 802817,
+        "roles": [
+          {
+            "char": "Court Clerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Panther in a Cage",
+    "tt": 528576,
+    "air_date": "1970-10-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Georg Stanford Brown",
+        "nm": 113617,
+        "roles": [
+          {
+            "char": "Kenneth Miller"
+          }
+        ]
+      },
+      {
+        "name": "Charles Lampkin",
+        "nm": 483907,
+        "roles": [
+          {
+            "char": "Ralph Miller"
+          }
+        ]
+      },
+      {
+        "name": "Gloria Calomee",
+        "nm": 130673,
+        "roles": [
+          {
+            "char": "Miriam Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Val Avery",
+        "nm": 43088,
+        "roles": [
+          {
+            "char": "Lt. Aram Makarian"
+          }
+        ]
+      },
+      {
+        "name": "Stella Garcia",
+        "nm": 305441,
+        "roles": [
+          {
+            "char": "Teresa Lopez"
+          }
+        ]
+      },
+      {
+        "name": "John McLiam",
+        "nm": 572897,
+        "roles": [
+          {
+            "char": "Judge Wiley"
+          }
+        ]
+      },
+      {
+        "name": "Gerald Hiken",
+        "nm": 383732,
+        "roles": [
+          {
+            "char": "Deputy D.A. Matthews"
+          }
+        ]
+      },
+      {
+        "name": "Alan Baxter",
+        "nm": 62667,
+        "roles": [
+          {
+            "char": "Detective Sgt. Wilkerson"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Burton",
+        "nm": 123613,
+        "roles": [
+          {
+            "char": "Sgt. Jonas"
+          }
+        ]
+      },
+      {
+        "name": "Arch Whiting",
+        "nm": 925990,
+        "roles": [
+          {
+            "char": "Sgt. Kramer"
+          }
+        ]
+      },
+      {
+        "name": "T.J. Castronovo",
+        "nm": 145416,
+        "roles": [
+          {
+            "char": "Waiter",
+            "as Tom Castronova": true
+          }
+        ]
+      },
+      {
+        "name": "Wallace Chadwell",
+        "nm": 149467,
+        "roles": [
+          {
+            "char": "Court Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Jack Krupnick",
+        "nm": 472790,
+        "roles": [
+          {
+            "char": "Officer Brock",
+            "as Jack W. Krupnick": true
+          }
+        ]
+      },
+      {
+        "name": "Michael LeNoir",
+        "nm": 3220388,
+        "roles": [
+          {
+            "char": "Boy"
+          }
+        ]
+      },
+      {
+        "name": "Frank Campanella",
+        "nm": 132100,
+        "roles": [
+          {
+            "char": "Dr. Charles Rowland"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Trial of a Pfc",
+    "tt": 528595,
+    "air_date": "1970-11-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Walter Brooke",
+        "nm": 111754,
+        "roles": [
+          {
+            "char": "James Horn"
+          }
+        ]
+      },
+      {
+        "name": "Pete Duel",
+        "nm": 240233,
+        "roles": [
+          {
+            "char": "Jerry Purdue"
+          }
+        ]
+      },
+      {
+        "name": "Jane Elliot",
+        "nm": 254243,
+        "roles": [
+          {
+            "char": "Grave Young"
+          }
+        ]
+      },
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Pete Calender"
+          }
+        ]
+      },
+      {
+        "name": "James McCallion",
+        "nm": 564706,
+        "roles": [
+          {
+            "char": "Greenley"
+          }
+        ]
+      },
+      {
+        "name": "Herbert Nelson",
+        "nm": 625410,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Joseph V. Perry",
+        "nm": 675129,
+        "roles": [
+          {
+            "char": "Bartender",
+            "as Joe Perry": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "The People Against Doctor Chapman",
+    "tt": 528586,
+    "air_date": "1970-12-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "Monte Markham",
+        "nm": 548449,
+        "roles": [
+          {
+            "char": "Nick Chapman"
+          }
+        ]
+      },
+      {
+        "name": "Ramon Bieri",
+        "nm": 81560,
+        "roles": [
+          {
+            "char": "Mr. Parkinson"
+          }
+        ]
+      },
+      {
+        "name": "Ford Rainey",
+        "nm": 707077,
+        "roles": [
+          {
+            "char": "Earl Milford"
+          }
+        ]
+      },
+      {
+        "name": "Paul Comi",
+        "nm": 173815,
+        "roles": [
+          {
+            "char": "Maj. Joseph Weber"
+          }
+        ]
+      },
+      {
+        "name": "Frank Maxwell",
+        "nm": 561702,
+        "roles": [
+          {
+            "char": "Bart Russell"
+          }
+        ]
+      },
+      {
+        "name": "Jon Lormer",
+        "nm": 521070,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Space",
+        "nm": 816475,
+        "roles": [
+          {
+            "char": "Dr. Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Ned Wertimer",
+        "nm": 921624,
+        "roles": [
+          {
+            "char": "Dr. Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Claudia Bryar",
+        "nm": 117267,
+        "roles": [
+          {
+            "char": "Mrs. Clara Stockton"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Fimple",
+        "nm": 277344,
+        "roles": [
+          {
+            "char": "Pete"
+          }
+        ]
+      },
+      {
+        "name": "Meg Wyllie",
+        "nm": 943816,
+        "roles": [
+          {
+            "char": "Grace Wiley"
+          }
+        ]
+      },
+      {
+        "name": "Karl Lukas",
+        "nm": 525523,
+        "roles": [
+          {
+            "char": "Sam Jessop"
+          }
+        ]
+      },
+      {
+        "name": "Paul Trinka",
+        "nm": 872975,
+        "roles": [
+          {
+            "char": "Tom Gibson",
+            "as Paul F. Trinka": true
+          }
+        ]
+      },
+      {
+        "name": "Don Melvoin",
+        "nm": 578535,
+        "roles": [
+          {
+            "char": "Court Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Virginia Gregg",
+        "nm": 339615,
+        "roles": [
+          {
+            "char": "Angela Woodly"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "The Loneliness Racket",
+    "tt": 528583,
+    "air_date": "1970-12-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "Patricia Donahue",
+        "nm": 231978,
+        "roles": [
+          {
+            "char": "Mrs. Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Ann Doran",
+        "nm": 233352,
+        "roles": [
+          {
+            "char": "Mrs. Grimbi"
+          }
+        ]
+      },
+      {
+        "name": "Marj Dusay",
+        "nm": 244582,
+        "roles": [
+          {
+            "char": "Florence Mallory"
+          }
+        ]
+      },
+      {
+        "name": "Clarke Gordon",
+        "nm": 330096,
+        "roles": [
+          {
+            "char": "Vernon Kerenz"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Haddon",
+        "nm": 352736,
+        "roles": [
+          {
+            "char": "Harry Beeley"
+          }
+        ]
+      },
+      {
+        "name": "Phyllis Love",
+        "nm": 522401,
+        "roles": [
+          {
+            "char": "Hazel Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Todd Martin",
+        "nm": 551716,
+        "roles": [
+          {
+            "char": "District Attorney Skinner",
+            "ch": 63630
+          }
+        ]
+      },
+      {
+        "name": "Alan Oppenheimer",
+        "nm": 649178,
+        "roles": [
+          {
+            "char": "George Hartnell"
+          }
+        ]
+      },
+      {
+        "name": "Diane Shalet",
+        "nm": 787726,
+        "roles": [
+          {
+            "char": "Shirley Pryor"
+          }
+        ]
+      },
+      {
+        "name": "Amzie Strickland",
+        "nm": 834351,
+        "roles": [
+          {
+            "char": "Mrs. Pryor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "The Search for Leslie Grey",
+    "tt": 528590,
+    "air_date": "1971-01-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Rodolfo Acosta",
+        "nm": 10240,
+        "roles": [
+          {
+            "char": "Pablo Delgado"
+          }
+        ]
+      },
+      {
+        "name": "Charles Aidman",
+        "nm": 14493,
+        "roles": [
+          {
+            "char": "Leslie Gray"
+          }
+        ]
+      },
+      {
+        "name": "Marcelle Fortier",
+        "nm": 1553557,
+        "roles": [
+          {
+            "char": "Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Leo Gordon",
+        "nm": 330388,
+        "roles": [
+          {
+            "char": "Adolph Zinner"
+          }
+        ]
+      },
+      {
+        "name": "Betsy Jones-Moreland",
+        "nm": 429506,
+        "roles": [
+          {
+            "char": "Hazel"
+          }
+        ]
+      },
+      {
+        "name": "John Kellogg",
+        "nm": 446120,
+        "roles": [
+          {
+            "char": "Lieutenant Miller"
+          }
+        ]
+      },
+      {
+        "name": "Micil Murphy",
+        "nm": 614549,
+        "roles": [
+          {
+            "char": "Arturo Rosales"
+          }
+        ]
+      },
+      {
+        "name": "Ines Pedroza",
+        "nm": 670174,
+        "roles": [
+          {
+            "char": "Valerie",
+            "as Inez Pedroza": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "The Hyland Confession",
+    "tt": 528580,
+    "air_date": "1971-01-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "Tisha Sterling",
+        "nm": 827594,
+        "roles": [
+          {
+            "char": "Joyce Hyland"
+          }
+        ]
+      },
+      {
+        "name": "Clifford David",
+        "nm": 202849,
+        "roles": [
+          {
+            "char": "Rabindranath"
+          }
+        ]
+      },
+      {
+        "name": "Severn Darden",
+        "nm": 201089,
+        "roles": [
+          {
+            "char": "Dr. Grundig"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Clarke Chisolm",
+        "nm": 1553457,
+        "roles": [
+          {
+            "char": "Helen Steele"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Goldsmith",
+        "nm": 326091,
+        "roles": [
+          {
+            "char": "Merrell Hyland",
+            "as Jonathan Lippe": true
+          }
+        ]
+      },
+      {
+        "name": "Len Wayland",
+        "nm": 915485,
+        "roles": [
+          {
+            "char": "Lt. Henshaw"
+          }
+        ]
+      },
+      {
+        "name": "Ted Gehring",
+        "nm": 311811,
+        "roles": [
+          {
+            "char": "Sgt. Flint"
+          }
+        ]
+      },
+      {
+        "name": "Martin Priest",
+        "nm": 697338,
+        "roles": [
+          {
+            "char": "D.A."
+          }
+        ]
+      },
+      {
+        "name": "Judson Morgan",
+        "nm": 604786,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Guy Danfort",
+        "nm": 2163315,
+        "roles": [
+          {
+            "char": "Detective"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "The Price of Justice",
+    "tt": 528588,
+    "air_date": "1971-02-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Cal Bellini",
+        "nm": 69031,
+        "roles": [
+          {
+            "char": "Danny Otter"
+          }
+        ]
+      },
+      {
+        "name": "Lee Delano",
+        "nm": 216397,
+        "roles": [
+          {
+            "char": "Luke"
+          }
+        ]
+      },
+      {
+        "name": "Rudy Diaz",
+        "nm": 225045,
+        "roles": [
+          {
+            "char": "Walker"
+          }
+        ]
+      },
+      {
+        "name": "Julie Gregg",
+        "nm": 339589,
+        "roles": [
+          {
+            "char": "Elizabeth"
+          }
+        ]
+      },
+      {
+        "name": "Todd Martin",
+        "nm": 551716,
+        "roles": [
+          {
+            "char": "Jeff"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E01",
+    "title": "The Invasion of Kevin Ireland",
+    "tt": 528581,
+    "air_date": "1971-09-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nichols",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Darren McGavin",
+        "nm": 569000,
+        "roles": [
+          {
+            "char": "Kevin Ireland"
+          }
+        ]
+      },
+      {
+        "name": "Martin Ashe",
+        "nm": 38816,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Kathie Browne",
+        "nm": 115025,
+        "roles": [
+          {
+            "char": "Maggie Ireland"
+          }
+        ]
+      },
+      {
+        "name": "Dana Elcar",
+        "nm": 253020,
+        "roles": [
+          {
+            "char": "Gale"
+          }
+        ]
+      },
+      {
+        "name": "Clarke Gordon",
+        "nm": 330096,
+        "roles": [
+          {
+            "char": "Allen"
+          }
+        ]
+      },
+      {
+        "name": "Pat Harrington Jr.",
+        "nm": 364224,
+        "roles": [
+          {
+            "char": "Fox"
+          }
+        ]
+      },
+      {
+        "name": "Todd Martin",
+        "nm": 551716,
+        "roles": [
+          {
+            "char": "Deputy District Attorney"
+          }
+        ]
+      },
+      {
+        "name": "John S. Ragin",
+        "nm": 706505,
+        "roles": [
+          {
+            "char": "Fred Carter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E02",
+    "title": "The Strange Secret of Yermo Hill",
+    "tt": 528592,
+    "air_date": "1971-10-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "Edmund G. Brown",
+        "nm": 113494,
+        "roles": [
+          {
+            "char": "Judge",
+            "as Edmund G. 'Pat' Brown": true
+          }
+        ]
+      },
+      {
+        "name": "Arlene Golonka",
+        "nm": 326626,
+        "roles": [
+          {
+            "char": "Ruth"
+          }
+        ]
+      },
+      {
+        "name": "Randolph Mantooth",
+        "nm": 544168,
+        "roles": [
+          {
+            "char": "Terence 'Terry' Kimble"
+          }
+        ]
+      },
+      {
+        "name": "John Milford",
+        "nm": 587333,
+        "roles": [
+          {
+            "char": "Paul Hewitt"
+          }
+        ]
+      },
+      {
+        "name": "David Spielberg",
+        "nm": 818578,
+        "roles": [
+          {
+            "char": "Deputy D.A. Vernon Wahlburg",
+            "ch": 299692
+          }
+        ]
+      },
+      {
+        "name": "Mills Watson",
+        "nm": 914806,
+        "roles": [
+          {
+            "char": "Yermo Hill"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E03",
+    "title": "Hall of Justice",
+    "tt": 528571,
+    "air_date": "1971-10-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Ramon Bieri",
+        "nm": 81560,
+        "roles": [
+          {
+            "char": "Judge Arnold Hartman"
+          }
+        ]
+      },
+      {
+        "name": "Richard Van Vleet",
+        "nm": 888186,
+        "roles": [
+          {
+            "char": "James Fryman"
+          }
+        ]
+      },
+      {
+        "name": "Paul Comi",
+        "nm": 173815,
+        "roles": [
+          {
+            "char": "Roger Elmore"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Sterne",
+        "nm": 605147,
+        "roles": [
+          {
+            "char": "Dr. Joshua Gold"
+          }
+        ]
+      },
+      {
+        "name": "Robert Donner",
+        "nm": 232817,
+        "roles": [
+          {
+            "char": "Owen Hubbard"
+          }
+        ]
+      },
+      {
+        "name": "Jesse Vint",
+        "nm": 6956,
+        "roles": [
+          {
+            "char": "Officer Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Marc Hannibal",
+        "nm": 360420,
+        "roles": [
+          {
+            "char": "Frank Wyatt"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Sigel",
+        "nm": 797420,
+        "roles": [
+          {
+            "char": "Laurel"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Fogel",
+        "nm": 283891,
+        "roles": [
+          {
+            "char": "Deputy D.A. Paul Carlson"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Adams",
+        "nm": 10751,
+        "roles": [
+          {
+            "char": "Judge E.P. Miller"
+          }
+        ]
+      },
+      {
+        "name": "Logan Ramsey",
+        "nm": 709029,
+        "roles": [
+          {
+            "char": "Judge Fusari"
+          }
+        ]
+      },
+      {
+        "name": "Colby Chester",
+        "nm": 156313,
+        "roles": [
+          {
+            "char": "Deputy D.A. Donald Reid"
+          }
+        ]
+      },
+      {
+        "name": "Ed Cambridge",
+        "nm": 131386,
+        "roles": [
+          {
+            "char": "Charles Mobley",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Joan Swift",
+        "nm": 842595,
+        "roles": [
+          {
+            "char": "Secretary",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E04",
+    "title": "In Defense of Ellen McKay",
+    "tt": 528572,
+    "air_date": "1971-11-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Rudy Challenger",
+        "nm": 149975,
+        "roles": [
+          {
+            "char": "Judge Morganfield"
+          }
+        ]
+      },
+      {
+        "name": "Susan Clark",
+        "nm": 164540,
+        "roles": [
+          {
+            "char": "Ellen McKay"
+          }
+        ]
+      },
+      {
+        "name": "Tom Falk",
+        "nm": 266205,
+        "roles": [
+          {
+            "char": "Paul Whitmore"
+          }
+        ]
+      },
+      {
+        "name": "John Randolph",
+        "nm": 709907,
+        "roles": [
+          {
+            "char": "Dr. Paul Schaefer"
+          }
+        ]
+      },
+      {
+        "name": "David Spielberg",
+        "nm": 818578,
+        "roles": [
+          {
+            "char": "Deputy D.A. Vernon Wahlburg",
+            "ch": 299692
+          }
+        ]
+      },
+      {
+        "name": "Lindsay Wagner",
+        "nm": 905993,
+        "roles": [
+          {
+            "char": "Stella Bowers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E05",
+    "title": "By Reason of Insanity",
+    "tt": 528570,
+    "air_date": "1971-11-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Charles Aidman",
+        "nm": 14493,
+        "roles": [
+          {
+            "char": "Howard Miller"
+          }
+        ]
+      },
+      {
+        "name": "Walter Brooke",
+        "nm": 111754,
+        "roles": [
+          {
+            "char": "Dr.Douglas Howe"
+          }
+        ]
+      },
+      {
+        "name": "Barry Cahill",
+        "nm": 128638,
+        "roles": [
+          {
+            "char": "Schenker"
+          }
+        ]
+      },
+      {
+        "name": "Charles Davis",
+        "nm": 204332,
+        "roles": [
+          {
+            "char": "Dr. Berman"
+          }
+        ]
+      },
+      {
+        "name": "Henry Hunter",
+        "nm": 402839,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Todd Martin",
+        "nm": 551716,
+        "roles": [
+          {
+            "char": "D.A. Jeff Skinner",
+            "ch": 63630
+          }
+        ]
+      },
+      {
+        "name": "Tim Matheson",
+        "nm": 1513,
+        "roles": [
+          {
+            "char": "Miles Parker"
+          }
+        ]
+      },
+      {
+        "name": "John Milford",
+        "nm": 587333,
+        "roles": [
+          {
+            "char": "Lt. Paul Hewitt"
+          }
+        ]
+      },
+      {
+        "name": "Nina Shipman",
+        "nm": 794110,
+        "roles": [
+          {
+            "char": "Louise Miller"
+          }
+        ]
+      },
+      {
+        "name": "Ann Summers",
+        "nm": 838664,
+        "roles": [
+          {
+            "char": "Judge Katherine Mattson"
+          }
+        ]
+      },
+      {
+        "name": "Dick Whittington",
+        "nm": 926539,
+        "roles": [
+          {
+            "char": "Cates"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E06",
+    "title": "Justice Is a Sometime Thing",
+    "tt": 528574,
+    "air_date": "1971-12-12",
+    "description": "The team agrees to defend for free an innocent Latino youth who is being pressured to accept a plea deal but they must find his companion and like witness to the crime who is an undocumented girl who has fled back to Mexico.",
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "A Martinez",
+        "nm": 553436,
+        "roles": [
+          {
+            "char": "Carlos Estrada"
+          }
+        ]
+      },
+      {
+        "name": "Richard Jordan",
+        "nm": 430151,
+        "roles": [
+          {
+            "char": "Deputy D.A. Andrew Craig"
+          }
+        ]
+      },
+      {
+        "name": "Robert Lipton",
+        "nm": 513868,
+        "roles": [
+          {
+            "char": "Morrie Burns"
+          }
+        ]
+      },
+      {
+        "name": "Eunice Suarez",
+        "nm": 836829,
+        "roles": [
+          {
+            "char": "Mrs. Estrada"
+          }
+        ]
+      },
+      {
+        "name": "Kermit Murdock",
+        "nm": 613794,
+        "roles": [
+          {
+            "char": "Judge Harley Chapman"
+          }
+        ]
+      },
+      {
+        "name": "Maxine Stuart",
+        "nm": 835798,
+        "roles": [
+          {
+            "char": "Mrs. Ellen Morley"
+          }
+        ]
+      },
+      {
+        "name": "Edith Diaz",
+        "nm": 224971,
+        "roles": [
+          {
+            "char": "Teresa Cuervo"
+          }
+        ]
+      },
+      {
+        "name": "Ines Pedroza",
+        "nm": 670174,
+        "roles": [
+          {
+            "char": "Nun",
+            "as Inez Pedroza": true
+          }
+        ]
+      },
+      {
+        "name": "Francisco Ortega",
+        "nm": 650873,
+        "roles": [
+          {
+            "char": "Mr. Garcia"
+          }
+        ]
+      },
+      {
+        "name": "Fernando Escandon",
+        "nm": 260197,
+        "roles": [
+          {
+            "char": "Interpreter"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Jones",
+        "nm": 428896,
+        "roles": [
+          {
+            "char": "Officer Mike Dodson"
+          }
+        ]
+      },
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Cell Mate Wes",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E07",
+    "title": "The Letter of the Law",
+    "tt": 528582,
+    "air_date": "1971-12-26",
+    "description": "The attorneys are shocked when one of their mentors, a highly respected attorney and legal scholar now terminally ill, summons them to his home, along with six other people whom he once successfully defended in murder trials. He announces that one of the six was actually guilty of the crime, though he doesn't say which one, and that he intends to make that person pay now for their crime.",
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "Will Geer",
+        "nm": 2095,
+        "roles": [
+          {
+            "char": "Elliot Leveridge"
+          }
+        ]
+      },
+      {
+        "name": "Gale Sondergaard",
+        "nm": 814216,
+        "roles": [
+          {
+            "char": "Mrs. Marley"
+          }
+        ]
+      },
+      {
+        "name": "James Olson",
+        "nm": 647921,
+        "roles": [
+          {
+            "char": "Cavan Searle"
+          }
+        ]
+      },
+      {
+        "name": "Michael Conrad",
+        "nm": 175700,
+        "roles": [
+          {
+            "char": "Ernie Mapes"
+          }
+        ]
+      },
+      {
+        "name": "Carol Wayne",
+        "nm": 915523,
+        "roles": [
+          {
+            "char": "Christie Mullins"
+          }
+        ]
+      },
+      {
+        "name": "Milton Selzer",
+        "nm": 783670,
+        "roles": [
+          {
+            "char": "Wilmer Frye"
+          }
+        ]
+      },
+      {
+        "name": "Carla Borelli",
+        "nm": 96316,
+        "roles": [
+          {
+            "char": "Nora Lennox"
+          }
+        ]
+      },
+      {
+        "name": "Michael Griswold",
+        "nm": 342649,
+        "roles": [
+          {
+            "char": "Driver"
+          }
+        ]
+      },
+      {
+        "name": "Joseph DeAngelo",
+        "nm": 1256916,
+        "roles": [
+          {
+            "char": "Cab Driver"
+          }
+        ]
+      },
+      {
+        "name": "Arch Archambault",
+        "nm": 33584,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Marco López",
+        "nm": 530241,
+        "roles": [
+          {
+            "char": "2nd Policeman",
+            "as Marco Lopez": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E08",
+    "title": "The Long Morning After: Part 1",
+    "tt": 528584,
+    "air_date": "1972-01-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Barry",
+        "nm": 58117,
+        "roles": [
+          {
+            "char": "Marian Sternwood"
+          }
+        ]
+      },
+      {
+        "name": "Bob Corff",
+        "nm": 179823,
+        "roles": [
+          {
+            "char": "Brother Bartholomew",
+            "as Robert Corff": true
+          }
+        ]
+      },
+      {
+        "name": "Roger Davis",
+        "nm": 205380,
+        "roles": [
+          {
+            "char": "Jim Lewis"
+          }
+        ]
+      },
+      {
+        "name": "Anne Helm",
+        "nm": 375606,
+        "roles": [
+          {
+            "char": "Maggie Lewis"
+          }
+        ]
+      },
+      {
+        "name": "Pat Hingle",
+        "nm": 385757,
+        "roles": [
+          {
+            "char": "General Sternwood"
+          }
+        ]
+      },
+      {
+        "name": "Judd Laurance",
+        "nm": 491003,
+        "roles": [
+          {
+            "char": "The Shepherd"
+          }
+        ]
+      },
+      {
+        "name": "David Mauro",
+        "nm": 561216,
+        "roles": [
+          {
+            "char": "Clifford Quill"
+          }
+        ]
+      },
+      {
+        "name": "Pamela McMyler",
+        "nm": 573510,
+        "roles": [
+          {
+            "char": "Linda Sternwood"
+          }
+        ]
+      },
+      {
+        "name": "John Milford",
+        "nm": 587333,
+        "roles": [
+          {
+            "char": "Lieutenant Paul Hewitt"
+          }
+        ]
+      },
+      {
+        "name": "James Wainwright",
+        "nm": 906535,
+        "roles": [
+          {
+            "char": "Bill Stillman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E09",
+    "title": "The Long Morning After: Part 2",
+    "tt": 528585,
+    "air_date": "1972-01-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Anne Helm",
+        "nm": 375606,
+        "roles": [
+          {
+            "char": "Maggie Lewis"
+          }
+        ]
+      },
+      {
+        "name": "Pamela McMyler",
+        "nm": 573510,
+        "roles": [
+          {
+            "char": "Linda Sternwood"
+          }
+        ]
+      },
+      {
+        "name": "James Wainwright",
+        "nm": 906535,
+        "roles": [
+          {
+            "char": "Bill Stillman"
+          }
+        ]
+      },
+      {
+        "name": "Pat Hingle",
+        "nm": 385757,
+        "roles": [
+          {
+            "char": "General Sternwood"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Barry",
+        "nm": 58117,
+        "roles": [
+          {
+            "char": "Marian Sternwood"
+          }
+        ]
+      },
+      {
+        "name": "John Milford",
+        "nm": 587333,
+        "roles": [
+          {
+            "char": "Det. Lt. Paul Hewitt"
+          }
+        ]
+      },
+      {
+        "name": "Bob Corff",
+        "nm": 179823,
+        "roles": [
+          {
+            "char": "Brother Bartholomew",
+            "as Robert Corff": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Quinn",
+        "nm": 703767,
+        "roles": [
+          {
+            "char": "Howard Marks"
+          }
+        ]
+      },
+      {
+        "name": "Cathleen Cordell",
+        "nm": 179451,
+        "roles": [
+          {
+            "char": "Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Haddon",
+        "nm": 352736,
+        "roles": [
+          {
+            "char": "Edmund Carlyle",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E10",
+    "title": "In Sudden Darkness",
+    "tt": 528573,
+    "air_date": "1972-01-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "Carol Lawrence",
+        "nm": 492655,
+        "roles": [
+          {
+            "char": "Norma Hazelwood"
+          }
+        ]
+      },
+      {
+        "name": "Sian Barbara Allen",
+        "nm": 21056,
+        "roles": [
+          {
+            "char": "Lauren"
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Newcomb"
+          }
+        ]
+      },
+      {
+        "name": "Frank Aletter",
+        "nm": 18173,
+        "roles": [
+          {
+            "char": "William Harper"
+          }
+        ]
+      },
+      {
+        "name": "John Milford",
+        "nm": 587333,
+        "roles": [
+          {
+            "char": "Lt. Paul Hewitt"
+          }
+        ]
+      },
+      {
+        "name": "David Spielberg",
+        "nm": 818578,
+        "roles": [
+          {
+            "char": "Deputy D.A. Vernon Wahlburg",
+            "ch": 299692
+          }
+        ]
+      },
+      {
+        "name": "Arthur Adams",
+        "nm": 10751,
+        "roles": [
+          {
+            "char": "Judge E.P. Miller"
+          }
+        ]
+      },
+      {
+        "name": "Daniel F. Martin",
+        "nm": 1853715,
+        "roles": [
+          {
+            "char": "Court Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Barry Higgins",
+        "nm": 383332,
+        "roles": [
+          {
+            "char": "David Sherman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E11",
+    "title": "Lisa, I Hardly Knew You",
+    "tt": 528575,
+    "air_date": "1972-02-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Burl Ives",
+        "nm": 412322,
+        "roles": [
+          {
+            "char": "Walter Nicholls",
+            "ch": 80273
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Brian Darrell",
+            "ch": 109569
+          }
+        ]
+      },
+      {
+        "name": "James Farentino",
+        "nm": 267232,
+        "roles": [
+          {
+            "char": "Neil Darrell"
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Bolling",
+        "nm": 93147,
+        "roles": [
+          {
+            "char": "Lisa Lambert"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bell",
+        "nm": 68407,
+        "roles": [
+          {
+            "char": "Lennie Harmon"
+          }
+        ]
+      },
+      {
+        "name": "John Milford",
+        "nm": 587333,
+        "roles": [
+          {
+            "char": "Lt. Paul Hewitt"
+          }
+        ]
+      },
+      {
+        "name": "Douglass Watson",
+        "nm": 914601,
+        "roles": [
+          {
+            "char": "Mr. Lambert"
+          }
+        ]
+      },
+      {
+        "name": "Peter Hobbs",
+        "nm": 387617,
+        "roles": [
+          {
+            "char": "Uncle Charles"
+          }
+        ]
+      },
+      {
+        "name": "Ivor Francis",
+        "nm": 290179,
+        "roles": [
+          {
+            "char": "Dr. Venner"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Burstyn",
+        "nm": 995,
+        "roles": [
+          {
+            "char": "Rachel Lambert"
+          }
+        ]
+      }
+    ]
+  }
+]

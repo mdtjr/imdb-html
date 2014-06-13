@@ -1,0 +1,4407 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 817424,
+    "air_date": "1997-09-22",
+    "description": "New cadets arrive at the Metropolitan Police Academy, now under the leadership of Commandant Hefilfinger. The cadets must rescue their hard-nosed instructor Sgt. Ledbetter, after he is kidnapped by a biker gang.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Andrew Kavadas",
+        "nm": 442515,
+        "roles": [
+          {
+            "char": "Womack",
+            "ch": 418845
+          }
+        ]
+      },
+      {
+        "name": "Dave 'Squatch' Ward",
+        "nm": 911480,
+        "roles": [
+          {
+            "char": "Leon"
+          }
+        ]
+      },
+      {
+        "name": "Duane Keogh",
+        "nm": 449050,
+        "roles": [
+          {
+            "char": "Jake Daniels"
+          }
+        ]
+      },
+      {
+        "name": "Russell Ferrier",
+        "nm": 274819,
+        "roles": [
+          {
+            "char": "Ref"
+          }
+        ]
+      },
+      {
+        "name": "Lillian Carlson",
+        "nm": 137968,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Scott Owen",
+        "nm": 654260,
+        "roles": [
+          {
+            "char": "Hippie"
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Berry",
+        "nm": 77615,
+        "roles": [
+          {
+            "char": "Old Amish Man"
+          }
+        ]
+      },
+      {
+        "name": "John Nolan",
+        "nm": 634299,
+        "roles": [
+          {
+            "char": "Squeegee Guy"
+          }
+        ]
+      },
+      {
+        "name": "Drew Reichelt",
+        "nm": 717015,
+        "roles": [
+          {
+            "char": "Taxi Driver"
+          }
+        ]
+      },
+      {
+        "name": "Paul Maslansky",
+        "nm": 556487,
+        "roles": [
+          {
+            "char": "Grumpy Man in Convertible",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Put Down That Nose",
+    "tt": 817435,
+    "air_date": "1997-09-29",
+    "description": "Worried about a former cadet threatening to assassinate the Commandant, Ledbetter undergoes a psychiatric evaluation.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Rob Roy Fitzgerald",
+        "nm": 280372,
+        "roles": [
+          {
+            "char": "John Wilkes Sears"
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "Joyce Brothers",
+        "nm": 112579,
+        "roles": [
+          {
+            "char": "Dr. Joyce Brothers",
+            "as Dr. Joyce Brothers": true
+          }
+        ]
+      },
+      {
+        "name": "Emmanuelle Vaugier",
+        "nm": 891275,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "Lachlan Murdoch",
+        "nm": 613763,
+        "roles": [
+          {
+            "char": "Grandson"
+          }
+        ]
+      },
+      {
+        "name": "Perry Dekezel",
+        "nm": 2909134,
+        "roles": [
+          {
+            "char": "Mime"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Ain't Nothin' But a Hound",
+    "tt": 817429,
+    "air_date": "1997-10-06",
+    "description": "In a training exercise staged for the cadets, Casey plays the role of a criminal on the loose. But confusion arises when a Casey look-alike escapes from prison. The Tackleberrys adopt a pet pig.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          },
+          {
+            "char": "Billy",
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Kavelaars",
+        "nm": 442635,
+        "roles": [
+          {
+            "char": "Kathy"
+          }
+        ]
+      },
+      {
+        "name": "Tim Dixon",
+        "nm": 228992,
+        "roles": [
+          {
+            "char": "Custodian"
+          }
+        ]
+      },
+      {
+        "name": "Dwight McFee",
+        "nm": 568847,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Todd Sandomirsky",
+        "nm": 762063,
+        "roles": [
+          {
+            "char": "Truck Driver",
+            "as Tod Sandomirsky": true
+          }
+        ]
+      },
+      {
+        "name": "Babe Dolan",
+        "nm": 230748,
+        "roles": [
+          {
+            "char": "Old Woman"
+          }
+        ]
+      },
+      {
+        "name": "Kyle Stein",
+        "nm": 825541,
+        "roles": [
+          {
+            "char": "Homeless Guy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Two Men and a Baby",
+    "tt": 676207,
+    "air_date": "1997-10-13",
+    "description": "The arrival of a filmmaker filming a recruitment video gives Ledbetter the opportunity to record proof of Casey's shenanigans. The Tackleberrys care for an infant left at their door.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "Carmen Moore",
+        "nm": 601003,
+        "roles": [
+          {
+            "char": "Joanie"
+          }
+        ]
+      },
+      {
+        "name": "Jed Rees",
+        "nm": 715915,
+        "roles": [
+          {
+            "char": "Ben Gordon"
+          }
+        ]
+      },
+      {
+        "name": "Tevin Carroll",
+        "nm": 2877323,
+        "roles": [
+          {
+            "char": "Bluto"
+          }
+        ]
+      },
+      {
+        "name": "Damon Carroll",
+        "nm": 6442494,
+        "roles": [
+          {
+            "char": "Bluto"
+          }
+        ]
+      },
+      {
+        "name": "Monique Rusu",
+        "nm": 751855,
+        "roles": [
+          {
+            "char": "Lola"
+          }
+        ]
+      },
+      {
+        "name": "Duncan Shields",
+        "nm": 2878094,
+        "roles": [
+          {
+            "char": "Knife Thrower"
+          }
+        ]
+      },
+      {
+        "name": "Robert Cole",
+        "nm": 2877644,
+        "roles": [
+          {
+            "char": "Phil"
+          }
+        ]
+      },
+      {
+        "name": "Darren E. Scott",
+        "nm": 159106,
+        "roles": [
+          {
+            "char": "Cadet 1",
+            "as Darren Choo": true
+          }
+        ]
+      },
+      {
+        "name": "Dale Hall",
+        "nm": 1501198,
+        "roles": [
+          {
+            "char": "Cadet 2"
+          }
+        ]
+      },
+      {
+        "name": "Jay Lewyn",
+        "nm": 101679,
+        "roles": [
+          {
+            "char": "Cadet 3",
+            "as Jason Boychuk": true
+          }
+        ]
+      },
+      {
+        "name": "Ralph the Clown",
+        "nm": 2877459,
+        "roles": [
+          {
+            "char": "Clown #1"
+          }
+        ]
+      },
+      {
+        "name": "George Cook",
+        "nm": 177048,
+        "roles": [
+          {
+            "char": "Clown #2"
+          }
+        ]
+      },
+      {
+        "name": "Piroette",
+        "nm": 2878240,
+        "roles": [
+          {
+            "char": "Clown #3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Dead Man Talking",
+    "tt": 817426,
+    "air_date": "1997-10-20",
+    "description": "A photographer with incriminating evidence is brought to the Academy for protection. District Attorney Callahan has feelings for Commandant Hefilfinger.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Leslie Easterbrook",
+        "nm": 247579,
+        "roles": [
+          {
+            "char": "D.A. Debbie Callahan",
+            "ch": 5080
+          }
+        ]
+      },
+      {
+        "name": "Jerry Wasserman",
+        "nm": 913682,
+        "roles": [
+          {
+            "char": "Vic Dimozo"
+          }
+        ]
+      },
+      {
+        "name": "Alex Diakun",
+        "nm": 224477,
+        "roles": [
+          {
+            "char": "Artie"
+          }
+        ]
+      },
+      {
+        "name": "Kate Luyben",
+        "nm": 527722,
+        "roles": [
+          {
+            "char": "Sarah Snodin"
+          }
+        ]
+      },
+      {
+        "name": "Aurelio Dinunzio",
+        "nm": 227858,
+        "roles": [
+          {
+            "char": "Sam Ianniello",
+            "as Aurelio DiNunzio": true
+          }
+        ]
+      },
+      {
+        "name": "Natino Bellantoni",
+        "nm": 68751,
+        "roles": [
+          {
+            "char": "Vito the Maitre D'"
+          }
+        ]
+      },
+      {
+        "name": "Stefan Arngrim",
+        "nm": 36275,
+        "roles": [
+          {
+            "char": "Fritz"
+          }
+        ]
+      },
+      {
+        "name": "Campbell Lane",
+        "nm": 132655,
+        "roles": [
+          {
+            "char": "Don Greenburg"
+          }
+        ]
+      },
+      {
+        "name": "Gina Chiarelli",
+        "nm": 157042,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Chantal Strand",
+        "nm": 833246,
+        "roles": [
+          {
+            "char": "Daughter"
+          }
+        ]
+      },
+      {
+        "name": "Frank Ferrucci",
+        "nm": 275048,
+        "roles": [
+          {
+            "char": "Don Guido"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Mummy Dearest",
+    "tt": 676206,
+    "air_date": "1997-10-27",
+    "description": "Expecting a delivery of an exercise bicycle, the Commandant receives an Egyptian mummy instead. In an attempt to impress her strict father, Annie pretends to be a drill instructor.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Robin Mossley",
+        "nm": 609157,
+        "roles": [
+          {
+            "char": "Bruno Gruber"
+          }
+        ]
+      },
+      {
+        "name": "Russell Roberts",
+        "nm": 731552,
+        "roles": [
+          {
+            "char": "Armitage Shanks"
+          }
+        ]
+      },
+      {
+        "name": "Duncan Fraser",
+        "nm": 292114,
+        "roles": [
+          {
+            "char": "Alonso Medford"
+          }
+        ]
+      },
+      {
+        "name": "Michael Roberds",
+        "nm": 4357,
+        "roles": [
+          {
+            "char": "Driver"
+          }
+        ]
+      },
+      {
+        "name": "Dale Hall",
+        "nm": 1501198,
+        "roles": [
+          {
+            "char": "Cadet"
+          }
+        ]
+      },
+      {
+        "name": "Camyar Chai",
+        "nm": 149639,
+        "roles": [
+          {
+            "char": "Second Cadet"
+          }
+        ]
+      },
+      {
+        "name": "Bob Dawson",
+        "nm": 206073,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Clayton Richard-Long",
+        "nm": 723916,
+        "roles": [
+          {
+            "char": "Bellhop",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "No Sweat, Sweet",
+    "tt": 676204,
+    "air_date": "1997-11-03",
+    "description": "An over-the-hill boxer enrols in the Academy to toughen up. Casey must find out who has been stealing the cadets' personal belongings.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Vinny Pazienza",
+        "nm": 668615,
+        "roles": [
+          {
+            "char": "Ty Henderson"
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "Ron Sauvé",
+        "nm": 767205,
+        "roles": [
+          {
+            "char": "Trainer",
+            "as Ron Sauve": true
+          }
+        ]
+      },
+      {
+        "name": "William S. Taylor",
+        "nm": 853335,
+        "roles": [
+          {
+            "char": "Manager"
+          }
+        ]
+      },
+      {
+        "name": "Laurie Murdoch",
+        "nm": 2799,
+        "roles": [
+          {
+            "char": "Ring Announcer"
+          }
+        ]
+      },
+      {
+        "name": "Jim Smith",
+        "nm": 808721,
+        "roles": [
+          {
+            "char": "Psychic"
+          }
+        ]
+      },
+      {
+        "name": "Mike Reid",
+        "nm": 2908331,
+        "roles": [
+          {
+            "char": "Stuart Owen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "All at Sea",
+    "tt": 676200,
+    "air_date": "1997-11-10",
+    "description": "While on a stakeout at the beach, Casey becomes involved with an attractive TV star, who is kidnapped. Annie fears she may have a curse, and visits a psychic for help.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Rachel Hayward",
+        "nm": 371787,
+        "roles": [
+          {
+            "char": "Lisa Landon"
+          }
+        ]
+      },
+      {
+        "name": "Todd Waite",
+        "nm": 906632,
+        "roles": [
+          {
+            "char": "Charlie Mullins",
+            "ch": 431781
+          }
+        ]
+      },
+      {
+        "name": "Ellie Harvie",
+        "nm": 367762,
+        "roles": [
+          {
+            "char": "Hazel Mullins"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Newell",
+        "nm": 627796,
+        "roles": [
+          {
+            "char": "Mike Walsh"
+          }
+        ]
+      },
+      {
+        "name": "Jim Dunn",
+        "nm": 242621,
+        "roles": [
+          {
+            "char": "Kidnapper",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Penny Phang",
+        "nm": 1425771,
+        "roles": [
+          {
+            "char": "Bikini Girl",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Les Is More",
+    "tt": 676203,
+    "air_date": "1997-11-17",
+    "description": "Casey is stalked by a woman obsessed with marrying him, just as romance is blossoming between Casey and Annie. After a knock to the head, Lester develops multiple-personality disorder.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Heather Hanson",
+        "nm": 361275,
+        "roles": [
+          {
+            "char": "Felicia"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Mars",
+        "nm": 550318,
+        "roles": [
+          {
+            "char": "Dr. Quackenbush"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "If I Were a Rich Cop",
+    "tt": 817430,
+    "air_date": "1997-11-24",
+    "description": "Casey finds an ancient journal with clues to a buried treasure on Academy grounds. Annie is upset when Casey cheats on his written assignments.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          },
+          {
+            "char": "Charles Rigby",
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Shopping with the Enemy",
+    "tt": 817421,
+    "air_date": "1997-12-01",
+    "description": "With the cancellation of summer vacation, Hefilfinger and the cadets try to get their Christmas shopping in early, but find themselves held captive by a group of inept thugs.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Lenore Zann",
+        "nm": 953051,
+        "roles": [
+          {
+            "char": "Bonnie"
+          }
+        ]
+      },
+      {
+        "name": "Darren Moore",
+        "nm": 601092,
+        "roles": [
+          {
+            "char": "Clyde"
+          }
+        ]
+      },
+      {
+        "name": "Bill Croft",
+        "nm": 188457,
+        "roles": [
+          {
+            "char": "Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Jonathon Pallone",
+        "nm": 657907,
+        "roles": [
+          {
+            "char": "Dyno Bunny"
+          }
+        ]
+      },
+      {
+        "name": "Alex Machholz",
+        "nm": 2441651,
+        "roles": [
+          {
+            "char": "Boy",
+            "as Alexander Machholz": true
+          }
+        ]
+      },
+      {
+        "name": "Sheelah Megill",
+        "nm": 576324,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Steve Timms",
+        "nm": 2908012,
+        "roles": [
+          {
+            "char": "Paperboy"
+          }
+        ]
+      },
+      {
+        "name": "Hailey Jenkins",
+        "nm": 1074509,
+        "roles": [
+          {
+            "char": "Girl"
+          }
+        ]
+      },
+      {
+        "name": "Simon Longmore",
+        "nm": 519389,
+        "roles": [
+          {
+            "char": "Driver"
+          }
+        ]
+      },
+      {
+        "name": "Dolores Drake",
+        "nm": 236887,
+        "roles": [
+          {
+            "char": "Operator"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Bruce",
+        "nm": 115520,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Luke...Warm",
+    "tt": 817433,
+    "air_date": "1998-01-26",
+    "description": "Annie has a secret admirer in Luke, but the feeling is not quite mutual. The Tackleberrys are hot on the trail of some missing squad cars.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "Tanya Wright",
+        "nm": 942859,
+        "roles": [
+          {
+            "char": "Cassandra",
+            "ch": 418846,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "The Truth Ain't What It Used to Be",
+    "tt": 817437,
+    "air_date": "1998-02-02",
+    "description": "Police Academy court is in session. With Hefilfinger as judge, and Ledbetter as prosecutor, Casey is put on trial for allegedly assisting a bank robber.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Eamonn Roche",
+        "nm": 733926,
+        "roles": [
+          {
+            "char": "Max",
+            "as Eamon Roche": true
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "Wendy Niamath",
+        "nm": 629188,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "David Mylrea",
+        "nm": 617054,
+        "roles": [
+          {
+            "char": "Cannonmaster"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Hoop Nightmares",
+    "tt": 817428,
+    "air_date": "1998-02-09",
+    "description": "In an attempt to raise money for Annie's surprise birthday party, Casey bets on the annual basketball game between the Academy's and Sheriff's cadets.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "Art Metrano",
+        "nm": 582586,
+        "roles": [
+          {
+            "char": "Sheriff Meiser",
+            "ch": 5094
+          }
+        ]
+      },
+      {
+        "name": "Suzy Joachim",
+        "nm": 423296,
+        "roles": [
+          {
+            "char": "Julia"
+          }
+        ]
+      },
+      {
+        "name": "Paul Bernard",
+        "nm": 6442408,
+        "roles": [
+          {
+            "char": "Ringer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Lend Me Your Ears",
+    "tt": 817431,
+    "air_date": "1998-02-16",
+    "description": "Eric Lassard comes out of retirement to fill in as Commandant, while Hefilfinger takes a refresher course. Ledbetter experiments with a new hair-growth treatment.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "George Gaynes",
+        "nm": 310960,
+        "roles": [
+          {
+            "char": "Commandant Eric Lassard",
+            "ch": 5090
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Dr. Hightower",
+    "tt": 817427,
+    "air_date": "1998-02-23",
+    "description": "Captain Hightower returns to the Academy to train the new cadets, and to receive an award as \"Alumnus of the Year\". He also lends Casey a helping hand in tracking down an armored car thief.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Tanya Wright",
+        "nm": 942859,
+        "roles": [
+          {
+            "char": "Cassandra",
+            "ch": 418846
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "Andrew Kavadas",
+        "nm": 442515,
+        "roles": [
+          {
+            "char": "Womack",
+            "ch": 418845
+          }
+        ]
+      },
+      {
+        "name": "Gabe Khouth",
+        "nm": 451917,
+        "roles": [
+          {
+            "char": "Cadet"
+          }
+        ]
+      },
+      {
+        "name": "Bubba Smith",
+        "nm": 807571,
+        "roles": [
+          {
+            "char": "Capt. Moses Hightower",
+            "ch": 5089
+          }
+        ]
+      },
+      {
+        "name": "Ian Berry",
+        "nm": 77562,
+        "roles": [
+          {
+            "char": "Agent Butts",
+            "ch": 418844
+          }
+        ]
+      },
+      {
+        "name": "Jim Dunn",
+        "nm": 242621,
+        "roles": [
+          {
+            "char": "Falling Cadet #1"
+          }
+        ]
+      },
+      {
+        "name": "Michael Langlois",
+        "nm": 486598,
+        "roles": [
+          {
+            "char": "Falling Cadet #2",
+            "as Mike Langlois": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Bring Me the Turtle of Commandant Hefilfinger",
+    "tt": 817425,
+    "air_date": "1998-03-02",
+    "description": "The Commandant's pet turtle, Zeus, becomes possessed by a creature from outer space. Ledbetter attempts an Academy takeover. Lester teams up with Cassandra to catch a thief.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Tanya Wright",
+        "nm": 942859,
+        "roles": [
+          {
+            "char": "Cassandra",
+            "ch": 418846
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "Dom DeLuise",
+        "nm": 1123,
+        "roles": [
+          {
+            "char": "Zeus",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rob Daprocida",
+        "nm": 200871,
+        "roles": [
+          {
+            "char": "Phil"
+          }
+        ]
+      },
+      {
+        "name": "Charles Siegel",
+        "nm": 796907,
+        "roles": [
+          {
+            "char": "Dr. Bagley"
+          }
+        ]
+      },
+      {
+        "name": "Paulo Rubino",
+        "nm": 6442399,
+        "roles": [
+          {
+            "char": "Young Phil"
+          }
+        ]
+      },
+      {
+        "name": "Ari Lazer",
+        "nm": 6442400,
+        "roles": [
+          {
+            "char": "Young Lester"
+          }
+        ]
+      },
+      {
+        "name": "David Mylrea",
+        "nm": 617054,
+        "roles": [
+          {
+            "char": "Cannonmaster"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Karate Cops",
+    "tt": 676202,
+    "air_date": "1998-03-30",
+    "description": "The cadets are led to a couple of jewel thieves, after Commandant Hefilfinger finds a ruby in his fortune cookie.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "Alec Willows",
+        "nm": 932602,
+        "roles": [
+          {
+            "char": "Joey Fingers",
+            "as Alec Willow": true
+          }
+        ]
+      },
+      {
+        "name": "Vince Murdocco",
+        "nm": 613741,
+        "roles": [
+          {
+            "char": "Arnold"
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Torrance",
+        "nm": 868330,
+        "roles": [
+          {
+            "char": "Carla"
+          }
+        ]
+      },
+      {
+        "name": "John DeSantis",
+        "nm": 220883,
+        "roles": [
+          {
+            "char": "Thug"
+          }
+        ]
+      },
+      {
+        "name": "Ken Roberts",
+        "nm": 2475128,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "A Horse of Course",
+    "tt": 817422,
+    "air_date": "1998-04-06",
+    "description": "When Lester's new equine friend becomes kidnapped, it's up to Casey and the cadets to find and return the horse to its rightful owner.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Roberds",
+        "nm": 4357,
+        "roles": [
+          {
+            "char": "Ottoman",
+            "as Michael Robards": true
+          }
+        ]
+      },
+      {
+        "name": "Fred Keating",
+        "nm": 444104,
+        "roles": [
+          {
+            "char": "Mr. Ballard"
+          }
+        ]
+      },
+      {
+        "name": "Babs Chula",
+        "nm": 161075,
+        "roles": [
+          {
+            "char": "Ms. Lacey",
+            "as Babz Chula": true
+          }
+        ]
+      },
+      {
+        "name": "Tanya Wright",
+        "nm": 942859,
+        "roles": [
+          {
+            "char": "Cassandra",
+            "ch": 418846,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Mr. I.Q.",
+    "tt": 817434,
+    "air_date": "1998-04-13",
+    "description": "Lester joins a dating service, using Casey's photo on his profile. Jones tutors the cadets on how to detect a pickpocket. Luke becomes a game show contestant.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Greg Rogers",
+        "nm": 736896,
+        "roles": [
+          {
+            "char": "Dink Bradley"
+          }
+        ]
+      },
+      {
+        "name": "Emmanuelle Chriqui",
+        "nm": 4825,
+        "roles": [
+          {
+            "char": "Charlotte"
+          }
+        ]
+      },
+      {
+        "name": "Tabitha St. Germain",
+        "nm": 319308,
+        "roles": [
+          {
+            "char": "Myrtle Groggins"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Hayward",
+        "nm": 371798,
+        "roles": [
+          {
+            "char": "Postal Worker"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer-Juniper Angeli",
+        "nm": 1480541,
+        "roles": [
+          {
+            "char": "First Woman",
+            "as Jennifer Haley": true
+          }
+        ]
+      },
+      {
+        "name": "Doris Blomgren",
+        "nm": 88947,
+        "roles": [
+          {
+            "char": "Old Woman",
+            "as Doris Blumgren": true
+          }
+        ]
+      },
+      {
+        "name": "Tanya Wright",
+        "nm": 942859,
+        "roles": [
+          {
+            "char": "Cassandra",
+            "ch": 418846,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Team Tack",
+    "tt": 394839,
+    "air_date": "1998-04-20",
+    "description": "When Captain Tackleberry shuts down a strip club, he is set up for blackmail by the club owner. Ledbetter orders Casey to help Luke lose some weight.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Graf",
+        "nm": 333701,
+        "roles": [
+          {
+            "char": "Capt. Eugene Tackleberry",
+            "ch": 5086
+          }
+        ]
+      },
+      {
+        "name": "Carla Boudreau",
+        "nm": 99178,
+        "roles": [
+          {
+            "char": "Angelique",
+            "as Carla White": true
+          }
+        ]
+      },
+      {
+        "name": "Jasper Cole",
+        "nm": 170594,
+        "roles": [
+          {
+            "char": "Joshua"
+          }
+        ]
+      },
+      {
+        "name": "Russell Ferrier",
+        "nm": 274819,
+        "roles": [
+          {
+            "char": "Skeggs Mondrian"
+          }
+        ]
+      },
+      {
+        "name": "Paige Valentine",
+        "nm": 1853195,
+        "roles": [
+          {
+            "char": "Veronique"
+          }
+        ]
+      },
+      {
+        "name": "Dave 'Squatch' Ward",
+        "nm": 911480,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Beth Amos",
+        "nm": 25289,
+        "roles": [
+          {
+            "char": "Cat Lady",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Colleen Camp",
+        "nm": 131974,
+        "roles": [
+          {
+            "char": "Kathleen",
+            "ch": 430637,
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Cadet of the Year",
+    "tt": 676201,
+    "air_date": "1998-04-27",
+    "description": "Ledbetter does his best to keep Casey from winning a Cadet of the Year competition, organised by Hefilfinger to increase the number of Academy enlistments. Due to budget cuts, Commissioner Hurst is now the new Commandant.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "George R. Robertson",
+        "nm": 731849,
+        "roles": [
+          {
+            "char": "The Commissioner",
+            "ch": 293524,
+            "as George Robertson": true
+          }
+        ]
+      },
+      {
+        "name": "Jennifer-Juniper Angeli",
+        "nm": 1480541,
+        "roles": [
+          {
+            "char": "Angry Protestor"
+          }
+        ]
+      },
+      {
+        "name": "Aaron Pearl",
+        "nm": 669041,
+        "roles": [
+          {
+            "char": "Roosevelt"
+          }
+        ]
+      },
+      {
+        "name": "Reginald Colin Rowley",
+        "nm": 1879706,
+        "roles": [
+          {
+            "char": "Janitor"
+          }
+        ]
+      },
+      {
+        "name": "Todd Sandomirsky",
+        "nm": 762063,
+        "roles": [
+          {
+            "char": "Trucker"
+          }
+        ]
+      },
+      {
+        "name": "Craig Warkentin",
+        "nm": 912290,
+        "roles": [
+          {
+            "char": "Franklin"
+          }
+        ]
+      },
+      {
+        "name": "Tanya Wright",
+        "nm": 942859,
+        "roles": [
+          {
+            "char": "Cassandra",
+            "ch": 418846,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "Got Insurance?",
+    "tt": 3600308,
+    "air_date": "1998-05-04",
+    "description": "The Academy's janitor files a lawsuit, after Luke accidentally injures him. Casey tries to defend the Academy against the janitor's shady lawyer.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tim Kazurinsky",
+        "nm": 443730,
+        "roles": [
+          {
+            "char": "Arnold Fliegel"
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "Elya Baskin",
+        "nm": 59946,
+        "roles": [
+          {
+            "char": "Herbert Shake"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "Angel on My Back",
+    "tt": 817423,
+    "air_date": "1998-05-11",
+    "description": "Ledbetter meets his guardian angel, who tells him to start treating his cadets with kindness or be doomed.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084
+          }
+        ]
+      },
+      {
+        "name": "Jason Emanuel",
+        "nm": 256032,
+        "roles": [
+          {
+            "char": "Cadet Woolsey"
+          }
+        ]
+      },
+      {
+        "name": "Robert Costanzo",
+        "nm": 182456,
+        "roles": [
+          {
+            "char": "Marcus Erroneous"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E25",
+    "title": "Lend Me Your Neck",
+    "tt": 817432,
+    "air_date": "1998-05-18",
+    "description": "Annie is stalked by a mental patient who thinks he is a vampire. A woman turns up at the Academy, claiming to be Hefilfinger's daughter.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Larke Miller",
+        "nm": 1063564,
+        "roles": [
+          {
+            "char": "Kendall Jackson",
+            "ch": 418095
+          }
+        ]
+      },
+      {
+        "name": "Todd Waite",
+        "nm": 906632,
+        "roles": [
+          {
+            "char": "Cesare",
+            "ch": 431781
+          }
+        ]
+      },
+      {
+        "name": "Leslie Hopps",
+        "nm": 394448,
+        "roles": [
+          {
+            "char": "Jane Smith"
+          }
+        ]
+      },
+      {
+        "name": "R. Nelson Brown",
+        "nm": 114456,
+        "roles": [
+          {
+            "char": "Elwin Bixby"
+          }
+        ]
+      },
+      {
+        "name": "Tanya Wright",
+        "nm": 942859,
+        "roles": [
+          {
+            "char": "Cassandra",
+            "ch": 418846,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E26",
+    "title": "Rich No More",
+    "tt": 817436,
+    "air_date": "1998-05-25",
+    "description": "Ledbetter and the cadets embark on a ski trip for winter break. Alice & Annie have the hots for a handsome concierge. The Tackleberrys try befriending Lester. Casey meets the love of his life, but has trouble being accepted by her father.",
+    "cast": [
+      {
+        "name": "Matthew Borlenghi",
+        "nm": 96988,
+        "roles": [
+          {
+            "char": "Rich Casey",
+            "ch": 5103,
+            "as Matt Borlenghi": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Crawford",
+        "nm": 186948,
+        "roles": [
+          {
+            "char": "Sgt. Rusty Ledbetter",
+            "ch": 5111
+          }
+        ]
+      },
+      {
+        "name": "Toby Proctor",
+        "nm": 698422,
+        "roles": [
+          {
+            "char": "Dirk Tackleberry",
+            "ch": 5107
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "nm": 83586,
+        "roles": [
+          {
+            "char": "Dean Tackleberry",
+            "ch": 5102
+          }
+        ]
+      },
+      {
+        "name": "Heather Campbell",
+        "nm": 132504,
+        "roles": [
+          {
+            "char": "Annie Medford",
+            "ch": 5106
+          }
+        ]
+      },
+      {
+        "name": "Christine Gonzales",
+        "nm": 327462,
+        "roles": [
+          {
+            "char": "Alice Cervantes",
+            "ch": 5109
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Luke Kackley",
+            "ch": 5095
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Lester Shane",
+            "ch": 5110
+          }
+        ]
+      },
+      {
+        "name": "Joe Flaherty",
+        "nm": 280886,
+        "roles": [
+          {
+            "char": "Cmdt. Stuart Hefilfinger",
+            "ch": 5087,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Winslow",
+        "nm": 935498,
+        "roles": [
+          {
+            "char": "Sgt. Larvelle Jones",
+            "ch": 5084,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Monika Schnarre",
+        "nm": 773635,
+        "roles": [
+          {
+            "char": "Dianne"
+          }
+        ]
+      },
+      {
+        "name": "Wally Dalton",
+        "nm": 198369,
+        "roles": [
+          {
+            "char": "Theodore"
+          }
+        ]
+      },
+      {
+        "name": "Michael Philip",
+        "nm": 679950,
+        "roles": [
+          {
+            "char": "Ski Lodge Concierge"
+          }
+        ]
+      },
+      {
+        "name": "Erick Kaffka",
+        "nm": 2449116,
+        "roles": [
+          {
+            "char": "Expert Skier",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Maslansky",
+        "nm": 556487,
+        "roles": [
+          {
+            "char": "Grumpy Man at Table",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  }
+]

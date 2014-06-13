@@ -1,0 +1,146 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Sub",
+    "tt": 787584,
+    "air_date": "1973-02-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christopher Caine",
+        "nm": 1489036,
+        "roles": [
+          {
+            "char": "Quack"
+          }
+        ]
+      },
+      {
+        "name": "Robin Clarke",
+        "nm": 164975,
+        "roles": [
+          {
+            "char": "Diving Officer"
+          }
+        ]
+      },
+      {
+        "name": "Ron Hayes",
+        "nm": 371208,
+        "roles": [
+          {
+            "char": "Mike Coles"
+          }
+        ]
+      },
+      {
+        "name": "Ed Nelson",
+        "nm": 625343,
+        "roles": [
+          {
+            "char": "Frank Wyatt"
+          }
+        ]
+      },
+      {
+        "name": "Kip Niven",
+        "nm": 633121,
+        "roles": [
+          {
+            "char": "Kurczak"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Rucker",
+        "nm": 748497,
+        "roles": [
+          {
+            "char": "Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Simon Scott",
+        "nm": 779794,
+        "roles": [
+          {
+            "char": "Adm. Lockery"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 1089221,
+    "air_date": "1973-02-18",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E03",
+    "title": "The Wilderness",
+    "tt": 787585,
+    "air_date": "1973-03-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Glenn Corbett",
+        "nm": 179148,
+        "roles": [
+          {
+            "char": "Larry McGowen"
+          }
+        ]
+      },
+      {
+        "name": "Dana Laurita",
+        "nm": 491485,
+        "roles": [
+          {
+            "char": "Kate McGowen"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Mitchell",
+        "nm": 593192,
+        "roles": [
+          {
+            "char": "Sergeant Nordlaw"
+          }
+        ]
+      },
+      {
+        "name": "Lee Montgomery",
+        "nm": 599837,
+        "roles": [
+          {
+            "char": "Matthew McGowen",
+            "as Lee H. Montgomery": true
+          }
+        ]
+      },
+      {
+        "name": "Ned Romero",
+        "nm": 739534,
+        "roles": [
+          {
+            "char": "Ramirez"
+          }
+        ]
+      },
+      {
+        "name": "Marion Ross",
+        "nm": 5385,
+        "roles": [
+          {
+            "char": "Fran McGowen"
+          }
+        ]
+      }
+    ]
+  }
+]

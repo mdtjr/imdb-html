@@ -1,0 +1,94 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 1724427,
+    "air_date": "1961-10-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ross Bagdasarian",
+        "nm": 46564,
+        "roles": [
+          {
+            "char": "Alvin",
+            "ch": 29484,
+            "voice": true
+          },
+          {
+            "char": "Simon",
+            "ch": 38079,
+            "voice": true
+          },
+          {
+            "char": "Theodore",
+            "ch": 32984,
+            "voice": true
+          },
+          {
+            "char": "David Seville",
+            "ch": 503,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shepard Menken",
+        "nm": 579684,
+        "roles": [
+          {
+            "char": "Clyde Crashcup",
+            "ch": 56334,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 1724428,
+    "air_date": "1961-10-11",
+    "description": "Balloons, Stock Opening, Sam Valiant, Private Nose, Shadow Picture, Drive In, August Dear, Boat, Crashcup Invents the Bathtub, Alvin's Orchestra, T.V. Camera, Stock Closing.",
+    "cast": [
+      {
+        "name": "Ross Bagdasarian",
+        "nm": 46564,
+        "roles": [
+          {
+            "char": "Alvin",
+            "ch": 29484,
+            "voice": true
+          },
+          {
+            "char": "Simon",
+            "ch": 38079,
+            "voice": true
+          },
+          {
+            "char": "Theodore",
+            "ch": 32984,
+            "voice": true
+          },
+          {
+            "char": "David Seville",
+            "ch": 503,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shepard Menken",
+        "nm": 579684,
+        "roles": [
+          {
+            "char": "Clyde Crashcup",
+            "ch": 56334,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  }
+]

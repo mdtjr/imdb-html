@@ -1,0 +1,1325 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 663421,
+    "air_date": "1989-09-20",
+    "description": "Mrs. Nutt calls in her grandson Charles Nutt III to stop Big Jake Herder of the Texplex Corporation from attempting to buy the Nutt House from her. It doesn't help matters that there is a girl stuck in the hotel phone booth and that the guest list of 600 people is a fraud, having been fudged by Reginald Tarkinton for the last couple of years.",
+    "cast": [
+      {
+        "name": "Cloris Leachman",
+        "nm": 1458,
+        "roles": [
+          {
+            "char": "Ms. Frick"
+          },
+          {
+            "char": "Mrs. Nutt"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Korman",
+        "nm": 466327,
+        "roles": [
+          {
+            "char": "Reginald Tarkington",
+            "ch": 185363
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Charles Nutt III",
+            "ch": 185362
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Sally Lonnaneck"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Itzin",
+        "nm": 411857,
+        "roles": [
+          {
+            "char": "Dennis",
+            "ch": 185361
+          }
+        ]
+      },
+      {
+        "name": "Mark Blankfield",
+        "nm": 87578,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "David Huddleston",
+        "nm": 399663,
+        "roles": [
+          {
+            "char": "Big Jake"
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Norman Shrike"
+          }
+        ]
+      },
+      {
+        "name": "Ronny Graham",
+        "nm": 334283,
+        "roles": [
+          {
+            "char": "Raymond"
+          }
+        ]
+      },
+      {
+        "name": "Peter Pitofsky",
+        "nm": 685760,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Candi Brough",
+        "nm": 112648,
+        "roles": [
+          {
+            "char": "Bimbo #1",
+            "as Candace Brough": true
+          }
+        ]
+      },
+      {
+        "name": "Randi Brough",
+        "nm": 112656,
+        "roles": [
+          {
+            "char": "Bimbo #2"
+          }
+        ]
+      },
+      {
+        "name": "Robert Briscoe Evans",
+        "nm": 263175,
+        "roles": [
+          {
+            "char": "Man in Bed"
+          }
+        ]
+      },
+      {
+        "name": "Gloria Hayes",
+        "nm": 371031,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Jon Menick",
+        "nm": 579626,
+        "roles": [
+          {
+            "char": "Businessman"
+          }
+        ]
+      },
+      {
+        "name": "Garret Smith",
+        "nm": 808275,
+        "roles": [
+          {
+            "char": "Executive"
+          }
+        ]
+      },
+      {
+        "name": "Patti Tippo",
+        "nm": 864121,
+        "roles": [
+          {
+            "char": "Dixie"
+          }
+        ]
+      },
+      {
+        "name": "Conrad Hurtt",
+        "nm": 403767,
+        "roles": [
+          {
+            "char": "Hotel guest",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Robin Leach",
+        "nm": 494858,
+        "roles": [
+          {
+            "char": "Narrator - Opening Titles",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jeanette Nolan",
+        "nm": 634282,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Accidental Groom",
+    "tt": 663423,
+    "air_date": "1989-09-27",
+    "description": "An immigration officer forces Ms. Frick to pack up her bags and leave the country within 24 hours unless she marries a U.S. citizen. Tarkington is the only suitable though unwilling groom unless she can prove her first husband was American.",
+    "cast": [
+      {
+        "name": "Cloris Leachman",
+        "nm": 1458,
+        "roles": [
+          {
+            "char": "Ms. Frick"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Korman",
+        "nm": 466327,
+        "roles": [
+          {
+            "char": "Reginald Tarkington",
+            "ch": 185363
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Charles Nutt III",
+            "ch": 185362
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Sally Lonnaneck"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Itzin",
+        "nm": 411857,
+        "roles": [
+          {
+            "char": "Dennis",
+            "ch": 185361
+          }
+        ]
+      },
+      {
+        "name": "Mark Blankfield",
+        "nm": 87578,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Mark L. Taylor",
+        "nm": 852848,
+        "roles": [
+          {
+            "char": "Agent Flynn"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Malet",
+        "nm": 539395,
+        "roles": [
+          {
+            "char": "Raymond"
+          }
+        ]
+      },
+      {
+        "name": "Scott Fults",
+        "nm": 298516,
+        "roles": [
+          {
+            "char": "Minister"
+          }
+        ]
+      },
+      {
+        "name": "Gloria Hayes",
+        "nm": 371031,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Patti Tippo",
+        "nm": 864121,
+        "roles": [
+          {
+            "char": "Dixie"
+          }
+        ]
+      },
+      {
+        "name": "Claudia Bloom",
+        "nm": 89148,
+        "roles": [
+          {
+            "char": "Young Woman"
+          }
+        ]
+      },
+      {
+        "name": "Matt Flynn",
+        "nm": 283550,
+        "roles": [
+          {
+            "char": "Astronaut"
+          }
+        ]
+      },
+      {
+        "name": "Rob Narita",
+        "nm": 621459,
+        "roles": [
+          {
+            "char": "Painter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "A Frick Called Wanda",
+    "tt": 663418,
+    "air_date": "1989-10-11",
+    "description": "Reginald is having a midlife crisis when a younger woman called Gwen Goode suddenly takes a fancy to him. Ms. Frick becomes jealous and soon finds out the woman is working with Hans Grueblik the infamous criminal and master of disguise",
+    "cast": [
+      {
+        "name": "Cloris Leachman",
+        "nm": 1458,
+        "roles": [
+          {
+            "char": "Ms. Frick"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Korman",
+        "nm": 466327,
+        "roles": [
+          {
+            "char": "Reginald Tarkington",
+            "ch": 185363
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Charles Nutt III",
+            "ch": 185362
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Sally Lonnaneck"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Itzin",
+        "nm": 411857,
+        "roles": [
+          {
+            "char": "Dennis",
+            "ch": 185361
+          }
+        ]
+      },
+      {
+        "name": "Mark Blankfield",
+        "nm": 87578,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Beth Broderick",
+        "nm": 110803,
+        "roles": [
+          {
+            "char": "Gwen Goode"
+          }
+        ]
+      },
+      {
+        "name": "Michael Harris",
+        "nm": 365107,
+        "roles": [
+          {
+            "char": "Hans Grueblik"
+          }
+        ]
+      },
+      {
+        "name": "Jim O'Doherty",
+        "nm": 640691,
+        "roles": [
+          {
+            "char": "Grekko",
+            "as James O'Doherty": true
+          }
+        ]
+      },
+      {
+        "name": "Vali Ashton",
+        "nm": 39281,
+        "roles": [
+          {
+            "char": "Bride"
+          }
+        ]
+      },
+      {
+        "name": "Patti Haddon",
+        "nm": 3664975,
+        "roles": [
+          {
+            "char": "Cocktail Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Ivan Naranjo",
+        "nm": 621218,
+        "roles": [
+          {
+            "char": "Indian Chief"
+          }
+        ]
+      },
+      {
+        "name": "David Sederholm",
+        "nm": 781269,
+        "roles": [
+          {
+            "char": "Groom"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "21 Men and a Baby",
+    "tt": 1539463,
+    "air_date": "1989-10-18",
+    "description": "Tarkington's favorite baseball team, the Badgers is staying at the Nutt House because it is the dullest and therefore most quiet hotel in New York. Unfortunately all 21 players and their coach are kept up all night by a crying baby. When the young mother of the culprit, Rosemary packs up and leaves her little girl in the care of the reluctant Ms. Frick, long suppressed motherly feelings arise in her German heart.",
+    "cast": [
+      {
+        "name": "Cloris Leachman",
+        "nm": 1458,
+        "roles": [
+          {
+            "char": "Ms. Frick"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Korman",
+        "nm": 466327,
+        "roles": [
+          {
+            "char": "Reginald J. Tarkington",
+            "ch": 185363
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Charles Nutt III",
+            "ch": 185362
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Sally Lonnaneck"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Itzin",
+        "nm": 411857,
+        "roles": [
+          {
+            "char": "Dennis",
+            "ch": 185361
+          }
+        ]
+      },
+      {
+        "name": "Mark Blankfield",
+        "nm": 87578,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Bloch",
+        "nm": 88594,
+        "roles": [
+          {
+            "char": "Coach Willis"
+          }
+        ]
+      },
+      {
+        "name": "Joycelyn O'Brien",
+        "nm": 639638,
+        "roles": [
+          {
+            "char": "Rosemary"
+          }
+        ]
+      },
+      {
+        "name": "Gloria Hayes",
+        "nm": 371031,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Patti Tippo",
+        "nm": 864121,
+        "roles": [
+          {
+            "char": "Dixie"
+          }
+        ]
+      },
+      {
+        "name": "Robert Gaylor",
+        "nm": 310929,
+        "roles": [
+          {
+            "char": "Sports Announcer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Suites, Lies and Videotape",
+    "tt": 663422,
+    "air_date": "1989-10-25",
+    "description": "With the hotel almost entirely vacant and unable to pay their bills, Charles tries to lure the President of the United States (in town to visit a conference of Gentile Habedashers) to stay in the suite that bears his title. In order to do so, the staff produces and stars in a video presentation to promote the Nutt House.",
+    "cast": [
+      {
+        "name": "Cloris Leachman",
+        "nm": 1458,
+        "roles": [
+          {
+            "char": "Ms. Frick"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Korman",
+        "nm": 466327,
+        "roles": [
+          {
+            "char": "Reginald Tarkington",
+            "ch": 185363
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Charles Nutt III",
+            "ch": 185362
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Sally Lonnaneck"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Itzin",
+        "nm": 411857,
+        "roles": [
+          {
+            "char": "Dennis",
+            "ch": 185361
+          }
+        ]
+      },
+      {
+        "name": "Mark Blankfield",
+        "nm": 87578,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Lee Garlington",
+        "nm": 307600,
+        "roles": [
+          {
+            "char": "Angelica"
+          }
+        ]
+      },
+      {
+        "name": "Sam Chew Jr.",
+        "nm": 156780,
+        "roles": [
+          {
+            "char": "Mayor",
+            "as Samuel Chew Jr.": true
+          }
+        ]
+      },
+      {
+        "name": "Angus Scrimm",
+        "nm": 780133,
+        "roles": [
+          {
+            "char": "Grim Reaper",
+            "ch": 35562
+          }
+        ]
+      },
+      {
+        "name": "Gloria Hayes",
+        "nm": 371031,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Patti Tippo",
+        "nm": 864121,
+        "roles": [
+          {
+            "char": "Dixie"
+          }
+        ]
+      },
+      {
+        "name": "Joe Costanza",
+        "nm": 182422,
+        "roles": [
+          {
+            "char": "Man in Robe"
+          }
+        ]
+      },
+      {
+        "name": "Henry Kaiser",
+        "nm": 435158,
+        "roles": [
+          {
+            "char": "Leo"
+          }
+        ]
+      },
+      {
+        "name": "Archie Kessell",
+        "nm": 2942790,
+        "roles": [
+          {
+            "char": "President"
+          }
+        ]
+      },
+      {
+        "name": "Edwina Moore",
+        "nm": 601159,
+        "roles": [
+          {
+            "char": "Newswoman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "When Charles Met Sally",
+    "tt": 663424,
+    "air_date": "1989-11-18",
+    "description": "When Charles hires Marla to be the Nutt House's public relations officer, she immediately becomes Sally's rival for his affections. Marla plans Charles to be the main attraction of a fashion show but Ms. Frick and Freddie (disguised as a carpenter) decide to help out Sally in their own inimitable style.",
+    "cast": [
+      {
+        "name": "Cloris Leachman",
+        "nm": 1458,
+        "roles": [
+          {
+            "char": "Ms. Frick"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Korman",
+        "nm": 466327,
+        "roles": [
+          {
+            "char": "Reginald Tarkington",
+            "ch": 185363
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Charles Nutt III",
+            "ch": 185362
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Sally Lonnaneck"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Itzin",
+        "nm": 411857,
+        "roles": [
+          {
+            "char": "Dennis",
+            "ch": 185361
+          }
+        ]
+      },
+      {
+        "name": "Mark Blankfield",
+        "nm": 87578,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Beverly Leech",
+        "nm": 498536,
+        "roles": [
+          {
+            "char": "Marla"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "A Night at the Reunion",
+    "tt": 663419,
+    "air_date": "1989-11-25",
+    "description": "When his own Roosevelt High class of '49 holds a reunion at The Nutt House, Reginald J. Tarkington pretends to be into big business to impress his old rival and other former classmates including Pope John Paul II.",
+    "cast": [
+      {
+        "name": "Cloris Leachman",
+        "nm": 1458,
+        "roles": [
+          {
+            "char": "Ms. Frick"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Korman",
+        "nm": 466327,
+        "roles": [
+          {
+            "char": "Reginald Tarkington",
+            "ch": 185363
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Charles Nutt III",
+            "ch": 185362
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Sally Lonnaneck"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Itzin",
+        "nm": 411857,
+        "roles": [
+          {
+            "char": "Dennis",
+            "ch": 185361
+          }
+        ]
+      },
+      {
+        "name": "Mark Blankfield",
+        "nm": 87578,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Gerrit Graham",
+        "nm": 334057,
+        "roles": [
+          {
+            "char": "Eric - Safety Inspector"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "To Tell the Truth",
+    "tt": 1539465,
+    "air_date": "1989-12-02",
+    "description": "Sally is trying to raise $1170 so her mother can get her nose fixed. Tarkington has just won some cash, but at the same time an acrobatic female burglar and her gorilla of an assistant raid the Nutt House's till.",
+    "cast": [
+      {
+        "name": "Cloris Leachman",
+        "nm": 1458,
+        "roles": [
+          {
+            "char": "Ms. Frick"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Korman",
+        "nm": 466327,
+        "roles": [
+          {
+            "char": "Reginald J. Tarkington",
+            "ch": 185363
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Charles Nutt III",
+            "ch": 185362
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Sally Lonnaneck"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Itzin",
+        "nm": 411857,
+        "roles": [
+          {
+            "char": "Dennis",
+            "ch": 185361
+          }
+        ]
+      },
+      {
+        "name": "Mark Blankfield",
+        "nm": 87578,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Erin Canavan",
+        "nm": 5894936,
+        "roles": [
+          {
+            "char": "Girl Scout"
+          }
+        ]
+      },
+      {
+        "name": "Lee Grodsky",
+        "nm": 5894937,
+        "roles": [
+          {
+            "char": "Seeing Eye Man"
+          }
+        ]
+      },
+      {
+        "name": "Stogie Kenyatta",
+        "nm": 365889,
+        "roles": [
+          {
+            "char": "Man with Wallet"
+          }
+        ]
+      },
+      {
+        "name": "Donald Macleod",
+        "nm": 3787565,
+        "roles": [
+          {
+            "char": "The Gorilla"
+          }
+        ]
+      },
+      {
+        "name": "Ronan O'Casey",
+        "nm": 639995,
+        "roles": [
+          {
+            "char": "Suited Guest"
+          }
+        ]
+      },
+      {
+        "name": "Joe Restivo",
+        "nm": 720429,
+        "roles": [
+          {
+            "char": "Shiny"
+          }
+        ]
+      },
+      {
+        "name": "Joan Van Horn",
+        "nm": 270746,
+        "roles": [
+          {
+            "char": "Paging Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Deborah Wakeham",
+        "nm": 906817,
+        "roles": [
+          {
+            "char": "Penny"
+          }
+        ]
+      },
+      {
+        "name": "Ted Warren",
+        "nm": 5894938,
+        "roles": [
+          {
+            "char": "Priest"
+          }
+        ]
+      },
+      {
+        "name": "Ahmet Zappa",
+        "nm": 953257,
+        "roles": [
+          {
+            "char": "Teenager"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "My Man Tarkington",
+    "tt": 663420,
+    "air_date": "1989-12-09",
+    "description": "Reggie Tarkington is replaced by Alec Creed on of all times, pay raise day. Creed fires Freddy, but the rest of the Nutt House staff conspires together against the stuffy Englishman to get Feddy reinstated.",
+    "cast": [
+      {
+        "name": "Cloris Leachman",
+        "nm": 1458,
+        "roles": [
+          {
+            "char": "Ms. Frick"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Korman",
+        "nm": 466327,
+        "roles": [
+          {
+            "char": "Reginald Tarkington",
+            "ch": 185363
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Charles Nutt III",
+            "ch": 185362
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Sally Lonnaneck"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Itzin",
+        "nm": 411857,
+        "roles": [
+          {
+            "char": "Dennis",
+            "ch": 185361
+          }
+        ]
+      },
+      {
+        "name": "Mark Blankfield",
+        "nm": 87578,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Debora Kay Anderson",
+        "nm": 5895329,
+        "roles": [
+          {
+            "char": "Bobby Jo"
+          }
+        ]
+      },
+      {
+        "name": "Christina Capozzi",
+        "nm": 5895330,
+        "roles": [
+          {
+            "char": "Pregnant Woman"
+          }
+        ]
+      },
+      {
+        "name": "Ernest Harada",
+        "nm": 361719,
+        "roles": [
+          {
+            "char": "Nakatumi"
+          }
+        ]
+      },
+      {
+        "name": "Gloria Hayes",
+        "nm": 371031,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Henry Kaiser",
+        "nm": 435158,
+        "roles": [
+          {
+            "char": "Leo"
+          }
+        ]
+      },
+      {
+        "name": "Les Marsden",
+        "nm": 5895331,
+        "roles": [
+          {
+            "char": "Gentleman"
+          }
+        ]
+      },
+      {
+        "name": "Patti Tippo",
+        "nm": 864121,
+        "roles": [
+          {
+            "char": "Dixie"
+          }
+        ]
+      },
+      {
+        "name": "Paxton Whitehead",
+        "nm": 925717,
+        "roles": [
+          {
+            "char": "Alec Creed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "The Nutt Cracker Suite",
+    "tt": 1539464,
+    "air_date": "1989-12-16",
+    "description": "Sally has invited the Kiev-ballet into the Nutt House to further the peaceful connections between the US and the USSR. She is especially looking forward to meeting handsome dancer Mikael Nabokov.",
+    "cast": [
+      {
+        "name": "Cloris Leachman",
+        "nm": 1458,
+        "roles": [
+          {
+            "char": "Ms. Frick"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Korman",
+        "nm": 466327,
+        "roles": [
+          {
+            "char": "Reginald J. Tarkington",
+            "ch": 185363
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Charles Nutt III",
+            "ch": 185362
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Sally Lonnaneck"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Itzin",
+        "nm": 411857,
+        "roles": [
+          {
+            "char": "Dennis",
+            "ch": 185361
+          }
+        ]
+      },
+      {
+        "name": "Mark Blankfield",
+        "nm": 87578,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Tengiz Borisoff",
+        "nm": 96832,
+        "roles": [
+          {
+            "char": "Mikael Nabokov"
+          }
+        ]
+      },
+      {
+        "name": "Carl Ciarfalio",
+        "nm": 161893,
+        "roles": [
+          {
+            "char": "Sailor #1"
+          }
+        ]
+      },
+      {
+        "name": "Timothi-Jane Graham",
+        "nm": 334332,
+        "roles": [
+          {
+            "char": "Ballerina",
+            "as Timothi Jane Graham": true
+          }
+        ]
+      },
+      {
+        "name": "Holly Hallstrom",
+        "nm": 356775,
+        "roles": [
+          {
+            "char": "Newlywed Woman"
+          }
+        ]
+      },
+      {
+        "name": "Christine Healy",
+        "nm": 5895412,
+        "roles": [
+          {
+            "char": "Nadia"
+          }
+        ]
+      },
+      {
+        "name": "Seth Jaffe",
+        "nm": 415491,
+        "roles": [
+          {
+            "char": "Yuri"
+          }
+        ]
+      },
+      {
+        "name": "Mary Otis",
+        "nm": 652912,
+        "roles": [
+          {
+            "char": "Woman"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Ratner",
+        "nm": 711841,
+        "roles": [
+          {
+            "char": "Woman with Key"
+          }
+        ]
+      },
+      {
+        "name": "Leonard Ross",
+        "nm": 5895413,
+        "roles": [
+          {
+            "char": "Man with Key"
+          }
+        ]
+      },
+      {
+        "name": "Mike Tino",
+        "nm": 864028,
+        "roles": [
+          {
+            "char": "Newlywed Man"
+          }
+        ]
+      }
+    ]
+  }
+]

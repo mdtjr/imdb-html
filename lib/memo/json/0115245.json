@@ -1,0 +1,2293 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 632203,
+    "air_date": "1996-09-17",
+    "description": "Lisa's first day at work is filled with insults and results in a trip to the bar with her children.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Patricia Belcher",
+        "nm": 6970,
+        "roles": [
+          {
+            "char": "Gloria"
+          }
+        ]
+      },
+      {
+        "name": "Lou DiMaggio",
+        "nm": 227155,
+        "roles": [
+          {
+            "char": "Guy at the Bar"
+          }
+        ]
+      },
+      {
+        "name": "Shashawnee Hall",
+        "nm": 356101,
+        "roles": [
+          {
+            "char": "Coach Brick"
+          }
+        ]
+      },
+      {
+        "name": "Tara Karsian",
+        "nm": 440160,
+        "roles": [
+          {
+            "char": "Emily"
+          }
+        ]
+      },
+      {
+        "name": "Daryl Sabara",
+        "nm": 754512,
+        "roles": [
+          {
+            "char": "Toby"
+          }
+        ]
+      },
+      {
+        "name": "Mark Tymchyshyn",
+        "nm": 878959,
+        "roles": [
+          {
+            "char": "Don, the Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Daycareless",
+    "tt": 632195,
+    "air_date": "1996-09-24",
+    "description": "When Griffin is expelled from daycare, Lisa has to turn to her mother for help.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Dena Burton",
+        "nm": 123563,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Kim Delgado",
+        "nm": 216991,
+        "roles": [
+          {
+            "char": "Bailiff"
+          }
+        ]
+      },
+      {
+        "name": "Nealla Gordon",
+        "nm": 330477,
+        "roles": [
+          {
+            "char": "Judge Randall"
+          }
+        ]
+      },
+      {
+        "name": "Tara Karsian",
+        "nm": 440160,
+        "roles": [
+          {
+            "char": "Emily"
+          }
+        ]
+      },
+      {
+        "name": "Lainie Kazan",
+        "nm": 443577,
+        "roles": [
+          {
+            "char": "Connie Minardi"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Contempt",
+    "tt": 632193,
+    "air_date": "1996-10-01",
+    "description": "A sexist judge rubs Lisa the wrong way. Meanwhile, Kevin fears he'll lose his job when his name is mentioned in an unflattering article.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Simon Billig",
+        "nm": 82433,
+        "roles": [
+          {
+            "char": "Trooper Jackson"
+          }
+        ]
+      },
+      {
+        "name": "Carey Eidel",
+        "nm": 251631,
+        "roles": [
+          {
+            "char": "Defendant"
+          }
+        ]
+      },
+      {
+        "name": "Philip Baker Hall",
+        "nm": 1311,
+        "roles": [
+          {
+            "char": "Judge Conklin"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Concert",
+    "tt": 632192,
+    "air_date": "1996-10-08",
+    "description": "Lisa thinks Kevin is over the hill when he's not excited about a Nine Inch Nails concert, but soon Lisa realizes she's no spring chicken either. Meanwhile, Connie watches the kids and Lyndon brings a pretentious date to the concert.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Lainie Kazan",
+        "nm": 443577,
+        "roles": [
+          {
+            "char": "Connie Minardi"
+          }
+        ]
+      },
+      {
+        "name": "Gina Mari",
+        "nm": 546923,
+        "roles": [
+          {
+            "char": "Oma"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Mickler",
+        "nm": 585349,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "Tim Silva",
+        "nm": 798532,
+        "roles": [
+          {
+            "char": "The Car Salesman"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Burnout",
+    "tt": 632191,
+    "air_date": "1996-10-15",
+    "description": "The balancing act between home and work take their toll on Lisa. Meanwhile, Kevin learns a perspective basketball player is on probation.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Jimmy Galeota",
+        "nm": 301979,
+        "roles": [
+          {
+            "char": "Skylar"
+          }
+        ]
+      },
+      {
+        "name": "Edmund L. Shaff",
+        "nm": 787283,
+        "roles": [
+          {
+            "char": "Mr. Hickey"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Playdate",
+    "tt": 632204,
+    "air_date": "1996-10-22",
+    "description": "The mother of Tess's new friend puts a strain on their friendship. Meanwhile, Kevin splits his raise with Brick.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Kendra Krull",
+        "nm": 472686,
+        "roles": [
+          {
+            "char": "Corrine"
+          }
+        ]
+      },
+      {
+        "name": "Eileen Seeley",
+        "nm": 781560,
+        "roles": [
+          {
+            "char": "Shelby"
+          }
+        ]
+      },
+      {
+        "name": "Jim Ward",
+        "nm": 911616,
+        "roles": [
+          {
+            "char": "Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Girlfriends",
+    "tt": 632198,
+    "air_date": "1996-10-29",
+    "description": "Lisa and Dee Dee are forced to work with a mutual ex. Meanwhile, when Tess spends the afternoon with Kevin, she wanders into the boys' locker room.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Kim Delgado",
+        "nm": 216991,
+        "roles": [
+          {
+            "char": "Bailiff"
+          }
+        ]
+      },
+      {
+        "name": "Nealla Gordon",
+        "nm": 330477,
+        "roles": [
+          {
+            "char": "Judge Randall"
+          }
+        ]
+      },
+      {
+        "name": "Shashawnee Hall",
+        "nm": 356101,
+        "roles": [
+          {
+            "char": "Coach Brick"
+          }
+        ]
+      },
+      {
+        "name": "Burke Moses",
+        "nm": 2898,
+        "roles": [
+          {
+            "char": "Ted 'Teddy' Riley"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Pregnancy",
+    "tt": 632205,
+    "air_date": "1996-11-12",
+    "description": "Lisa fears she might be pregnant again.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Tara Karsian",
+        "nm": 440160,
+        "roles": [
+          {
+            "char": "Emily, the Daycare Lady"
+          }
+        ]
+      },
+      {
+        "name": "John Pinette",
+        "nm": 684124,
+        "roles": [
+          {
+            "char": "The Bellboy"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Jobs",
+    "tt": 632201,
+    "air_date": "1996-11-19",
+    "description": "Lisa and her co-workers fill out their own performance evaluations. Meanwhile Kevin is offered a better job that comes with a catch.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Ron Dean",
+        "nm": 212939,
+        "roles": [
+          {
+            "char": "Mr. Zafrani",
+            "ch": 146158
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Gobbledegook",
+    "tt": 632199,
+    "air_date": "1996-11-26",
+    "description": "Dee Dee throws Thanksgiving at Lisa's house but problems abound: Lisa finds herself doing all the work; Kevin goes out of town; Connie accuses Lisa of sleeping with Lyndon; Tess and Matt put on a Thanksgiving play; and Mr. Nash tries to bond with his daughter.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Jenny O'Hara",
+        "nm": 641266,
+        "roles": [
+          {
+            "char": "Constance 'Connie' Minardi"
+          }
+        ]
+      },
+      {
+        "name": "Ron Dean",
+        "nm": 212939,
+        "roles": [
+          {
+            "char": "Mr. Zafrani",
+            "ch": 146158
+          }
+        ]
+      },
+      {
+        "name": "Sally Levi",
+        "nm": 1174026,
+        "roles": [
+          {
+            "char": "Elizabeth",
+            "as Sally Livingstone": true
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Boss",
+    "tt": 632190,
+    "air_date": "1996-12-03",
+    "description": "Lisa ignores Mr. Nash's instructions and lands in hot water. Meanwhile, Connie moves in with the Hunters and instantly takes over.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Jenny O'Hara",
+        "nm": 641266,
+        "roles": [
+          {
+            "char": "Constance 'Connie' Minardi"
+          }
+        ]
+      },
+      {
+        "name": "John Carroll Lynch",
+        "nm": 2253,
+        "roles": [
+          {
+            "char": "Crazy Larry"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Fired",
+    "tt": 632196,
+    "air_date": "1996-12-17",
+    "description": "Mr. Nash takes the fall when Lisa blurts out classified information on the radio.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Jenny O'Hara",
+        "nm": 641266,
+        "roles": [
+          {
+            "char": "Constance 'Connie' Minardi"
+          }
+        ]
+      },
+      {
+        "name": "Harry Hutchinson",
+        "nm": 404341,
+        "roles": [
+          {
+            "char": "The D.A.'s Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Marcia Mitzman Gaven",
+        "nm": 594217,
+        "roles": [
+          {
+            "char": "Dr. Laura Levinger",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Regis Philbin",
+        "nm": 5310,
+        "roles": [
+          {
+            "char": "District Attorney Glen Bradley"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Harassment",
+    "tt": 632200,
+    "air_date": "1997-01-07",
+    "description": "Tess is suspended from school for sexually harassing a boy on the playground. Meanwhile, Matt builds a robot and Lyndon is assigned a bizarre case.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Jenny O'Hara",
+        "nm": 641266,
+        "roles": [
+          {
+            "char": "Constance 'Connie' Minardi"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Hamilton",
+        "nm": 358026,
+        "roles": [
+          {
+            "char": "Mrs. Rader"
+          }
+        ]
+      },
+      {
+        "name": "Richard McGonagle",
+        "nm": 569501,
+        "roles": [
+          {
+            "char": "Carl Bieber"
+          }
+        ]
+      },
+      {
+        "name": "Michael Tucci",
+        "nm": 875700,
+        "roles": [
+          {
+            "char": "Principle Blair 'The Square'"
+          }
+        ]
+      },
+      {
+        "name": "Jessica Tuck",
+        "nm": 875768,
+        "roles": [
+          {
+            "char": "Diane Webster"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Fraud",
+    "tt": 632197,
+    "air_date": "1997-01-14",
+    "description": "Lisa reluctantly finds herself working with Lyndon when Connie files suit against a man who conned her out of her life's savings.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Jenny O'Hara",
+        "nm": 641266,
+        "roles": [
+          {
+            "char": "Constance 'Connie' Minardi"
+          }
+        ]
+      },
+      {
+        "name": "Juanita Jennings",
+        "nm": 421188,
+        "roles": [
+          {
+            "char": "Judge Cowan"
+          }
+        ]
+      },
+      {
+        "name": "Kurt Sinclair",
+        "nm": 777993,
+        "roles": [
+          {
+            "char": "Defense Attorney"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Neighbors",
+    "tt": 632202,
+    "air_date": "1997-01-28",
+    "description": "Mr. Nash informs Lisa that her new friend and neighbor Marty is a mobster.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Jenny O'Hara",
+        "nm": 641266,
+        "roles": [
+          {
+            "char": "Constance 'Connie' Minardi"
+          }
+        ]
+      },
+      {
+        "name": "Jordan Baum",
+        "nm": 3488981,
+        "roles": [
+          {
+            "char": "Larry Cranepool"
+          }
+        ]
+      },
+      {
+        "name": "Enrico Colantoni",
+        "nm": 170186,
+        "roles": [
+          {
+            "char": "Marty Cranepool"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Coogan",
+        "nm": 176859,
+        "roles": [
+          {
+            "char": "Goon"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Mickler",
+        "nm": 585349,
+        "roles": [
+          {
+            "char": "Cop #2"
+          }
+        ]
+      },
+      {
+        "name": "Peter Spellos",
+        "nm": 46428,
+        "roles": [
+          {
+            "char": "Wiseguy"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Ride Along",
+    "tt": 632206,
+    "air_date": "1997-05-27",
+    "description": "Lisa gets to live out a fantasy when she goes on a police ride-along, but it soon turns into a nightmare when the cop snaps and takes Lisa and her co-workers hostage.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Megan Cavanagh",
+        "nm": 146903,
+        "roles": [
+          {
+            "char": "Officer Colleen McManus",
+            "ch": 343362
+          }
+        ]
+      },
+      {
+        "name": "Bob Glouberman",
+        "nm": 323067,
+        "roles": [
+          {
+            "char": "Star Trek Conventioneer"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Dates",
+    "tt": 632194,
+    "air_date": "1997-06-03",
+    "description": "Lisa sets up Mr. Nash with an old flame (Wendie Malick) who's become a rival attorney.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "Robert Leeshock",
+        "nm": 498763,
+        "roles": [
+          {
+            "char": "Jeff"
+          }
+        ]
+      },
+      {
+        "name": "Wendie Malick",
+        "nm": 5176,
+        "roles": [
+          {
+            "char": "Olivia McClure"
+          }
+        ]
+      },
+      {
+        "name": "Warren Sweeney",
+        "nm": 842211,
+        "roles": [
+          {
+            "char": "The Judge"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      },
+      {
+        "name": "Luca Weibel",
+        "nm": 918757,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Banquet",
+    "tt": 632189,
+    "air_date": "1997-06-10",
+    "description": "Lisa's in trouble when she has to attend a legal banquet and a dinner with Kevin and his boss on the same night.",
+    "cast": [
+      {
+        "name": "Lisa Ann Walter",
+        "nm": 910076,
+        "roles": [
+          {
+            "char": "Lisa Ann Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Keefe",
+        "nm": 1574,
+        "roles": [
+          {
+            "char": "Kevin Hunter",
+            "ch": 149597
+          }
+        ]
+      },
+      {
+        "name": "Molly Hagan",
+        "nm": 353243,
+        "roles": [
+          {
+            "char": "Dee Dee Lucas",
+            "ch": 154213
+          }
+        ]
+      },
+      {
+        "name": "Lightfield Lewis",
+        "nm": 507468,
+        "roles": [
+          {
+            "char": "Matt Youngster",
+            "ch": 250191
+          }
+        ]
+      },
+      {
+        "name": "Alexa PenaVega",
+        "nm": 891786,
+        "roles": [
+          {
+            "char": "Tess Hunter",
+            "ch": 308202,
+            "as Alexa Vega": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lowery",
+        "nm": 523198,
+        "roles": [
+          {
+            "char": "Lyndon Knox"
+          }
+        ]
+      },
+      {
+        "name": "Larry Miller",
+        "nm": 588777,
+        "roles": [
+          {
+            "char": "Jerome Nash",
+            "ch": 156803
+          }
+        ]
+      },
+      {
+        "name": "John Carroll Lynch",
+        "nm": 2253,
+        "roles": [
+          {
+            "char": "District Attorney Agee",
+            "as John Lynch": true
+          }
+        ]
+      },
+      {
+        "name": "Cameron Weibel",
+        "nm": 918754,
+        "roles": [
+          {
+            "char": "Griffin Hunter",
+            "ch": 250192
+          }
+        ]
+      }
+    ]
+  }
+]

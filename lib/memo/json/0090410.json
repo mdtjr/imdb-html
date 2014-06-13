@@ -1,0 +1,9587 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 90885,
+    "air_date": "1986-09-18",
+    "description": "One former cop against the whole Mafia.",
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Det. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as Bill Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Johann Carlo",
+        "nm": 137681,
+        "roles": [
+          {
+            "char": "Cori Luca"
+          }
+        ]
+      },
+      {
+        "name": "William Russ",
+        "nm": 750916,
+        "roles": [
+          {
+            "char": "Det. Wes Connelly",
+            "ch": 65081
+          }
+        ]
+      },
+      {
+        "name": "Eric Bogosian",
+        "nm": 91899,
+        "roles": [
+          {
+            "char": "Dee",
+            "ch": 109804
+          }
+        ]
+      },
+      {
+        "name": "Martin Ferrero",
+        "nm": 274684,
+        "roles": [
+          {
+            "char": "Ignacio",
+            "ch": 225527
+          }
+        ]
+      },
+      {
+        "name": "David Caruso",
+        "nm": 325,
+        "roles": [
+          {
+            "char": "Johnny O'Donnel",
+            "ch": 78099
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Ron Dean",
+        "nm": 212939,
+        "roles": [
+          {
+            "char": "Chief Kramer",
+            "ch": 146157
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798
+          }
+        ]
+      },
+      {
+        "name": "Lisa Jane Persky",
+        "nm": 675484,
+        "roles": [
+          {
+            "char": "Joanne Goldman"
+          }
+        ]
+      },
+      {
+        "name": "Layne Beamer",
+        "nm": 63736,
+        "roles": [
+          {
+            "char": "Prosecutor"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Bracco",
+        "nm": 1968,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "David Chadderon",
+        "nm": 1654644,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Laurel Cronin",
+        "nm": 188778,
+        "roles": [
+          {
+            "char": "Lianna"
+          }
+        ]
+      },
+      {
+        "name": "D.V. DeVincentis",
+        "nm": 222584,
+        "roles": [
+          {
+            "char": "Bennie Primo"
+          }
+        ]
+      },
+      {
+        "name": "Eddie J. Fernandez",
+        "nm": 272961,
+        "roles": [
+          {
+            "char": "Stickup Man #2",
+            "ch": 109805,
+            "as Ed Fernandez": true
+          }
+        ]
+      },
+      {
+        "name": "Linda Fetters",
+        "nm": 275354,
+        "roles": [
+          {
+            "char": "Hostage Woman"
+          }
+        ]
+      },
+      {
+        "name": "Danny Goldring",
+        "nm": 325975,
+        "roles": [
+          {
+            "char": "Homicide detective",
+            "as Dan Goldring": true
+          }
+        ]
+      },
+      {
+        "name": "Sam Keahna",
+        "nm": 1654974,
+        "roles": [
+          {
+            "char": "Indian at Bar"
+          }
+        ]
+      },
+      {
+        "name": "Stacy Logan",
+        "nm": 517658,
+        "roles": [
+          {
+            "char": "Hostage Husband"
+          }
+        ]
+      },
+      {
+        "name": "Sammy Louis",
+        "nm": 521910,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Kim Milford",
+        "nm": 587335,
+        "roles": [
+          {
+            "char": "Babe Petro"
+          }
+        ]
+      },
+      {
+        "name": "Tony Mockus Jr.",
+        "nm": 595165,
+        "roles": [
+          {
+            "char": "Bailiff"
+          }
+        ]
+      },
+      {
+        "name": "Amy Morton",
+        "nm": 607920,
+        "roles": [
+          {
+            "char": "Pregant Girl"
+          }
+        ]
+      },
+      {
+        "name": "Nick Nickeas",
+        "nm": 629973,
+        "roles": [
+          {
+            "char": "Stickup Man #1",
+            "ch": 109805,
+            "as Mick Nickeas": true
+          }
+        ]
+      },
+      {
+        "name": "James O'Reilly",
+        "nm": 642452,
+        "roles": [
+          {
+            "char": "Tom O'Donnell"
+          }
+        ]
+      },
+      {
+        "name": "Michael Rooker",
+        "nm": 740264,
+        "roles": [
+          {
+            "char": "Lieutenant",
+            "ch": 109807
+          }
+        ]
+      },
+      {
+        "name": "Larry Sellers",
+        "nm": 783353,
+        "roles": [
+          {
+            "char": "Indian 'Billy Running Bird'"
+          }
+        ]
+      },
+      {
+        "name": "Mary Seibel",
+        "nm": 782282,
+        "roles": [
+          {
+            "char": "Anna O'Donnell",
+            "as Mary Siebel": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Trigg",
+        "nm": 1675548,
+        "roles": [
+          {
+            "char": "Officer #2"
+          }
+        ]
+      },
+      {
+        "name": "Jim True-Frost",
+        "nm": 874082,
+        "roles": [
+          {
+            "char": "Jo Jo Sweeney",
+            "as Jim True": true
+          }
+        ]
+      },
+      {
+        "name": "Victor Raider-Wexler",
+        "nm": 706838,
+        "roles": [
+          {
+            "char": "Mr. Levin",
+            "ch": 150342,
+            "as Victor Raider Wexler": true
+          }
+        ]
+      },
+      {
+        "name": "Will Zahrn",
+        "nm": 952040,
+        "roles": [
+          {
+            "char": "Cernak"
+          }
+        ]
+      },
+      {
+        "name": "David John Adamson",
+        "nm": 1668114,
+        "roles": [
+          {
+            "char": "Punk",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Stephen Burrows",
+        "nm": 123299,
+        "roles": [
+          {
+            "char": "Punk",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Roger Cudney",
+        "nm": 191053,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tom Everett",
+        "nm": 263577,
+        "roles": [
+          {
+            "char": "Rothstein",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Matthew S. Harrison",
+        "nm": 1711732,
+        "roles": [
+          {
+            "char": "Waiter",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Loren Haynes",
+        "nm": 371128,
+        "roles": [
+          {
+            "char": "Agent",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Nemeroff",
+        "nm": 625892,
+        "roles": [
+          {
+            "char": "Breitel's Assistant",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jeanette Schwaba",
+        "nm": 777018,
+        "roles": [
+          {
+            "char": "Girlfriend",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Scott",
+        "nm": 2157090,
+        "roles": [
+          {
+            "char": "Girl on Car",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Ray Sharkey",
+        "nm": 788829,
+        "roles": [
+          {
+            "char": "Breitel",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Mark Tuggle",
+        "nm": 876226,
+        "roles": [
+          {
+            "char": "Jazz Club Patron",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Final Transmission",
+    "tt": 550438,
+    "air_date": "1986-09-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Det. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as Bill Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "John Snyder",
+        "nm": 118612,
+        "roles": [
+          {
+            "char": "Pernell"
+          }
+        ]
+      },
+      {
+        "name": "Patti D'Arbanville",
+        "nm": 1091,
+        "roles": [
+          {
+            "char": "Eve Vollesky",
+            "as Patty D'Arbanville": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Ron Dean",
+        "nm": 212939,
+        "roles": [
+          {
+            "char": "Chief Kramer",
+            "ch": 146157
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798
+          }
+        ]
+      },
+      {
+        "name": "Mark Hutter",
+        "nm": 404579,
+        "roles": [
+          {
+            "char": "Ted Kehoe",
+            "ch": 78100
+          }
+        ]
+      },
+      {
+        "name": "Tom Allen",
+        "nm": 21118,
+        "roles": [
+          {
+            "char": "Chuck Slebel"
+          }
+        ]
+      },
+      {
+        "name": "David Gould",
+        "nm": 332349,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Joyce Hazard",
+        "nm": 371905,
+        "roles": [
+          {
+            "char": "Beautician"
+          }
+        ]
+      },
+      {
+        "name": "Jane Heitz",
+        "nm": 374768,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Michael Kemmerling",
+        "nm": 447229,
+        "roles": [
+          {
+            "char": "Dusty Noonan"
+          }
+        ]
+      },
+      {
+        "name": "Gy Mirano",
+        "nm": 592247,
+        "roles": [
+          {
+            "char": "Prostitute"
+          }
+        ]
+      },
+      {
+        "name": "John Mohrlein",
+        "nm": 596094,
+        "roles": [
+          {
+            "char": "Brodski"
+          }
+        ]
+      },
+      {
+        "name": "Sam Sanders",
+        "nm": 761705,
+        "roles": [
+          {
+            "char": "Bum"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Mia Williams",
+        "nm": 3496883,
+        "roles": [
+          {
+            "char": "Brunette"
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Shadow Dancer",
+    "tt": 550424,
+    "air_date": "1986-09-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Det. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658
+          }
+        ]
+      },
+      {
+        "name": "Patricia Charbonneau",
+        "nm": 1997,
+        "roles": [
+          {
+            "char": "Inger Thorson"
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Denis Arndt",
+        "nm": 36127,
+        "roles": [
+          {
+            "char": "Mr. Novak",
+            "ch": 109799,
+            "as Dennis Arndt": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Mike Hagerty",
+        "nm": 2235,
+        "roles": [
+          {
+            "char": "Furniture Salesman",
+            "as Mike Haggerty": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Kemmerling",
+        "nm": 447229,
+        "roles": [
+          {
+            "char": "Dusty Noonan"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mueller",
+        "nm": 611020,
+        "roles": [
+          {
+            "char": "Bodyguard"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Scheiber",
+        "nm": 2214046,
+        "roles": [
+          {
+            "char": "Mrs. Novak",
+            "as Nancy Schieber": true
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "St. Louis Book of Blues",
+    "tt": 550445,
+    "air_date": "1986-09-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Det. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658
+          }
+        ]
+      },
+      {
+        "name": "Patricia Charbonneau",
+        "nm": 1997,
+        "roles": [
+          {
+            "char": "Inger Thorson"
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Michael Madsen",
+        "nm": 514,
+        "roles": [
+          {
+            "char": "Johnny Fosse",
+            "ch": 70377
+          }
+        ]
+      },
+      {
+        "name": "Raymond Serra",
+        "nm": 785435,
+        "roles": [
+          {
+            "char": "Noah Ganz",
+            "ch": 133699
+          }
+        ]
+      },
+      {
+        "name": "Allen Swift",
+        "nm": 842563,
+        "roles": [
+          {
+            "char": "Hartman"
+          }
+        ]
+      },
+      {
+        "name": "Denis Arndt",
+        "nm": 36127,
+        "roles": [
+          {
+            "char": "Mr. Novak",
+            "ch": 109799,
+            "as Dennis Arndt": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798
+          }
+        ]
+      },
+      {
+        "name": "Mike Hagerty",
+        "nm": 2235,
+        "roles": [
+          {
+            "char": "Schaffel",
+            "as Michael Hagerty": true
+          }
+        ]
+      },
+      {
+        "name": "Tim Halligan",
+        "nm": 356619,
+        "roles": [
+          {
+            "char": "FBI Agent Stanton",
+            "ch": 104273
+          }
+        ]
+      },
+      {
+        "name": "Gary Houston",
+        "nm": 396828,
+        "roles": [
+          {
+            "char": "Deputy #2"
+          }
+        ]
+      },
+      {
+        "name": "Tony Judge",
+        "nm": 431929,
+        "roles": [
+          {
+            "char": "Sheriff Bill Grady"
+          }
+        ]
+      },
+      {
+        "name": "David McConnell",
+        "nm": 566263,
+        "roles": [
+          {
+            "char": "Hutchins"
+          }
+        ]
+      },
+      {
+        "name": "John Mueller",
+        "nm": 611066,
+        "roles": [
+          {
+            "char": "Deputy #1"
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Gary Olsen",
+        "nm": 647653,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "The War",
+    "tt": 550453,
+    "air_date": "1986-10-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Det. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Johann Carlo",
+        "nm": 137681,
+        "roles": [
+          {
+            "char": "Cori Luca"
+          }
+        ]
+      },
+      {
+        "name": "Michael Madsen",
+        "nm": 514,
+        "roles": [
+          {
+            "char": "Johnny Fosse",
+            "ch": 70377
+          }
+        ]
+      },
+      {
+        "name": "Martin Ferrero",
+        "nm": 274684,
+        "roles": [
+          {
+            "char": "Ignacio",
+            "ch": 225527
+          }
+        ]
+      },
+      {
+        "name": "Raymond Serra",
+        "nm": 785435,
+        "roles": [
+          {
+            "char": "Noah Ganz",
+            "ch": 133699
+          }
+        ]
+      },
+      {
+        "name": "John Bentley",
+        "nm": 1631513,
+        "roles": [
+          {
+            "char": "Lloyd McManus"
+          }
+        ]
+      },
+      {
+        "name": "Miles Davis",
+        "nm": 2537,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798
+          }
+        ]
+      },
+      {
+        "name": "Dawn Arnemann",
+        "nm": 36203,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Edward Blatchford",
+        "nm": 87801,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "James 'Ike' Eichling",
+        "nm": 251566,
+        "roles": [
+          {
+            "char": "Driver #1",
+            "as James Eichling": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Lincoln",
+        "nm": 511140,
+        "roles": [
+          {
+            "char": "Executive #2"
+          }
+        ]
+      },
+      {
+        "name": "Francine Locke",
+        "nm": 516738,
+        "roles": [
+          {
+            "char": "Neighbor"
+          }
+        ]
+      },
+      {
+        "name": "Charles Mueller",
+        "nm": 611020,
+        "roles": [
+          {
+            "char": "Bodyguard"
+          }
+        ]
+      },
+      {
+        "name": "David Reynolds",
+        "nm": 721675,
+        "roles": [
+          {
+            "char": "Driver #2",
+            "as Dave Reynolds": true
+          }
+        ]
+      },
+      {
+        "name": "David Studwell",
+        "nm": 2200690,
+        "roles": [
+          {
+            "char": "Dispatcher"
+          }
+        ]
+      },
+      {
+        "name": "Darryl Warren",
+        "nm": 912788,
+        "roles": [
+          {
+            "char": "Executive #1"
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Gary Olsen",
+        "nm": 647653,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Abrams for the Defense",
+    "tt": 550455,
+    "air_date": "1986-10-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Det. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Johann Carlo",
+        "nm": 137681,
+        "roles": [
+          {
+            "char": "Cori Luca"
+          }
+        ]
+      },
+      {
+        "name": "Pam Grier",
+        "nm": 427,
+        "roles": [
+          {
+            "char": "Suzanne Terry"
+          }
+        ]
+      },
+      {
+        "name": "Ving Rhames",
+        "nm": 609,
+        "roles": [
+          {
+            "char": "Hector Lincoln"
+          }
+        ]
+      },
+      {
+        "name": "Kim Staunton",
+        "nm": 823940,
+        "roles": [
+          {
+            "char": "Mrs. Lincoln"
+          }
+        ]
+      },
+      {
+        "name": "Thomas G. Waites",
+        "nm": 906640,
+        "roles": [
+          {
+            "char": "Prosecutor"
+          }
+        ]
+      },
+      {
+        "name": "Ned Eisenberg",
+        "nm": 251999,
+        "roles": [
+          {
+            "char": "Dr. Eisenberg"
+          }
+        ]
+      },
+      {
+        "name": "Frederick Neumann",
+        "nm": 627046,
+        "roles": [
+          {
+            "char": "Sturkowski",
+            "as Fredrick Neuman": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Peter Allas",
+        "nm": 20122,
+        "roles": [
+          {
+            "char": "Schwarz"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Arancio",
+        "nm": 32978,
+        "roles": [
+          {
+            "char": "Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Linda Bright Clay",
+        "nm": 109161,
+        "roles": [
+          {
+            "char": "Mother",
+            "as Linda Bright": true
+          }
+        ]
+      },
+      {
+        "name": "Marc Grapey",
+        "nm": 335789,
+        "roles": [
+          {
+            "char": "Patrolman"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Gudahl",
+        "nm": 345599,
+        "roles": [
+          {
+            "char": "Al Merritt"
+          }
+        ]
+      },
+      {
+        "name": "Joe Guastaferro",
+        "nm": 345465,
+        "roles": [
+          {
+            "char": "Bailiff",
+            "as Joe Gustaferro": true
+          }
+        ]
+      },
+      {
+        "name": "Darris Kelly",
+        "nm": 3557791,
+        "roles": [
+          {
+            "char": "Leon Lincoln"
+          }
+        ]
+      },
+      {
+        "name": "Durward MacDonald",
+        "nm": 2697214,
+        "roles": [
+          {
+            "char": "Judge",
+            "as Durward McDonald": true
+          }
+        ]
+      },
+      {
+        "name": "Avery Sommers",
+        "nm": 814050,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Charles Mueller",
+        "nm": 611020,
+        "roles": [
+          {
+            "char": "Bodyguard",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Pursuit of a Wanted Felon",
+    "tt": 550414,
+    "air_date": "1986-10-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Det. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658
+          }
+        ]
+      },
+      {
+        "name": "Patricia Charbonneau",
+        "nm": 1997,
+        "roles": [
+          {
+            "char": "Inger Thorson"
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Pam Grier",
+        "nm": 427,
+        "roles": [
+          {
+            "char": "Suzanne Terry"
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Ron Dean",
+        "nm": 212939,
+        "roles": [
+          {
+            "char": "Chief Kramer",
+            "ch": 146157
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798
+          }
+        ]
+      },
+      {
+        "name": "Mark Hutter",
+        "nm": 404579,
+        "roles": [
+          {
+            "char": "Ted Kehoe",
+            "ch": 78100
+          }
+        ]
+      },
+      {
+        "name": "P.J. Brown",
+        "nm": 114382,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Crowley",
+        "nm": 189755,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Davids",
+        "nm": 3551265,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Matt DeCaro",
+        "nm": 213664,
+        "roles": [
+          {
+            "char": "Steadman",
+            "as Matt De Caro": true
+          }
+        ]
+      },
+      {
+        "name": "Sam Derence",
+        "nm": 220308,
+        "roles": [
+          {
+            "char": "Salesman"
+          }
+        ]
+      },
+      {
+        "name": "Chick Gerken",
+        "nm": 1666917,
+        "roles": [
+          {
+            "char": "Older Man",
+            "as Chick Gerkin": true
+          }
+        ]
+      },
+      {
+        "name": "Kevin Gudahl",
+        "nm": 345599,
+        "roles": [
+          {
+            "char": "Al Merritt"
+          }
+        ]
+      },
+      {
+        "name": "Rick Hall",
+        "nm": 356034,
+        "roles": [
+          {
+            "char": "Desk Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Tim Halligan",
+        "nm": 356619,
+        "roles": [
+          {
+            "char": "FBI Agent Stanton",
+            "ch": 104273
+          }
+        ]
+      },
+      {
+        "name": "Scott McClelland",
+        "nm": 1055841,
+        "roles": [
+          {
+            "char": "Mullen"
+          }
+        ]
+      },
+      {
+        "name": "Jeanette Schwaba",
+        "nm": 777018,
+        "roles": [
+          {
+            "char": "Girlfriend"
+          }
+        ]
+      },
+      {
+        "name": "Charles Schneider",
+        "nm": 773741,
+        "roles": [
+          {
+            "char": "Valet"
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Old Friends, Dead Ends",
+    "tt": 550441,
+    "air_date": "1986-11-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658
+          }
+        ]
+      },
+      {
+        "name": "Patricia Charbonneau",
+        "nm": 1997,
+        "roles": [
+          {
+            "char": "Inger Thorson"
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Johann Carlo",
+        "nm": 137681,
+        "roles": [
+          {
+            "char": "Cori Luca"
+          }
+        ]
+      },
+      {
+        "name": "Ray Sharkey",
+        "nm": 788829,
+        "roles": [
+          {
+            "char": "U.S. Atty. Harry Breitel",
+            "ch": 109801
+          }
+        ]
+      },
+      {
+        "name": "Eric Bogosian",
+        "nm": 91899,
+        "roles": [
+          {
+            "char": "Dee",
+            "ch": 109804
+          }
+        ]
+      },
+      {
+        "name": "Christian Slater",
+        "nm": 225,
+        "roles": [
+          {
+            "char": "Teen Boy"
+          }
+        ]
+      },
+      {
+        "name": "Kim Walker",
+        "nm": 907947,
+        "roles": [
+          {
+            "char": "Teen Girl"
+          }
+        ]
+      },
+      {
+        "name": "Dana Wheeler-Nicholson",
+        "nm": 923984,
+        "roles": [
+          {
+            "char": "Marilyn Stewart",
+            "as Dana Wheeler Nicholson": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Mark Hutter",
+        "nm": 404579,
+        "roles": [
+          {
+            "char": "Ted Kehoe",
+            "ch": 78100
+          }
+        ]
+      },
+      {
+        "name": "William Dick",
+        "nm": 225298,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Hall",
+        "nm": 355424,
+        "roles": [
+          {
+            "char": "Messenger"
+          }
+        ]
+      },
+      {
+        "name": "Tim Halligan",
+        "nm": 356619,
+        "roles": [
+          {
+            "char": "Stanton",
+            "ch": 104273
+          }
+        ]
+      },
+      {
+        "name": "Pam Harden",
+        "nm": 3554482,
+        "roles": [
+          {
+            "char": "Breitel's Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lindner",
+        "nm": 3554236,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "John Mohrlein",
+        "nm": 596094,
+        "roles": [
+          {
+            "char": "Brodski"
+          }
+        ]
+      },
+      {
+        "name": "Maria Tirabassi",
+        "nm": 864192,
+        "roles": [
+          {
+            "char": "Factory Worker"
+          }
+        ]
+      },
+      {
+        "name": "Pam Grier",
+        "nm": 427,
+        "roles": [
+          {
+            "char": "Suzanne Terry"
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Justice Hits the Skids",
+    "tt": 550429,
+    "air_date": "1986-11-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658
+          }
+        ]
+      },
+      {
+        "name": "Patricia Charbonneau",
+        "nm": 1997,
+        "roles": [
+          {
+            "char": "Inger Thorson"
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Pam Grier",
+        "nm": 427,
+        "roles": [
+          {
+            "char": "Suzanne Terry"
+          }
+        ]
+      },
+      {
+        "name": "John Canada Terrell",
+        "nm": 855825,
+        "roles": [
+          {
+            "char": "Sweet Haywood"
+          }
+        ]
+      },
+      {
+        "name": "Tonya Pinkins",
+        "nm": 684371,
+        "roles": [
+          {
+            "char": "Junkie Prostitute"
+          }
+        ]
+      },
+      {
+        "name": "Ray Sharkey",
+        "nm": 788829,
+        "roles": [
+          {
+            "char": "U.S. Atty. Harry Breitel",
+            "ch": 109801
+          }
+        ]
+      },
+      {
+        "name": "Ron Dean",
+        "nm": 212939,
+        "roles": [
+          {
+            "char": "Chief Kramer",
+            "ch": 146157
+          }
+        ]
+      },
+      {
+        "name": "Harvey Blanks",
+        "nm": 2217818,
+        "roles": [
+          {
+            "char": "Black Man"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Council",
+        "nm": 3824238,
+        "roles": [
+          {
+            "char": "Clementine"
+          }
+        ]
+      },
+      {
+        "name": "Dan Flannery",
+        "nm": 281200,
+        "roles": [
+          {
+            "char": "Maitre'd"
+          }
+        ]
+      },
+      {
+        "name": "Ray Frewen",
+        "nm": 2242316,
+        "roles": [
+          {
+            "char": "Priest"
+          }
+        ]
+      },
+      {
+        "name": "Dean Hill",
+        "nm": 384181,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "John Marshall Jones",
+        "nm": 428426,
+        "roles": [
+          {
+            "char": "Prisoner L. Vee Rachmone",
+            "as J.J. Jones": true
+          }
+        ]
+      },
+      {
+        "name": "Charles Mueller",
+        "nm": 611020,
+        "roles": [
+          {
+            "char": "Frank"
+          }
+        ]
+      },
+      {
+        "name": "Peter Siragusa",
+        "nm": 802742,
+        "roles": [
+          {
+            "char": "Restaurant Patron"
+          }
+        ]
+      },
+      {
+        "name": "John Weeks",
+        "nm": 2294868,
+        "roles": [
+          {
+            "char": "Dry Cleaners Worker"
+          }
+        ]
+      },
+      {
+        "name": "Jodi Wright",
+        "nm": 3825540,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "For Love or Money",
+    "tt": 550425,
+    "air_date": "1986-12-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Gary Sinise",
+        "nm": 641,
+        "roles": [
+          {
+            "char": "Howie Dressler",
+            "ch": 109803
+          }
+        ]
+      },
+      {
+        "name": "Mady Kaplan",
+        "nm": 438306,
+        "roles": [
+          {
+            "char": "Mayor's Wife"
+          }
+        ]
+      },
+      {
+        "name": "Richard Edson",
+        "nm": 2057,
+        "roles": [
+          {
+            "char": "Jake Rennick"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Baron",
+        "nm": 56310,
+        "roles": [
+          {
+            "char": "Old Man being robbed"
+          }
+        ]
+      },
+      {
+        "name": "Moira Sinise",
+        "nm": 365128,
+        "roles": [
+          {
+            "char": "Dressler's Wife",
+            "as Moira Harris": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Ron Dean",
+        "nm": 212939,
+        "roles": [
+          {
+            "char": "Chief Kramer",
+            "ch": 146157
+          }
+        ]
+      },
+      {
+        "name": "Tom Irwin",
+        "nm": 410464,
+        "roles": [
+          {
+            "char": "Mayor Billy Haynes"
+          }
+        ]
+      },
+      {
+        "name": "Danny Goldring",
+        "nm": 325975,
+        "roles": [
+          {
+            "char": "Detective",
+            "as Dan Goldring": true
+          }
+        ]
+      },
+      {
+        "name": "Peri Kaczmarek",
+        "nm": 434229,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Jinx Titanic",
+        "nm": 2169454,
+        "roles": [
+          {
+            "char": "Customer",
+            "as John Kamys": true
+          }
+        ]
+      },
+      {
+        "name": "Jack Kandel",
+        "nm": 437193,
+        "roles": [
+          {
+            "char": "Driver"
+          }
+        ]
+      },
+      {
+        "name": "Michael Krawic",
+        "nm": 470462,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Louie Lanciloti",
+        "nm": 484289,
+        "roles": [
+          {
+            "char": "Salesman"
+          }
+        ]
+      },
+      {
+        "name": "John Mohrlein",
+        "nm": 596094,
+        "roles": [
+          {
+            "char": "Dr. Brodski",
+            "as John Morhlein": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Nowak",
+        "nm": 1546427,
+        "roles": [
+          {
+            "char": "Gravetti"
+          }
+        ]
+      },
+      {
+        "name": "Colleen O'Hara",
+        "nm": 641237,
+        "roles": [
+          {
+            "char": "Emma Rennick",
+            "as Colleen M. O'Hara": true
+          }
+        ]
+      },
+      {
+        "name": "Hollis Resnik",
+        "nm": 720346,
+        "roles": [
+          {
+            "char": "Lillie"
+          }
+        ]
+      },
+      {
+        "name": "Vince Viverito",
+        "nm": 900274,
+        "roles": [
+          {
+            "char": "Chief Ron Fallows"
+          }
+        ]
+      },
+      {
+        "name": "Ducha",
+        "nm": 3830051,
+        "roles": [
+          {
+            "char": "The Police Dog"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Crime Pays",
+    "tt": 550420,
+    "air_date": "1986-12-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964,
+            "also archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "also archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208,
+            "also archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "also archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207,
+            "also archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210,
+            "also archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203,
+            "also archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Johann Carlo",
+        "nm": 137681,
+        "roles": [
+          {
+            "char": "Cori Luca",
+            "also archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Maury Chaykin",
+        "nm": 1999,
+        "roles": [
+          {
+            "char": "Steven Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "David Caruso",
+        "nm": 325,
+        "roles": [
+          {
+            "char": "Johnny O'Donnell",
+            "ch": 78099,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798,
+            "also archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Mark Hutter",
+        "nm": 404579,
+        "roles": [
+          {
+            "char": "Ted Kehoe",
+            "ch": 78100,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Fred Savage",
+        "nm": 625,
+        "roles": [
+          {
+            "char": "Luca's Son"
+          }
+        ]
+      },
+      {
+        "name": "Joe DeBartolo",
+        "nm": 3869087,
+        "roles": [
+          {
+            "char": "Mob Boss"
+          }
+        ]
+      },
+      {
+        "name": "Ray Sharkey",
+        "nm": 788829,
+        "roles": [
+          {
+            "char": "U.S. Atty. Harry Breitel",
+            "ch": 109801,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Eddie J. Fernandez",
+        "nm": 272961,
+        "roles": [
+          {
+            "char": "Stickup Man #2",
+            "ch": 109805,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Madsen",
+        "nm": 514,
+        "roles": [
+          {
+            "char": "Johnny Fosse",
+            "ch": 70377,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Turk Muller",
+        "nm": 612251,
+        "roles": [
+          {
+            "char": "Turk",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Nick Nickeas",
+        "nm": 629973,
+        "roles": [
+          {
+            "char": "Stickup Man #1",
+            "ch": 109805,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "James O'Reilly",
+        "nm": 642452,
+        "roles": [
+          {
+            "char": "Tom O'Donnell",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Rooker",
+        "nm": 740264,
+        "roles": [
+          {
+            "char": "Lieutenant",
+            "ch": 109807,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "William Russ",
+        "nm": 750916,
+        "roles": [
+          {
+            "char": "Det. Wes Connelly",
+            "ch": 65081,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Mary Seibel",
+        "nm": 782282,
+        "roles": [
+          {
+            "char": "Anna O'Donnell",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Raymond Serra",
+        "nm": 785435,
+        "roles": [
+          {
+            "char": "Noah Ganz",
+            "ch": 133699,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Gary Sinise",
+        "nm": 641,
+        "roles": [
+          {
+            "char": "Howie Dressler",
+            "ch": 109803,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Allen Swift",
+        "nm": 842563,
+        "roles": [
+          {
+            "char": "Hartman",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Dana Wheeler-Nicholson",
+        "nm": 923984,
+        "roles": [
+          {
+            "char": "Marilyn Stewart",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Hide and Go Thief",
+    "tt": 550428,
+    "air_date": "1986-12-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "Ray Sharkey",
+        "nm": 788829,
+        "roles": [
+          {
+            "char": "U.S. Atty. Harry Breitel",
+            "ch": 109801
+          }
+        ]
+      },
+      {
+        "name": "Richard Backus",
+        "nm": 45741,
+        "roles": [
+          {
+            "char": "Las Vegas Officer"
+          }
+        ]
+      },
+      {
+        "name": "Lorraine Bracco",
+        "nm": 966,
+        "roles": [
+          {
+            "char": "Hostage"
+          }
+        ]
+      },
+      {
+        "name": "Paul Guilfoyle",
+        "nm": 2117,
+        "roles": [
+          {
+            "char": "Deranged Gunman"
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Ron Dean",
+        "nm": 212939,
+        "roles": [
+          {
+            "char": "Chief Kramer",
+            "ch": 146157
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798
+          }
+        ]
+      },
+      {
+        "name": "Greg Brickman",
+        "nm": 108606,
+        "roles": [
+          {
+            "char": "Strobel"
+          }
+        ]
+      },
+      {
+        "name": "Tim Halligan",
+        "nm": 356619,
+        "roles": [
+          {
+            "char": "FBI Agent Stanton",
+            "ch": 104273
+          }
+        ]
+      },
+      {
+        "name": "Mike Malone",
+        "nm": 1390517,
+        "roles": [
+          {
+            "char": "Detective #2"
+          }
+        ]
+      },
+      {
+        "name": "Nick Nickeas",
+        "nm": 629973,
+        "roles": [
+          {
+            "char": "Detective"
+          }
+        ]
+      },
+      {
+        "name": "Steve Pink",
+        "nm": 684336,
+        "roles": [
+          {
+            "char": "Cook"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Pleasant",
+        "nm": 1932860,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Richard Rorbach",
+        "nm": 740704,
+        "roles": [
+          {
+            "char": "Moe Riesler"
+          }
+        ]
+      },
+      {
+        "name": "Fred Stone",
+        "nm": 831875,
+        "roles": [
+          {
+            "char": "Wolcott"
+          }
+        ]
+      },
+      {
+        "name": "Michael Stoyanov",
+        "nm": 832989,
+        "roles": [
+          {
+            "char": "Attendant"
+          }
+        ]
+      },
+      {
+        "name": "Lili Taylor",
+        "nm": 666,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Kay Whipple",
+        "nm": 924193,
+        "roles": [
+          {
+            "char": "Young Mother"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Strange Bedfellows",
+    "tt": 550447,
+    "air_date": "1986-12-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony John Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Johann Carlo",
+        "nm": 137681,
+        "roles": [
+          {
+            "char": "Cori Luca"
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Ray Sharkey",
+        "nm": 788829,
+        "roles": [
+          {
+            "char": "U.S. Atty. Harry Breitel",
+            "ch": 109801
+          }
+        ]
+      },
+      {
+        "name": "Ron Dean",
+        "nm": 212939,
+        "roles": [
+          {
+            "char": "Chief Kramer",
+            "ch": 146157
+          }
+        ]
+      },
+      {
+        "name": "Joseph Ragno",
+        "nm": 706554,
+        "roles": [
+          {
+            "char": "Dominic Tranchita"
+          }
+        ]
+      },
+      {
+        "name": "John Vickery",
+        "nm": 896043,
+        "roles": [
+          {
+            "char": "Everett Steele"
+          }
+        ]
+      },
+      {
+        "name": "Denis Arndt",
+        "nm": 36127,
+        "roles": [
+          {
+            "char": "Al Novak"
+          }
+        ]
+      },
+      {
+        "name": "Tony Mockus Jr.",
+        "nm": 595165,
+        "roles": [
+          {
+            "char": "Hubbard",
+            "as Anthony Mockus Jr.": true
+          }
+        ]
+      },
+      {
+        "name": "Ray Bradford",
+        "nm": 103068,
+        "roles": [
+          {
+            "char": "Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Pam Harden",
+        "nm": 3554482,
+        "roles": [
+          {
+            "char": "Pam"
+          }
+        ]
+      },
+      {
+        "name": "Turk Muller",
+        "nm": 612251,
+        "roles": [
+          {
+            "char": "Turk",
+            "as Terry Muller": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Fatal Crossroads",
+    "tt": 550422,
+    "air_date": "1987-01-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony John Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Patricia Charbonneau",
+        "nm": 1997,
+        "roles": [
+          {
+            "char": "Inger Thorson"
+          }
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "Randall Arney",
+        "nm": 36269,
+        "roles": [
+          {
+            "char": "Drew Belzer",
+            "ch": 294139
+          }
+        ]
+      },
+      {
+        "name": "David Boylan",
+        "nm": 102158,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Saralynne Crittenden",
+        "nm": 188247,
+        "roles": [
+          {
+            "char": "Apartment Manager"
+          }
+        ]
+      },
+      {
+        "name": "Nathan Davis",
+        "nm": 205213,
+        "roles": [
+          {
+            "char": "Izzy 'The Dancer' Abrams",
+            "as Nate Davis": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Greco",
+        "nm": 337468,
+        "roles": [
+          {
+            "char": "Judge Archibald Flynn",
+            "ch": 258867
+          }
+        ]
+      },
+      {
+        "name": "Francis Guinan",
+        "nm": 347341,
+        "roles": [
+          {
+            "char": "Bruce Walsh"
+          }
+        ]
+      },
+      {
+        "name": "Michael Krawic",
+        "nm": 470462,
+        "roles": [
+          {
+            "char": "Barto the Bartender",
+            "ch": 258868
+          }
+        ]
+      },
+      {
+        "name": "Jodie Markell",
+        "nm": 548346,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Turk Muller",
+        "nm": 612251,
+        "roles": [
+          {
+            "char": "Turk",
+            "as Terry Muller": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Nemeroff",
+        "nm": 625892,
+        "roles": [
+          {
+            "char": "Asst. U.S. Atty. Carlson"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Ragno",
+        "nm": 706554,
+        "roles": [
+          {
+            "char": "Dominic Tranchita"
+          }
+        ]
+      },
+      {
+        "name": "Ray Sharkey",
+        "nm": 788829,
+        "roles": [
+          {
+            "char": "U.S. Atty. Harry Breitel",
+            "ch": 109801
+          }
+        ]
+      },
+      {
+        "name": "Rick Snyder",
+        "nm": 811541,
+        "roles": [
+          {
+            "char": "Subpoena Server"
+          }
+        ]
+      },
+      {
+        "name": "John Vickery",
+        "nm": 896043,
+        "roles": [
+          {
+            "char": "Everett Steele"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Torello on Trial",
+    "tt": 550457,
+    "air_date": "1987-01-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony John Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Denis Arndt",
+        "nm": 36127,
+        "roles": [
+          {
+            "char": "Mr. Novak",
+            "ch": 109799,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Randall Arney",
+        "nm": 36269,
+        "roles": [
+          {
+            "char": "Drew Belzer",
+            "ch": 294139
+          }
+        ]
+      },
+      {
+        "name": "David Boylan",
+        "nm": 102158,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Nathan Davis",
+        "nm": 205213,
+        "roles": [
+          {
+            "char": "Izzy 'The Dancer' Abrams",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Ron Dean",
+        "nm": 212939,
+        "roles": [
+          {
+            "char": "Chief Kramer",
+            "ch": 146157
+          }
+        ]
+      },
+      {
+        "name": "Richard Goteri",
+        "nm": 331772,
+        "roles": [
+          {
+            "char": "Court Officer"
+          }
+        ]
+      },
+      {
+        "name": "Joe Greco",
+        "nm": 337468,
+        "roles": [
+          {
+            "char": "Judge Archibald Flynn",
+            "ch": 258867
+          }
+        ]
+      },
+      {
+        "name": "Tim Halligan",
+        "nm": 356619,
+        "roles": [
+          {
+            "char": "FBI Agent Stanton",
+            "ch": 104273
+          }
+        ]
+      },
+      {
+        "name": "Mark Hutter",
+        "nm": 404579,
+        "roles": [
+          {
+            "char": "Ted Kehoe",
+            "ch": 78100,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Kemmerling",
+        "nm": 447229,
+        "roles": [
+          {
+            "char": "Dusty Noonan",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Krawic",
+        "nm": 470462,
+        "roles": [
+          {
+            "char": "Barto the Bartender",
+            "ch": 258868
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Turk Muller",
+        "nm": 612251,
+        "roles": [
+          {
+            "char": "Turk",
+            "as Terry Muller": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Nemeroff",
+        "nm": 625892,
+        "roles": [
+          {
+            "char": "Asst. U.S. Atty. Carlson"
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Joseph Ragno",
+        "nm": 706554,
+        "roles": [
+          {
+            "char": "Dominic Tranchita"
+          }
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Mik Scriba",
+        "nm": 780102,
+        "roles": [
+          {
+            "char": "Marshall"
+          }
+        ]
+      },
+      {
+        "name": "Ray Sharkey",
+        "nm": 788829,
+        "roles": [
+          {
+            "char": "U.S. Atty. Harry Breitel",
+            "ch": 109801
+          }
+        ]
+      },
+      {
+        "name": "John Vickery",
+        "nm": 896043,
+        "roles": [
+          {
+            "char": "Everett Steele"
+          }
+        ]
+      },
+      {
+        "name": "Jann Wenner",
+        "nm": 921048,
+        "roles": [
+          {
+            "char": "Patrick Hallahan"
+          }
+        ]
+      },
+      {
+        "name": "Lee Wessof",
+        "nm": 921873,
+        "roles": [
+          {
+            "char": "Head of Family"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "The Kingdom of Money",
+    "tt": 550450,
+    "air_date": "1987-01-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Graham Beckel",
+        "nm": 65320,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jane Brucker",
+        "nm": 115663,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Johann Carlo",
+        "nm": 137681,
+        "roles": [
+          {
+            "char": "Cori Luca"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798,
+            "as Andrew Clay": true
+          }
+        ]
+      },
+      {
+        "name": "William Converse-Roberts",
+        "nm": 176599,
+        "roles": [
+          {
+            "char": "Steve Altman",
+            "ch": 144610
+          }
+        ]
+      },
+      {
+        "name": "Steve Falk",
+        "nm": 266199,
+        "roles": [
+          {
+            "char": "Man on Street"
+          }
+        ]
+      },
+      {
+        "name": "Debra Feuer",
+        "nm": 275391,
+        "roles": [
+          {
+            "char": "Jackie"
+          }
+        ]
+      },
+      {
+        "name": "S.A. Griffin",
+        "nm": 341354,
+        "roles": [
+          {
+            "char": "Tattoo Artist"
+          }
+        ]
+      },
+      {
+        "name": "Marty Levy",
+        "nm": 506536,
+        "roles": [
+          {
+            "char": "Pike"
+          }
+        ]
+      },
+      {
+        "name": "Ryan McWhorter",
+        "nm": 574778,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Madeleine Potter",
+        "nm": 693317,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "Mike Starr",
+        "nm": 823563,
+        "roles": [
+          {
+            "char": "Al Vicente"
+          }
+        ]
+      },
+      {
+        "name": "Ian Patrick Williams",
+        "nm": 930787,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lucien Spelman",
+        "nm": 817716,
+        "roles": [
+          {
+            "char": "Casino Patron",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "The Battle of Las Vegas",
+    "tt": 550448,
+    "air_date": "1987-02-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony John Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Dom Angelo",
+        "nm": 29666,
+        "roles": [
+          {
+            "char": "Taylor's Man #1"
+          }
+        ]
+      },
+      {
+        "name": "Frederick Coffin",
+        "nm": 168918,
+        "roles": [
+          {
+            "char": "Slim Mahoney"
+          }
+        ]
+      },
+      {
+        "name": "Frances Conroy",
+        "nm": 175814,
+        "roles": [
+          {
+            "char": "Mrs. Jankowski"
+          }
+        ]
+      },
+      {
+        "name": "William Converse-Roberts",
+        "nm": 176599,
+        "roles": [
+          {
+            "char": "Steve Altman",
+            "ch": 144610
+          }
+        ]
+      },
+      {
+        "name": "Hannah Cox",
+        "nm": 185048,
+        "roles": [
+          {
+            "char": "Lisa Altman"
+          }
+        ]
+      },
+      {
+        "name": "Ray Favero",
+        "nm": 269393,
+        "roles": [
+          {
+            "char": "Taylor's Man #2"
+          }
+        ]
+      },
+      {
+        "name": "Clarence Felder",
+        "nm": 270948,
+        "roles": [
+          {
+            "char": "Willie Stark"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Guastaferro",
+        "nm": 345466,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Anthony Heald",
+        "nm": 372217,
+        "roles": [
+          {
+            "char": "Roger Jankowski"
+          }
+        ]
+      },
+      {
+        "name": "Ron Karabatsos",
+        "nm": 438682,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Amy Morton",
+        "nm": 607920,
+        "roles": [
+          {
+            "char": "Brenda Mahoney"
+          }
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "Stanley Tucci",
+        "nm": 1804,
+        "roles": [
+          {
+            "char": "Zack Lowman"
+          }
+        ]
+      },
+      {
+        "name": "Lee Ving",
+        "nm": 898962,
+        "roles": [
+          {
+            "char": "Sam Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Bill Vint",
+        "nm": 899108,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John Michael Quinn",
+        "nm": 703894,
+        "roles": [
+          {
+            "char": "Gambler",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "The Survivor",
+    "tt": 550454,
+    "air_date": "1987-02-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony John Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "David Burton",
+        "nm": 123557,
+        "roles": [
+          {
+            "char": "Hawker",
+            "as Dave Burton": true
+          }
+        ]
+      },
+      {
+        "name": "William Converse-Roberts",
+        "nm": 176599,
+        "roles": [
+          {
+            "char": "Steve Altman",
+            "ch": 144610
+          }
+        ]
+      },
+      {
+        "name": "Hannah Cox",
+        "nm": 185048,
+        "roles": [
+          {
+            "char": "Lisa Altman"
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Jack Claymore",
+            "ch": 106622
+          }
+        ]
+      },
+      {
+        "name": "Sonia Kara",
+        "nm": 438667,
+        "roles": [
+          {
+            "char": "Bartendress"
+          }
+        ]
+      },
+      {
+        "name": "Grace Morley",
+        "nm": 605887,
+        "roles": [
+          {
+            "char": "Show Girl #1"
+          }
+        ]
+      },
+      {
+        "name": "Amy Morton",
+        "nm": 607920,
+        "roles": [
+          {
+            "char": "Brenda Mahoney"
+          }
+        ]
+      },
+      {
+        "name": "John Quade",
+        "nm": 702723,
+        "roles": [
+          {
+            "char": "Captain"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Rivas",
+        "nm": 729060,
+        "roles": [
+          {
+            "char": "Devon Wayne"
+          }
+        ]
+      },
+      {
+        "name": "Julia Roberts",
+        "nm": 210,
+        "roles": [
+          {
+            "char": "Tracy"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Michael Roth",
+        "nm": 744892,
+        "roles": [
+          {
+            "char": "Ambulance Driver"
+          }
+        ]
+      },
+      {
+        "name": "Debra Stipe",
+        "nm": 762017,
+        "roles": [
+          {
+            "char": "Joanne Goldman",
+            "as Debra Sandlund": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "The Pinnacle",
+    "tt": 550451,
+    "air_date": "1987-02-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony John Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Danny Aiello III",
+        "nm": 1900,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Blackie Dammett",
+        "nm": 198899,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "John Durbin",
+        "nm": 243948,
+        "roles": [
+          {
+            "char": "Accountant"
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Jack Claymore",
+            "ch": 106622
+          }
+        ]
+      },
+      {
+        "name": "David Levine",
+        "nm": 505787,
+        "roles": [
+          {
+            "char": "Customer"
+          }
+        ]
+      },
+      {
+        "name": "Mary Ann Pascal",
+        "nm": 664289,
+        "roles": [
+          {
+            "char": "Audrey"
+          }
+        ]
+      },
+      {
+        "name": "Deborah Rush",
+        "nm": 750658,
+        "roles": [
+          {
+            "char": "Penelope Worth"
+          }
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "Armin Shimerman",
+        "nm": 1734,
+        "roles": [
+          {
+            "char": "Treasurer"
+          }
+        ]
+      },
+      {
+        "name": "Debra Stipe",
+        "nm": 762017,
+        "roles": [
+          {
+            "char": "Joanne Goldman",
+            "as Debra Sandlund": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Stupak",
+        "nm": 1062993,
+        "roles": [
+          {
+            "char": "Pete Bauer",
+            "ch": 161830
+          }
+        ]
+      },
+      {
+        "name": "Herta Ware",
+        "nm": 912113,
+        "roles": [
+          {
+            "char": "Old Lady"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Top of the World",
+    "tt": 550456,
+    "air_date": "1987-03-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony John Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Paul Anka",
+        "nm": 1912,
+        "roles": [
+          {
+            "char": "Anthony 'Tony' Dio"
+          }
+        ]
+      },
+      {
+        "name": "Debra Christofferson",
+        "nm": 160503,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Duncan Gamble",
+        "nm": 303778,
+        "roles": [
+          {
+            "char": "Texan"
+          }
+        ]
+      },
+      {
+        "name": "Deborah Harry",
+        "nm": 1323,
+        "roles": [
+          {
+            "char": "Bambi",
+            "ch": 447365
+          }
+        ]
+      },
+      {
+        "name": "Mark Hutter",
+        "nm": 404579,
+        "roles": [
+          {
+            "char": "Ted Kehoe",
+            "ch": 78100
+          }
+        ]
+      },
+      {
+        "name": "Jocko Marcellino",
+        "nm": 545222,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Audrey Matson",
+        "nm": 559353,
+        "roles": [
+          {
+            "char": "Donna"
+          }
+        ]
+      },
+      {
+        "name": "Santos Morales",
+        "nm": 602766,
+        "roles": [
+          {
+            "char": "Poker Player"
+          }
+        ]
+      },
+      {
+        "name": "Larry Pines",
+        "nm": 684108,
+        "roles": [
+          {
+            "char": "Teamster"
+          }
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "Gary Sinise",
+        "nm": 641,
+        "roles": [
+          {
+            "char": "Howie Dressler",
+            "ch": 109803
+          }
+        ]
+      },
+      {
+        "name": "Debra Stipe",
+        "nm": 762017,
+        "roles": [
+          {
+            "char": "Joanne Goldman",
+            "as Debra Sandlund": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Wagner",
+        "nm": 906074,
+        "roles": [
+          {
+            "char": "Lieutenant",
+            "ch": 109807
+          }
+        ]
+      },
+      {
+        "name": "Dana Wheeler-Nicholson",
+        "nm": 923984,
+        "roles": [
+          {
+            "char": "Marilyn Stewart"
+          }
+        ]
+      },
+      {
+        "name": "Stefan Zema",
+        "nm": 954705,
+        "roles": [
+          {
+            "char": "Board Member"
+          }
+        ]
+      },
+      {
+        "name": "Joe 'Tippy' Zeoli",
+        "nm": 954956,
+        "roles": [
+          {
+            "char": "Maitre'd",
+            "as Joseph Zeoli": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Ground Zero",
+    "tt": 550427,
+    "air_date": "1987-03-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Johann Carlo",
+        "nm": 137681,
+        "roles": [
+          {
+            "char": "Cori Luca"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798,
+            "as Andrew Clay": true
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658
+          }
+        ]
+      },
+      {
+        "name": "Patricia Charbonneau",
+        "nm": 1997,
+        "roles": [
+          {
+            "char": "Inger Thorson"
+          }
+        ]
+      },
+      {
+        "name": "Ron Dean",
+        "nm": 212939,
+        "roles": [
+          {
+            "char": "Chief Kramer",
+            "ch": 146157
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203
+          }
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "Gerry Bamman",
+        "nm": 51482,
+        "roles": [
+          {
+            "char": "Gerry McNeeley"
+          }
+        ]
+      },
+      {
+        "name": "Sandra Beall",
+        "nm": 63701,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Reid Cruickshanks",
+        "nm": 189996,
+        "roles": [
+          {
+            "char": "Judge Criswell"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Gallo",
+        "nm": 1252,
+        "roles": [
+          {
+            "char": "Charlie Riccio"
+          }
+        ]
+      },
+      {
+        "name": "Audrey Matson",
+        "nm": 559353,
+        "roles": [
+          {
+            "char": "Donna"
+          }
+        ]
+      },
+      {
+        "name": "Charles McCaughan",
+        "nm": 565470,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mark O'Neill",
+        "nm": 642247,
+        "roles": [
+          {
+            "char": "Third Reporter"
+          }
+        ]
+      },
+      {
+        "name": "James Russo",
+        "nm": 751638,
+        "roles": [
+          {
+            "char": "Nat Martino"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Savage",
+        "nm": 767292,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John Vickery",
+        "nm": 896043,
+        "roles": [
+          {
+            "char": "Everett Steele"
+          }
+        ]
+      },
+      {
+        "name": "Craig Vincent",
+        "nm": 898609,
+        "roles": [
+          {
+            "char": "U.S. Marshal",
+            "ch": 109808
+          }
+        ]
+      },
+      {
+        "name": "Jim Williams",
+        "nm": 1084346,
+        "roles": [
+          {
+            "char": "Second Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Stefan Zema",
+        "nm": 954705,
+        "roles": [
+          {
+            "char": "Board Member"
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "The Senator, the Movie Star, and the Mob",
+    "tt": 550452,
+    "air_date": "1987-09-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Johann Carlo",
+        "nm": 137681,
+        "roles": [
+          {
+            "char": "Cori Luca"
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "Stephen McHattie",
+        "nm": 570385,
+        "roles": [
+          {
+            "char": "Carlo Mastrangelo"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Spacey",
+        "nm": 228,
+        "roles": [
+          {
+            "char": "Senator Rourke"
+          }
+        ]
+      },
+      {
+        "name": "Michael Wincott",
+        "nm": 699,
+        "roles": [
+          {
+            "char": "Bobby Meeker",
+            "ch": 65761
+          }
+        ]
+      },
+      {
+        "name": "Debra Stipe",
+        "nm": 762017,
+        "roles": [
+          {
+            "char": "Joanne Goldman",
+            "as Debra Sandlund": true
+          }
+        ]
+      },
+      {
+        "name": "Jenny Wright",
+        "nm": 942486,
+        "roles": [
+          {
+            "char": "Pamela Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798
+          }
+        ]
+      },
+      {
+        "name": "Chuck Adamson",
+        "nm": 11477,
+        "roles": [
+          {
+            "char": "Sugarman"
+          }
+        ]
+      },
+      {
+        "name": "Scott Andrus",
+        "nm": 1507555,
+        "roles": [
+          {
+            "char": "Anchorman"
+          }
+        ]
+      },
+      {
+        "name": "Michael Arthofer",
+        "nm": 2759638,
+        "roles": [
+          {
+            "char": "Loomis",
+            "as Michael Anthofer": true
+          }
+        ]
+      },
+      {
+        "name": "Shelly Berkley",
+        "nm": 3493982,
+        "roles": [
+          {
+            "char": "Schumacher"
+          }
+        ]
+      },
+      {
+        "name": "Tristram Bishop",
+        "nm": 1267775,
+        "roles": [
+          {
+            "char": "Reporter #2",
+            "as Tristram S. Bishop": true
+          }
+        ]
+      },
+      {
+        "name": "Beth Suzanne Blouin",
+        "nm": 3517837,
+        "roles": [
+          {
+            "char": "Whore #1"
+          }
+        ]
+      },
+      {
+        "name": "Frank Citro",
+        "nm": 162920,
+        "roles": [
+          {
+            "char": "Guard #1"
+          }
+        ]
+      },
+      {
+        "name": "Bob Davis",
+        "nm": 204256,
+        "roles": [
+          {
+            "char": "Attorney"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Hilliard",
+        "nm": 384973,
+        "roles": [
+          {
+            "char": "Reporter #1"
+          }
+        ]
+      },
+      {
+        "name": "Doug MacHugh",
+        "nm": 532698,
+        "roles": [
+          {
+            "char": "Willis"
+          },
+          {
+            "char": "Stickman #1"
+          }
+        ]
+      },
+      {
+        "name": "Frank Piciullo",
+        "nm": 3557799,
+        "roles": [
+          {
+            "char": "Bodyguard"
+          }
+        ]
+      },
+      {
+        "name": "Frank Satin",
+        "nm": 3494255,
+        "roles": [
+          {
+            "char": "Stickman #2"
+          }
+        ]
+      },
+      {
+        "name": "Michael Waxman",
+        "nm": 915400,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Karen Denise Williams",
+        "nm": 2465581,
+        "roles": [
+          {
+            "char": "Bimbo",
+            "as Karin Denise": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Blast from the Past",
+    "tt": 550417,
+    "air_date": "1987-09-29",
+    "description": "Torello's ex is in Vegas with her new man. When they were at a robbery he is taken by the robbers. When she sees the local police are not doing anything, she calls Torello who clashes with the cop in charge.",
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "Darlanne Fluegel",
+        "nm": 283311,
+        "roles": [
+          {
+            "char": "Julie Torello",
+            "ch": 40658
+          }
+        ]
+      },
+      {
+        "name": "James Remar",
+        "nm": 1664,
+        "roles": [
+          {
+            "char": "Smilin' Jack",
+            "ch": 93534
+          }
+        ]
+      },
+      {
+        "name": "William O'Leary",
+        "nm": 641640,
+        "roles": [
+          {
+            "char": "Donald"
+          }
+        ]
+      },
+      {
+        "name": "Larry Joshua",
+        "nm": 430829,
+        "roles": [
+          {
+            "char": "Terry"
+          }
+        ]
+      },
+      {
+        "name": "Norman Snow",
+        "nm": 811302,
+        "roles": [
+          {
+            "char": "Lieutenant Warren Bauer"
+          }
+        ]
+      },
+      {
+        "name": "David Soul",
+        "nm": 815800,
+        "roles": [
+          {
+            "char": "Dr. Newhouse"
+          }
+        ]
+      },
+      {
+        "name": "James W. Sudik",
+        "nm": 1091386,
+        "roles": [
+          {
+            "char": "Psycho"
+          }
+        ]
+      },
+      {
+        "name": "Vito D'Ambrosio",
+        "nm": 195101,
+        "roles": [
+          {
+            "char": "Agent Morgan"
+          }
+        ]
+      },
+      {
+        "name": "Paul Brent",
+        "nm": 107596,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "Bryan Brightcloud",
+        "nm": 109200,
+        "roles": [
+          {
+            "char": "Raymond"
+          }
+        ]
+      },
+      {
+        "name": "Thalia Dondero",
+        "nm": 3530319,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Bette Ford",
+        "nm": 285525,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Teresa Gilmore",
+        "nm": 135565,
+        "roles": [
+          {
+            "char": "Whore #3"
+          }
+        ]
+      },
+      {
+        "name": "Rusty Meyers",
+        "nm": 583620,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Randy Pelish",
+        "nm": 670868,
+        "roles": [
+          {
+            "char": "Duke Curtain"
+          }
+        ]
+      },
+      {
+        "name": "Linda Sandoval",
+        "nm": 1396007,
+        "roles": [
+          {
+            "char": "Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Donna Sheehan",
+        "nm": 3512710,
+        "roles": [
+          {
+            "char": "Whore #2"
+          }
+        ]
+      },
+      {
+        "name": "Ken Solarz",
+        "nm": 812747,
+        "roles": [
+          {
+            "char": "Photographer"
+          }
+        ]
+      },
+      {
+        "name": "Beth Suzanne",
+        "nm": 3512638,
+        "roles": [
+          {
+            "char": "Whore #1"
+          }
+        ]
+      },
+      {
+        "name": "Derek A. Smith",
+        "nm": 2171512,
+        "roles": [
+          {
+            "char": "Bank Hostage",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Always a Blonde",
+    "tt": 550415,
+    "air_date": "1987-10-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Britta Phillips",
+        "nm": 680272,
+        "roles": [
+          {
+            "char": "Doreen"
+          }
+        ]
+      },
+      {
+        "name": "Scott Plank",
+        "nm": 686568,
+        "roles": [
+          {
+            "char": "Buddy Blue"
+          }
+        ]
+      },
+      {
+        "name": "Mario Arrambide",
+        "nm": 37145,
+        "roles": [
+          {
+            "char": "Manolo Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Tony Maggio",
+        "nm": 535997,
+        "roles": [
+          {
+            "char": "Ray Keech"
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Marie Archer",
+        "nm": 33694,
+        "roles": [
+          {
+            "char": "Woman in Bathroom"
+          }
+        ]
+      },
+      {
+        "name": "Carmen Carol",
+        "nm": 3522749,
+        "roles": [
+          {
+            "char": "Tammy"
+          }
+        ]
+      },
+      {
+        "name": "Teresa Gilmore",
+        "nm": 135565,
+        "roles": [
+          {
+            "char": "Laurie"
+          }
+        ]
+      },
+      {
+        "name": "Terry Head",
+        "nm": 2074470,
+        "roles": [
+          {
+            "char": "Angie"
+          }
+        ]
+      },
+      {
+        "name": "Danette Rae",
+        "nm": 1990548,
+        "roles": [
+          {
+            "char": "Betty Lou",
+            "as Danette Rae Sassak": true
+          }
+        ]
+      },
+      {
+        "name": "Rick Wagner",
+        "nm": 906077,
+        "roles": [
+          {
+            "char": "Bellman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Atomic Fallout",
+    "tt": 550416,
+    "air_date": "1987-10-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "George Bartenieff",
+        "nm": 58496,
+        "roles": [
+          {
+            "char": "Dr. Friedrich Gantman"
+          }
+        ]
+      },
+      {
+        "name": "Sue Bugden",
+        "nm": 119469,
+        "roles": [
+          {
+            "char": "Mrs. Burke"
+          }
+        ]
+      },
+      {
+        "name": "Holly Butler",
+        "nm": 124945,
+        "roles": [
+          {
+            "char": "Carrie"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Carhart",
+        "nm": 137114,
+        "roles": [
+          {
+            "char": "Colonel Walker"
+          }
+        ]
+      },
+      {
+        "name": "Ismael 'East' Carlo",
+        "nm": 137673,
+        "roles": [
+          {
+            "char": "Jorge Senterro",
+            "ch": 109800
+          }
+        ]
+      },
+      {
+        "name": "Michael Carmine",
+        "nm": 138483,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kim Flowers",
+        "nm": 283200,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bette Ford",
+        "nm": 285525,
+        "roles": [
+          {
+            "char": "Angie"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Love",
+        "nm": 522392,
+        "roles": [
+          {
+            "char": "Larry Booth"
+          }
+        ]
+      },
+      {
+        "name": "Al Shannon",
+        "nm": 788251,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jann Wenner",
+        "nm": 921048,
+        "roles": [
+          {
+            "char": "Patrick Hallahan"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Richard Zobel",
+        "nm": 957517,
+        "roles": [
+          {
+            "char": "Lt. Col. Milton Dance"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Shockwaves",
+    "tt": 550446,
+    "air_date": "1987-11-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Richard Amalfitano",
+        "nm": 23845,
+        "roles": [
+          {
+            "char": "Dealer"
+          }
+        ]
+      },
+      {
+        "name": "Seymore H. Brown",
+        "nm": 5853852,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Kim Cannon",
+        "nm": 5853853,
+        "roles": [
+          {
+            "char": "Stripper"
+          }
+        ]
+      },
+      {
+        "name": "Bob Corso",
+        "nm": 181135,
+        "roles": [
+          {
+            "char": "Spyros"
+          }
+        ]
+      },
+      {
+        "name": "Frankie DeAngelo",
+        "nm": 5853854,
+        "roles": [
+          {
+            "char": "Manager #1"
+          }
+        ]
+      },
+      {
+        "name": "Charles Fox",
+        "nm": 5853855,
+        "roles": [
+          {
+            "char": "Baliff"
+          }
+        ]
+      },
+      {
+        "name": "William Hanhardt",
+        "nm": 5853856,
+        "roles": [
+          {
+            "char": "Sam Bernholz"
+          }
+        ]
+      },
+      {
+        "name": "Stuart J. Maltz",
+        "nm": 5853857,
+        "roles": [
+          {
+            "char": "Angie"
+          }
+        ]
+      },
+      {
+        "name": "Carme Pitrello",
+        "nm": 5853858,
+        "roles": [
+          {
+            "char": "First Man"
+          }
+        ]
+      },
+      {
+        "name": "Cork Proctor",
+        "nm": 3625027,
+        "roles": [
+          {
+            "char": "Casino Manager"
+          }
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "Ronnie Skurow",
+        "nm": 5853859,
+        "roles": [
+          {
+            "char": "Croupier"
+          }
+        ]
+      },
+      {
+        "name": "Brian Storm",
+        "nm": 5853860,
+        "roles": [
+          {
+            "char": "Photographer"
+          }
+        ]
+      },
+      {
+        "name": "Antoni B. Stutz",
+        "nm": 5853861,
+        "roles": [
+          {
+            "char": "Rex"
+          }
+        ]
+      },
+      {
+        "name": "Deborah Van Valkenburgh",
+        "nm": 888154,
+        "roles": [
+          {
+            "char": "Luca's Attorney"
+          }
+        ]
+      },
+      {
+        "name": "Craig Vincent",
+        "nm": 898609,
+        "roles": [
+          {
+            "char": "U.S. Marshal",
+            "ch": 109808
+          }
+        ]
+      },
+      {
+        "name": "Ward Wallace",
+        "nm": 5853863,
+        "roles": [
+          {
+            "char": "Bodyguard #1"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Richard Zobel",
+        "nm": 957517,
+        "roles": [
+          {
+            "char": "Lt. Col. Milton Dance"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "Robbery, Armed",
+    "tt": 550443,
+    "air_date": "1987-11-10",
+    "description": "Torello is celebrating his birthday with his men. Krycek's goes to the bathroom while there, he runs into someone he knows who then shoots him. He tells Torello who he is before going into surgery, so they set out to find him. They learn that the man is in town to do a job.",
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Chuck Adamson",
+        "nm": 11477,
+        "roles": [
+          {
+            "char": "Nick Aeillo"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Scott Andrus",
+        "nm": 5853933,
+        "roles": [
+          {
+            "char": "Newscaster"
+          }
+        ]
+      },
+      {
+        "name": "Vanina Aronica",
+        "nm": 5853934,
+        "roles": [
+          {
+            "char": "Opera Singer"
+          }
+        ]
+      },
+      {
+        "name": "John Michael Bolger",
+        "nm": 92948,
+        "roles": [
+          {
+            "char": "Fast Tony Costa"
+          }
+        ]
+      },
+      {
+        "name": "Michael Champion",
+        "nm": 150720,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nick De Mauro",
+        "nm": 5853932,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Ray Favero",
+        "nm": 269393,
+        "roles": [
+          {
+            "char": "Intern"
+          }
+        ]
+      },
+      {
+        "name": "Maggie Han",
+        "nm": 359177,
+        "roles": [
+          {
+            "char": "Ginnie Chan"
+          }
+        ]
+      },
+      {
+        "name": "Mark Margolis",
+        "nm": 546797,
+        "roles": [
+          {
+            "char": "Jack Stark"
+          }
+        ]
+      },
+      {
+        "name": "Michael Medeiros",
+        "nm": 575486,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Robert Miano",
+        "nm": 583951,
+        "roles": [
+          {
+            "char": "Phil Ross"
+          }
+        ]
+      },
+      {
+        "name": "Roge Roush",
+        "nm": 745892,
+        "roles": [
+          {
+            "char": "Manager"
+          }
+        ]
+      },
+      {
+        "name": "Richard Sacks",
+        "nm": 5853935,
+        "roles": [
+          {
+            "char": "Maitre D'"
+          }
+        ]
+      },
+      {
+        "name": "Bill Schneider",
+        "nm": 5853936,
+        "roles": [
+          {
+            "char": "Piano Player"
+          }
+        ]
+      },
+      {
+        "name": "Peter Sherayko",
+        "nm": 792069,
+        "roles": [
+          {
+            "char": "Businessman"
+          }
+        ]
+      },
+      {
+        "name": "Andrea Thompson",
+        "nm": 5487,
+        "roles": [
+          {
+            "char": "Lori Ross"
+          }
+        ]
+      },
+      {
+        "name": "John Wesley",
+        "nm": 5853931,
+        "roles": [
+          {
+            "char": "Charlie Brock"
+          }
+        ]
+      },
+      {
+        "name": "Joe 'Tippy' Zeoli",
+        "nm": 954956,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Little Girl Lost",
+    "tt": 550431,
+    "air_date": "1987-11-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Jere Burns",
+        "nm": 122716,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Paul Drake",
+        "nm": 236985,
+        "roles": [
+          {
+            "char": "Lawyer"
+          }
+        ]
+      },
+      {
+        "name": "June Gable",
+        "nm": 300096,
+        "roles": [
+          {
+            "char": "Aggie the Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Wendy Gazelle",
+        "nm": 311092,
+        "roles": [
+          {
+            "char": "Rachel Fine"
+          }
+        ]
+      },
+      {
+        "name": "Tim Guinee",
+        "nm": 347375,
+        "roles": [
+          {
+            "char": "Vince Romero"
+          }
+        ]
+      },
+      {
+        "name": "Jack Nance",
+        "nm": 620756,
+        "roles": [
+          {
+            "char": "Charlie Green"
+          }
+        ]
+      },
+      {
+        "name": "Steven Weber",
+        "nm": 1836,
+        "roles": [
+          {
+            "char": "Gary Holiday"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Jophery C. Brown",
+        "nm": 113909,
+        "roles": [
+          {
+            "char": "Undetermined",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Love Hurts",
+    "tt": 550432,
+    "air_date": "1987-12-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Todd Amorde",
+        "nm": 2660057,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Christine Avila",
+        "nm": 43144,
+        "roles": [
+          {
+            "char": "Estrella"
+          }
+        ]
+      },
+      {
+        "name": "Earl Boen",
+        "nm": 91286,
+        "roles": [
+          {
+            "char": "The Executive"
+          }
+        ]
+      },
+      {
+        "name": "Jane Brucker",
+        "nm": 115663,
+        "roles": [
+          {
+            "char": "Dolores"
+          }
+        ]
+      },
+      {
+        "name": "Ismael 'East' Carlo",
+        "nm": 137673,
+        "roles": [
+          {
+            "char": "Jorge Senterro",
+            "ch": 109800
+          }
+        ]
+      },
+      {
+        "name": "Michael DeLorenzo",
+        "nm": 217716,
+        "roles": [
+          {
+            "char": "Roberto Mendoza"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Gidley",
+        "nm": 317293,
+        "roles": [
+          {
+            "char": "Teddi Butler"
+          }
+        ]
+      },
+      {
+        "name": "Teresa Gilmore",
+        "nm": 135565,
+        "roles": [
+          {
+            "char": "Cigarette Girl"
+          }
+        ]
+      },
+      {
+        "name": "Ted Hannon",
+        "nm": 360486,
+        "roles": [
+          {
+            "char": "Paparazzi"
+          }
+        ]
+      },
+      {
+        "name": "Loren Haynes",
+        "nm": 371128,
+        "roles": [
+          {
+            "char": "Dennis Hopper Type"
+          }
+        ]
+      },
+      {
+        "name": "Ernesto Hernández",
+        "nm": 379928,
+        "roles": [
+          {
+            "char": "Enrique"
+          }
+        ]
+      },
+      {
+        "name": "Jim Holmes",
+        "nm": 391885,
+        "roles": [
+          {
+            "char": "Astronaut"
+          }
+        ]
+      },
+      {
+        "name": "Frank Lugo",
+        "nm": 525246,
+        "roles": [
+          {
+            "char": "Arturo",
+            "as Frank R. Lugo": true
+          }
+        ]
+      },
+      {
+        "name": "Bruce McGill",
+        "nm": 569226,
+        "roles": [
+          {
+            "char": "Nathan Hill"
+          }
+        ]
+      },
+      {
+        "name": "Domizo Dondino Melchiorre",
+        "nm": 5882147,
+        "roles": [
+          {
+            "char": "Lounge Entertainer"
+          }
+        ]
+      },
+      {
+        "name": "Danny Migliarese",
+        "nm": 5882148,
+        "roles": [
+          {
+            "char": "Head Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Julia Nickson",
+        "nm": 630100,
+        "roles": [
+          {
+            "char": "Lizard Woman"
+          }
+        ]
+      },
+      {
+        "name": "Douglas L. Taylor",
+        "nm": 5882149,
+        "roles": [
+          {
+            "char": "Lounge Pianist"
+          }
+        ]
+      },
+      {
+        "name": "Patrick N. Thompson",
+        "nm": 5882150,
+        "roles": [
+          {
+            "char": "Comic"
+          }
+        ]
+      },
+      {
+        "name": "Mark Thomson",
+        "nm": 5882151,
+        "roles": [
+          {
+            "char": "Pilot"
+          }
+        ]
+      },
+      {
+        "name": "David Vanlandingham",
+        "nm": 5882152,
+        "roles": [
+          {
+            "char": "Director"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Mig 21",
+    "tt": 550433,
+    "air_date": "1987-12-15",
+    "description": "A Russian pilot defects by flying his plane into the U.S. and landing in Nevada. Torello and his men are assigned to protect him. They become friends. But Torello learns that the government is considering trading him for the U2 pilot being held in the Soviet Union. And they try to stop it from happening. Abrams who now works for Luca helps him get something on a guy whose business he wants to buy.",
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Ted Levine",
+        "nm": 505971,
+        "roles": [
+          {
+            "char": "Frank Holman",
+            "ch": 90927
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798,
+            "as Andrew Clay": true
+          }
+        ]
+      },
+      {
+        "name": "Joshua Abbey",
+        "nm": 7879,
+        "roles": [
+          {
+            "char": "Phil"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Scott Andrus",
+        "nm": 5853933,
+        "roles": [
+          {
+            "char": "Newscaster"
+          }
+        ]
+      },
+      {
+        "name": "Michael Arthofer",
+        "nm": 2759638,
+        "roles": [
+          {
+            "char": "Loomis"
+          }
+        ]
+      },
+      {
+        "name": "David Lain Baker",
+        "nm": 48381,
+        "roles": [
+          {
+            "char": "American Pilot"
+          }
+        ]
+      },
+      {
+        "name": "Robert Benedetti",
+        "nm": 2598,
+        "roles": [
+          {
+            "char": "Minister"
+          }
+        ]
+      },
+      {
+        "name": "Philip Bentley",
+        "nm": 5882286,
+        "roles": [
+          {
+            "char": "Bouncer"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Bourland",
+        "nm": 100030,
+        "roles": [
+          {
+            "char": "Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Michael Brower",
+        "nm": 5882287,
+        "roles": [
+          {
+            "char": "Cameraman"
+          }
+        ]
+      },
+      {
+        "name": "Brigitt Butler",
+        "nm": 5882288,
+        "roles": [
+          {
+            "char": "Holmanette"
+          }
+        ]
+      },
+      {
+        "name": "Carmen Carol",
+        "nm": 3522749,
+        "roles": [
+          {
+            "char": "Holmanette"
+          }
+        ]
+      },
+      {
+        "name": "David Dunard",
+        "nm": 241784,
+        "roles": [
+          {
+            "char": "Air Traffic Control"
+          }
+        ]
+      },
+      {
+        "name": "George Dzundza",
+        "nm": 1169,
+        "roles": [
+          {
+            "char": "Ivan Ivanovitch Patchenko"
+          }
+        ]
+      },
+      {
+        "name": "Eve Eiholzer",
+        "nm": 5882289,
+        "roles": [
+          {
+            "char": "Doris"
+          }
+        ]
+      },
+      {
+        "name": "Michael D. Gainsborough",
+        "nm": 5882285,
+        "roles": [
+          {
+            "char": "Danforth"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Hirsch",
+        "nm": 386552,
+        "roles": [
+          {
+            "char": "Reporter #3"
+          }
+        ]
+      },
+      {
+        "name": "Maureen Hopkins",
+        "nm": 394240,
+        "roles": [
+          {
+            "char": "Reporter #2"
+          }
+        ]
+      },
+      {
+        "name": "David Hyde Pierce",
+        "nm": 1383,
+        "roles": [
+          {
+            "char": "NSA Agent Carruthers",
+            "as David Pierce": true
+          }
+        ]
+      },
+      {
+        "name": "Roy Thomas Kiefer",
+        "nm": 5882291,
+        "roles": [
+          {
+            "char": "Reporter #1"
+          }
+        ]
+      },
+      {
+        "name": "Teresa Foy McGeough",
+        "nm": 5882290,
+        "roles": [
+          {
+            "char": "Organist"
+          }
+        ]
+      },
+      {
+        "name": "James McIntyre",
+        "nm": 5882292,
+        "roles": [
+          {
+            "char": "Cowboy"
+          }
+        ]
+      },
+      {
+        "name": "Karen McKenney",
+        "nm": 3037283,
+        "roles": [
+          {
+            "char": "Texan Woman"
+          }
+        ]
+      },
+      {
+        "name": "Liza Morrow",
+        "nm": 607521,
+        "roles": [
+          {
+            "char": "Fawna"
+          }
+        ]
+      },
+      {
+        "name": "Louis A. Rivera",
+        "nm": 729331,
+        "roles": [
+          {
+            "char": "Chicano"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Darrel Smith",
+        "nm": 5882293,
+        "roles": [
+          {
+            "char": "Aide"
+          }
+        ]
+      },
+      {
+        "name": "Victor Stretton",
+        "nm": 5882294,
+        "roles": [
+          {
+            "char": "Croupier"
+          }
+        ]
+      },
+      {
+        "name": "Len Talarico",
+        "nm": 5882295,
+        "roles": [
+          {
+            "char": "Beatnik"
+          }
+        ]
+      },
+      {
+        "name": "Jan Tríska",
+        "nm": 873131,
+        "roles": [
+          {
+            "char": "Vasi"
+          }
+        ]
+      },
+      {
+        "name": "Jack Zavorak",
+        "nm": 953814,
+        "roles": [
+          {
+            "char": "Store Clerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Moulin Rouge",
+    "tt": 550434,
+    "air_date": "1988-01-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798
+          }
+        ]
+      },
+      {
+        "name": "Pam Grier",
+        "nm": 427,
+        "roles": [
+          {
+            "char": "Suzanne Terry"
+          }
+        ]
+      },
+      {
+        "name": "Marilyn Anderson",
+        "nm": 5884079,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Margaret Avery",
+        "nm": 1923,
+        "roles": [
+          {
+            "char": "Iris Marshall"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Buford",
+        "nm": 5884080,
+        "roles": [
+          {
+            "char": "Moulin Rouge Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Ji-Tu Cumbuka",
+        "nm": 191783,
+        "roles": [
+          {
+            "char": "Buzz"
+          }
+        ]
+      },
+      {
+        "name": "Tom Everett",
+        "nm": 263577,
+        "roles": [
+          {
+            "char": "Rothstein"
+          }
+        ]
+      },
+      {
+        "name": "Dexter Gordon",
+        "nm": 330143,
+        "roles": [
+          {
+            "char": "Rollie"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Haysbert",
+        "nm": 371660,
+        "roles": [
+          {
+            "char": "Franklin Himes"
+          }
+        ]
+      },
+      {
+        "name": "Lamarr Jefferson",
+        "nm": 5884081,
+        "roles": [
+          {
+            "char": "Valet"
+          }
+        ]
+      },
+      {
+        "name": "James McDaniel",
+        "nm": 5206,
+        "roles": [
+          {
+            "char": "Byron"
+          }
+        ]
+      },
+      {
+        "name": "Cork Proctor",
+        "nm": 3625027,
+        "roles": [
+          {
+            "char": "Manager #2"
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "John Seitz",
+        "nm": 782715,
+        "roles": [
+          {
+            "char": "Lt. Vanalden"
+          }
+        ]
+      },
+      {
+        "name": "Donna Sheehan",
+        "nm": 3512710,
+        "roles": [
+          {
+            "char": "Showgirl"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Wallace",
+        "nm": 908663,
+        "roles": [
+          {
+            "char": "Marcus St. John"
+          }
+        ]
+      },
+      {
+        "name": "Jim Williams",
+        "nm": 1084346,
+        "roles": [
+          {
+            "char": "Maitre D'"
+          },
+          {
+            "char": "Owner"
+          }
+        ]
+      },
+      {
+        "name": "David Harris",
+        "nm": 364593,
+        "roles": [
+          {
+            "char": "Henchman",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Seize the Time",
+    "tt": 550444,
+    "air_date": "1988-01-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Margaret Avery",
+        "nm": 1923,
+        "roles": [
+          {
+            "char": "Iris Marshall"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Benton",
+        "nm": 72944,
+        "roles": [
+          {
+            "char": "Elmo"
+          }
+        ]
+      },
+      {
+        "name": "Jane Brucker",
+        "nm": 115663,
+        "roles": [
+          {
+            "char": "Dolores"
+          }
+        ]
+      },
+      {
+        "name": "Michael Chong",
+        "nm": 159060,
+        "roles": [
+          {
+            "char": "Lee Chen",
+            "ch": 109806
+          }
+        ]
+      },
+      {
+        "name": "Charles Cooper",
+        "nm": 177927,
+        "roles": [
+          {
+            "char": "Ike"
+          }
+        ]
+      },
+      {
+        "name": "Paul Drake",
+        "nm": 236985,
+        "roles": [
+          {
+            "char": "Lawyer"
+          }
+        ]
+      },
+      {
+        "name": "Robert Glaudini",
+        "nm": 322165,
+        "roles": [
+          {
+            "char": "Warden"
+          }
+        ]
+      },
+      {
+        "name": "Pam Grier",
+        "nm": 427,
+        "roles": [
+          {
+            "char": "Suzanne Terry"
+          }
+        ]
+      },
+      {
+        "name": "David Harris",
+        "nm": 364593,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dennis Haysbert",
+        "nm": 371660,
+        "roles": [
+          {
+            "char": "Franklin Himes"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Jackson",
+        "nm": 413265,
+        "roles": [
+          {
+            "char": "Patrolman"
+          }
+        ]
+      },
+      {
+        "name": "Preston Lee",
+        "nm": 498041,
+        "roles": [
+          {
+            "char": "Jack",
+            "as Preston Scott Lee": true
+          }
+        ]
+      },
+      {
+        "name": "Stuart J. Maltz",
+        "nm": 5853857,
+        "roles": [
+          {
+            "char": "Angie"
+          }
+        ]
+      },
+      {
+        "name": "James McDaniel",
+        "nm": 5206,
+        "roles": [
+          {
+            "char": "Byron"
+          }
+        ]
+      },
+      {
+        "name": "Jon Renfield",
+        "nm": 719484,
+        "roles": [
+          {
+            "char": "Neal"
+          }
+        ]
+      },
+      {
+        "name": "Derrick Smith",
+        "nm": 807950,
+        "roles": [
+          {
+            "char": "Luther"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Wallace",
+        "nm": 908663,
+        "roles": [
+          {
+            "char": "Marcus St. John"
+          }
+        ]
+      },
+      {
+        "name": "Parker Whitman",
+        "nm": 926167,
+        "roles": [
+          {
+            "char": "Rotarian"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "Femme Fatale",
+    "tt": 550423,
+    "air_date": "1988-01-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Paul Bartel",
+        "nm": 860,
+        "roles": [
+          {
+            "char": "Dr. Westford"
+          }
+        ]
+      },
+      {
+        "name": "Charlotte Lewis",
+        "nm": 1470,
+        "roles": [
+          {
+            "char": "Mai Lan"
+          }
+        ]
+      },
+      {
+        "name": "J.C. Quinn",
+        "nm": 703862,
+        "roles": [
+          {
+            "char": "Bert Henshaw"
+          }
+        ]
+      },
+      {
+        "name": "Ebbe Roe Smith",
+        "nm": 808076,
+        "roles": [
+          {
+            "char": "Station Owner"
+          }
+        ]
+      },
+      {
+        "name": "Henry Stolow",
+        "nm": 831583,
+        "roles": [
+          {
+            "char": "Carp"
+          }
+        ]
+      },
+      {
+        "name": "David Thornton",
+        "nm": 861513,
+        "roles": [
+          {
+            "char": "Thalberg"
+          }
+        ]
+      },
+      {
+        "name": "Michael Wincott",
+        "nm": 699,
+        "roles": [
+          {
+            "char": "Bobby Meeker",
+            "ch": 65761
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "Protected Witness",
+    "tt": 550439,
+    "air_date": "1988-02-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "David Adamson",
+        "nm": 11481,
+        "roles": [
+          {
+            "char": "Punk"
+          }
+        ]
+      },
+      {
+        "name": "David John Adamson",
+        "nm": 1668114,
+        "roles": [
+          {
+            "char": "Punk"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Anderson",
+        "nm": 26885,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Caristi",
+        "nm": 137246,
+        "roles": [
+          {
+            "char": "Vitto Maggio"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Olson",
+        "nm": 647925,
+        "roles": [
+          {
+            "char": "TV Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Laura San Giacomo",
+        "nm": 624,
+        "roles": [
+          {
+            "char": "Theresa Farantino"
+          }
+        ]
+      },
+      {
+        "name": "Richard Wagner",
+        "nm": 906074,
+        "roles": [
+          {
+            "char": "Baggage Handler"
+          }
+        ]
+      },
+      {
+        "name": "Billy Zane",
+        "nm": 708,
+        "roles": [
+          {
+            "char": "Frankie 'The Duke' Farantino"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "Last Rites",
+    "tt": 550430,
+    "air_date": "1988-02-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Georgiade",
+        "nm": 313730,
+        "roles": [
+          {
+            "char": "Lt. Peterson",
+            "as Nick Georgiade": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Maruzzo",
+        "nm": 555488,
+        "roles": [
+          {
+            "char": "Marty Lester"
+          }
+        ]
+      },
+      {
+        "name": "Jay O. Sanders",
+        "nm": 761587,
+        "roles": [
+          {
+            "char": "Steve Kordo",
+            "ch": 109795
+          }
+        ]
+      },
+      {
+        "name": "Mary B. Ward",
+        "nm": 911719,
+        "roles": [
+          {
+            "char": "Corinne Millet",
+            "as Mary Ward": true
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E15",
+    "title": "Pauli Taglia's Dream",
+    "tt": 550436,
+    "air_date": "1988-03-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Renée Coleman",
+        "nm": 171187,
+        "roles": [
+          {
+            "char": "Pauli's Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Scanlon Gail",
+        "nm": 301200,
+        "roles": [
+          {
+            "char": "Clampett"
+          }
+        ]
+      },
+      {
+        "name": "Andreas Katsulas",
+        "nm": 441537,
+        "roles": [
+          {
+            "char": "Government Agent"
+          }
+        ]
+      },
+      {
+        "name": "Audrey Matson",
+        "nm": 559353,
+        "roles": [
+          {
+            "char": "Donna"
+          }
+        ]
+      },
+      {
+        "name": "Nestor Serrano",
+        "nm": 785594,
+        "roles": [
+          {
+            "char": "Messenger"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E16",
+    "title": "Roadrunner",
+    "tt": 550442,
+    "air_date": "1988-03-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "David John Adamson",
+        "nm": 1668114,
+        "roles": [
+          {
+            "char": "Punk"
+          }
+        ]
+      },
+      {
+        "name": "Robert Allen",
+        "nm": 20983,
+        "roles": [
+          {
+            "char": "Cowboy"
+          }
+        ]
+      },
+      {
+        "name": "Vance Colvig Jr.",
+        "nm": 173416,
+        "roles": [
+          {
+            "char": "Billy Jones",
+            "as Vance Colvig": true
+          }
+        ]
+      },
+      {
+        "name": "John Cooley",
+        "nm": 177607,
+        "roles": [
+          {
+            "char": "Cowboy"
+          }
+        ]
+      },
+      {
+        "name": "Cathryn de Prume",
+        "nm": 211040,
+        "roles": [
+          {
+            "char": "Rita"
+          }
+        ]
+      },
+      {
+        "name": "Frank Girardeau",
+        "nm": 320735,
+        "roles": [
+          {
+            "char": "Straight"
+          }
+        ]
+      },
+      {
+        "name": "Patrick John Hurley",
+        "nm": 403486,
+        "roles": [
+          {
+            "char": "Pogue"
+          }
+        ]
+      },
+      {
+        "name": "Elias Koteas",
+        "nm": 480,
+        "roles": [
+          {
+            "char": "Jerry Travers"
+          }
+        ]
+      },
+      {
+        "name": "Laura Leavitt",
+        "nm": 495391,
+        "roles": [
+          {
+            "char": "Bobbi"
+          }
+        ]
+      },
+      {
+        "name": "Darrel Wayne",
+        "nm": 915534,
+        "roles": [
+          {
+            "char": "Old Cowboy",
+            "as Darrel Wayne Saunders": true
+          }
+        ]
+      },
+      {
+        "name": "Billy Gilbride",
+        "nm": 6267429,
+        "roles": [
+          {
+            "char": "Casino Background",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E17",
+    "title": "Brothel Wars",
+    "tt": 550418,
+    "air_date": "1988-03-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Dennehy",
+        "nm": 219327,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Theresa Gilmore",
+        "nm": 319578,
+        "roles": [
+          {
+            "char": "Hooker #1"
+          }
+        ]
+      },
+      {
+        "name": "William Hickey",
+        "nm": 382676,
+        "roles": [
+          {
+            "char": "Judge Neville Harmon"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Johnson",
+        "nm": 424478,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Cecilia Peck",
+        "nm": 669637,
+        "roles": [
+          {
+            "char": "Ann Bradford"
+          }
+        ]
+      },
+      {
+        "name": "Randy Pelish",
+        "nm": 670868,
+        "roles": [
+          {
+            "char": "Ed Saville"
+          }
+        ]
+      },
+      {
+        "name": "Michael J. Pollard",
+        "nm": 689488,
+        "roles": [
+          {
+            "char": "Leon Barski"
+          }
+        ]
+      },
+      {
+        "name": "John T. Quern",
+        "nm": 703277,
+        "roles": [
+          {
+            "char": "John Lindstrom",
+            "as John Quern": true
+          }
+        ]
+      },
+      {
+        "name": "Tim Rossovich",
+        "nm": 744523,
+        "roles": [
+          {
+            "char": "Amos"
+          }
+        ]
+      },
+      {
+        "name": "Roge Roush",
+        "nm": 745892,
+        "roles": [
+          {
+            "char": "Ferry"
+          }
+        ]
+      },
+      {
+        "name": "Trey Wilson",
+        "nm": 934254,
+        "roles": [
+          {
+            "char": "Sheriff Bo Cray"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E18",
+    "title": "Byline",
+    "tt": 550419,
+    "air_date": "1988-03-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Guy Boyd",
+        "nm": 101777,
+        "roles": [
+          {
+            "char": "Senator Baxter",
+            "ch": 78177
+          }
+        ]
+      },
+      {
+        "name": "Ismael 'East' Carlo",
+        "nm": 137673,
+        "roles": [
+          {
+            "char": "Jorge Senterro",
+            "ch": 109800
+          }
+        ]
+      },
+      {
+        "name": "Michael Chong",
+        "nm": 159060,
+        "roles": [
+          {
+            "char": "Lee Chen",
+            "ch": 109806
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Evans",
+        "nm": 262871,
+        "roles": [
+          {
+            "char": "Dixie Baxter",
+            "as M. Jennifer Evans": true
+          }
+        ]
+      },
+      {
+        "name": "Anthony Lattanzio",
+        "nm": 490406,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Cecilia Peck",
+        "nm": 669637,
+        "roles": [
+          {
+            "char": "Ann Bradford"
+          }
+        ]
+      },
+      {
+        "name": "Tom Signorelli",
+        "nm": 797529,
+        "roles": [
+          {
+            "char": "Joe Krinsky",
+            "ch": 232099
+          }
+        ]
+      },
+      {
+        "name": "Jann Wenner",
+        "nm": 921048,
+        "roles": [
+          {
+            "char": "Patrick Hallahan"
+          }
+        ]
+      },
+      {
+        "name": "Richard Zobel",
+        "nm": 957517,
+        "roles": [
+          {
+            "char": "Colonel Milton Dance"
+          }
+        ]
+      },
+      {
+        "name": "Billy Gilbride",
+        "nm": 6267429,
+        "roles": [
+          {
+            "char": "Casino Background",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E19",
+    "title": "The Hearings",
+    "tt": 550449,
+    "air_date": "1988-04-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Guy Boyd",
+        "nm": 101777,
+        "roles": [
+          {
+            "char": "Senator Baxter",
+            "ch": 78177
+          }
+        ]
+      },
+      {
+        "name": "Ismael 'East' Carlo",
+        "nm": 137673,
+        "roles": [
+          {
+            "char": "Jorge Senterro",
+            "ch": 109800
+          }
+        ]
+      },
+      {
+        "name": "Michael Jeter",
+        "nm": 5052,
+        "roles": [
+          {
+            "char": "Senator Michael Gaspari"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Pellicano",
+        "nm": 671168,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Victor Slezak",
+        "nm": 805789,
+        "roles": [
+          {
+            "char": "Senator Deming"
+          }
+        ]
+      },
+      {
+        "name": "Jann Wenner",
+        "nm": 921048,
+        "roles": [
+          {
+            "char": "Patrick Hallahan"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Manny Weisbord",
+            "ch": 69210
+          }
+        ]
+      },
+      {
+        "name": "Richard Zobel",
+        "nm": 957517,
+        "roles": [
+          {
+            "char": "Lt. Col. Milton Dance"
+          }
+        ]
+      },
+      {
+        "name": "David Caruso",
+        "nm": 325,
+        "roles": [
+          {
+            "char": "Johnny O'Donnell",
+            "ch": 78099,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Chong",
+        "nm": 159060,
+        "roles": [
+          {
+            "char": "Albert Chen",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jon Polito",
+        "nm": 689237,
+        "roles": [
+          {
+            "char": "Phil Bartoli",
+            "ch": 69203,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Tom Signorelli",
+        "nm": 797529,
+        "roles": [
+          {
+            "char": "Joe Krinsky",
+            "ch": 232099,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E20",
+    "title": "Pursuit",
+    "tt": 550440,
+    "air_date": "1988-04-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Diahnne Abbott",
+        "nm": 7958,
+        "roles": [
+          {
+            "char": "Sonia",
+            "as Diahnne Eugenia Abbott": true
+          }
+        ]
+      },
+      {
+        "name": "Ismael 'East' Carlo",
+        "nm": 137673,
+        "roles": [
+          {
+            "char": "Jorge Senterro",
+            "ch": 109800,
+            "as Ismael Carlo": true
+          }
+        ]
+      },
+      {
+        "name": "Raul 'Pin' Hernandez",
+        "nm": 379681,
+        "roles": [
+          {
+            "char": "Police Sgt.",
+            "as Pin Hernandez": true
+          }
+        ]
+      },
+      {
+        "name": "Martin LaSalle",
+        "nm": 489425,
+        "roles": [
+          {
+            "char": "Capt. Ortega"
+          }
+        ]
+      },
+      {
+        "name": "Assumpta Serna",
+        "nm": 785264,
+        "roles": [
+          {
+            "char": "Maria Flores"
+          }
+        ]
+      },
+      {
+        "name": "Wayne Tippit",
+        "nm": 864133,
+        "roles": [
+          {
+            "char": "Ambassador Morgan",
+            "ch": 128817
+          }
+        ]
+      },
+      {
+        "name": "Jack Angel",
+        "nm": 29460,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E21",
+    "title": "Escape",
+    "tt": 550421,
+    "air_date": "1988-05-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indeli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Diahnne Abbott",
+        "nm": 7958,
+        "roles": [
+          {
+            "char": "Sonia",
+            "as Diahnne Eugenia Abbott": true
+          }
+        ]
+      },
+      {
+        "name": "Jorge Cervera Jr.",
+        "nm": 148940,
+        "roles": [
+          {
+            "char": "Christoph Masina"
+          }
+        ]
+      },
+      {
+        "name": "Jesús Colín",
+        "nm": 970791,
+        "roles": [
+          {
+            "char": "Warden"
+          }
+        ]
+      },
+      {
+        "name": "Humberto Elizondo",
+        "nm": 253781,
+        "roles": [
+          {
+            "char": "Col. Santos"
+          }
+        ]
+      },
+      {
+        "name": "Honorato Magaloni",
+        "nm": 535695,
+        "roles": [
+          {
+            "char": "Major Manuel Gabriel Diaz"
+          }
+        ]
+      },
+      {
+        "name": "Salvador Sánchez",
+        "nm": 761055,
+        "roles": [
+          {
+            "char": "Manuel Estaban"
+          }
+        ]
+      },
+      {
+        "name": "Wayne Tippit",
+        "nm": 864133,
+        "roles": [
+          {
+            "char": "Ambassador Morgan",
+            "ch": 128817
+          }
+        ]
+      },
+      {
+        "name": "Jorge Zepeda",
+        "nm": 5141869,
+        "roles": [
+          {
+            "char": "Commandante Sarmiento"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E22",
+    "title": "Going Home",
+    "tt": 550426,
+    "air_date": "1988-05-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dennis Farina",
+        "nm": 1199,
+        "roles": [
+          {
+            "char": "Lt. Mike Torello",
+            "ch": 34964
+          }
+        ]
+      },
+      {
+        "name": "Tony Denison",
+        "nm": 219208,
+        "roles": [
+          {
+            "char": "Ray Luca",
+            "ch": 65079,
+            "as Anthony Denison": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Smitrovich",
+        "nm": 810488,
+        "roles": [
+          {
+            "char": "Sgt. Danny Krychek",
+            "ch": 69205,
+            "as William Smitrovich": true
+          }
+        ]
+      },
+      {
+        "name": "John Santucci",
+        "nm": 764359,
+        "roles": [
+          {
+            "char": "Pauli Taglia",
+            "ch": 69204
+          }
+        ]
+      },
+      {
+        "name": "Steve Ryan",
+        "nm": 752852,
+        "roles": [
+          {
+            "char": "Det. Nate Grossman",
+            "ch": 69208
+          }
+        ]
+      },
+      {
+        "name": "Billy Campbell",
+        "nm": 1004,
+        "roles": [
+          {
+            "char": "Det. Joey Indelli",
+            "ch": 65080,
+            "as William Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Butler",
+        "nm": 125084,
+        "roles": [
+          {
+            "char": "Det. Walter Clemmons",
+            "ch": 69207
+          }
+        ]
+      },
+      {
+        "name": "Stephen Lang",
+        "nm": 2332,
+        "roles": [
+          {
+            "char": "Atty. David Abrams",
+            "ch": 65430
+          }
+        ]
+      },
+      {
+        "name": "Andrew Dice Clay",
+        "nm": 1048,
+        "roles": [
+          {
+            "char": "Max Goldman",
+            "ch": 109798
+          }
+        ]
+      },
+      {
+        "name": "Pam Grier",
+        "nm": 427,
+        "roles": [
+          {
+            "char": "Suzanne Terry"
+          }
+        ]
+      },
+      {
+        "name": "Humberto Elizondo",
+        "nm": 253781,
+        "roles": [
+          {
+            "char": "Col. Santos"
+          }
+        ]
+      },
+      {
+        "name": "Salvador Sánchez",
+        "nm": 761055,
+        "roles": [
+          {
+            "char": "Manuel Estaban"
+          }
+        ]
+      },
+      {
+        "name": "Jorge Zepeda",
+        "nm": 5141869,
+        "roles": [
+          {
+            "char": "Commandante Sarmiento"
+          }
+        ]
+      },
+      {
+        "name": "Diahnne Abbott",
+        "nm": 7958,
+        "roles": [
+          {
+            "char": "Sonia",
+            "as Diahnne Eugenia Abbott": true
+          }
+        ]
+      },
+      {
+        "name": "Jonathon Brandmeier",
+        "nm": 104703,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "John DeBella",
+        "nm": 1249533,
+        "roles": [
+          {
+            "char": "Pilot"
+          }
+        ]
+      },
+      {
+        "name": "Dick 'Skip' Evans",
+        "nm": 262712,
+        "roles": [
+          {
+            "char": "Pilot #2",
+            "as Dick G. Evans": true
+          }
+        ]
+      },
+      {
+        "name": "Hector Mejia",
+        "nm": 4039927,
+        "roles": [
+          {
+            "char": "Messenger"
+          }
+        ]
+      },
+      {
+        "name": "Adolfo Soberanis",
+        "nm": 4040570,
+        "roles": [
+          {
+            "char": "Tough Guy"
+          }
+        ]
+      },
+      {
+        "name": "Mark Thompson",
+        "nm": 860461,
+        "roles": [
+          {
+            "char": "Pilot #1"
+          }
+        ]
+      }
+    ]
+  }
+]

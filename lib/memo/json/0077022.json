@@ -1,0 +1,5019 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Första delen",
+    "tt": 1431814,
+    "air_date": "1978-10-23",
+    "description": "Carl-Sebastian Urse, called Mon Cousin, makes in 1937 a visit to his native place Hedeby. His cousin, the baron Carl Gustaf Urse, still runs the family estate Valla, but is in financial difficulties. He has to borrow money from the bank as well as from the local farmer Lille-Lars, and now there is a wildcat strike at his lime-works as well. His wife, the baroness Louise Urse, is an alcoholic. To get some relief from his financial and matrimonial problems Carl Gustaf spends his spare time chasing young women. At the moment his desire is focused on Märta Svensson, the daughter of an odd-job man, Sixten Svensson. In the village the local policeman is occupied by chasing bootleggers. Being an alcoholic himself he is not very successful in this. An attempt to arrest the shopkeeper ends in the policeman being carried away on a wheel-barrow, totally drunk.",
+    "cast": [
+      {
+        "name": "Ingvar Kjellson",
+        "nm": 458047,
+        "roles": [
+          {
+            "char": "Mon Cousin"
+          }
+        ]
+      },
+      {
+        "name": "Per Myrberg",
+        "nm": 617098,
+        "roles": [
+          {
+            "char": "Carl-Gustaf Urse"
+          }
+        ]
+      },
+      {
+        "name": "Lena Brogren",
+        "nm": 111195,
+        "roles": [
+          {
+            "char": "Louise Urse"
+          }
+        ]
+      },
+      {
+        "name": "Curt Spångberg",
+        "nm": 820017,
+        "roles": [
+          {
+            "char": "Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Aino Taube",
+        "nm": 851408,
+        "roles": [
+          {
+            "char": "Karolina"
+          }
+        ]
+      },
+      {
+        "name": "Jan-Eric Lindquist",
+        "nm": 512107,
+        "roles": [
+          {
+            "char": "Abraham Styf",
+            "as Jan-Erik Lindqvist": true
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind",
+            "as Pia Rydwall": true
+          }
+        ]
+      },
+      {
+        "name": "Olle Björling",
+        "nm": 85006,
+        "roles": [
+          {
+            "char": "Olle i Vreten"
+          }
+        ]
+      },
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Börje Ahlstedt",
+        "nm": 14062,
+        "roles": [
+          {
+            "char": "Stora Småland"
+          }
+        ]
+      },
+      {
+        "name": "Ingvar Hirdwall",
+        "nm": 386335,
+        "roles": [
+          {
+            "char": "Skomakar-Ludde",
+            "ch": 153440
+          }
+        ]
+      },
+      {
+        "name": "Dan Sjögren",
+        "nm": 803618,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Micha Gabay",
+        "nm": 299960,
+        "roles": [
+          {
+            "char": "Tok-Harry"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Lille-Lars"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Björkholm",
+        "nm": 84943,
+        "roles": [
+          {
+            "char": "Pärcy"
+          }
+        ]
+      },
+      {
+        "name": "Ola Isedal",
+        "nm": 410779,
+        "roles": [
+          {
+            "char": "Lennart i Berga"
+          }
+        ]
+      },
+      {
+        "name": "Sören Söderberg",
+        "nm": 845476,
+        "roles": [
+          {
+            "char": "Brunzen"
+          }
+        ]
+      },
+      {
+        "name": "Carl-Olof Alm",
+        "nm": 21694,
+        "roles": [
+          {
+            "char": "A de Vie"
+          }
+        ]
+      },
+      {
+        "name": "Willie Andréason",
+        "nm": 29258,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Curt Broberg",
+        "nm": 110444,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Göran Castberg",
+        "nm": 2610239,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Siv Ericks",
+        "nm": 259001,
+        "roles": [
+          {
+            "char": "Mrs. Lönbom"
+          }
+        ]
+      },
+      {
+        "name": "Gunilla Eriksson",
+        "nm": 3424305,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Irma Erixson",
+        "nm": 259461,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Birgitta Fernström",
+        "nm": 3446541,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Göthe Grefbo",
+        "nm": 339515,
+        "roles": [
+          {
+            "char": "Mr. Lönbom"
+          }
+        ]
+      },
+      {
+        "name": "Ingela Gustafsson",
+        "nm": 3445079,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Klein",
+        "nm": 3446757,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rufus Lidman",
+        "nm": 3446889,
+        "roles": [
+          {
+            "char": "Svensson's son"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Prüzelius",
+        "nm": 699604,
+        "roles": [
+          {
+            "char": "Vicar Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Ragnar Thell",
+        "nm": 857418,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Pauline Torehall",
+        "nm": 3448445,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Andra delen",
+    "tt": 1436802,
+    "air_date": "1978-10-30",
+    "description": "Sixten Svensson is work-shy. He avoids employments and he doesn't want to work at home either. Because of this his family sinks into poverty, and his wife has to beg her parents for money and their neighbors for food. Their daughter Märta is well aware that baron Urse is highly interested in her. She dreams of getting married to the baron and to live a fashionable life with him, but his wife forms an obstacle to this. When the baron offers her an appointment as a housemaid, she declines the offer because of his wife. Outside the village shop some of the villagers are inspecting the raft which is used every summer when they cleanse the stream from too much vegetation. This is a yearly event, which turns into a ritual festivity of great importance for the village. To be chosen as one of the men on the raft is a great honor.",
+    "cast": [
+      {
+        "name": "Börje Ahlstedt",
+        "nm": 14062,
+        "roles": [
+          {
+            "char": "Stora Småland"
+          }
+        ]
+      },
+      {
+        "name": "Carl-Olof Alm",
+        "nm": 21694,
+        "roles": [
+          {
+            "char": "A de Vie"
+          }
+        ]
+      },
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Willie Andréason",
+        "nm": 29258,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rolf Björkholm",
+        "nm": 84943,
+        "roles": [
+          {
+            "char": "Pärcy"
+          }
+        ]
+      },
+      {
+        "name": "Olle Björling",
+        "nm": 85006,
+        "roles": [
+          {
+            "char": "Olle i Vreten"
+          }
+        ]
+      },
+      {
+        "name": "Helena Broberg",
+        "nm": 3455699,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Lena Brogren",
+        "nm": 111195,
+        "roles": [
+          {
+            "char": "Louise Urse"
+          }
+        ]
+      },
+      {
+        "name": "Göran Castberg",
+        "nm": 2610239,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Renate Dompert",
+        "nm": 3454110,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gunilla Eriksson",
+        "nm": 3424305,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Irma Erixson",
+        "nm": 259461,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Micha Gabay",
+        "nm": 299960,
+        "roles": [
+          {
+            "char": "Tok-Harry"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "Ingela Gustafsson",
+        "nm": 3445079,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Lille-Lars"
+          }
+        ]
+      },
+      {
+        "name": "Ola Isedal",
+        "nm": 410779,
+        "roles": [
+          {
+            "char": "Lennart"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Ingvar Kjellson",
+        "nm": 458047,
+        "roles": [
+          {
+            "char": "Mon Cousin"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Klein",
+        "nm": 3446757,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rufus Lidman",
+        "nm": 3446889,
+        "roles": [
+          {
+            "char": "Svensson's son"
+          }
+        ]
+      },
+      {
+        "name": "Evert Lindkvist",
+        "nm": 511949,
+        "roles": [
+          {
+            "char": "Elof"
+          }
+        ]
+      },
+      {
+        "name": "Jan-Eric Lindquist",
+        "nm": 512107,
+        "roles": [
+          {
+            "char": "Abraham Styf",
+            "as Jan-Erik Lindqvist": true
+          }
+        ]
+      },
+      {
+        "name": "Per Myrberg",
+        "nm": 617098,
+        "roles": [
+          {
+            "char": "Carl-Gustaf Urse"
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind",
+            "as Pia Rydwall": true
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Sören Söderberg",
+        "nm": 845476,
+        "roles": [
+          {
+            "char": "Brunzen"
+          }
+        ]
+      },
+      {
+        "name": "Aino Taube",
+        "nm": 851408,
+        "roles": [
+          {
+            "char": "Karolina"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Torehall",
+        "nm": 3448445,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Tredje delen",
+    "tt": 1442964,
+    "air_date": "1978-11-06",
+    "description": "The villagers are gathering in the shop to elect this year's crew for the raft. They need three men aboard and one to tar the vessel. After a tense discussion Erik is elected as the second man on the raft, while Percy is appointed to do the tarring. Percy gets furious and leaves the meeting. The alderman Abraham then suggests the disregarded Nikodemus to replace him for the tarring, and Svensson to be the third man. At Valla baron Urse, Louise and Mon Cousin sit alone, since all servants have left them, because of no salary. Suddenly Urse remembers the election. He turns up at the meeting, proclaims that he invites all of them to dinner at the inn, and surprises everybody by suggesting himself to be the first man on the raft.",
+    "cast": [
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Willie Andréason",
+        "nm": 29258,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Björkholm",
+        "nm": 84943,
+        "roles": [
+          {
+            "char": "Pärcy"
+          }
+        ]
+      },
+      {
+        "name": "Olle Björling",
+        "nm": 85006,
+        "roles": [
+          {
+            "char": "Olle i Vreten"
+          }
+        ]
+      },
+      {
+        "name": "Curt Broberg",
+        "nm": 110444,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Lena Brogren",
+        "nm": 111195,
+        "roles": [
+          {
+            "char": "Louise Urse"
+          }
+        ]
+      },
+      {
+        "name": "Göran Castberg",
+        "nm": 2610239,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Siv Ericks",
+        "nm": 259001,
+        "roles": [
+          {
+            "char": "Mrs. Lönbom"
+          }
+        ]
+      },
+      {
+        "name": "Gunilla Eriksson",
+        "nm": 3424305,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Irma Erixson",
+        "nm": 259461,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Micha Gabay",
+        "nm": 299960,
+        "roles": [
+          {
+            "char": "Tok-Harry"
+          }
+        ]
+      },
+      {
+        "name": "Ann Gelbar",
+        "nm": 312192,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Göthe Grefbo",
+        "nm": 339515,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Ingvar Hirdwall",
+        "nm": 386335,
+        "roles": [
+          {
+            "char": "Skomakar-Ludde",
+            "ch": 153440
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Lille-Lars"
+          }
+        ]
+      },
+      {
+        "name": "Ola Isedal",
+        "nm": 410779,
+        "roles": [
+          {
+            "char": "Lennart i Berga"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Ingvar Kjellson",
+        "nm": 458047,
+        "roles": [
+          {
+            "char": "Mon Cousin"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Klein",
+        "nm": 3446757,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Emil Kvarnlund",
+        "nm": 3466862,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rufus Lidman",
+        "nm": 3446889,
+        "roles": [
+          {
+            "char": "Svensson's son"
+          }
+        ]
+      },
+      {
+        "name": "Evert Lindkvist",
+        "nm": 511949,
+        "roles": [
+          {
+            "char": "Elof"
+          }
+        ]
+      },
+      {
+        "name": "Jan-Eric Lindquist",
+        "nm": 512107,
+        "roles": [
+          {
+            "char": "Abraham Styf",
+            "as Jan-Erik Lindqvist": true
+          }
+        ]
+      },
+      {
+        "name": "Per Myrberg",
+        "nm": 617098,
+        "roles": [
+          {
+            "char": "Carl-Gustaf Urse"
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Dan Sjögren",
+        "nm": 803618,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Torsten Sjöholm",
+        "nm": 803654,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Sören Söderberg",
+        "nm": 845476,
+        "roles": [
+          {
+            "char": "Brunzen"
+          }
+        ]
+      },
+      {
+        "name": "Aino Taube",
+        "nm": 851408,
+        "roles": [
+          {
+            "char": "Karolina"
+          }
+        ]
+      },
+      {
+        "name": "Ragnar Thell",
+        "nm": 857418,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Fjärde delen",
+    "tt": 1442963,
+    "air_date": "1978-11-13",
+    "description": "At the first day of the stream cleansing Erik awakens at 4 o'clock in the morning, but he has to wait for two hours until Svensson and baron Urse turn up at the raft. Svensson has brought along two crates of beer and some aquavit, and he and the baron spend most of the day drinking and talking, while Erik is doing the cleansing. When it's time for lunch they have just cleansed a small part of the stream. The other villagers understand that this will not work. The Fox Breeder says that Svensson and the Baron must be replaced the following day, and asks Nikodemus and Elof to be prepared for this. At midnight the baron has a secret rendezvous with Märtha in the wood. He asks her to run away from Hedeby together with him. After some hesitation she agrees. Hidden in the greenery Erik watches the scene.",
+    "cast": [
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Lena Brogren",
+        "nm": 111195,
+        "roles": [
+          {
+            "char": "Louise Urse"
+          }
+        ]
+      },
+      {
+        "name": "Renate Dompert",
+        "nm": 3454110,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gunilla Eriksson",
+        "nm": 3424305,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Irma Erixson",
+        "nm": 259461,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Micha Gabay",
+        "nm": 299960,
+        "roles": [
+          {
+            "char": "Tok-Harry"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "Ingela Gustafsson",
+        "nm": 3445079,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ingvar Hirdwall",
+        "nm": 386335,
+        "roles": [
+          {
+            "char": "Skomakar-Ludde",
+            "ch": 153440,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Ola Isedal",
+        "nm": 410779,
+        "roles": [
+          {
+            "char": "Lennart"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Ingvar Kjellson",
+        "nm": 458047,
+        "roles": [
+          {
+            "char": "Mon Cousin"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Klein",
+        "nm": 3446757,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rufus Lidman",
+        "nm": 3446889,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Evert Lindkvist",
+        "nm": 511949,
+        "roles": [
+          {
+            "char": "Elof"
+          }
+        ]
+      },
+      {
+        "name": "Jan-Eric Lindquist",
+        "nm": 512107,
+        "roles": [
+          {
+            "char": "Abraham Styf",
+            "as Jan-Erik Lindqvist": true
+          }
+        ]
+      },
+      {
+        "name": "Per Myrberg",
+        "nm": 617098,
+        "roles": [
+          {
+            "char": "Carl-Gustaf Urse"
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Sören Söderberg",
+        "nm": 845476,
+        "roles": [
+          {
+            "char": "Brunzen"
+          }
+        ]
+      },
+      {
+        "name": "Aino Taube",
+        "nm": 851408,
+        "roles": [
+          {
+            "char": "Karolina"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Torehall",
+        "nm": 3448445,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Femte delen",
+    "tt": 1431813,
+    "air_date": "1978-11-20",
+    "description": "When Märtha awakens in the morning in the wood, after the night when she lost her virginity, she is alone. The Baron has left her, and gone back to the night camp of the men on the raft. Märtha feels deceived, and runs crying to her grandmother. A group of villagers arrive to the sleeping men at the riverside. They declare that the Baron and Svensson must leave the raft, and be replaced by Elof and Nikodemus. The Baron feels humiliated, being treated like a farm-hand by the villagers, and when he walks home, he is overwhelmed by feelings of being disliked by everybody. With a new team aboard the raft, the river is soon cleansed, and the men on the raft are met with cheers by the villagers. Nikodemus has achieved a new position in the community, and this brings about a complete change in his self-esteem. He is not a hen-pecked husband anymore. When he tells his wife that her love-affair with the shop-keeper has to stop, she embraces him tenderly.",
+    "cast": [
+      {
+        "name": "Börje Ahlstedt",
+        "nm": 14062,
+        "roles": [
+          {
+            "char": "Stora Småland"
+          }
+        ]
+      },
+      {
+        "name": "Carl-Olof Alm",
+        "nm": 21694,
+        "roles": [
+          {
+            "char": "A de Vie"
+          }
+        ]
+      },
+      {
+        "name": "Bertil Anderberg",
+        "nm": 25940,
+        "roles": [
+          {
+            "char": "Valuer"
+          }
+        ]
+      },
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Willie Andréason",
+        "nm": 29258,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Olle Björling",
+        "nm": 85006,
+        "roles": [
+          {
+            "char": "Olle i Vreten"
+          }
+        ]
+      },
+      {
+        "name": "Helena Broberg",
+        "nm": 3455699,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Maria Broberg",
+        "nm": 3480925,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Lena Brogren",
+        "nm": 111195,
+        "roles": [
+          {
+            "char": "Louise Urse",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Renate Dompert",
+        "nm": 3454110,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gunilla Eriksson",
+        "nm": 3424305,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Irma Erixson",
+        "nm": 259461,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jesper Ersgård",
+        "nm": 259827,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Micha Gabay",
+        "nm": 299960,
+        "roles": [
+          {
+            "char": "Tok-Harry"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "Ingela Gustafsson",
+        "nm": 3445079,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Ingvar Hirdwall",
+        "nm": 386335,
+        "roles": [
+          {
+            "char": "Skomakar-Ludde",
+            "ch": 153440
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Lille-Lars",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Ola Isedal",
+        "nm": 410779,
+        "roles": [
+          {
+            "char": "Lennart"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Ingvar Kjellson",
+        "nm": 458047,
+        "roles": [
+          {
+            "char": "Mon Cousin"
+          }
+        ]
+      },
+      {
+        "name": "Lotte Klein",
+        "nm": 3446757,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rufus Lidman",
+        "nm": 3446889,
+        "roles": [
+          {
+            "char": "Svensson's son"
+          }
+        ]
+      },
+      {
+        "name": "Evert Lindkvist",
+        "nm": 511949,
+        "roles": [
+          {
+            "char": "Elof"
+          }
+        ]
+      },
+      {
+        "name": "Jan-Eric Lindquist",
+        "nm": 512107,
+        "roles": [
+          {
+            "char": "Abraham Styf",
+            "as Jan-Erik Lindqvist": true
+          }
+        ]
+      },
+      {
+        "name": "Per Myrberg",
+        "nm": 617098,
+        "roles": [
+          {
+            "char": "Carl-Gustaf Urse"
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind",
+            "as Pia Rydwall": true
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Sören Söderberg",
+        "nm": 845476,
+        "roles": [
+          {
+            "char": "Brunzen"
+          }
+        ]
+      },
+      {
+        "name": "Aino Taube",
+        "nm": 851408,
+        "roles": [
+          {
+            "char": "Karolina"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Torehall",
+        "nm": 3448445,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Sjätte delen",
+    "tt": 1450922,
+    "air_date": "1978-11-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Börje Ahlstedt",
+        "nm": 14062,
+        "roles": [
+          {
+            "char": "Stora Småland"
+          }
+        ]
+      },
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Björkholm",
+        "nm": 84943,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Olle Björling",
+        "nm": 85006,
+        "roles": [
+          {
+            "char": "Olle i Vreten"
+          }
+        ]
+      },
+      {
+        "name": "Curt Broberg",
+        "nm": 110444,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helena Broberg",
+        "nm": 3455699,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Maria Broberg",
+        "nm": 3480925,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Lena Brogren",
+        "nm": 111195,
+        "roles": [
+          {
+            "char": "Louise Urse"
+          }
+        ]
+      },
+      {
+        "name": "Göran Castberg",
+        "nm": 2610239,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Micha Gabay",
+        "nm": 299960,
+        "roles": [
+          {
+            "char": "Tok-Harry"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Ingvar Hirdwall",
+        "nm": 386335,
+        "roles": [
+          {
+            "char": "Skomakar-Ludde",
+            "ch": 153440
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Lille-Lars"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Ingvar Kjellson",
+        "nm": 458047,
+        "roles": [
+          {
+            "char": "Mon Cousin"
+          }
+        ]
+      },
+      {
+        "name": "Emil Kvarnlund",
+        "nm": 3466862,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rufus Lidman",
+        "nm": 3446889,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Evert Lindkvist",
+        "nm": 511949,
+        "roles": [
+          {
+            "char": "Elof"
+          }
+        ]
+      },
+      {
+        "name": "Jan-Eric Lindquist",
+        "nm": 512107,
+        "roles": [
+          {
+            "char": "Abraham Styf",
+            "as Jan-Erik Lindqvist": true
+          }
+        ]
+      },
+      {
+        "name": "Per Myrberg",
+        "nm": 617098,
+        "roles": [
+          {
+            "char": "Carl-Gustaf Urse"
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Prüzelius",
+        "nm": 699604,
+        "roles": [
+          {
+            "char": "Vicar Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Dan Sjögren",
+        "nm": 803618,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Curt Spångberg",
+        "nm": 820017,
+        "roles": [
+          {
+            "char": "Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Aino Taube",
+        "nm": 851408,
+        "roles": [
+          {
+            "char": "Karolina"
+          }
+        ]
+      },
+      {
+        "name": "Ragnar Thell",
+        "nm": 857418,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Sjunde delen",
+    "tt": 1455738,
+    "air_date": "1980-04-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Olle Björling",
+        "nm": 85006,
+        "roles": [
+          {
+            "char": "Olle i Vreten"
+          }
+        ]
+      },
+      {
+        "name": "Maria Broberg",
+        "nm": 3480925,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Siv Ericks",
+        "nm": 259001,
+        "roles": [
+          {
+            "char": "Mrs. Lönbom",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Ann Gelbar",
+        "nm": 312192,
+        "roles": [
+          {
+            "char": "Teacher"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Lille-Lars"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Tatjana Kledzik",
+        "nm": 3504389,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rufus Lidman",
+        "nm": 3446889,
+        "roles": [
+          {
+            "char": "Svensson's son"
+          }
+        ]
+      },
+      {
+        "name": "Evert Lindkvist",
+        "nm": 511949,
+        "roles": [
+          {
+            "char": "Elof"
+          }
+        ]
+      },
+      {
+        "name": "Alf Nilsson",
+        "nm": 632151,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Prüzelius",
+        "nm": 699604,
+        "roles": [
+          {
+            "char": "Vicar Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Sjögren",
+        "nm": 803618,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Aino Taube",
+        "nm": 851408,
+        "roles": [
+          {
+            "char": "Karolina"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Åttonde delen",
+    "tt": 1460274,
+    "air_date": "1980-04-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl-Olof Alm",
+        "nm": 21694,
+        "roles": [
+          {
+            "char": "A de Vie"
+          }
+        ]
+      },
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Olle Björling",
+        "nm": 85006,
+        "roles": [
+          {
+            "char": "Olle i Vreten"
+          }
+        ]
+      },
+      {
+        "name": "Maria Broberg",
+        "nm": 3480925,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Siv Ericks",
+        "nm": 259001,
+        "roles": [
+          {
+            "char": "Mrs. Lönbom"
+          }
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Göthe Grefbo",
+        "nm": 339515,
+        "roles": [
+          {
+            "char": "Mr. Lönbom"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Lille-Lars"
+          }
+        ]
+      },
+      {
+        "name": "Ola Isedal",
+        "nm": 410779,
+        "roles": [
+          {
+            "char": "Lennart"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Tatjana Kledzik",
+        "nm": 3504389,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rufus Lidman",
+        "nm": 3446889,
+        "roles": [
+          {
+            "char": "Svensson's son"
+          }
+        ]
+      },
+      {
+        "name": "Evert Lindkvist",
+        "nm": 511949,
+        "roles": [
+          {
+            "char": "Elof"
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Prüzelius",
+        "nm": 699604,
+        "roles": [
+          {
+            "char": "Vicar Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind",
+            "as Pia Rydwall": true
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Aino Taube",
+        "nm": 851408,
+        "roles": [
+          {
+            "char": "Karolina"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Nionde delen",
+    "tt": 1465951,
+    "air_date": "1980-09-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Björkholm",
+        "nm": 84943,
+        "roles": [
+          {
+            "char": "Pärcy"
+          }
+        ]
+      },
+      {
+        "name": "Olle Björling",
+        "nm": 85006,
+        "roles": [
+          {
+            "char": "Olle i Vreten"
+          }
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Ola Isedal",
+        "nm": 410779,
+        "roles": [
+          {
+            "char": "Lennart"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Tatjana Kledzik",
+        "nm": 3504389,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bertil Norström",
+        "nm": 635959,
+        "roles": [
+          {
+            "char": "Pastry chef Ohlson"
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Prüzelius",
+        "nm": 699604,
+        "roles": [
+          {
+            "char": "Vicar Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Dan Sjögren",
+        "nm": 803618,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Torsten Sjöholm",
+        "nm": 803654,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Aino Taube",
+        "nm": 851408,
+        "roles": [
+          {
+            "char": "Karolina"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Tionde delen",
+    "tt": 1468777,
+    "air_date": "1980-10-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl-Olof Alm",
+        "nm": 21694,
+        "roles": [
+          {
+            "char": "A de Vie"
+          }
+        ]
+      },
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Björkholm",
+        "nm": 84943,
+        "roles": [
+          {
+            "char": "Pärcy"
+          }
+        ]
+      },
+      {
+        "name": "Olle Björling",
+        "nm": 85006,
+        "roles": [
+          {
+            "char": "Olle i Vreten"
+          }
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Anders Ek",
+        "nm": 252244,
+        "roles": [
+          {
+            "char": "Constable Emanuel Olson"
+          }
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Lille-Lars"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Tatjana Kledzik",
+        "nm": 3504389,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Evert Lindkvist",
+        "nm": 511949,
+        "roles": [
+          {
+            "char": "Elof"
+          }
+        ]
+      },
+      {
+        "name": "Bertil Norström",
+        "nm": 635959,
+        "roles": [
+          {
+            "char": "Pastry chef Ohlson"
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Prüzelius",
+        "nm": 699604,
+        "roles": [
+          {
+            "char": "Vicar Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind",
+            "as Pia Rydwall": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Sjögren",
+        "nm": 803618,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Elfte delen",
+    "tt": 1473575,
+    "air_date": "1980-10-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Olle Björling",
+        "nm": 85006,
+        "roles": [
+          {
+            "char": "Olle i Vreten"
+          }
+        ]
+      },
+      {
+        "name": "Maria Broberg",
+        "nm": 3480925,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Anders Ek",
+        "nm": 252244,
+        "roles": [
+          {
+            "char": "Fjärsman Emanuel Olson"
+          }
+        ]
+      },
+      {
+        "name": "Sten Engborg",
+        "nm": 257016,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jan Eriksson",
+        "nm": 3534744,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Lille-Lars"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Tatjana Kledzik",
+        "nm": 3504389,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kent-Jerry Larsson",
+        "nm": 3543302,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rufus Lidman",
+        "nm": 3446889,
+        "roles": [
+          {
+            "char": "Svensson's son"
+          }
+        ]
+      },
+      {
+        "name": "Evert Lindkvist",
+        "nm": 511949,
+        "roles": [
+          {
+            "char": "Elof"
+          }
+        ]
+      },
+      {
+        "name": "Alf Nilsson",
+        "nm": 632151,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bertil Norström",
+        "nm": 635959,
+        "roles": [
+          {
+            "char": "Pastry chef Ohlson"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Prüzelius",
+        "nm": 699604,
+        "roles": [
+          {
+            "char": "Vicar Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Torsten Sjöholm",
+        "nm": 803654,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helge Skoog",
+        "nm": 804636,
+        "roles": [
+          {
+            "char": "Eberman"
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "Tolfte delen",
+    "tt": 1476326,
+    "air_date": "1980-10-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Olle Björling",
+        "nm": 85006,
+        "roles": [
+          {
+            "char": "Olle i Vreten"
+          }
+        ]
+      },
+      {
+        "name": "Maria Broberg",
+        "nm": 3480925,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Anders Ek",
+        "nm": 252244,
+        "roles": [
+          {
+            "char": "Fjärsman Emanuel Olson"
+          }
+        ]
+      },
+      {
+        "name": "Jan Eriksson",
+        "nm": 3552666,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Lille-Lars"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Tatjana Kledzik",
+        "nm": 3504389,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kent-Jerry Larsson",
+        "nm": 3543302,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Evert Lindkvist",
+        "nm": 511949,
+        "roles": [
+          {
+            "char": "Elof"
+          }
+        ]
+      },
+      {
+        "name": "Alf Nilsson",
+        "nm": 632151,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bertil Norström",
+        "nm": 635959,
+        "roles": [
+          {
+            "char": "Pastry chef Ohlson"
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Helge Skoog",
+        "nm": 804636,
+        "roles": [
+          {
+            "char": "Eberman"
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Inga Ålenius",
+        "nm": 959799,
+        "roles": [
+          {
+            "char": "Midwife"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E01",
+    "title": "Trettonde delen",
+    "tt": 1481028,
+    "air_date": "1982-04-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jan Malmsjö",
+        "nm": 540300,
+        "roles": [
+          {
+            "char": "Löjtnant Kyhle"
+          }
+        ]
+      },
+      {
+        "name": "Lena Brogren",
+        "nm": 111195,
+        "roles": [
+          {
+            "char": "Louise Urse"
+          }
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Carl-Olof Alm",
+        "nm": 21694,
+        "roles": [
+          {
+            "char": "A de Vie"
+          }
+        ]
+      },
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Halvar Björk",
+        "nm": 84917,
+        "roles": [
+          {
+            "char": "Stora Småland"
+          }
+        ]
+      },
+      {
+        "name": "Siv Ericks",
+        "nm": 259001,
+        "roles": [
+          {
+            "char": "Mrs. Lönbom"
+          }
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Kjell-Hugo Grandin",
+        "nm": 334876,
+        "roles": [
+          {
+            "char": "Fänrik Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Åke Lindström",
+        "nm": 512537,
+        "roles": [
+          {
+            "char": "Major Eberman"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Prüzelius",
+        "nm": 699604,
+        "roles": [
+          {
+            "char": "Vicar Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Dan Sjögren",
+        "nm": 803618,
+        "roles": [
+          {
+            "char": "Fjärsman"
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E02",
+    "title": "Fjortonde delen",
+    "tt": 1486300,
+    "air_date": "1982-04-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jan Malmsjö",
+        "nm": 540300,
+        "roles": [
+          {
+            "char": "Löjtnant Kyhle"
+          }
+        ]
+      },
+      {
+        "name": "Lena Brogren",
+        "nm": 111195,
+        "roles": [
+          {
+            "char": "Louise Urse"
+          }
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Carl-Olof Alm",
+        "nm": 21694,
+        "roles": [
+          {
+            "char": "A de Vie"
+          }
+        ]
+      },
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Halvar Björk",
+        "nm": 84917,
+        "roles": [
+          {
+            "char": "Stora Småland"
+          }
+        ]
+      },
+      {
+        "name": "Siv Ericks",
+        "nm": 259001,
+        "roles": [
+          {
+            "char": "Mrs. Lönbom"
+          }
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Kjell-Hugo Grandin",
+        "nm": 334876,
+        "roles": [
+          {
+            "char": "Fänrik Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Göthe Grefbo",
+        "nm": 339515,
+        "roles": [
+          {
+            "char": "Mr. Lönbom"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Kerstin Harryson",
+        "nm": 3552116,
+        "roles": [
+          {
+            "char": "Berit"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Tatjana Kledzik",
+        "nm": 3504389,
+        "roles": [
+          {
+            "char": "Agnes"
+          }
+        ]
+      },
+      {
+        "name": "Åke Lindström",
+        "nm": 512537,
+        "roles": [
+          {
+            "char": "Major Eberman"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Prüzelius",
+        "nm": 699604,
+        "roles": [
+          {
+            "char": "Vicar Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Magnus Påhlman",
+        "nm": 3569425,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E03",
+    "title": "Femtonde delen",
+    "tt": 1488767,
+    "air_date": "1982-04-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl-Olof Alm",
+        "nm": 21694,
+        "roles": [
+          {
+            "char": "A de Vie"
+          }
+        ]
+      },
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Sten Ardenstam",
+        "nm": 34023,
+        "roles": [
+          {
+            "char": "Man on the train"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Halvar Björk",
+        "nm": 84917,
+        "roles": [
+          {
+            "char": "Stora Småland"
+          }
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Lena Brogren",
+        "nm": 111195,
+        "roles": [
+          {
+            "char": "Louise Urse"
+          }
+        ]
+      },
+      {
+        "name": "Siv Ericks",
+        "nm": 259001,
+        "roles": [
+          {
+            "char": "Mrs. Lönbom"
+          }
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Kjell-Hugo Grandin",
+        "nm": 334876,
+        "roles": [
+          {
+            "char": "Ensign Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "Berta Hall",
+        "nm": 355343,
+        "roles": [
+          {
+            "char": "Old lady on the train"
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Kerstin Harryson",
+        "nm": 3552116,
+        "roles": [
+          {
+            "char": "Berit"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Tatjana Kledzik",
+        "nm": 3504389,
+        "roles": [
+          {
+            "char": "Agnes"
+          }
+        ]
+      },
+      {
+        "name": "Pontus Lindblom",
+        "nm": 3566747,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Åke Lindström",
+        "nm": 512537,
+        "roles": [
+          {
+            "char": "Major Eberman"
+          }
+        ]
+      },
+      {
+        "name": "Jan Malmsjö",
+        "nm": 540300,
+        "roles": [
+          {
+            "char": "Kettil Kyhle"
+          }
+        ]
+      },
+      {
+        "name": "Håkan Norlén",
+        "nm": 635420,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Anders Nyström",
+        "nm": 638885,
+        "roles": [
+          {
+            "char": "Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Prüzelius",
+        "nm": 699604,
+        "roles": [
+          {
+            "char": "Vicar Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Magnus Påhlman",
+        "nm": 3569425,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind",
+            "as Pia Rydwall": true
+          }
+        ]
+      },
+      {
+        "name": "Jerk Rysjö",
+        "nm": 753450,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E04",
+    "title": "Sextonde delen",
+    "tt": 1491891,
+    "air_date": "1982-04-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Bergqvist",
+        "nm": 74997,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Olof Bergström",
+        "nm": 75108,
+        "roles": [
+          {
+            "char": "Colonel"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Halvar Björk",
+        "nm": 84917,
+        "roles": [
+          {
+            "char": "Stora Småland"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Björkholm",
+        "nm": 84943,
+        "roles": [
+          {
+            "char": "Pärcy"
+          }
+        ]
+      },
+      {
+        "name": "Linda Bolander",
+        "nm": 3551857,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Lena Brogren",
+        "nm": 111195,
+        "roles": [
+          {
+            "char": "Louise Urse",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Siv Ericks",
+        "nm": 259001,
+        "roles": [
+          {
+            "char": "Mrs. Lönbom"
+          }
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Kerstin Harryson",
+        "nm": 3552116,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Tatjana Kledzik",
+        "nm": 3504389,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marika Lindström",
+        "nm": 512515,
+        "roles": [
+          {
+            "char": "Estelle"
+          }
+        ]
+      },
+      {
+        "name": "Ingegerd Lönnbom",
+        "nm": 3551793,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jan Malmsjö",
+        "nm": 540300,
+        "roles": [
+          {
+            "char": "Kettil Kyhle"
+          }
+        ]
+      },
+      {
+        "name": "Kåre Mölder",
+        "nm": 617854,
+        "roles": [
+          {
+            "char": "Olle"
+          }
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind",
+            "as Pia Rydwall": true
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Christer Söderlund",
+        "nm": 845513,
+        "roles": [
+          {
+            "char": "Nisse Fisk"
+          }
+        ]
+      },
+      {
+        "name": "Kjell-Hugo Grandin",
+        "nm": 334876,
+        "roles": [
+          {
+            "char": "Ensign Ahlenius",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E05",
+    "title": "Sjuttonde delen",
+    "tt": 1497951,
+    "air_date": "1982-05-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Annicka Alm",
+        "nm": 3590207,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Halvar Björk",
+        "nm": 84917,
+        "roles": [
+          {
+            "char": "Stora Småland"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Björkholm",
+        "nm": 84943,
+        "roles": [
+          {
+            "char": "Pärcy"
+          }
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Verner Edberg",
+        "nm": 248818,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nils Eklund",
+        "nm": 252434,
+        "roles": [
+          {
+            "char": "Pawn-broker"
+          }
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Per Flygare",
+        "nm": 283392,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Per Grundén",
+        "nm": 344582,
+        "roles": [
+          {
+            "char": "Zetterlind"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gräns",
+        "nm": 344881,
+        "roles": [
+          {
+            "char": "Agda"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Holmberg",
+        "nm": 391691,
+        "roles": [
+          {
+            "char": "Sonja"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Olof Lindfors",
+        "nm": 511789,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marika Lindström",
+        "nm": 512515,
+        "roles": [
+          {
+            "char": "Estelle"
+          }
+        ]
+      },
+      {
+        "name": "Jan Malmsjö",
+        "nm": 540300,
+        "roles": [
+          {
+            "char": "Kettil Kyhle"
+          }
+        ]
+      },
+      {
+        "name": "Kåre Mölder",
+        "nm": 617854,
+        "roles": [
+          {
+            "char": "Olle"
+          }
+        ]
+      },
+      {
+        "name": "Jen Pramfors",
+        "nm": 3589259,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gösta Prüzelius",
+        "nm": 699604,
+        "roles": [
+          {
+            "char": "Vicar Ahlenius"
+          }
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind",
+            "as Pia Rydwall": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Sjögren",
+        "nm": 803618,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Christer Söderlund",
+        "nm": 845513,
+        "roles": [
+          {
+            "char": "Nisse Fisk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E06",
+    "title": "Artonde delen",
+    "tt": 1501935,
+    "air_date": "1982-05-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kent Andersson",
+        "nm": 27725,
+        "roles": [
+          {
+            "char": "Ville Vingåker"
+          }
+        ]
+      },
+      {
+        "name": "Lena-Pia Bernhardsson",
+        "nm": 76772,
+        "roles": [
+          {
+            "char": "Selma"
+          }
+        ]
+      },
+      {
+        "name": "Halvar Björk",
+        "nm": 84917,
+        "roles": [
+          {
+            "char": "Stora Småland"
+          }
+        ]
+      },
+      {
+        "name": "Helena Brodin",
+        "nm": 110929,
+        "roles": [
+          {
+            "char": "Signe Svensson"
+          }
+        ]
+      },
+      {
+        "name": "Lena Brogren",
+        "nm": 111195,
+        "roles": [
+          {
+            "char": "Louise Urse"
+          }
+        ]
+      },
+      {
+        "name": "Siv Ericks",
+        "nm": 259001,
+        "roles": [
+          {
+            "char": "Mrs. Lönbom"
+          }
+        ]
+      },
+      {
+        "name": "Lauritz Falk",
+        "nm": 266164,
+        "roles": [
+          {
+            "char": "Müntzing"
+          }
+        ]
+      },
+      {
+        "name": "Nina Gunke",
+        "nm": 348140,
+        "roles": [
+          {
+            "char": "Märtha",
+            "ch": 105506
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Merchant"
+          }
+        ]
+      },
+      {
+        "name": "Kerstin Harryson",
+        "nm": 3552116,
+        "roles": [
+          {
+            "char": "Berit"
+          }
+        ]
+      },
+      {
+        "name": "Peter Harryson",
+        "nm": 366070,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Nikodemus Johansson"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Krantz",
+        "nm": 469795,
+        "roles": [
+          {
+            "char": "Estelle's Husband"
+          }
+        ]
+      },
+      {
+        "name": "Marika Lindström",
+        "nm": 512515,
+        "roles": [
+          {
+            "char": "Estelle"
+          }
+        ]
+      },
+      {
+        "name": "Jan Malmsjö",
+        "nm": 540300,
+        "roles": [
+          {
+            "char": "Kettil Kyhle"
+          }
+        ]
+      },
+      {
+        "name": "Pia Rydvall",
+        "nm": 753204,
+        "roles": [
+          {
+            "char": "Nora Zetterlind",
+            "as Pia Rydwall": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Sjögren",
+        "nm": 803618,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Emy Storm",
+        "nm": 832558,
+        "roles": [
+          {
+            "char": "Hilma"
+          }
+        ]
+      },
+      {
+        "name": "Hans Strååt",
+        "nm": 835482,
+        "roles": [
+          {
+            "char": "Dr. Lundewall"
+          }
+        ]
+      },
+      {
+        "name": "Allan Svensson",
+        "nm": 841095,
+        "roles": [
+          {
+            "char": "Erik"
+          }
+        ]
+      },
+      {
+        "name": "Roland Söderberg",
+        "nm": 845474,
+        "roles": [
+          {
+            "char": "Fox breeder"
+          }
+        ]
+      },
+      {
+        "name": "Christer Söderlund",
+        "nm": 845513,
+        "roles": [
+          {
+            "char": "Nisse Fisk"
+          }
+        ]
+      }
+    ]
+  }
+]

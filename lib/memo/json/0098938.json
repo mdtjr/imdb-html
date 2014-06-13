@@ -1,0 +1,2387 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 803726,
+    "air_date": "1990-05-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "Jayne Alfred",
+        "nm": 2263690,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sarah Bolden",
+        "nm": 1527310,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Guy Brougham",
+        "nm": 2264754,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "John Collis",
+        "nm": 2269823,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hardiman",
+        "nm": 362190,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Siobhan Hayes",
+        "nm": 371225,
+        "roles": [
+          {
+            "char": "4C Pupil Wendy"
+          }
+        ]
+      },
+      {
+        "name": "Sonny Sheridan",
+        "nm": 1604685,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Kevin Treasure",
+        "nm": 2265470,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 803727,
+    "air_date": "1990-05-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Roger 'Razors' Razebrook",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "George Harris",
+        "nm": 364711,
+        "roles": [
+          {
+            "char": "Mr. Griffiths"
+          }
+        ]
+      },
+      {
+        "name": "Charles Collingwood",
+        "nm": 172081,
+        "roles": [
+          {
+            "char": "Newsreader"
+          }
+        ]
+      },
+      {
+        "name": "Louise Gold",
+        "nm": 325028,
+        "roles": [
+          {
+            "char": "Voices",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jayne Alfred",
+        "nm": 2263690,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sarah Bolden",
+        "nm": 1527310,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Guy Brougham",
+        "nm": 2264754,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "John Collis",
+        "nm": 2269823,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hardiman",
+        "nm": 362190,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Siobhan Hayes",
+        "nm": 371225,
+        "roles": [
+          {
+            "char": "4C Pupil Wendy"
+          }
+        ]
+      },
+      {
+        "name": "Sonny Sheridan",
+        "nm": 1604685,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Kevin Treasure",
+        "nm": 2265470,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Episode #1.3",
+    "tt": 803728,
+    "air_date": "1990-05-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "Gerald Campion",
+        "nm": 133054,
+        "roles": [
+          {
+            "char": "Old Man"
+          }
+        ]
+      },
+      {
+        "name": "Jayne Alfred",
+        "nm": 2263690,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sarah Bolden",
+        "nm": 1527310,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Guy Brougham",
+        "nm": 2264754,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "John Collis",
+        "nm": 2269823,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hardiman",
+        "nm": 362190,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Siobhan Hayes",
+        "nm": 371225,
+        "roles": [
+          {
+            "char": "4C Pupil Wendy"
+          }
+        ]
+      },
+      {
+        "name": "Sonny Sheridan",
+        "nm": 1604685,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Kevin Treasure",
+        "nm": 2265470,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Episode #1.4",
+    "tt": 803729,
+    "air_date": "1990-05-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "Jayne Alfred",
+        "nm": 2263690,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sarah Bolden",
+        "nm": 1527310,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Guy Brougham",
+        "nm": 2264754,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "John Collis",
+        "nm": 2269823,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hardiman",
+        "nm": 362190,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Siobhan Hayes",
+        "nm": 371225,
+        "roles": [
+          {
+            "char": "4C Pupil Wendy"
+          }
+        ]
+      },
+      {
+        "name": "Sonny Sheridan",
+        "nm": 1604685,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Kevin Treasure",
+        "nm": 2265470,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Episode #1.5",
+    "tt": 803730,
+    "air_date": "1990-05-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "Jayne Alfred",
+        "nm": 2263690,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sarah Bolden",
+        "nm": 1527310,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Guy Brougham",
+        "nm": 2264754,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "John Collis",
+        "nm": 2269823,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hardiman",
+        "nm": 362190,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Siobhan Hayes",
+        "nm": 371225,
+        "roles": [
+          {
+            "char": "4C Pupil Wendy"
+          }
+        ]
+      },
+      {
+        "name": "Sonny Sheridan",
+        "nm": 1604685,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Kevin Treasure",
+        "nm": 2265470,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Episode #1.6",
+    "tt": 803731,
+    "air_date": "1990-06-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "Charles Collingwood",
+        "nm": 172081,
+        "roles": [
+          {
+            "char": "Newsreader"
+          }
+        ]
+      },
+      {
+        "name": "Jayne Alfred",
+        "nm": 2263690,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sarah Bolden",
+        "nm": 1527310,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Guy Brougham",
+        "nm": 2264754,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "John Collis",
+        "nm": 2269823,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hardiman",
+        "nm": 362190,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Siobhan Hayes",
+        "nm": 371225,
+        "roles": [
+          {
+            "char": "4C Pupil Wendy"
+          }
+        ]
+      },
+      {
+        "name": "Sonny Sheridan",
+        "nm": 1604685,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Kevin Treasure",
+        "nm": 2265470,
+        "roles": [
+          {
+            "char": "4C Pupil",
+            "ch": 214315
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Episode #2.1",
+    "tt": 803732,
+    "air_date": "1991-05-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "David Robb",
+        "nm": 730191,
+        "roles": [
+          {
+            "char": "Charles",
+            "ch": 94162
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Leach",
+        "nm": 494863,
+        "roles": [
+          {
+            "char": "Aunt Vinny"
+          }
+        ]
+      },
+      {
+        "name": "Jayne Alfred",
+        "nm": 2263690,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sarah Bolden",
+        "nm": 1527310,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "John Collis",
+        "nm": 2269823,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hardiman",
+        "nm": 362190,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Siobhan Hayes",
+        "nm": 371225,
+        "roles": [
+          {
+            "char": "5C Pupil Wendy"
+          }
+        ]
+      },
+      {
+        "name": "Dean Richard",
+        "nm": 2384750,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sonny Sheridan",
+        "nm": 1604685,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Kevin Treasure",
+        "nm": 2265470,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Episode #2.2",
+    "tt": 803733,
+    "air_date": "1991-06-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "David Robb",
+        "nm": 730191,
+        "roles": [
+          {
+            "char": "Charles",
+            "ch": 94162
+          }
+        ]
+      },
+      {
+        "name": "Jayne Alfred",
+        "nm": 2263690,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sarah Bolden",
+        "nm": 1527310,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hardiman",
+        "nm": 362190,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Siobhan Hayes",
+        "nm": 371225,
+        "roles": [
+          {
+            "char": "5C Pupil Wendy"
+          }
+        ]
+      },
+      {
+        "name": "Dean Richard",
+        "nm": 2384750,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sonny Sheridan",
+        "nm": 1604685,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Kevin Treasure",
+        "nm": 2265470,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Episode #2.3",
+    "tt": 803734,
+    "air_date": "1991-06-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "David Robb",
+        "nm": 730191,
+        "roles": [
+          {
+            "char": "Charles",
+            "ch": 94162
+          }
+        ]
+      },
+      {
+        "name": "Neil McCaul",
+        "nm": 565482,
+        "roles": [
+          {
+            "char": "Bill"
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "Jayne Alfred",
+        "nm": 2263690,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sarah Bolden",
+        "nm": 1527310,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hardiman",
+        "nm": 362190,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Siobhan Hayes",
+        "nm": 371225,
+        "roles": [
+          {
+            "char": "5C Pupil Wendy"
+          }
+        ]
+      },
+      {
+        "name": "Dean Richard",
+        "nm": 2384750,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sonny Sheridan",
+        "nm": 1604685,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Kevin Treasure",
+        "nm": 2265470,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Episode #2.4",
+    "tt": 803735,
+    "air_date": "1991-06-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "David Robb",
+        "nm": 730191,
+        "roles": [
+          {
+            "char": "Charles",
+            "ch": 94162
+          }
+        ]
+      },
+      {
+        "name": "Neil McCaul",
+        "nm": 565482,
+        "roles": [
+          {
+            "char": "Bill Bailey"
+          }
+        ]
+      },
+      {
+        "name": "Ivor Roberts",
+        "nm": 731175,
+        "roles": [
+          {
+            "char": "Mr. Armstrong"
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "Phyllida Law",
+        "nm": 492373,
+        "roles": [
+          {
+            "char": "Mrs. Armstrong"
+          }
+        ]
+      },
+      {
+        "name": "Jayne Alfred",
+        "nm": 2263690,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sarah Bolden",
+        "nm": 1527310,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hardiman",
+        "nm": 362190,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Siobhan Hayes",
+        "nm": 371225,
+        "roles": [
+          {
+            "char": "5C Pupil Wendy"
+          }
+        ]
+      },
+      {
+        "name": "Dean Richard",
+        "nm": 2384750,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Sonny Sheridan",
+        "nm": 1604685,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      },
+      {
+        "name": "Kevin Treasure",
+        "nm": 2265470,
+        "roles": [
+          {
+            "char": "5C Pupil",
+            "ch": 214315
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Episode #2.5",
+    "tt": 803736,
+    "air_date": "1991-06-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "David Robb",
+        "nm": 730191,
+        "roles": [
+          {
+            "char": "Charles",
+            "ch": 94162
+          }
+        ]
+      },
+      {
+        "name": "Neil McCaul",
+        "nm": 565482,
+        "roles": [
+          {
+            "char": "Bill Bailey"
+          }
+        ]
+      },
+      {
+        "name": "Alfred Le Prevost",
+        "nm": 1951933,
+        "roles": [
+          {
+            "char": "Child"
+          }
+        ]
+      },
+      {
+        "name": "Betsy Vriend",
+        "nm": 2362346,
+        "roles": [
+          {
+            "char": "Child"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "Episode #2.6",
+    "tt": 803737,
+    "air_date": "1991-07-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "David Robb",
+        "nm": 730191,
+        "roles": [
+          {
+            "char": "Charles",
+            "ch": 94162
+          }
+        ]
+      },
+      {
+        "name": "Neil McCaul",
+        "nm": 565482,
+        "roles": [
+          {
+            "char": "Bill Bailey"
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E01",
+    "title": "Episode #3.1",
+    "tt": 803738,
+    "air_date": "1993-05-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "Neil McCaul",
+        "nm": 565482,
+        "roles": [
+          {
+            "char": "Bill Bailey"
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "Francesca Brill",
+        "nm": 109330,
+        "roles": [
+          {
+            "char": "Marianne"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E02",
+    "title": "Episode #3.2",
+    "tt": 803739,
+    "air_date": "1993-06-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "Neil McCaul",
+        "nm": 565482,
+        "roles": [
+          {
+            "char": "Bill Bailey"
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "Adrienne O'Sullivan",
+        "nm": 1408979,
+        "roles": [
+          {
+            "char": "Linda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E03",
+    "title": "Episode #3.3",
+    "tt": 803740,
+    "air_date": "1993-06-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "Neil McCaul",
+        "nm": 565482,
+        "roles": [
+          {
+            "char": "Bill Bailey"
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E04",
+    "title": "Episode #3.4",
+    "tt": 803741,
+    "air_date": "1993-06-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "Neil McCaul",
+        "nm": 565482,
+        "roles": [
+          {
+            "char": "Bill Bailey"
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281,
+            "as Rene Zagger": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E05",
+    "title": "Episode #3.5",
+    "tt": 803742,
+    "air_date": "1993-06-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "Neil McCaul",
+        "nm": 565482,
+        "roles": [
+          {
+            "char": "Bill Bailey"
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E06",
+    "title": "Episode #3.6",
+    "tt": 803743,
+    "air_date": "1993-07-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Imelda Staunton",
+        "nm": 1767,
+        "roles": [
+          {
+            "char": "Izzy",
+            "ch": 214310
+          }
+        ]
+      },
+      {
+        "name": "Mike Grady",
+        "nm": 333612,
+        "roles": [
+          {
+            "char": "Dick",
+            "ch": 88446
+          }
+        ]
+      },
+      {
+        "name": "Tessa Peake-Jones",
+        "nm": 668854,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 214311
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Le Prevost",
+        "nm": 494549,
+        "roles": [
+          {
+            "char": "Michael",
+            "ch": 214312
+          }
+        ]
+      },
+      {
+        "name": "Susan Kyd",
+        "nm": 477326,
+        "roles": [
+          {
+            "char": "Louise",
+            "ch": 214313
+          }
+        ]
+      },
+      {
+        "name": "Tom Mannion",
+        "nm": 543429,
+        "roles": [
+          {
+            "char": "Gwyn",
+            "ch": 214314
+          }
+        ]
+      },
+      {
+        "name": "Neil McCaul",
+        "nm": 565482,
+        "roles": [
+          {
+            "char": "Bill Bailey"
+          }
+        ]
+      },
+      {
+        "name": "René Zagger",
+        "nm": 951843,
+        "roles": [
+          {
+            "char": "Razors",
+            "ch": 165281
+          }
+        ]
+      },
+      {
+        "name": "Adrienne O'Sullivan",
+        "nm": 1408979,
+        "roles": [
+          {
+            "char": "Linda"
+          }
+        ]
+      }
+    ]
+  }
+]

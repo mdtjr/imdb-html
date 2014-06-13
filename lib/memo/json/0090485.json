@@ -1,0 +1,1154 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Firebird",
+    "tt": 651288,
+    "air_date": "1986-03-25",
+    "description": "When a fire destroys the Morningstar Home, a local L.A. orphanage, the administrator, Bob Lane, moves his young charges into the Eveningstar Home, a retirement community for senior citizens managed by social worker Debbie Flynn, whom they used to be romantically involved. The exceptional senior citizens, Martha, Bill, Binnie, Kathy, Excell, Gordon, and Nora, provide the children with knowledge and skills acquired from their long lives while the kids, Alan, Sarah, Kevin, Lisa, Martin, Doug, and Eugenie, provide the elders with a feeling of accomplishment and renewed vitality.",
+    "cast": [
+      {
+        "name": "Sherry Hursey",
+        "nm": 403564,
+        "roles": [
+          {
+            "char": "Debbie Flynn"
+          }
+        ]
+      },
+      {
+        "name": "Darrell Larson",
+        "nm": 488970,
+        "roles": [
+          {
+            "char": "Bob Lane",
+            "ch": 365738
+          }
+        ]
+      },
+      {
+        "name": "Kate Reid",
+        "nm": 3679,
+        "roles": [
+          {
+            "char": "Martha Cameron"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Corey",
+        "nm": 179786,
+        "roles": [
+          {
+            "char": "Bill McGregor",
+            "ch": 365737
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Sidney",
+        "nm": 796662,
+        "roles": [
+          {
+            "char": "Binnie Baylor"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Wilson",
+        "nm": 933361,
+        "roles": [
+          {
+            "char": "Kathy Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Scatman Crothers",
+        "nm": 1079,
+        "roles": [
+          {
+            "char": "Excell Dennis"
+          }
+        ]
+      },
+      {
+        "name": "Mason Adams",
+        "nm": 11199,
+        "roles": [
+          {
+            "char": "Gordon Blair",
+            "ch": 309664
+          }
+        ]
+      },
+      {
+        "name": "Ketty Lester",
+        "nm": 504480,
+        "roles": [
+          {
+            "char": "Nora Blake"
+          }
+        ]
+      },
+      {
+        "name": "Fred Savage",
+        "nm": 625,
+        "roles": [
+          {
+            "char": "Alan Bishop",
+            "ch": 309665
+          }
+        ]
+      },
+      {
+        "name": "Melissa Francis",
+        "nm": 290261,
+        "roles": [
+          {
+            "char": "Sarah Bishop",
+            "as Missy Francis": true
+          }
+        ]
+      },
+      {
+        "name": "Christopher Peters",
+        "nm": 676368,
+        "roles": [
+          {
+            "char": "Kevin Murphy",
+            "ch": 365736,
+            "as Chris Peters": true
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Lisa Thurston"
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Martin Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "nm": 1618,
+        "roles": [
+          {
+            "char": "Doug Roberts",
+            "ch": 309666,
+            "as Leaf Phoenix": true
+          }
+        ]
+      },
+      {
+        "name": "Ebonie Smith",
+        "nm": 808077,
+        "roles": [
+          {
+            "char": "Eugenie Waters"
+          }
+        ]
+      },
+      {
+        "name": "Teresa Wright",
+        "nm": 942863,
+        "roles": [
+          {
+            "char": "Alice Blair"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "A Rose for Alice",
+    "tt": 651287,
+    "air_date": "1986-04-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Sherry Hursey",
+        "nm": 403564,
+        "roles": [
+          {
+            "char": "Debbie Flynn"
+          }
+        ]
+      },
+      {
+        "name": "Darrell Larson",
+        "nm": 488970,
+        "roles": [
+          {
+            "char": "Bob Lane",
+            "ch": 365738
+          }
+        ]
+      },
+      {
+        "name": "Kate Reid",
+        "nm": 3679,
+        "roles": [
+          {
+            "char": "Martha Cameron"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Corey",
+        "nm": 179786,
+        "roles": [
+          {
+            "char": "Bill McGregor",
+            "ch": 365737
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Sidney",
+        "nm": 796662,
+        "roles": [
+          {
+            "char": "Binnie Baylor"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Wilson",
+        "nm": 933361,
+        "roles": [
+          {
+            "char": "Kathy Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Scatman Crothers",
+        "nm": 1079,
+        "roles": [
+          {
+            "char": "Excell Dennis"
+          }
+        ]
+      },
+      {
+        "name": "Mason Adams",
+        "nm": 11199,
+        "roles": [
+          {
+            "char": "Gordon Blair",
+            "ch": 309664
+          }
+        ]
+      },
+      {
+        "name": "Ketty Lester",
+        "nm": 504480,
+        "roles": [
+          {
+            "char": "Nora Blake"
+          }
+        ]
+      },
+      {
+        "name": "Fred Savage",
+        "nm": 625,
+        "roles": [
+          {
+            "char": "Alan Bishop",
+            "ch": 309665
+          }
+        ]
+      },
+      {
+        "name": "Melissa Francis",
+        "nm": 290261,
+        "roles": [
+          {
+            "char": "Sarah Bishop",
+            "as Missy Francis": true
+          }
+        ]
+      },
+      {
+        "name": "Christopher Peters",
+        "nm": 676368,
+        "roles": [
+          {
+            "char": "Kevin Murphy",
+            "ch": 365736,
+            "as Chris Peters": true
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Lisa Thurston"
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Martin Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "nm": 1618,
+        "roles": [
+          {
+            "char": "Doug Roberts",
+            "ch": 309666,
+            "as Leaf Phoenix": true
+          }
+        ]
+      },
+      {
+        "name": "Ebonie Smith",
+        "nm": 808077,
+        "roles": [
+          {
+            "char": "Eugenie Waters"
+          }
+        ]
+      },
+      {
+        "name": "Teresa Wright",
+        "nm": 942863,
+        "roles": [
+          {
+            "char": "Alice Blair"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Episode #1.3",
+    "tt": 1286395,
+    "air_date": "1986-04-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Sherry Hursey",
+        "nm": 403564,
+        "roles": [
+          {
+            "char": "Debbie Flynn"
+          }
+        ]
+      },
+      {
+        "name": "Darrell Larson",
+        "nm": 488970,
+        "roles": [
+          {
+            "char": "Bob Lane",
+            "ch": 365738
+          }
+        ]
+      },
+      {
+        "name": "Kate Reid",
+        "nm": 3679,
+        "roles": [
+          {
+            "char": "Martha Cameron"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Corey",
+        "nm": 179786,
+        "roles": [
+          {
+            "char": "Bill McGregor",
+            "ch": 365737
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Sidney",
+        "nm": 796662,
+        "roles": [
+          {
+            "char": "Binnie Baylor"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Wilson",
+        "nm": 933361,
+        "roles": [
+          {
+            "char": "Kathy Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Scatman Crothers",
+        "nm": 1079,
+        "roles": [
+          {
+            "char": "Excell Dennis"
+          }
+        ]
+      },
+      {
+        "name": "Mason Adams",
+        "nm": 11199,
+        "roles": [
+          {
+            "char": "Gordon Blair",
+            "ch": 309664
+          }
+        ]
+      },
+      {
+        "name": "Ketty Lester",
+        "nm": 504480,
+        "roles": [
+          {
+            "char": "Nora Blake"
+          }
+        ]
+      },
+      {
+        "name": "Fred Savage",
+        "nm": 625,
+        "roles": [
+          {
+            "char": "Alan Bishop",
+            "ch": 309665
+          }
+        ]
+      },
+      {
+        "name": "Melissa Francis",
+        "nm": 290261,
+        "roles": [
+          {
+            "char": "Sarah Bishop",
+            "as Missy Francis": true
+          }
+        ]
+      },
+      {
+        "name": "Christopher Peters",
+        "nm": 676368,
+        "roles": [
+          {
+            "char": "Kevin Murphy",
+            "ch": 365736,
+            "as Chris Peters": true
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Lisa Thurston"
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Martin Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "nm": 1618,
+        "roles": [
+          {
+            "char": "Doug Roberts",
+            "ch": 309666,
+            "as Leaf Phoenix": true
+          }
+        ]
+      },
+      {
+        "name": "Ebonie Smith",
+        "nm": 808077,
+        "roles": [
+          {
+            "char": "Eugenie Waters"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Episode #1.4",
+    "tt": 1286396,
+    "air_date": "1986-04-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Sherry Hursey",
+        "nm": 403564,
+        "roles": [
+          {
+            "char": "Debbie Flynn"
+          }
+        ]
+      },
+      {
+        "name": "Darrell Larson",
+        "nm": 488970,
+        "roles": [
+          {
+            "char": "Bob Lane",
+            "ch": 365738
+          }
+        ]
+      },
+      {
+        "name": "Kate Reid",
+        "nm": 3679,
+        "roles": [
+          {
+            "char": "Martha Cameron"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Corey",
+        "nm": 179786,
+        "roles": [
+          {
+            "char": "Bill McGregor",
+            "ch": 365737
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Sidney",
+        "nm": 796662,
+        "roles": [
+          {
+            "char": "Binnie Baylor"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Wilson",
+        "nm": 933361,
+        "roles": [
+          {
+            "char": "Kathy Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Scatman Crothers",
+        "nm": 1079,
+        "roles": [
+          {
+            "char": "Excell Dennis"
+          }
+        ]
+      },
+      {
+        "name": "Mason Adams",
+        "nm": 11199,
+        "roles": [
+          {
+            "char": "Gordon Blair",
+            "ch": 309664
+          }
+        ]
+      },
+      {
+        "name": "Ketty Lester",
+        "nm": 504480,
+        "roles": [
+          {
+            "char": "Nora Blake"
+          }
+        ]
+      },
+      {
+        "name": "Fred Savage",
+        "nm": 625,
+        "roles": [
+          {
+            "char": "Alan Bishop",
+            "ch": 309665
+          }
+        ]
+      },
+      {
+        "name": "Melissa Francis",
+        "nm": 290261,
+        "roles": [
+          {
+            "char": "Sarah Bishop",
+            "as Missy Francis": true
+          }
+        ]
+      },
+      {
+        "name": "Christopher Peters",
+        "nm": 676368,
+        "roles": [
+          {
+            "char": "Kevin Murphy",
+            "ch": 365736,
+            "as Chris Peters": true
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Lisa Thurston"
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Martin Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "nm": 1618,
+        "roles": [
+          {
+            "char": "Doug Roberts",
+            "ch": 309666,
+            "as Leaf Phoenix": true
+          }
+        ]
+      },
+      {
+        "name": "Ebonie Smith",
+        "nm": 808077,
+        "roles": [
+          {
+            "char": "Eugenie Waters"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Episode #1.5",
+    "tt": 1286397,
+    "air_date": "1986-04-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Sherry Hursey",
+        "nm": 403564,
+        "roles": [
+          {
+            "char": "Debbie Flynn"
+          }
+        ]
+      },
+      {
+        "name": "Darrell Larson",
+        "nm": 488970,
+        "roles": [
+          {
+            "char": "Bob Lane",
+            "ch": 365738
+          }
+        ]
+      },
+      {
+        "name": "Kate Reid",
+        "nm": 3679,
+        "roles": [
+          {
+            "char": "Martha Cameron"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Corey",
+        "nm": 179786,
+        "roles": [
+          {
+            "char": "Bill McGregor",
+            "ch": 365737
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Sidney",
+        "nm": 796662,
+        "roles": [
+          {
+            "char": "Binnie Baylor"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Wilson",
+        "nm": 933361,
+        "roles": [
+          {
+            "char": "Kathy Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Scatman Crothers",
+        "nm": 1079,
+        "roles": [
+          {
+            "char": "Excell Dennis"
+          }
+        ]
+      },
+      {
+        "name": "Mason Adams",
+        "nm": 11199,
+        "roles": [
+          {
+            "char": "Gordon Blair",
+            "ch": 309664
+          }
+        ]
+      },
+      {
+        "name": "Ketty Lester",
+        "nm": 504480,
+        "roles": [
+          {
+            "char": "Nora Blake"
+          }
+        ]
+      },
+      {
+        "name": "Fred Savage",
+        "nm": 625,
+        "roles": [
+          {
+            "char": "Alan Bishop",
+            "ch": 309665
+          }
+        ]
+      },
+      {
+        "name": "Melissa Francis",
+        "nm": 290261,
+        "roles": [
+          {
+            "char": "Sarah Bishop",
+            "as Missy Francis": true
+          }
+        ]
+      },
+      {
+        "name": "Christopher Peters",
+        "nm": 676368,
+        "roles": [
+          {
+            "char": "Kevin Murphy",
+            "ch": 365736,
+            "as Chris Peters": true
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Lisa Thurston"
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Martin Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "nm": 1618,
+        "roles": [
+          {
+            "char": "Doug Roberts",
+            "ch": 309666,
+            "as Leaf Phoenix": true
+          }
+        ]
+      },
+      {
+        "name": "Ebonie Smith",
+        "nm": 808077,
+        "roles": [
+          {
+            "char": "Eugenie Waters"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Episode #1.6",
+    "tt": 1286398,
+    "air_date": "1986-04-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Sherry Hursey",
+        "nm": 403564,
+        "roles": [
+          {
+            "char": "Debbie Flynn"
+          }
+        ]
+      },
+      {
+        "name": "Darrell Larson",
+        "nm": 488970,
+        "roles": [
+          {
+            "char": "Bob Lane",
+            "ch": 365738
+          }
+        ]
+      },
+      {
+        "name": "Kate Reid",
+        "nm": 3679,
+        "roles": [
+          {
+            "char": "Martha Cameron"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Corey",
+        "nm": 179786,
+        "roles": [
+          {
+            "char": "Bill McGregor",
+            "ch": 365737
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Sidney",
+        "nm": 796662,
+        "roles": [
+          {
+            "char": "Binnie Baylor"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Wilson",
+        "nm": 933361,
+        "roles": [
+          {
+            "char": "Kathy Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Scatman Crothers",
+        "nm": 1079,
+        "roles": [
+          {
+            "char": "Excell Dennis"
+          }
+        ]
+      },
+      {
+        "name": "Mason Adams",
+        "nm": 11199,
+        "roles": [
+          {
+            "char": "Gordon Blair",
+            "ch": 309664
+          }
+        ]
+      },
+      {
+        "name": "Ketty Lester",
+        "nm": 504480,
+        "roles": [
+          {
+            "char": "Nora Blake"
+          }
+        ]
+      },
+      {
+        "name": "Fred Savage",
+        "nm": 625,
+        "roles": [
+          {
+            "char": "Alan Bishop",
+            "ch": 309665
+          }
+        ]
+      },
+      {
+        "name": "Melissa Francis",
+        "nm": 290261,
+        "roles": [
+          {
+            "char": "Sarah Bishop",
+            "as Missy Francis": true
+          }
+        ]
+      },
+      {
+        "name": "Christopher Peters",
+        "nm": 676368,
+        "roles": [
+          {
+            "char": "Kevin Murphy",
+            "ch": 365736,
+            "as Chris Peters": true
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Lisa Thurston"
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Martin Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "nm": 1618,
+        "roles": [
+          {
+            "char": "Doug Roberts",
+            "ch": 309666,
+            "as Leaf Phoenix": true
+          }
+        ]
+      },
+      {
+        "name": "Ebonie Smith",
+        "nm": 808077,
+        "roles": [
+          {
+            "char": "Eugenie Waters"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Episode #1.7",
+    "tt": 1286399,
+    "air_date": "1986-05-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Sherry Hursey",
+        "nm": 403564,
+        "roles": [
+          {
+            "char": "Debbie Flynn"
+          }
+        ]
+      },
+      {
+        "name": "Darrell Larson",
+        "nm": 488970,
+        "roles": [
+          {
+            "char": "Bob Lane",
+            "ch": 365738
+          }
+        ]
+      },
+      {
+        "name": "Kate Reid",
+        "nm": 3679,
+        "roles": [
+          {
+            "char": "Martha Cameron"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Corey",
+        "nm": 179786,
+        "roles": [
+          {
+            "char": "Bill McGregor",
+            "ch": 365737
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Sidney",
+        "nm": 796662,
+        "roles": [
+          {
+            "char": "Binnie Baylor"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Wilson",
+        "nm": 933361,
+        "roles": [
+          {
+            "char": "Kathy Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Scatman Crothers",
+        "nm": 1079,
+        "roles": [
+          {
+            "char": "Excell Dennis"
+          }
+        ]
+      },
+      {
+        "name": "Mason Adams",
+        "nm": 11199,
+        "roles": [
+          {
+            "char": "Gordon Blair",
+            "ch": 309664
+          }
+        ]
+      },
+      {
+        "name": "Ketty Lester",
+        "nm": 504480,
+        "roles": [
+          {
+            "char": "Nora Blake"
+          }
+        ]
+      },
+      {
+        "name": "Fred Savage",
+        "nm": 625,
+        "roles": [
+          {
+            "char": "Alan Bishop",
+            "ch": 309665
+          }
+        ]
+      },
+      {
+        "name": "Melissa Francis",
+        "nm": 290261,
+        "roles": [
+          {
+            "char": "Sarah Bishop",
+            "as Missy Francis": true
+          }
+        ]
+      },
+      {
+        "name": "Christopher Peters",
+        "nm": 676368,
+        "roles": [
+          {
+            "char": "Kevin Murphy",
+            "ch": 365736,
+            "as Chris Peters": true
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Lisa Thurston"
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Martin Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "nm": 1618,
+        "roles": [
+          {
+            "char": "Doug Roberts",
+            "ch": 309666,
+            "as Leaf Phoenix": true
+          }
+        ]
+      },
+      {
+        "name": "Ebonie Smith",
+        "nm": 808077,
+        "roles": [
+          {
+            "char": "Eugenie Waters"
+          }
+        ]
+      }
+    ]
+  }
+]

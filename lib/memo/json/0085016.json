@@ -1,0 +1,1917 @@
+[
+  {
+    "se": "S01E01",
+    "title": "For Love and Honor (Pilot)",
+    "tt": 581033,
+    "air_date": "1983-09-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James \"China\" Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      },
+      {
+        "name": "Erich Anderson",
+        "nm": 26687,
+        "roles": [
+          {
+            "char": "Soldier #1"
+          }
+        ]
+      },
+      {
+        "name": "Luca Bercovici",
+        "nm": 1942,
+        "roles": [
+          {
+            "char": "Thurston",
+            "ch": 87844
+          }
+        ]
+      },
+      {
+        "name": "Olivia Brown",
+        "nm": 114368,
+        "roles": [
+          {
+            "char": "Sammy"
+          }
+        ]
+      },
+      {
+        "name": "David Caruso",
+        "nm": 325,
+        "roles": [
+          {
+            "char": "Pvt. Rusty Burger",
+            "ch": 69211
+          }
+        ]
+      },
+      {
+        "name": "Michael Cavanaugh",
+        "nm": 146938,
+        "roles": [
+          {
+            "char": "Pelham"
+          }
+        ]
+      },
+      {
+        "name": "Andy Garcia",
+        "nm": 412,
+        "roles": [
+          {
+            "char": "Medic"
+          }
+        ]
+      },
+      {
+        "name": "Ken Gibbel",
+        "nm": 316480,
+        "roles": [
+          {
+            "char": "Tenpleton"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Major Nordoff",
+            "ch": 171575
+          }
+        ]
+      },
+      {
+        "name": "Michele Greene",
+        "nm": 338872,
+        "roles": [
+          {
+            "char": "Joy"
+          }
+        ]
+      },
+      {
+        "name": "Stanley Grover",
+        "nm": 344043,
+        "roles": [
+          {
+            "char": "General"
+          }
+        ]
+      },
+      {
+        "name": "Nora Heflin",
+        "nm": 373628,
+        "roles": [
+          {
+            "char": "Heather"
+          }
+        ]
+      },
+      {
+        "name": "Kevyn Major Howard",
+        "nm": 397441,
+        "roles": [
+          {
+            "char": "Soldier #2"
+          }
+        ]
+      },
+      {
+        "name": "Gary Hudson",
+        "nm": 399839,
+        "roles": [
+          {
+            "char": "Green Beret",
+            "ch": 85878
+          }
+        ]
+      },
+      {
+        "name": "Carlos Lacamara",
+        "nm": 479801,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Maria Melendez",
+        "nm": 577594,
+        "roles": [
+          {
+            "char": "J.J."
+          }
+        ]
+      },
+      {
+        "name": "Tom Nolan",
+        "nm": 634363,
+        "roles": [
+          {
+            "char": "Tim"
+          }
+        ]
+      },
+      {
+        "name": "Paul Provenza",
+        "nm": 699037,
+        "roles": [
+          {
+            "char": "Drunk Soldier"
+          }
+        ]
+      },
+      {
+        "name": "James Van Patten",
+        "nm": 887695,
+        "roles": [
+          {
+            "char": "Nick"
+          }
+        ]
+      },
+      {
+        "name": "Michael K. Woods",
+        "nm": 940714,
+        "roles": [
+          {
+            "char": "Radioman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Rite of Passage",
+    "tt": 812701,
+    "air_date": "1983-09-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James \"China\" Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      },
+      {
+        "name": "Mark Metcalf",
+        "nm": 582420,
+        "roles": [
+          {
+            "char": "Major Camden"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "The Big Party",
+    "tt": 812703,
+    "air_date": "1983-10-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James \"China\" Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      },
+      {
+        "name": "Conrad Bachmann",
+        "nm": 45497,
+        "roles": [
+          {
+            "char": "General Saterlee"
+          }
+        ]
+      },
+      {
+        "name": "George Solomon",
+        "nm": 813336,
+        "roles": [
+          {
+            "char": "Frankie"
+          }
+        ]
+      },
+      {
+        "name": "Beverly Todd",
+        "nm": 865119,
+        "roles": [
+          {
+            "char": "Evie Yates"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Old Friends",
+    "tt": 581036,
+    "air_date": "1983-10-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James \"China\" Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      },
+      {
+        "name": "John Beck",
+        "nm": 65183,
+        "roles": [
+          {
+            "char": "Lt. Frank Logan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "N.O.K. Hagedorn",
+    "tt": 581035,
+    "air_date": "1983-10-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James \"China\" Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      },
+      {
+        "name": "Lee de Broux",
+        "nm": 207616,
+        "roles": [
+          {
+            "char": "Sheriff Hodges"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Howard",
+        "nm": 397135,
+        "roles": [
+          {
+            "char": "Ronnie Prendergant"
+          }
+        ]
+      },
+      {
+        "name": "Jenny O'Hara",
+        "nm": 641266,
+        "roles": [
+          {
+            "char": "Mrs. Hagedorn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Mind Games",
+    "tt": 812700,
+    "air_date": "1983-11-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James \"China\" Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      },
+      {
+        "name": "Luca Bercovici",
+        "nm": 1942,
+        "roles": [
+          {
+            "char": "Thurston",
+            "ch": 87844
+          }
+        ]
+      },
+      {
+        "name": "Anthony Edwards",
+        "nm": 381,
+        "roles": [
+          {
+            "char": "Michelson"
+          }
+        ]
+      },
+      {
+        "name": "Ken Gibbel",
+        "nm": 316480,
+        "roles": [
+          {
+            "char": "Templeton"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Learning Experience",
+    "tt": 812699,
+    "air_date": "1983-12-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James \"China\" Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Team Work",
+    "tt": 812702,
+    "air_date": "1983-12-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James \"China\" Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      },
+      {
+        "name": "Dick Durock",
+        "nm": 244270,
+        "roles": [
+          {
+            "char": "Frodo"
+          }
+        ]
+      },
+      {
+        "name": "Karyn Harrison",
+        "nm": 365689,
+        "roles": [
+          {
+            "char": "Suzanne"
+          }
+        ]
+      },
+      {
+        "name": "Nora Heflin",
+        "nm": 373628,
+        "roles": [
+          {
+            "char": "Nora"
+          }
+        ]
+      },
+      {
+        "name": "Peter Jason",
+        "nm": 419273,
+        "roles": [
+          {
+            "char": "Jim Pamerance"
+          }
+        ]
+      },
+      {
+        "name": "Larry Cooper",
+        "nm": 178206,
+        "roles": [
+          {
+            "char": "Crazed Soldier",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Mixed Signals",
+    "tt": 581034,
+    "air_date": "1983-12-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James \"China\" Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      },
+      {
+        "name": "Joel Bailey",
+        "nm": 47317,
+        "roles": [
+          {
+            "char": "Lt. Keith Benart"
+          }
+        ]
+      },
+      {
+        "name": "Beverly Todd",
+        "nm": 865119,
+        "roles": [
+          {
+            "char": "Evie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "The Price of Dreams",
+    "tt": 581037,
+    "air_date": "1983-12-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James \"China\" Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      },
+      {
+        "name": "John McCook",
+        "nm": 198931,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John Shearin",
+        "nm": 790468,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Arthur Taxier",
+        "nm": 851833,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Bloodline",
+    "tt": 812698,
+    "air_date": "1984-01-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James 'China' Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Hieu",
+        "nm": 383226,
+        "roles": [
+          {
+            "char": "Mr. Heier",
+            "as Joseph Hien": true
+          }
+        ]
+      },
+      {
+        "name": "Beverly Todd",
+        "nm": 865119,
+        "roles": [
+          {
+            "char": "Evie Yates"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "The Real Thing",
+    "tt": 1358311,
+    "air_date": "1984-01-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "First Sgt. Eugene Allard",
+            "ch": 87868
+          }
+        ]
+      },
+      {
+        "name": "Yaphet Kotto",
+        "nm": 1433,
+        "roles": [
+          {
+            "char": "Platoon Sgt. James 'China' Bell",
+            "ch": 87852
+          }
+        ]
+      },
+      {
+        "name": "Shelley Smith",
+        "nm": 809948,
+        "roles": [
+          {
+            "char": "Capt. Carolyn Engel",
+            "ch": 87871
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "Capt. Steven Wiecek",
+            "ch": 87850
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Cpl. Grace Pavlik",
+            "ch": 87874
+          }
+        ]
+      },
+      {
+        "name": "Peter Kowanko",
+        "nm": 468661,
+        "roles": [
+          {
+            "char": "Pvt. Chris Dolan",
+            "ch": 87864,
+            "as Pete Kowanko": true
+          }
+        ]
+      },
+      {
+        "name": "Keenen Ivory Wayans",
+        "nm": 5540,
+        "roles": [
+          {
+            "char": "Pvt. Duke Johnson",
+            "ch": 87876
+          }
+        ]
+      },
+      {
+        "name": "John Mengatti",
+        "nm": 579561,
+        "roles": [
+          {
+            "char": "Pvt. Dominick Petrizzo",
+            "ch": 127024
+          }
+        ]
+      },
+      {
+        "name": "Tony Becker",
+        "nm": 65604,
+        "roles": [
+          {
+            "char": "Pvt. Utah Wilson",
+            "ch": 127023
+          }
+        ]
+      },
+      {
+        "name": "Amy Steel",
+        "nm": 824386,
+        "roles": [
+          {
+            "char": "Sharon"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Preston",
+        "nm": 593,
+        "roles": [
+          {
+            "char": "Mary Lee",
+            "ch": 87842
+          }
+        ]
+      },
+      {
+        "name": "Shanna Reed",
+        "nm": 715689,
+        "roles": [
+          {
+            "char": "Phyllis Wiecek"
+          }
+        ]
+      }
+    ]
+  }
+]

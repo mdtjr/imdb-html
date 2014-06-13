@@ -1,0 +1,3652 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Povratak",
+    "tt": 920156,
+    "air_date": "1978-01-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Milena Dravic",
+        "nm": 237244,
+        "roles": [
+          {
+            "char": "Lula",
+            "ch": 89304
+          }
+        ]
+      },
+      {
+        "name": "Velimir 'Bata' Zivojinovic",
+        "nm": 957372,
+        "roles": [
+          {
+            "char": "Cetnicki oficir"
+          }
+        ]
+      },
+      {
+        "name": "Zlata Numanagic",
+        "nm": 637886,
+        "roles": [
+          {
+            "char": "Seka"
+          }
+        ]
+      },
+      {
+        "name": "Vladimir Popovic",
+        "nm": 691460,
+        "roles": [
+          {
+            "char": "Uca"
+          }
+        ]
+      },
+      {
+        "name": "Aljosa Vuckovic",
+        "nm": 904222,
+        "roles": [
+          {
+            "char": "Major Gaspar",
+            "ch": 89312
+          }
+        ]
+      },
+      {
+        "name": "Vasa Pantelic",
+        "nm": 659822,
+        "roles": [
+          {
+            "char": "Krsta Misic"
+          }
+        ]
+      },
+      {
+        "name": "Milan Gutovic",
+        "nm": 349664,
+        "roles": [
+          {
+            "char": "Kapetan Todorovic",
+            "ch": 89319
+          }
+        ]
+      },
+      {
+        "name": "Pavle Bogatincevic",
+        "nm": 91588,
+        "roles": [
+          {
+            "char": "Ministar Jovic"
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Rade Markovic",
+        "nm": 548589,
+        "roles": [
+          {
+            "char": "Major Milan"
+          }
+        ]
+      },
+      {
+        "name": "Mihajlo Kostic-Pljaka",
+        "nm": 467437,
+        "roles": [
+          {
+            "char": "Pavle"
+          }
+        ]
+      },
+      {
+        "name": "Ziza Stojanovic",
+        "nm": 831233,
+        "roles": [
+          {
+            "char": "Andjelka"
+          }
+        ]
+      },
+      {
+        "name": "Slobodan Aligrudic",
+        "nm": 19609,
+        "roles": [
+          {
+            "char": "Selja"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Tasovac",
+        "nm": 850954,
+        "roles": [
+          {
+            "char": "Major Petrovic"
+          }
+        ]
+      },
+      {
+        "name": "Dragomir 'Gidra' Bojanic",
+        "nm": 92482,
+        "roles": [
+          {
+            "char": "Mikula",
+            "as Dragomir Bojanic": true
+          }
+        ]
+      },
+      {
+        "name": "Toma Kuruzovic",
+        "nm": 476105,
+        "roles": [
+          {
+            "char": "Misirac"
+          }
+        ]
+      },
+      {
+        "name": "Stole Arandjelovic",
+        "nm": 33014,
+        "roles": [
+          {
+            "char": "Isa"
+          }
+        ]
+      },
+      {
+        "name": "Slobodan Slobodanovic",
+        "nm": 5408471,
+        "roles": [
+          {
+            "char": "Ilija"
+          }
+        ]
+      },
+      {
+        "name": "Bogoljub Petrovic",
+        "nm": 678251,
+        "roles": [
+          {
+            "char": "Aca"
+          }
+        ]
+      },
+      {
+        "name": "Boro Stjepanovic",
+        "nm": 830655,
+        "roles": [
+          {
+            "char": "Slavko"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Petrovic",
+        "nm": 678266,
+        "roles": [
+          {
+            "char": "Narednik Mihajlo"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Tadic",
+        "nm": 846306,
+        "roles": [
+          {
+            "char": "Stanoje"
+          }
+        ]
+      },
+      {
+        "name": "Djordje Jovanovic",
+        "nm": 431257,
+        "roles": [
+          {
+            "char": "Matija"
+          }
+        ]
+      },
+      {
+        "name": "Vidoje Vujovic",
+        "nm": 904317,
+        "roles": [
+          {
+            "char": "Stanko"
+          }
+        ]
+      },
+      {
+        "name": "Vladan Zivkovic",
+        "nm": 957361,
+        "roles": [
+          {
+            "char": "Radojko, cetnik na drumu"
+          }
+        ]
+      },
+      {
+        "name": "Goran Plesa",
+        "nm": 687175,
+        "roles": [
+          {
+            "char": "Mile 'Sonda'"
+          }
+        ]
+      },
+      {
+        "name": "Branislav-Ciga Milenkovic",
+        "nm": 587024,
+        "roles": [
+          {
+            "char": "Seljak"
+          }
+        ]
+      },
+      {
+        "name": "Tihomir Pleskonjic",
+        "nm": 687197,
+        "roles": [
+          {
+            "char": "Kmet"
+          }
+        ]
+      },
+      {
+        "name": "Ljiljana Sedlar",
+        "nm": 781342,
+        "roles": [
+          {
+            "char": "Stankova zena"
+          }
+        ]
+      },
+      {
+        "name": "Miroslav Djordjevic",
+        "nm": 1417587,
+        "roles": [
+          {
+            "char": "Porucnik",
+            "ch": 89309
+          }
+        ]
+      },
+      {
+        "name": "Mirko Djeric",
+        "nm": 229163,
+        "roles": [
+          {
+            "char": "Marko"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Todorovic",
+        "nm": 1414444,
+        "roles": [
+          {
+            "char": "Mita 'Plajvaz'"
+          }
+        ]
+      },
+      {
+        "name": "Srdjan Dedic",
+        "nm": 1414358,
+        "roles": [
+          {
+            "char": "Caki"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Mitic",
+        "nm": 593895,
+        "roles": [
+          {
+            "char": "Nemacki vojnik"
+          }
+        ]
+      },
+      {
+        "name": "Ratko Miletic",
+        "nm": 587295,
+        "roles": [
+          {
+            "char": "Cvetko"
+          }
+        ]
+      },
+      {
+        "name": "Slavoljub Fisekovic",
+        "nm": 279235,
+        "roles": [
+          {
+            "char": "Skojevac"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Vujisic",
+        "nm": 904302,
+        "roles": [
+          {
+            "char": "Jefta, zeleznicar"
+          }
+        ]
+      },
+      {
+        "name": "Slobodan Stojanovic",
+        "nm": 831224,
+        "roles": [
+          {
+            "char": "Sef zeleznicke stanice"
+          }
+        ]
+      },
+      {
+        "name": "Miroslav 'Duda' Radivojevic",
+        "nm": 705650,
+        "roles": [
+          {
+            "char": "Seljak"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Vujnovic",
+        "nm": 904305,
+        "roles": [
+          {
+            "char": "Limar"
+          }
+        ]
+      },
+      {
+        "name": "Zoran Miljkovic",
+        "nm": 587546,
+        "roles": [
+          {
+            "char": "Ilija"
+          }
+        ]
+      },
+      {
+        "name": "Slavoljub Novakovic",
+        "nm": 636954,
+        "roles": [
+          {
+            "char": "Milan"
+          }
+        ]
+      },
+      {
+        "name": "Ljubomir Cipranic",
+        "nm": 162634,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Milinkovic",
+        "nm": 587470,
+        "roles": [
+          {
+            "char": "Gojko"
+          }
+        ]
+      },
+      {
+        "name": "Strahinja Mojic",
+        "nm": 596260,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Toskovic",
+        "nm": 5411280,
+        "roles": [
+          {
+            "char": "Vodja patrole"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Padobranci",
+    "tt": 920155,
+    "air_date": "1978-01-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Mija Aleksic",
+        "nm": 17988,
+        "roles": [
+          {
+            "char": "Cika Zika 'Cukalj'"
+          }
+        ]
+      },
+      {
+        "name": "Bora Todorovic",
+        "nm": 865392,
+        "roles": [
+          {
+            "char": "Dragi Kenta"
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Jovan Milicevic",
+        "nm": 587432,
+        "roles": [
+          {
+            "char": "Besevic"
+          }
+        ]
+      },
+      {
+        "name": "Vasa Pantelic",
+        "nm": 659822,
+        "roles": [
+          {
+            "char": "Krsta Misic"
+          }
+        ]
+      },
+      {
+        "name": "Petar Banicevic",
+        "nm": 52012,
+        "roles": [
+          {
+            "char": "Bob ... pilot"
+          }
+        ]
+      },
+      {
+        "name": "Dejan Cavic",
+        "nm": 147126,
+        "roles": [
+          {
+            "char": "Dzim ... pilot"
+          }
+        ]
+      },
+      {
+        "name": "Radisav Radojkovic",
+        "nm": 705763,
+        "roles": [
+          {
+            "char": "Steva"
+          }
+        ]
+      },
+      {
+        "name": "Dragomir 'Gidra' Bojanic",
+        "nm": 92482,
+        "roles": [
+          {
+            "char": "Mikula",
+            "as Dragomir Bojanic": true
+          }
+        ]
+      },
+      {
+        "name": "Cane Firaunovic",
+        "nm": 278614,
+        "roles": [
+          {
+            "char": "Kenig",
+            "ch": 89311
+          }
+        ]
+      },
+      {
+        "name": "Milan Srdoc",
+        "nm": 820182,
+        "roles": [
+          {
+            "char": "Rista"
+          }
+        ]
+      },
+      {
+        "name": "Tanasije Uzunovic",
+        "nm": 882729,
+        "roles": [
+          {
+            "char": "Fuks"
+          }
+        ]
+      },
+      {
+        "name": "Stole Arandjelovic",
+        "nm": 33014,
+        "roles": [
+          {
+            "char": "Isa"
+          }
+        ]
+      },
+      {
+        "name": "Zoran Miljkovic",
+        "nm": 587546,
+        "roles": [
+          {
+            "char": "Ilija"
+          }
+        ]
+      },
+      {
+        "name": "Ljubomir Cipranic",
+        "nm": 162634,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Stanimir Avramovic",
+        "nm": 43328,
+        "roles": [
+          {
+            "char": "Stevin komsija"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Dvokrilac",
+    "tt": 920154,
+    "air_date": "1978-01-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Ivan Jagodic",
+        "nm": 415631,
+        "roles": [
+          {
+            "char": "Ratko 'Dvokrilac'"
+          }
+        ]
+      },
+      {
+        "name": "Rudolf Ulrich",
+        "nm": 880702,
+        "roles": [
+          {
+            "char": "Miler"
+          }
+        ]
+      },
+      {
+        "name": "Borivoje Stojanovic",
+        "nm": 831195,
+        "roles": [
+          {
+            "char": "Akademski slikar"
+          }
+        ]
+      },
+      {
+        "name": "Velimir Zivotic",
+        "nm": 957383,
+        "roles": [
+          {
+            "char": "Mile",
+            "ch": 89297
+          }
+        ]
+      },
+      {
+        "name": "Predrag Ejdus",
+        "nm": 252222,
+        "roles": [
+          {
+            "char": "Mali"
+          }
+        ]
+      },
+      {
+        "name": "Bogdan Diklic",
+        "nm": 226699,
+        "roles": [
+          {
+            "char": "Pegi"
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Jovan Milicevic",
+        "nm": 587432,
+        "roles": [
+          {
+            "char": "Besevic"
+          }
+        ]
+      },
+      {
+        "name": "Vasa Pantelic",
+        "nm": 659822,
+        "roles": [
+          {
+            "char": "Krsta Misic"
+          }
+        ]
+      },
+      {
+        "name": "Dragomir 'Gidra' Bojanic",
+        "nm": 92482,
+        "roles": [
+          {
+            "char": "Mikula",
+            "as Dragomir Bojanic": true
+          }
+        ]
+      },
+      {
+        "name": "Ljubomir Ubavkic",
+        "nm": 879655,
+        "roles": [
+          {
+            "char": "Zile"
+          }
+        ]
+      },
+      {
+        "name": "Stole Arandjelovic",
+        "nm": 33014,
+        "roles": [
+          {
+            "char": "Isa"
+          }
+        ]
+      },
+      {
+        "name": "Milorad Djorgovic",
+        "nm": 1241186,
+        "roles": [
+          {
+            "char": "Pekar"
+          }
+        ]
+      },
+      {
+        "name": "Tomanija Djuricko",
+        "nm": 229315,
+        "roles": [
+          {
+            "char": "Baba Malog"
+          }
+        ]
+      },
+      {
+        "name": "Milan Panic",
+        "nm": 659479,
+        "roles": [
+          {
+            "char": "Nemacki vojnik"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Vujnovic",
+        "nm": 904305,
+        "roles": [
+          {
+            "char": "Limar"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Milinkovic",
+        "nm": 587470,
+        "roles": [
+          {
+            "char": "Gojko"
+          }
+        ]
+      },
+      {
+        "name": "Ljubomir Cipranic",
+        "nm": 162634,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Tanasije Uzunovic",
+        "nm": 882729,
+        "roles": [
+          {
+            "char": "Fuks"
+          }
+        ]
+      },
+      {
+        "name": "Cane Firaunovic",
+        "nm": 278614,
+        "roles": [
+          {
+            "char": "Kenig",
+            "ch": 89311
+          }
+        ]
+      },
+      {
+        "name": "Bozidar Pajkic",
+        "nm": 657032,
+        "roles": [
+          {
+            "char": "Prolaznik"
+          }
+        ]
+      },
+      {
+        "name": "Andreja Maricic",
+        "nm": 547193,
+        "roles": [
+          {
+            "char": "Mladic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Agent",
+    "tt": 931047,
+    "air_date": "1978-01-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Milan Puzic",
+        "nm": 701366,
+        "roles": [
+          {
+            "char": "Dr. Grote"
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Rudolf Ulrich",
+        "nm": 880702,
+        "roles": [
+          {
+            "char": "Miler"
+          }
+        ]
+      },
+      {
+        "name": "Milos Zutic",
+        "nm": 958856,
+        "roles": [
+          {
+            "char": "Jovan-Hans"
+          }
+        ]
+      },
+      {
+        "name": "Miodrag Lazarevic",
+        "nm": 493745,
+        "roles": [
+          {
+            "char": "Casovnicar"
+          }
+        ]
+      },
+      {
+        "name": "Nenad Ciganovic",
+        "nm": 162217,
+        "roles": [
+          {
+            "char": "Kurir"
+          }
+        ]
+      },
+      {
+        "name": "Radoslav Pavlovic",
+        "nm": 667858,
+        "roles": [
+          {
+            "char": "Danin otac"
+          }
+        ]
+      },
+      {
+        "name": "Vesna Pecanac",
+        "nm": 669493,
+        "roles": [
+          {
+            "char": "Dana"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Janicijevic",
+        "nm": 417582,
+        "roles": [
+          {
+            "char": "Ivan"
+          }
+        ]
+      },
+      {
+        "name": "Branko Vujovic",
+        "nm": 904309,
+        "roles": [
+          {
+            "char": "Dinst"
+          }
+        ]
+      },
+      {
+        "name": "Mira Peic",
+        "nm": 670485,
+        "roles": [
+          {
+            "char": "Pevacica"
+          }
+        ]
+      },
+      {
+        "name": "Miodrag Krstovic",
+        "nm": 472431,
+        "roles": [
+          {
+            "char": "Lipke"
+          }
+        ]
+      },
+      {
+        "name": "Cane Firaunovic",
+        "nm": 278614,
+        "roles": [
+          {
+            "char": "Kenig",
+            "ch": 89311
+          }
+        ]
+      },
+      {
+        "name": "Tanasije Uzunovic",
+        "nm": 882729,
+        "roles": [
+          {
+            "char": "Fuks"
+          }
+        ]
+      },
+      {
+        "name": "Slavica Djordjevic",
+        "nm": 229238,
+        "roles": [
+          {
+            "char": "Milerova sekretarica"
+          }
+        ]
+      },
+      {
+        "name": "Stojan Nikolic",
+        "nm": 1416484,
+        "roles": [
+          {
+            "char": "Zeleznicar"
+          }
+        ]
+      },
+      {
+        "name": "Damjan Klasnja",
+        "nm": 458314,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Atentat",
+    "tt": 936314,
+    "air_date": "1978-01-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Adem Cejvan",
+        "nm": 147900,
+        "roles": [
+          {
+            "char": "Ljubisa ... Mikulin brat"
+          }
+        ]
+      },
+      {
+        "name": "Dragomir 'Gidra' Bojanic",
+        "nm": 92482,
+        "roles": [
+          {
+            "char": "Mikula"
+          }
+        ]
+      },
+      {
+        "name": "Hannjo Hasse",
+        "nm": 352050,
+        "roles": [
+          {
+            "char": "Nemacki general"
+          }
+        ]
+      },
+      {
+        "name": "Klaus-Peter Thiele",
+        "nm": 857934,
+        "roles": [
+          {
+            "char": "Major Hesler"
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Rudolf Ulrich",
+        "nm": 880702,
+        "roles": [
+          {
+            "char": "Miler"
+          }
+        ]
+      },
+      {
+        "name": "Srdjan Dedic",
+        "nm": 1414358,
+        "roles": [
+          {
+            "char": "Caki"
+          }
+        ]
+      },
+      {
+        "name": "Goran Plesa",
+        "nm": 687175,
+        "roles": [
+          {
+            "char": "Mile 'Sonda'"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Todorovic",
+        "nm": 1414444,
+        "roles": [
+          {
+            "char": "Mita 'Plajvaz'"
+          }
+        ]
+      },
+      {
+        "name": "Vasa Pantelic",
+        "nm": 659822,
+        "roles": [
+          {
+            "char": "Krsta Misic"
+          }
+        ]
+      },
+      {
+        "name": "Zika Milenkovic",
+        "nm": 587030,
+        "roles": [
+          {
+            "char": "Sreta narednik"
+          }
+        ]
+      },
+      {
+        "name": "Stole Arandjelovic",
+        "nm": 33014,
+        "roles": [
+          {
+            "char": "Isa"
+          }
+        ]
+      },
+      {
+        "name": "Olga Poznatov",
+        "nm": 694787,
+        "roles": [
+          {
+            "char": "Sretina zena"
+          }
+        ]
+      },
+      {
+        "name": "Marija Raicevic",
+        "nm": 4569884,
+        "roles": [
+          {
+            "char": "Cakijeva Majka"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Mitic",
+        "nm": 593895,
+        "roles": [
+          {
+            "char": "Kapetan Stolcer"
+          }
+        ]
+      },
+      {
+        "name": "Ivo Jaksic",
+        "nm": 416014,
+        "roles": [
+          {
+            "char": "Nemacki lekar"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Golumbovski",
+        "nm": 326753,
+        "roles": [
+          {
+            "char": "Nemacki vojnik"
+          }
+        ]
+      },
+      {
+        "name": "Cane Firaunovic",
+        "nm": 278614,
+        "roles": [
+          {
+            "char": "Kenig",
+            "ch": 89311
+          }
+        ]
+      },
+      {
+        "name": "Eugen Verber",
+        "nm": 893642,
+        "roles": [
+          {
+            "char": "Sreder"
+          }
+        ]
+      },
+      {
+        "name": "Damjan Klasnja",
+        "nm": 458314,
+        "roles": [
+          {
+            "char": "Gestapovac"
+          }
+        ]
+      },
+      {
+        "name": "Zoran Miljkovic",
+        "nm": 587546,
+        "roles": [
+          {
+            "char": "Ilija"
+          }
+        ]
+      },
+      {
+        "name": "Ljubomir Cipranic",
+        "nm": 162634,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Milinkovic",
+        "nm": 587470,
+        "roles": [
+          {
+            "char": "Gojko"
+          }
+        ]
+      },
+      {
+        "name": "Strahinja Mojic",
+        "nm": 596260,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Tasovac",
+        "nm": 850954,
+        "roles": [
+          {
+            "char": "Major"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Moljac",
+    "tt": 936315,
+    "air_date": "1978-02-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Nenad Nenadovic",
+        "nm": 626028,
+        "roles": [
+          {
+            "char": "Moljac"
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Rudolf Ulrich",
+        "nm": 880702,
+        "roles": [
+          {
+            "char": "Miler"
+          }
+        ]
+      },
+      {
+        "name": "Vasa Pantelic",
+        "nm": 659822,
+        "roles": [
+          {
+            "char": "Krsta Misic"
+          }
+        ]
+      },
+      {
+        "name": "Svetlana Bojkovic",
+        "nm": 92522,
+        "roles": [
+          {
+            "char": "Stana"
+          }
+        ]
+      },
+      {
+        "name": "Sonja Jaukovic",
+        "nm": 419421,
+        "roles": [
+          {
+            "char": "Moljceva majka"
+          }
+        ]
+      },
+      {
+        "name": "Ivo Jaksic",
+        "nm": 416014,
+        "roles": [
+          {
+            "char": "Nemacki lekar"
+          }
+        ]
+      },
+      {
+        "name": "Stole Arandjelovic",
+        "nm": 33014,
+        "roles": [
+          {
+            "char": "Isa"
+          }
+        ]
+      },
+      {
+        "name": "Zoran Miljkovic",
+        "nm": 587546,
+        "roles": [
+          {
+            "char": "Ilija"
+          }
+        ]
+      },
+      {
+        "name": "Mira Peic",
+        "nm": 670485,
+        "roles": [
+          {
+            "char": "Pevacica"
+          }
+        ]
+      },
+      {
+        "name": "Melita Bihali",
+        "nm": 81967,
+        "roles": [
+          {
+            "char": "Bela"
+          }
+        ]
+      },
+      {
+        "name": "Ivan Bekjarev",
+        "nm": 67429,
+        "roles": [
+          {
+            "char": "Cane 'kurbla'"
+          }
+        ]
+      },
+      {
+        "name": "Tanasije Uzunovic",
+        "nm": 882729,
+        "roles": [
+          {
+            "char": "Fuks"
+          }
+        ]
+      },
+      {
+        "name": "Tomanija Djuricko",
+        "nm": 229315,
+        "roles": [
+          {
+            "char": "Baba Malog"
+          }
+        ]
+      },
+      {
+        "name": "Cane Firaunovic",
+        "nm": 278614,
+        "roles": [
+          {
+            "char": "Kenig",
+            "ch": 89311
+          }
+        ]
+      },
+      {
+        "name": "Nebojsa Bakocevic",
+        "nm": 49194,
+        "roles": [
+          {
+            "char": "Trta"
+          }
+        ]
+      },
+      {
+        "name": "Ljev Rjadcenko",
+        "nm": 1421593,
+        "roles": [
+          {
+            "char": "Badza"
+          }
+        ]
+      },
+      {
+        "name": "Dragana Antonovska",
+        "nm": 1419360,
+        "roles": [
+          {
+            "char": "Sekretarica"
+          }
+        ]
+      },
+      {
+        "name": "Slavica Djordjevic",
+        "nm": 229238,
+        "roles": [
+          {
+            "char": "Milerova sekretarica"
+          }
+        ]
+      },
+      {
+        "name": "Goran Plesa",
+        "nm": 687175,
+        "roles": [
+          {
+            "char": "Mile 'Sonda'"
+          }
+        ]
+      },
+      {
+        "name": "Srdjan Dedic",
+        "nm": 1414358,
+        "roles": [
+          {
+            "char": "Caki"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Todorovic",
+        "nm": 1414444,
+        "roles": [
+          {
+            "char": "Mita 'Plajvaz'"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Milinkovic",
+        "nm": 587470,
+        "roles": [
+          {
+            "char": "Gojko"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Vili",
+    "tt": 943092,
+    "air_date": "1978-02-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Irfan Mensur",
+        "nm": 579840,
+        "roles": [
+          {
+            "char": "Vili"
+          }
+        ]
+      },
+      {
+        "name": "Peter Carsten",
+        "nm": 141361,
+        "roles": [
+          {
+            "char": "General fon Fridriks"
+          }
+        ]
+      },
+      {
+        "name": "Rudolf Ulrich",
+        "nm": 880702,
+        "roles": [
+          {
+            "char": "Miler"
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Jovan Milicevic",
+        "nm": 587432,
+        "roles": [
+          {
+            "char": "Besevic"
+          }
+        ]
+      },
+      {
+        "name": "Vasa Pantelic",
+        "nm": 659822,
+        "roles": [
+          {
+            "char": "Krsta Misic"
+          }
+        ]
+      },
+      {
+        "name": "Dara Dzokic",
+        "nm": 246233,
+        "roles": [
+          {
+            "char": "Ana"
+          }
+        ]
+      },
+      {
+        "name": "Ratko Saric",
+        "nm": 765194,
+        "roles": [
+          {
+            "char": "Anin otac Toza"
+          }
+        ]
+      },
+      {
+        "name": "Zoran Panic",
+        "nm": 659482,
+        "roles": [
+          {
+            "char": "Piljar"
+          }
+        ]
+      },
+      {
+        "name": "Milan Srdoc",
+        "nm": 820182,
+        "roles": [
+          {
+            "char": "Rista"
+          }
+        ]
+      },
+      {
+        "name": "Stole Arandjelovic",
+        "nm": 33014,
+        "roles": [
+          {
+            "char": "Isa"
+          }
+        ]
+      },
+      {
+        "name": "Miroljub Aleksic",
+        "nm": 17990,
+        "roles": [
+          {
+            "char": "Marko"
+          }
+        ]
+      },
+      {
+        "name": "Mira Dinulovic",
+        "nm": 227857,
+        "roles": [
+          {
+            "char": "Mica"
+          }
+        ]
+      },
+      {
+        "name": "Dragica Novakovic",
+        "nm": 636943,
+        "roles": [
+          {
+            "char": "Komsinica"
+          }
+        ]
+      },
+      {
+        "name": "Mirjana Raicevic",
+        "nm": 1421508,
+        "roles": [
+          {
+            "char": "Jela"
+          }
+        ]
+      },
+      {
+        "name": "Mirjana Nikolic",
+        "nm": 631898,
+        "roles": [
+          {
+            "char": "Andjela"
+          }
+        ]
+      },
+      {
+        "name": "Svetolik Nikacevic",
+        "nm": 631619,
+        "roles": [
+          {
+            "char": "Ministar"
+          }
+        ]
+      },
+      {
+        "name": "Eugen Verber",
+        "nm": 893642,
+        "roles": [
+          {
+            "char": "Sreder"
+          }
+        ]
+      },
+      {
+        "name": "Cane Firaunovic",
+        "nm": 278614,
+        "roles": [
+          {
+            "char": "Kenig",
+            "ch": 89311
+          }
+        ]
+      },
+      {
+        "name": "Zvonko Jovcic",
+        "nm": 1189799,
+        "roles": [
+          {
+            "char": "Oficir"
+          }
+        ]
+      },
+      {
+        "name": "Branko Vujovic",
+        "nm": 904309,
+        "roles": [
+          {
+            "char": "Dinst"
+          }
+        ]
+      },
+      {
+        "name": "Goran Bukilic",
+        "nm": 119751,
+        "roles": [
+          {
+            "char": "Generalov adjutant"
+          }
+        ]
+      },
+      {
+        "name": "Ljev Rjadcenko",
+        "nm": 1421593,
+        "roles": [
+          {
+            "char": "Badza"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Zlato",
+    "tt": 943094,
+    "air_date": "1978-02-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Rudolf Ulrich",
+        "nm": 880702,
+        "roles": [
+          {
+            "char": "Miler"
+          }
+        ]
+      },
+      {
+        "name": "Peter Carsten",
+        "nm": 141361,
+        "roles": [
+          {
+            "char": "General fon Fridriks"
+          }
+        ]
+      },
+      {
+        "name": "Viktor Starcic",
+        "nm": 823072,
+        "roles": [
+          {
+            "char": "Profesor Ruzic"
+          }
+        ]
+      },
+      {
+        "name": "Slavko Simic",
+        "nm": 799510,
+        "roles": [
+          {
+            "char": "Doktor Lukic"
+          }
+        ]
+      },
+      {
+        "name": "Sima Janicijevic",
+        "nm": 417586,
+        "roles": [
+          {
+            "char": "Profesor matematike"
+          }
+        ]
+      },
+      {
+        "name": "Vasa Pantelic",
+        "nm": 659822,
+        "roles": [
+          {
+            "char": "Krsta Misic"
+          }
+        ]
+      },
+      {
+        "name": "Jovan Milicevic",
+        "nm": 587432,
+        "roles": [
+          {
+            "char": "Besevic"
+          }
+        ]
+      },
+      {
+        "name": "Stole Arandjelovic",
+        "nm": 33014,
+        "roles": [
+          {
+            "char": "Isa"
+          }
+        ]
+      },
+      {
+        "name": "Borivoje Stojanovic",
+        "nm": 831195,
+        "roles": [
+          {
+            "char": "Akademski slikar"
+          }
+        ]
+      },
+      {
+        "name": "Mladen 'Mladja' Veselinovic",
+        "nm": 895205,
+        "roles": [
+          {
+            "char": "Nikola Trsic ... sluzbenik u trezoru banke"
+          }
+        ]
+      },
+      {
+        "name": "Ljubomir Ubavkic",
+        "nm": 879655,
+        "roles": [
+          {
+            "char": "Zile"
+          }
+        ]
+      },
+      {
+        "name": "Milo Miranovic",
+        "nm": 592250,
+        "roles": [
+          {
+            "char": "Ribar"
+          }
+        ]
+      },
+      {
+        "name": "Svetlana Bojkovic",
+        "nm": 92522,
+        "roles": [
+          {
+            "char": "Stana"
+          }
+        ]
+      },
+      {
+        "name": "Jelica Teslic",
+        "nm": 856292,
+        "roles": [
+          {
+            "char": "Trsiceva cerka"
+          }
+        ]
+      },
+      {
+        "name": "Ksenija Jovanovic",
+        "nm": 431271,
+        "roles": [
+          {
+            "char": "Gospodja Todorovic"
+          }
+        ]
+      },
+      {
+        "name": "Mirjana Nikolic",
+        "nm": 631898,
+        "roles": [
+          {
+            "char": "Andjela"
+          }
+        ]
+      },
+      {
+        "name": "Svetolik Nikacevic",
+        "nm": 631619,
+        "roles": [
+          {
+            "char": "Ministar"
+          }
+        ]
+      },
+      {
+        "name": "Milivoje Popovic-Mavid",
+        "nm": 691471,
+        "roles": [
+          {
+            "char": "Ministar Rakic"
+          }
+        ]
+      },
+      {
+        "name": "Janez Vrhovec",
+        "nm": 904076,
+        "roles": [
+          {
+            "char": "Ministar saobracaja"
+          }
+        ]
+      },
+      {
+        "name": "Branko Vujovic",
+        "nm": 904309,
+        "roles": [
+          {
+            "char": "Dinst"
+          }
+        ]
+      },
+      {
+        "name": "Eugen Verber",
+        "nm": 893642,
+        "roles": [
+          {
+            "char": "Sreder"
+          }
+        ]
+      },
+      {
+        "name": "Zoran Miljkovic",
+        "nm": 587546,
+        "roles": [
+          {
+            "char": "Ilija"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Milinkovic",
+        "nm": 587470,
+        "roles": [
+          {
+            "char": "Gojko"
+          }
+        ]
+      },
+      {
+        "name": "Ljubomir Cipranic",
+        "nm": 162634,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Bekstvo",
+    "tt": 943088,
+    "air_date": "1978-02-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Peter Carsten",
+        "nm": 141361,
+        "roles": [
+          {
+            "char": "General fon Fridriks"
+          }
+        ]
+      },
+      {
+        "name": "Rudolf Ulrich",
+        "nm": 880702,
+        "roles": [
+          {
+            "char": "Miler"
+          }
+        ]
+      },
+      {
+        "name": "Jovan Milicevic",
+        "nm": 587432,
+        "roles": [
+          {
+            "char": "Besevic"
+          }
+        ]
+      },
+      {
+        "name": "Vasa Pantelic",
+        "nm": 659822,
+        "roles": [
+          {
+            "char": "Krsta Misic"
+          }
+        ]
+      },
+      {
+        "name": "Stole Arandjelovic",
+        "nm": 33014,
+        "roles": [
+          {
+            "char": "Isa"
+          }
+        ]
+      },
+      {
+        "name": "Ljubisa Bacic",
+        "nm": 45583,
+        "roles": [
+          {
+            "char": "Rus"
+          }
+        ]
+      },
+      {
+        "name": "Svetlana Bojkovic",
+        "nm": 92522,
+        "roles": [
+          {
+            "char": "Stana"
+          }
+        ]
+      },
+      {
+        "name": "Mihajlo Viktorovic",
+        "nm": 897283,
+        "roles": [
+          {
+            "char": "Cvika"
+          }
+        ]
+      },
+      {
+        "name": "Ivan Bekjarev",
+        "nm": 67429,
+        "roles": [
+          {
+            "char": "Cane 'kurbla'"
+          }
+        ]
+      },
+      {
+        "name": "Bozidar Drnic",
+        "nm": 238152,
+        "roles": [
+          {
+            "char": "Podpredsednik vlade"
+          }
+        ]
+      },
+      {
+        "name": "Svetolik Nikacevic",
+        "nm": 631619,
+        "roles": [
+          {
+            "char": "Ministar"
+          }
+        ]
+      },
+      {
+        "name": "Milivoje Popovic-Mavid",
+        "nm": 691471,
+        "roles": [
+          {
+            "char": "Ministar Rakic"
+          }
+        ]
+      },
+      {
+        "name": "Janez Vrhovec",
+        "nm": 904076,
+        "roles": [
+          {
+            "char": "Ministar saobracaja"
+          }
+        ]
+      },
+      {
+        "name": "Ramiz Sekic",
+        "nm": 782844,
+        "roles": [
+          {
+            "char": "Cetnik"
+          }
+        ]
+      },
+      {
+        "name": "Zoran Miljkovic",
+        "nm": 587546,
+        "roles": [
+          {
+            "char": "Ilija"
+          }
+        ]
+      },
+      {
+        "name": "Veljko Marinkovic",
+        "nm": 547726,
+        "roles": [
+          {
+            "char": "Zandar ... sofer s brkovima"
+          }
+        ]
+      },
+      {
+        "name": "Ranko Gucevac",
+        "nm": 345583,
+        "roles": [
+          {
+            "char": "Cetnik"
+          }
+        ]
+      },
+      {
+        "name": "Branko Vujovic",
+        "nm": 904309,
+        "roles": [
+          {
+            "char": "Dinst"
+          }
+        ]
+      },
+      {
+        "name": "Milutin Butkovic",
+        "nm": 124787,
+        "roles": [
+          {
+            "char": "Krojac"
+          }
+        ]
+      },
+      {
+        "name": "Milka Gazikalovic",
+        "nm": 311105,
+        "roles": [
+          {
+            "char": "Marijina sestra"
+          }
+        ]
+      },
+      {
+        "name": "Dragoljub Petrovic",
+        "nm": 678263,
+        "roles": [
+          {
+            "char": "Kaludjer"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Antonijevic",
+        "nm": 31340,
+        "roles": [
+          {
+            "char": "Moler"
+          }
+        ]
+      },
+      {
+        "name": "Dragica Novakovic",
+        "nm": 636943,
+        "roles": [
+          {
+            "char": "Komsinica"
+          }
+        ]
+      },
+      {
+        "name": "Bozidar Pajkic",
+        "nm": 657032,
+        "roles": [
+          {
+            "char": "Prolaznik"
+          }
+        ]
+      },
+      {
+        "name": "Stevan Stukelja",
+        "nm": 836147,
+        "roles": [
+          {
+            "char": "Visoki"
+          }
+        ]
+      },
+      {
+        "name": "Bogdan Jakus",
+        "nm": 416061,
+        "roles": [
+          {
+            "char": "Narednik ... kod rampe"
+          }
+        ]
+      },
+      {
+        "name": "Slobodan Matic",
+        "nm": 559046,
+        "roles": [
+          {
+            "char": "Ridji"
+          }
+        ]
+      },
+      {
+        "name": "Borivoje Jovanovic",
+        "nm": 431245,
+        "roles": [
+          {
+            "char": "Jare ... konobar",
+            "as Boris Jovanovic-Jare": true
+          }
+        ]
+      },
+      {
+        "name": "Cane Firaunovic",
+        "nm": 278614,
+        "roles": [
+          {
+            "char": "Kenig",
+            "ch": 89311
+          }
+        ]
+      },
+      {
+        "name": "Goran Plesa",
+        "nm": 687175,
+        "roles": [
+          {
+            "char": "Mile 'Sonda'"
+          }
+        ]
+      },
+      {
+        "name": "Srdjan Dedic",
+        "nm": 1414358,
+        "roles": [
+          {
+            "char": "Caki"
+          }
+        ]
+      },
+      {
+        "name": "Radisav Radojkovic",
+        "nm": 705763,
+        "roles": [
+          {
+            "char": "Steva"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Todorovic",
+        "nm": 1414444,
+        "roles": [
+          {
+            "char": "Mita 'Plajvaz'"
+          }
+        ]
+      },
+      {
+        "name": "Artonovska Dragana",
+        "nm": 4874288,
+        "roles": [
+          {
+            "char": "Sluzbenica"
+          }
+        ]
+      },
+      {
+        "name": "Ljev Rjadcenko",
+        "nm": 1421593,
+        "roles": [
+          {
+            "char": "Badza"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Cvetkovic",
+        "nm": 194132,
+        "roles": [
+          {
+            "char": "Penzioner"
+          }
+        ]
+      },
+      {
+        "name": "Tanasije Uzunovic",
+        "nm": 882729,
+        "roles": [
+          {
+            "char": "Fuks"
+          }
+        ]
+      },
+      {
+        "name": "Ljubomir Cipranic",
+        "nm": 162634,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Milinkovic",
+        "nm": 587470,
+        "roles": [
+          {
+            "char": "Gojko"
+          }
+        ]
+      },
+      {
+        "name": "Damjan Klasnja",
+        "nm": 458314,
+        "roles": [
+          {
+            "char": "Gestapovac"
+          }
+        ]
+      },
+      {
+        "name": "Strahinja Mojic",
+        "nm": 596260,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      },
+      {
+        "name": "Zivojin Nenadovic",
+        "nm": 1248794,
+        "roles": [
+          {
+            "char": "Agent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Vodovod",
+    "tt": 943093,
+    "air_date": "1978-03-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Mladen Nedeljkovic",
+        "nm": 624000,
+        "roles": [
+          {
+            "char": "Lale 'pufna'"
+          }
+        ]
+      },
+      {
+        "name": "Peter Carsten",
+        "nm": 141361,
+        "roles": [
+          {
+            "char": "General fon Fridriks"
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Ivan Bekjarev",
+        "nm": 67429,
+        "roles": [
+          {
+            "char": "Cane 'kurbla'"
+          }
+        ]
+      },
+      {
+        "name": "Bozidar Savicevic",
+        "nm": 767635,
+        "roles": [
+          {
+            "char": "Marko"
+          }
+        ]
+      },
+      {
+        "name": "Zoran Stojiljkovic",
+        "nm": 831251,
+        "roles": [
+          {
+            "char": "Sule"
+          }
+        ]
+      },
+      {
+        "name": "Milutin Butkovic",
+        "nm": 124787,
+        "roles": [
+          {
+            "char": "Krojac"
+          }
+        ]
+      },
+      {
+        "name": "Goran Sultanovic",
+        "nm": 838469,
+        "roles": [
+          {
+            "char": "Rade 'testera'"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Todorovic",
+        "nm": 1414444,
+        "roles": [
+          {
+            "char": "Mita 'Plajvaz'"
+          }
+        ]
+      },
+      {
+        "name": "Mirjana Nikolic",
+        "nm": 631898,
+        "roles": [
+          {
+            "char": "Andjela"
+          }
+        ]
+      },
+      {
+        "name": "Mira Peic",
+        "nm": 670485,
+        "roles": [
+          {
+            "char": "Pevacica"
+          }
+        ]
+      },
+      {
+        "name": "Melita Bihali",
+        "nm": 81967,
+        "roles": [
+          {
+            "char": "Bela"
+          }
+        ]
+      },
+      {
+        "name": "Eugen Verber",
+        "nm": 893642,
+        "roles": [
+          {
+            "char": "Sreder"
+          }
+        ]
+      },
+      {
+        "name": "Tanasije Uzunovic",
+        "nm": 882729,
+        "roles": [
+          {
+            "char": "Fuks"
+          }
+        ]
+      },
+      {
+        "name": "Zvonko Jovcic",
+        "nm": 1189799,
+        "roles": [
+          {
+            "char": "Klaus"
+          }
+        ]
+      },
+      {
+        "name": "Heinz Neubacher",
+        "nm": 1421218,
+        "roles": [
+          {
+            "char": "Komandant vodovoda"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Golumbovski",
+        "nm": 326753,
+        "roles": [
+          {
+            "char": "Vodja patrole"
+          }
+        ]
+      },
+      {
+        "name": "Cane Firaunovic",
+        "nm": 278614,
+        "roles": [
+          {
+            "char": "Kenig",
+            "ch": 89311
+          }
+        ]
+      },
+      {
+        "name": "Branko Vujovic",
+        "nm": 904309,
+        "roles": [
+          {
+            "char": "Dinst"
+          }
+        ]
+      },
+      {
+        "name": "Damjan Klasnja",
+        "nm": 458314,
+        "roles": [
+          {
+            "char": "Gestapovac"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Elektrana",
+    "tt": 943089,
+    "air_date": "1978-03-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Slobodan Perovic",
+        "nm": 674463,
+        "roles": [
+          {
+            "char": "Johan 'krava'"
+          }
+        ]
+      },
+      {
+        "name": "Rade Markovic",
+        "nm": 548589,
+        "roles": [
+          {
+            "char": "Major Milan"
+          }
+        ]
+      },
+      {
+        "name": "Jovan-Burdus Janicijevic",
+        "nm": 417583,
+        "roles": [
+          {
+            "char": "Boza"
+          }
+        ]
+      },
+      {
+        "name": "Ljubisa Samardzic",
+        "nm": 759685,
+        "roles": [
+          {
+            "char": "Spanac"
+          }
+        ]
+      },
+      {
+        "name": "Mihajlo Kostic-Pljaka",
+        "nm": 467437,
+        "roles": [
+          {
+            "char": "Pavle"
+          }
+        ]
+      },
+      {
+        "name": "Mirko Bulovic",
+        "nm": 120241,
+        "roles": [
+          {
+            "char": "Pera"
+          }
+        ]
+      },
+      {
+        "name": "Nikola Jovanovic",
+        "nm": 431287,
+        "roles": [
+          {
+            "char": "Janko"
+          }
+        ]
+      },
+      {
+        "name": "Zarko Radic",
+        "nm": 705577,
+        "roles": [
+          {
+            "char": "Paja",
+            "ch": 89296
+          }
+        ]
+      },
+      {
+        "name": "Peter Carsten",
+        "nm": 141361,
+        "roles": [
+          {
+            "char": "General fon Fridriks"
+          }
+        ]
+      },
+      {
+        "name": "Eugen Verber",
+        "nm": 893642,
+        "roles": [
+          {
+            "char": "Sreder"
+          }
+        ]
+      },
+      {
+        "name": "Cane Firaunovic",
+        "nm": 278614,
+        "roles": [
+          {
+            "char": "Kenig",
+            "ch": 89311
+          }
+        ]
+      },
+      {
+        "name": "Toma Jovanovic",
+        "nm": 431299,
+        "roles": [
+          {
+            "char": "Inzenjer"
+          }
+        ]
+      },
+      {
+        "name": "Svetlana Bojkovic",
+        "nm": 92522,
+        "roles": [
+          {
+            "char": "Stana"
+          }
+        ]
+      },
+      {
+        "name": "Ljubica Golubovic",
+        "nm": 326738,
+        "roles": [
+          {
+            "char": "Inzenjerova zena"
+          }
+        ]
+      },
+      {
+        "name": "Zivka Matic",
+        "nm": 559050,
+        "roles": [
+          {
+            "char": "Perina tasta"
+          }
+        ]
+      },
+      {
+        "name": "Milo Miranovic",
+        "nm": 592250,
+        "roles": [
+          {
+            "char": "Ribar"
+          }
+        ]
+      },
+      {
+        "name": "Goran Sultanovic",
+        "nm": 838469,
+        "roles": [
+          {
+            "char": "Rade 'testera'"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Todorovic",
+        "nm": 1414444,
+        "roles": [
+          {
+            "char": "Mita 'Plajvaz'"
+          }
+        ]
+      },
+      {
+        "name": "Mira Dinulovic",
+        "nm": 227857,
+        "roles": [
+          {
+            "char": "Mica"
+          }
+        ]
+      },
+      {
+        "name": "Ljiljana Kontic",
+        "nm": 465410,
+        "roles": [
+          {
+            "char": "Jankova zena"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Most",
+    "tt": 943091,
+    "air_date": "1978-03-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Nikola Milic",
+        "nm": 587416,
+        "roles": [
+          {
+            "char": "Zaharije"
+          }
+        ]
+      },
+      {
+        "name": "Peter Carsten",
+        "nm": 141361,
+        "roles": [
+          {
+            "char": "General fon Fridriks"
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Ivan Bekjarev",
+        "nm": 67429,
+        "roles": [
+          {
+            "char": "Cane 'kurbla'"
+          }
+        ]
+      },
+      {
+        "name": "Toma Jovanovic",
+        "nm": 431299,
+        "roles": [
+          {
+            "char": "Inzenjer"
+          }
+        ]
+      },
+      {
+        "name": "Ljubisa Samardzic",
+        "nm": 759685,
+        "roles": [
+          {
+            "char": "Spanac"
+          }
+        ]
+      },
+      {
+        "name": "Mihajlo Kostic-Pljaka",
+        "nm": 467437,
+        "roles": [
+          {
+            "char": "Pavle"
+          }
+        ]
+      },
+      {
+        "name": "Ljubica Kovic",
+        "nm": 468405,
+        "roles": [
+          {
+            "char": "Zaharijeva zena"
+          }
+        ]
+      },
+      {
+        "name": "Svetlana Bojkovic",
+        "nm": 92522,
+        "roles": [
+          {
+            "char": "Stana"
+          }
+        ]
+      },
+      {
+        "name": "Ljubica Golubovic",
+        "nm": 326738,
+        "roles": [
+          {
+            "char": "Inzenjerova zena"
+          }
+        ]
+      },
+      {
+        "name": "Vera Dedic",
+        "nm": 214101,
+        "roles": [
+          {
+            "char": "Jocina zena Lence"
+          }
+        ]
+      },
+      {
+        "name": "Mirjana Nikolic",
+        "nm": 631898,
+        "roles": [
+          {
+            "char": "Andjela"
+          }
+        ]
+      },
+      {
+        "name": "Goran Plesa",
+        "nm": 687175,
+        "roles": [
+          {
+            "char": "Mile 'Sonda'"
+          }
+        ]
+      },
+      {
+        "name": "Srdjan Dedic",
+        "nm": 1414358,
+        "roles": [
+          {
+            "char": "Caki"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Todorovic",
+        "nm": 1414444,
+        "roles": [
+          {
+            "char": "Mita 'Plajvaz'"
+          }
+        ]
+      },
+      {
+        "name": "Ivan Jonas",
+        "nm": 427312,
+        "roles": [
+          {
+            "char": "Alas"
+          }
+        ]
+      },
+      {
+        "name": "Dunja Cince",
+        "nm": 162404,
+        "roles": [
+          {
+            "char": "Komsinica"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Tadic",
+        "nm": 846306,
+        "roles": [
+          {
+            "char": "Stanoje"
+          }
+        ]
+      },
+      {
+        "name": "Goran Bukilic",
+        "nm": 119751,
+        "roles": [
+          {
+            "char": "Generalov adjutant"
+          }
+        ]
+      },
+      {
+        "name": "Eugen Verber",
+        "nm": 893642,
+        "roles": [
+          {
+            "char": "Sreder"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Kriger",
+    "tt": 943090,
+    "air_date": "1978-03-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pavle Vuisic",
+        "nm": 904303,
+        "roles": [
+          {
+            "char": "Joca",
+            "ch": 89302,
+            "as Pavle Vujisic": true
+          }
+        ]
+      },
+      {
+        "name": "Dragan Nikolic",
+        "nm": 631877,
+        "roles": [
+          {
+            "char": "Prle",
+            "ch": 89294
+          }
+        ]
+      },
+      {
+        "name": "Vojislav Brajovic",
+        "nm": 104103,
+        "roles": [
+          {
+            "char": "Tihi",
+            "ch": 89295
+          }
+        ]
+      },
+      {
+        "name": "Zlata Petkovic",
+        "nm": 677708,
+        "roles": [
+          {
+            "char": "Marija"
+          }
+        ]
+      },
+      {
+        "name": "Aleksandar Bercek",
+        "nm": 73353,
+        "roles": [
+          {
+            "char": "Mrki",
+            "ch": 89303
+          }
+        ]
+      },
+      {
+        "name": "Stevo Zigon",
+        "nm": 956384,
+        "roles": [
+          {
+            "char": "Kriger",
+            "ch": 160478
+          }
+        ]
+      },
+      {
+        "name": "Tatjana Lukjanova",
+        "nm": 525704,
+        "roles": [
+          {
+            "char": "Ruskinja"
+          }
+        ]
+      },
+      {
+        "name": "Rade Markovic",
+        "nm": 548589,
+        "roles": [
+          {
+            "char": "Major Milan"
+          }
+        ]
+      },
+      {
+        "name": "Danilo 'Bata' Stojkovic",
+        "nm": 831262,
+        "roles": [
+          {
+            "char": "Prletov otac Steva"
+          }
+        ]
+      },
+      {
+        "name": "Ljuba Tadic",
+        "nm": 846308,
+        "roles": [
+          {
+            "char": "General"
+          }
+        ]
+      },
+      {
+        "name": "Ksenija Jovanovic",
+        "nm": 431271,
+        "roles": [
+          {
+            "char": "Gospodja Todorovic"
+          }
+        ]
+      },
+      {
+        "name": "Milos Kandic",
+        "nm": 437226,
+        "roles": [
+          {
+            "char": "Ristic"
+          }
+        ]
+      },
+      {
+        "name": "Ljubisa Samardzic",
+        "nm": 759685,
+        "roles": [
+          {
+            "char": "Spanac"
+          }
+        ]
+      },
+      {
+        "name": "Mihajlo Kostic-Pljaka",
+        "nm": 467437,
+        "roles": [
+          {
+            "char": "Pavle"
+          }
+        ]
+      },
+      {
+        "name": "Stevan Minja",
+        "nm": 591405,
+        "roles": [
+          {
+            "char": "Pukovnik Aljosa Ivanovic Belonogov"
+          }
+        ]
+      },
+      {
+        "name": "Bogosava Niksic-Bijelic",
+        "nm": 631984,
+        "roles": [
+          {
+            "char": "Prletova majka"
+          }
+        ]
+      },
+      {
+        "name": "Vera Dedic",
+        "nm": 214101,
+        "roles": [
+          {
+            "char": "Jocina zena Lence"
+          }
+        ]
+      },
+      {
+        "name": "Dusan Tadic",
+        "nm": 846306,
+        "roles": [
+          {
+            "char": "Stanoje"
+          }
+        ]
+      },
+      {
+        "name": "Cane Firaunovic",
+        "nm": 278614,
+        "roles": [
+          {
+            "char": "Kenig",
+            "ch": 89311
+          }
+        ]
+      },
+      {
+        "name": "Stole Arandjelovic",
+        "nm": 33014,
+        "roles": [
+          {
+            "char": "Isa"
+          }
+        ]
+      },
+      {
+        "name": "Bogoljub Petrovic",
+        "nm": 678251,
+        "roles": [
+          {
+            "char": "Aca"
+          }
+        ]
+      },
+      {
+        "name": "Zoran Cvijanovic",
+        "nm": 194143,
+        "roles": [
+          {
+            "char": "Partizan"
+          }
+        ]
+      }
+    ]
+  }
+]

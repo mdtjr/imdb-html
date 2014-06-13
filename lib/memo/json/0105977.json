@@ -1,0 +1,5175 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Mad Woman in the Attic: Part 1",
+    "tt": 394426,
+    "air_date": "1993-09-27",
+    "description": "The second of two beautiful women is murdered on a train, and the primary suspect is an amnesiac man. A psychologist, Dr. Eddie \"Fitz\" Fitzgerald, an old friend of the second victim, is brought in to help.",
+    "cast": [
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Rob Palmer",
+        "nm": 1401048,
+        "roles": [
+          {
+            "char": "Horse Racing Commentary",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Robert",
+        "nm": 730659,
+        "roles": [
+          {
+            "char": "Head of Psychology"
+          }
+        ]
+      },
+      {
+        "name": "Andy Devine",
+        "nm": 222597,
+        "roles": [
+          {
+            "char": "Guard on Train"
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Christopher Eccleston",
+        "nm": 1172,
+        "roles": [
+          {
+            "char": "DCI David Bilborough",
+            "ch": 53637
+          }
+        ]
+      },
+      {
+        "name": "Louise Downie",
+        "nm": 236062,
+        "roles": [
+          {
+            "char": "Jacqui Appleby"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Ian Mercer",
+        "nm": 580270,
+        "roles": [
+          {
+            "char": "D.C. Giggs"
+          }
+        ]
+      },
+      {
+        "name": "Ron Meadows",
+        "nm": 1157919,
+        "roles": [
+          {
+            "char": "Roberts"
+          }
+        ]
+      },
+      {
+        "name": "Paul Copley",
+        "nm": 178740,
+        "roles": [
+          {
+            "char": "Pathologist",
+            "ch": 159670
+          }
+        ]
+      },
+      {
+        "name": "Kerry Shale",
+        "nm": 787715,
+        "roles": [
+          {
+            "char": "Scene of Crime Expert"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Davies",
+        "nm": 204020,
+        "roles": [
+          {
+            "char": "Taxi Driver",
+            "as Vincent Paul Davies": true
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Kate Fitzgerald"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Carol Kidd",
+        "nm": 1535171,
+        "roles": [
+          {
+            "char": "Nightclub Singer"
+          }
+        ]
+      },
+      {
+        "name": "Peter Faulkner",
+        "nm": 269109,
+        "roles": [
+          {
+            "char": "Mike"
+          }
+        ]
+      },
+      {
+        "name": "Kathy Jamieson",
+        "nm": 417126,
+        "roles": [
+          {
+            "char": "Jo"
+          }
+        ]
+      },
+      {
+        "name": "Paulette Constable",
+        "nm": 1534857,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Kika Markham",
+        "nm": 548440,
+        "roles": [
+          {
+            "char": "Ann Appleby"
+          }
+        ]
+      },
+      {
+        "name": "John Grillo",
+        "nm": 342038,
+        "roles": [
+          {
+            "char": "Simon Appleby"
+          }
+        ]
+      },
+      {
+        "name": "Vannessa Kirkpatrick",
+        "nm": 1535176,
+        "roles": [
+          {
+            "char": "Newscaster"
+          }
+        ]
+      },
+      {
+        "name": "Julie Westwood",
+        "nm": 1535667,
+        "roles": [
+          {
+            "char": "PR Woman"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Dunbar",
+        "nm": 1160,
+        "roles": [
+          {
+            "char": "Thomas Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Philippa Howell",
+        "nm": 398036,
+        "roles": [
+          {
+            "char": "Dr Turner"
+          }
+        ]
+      },
+      {
+        "name": "Alan David",
+        "nm": 202804,
+        "roles": [
+          {
+            "char": "Hanrahan"
+          }
+        ]
+      },
+      {
+        "name": "Tony Xu",
+        "nm": 944655,
+        "roles": [
+          {
+            "char": "Dr Soraya"
+          }
+        ]
+      },
+      {
+        "name": "Sunetra Sarker",
+        "nm": 765285,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Seamus O'Neill",
+        "nm": 642306,
+        "roles": [
+          {
+            "char": "D.C. Jones"
+          }
+        ]
+      },
+      {
+        "name": "Renny Krupinski",
+        "nm": 472778,
+        "roles": [
+          {
+            "char": "Voice Expert"
+          }
+        ]
+      },
+      {
+        "name": "Fine Time Fontayne",
+        "nm": 285012,
+        "roles": [
+          {
+            "char": "Bookie"
+          }
+        ]
+      },
+      {
+        "name": "Danny Davies",
+        "nm": 203658,
+        "roles": [
+          {
+            "char": "Ticket Inspector"
+          }
+        ]
+      },
+      {
+        "name": "Gary Styles",
+        "nm": 2451868,
+        "roles": [
+          {
+            "char": "Scene of Crime Photographer",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Mad Woman in the Attic: Part 2",
+    "tt": 1374180,
+    "air_date": "1993-10-04",
+    "description": "As Fitz takes the amnesiac, Thomas Kelly, into his care to regain him his memory, doubts begin to sour about Kelly's guilt after an anonymous man claiming to be a priest commits the greatest sin ever: repeating a confession to the police.",
+    "cast": [
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Christopher Eccleston",
+        "nm": 1172,
+        "roles": [
+          {
+            "char": "DCI David Bilborough",
+            "ch": 53637
+          }
+        ]
+      },
+      {
+        "name": "Seamus O'Neill",
+        "nm": 642306,
+        "roles": [
+          {
+            "char": "D.C. Jones"
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Ian Mercer",
+        "nm": 580270,
+        "roles": [
+          {
+            "char": "D.C. George Giggs"
+          }
+        ]
+      },
+      {
+        "name": "Paul Copley",
+        "nm": 178740,
+        "roles": [
+          {
+            "char": "Pathologist",
+            "ch": 159670
+          }
+        ]
+      },
+      {
+        "name": "Adrian Dunbar",
+        "nm": 1160,
+        "roles": [
+          {
+            "char": "Thomas Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Alan Partington",
+        "nm": 1224639,
+        "roles": [
+          {
+            "char": "Mr. Hobbs"
+          }
+        ]
+      },
+      {
+        "name": "Romy Baskerville",
+        "nm": 59932,
+        "roles": [
+          {
+            "char": "Irene Hobbs"
+          }
+        ]
+      },
+      {
+        "name": "Daryl Fishwick",
+        "nm": 279910,
+        "roles": [
+          {
+            "char": "Mrs. Forbes"
+          }
+        ]
+      },
+      {
+        "name": "Kika Markham",
+        "nm": 548440,
+        "roles": [
+          {
+            "char": "Ann Appleby"
+          }
+        ]
+      },
+      {
+        "name": "John Grillo",
+        "nm": 342038,
+        "roles": [
+          {
+            "char": "Simon Appleby"
+          }
+        ]
+      },
+      {
+        "name": "Edward Peel",
+        "nm": 670230,
+        "roles": [
+          {
+            "char": "Chief Super"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "David Crellin",
+        "nm": 187327,
+        "roles": [
+          {
+            "char": "Quinlan"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Andrew Brittain",
+        "nm": 110080,
+        "roles": [
+          {
+            "char": "Presenter"
+          }
+        ]
+      },
+      {
+        "name": "Diane Adderley",
+        "nm": 11646,
+        "roles": [
+          {
+            "char": "Mrs. Royle"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Woodeson",
+        "nm": 940245,
+        "roles": [
+          {
+            "char": "Michael Hennessy"
+          }
+        ]
+      },
+      {
+        "name": "Rob Palmer",
+        "nm": 1401048,
+        "roles": [
+          {
+            "char": "Horse Racing Commentator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Fine Time Fontayne",
+        "nm": 285012,
+        "roles": [
+          {
+            "char": "Bookie"
+          }
+        ]
+      },
+      {
+        "name": "Nelson Fletcher",
+        "nm": 282079,
+        "roles": [
+          {
+            "char": "Custody Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Louise Downie",
+        "nm": 236062,
+        "roles": [
+          {
+            "char": "Jacqui Appleby"
+          }
+        ]
+      },
+      {
+        "name": "Don Henderson",
+        "nm": 376405,
+        "roles": [
+          {
+            "char": "Mr. Hennessy Senior"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Loy-Ellis",
+        "nm": 523444,
+        "roles": [
+          {
+            "char": "Girl on Train"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639,
+            "credit only": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "To Say I Love You: Part 1",
+    "tt": 394430,
+    "air_date": "1993-10-11",
+    "description": "Sean Kerrigan and Tina Brien, two of society's rejects, are drawn together and will do anything to stay together forever, even murder. Fitz is drawn into the conflict when he begins to uncover the murder of Tina's loan shark.",
+    "cast": [
+      {
+        "name": "Susan Lynch",
+        "nm": 528462,
+        "roles": [
+          {
+            "char": "Tina"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Tiernan",
+        "nm": 862907,
+        "roles": [
+          {
+            "char": "Sean",
+            "ch": 212599
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Danny Green",
+        "nm": 337752,
+        "roles": [
+          {
+            "char": "Waiter",
+            "as Daniel Green": true
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "David Haig",
+        "nm": 354069,
+        "roles": [
+          {
+            "char": "Graham"
+          }
+        ]
+      },
+      {
+        "name": "Gavin Muir",
+        "nm": 611352,
+        "roles": [
+          {
+            "char": "Cormack"
+          }
+        ]
+      },
+      {
+        "name": "Patti Love",
+        "nm": 520545,
+        "roles": [
+          {
+            "char": "Mrs. Brien"
+          }
+        ]
+      },
+      {
+        "name": "Keith Ladd",
+        "nm": 1502369,
+        "roles": [
+          {
+            "char": "Mr. Brien"
+          }
+        ]
+      },
+      {
+        "name": "Susan Vidler",
+        "nm": 896510,
+        "roles": [
+          {
+            "char": "Sammy"
+          }
+        ]
+      },
+      {
+        "name": "Ruth Holden",
+        "nm": 390263,
+        "roles": [
+          {
+            "char": "Lady on Bus"
+          }
+        ]
+      },
+      {
+        "name": "Margo Stanley",
+        "nm": 822550,
+        "roles": [
+          {
+            "char": "Lady on Bus"
+          }
+        ]
+      },
+      {
+        "name": "Tim Barlow",
+        "nm": 55291,
+        "roles": [
+          {
+            "char": "Judith's Father",
+            "as Timothy Barlow": true
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Kate Fitzgerald"
+          }
+        ]
+      },
+      {
+        "name": "Stan Finni",
+        "nm": 1534980,
+        "roles": [
+          {
+            "char": "Sergeant Smith"
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Olivia Jardith",
+        "nm": 418646,
+        "roles": [
+          {
+            "char": "Magistrate"
+          }
+        ]
+      },
+      {
+        "name": "Reginald Stewart",
+        "nm": 829748,
+        "roles": [
+          {
+            "char": "Neighbour",
+            "as Reg Stewart": true
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Christopher Eccleston",
+        "nm": 1172,
+        "roles": [
+          {
+            "char": "DCI David Bilborough",
+            "ch": 53637
+          }
+        ]
+      },
+      {
+        "name": "Ian Mercer",
+        "nm": 580270,
+        "roles": [
+          {
+            "char": "DS George Giggs"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Keyzer",
+        "nm": 450930,
+        "roles": [
+          {
+            "char": "Nikki Price",
+            "as Sarah Keyzor": true
+          }
+        ]
+      },
+      {
+        "name": "Eve Bland",
+        "nm": 87366,
+        "roles": [
+          {
+            "char": "Mrs. Cormack"
+          }
+        ]
+      },
+      {
+        "name": "Terry Gilligan",
+        "nm": 319209,
+        "roles": [
+          {
+            "char": "Lenny Lyon"
+          }
+        ]
+      },
+      {
+        "name": "Beryl Reid",
+        "nm": 717189,
+        "roles": [
+          {
+            "char": "Mrs. Fitzgerald - Fitz's Mum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "To Say I Love You: Part 2",
+    "tt": 1375047,
+    "air_date": "1993-10-18",
+    "description": "Sean and Tina target and kill DC George Giggs when he gets too close to the conflict, and an attempted hit on Fitz fails and results in Tina's arrest.",
+    "cast": [
+      {
+        "name": "Andrew Tiernan",
+        "nm": 862907,
+        "roles": [
+          {
+            "char": "Sean",
+            "ch": 212599
+          }
+        ]
+      },
+      {
+        "name": "Susan Lynch",
+        "nm": 528462,
+        "roles": [
+          {
+            "char": "Tina"
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "David Haig",
+        "nm": 354069,
+        "roles": [
+          {
+            "char": "Graham"
+          }
+        ]
+      },
+      {
+        "name": "Ian Mercer",
+        "nm": 580270,
+        "roles": [
+          {
+            "char": "DC George Giggs"
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Christopher Eccleston",
+        "nm": 1172,
+        "roles": [
+          {
+            "char": "DCI David Bilborough",
+            "ch": 53637
+          }
+        ]
+      },
+      {
+        "name": "Richard Stone",
+        "nm": 1325997,
+        "roles": [
+          {
+            "char": "Shop Manager"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Danny Green",
+        "nm": 337752,
+        "roles": [
+          {
+            "char": "Waiter",
+            "as Daniel Green": true
+          }
+        ]
+      },
+      {
+        "name": "James Quinn",
+        "nm": 703868,
+        "roles": [
+          {
+            "char": "Doorman"
+          }
+        ]
+      },
+      {
+        "name": "Rose English",
+        "nm": 257673,
+        "roles": [
+          {
+            "char": "Pathologist",
+            "ch": 159670
+          }
+        ]
+      },
+      {
+        "name": "Stan Finni",
+        "nm": 1534980,
+        "roles": [
+          {
+            "char": "Sergeant Smith"
+          }
+        ]
+      },
+      {
+        "name": "Kathryn Hunt",
+        "nm": 402519,
+        "roles": [
+          {
+            "char": "Mrs. Rivers",
+            "as Kate Hunt": true
+          }
+        ]
+      },
+      {
+        "name": "Glen Cunningham",
+        "nm": 1005489,
+        "roles": [
+          {
+            "char": "Mr. Rivers"
+          }
+        ]
+      },
+      {
+        "name": "Al T. Kossy",
+        "nm": 467324,
+        "roles": [
+          {
+            "char": "Expert in Pub",
+            "as Al T Kossy": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "To Say I Love You: Part 3",
+    "tt": 1375048,
+    "air_date": "1993-10-25",
+    "description": "Sean targets Tina's neglectful family and blind sister as an act of revenge as Fitz and the police close in on him.",
+    "cast": [
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Owen Brenman",
+        "nm": 3859,
+        "roles": [
+          {
+            "char": "Businessman"
+          },
+          {
+            "char": "Haig"
+          }
+        ]
+      },
+      {
+        "name": "Susan Lynch",
+        "nm": 528462,
+        "roles": [
+          {
+            "char": "Tina"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Eccleston",
+        "nm": 1172,
+        "roles": [
+          {
+            "char": "DCI David Bilborough",
+            "ch": 53637
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Andrew Tiernan",
+        "nm": 862907,
+        "roles": [
+          {
+            "char": "Sean",
+            "ch": 212599
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Parvez Qadir",
+        "nm": 702587,
+        "roles": [
+          {
+            "char": "Petrol Station Attendant",
+            "as Parvez Quadir": true
+          }
+        ]
+      },
+      {
+        "name": "Edward Peel",
+        "nm": 670230,
+        "roles": [
+          {
+            "char": "Chief Super"
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Giles Oldershaw",
+        "nm": 646110,
+        "roles": [
+          {
+            "char": "Man in House",
+            "as Giles Aldershaw": true
+          }
+        ]
+      },
+      {
+        "name": "Tamsin Heatley",
+        "nm": 1052583,
+        "roles": [
+          {
+            "char": "Woman in House",
+            "as Tasmin Heatley": true
+          }
+        ]
+      },
+      {
+        "name": "Susan Vidler",
+        "nm": 896510,
+        "roles": [
+          {
+            "char": "Sammy"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Wrather",
+        "nm": 942021,
+        "roles": [
+          {
+            "char": "Sammy's Boyfriend"
+          }
+        ]
+      },
+      {
+        "name": "Stan Finni",
+        "nm": 1534980,
+        "roles": [
+          {
+            "char": "Sergeant Smith"
+          }
+        ]
+      },
+      {
+        "name": "Patti Love",
+        "nm": 520545,
+        "roles": [
+          {
+            "char": "Mrs. Brien"
+          }
+        ]
+      },
+      {
+        "name": "Keith Ladd",
+        "nm": 1502369,
+        "roles": [
+          {
+            "char": "Mr. Brien"
+          }
+        ]
+      },
+      {
+        "name": "Steve Halliwell",
+        "nm": 356675,
+        "roles": [
+          {
+            "char": "Fire Officer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "One Day a Lemming Will Fly: Part 1",
+    "tt": 394428,
+    "air_date": "1993-11-01",
+    "description": "A young boy goes missing and is soon found dead in a wood, and Fitz is asked to join the investigation.",
+    "cast": [
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Wesley Cook",
+        "nm": 1534859,
+        "roles": [
+          {
+            "char": "Tim Lang"
+          }
+        ]
+      },
+      {
+        "name": "Linda Henry",
+        "nm": 377905,
+        "roles": [
+          {
+            "char": "Mrs. Perry"
+          }
+        ]
+      },
+      {
+        "name": "John Graham-Davies",
+        "nm": 334362,
+        "roles": [
+          {
+            "char": "Francis Bates",
+            "as John Graham Davies": true
+          }
+        ]
+      },
+      {
+        "name": "Ann Francis",
+        "nm": 1530497,
+        "roles": [
+          {
+            "char": "Croupier"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Lee Hartney",
+        "nm": 367172,
+        "roles": [
+          {
+            "char": "Andy Lang",
+            "as Lee Philip Hartney": true
+          }
+        ]
+      },
+      {
+        "name": "Frances Tomelty",
+        "nm": 866626,
+        "roles": [
+          {
+            "char": "Julie Lang"
+          }
+        ]
+      },
+      {
+        "name": "John Vine",
+        "nm": 898905,
+        "roles": [
+          {
+            "char": "Lindsay"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Eccleston",
+        "nm": 1172,
+        "roles": [
+          {
+            "char": "DCI David Bilborough",
+            "ch": 53637
+          }
+        ]
+      },
+      {
+        "name": "Tim Healy",
+        "nm": 372388,
+        "roles": [
+          {
+            "char": "Mr. Lang"
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Amelia Bullmore",
+        "nm": 120111,
+        "roles": [
+          {
+            "char": "Catriona Bilborough",
+            "ch": 148945
+          }
+        ]
+      },
+      {
+        "name": "Christopher Fulford",
+        "nm": 298089,
+        "roles": [
+          {
+            "char": "Nigel Cassidy",
+            "ch": 212601
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Kate 'Katie' Fitzgerald",
+            "ch": 226772
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Hutchings",
+        "nm": 404232,
+        "roles": [
+          {
+            "char": "Pathologist",
+            "ch": 159670
+          }
+        ]
+      },
+      {
+        "name": "Tom Urwin",
+        "nm": 1535616,
+        "roles": [
+          {
+            "char": "Bully Boy"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Blane",
+        "nm": 87432,
+        "roles": [
+          {
+            "char": "Forensic Scientist",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "James Quinn",
+        "nm": 703868,
+        "roles": [
+          {
+            "char": "Bouncer",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "One Day a Lemming Will Fly: Part 2",
+    "tt": 1402266,
+    "air_date": "1993-11-08",
+    "description": "Fitz duels it out with the prime suspect while an angry mob builds outside the police station.",
+    "cast": [
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Christopher Fulford",
+        "nm": 298089,
+        "roles": [
+          {
+            "char": "Nigel Cassidy",
+            "ch": 212601
+          }
+        ]
+      },
+      {
+        "name": "John Vine",
+        "nm": 898905,
+        "roles": [
+          {
+            "char": "Lindsay"
+          }
+        ]
+      },
+      {
+        "name": "Tim Healy",
+        "nm": 372388,
+        "roles": [
+          {
+            "char": "Mr. Lang"
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Christopher Eccleston",
+        "nm": 1172,
+        "roles": [
+          {
+            "char": "DCI David Bilborough",
+            "ch": 53637
+          }
+        ]
+      },
+      {
+        "name": "Trevyn McDowell",
+        "nm": 568329,
+        "roles": [
+          {
+            "char": "Leslie"
+          }
+        ]
+      },
+      {
+        "name": "John Graham-Davies",
+        "nm": 334362,
+        "roles": [
+          {
+            "char": "Francis Bates",
+            "as John Graham Davies": true
+          }
+        ]
+      },
+      {
+        "name": "Frances Tomelty",
+        "nm": 866626,
+        "roles": [
+          {
+            "char": "Julie Lang"
+          }
+        ]
+      },
+      {
+        "name": "Edward Peel",
+        "nm": 670230,
+        "roles": [
+          {
+            "char": "Chief Super"
+          }
+        ]
+      },
+      {
+        "name": "Lee Hartney",
+        "nm": 367172,
+        "roles": [
+          {
+            "char": "Andy Lang",
+            "as Lee Philip Hartney": true
+          }
+        ]
+      },
+      {
+        "name": "Amelia Bullmore",
+        "nm": 120111,
+        "roles": [
+          {
+            "char": "Catriona Bilborough",
+            "ch": 148945
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Kate 'Katie' Fitzgerald",
+            "ch": 226772
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Stan Finni",
+        "nm": 1534980,
+        "roles": [
+          {
+            "char": "Sergeant Smith"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Bridge",
+        "nm": 1307263,
+        "roles": [
+          {
+            "char": "ID Parade Policeman",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "To Be a Somebody: Part 1",
+    "tt": 394429,
+    "air_date": "1994-10-10",
+    "description": "A working class man, distraught at the recent death of his father, impulsively becomes a skinhead and murders a Pakistani shopkeeper over a perceived insult.",
+    "cast": [
+      {
+        "name": "Robert Carlyle",
+        "nm": 1015,
+        "roles": [
+          {
+            "char": "Albie Kinsella",
+            "ch": 159671
+          }
+        ]
+      },
+      {
+        "name": "Tracy Gillman",
+        "nm": 319341,
+        "roles": [
+          {
+            "char": "Jill Kinsella"
+          }
+        ]
+      },
+      {
+        "name": "Gemma Phoenix",
+        "nm": 681085,
+        "roles": [
+          {
+            "char": "Ruth"
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Dave Bond",
+        "nm": 93915,
+        "roles": [
+          {
+            "char": "Factory Supervisor"
+          }
+        ]
+      },
+      {
+        "name": "Martin Pearson",
+        "nm": 669332,
+        "roles": [
+          {
+            "char": "Factory Worker"
+          }
+        ]
+      },
+      {
+        "name": "Badi Uzzaman",
+        "nm": 882732,
+        "roles": [
+          {
+            "char": "Shahid Ali"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Christopher Eccleston",
+        "nm": 1172,
+        "roles": [
+          {
+            "char": "DCI David Bilborough",
+            "ch": 53637
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Shango Baku",
+        "nm": 49264,
+        "roles": [
+          {
+            "char": "Gregson"
+          }
+        ]
+      },
+      {
+        "name": "Wil Johnson",
+        "nm": 426435,
+        "roles": [
+          {
+            "char": "D.C. Skelton",
+            "ch": 226773,
+            "as Wilbert Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Colin Tierney",
+        "nm": 862918,
+        "roles": [
+          {
+            "char": "D.C. Bobby Harriman",
+            "ch": 212602
+          }
+        ]
+      },
+      {
+        "name": "Paul Copley",
+        "nm": 178740,
+        "roles": [
+          {
+            "char": "Pathologist",
+            "ch": 159670
+          }
+        ]
+      },
+      {
+        "name": "Kim Vithana",
+        "nm": 900012,
+        "roles": [
+          {
+            "char": "Razia Ali"
+          }
+        ]
+      },
+      {
+        "name": "Elaine Heywood",
+        "nm": 1535074,
+        "roles": [
+          {
+            "char": "Mrs. Ali"
+          }
+        ]
+      },
+      {
+        "name": "Tony Barton",
+        "nm": 59260,
+        "roles": [
+          {
+            "char": "Builder"
+          }
+        ]
+      },
+      {
+        "name": "Mike Kelly",
+        "nm": 446692,
+        "roles": [
+          {
+            "char": "Peter Lloyd"
+          }
+        ]
+      },
+      {
+        "name": "Marc Seymour",
+        "nm": 1535500,
+        "roles": [
+          {
+            "char": "3rd Skinhead"
+          }
+        ]
+      },
+      {
+        "name": "Beth Goddard",
+        "nm": 323764,
+        "roles": [
+          {
+            "char": "Clare Moody"
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Clay",
+        "nm": 165567,
+        "roles": [
+          {
+            "char": "Counter Clerk"
+          }
+        ]
+      },
+      {
+        "name": "John Capps",
+        "nm": 1534816,
+        "roles": [
+          {
+            "char": "1st Skinhead"
+          }
+        ]
+      },
+      {
+        "name": "Ken Christiansen",
+        "nm": 160191,
+        "roles": [
+          {
+            "char": "2nd Skinhead"
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Kate 'Katie' Fitzgerald",
+            "ch": 226772
+          }
+        ]
+      },
+      {
+        "name": "John Pickles",
+        "nm": 681953,
+        "roles": [
+          {
+            "char": "Neighbour"
+          }
+        ]
+      },
+      {
+        "name": "Peter Clifford",
+        "nm": 166676,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Rosa Roberts",
+        "nm": 1526690,
+        "roles": [
+          {
+            "char": "Householder"
+          }
+        ]
+      },
+      {
+        "name": "Glyn Grain",
+        "nm": 334426,
+        "roles": [
+          {
+            "char": "Professor Nolan"
+          }
+        ]
+      },
+      {
+        "name": "Trisha Hitchcock",
+        "nm": 386891,
+        "roles": [
+          {
+            "char": "Mrs. Nolan",
+            "as Tricia Hitchcock": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "To Be a Somebody: Part 2",
+    "tt": 1411321,
+    "air_date": "1994-10-17",
+    "description": "As Albie continues his merciless killing spree, Fitz is brought in to investigate, realizing that Albie is actually an ordinary citizen gone wrong, and the murder of DCI Bilborough tragically proves this.",
+    "cast": [
+      {
+        "name": "Christopher Eccleston",
+        "nm": 1172,
+        "roles": [
+          {
+            "char": "DCI David Bilborough",
+            "ch": 53637
+          }
+        ]
+      },
+      {
+        "name": "Edward Peel",
+        "nm": 670230,
+        "roles": [
+          {
+            "char": "Chief Superintendent"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Colin Tierney",
+        "nm": 862918,
+        "roles": [
+          {
+            "char": "D.C. Bobby Harriman",
+            "ch": 212602
+          }
+        ]
+      },
+      {
+        "name": "Robert Carlyle",
+        "nm": 1015,
+        "roles": [
+          {
+            "char": "Albie Kinsella",
+            "ch": 159671
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Beth Goddard",
+        "nm": 323764,
+        "roles": [
+          {
+            "char": "Clare Moody"
+          }
+        ]
+      },
+      {
+        "name": "Kim Vithana",
+        "nm": 900012,
+        "roles": [
+          {
+            "char": "Razia Ali"
+          }
+        ]
+      },
+      {
+        "name": "Elaine Heywood",
+        "nm": 1535074,
+        "roles": [
+          {
+            "char": "Mrs. Ali"
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Jon Huyton",
+        "nm": 1535115,
+        "roles": [
+          {
+            "char": "Barman"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Kate 'Katie' Fitzgerald",
+            "ch": 226772
+          }
+        ]
+      },
+      {
+        "name": "Tony Barton",
+        "nm": 59260,
+        "roles": [
+          {
+            "char": "Builder"
+          }
+        ]
+      },
+      {
+        "name": "Tony Peers",
+        "nm": 670313,
+        "roles": [
+          {
+            "char": "Man in Albie's Street"
+          }
+        ]
+      },
+      {
+        "name": "Frankie Jordan",
+        "nm": 429945,
+        "roles": [
+          {
+            "char": "First Woman"
+          }
+        ]
+      },
+      {
+        "name": "Sandra Gough",
+        "nm": 332246,
+        "roles": [
+          {
+            "char": "Second Woman"
+          }
+        ]
+      },
+      {
+        "name": "Gemma Phoenix",
+        "nm": 681085,
+        "roles": [
+          {
+            "char": "Ruth"
+          }
+        ]
+      },
+      {
+        "name": "Tracy Gillman",
+        "nm": 319341,
+        "roles": [
+          {
+            "char": "Jill Kinsella"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "June Broughton",
+        "nm": 112694,
+        "roles": [
+          {
+            "char": "Woman Shopper"
+          }
+        ]
+      },
+      {
+        "name": "Isobel Middleton",
+        "nm": 585511,
+        "roles": [
+          {
+            "char": "Catriona Bilborough",
+            "ch": 148945
+          }
+        ]
+      },
+      {
+        "name": "Ryan Cooper",
+        "nm": 1653198,
+        "roles": [
+          {
+            "char": "Baby Bilborough"
+          }
+        ]
+      },
+      {
+        "name": "Philip Childs",
+        "nm": 157583,
+        "roles": [
+          {
+            "char": "Radio Operator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "To Be a Somebody: Part 3",
+    "tt": 1411322,
+    "air_date": "1994-10-24",
+    "description": "Fitz and the police finally catch Albie, only to realize that he has a few explosive tricks in store for them.",
+    "cast": [
+      {
+        "name": "Christopher Eccleston",
+        "nm": 1172,
+        "roles": [
+          {
+            "char": "DCI David Bilborough",
+            "ch": 53637
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Edward Peel",
+        "nm": 670230,
+        "roles": [
+          {
+            "char": "Chief Super"
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "DCI Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Isobel Middleton",
+        "nm": 585511,
+        "roles": [
+          {
+            "char": "Catriona Bilborough",
+            "ch": 148945
+          }
+        ]
+      },
+      {
+        "name": "Robert Carlyle",
+        "nm": 1015,
+        "roles": [
+          {
+            "char": "Albie Kinsella",
+            "ch": 159671
+          }
+        ]
+      },
+      {
+        "name": "John Henshaw",
+        "nm": 378132,
+        "roles": [
+          {
+            "char": "Quarry Foreman"
+          }
+        ]
+      },
+      {
+        "name": "David Holt",
+        "nm": 1034076,
+        "roles": [
+          {
+            "char": "Hospital Administrator"
+          }
+        ]
+      },
+      {
+        "name": "Tracy Gillman",
+        "nm": 319341,
+        "roles": [
+          {
+            "char": "Jill Kinsella"
+          }
+        ]
+      },
+      {
+        "name": "Wil Johnson",
+        "nm": 426435,
+        "roles": [
+          {
+            "char": "D.C. Skelton",
+            "ch": 226773,
+            "as Wilbert Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Beth Goddard",
+        "nm": 323764,
+        "roles": [
+          {
+            "char": "Clare Moody"
+          }
+        ]
+      },
+      {
+        "name": "Colin Tierney",
+        "nm": 862918,
+        "roles": [
+          {
+            "char": "D.C. Bobby Harriman",
+            "ch": 212602
+          }
+        ]
+      },
+      {
+        "name": "Johnny Leeze",
+        "nm": 498817,
+        "roles": [
+          {
+            "char": "1st Manchester United Fan"
+          }
+        ]
+      },
+      {
+        "name": "Luke Scott Edwards",
+        "nm": 1534951,
+        "roles": [
+          {
+            "char": "2nd Manchester United Fan"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Quarmby",
+        "nm": 702922,
+        "roles": [
+          {
+            "char": "1st Steward"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "The Big Crunch: Part 1",
+    "tt": 394424,
+    "air_date": "1994-10-31",
+    "description": "A charismatic cult preacher finds that he has impregnated one of his 16 year old students and must silence her to protect his position.",
+    "cast": [
+      {
+        "name": "Jim Carter",
+        "nm": 141697,
+        "roles": [
+          {
+            "char": "Kenneth Trant",
+            "ch": 169778
+          }
+        ]
+      },
+      {
+        "name": "Samantha Morton",
+        "nm": 608090,
+        "roles": [
+          {
+            "char": "Joanne Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Cherith Mellor",
+        "nm": 578106,
+        "roles": [
+          {
+            "char": "Norma Trant"
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Maureen O'Brien",
+        "nm": 639709,
+        "roles": [
+          {
+            "char": "Virginia Trant"
+          }
+        ]
+      },
+      {
+        "name": "James Fleet",
+        "nm": 281424,
+        "roles": [
+          {
+            "char": "Michael Trant"
+          }
+        ]
+      },
+      {
+        "name": "Darren Tighe",
+        "nm": 863059,
+        "roles": [
+          {
+            "char": "Dean Saunders"
+          }
+        ]
+      },
+      {
+        "name": "Samia Ghadie",
+        "nm": 315466,
+        "roles": [
+          {
+            "char": "Rosie"
+          }
+        ]
+      },
+      {
+        "name": "Doc O'Brien",
+        "nm": 639519,
+        "roles": [
+          {
+            "char": "Bus Driver"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Colin Tierney",
+        "nm": 862918,
+        "roles": [
+          {
+            "char": "D.C. Bobby Harriman",
+            "ch": 212602
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Roger Sloman",
+        "nm": 806149,
+        "roles": [
+          {
+            "char": "Mr. Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Ellie Haddington",
+        "nm": 352705,
+        "roles": [
+          {
+            "char": "Mrs. Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Katie Fitzgerald"
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Chamney",
+        "nm": 150552,
+        "roles": [
+          {
+            "char": "School Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Emma Cunniffe",
+        "nm": 192209,
+        "roles": [
+          {
+            "char": "Sarah Jennings"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Abrahams",
+        "nm": 8992,
+        "roles": [
+          {
+            "char": "Police Officer",
+            "as Andy Abrahams": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "The Big Crunch: Part 2",
+    "tt": 1412021,
+    "air_date": "1994-11-07",
+    "description": "Joanne Barnes dies in the hospital following her ordeal with the Trants, and one of Michael Trant's factory workers, Dean Saunders, is framed for the murder.",
+    "cast": [
+      {
+        "name": "Samantha Morton",
+        "nm": 608090,
+        "roles": [
+          {
+            "char": "Joanne Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Ellie Haddington",
+        "nm": 352705,
+        "roles": [
+          {
+            "char": "Mrs. Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Roger Sloman",
+        "nm": 806149,
+        "roles": [
+          {
+            "char": "Mr. Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "James Fleet",
+        "nm": 281424,
+        "roles": [
+          {
+            "char": "Michael Trant"
+          }
+        ]
+      },
+      {
+        "name": "Darren Tighe",
+        "nm": 863059,
+        "roles": [
+          {
+            "char": "Dean Saunders"
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Lottie Ward",
+        "nm": 911696,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Longmore",
+        "nm": 519387,
+        "roles": [
+          {
+            "char": "Local PC"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Fry",
+        "nm": 296775,
+        "roles": [
+          {
+            "char": "Doctor",
+            "as Nick Fry": true
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Jim Carter",
+        "nm": 141697,
+        "roles": [
+          {
+            "char": "Kenneth Trant",
+            "ch": 169778
+          }
+        ]
+      },
+      {
+        "name": "Maureen O'Brien",
+        "nm": 639709,
+        "roles": [
+          {
+            "char": "Virginia Trant"
+          }
+        ]
+      },
+      {
+        "name": "Cherith Mellor",
+        "nm": 578106,
+        "roles": [
+          {
+            "char": "Norma Trant"
+          }
+        ]
+      },
+      {
+        "name": "Colin Tierney",
+        "nm": 862918,
+        "roles": [
+          {
+            "char": "D.C. Bobby Harriman",
+            "ch": 212602
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Blane",
+        "nm": 87432,
+        "roles": [
+          {
+            "char": "Father O'Ryan"
+          }
+        ]
+      },
+      {
+        "name": "Emma Cunniffe",
+        "nm": 192209,
+        "roles": [
+          {
+            "char": "Sarah Jennings",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "The Big Crunch: Part 3",
+    "tt": 1412022,
+    "air_date": "1994-11-14",
+    "description": "Fitz remains unconvinced that Dean Saunders is the killer, and sets out to bring Kenneth Trant and his family to justice.",
+    "cast": [
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "James Fleet",
+        "nm": 281424,
+        "roles": [
+          {
+            "char": "Michael Trant"
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Colin Tierney",
+        "nm": 862918,
+        "roles": [
+          {
+            "char": "D.C. Bobby Harriman",
+            "ch": 212602
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Wil Johnson",
+        "nm": 426435,
+        "roles": [
+          {
+            "char": "D.C. Skelton",
+            "ch": 226773,
+            "as Wilbert Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Jim Carter",
+        "nm": 141697,
+        "roles": [
+          {
+            "char": "Kenneth Trant",
+            "ch": 169778
+          }
+        ]
+      },
+      {
+        "name": "Maureen O'Brien",
+        "nm": 639709,
+        "roles": [
+          {
+            "char": "Virginia Trant"
+          }
+        ]
+      },
+      {
+        "name": "Cherith Mellor",
+        "nm": 578106,
+        "roles": [
+          {
+            "char": "Norma Trant"
+          }
+        ]
+      },
+      {
+        "name": "Kelvin Fletcher",
+        "nm": 282054,
+        "roles": [
+          {
+            "char": "Boy"
+          }
+        ]
+      },
+      {
+        "name": "Emma Cunniffe",
+        "nm": 192209,
+        "roles": [
+          {
+            "char": "Sarah Jennings"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Men Should Weep: Part 1",
+    "tt": 394427,
+    "air_date": "1994-11-21",
+    "description": "A young black man, product of an interracial marriage, seethes with resentment and turns from being a serial rapist to murder.",
+    "cast": [
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Alexander Newland",
+        "nm": 1051123,
+        "roles": [
+          {
+            "char": "Marvin Malcolm"
+          }
+        ]
+      },
+      {
+        "name": "Graham Aggrey",
+        "nm": 13020,
+        "roles": [
+          {
+            "char": "Floyd Malcolm"
+          }
+        ]
+      },
+      {
+        "name": "Julie Saunders",
+        "nm": 766854,
+        "roles": [
+          {
+            "char": "Bev Malcolm"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Davies",
+        "nm": 203915,
+        "roles": [
+          {
+            "char": "Mrs. Malcolm"
+          }
+        ]
+      },
+      {
+        "name": "Ludmilla Vuli",
+        "nm": 904413,
+        "roles": [
+          {
+            "char": "Trish"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Ina Clough",
+        "nm": 167173,
+        "roles": [
+          {
+            "char": "Elderly Dancer"
+          }
+        ]
+      },
+      {
+        "name": "Jack Randle",
+        "nm": 1643110,
+        "roles": [
+          {
+            "char": "Taxi Driver"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "John McArdle",
+        "nm": 564089,
+        "roles": [
+          {
+            "char": "Tom Carter"
+          }
+        ]
+      },
+      {
+        "name": "Marian McLoughlin",
+        "nm": 572938,
+        "roles": [
+          {
+            "char": "Catherine Carter"
+          }
+        ]
+      },
+      {
+        "name": "Colin Tierney",
+        "nm": 862918,
+        "roles": [
+          {
+            "char": "D.C. Bobby Harriman",
+            "ch": 212602
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Wil Johnson",
+        "nm": 426435,
+        "roles": [
+          {
+            "char": "D.C. Skelton",
+            "ch": 226773,
+            "as Wilbert Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Gerard O'Hare",
+        "nm": 641358,
+        "roles": [
+          {
+            "char": "O'Rourke"
+          }
+        ]
+      },
+      {
+        "name": "Stefan Escreet",
+        "nm": 260445,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Tony Rohr",
+        "nm": 737575,
+        "roles": [
+          {
+            "char": "James Molloy"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Readman",
+        "nm": 713942,
+        "roles": [
+          {
+            "char": "Andrew Wiley"
+          }
+        ]
+      },
+      {
+        "name": "Diane O'Kelly",
+        "nm": 1528244,
+        "roles": [
+          {
+            "char": "Helen Robins"
+          }
+        ]
+      },
+      {
+        "name": "John Middleton",
+        "nm": 585519,
+        "roles": [
+          {
+            "char": "Jed Robins"
+          }
+        ]
+      },
+      {
+        "name": "Ian Wilkinson",
+        "nm": 2216887,
+        "roles": [
+          {
+            "char": "Dancer in Pub",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Men Should Weep: Part 2",
+    "tt": 1439685,
+    "air_date": "1994-11-28",
+    "description": "Floyd Malcolm, following apparent advice from Fitz, turns from serial rape to murder. At the same time, Penhaligon's rape puts a strain on her relationship with Fitz.",
+    "cast": [
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Graham Aggrey",
+        "nm": 13020,
+        "roles": [
+          {
+            "char": "Floyd Malcolm"
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Claire Hackett",
+        "nm": 45661,
+        "roles": [
+          {
+            "char": "Deborah Wiley"
+          }
+        ]
+      },
+      {
+        "name": "Clare Beck",
+        "nm": 1667670,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Marianne Jean-Baptiste",
+        "nm": 1399,
+        "roles": [
+          {
+            "char": "Marcia Reid",
+            "as Marianne Jean Baptiste": true
+          }
+        ]
+      },
+      {
+        "name": "Wil Johnson",
+        "nm": 426435,
+        "roles": [
+          {
+            "char": "D.C. Skelton",
+            "ch": 226773,
+            "as Wilbert Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Colin Tierney",
+        "nm": 862918,
+        "roles": [
+          {
+            "char": "D.C. Bobby Harriman",
+            "ch": 212602
+          }
+        ]
+      },
+      {
+        "name": "Andrew Readman",
+        "nm": 713942,
+        "roles": [
+          {
+            "char": "Andrew Wiley"
+          }
+        ]
+      },
+      {
+        "name": "Joe Simpson",
+        "nm": 801053,
+        "roles": [
+          {
+            "char": "Taxi Inspector"
+          }
+        ]
+      },
+      {
+        "name": "Julie Saunders",
+        "nm": 766854,
+        "roles": [
+          {
+            "char": "Bev Malcolm"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Newland",
+        "nm": 1051123,
+        "roles": [
+          {
+            "char": "Marvin Malcolm"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Davies",
+        "nm": 203915,
+        "roles": [
+          {
+            "char": "Mrs. Malcolm"
+          }
+        ]
+      },
+      {
+        "name": "Anna Welsh",
+        "nm": 920519,
+        "roles": [
+          {
+            "char": "Nosy Neighbour"
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Katie Fitzgerald"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Ewen Cummins",
+        "nm": 192000,
+        "roles": [
+          {
+            "char": "Wilson Parry"
+          }
+        ]
+      },
+      {
+        "name": "Fiona Allen",
+        "nm": 20511,
+        "roles": [
+          {
+            "char": "House Owner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Men Should Weep: Part 3",
+    "tt": 1439686,
+    "air_date": "1994-12-04",
+    "description": "Floyd Malcolm targets Fitz as the police close in on him, and Penhaligon discovers the true identity of her rapist.",
+    "cast": [
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Rachel Davies",
+        "nm": 203915,
+        "roles": [
+          {
+            "char": "Mrs. Malcolm"
+          }
+        ]
+      },
+      {
+        "name": "Ewen Cummins",
+        "nm": 192000,
+        "roles": [
+          {
+            "char": "Wilson Parry"
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Colin Tierney",
+        "nm": 862918,
+        "roles": [
+          {
+            "char": "D.C. Bobby Harriman",
+            "ch": 212602
+          }
+        ]
+      },
+      {
+        "name": "Graham Aggrey",
+        "nm": 13020,
+        "roles": [
+          {
+            "char": "Floyd Malcolm"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Wil Johnson",
+        "nm": 426435,
+        "roles": [
+          {
+            "char": "D.C. Skelton",
+            "ch": 226773,
+            "as Wilbert Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Angela Wynter",
+        "nm": 944070,
+        "roles": [
+          {
+            "char": "Barbara Charles"
+          }
+        ]
+      },
+      {
+        "name": "Darren Brown",
+        "nm": 113349,
+        "roles": [
+          {
+            "char": "Priest"
+          }
+        ]
+      },
+      {
+        "name": "Isobel Middleton",
+        "nm": 585511,
+        "roles": [
+          {
+            "char": "Catriona Bilborough",
+            "ch": 148945
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E01",
+    "title": "Brotherly Love: Part 1",
+    "tt": 394425,
+    "air_date": "1995-10-22",
+    "description": "A married father of four, addicted to kinky sex with prostitutes, kills one when he cannot pay and she threatens to expose him to his wife.",
+    "cast": [
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Rodney Litchfield",
+        "nm": 514334,
+        "roles": [
+          {
+            "char": "Taxi Driver"
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640,
+            "also archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Mark Lambert",
+        "nm": 483251,
+        "roles": [
+          {
+            "char": "David Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Ruth Sheen",
+        "nm": 790689,
+        "roles": [
+          {
+            "char": "Jean McIlvanney"
+          }
+        ]
+      },
+      {
+        "name": "Polly Hemingway",
+        "nm": 376025,
+        "roles": [
+          {
+            "char": "Denise Fletcher"
+          }
+        ]
+      },
+      {
+        "name": "Sharon Percy",
+        "nm": 672922,
+        "roles": [
+          {
+            "char": "Joyce Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Gemma Peacock Wood",
+        "nm": 1535378,
+        "roles": [
+          {
+            "char": "Jean's Daughter"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Ron Donachie",
+        "nm": 231871,
+        "roles": [
+          {
+            "char": "Barney"
+          }
+        ]
+      },
+      {
+        "name": "Dan Armour",
+        "nm": 35566,
+        "roles": [
+          {
+            "char": "Man at Cashpoint"
+          }
+        ]
+      },
+      {
+        "name": "Claire Stephanie Hardacre",
+        "nm": 1535052,
+        "roles": [
+          {
+            "char": "Joan Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Leanne Molloy",
+        "nm": 1535297,
+        "roles": [
+          {
+            "char": "Theresa Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Whyment",
+        "nm": 926654,
+        "roles": [
+          {
+            "char": "Matthew Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Knott",
+        "nm": 461409,
+        "roles": [
+          {
+            "char": "Joe Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Brid Brennan",
+        "nm": 107261,
+        "roles": [
+          {
+            "char": "Maggie Harvey",
+            "ch": 233147
+          }
+        ]
+      },
+      {
+        "name": "David Calder",
+        "nm": 129464,
+        "roles": [
+          {
+            "char": "Father Michael Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Katie Fitzgerald"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Clive Russell",
+        "nm": 751085,
+        "roles": [
+          {
+            "char": "Danny Fitzgerald",
+            "ch": 102388
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Owen Aaronovitch",
+        "nm": 7488,
+        "roles": [
+          {
+            "char": "Charnock"
+          }
+        ]
+      },
+      {
+        "name": "Robert Cavanah",
+        "nm": 146917,
+        "roles": [
+          {
+            "char": "D.C. Alan Temple",
+            "ch": 245902
+          }
+        ]
+      },
+      {
+        "name": "Paul Copley",
+        "nm": 178740,
+        "roles": [
+          {
+            "char": "Pathologist",
+            "ch": 159670
+          }
+        ]
+      },
+      {
+        "name": "Barbara Young",
+        "nm": 949288,
+        "roles": [
+          {
+            "char": "Helen McIlvanney"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E02",
+    "title": "Brotherly Love: Part 2",
+    "tt": 1539648,
+    "air_date": "1995-10-29",
+    "description": "David Harvey is arrested, but while he is in custody, two more identical killings occur, casting doubt on his guilt. Jimmy Beck, meanwhile, cannot get over his guilt over Bilborough's death and raping Penhaligon.",
+    "cast": [
+      {
+        "name": "Sharon Percy",
+        "nm": 672922,
+        "roles": [
+          {
+            "char": "Joyce Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Robert Cavanah",
+        "nm": 146917,
+        "roles": [
+          {
+            "char": "D.C. Alan Temple",
+            "ch": 245902
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Paul Copley",
+        "nm": 178740,
+        "roles": [
+          {
+            "char": "Pathologist",
+            "ch": 159670
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Stephen Tomlin",
+        "nm": 866816,
+        "roles": [
+          {
+            "char": "DNA Expert"
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Brid Brennan",
+        "nm": 107261,
+        "roles": [
+          {
+            "char": "Maggie Harvey",
+            "ch": 233147
+          }
+        ]
+      },
+      {
+        "name": "Claire Stephanie Hardacre",
+        "nm": 1535052,
+        "roles": [
+          {
+            "char": "Joan Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Leanne Molloy",
+        "nm": 1535297,
+        "roles": [
+          {
+            "char": "Theresa Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Whyment",
+        "nm": 926654,
+        "roles": [
+          {
+            "char": "Matthew Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Knott",
+        "nm": 461409,
+        "roles": [
+          {
+            "char": "Joe Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Clive Russell",
+        "nm": 751085,
+        "roles": [
+          {
+            "char": "Danny Fitzgerald",
+            "ch": 102388
+          }
+        ]
+      },
+      {
+        "name": "David Calder",
+        "nm": 129464,
+        "roles": [
+          {
+            "char": "Father Michael Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Isobel Middleton",
+        "nm": 585511,
+        "roles": [
+          {
+            "char": "Catriona Bilborough",
+            "ch": 148945
+          }
+        ]
+      },
+      {
+        "name": "Polly Hemingway",
+        "nm": 376025,
+        "roles": [
+          {
+            "char": "Denise Fletcher"
+          }
+        ]
+      },
+      {
+        "name": "Irene Marot",
+        "nm": 549565,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Katie Fitzgerald"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Michael Atkinson",
+        "nm": 1587914,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Fergus Colville",
+        "nm": 1534853,
+        "roles": [
+          {
+            "char": "Man on Tram"
+          }
+        ]
+      },
+      {
+        "name": "Meriel Scholfield",
+        "nm": 774535,
+        "roles": [
+          {
+            "char": "Midwife"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E03",
+    "title": "Brotherly Love: Part 3",
+    "tt": 1541208,
+    "air_date": "1995-10-29",
+    "description": "Maggie Harvey, David's wife, is discovered to be the second killer, but her confession to the first murder means David will be set free. Jimmy Beck finally reaches his breaking point and sets out to punish David otherwise.",
+    "cast": [
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Mark Lambert",
+        "nm": 483251,
+        "roles": [
+          {
+            "char": "David Harvey"
+          }
+        ]
+      },
+      {
+        "name": "David Calder",
+        "nm": 129464,
+        "roles": [
+          {
+            "char": "Father Michael Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Brid Brennan",
+        "nm": 107261,
+        "roles": [
+          {
+            "char": "Maggie Harvey",
+            "ch": 233147
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Robert Cavanah",
+        "nm": 146917,
+        "roles": [
+          {
+            "char": "D.C. Alan Temple",
+            "ch": 245902
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "DCI Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Clive Russell",
+        "nm": 751085,
+        "roles": [
+          {
+            "char": "Danny Fitzgerald",
+            "ch": 102388
+          }
+        ]
+      },
+      {
+        "name": "Polly Hemingway",
+        "nm": 376025,
+        "roles": [
+          {
+            "char": "Denise Fletcher"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Edward Peel",
+        "nm": 670230,
+        "roles": [
+          {
+            "char": "Chief Super"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E04",
+    "title": "Best Boys: Part 1",
+    "tt": 394423,
+    "air_date": "1995-11-06",
+    "description": "Stuart Grady, a lonely factory foreman, befriends a young male employee and the disturbed runaway involves them both in murder.",
+    "cast": [
+      {
+        "name": "John Simm",
+        "nm": 799591,
+        "roles": [
+          {
+            "char": "William 'Bill' Preece",
+            "ch": 245904
+          }
+        ]
+      },
+      {
+        "name": "Suzy Yannis",
+        "nm": 946191,
+        "roles": [
+          {
+            "char": "Linda",
+            "as Susie Yannis": true
+          }
+        ]
+      },
+      {
+        "name": "Liam Cunningham",
+        "nm": 192377,
+        "roles": [
+          {
+            "char": "Stuart Grady",
+            "ch": 245903
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Robert Cavanah",
+        "nm": 146917,
+        "roles": [
+          {
+            "char": "D.C. Alan Temple",
+            "ch": 245902
+          }
+        ]
+      },
+      {
+        "name": "Wil Johnson",
+        "nm": 426435,
+        "roles": [
+          {
+            "char": "D.C. Skelton",
+            "ch": 226773,
+            "as Wilbert Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Aisling O'Sullivan",
+        "nm": 642718,
+        "roles": [
+          {
+            "char": "Aileen Beck"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Jackie Downey",
+        "nm": 235998,
+        "roles": [
+          {
+            "char": "Mrs. Mary Franklin"
+          }
+        ]
+      },
+      {
+        "name": "Dave Hill",
+        "nm": 384169,
+        "roles": [
+          {
+            "char": "Mr. Franklin",
+            "as David Hill": true
+          }
+        ]
+      },
+      {
+        "name": "Carla Richee",
+        "nm": 1535439,
+        "roles": [
+          {
+            "char": "Gloria"
+          }
+        ]
+      },
+      {
+        "name": "Will Knightley",
+        "nm": 461139,
+        "roles": [
+          {
+            "char": "Pathologist",
+            "ch": 159670
+          }
+        ]
+      },
+      {
+        "name": "Steve Money",
+        "nm": 597948,
+        "roles": [
+          {
+            "char": "Cutter"
+          }
+        ]
+      },
+      {
+        "name": "Annette Ekblom",
+        "nm": 252291,
+        "roles": [
+          {
+            "char": "Diane Nash"
+          }
+        ]
+      },
+      {
+        "name": "John Langford",
+        "nm": 486393,
+        "roles": [
+          {
+            "char": "Brian Nash"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Lewis",
+        "nm": 506931,
+        "roles": [
+          {
+            "char": "Steven Nash",
+            "ch": 212600
+          }
+        ]
+      },
+      {
+        "name": "Dominic Rigby",
+        "nm": 1535445,
+        "roles": [
+          {
+            "char": "Philip Nash",
+            "ch": 245905
+          }
+        ]
+      },
+      {
+        "name": "Edward Peel",
+        "nm": 670230,
+        "roles": [
+          {
+            "char": "Chief Super"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Clive Russell",
+        "nm": 751085,
+        "roles": [
+          {
+            "char": "Danny Fitzgerald",
+            "ch": 102388
+          }
+        ]
+      },
+      {
+        "name": "Paul Barber",
+        "nm": 53448,
+        "roles": [
+          {
+            "char": "Ian McVerry"
+          }
+        ]
+      },
+      {
+        "name": "Carl Cieka",
+        "nm": 162121,
+        "roles": [
+          {
+            "char": "Eric",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E05",
+    "title": "Best Boys: Part 2",
+    "tt": 1544120,
+    "air_date": "1995-11-13",
+    "description": "Nash and Grady cross paths with Nash's former foster parents, which triggers Nash's long-harbored vendetta towards them, particularly their little boy. Still coping with Jimmy Beck's death, the police bring Fitz in to help catch Nash.",
+    "cast": [
+      {
+        "name": "Liam Cunningham",
+        "nm": 192377,
+        "roles": [
+          {
+            "char": "Stuart Grady",
+            "ch": 245903
+          }
+        ]
+      },
+      {
+        "name": "John Simm",
+        "nm": 799591,
+        "roles": [
+          {
+            "char": "William 'Bill' Preece",
+            "ch": 245904
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Wil Johnson",
+        "nm": 426435,
+        "roles": [
+          {
+            "char": "D.C. Skelton",
+            "ch": 226773,
+            "as Wilbert Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Robert Cavanah",
+        "nm": 146917,
+        "roles": [
+          {
+            "char": "D.C. Alan Temple",
+            "ch": 245902
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Will Knightley",
+        "nm": 461139,
+        "roles": [
+          {
+            "char": "Pathologist",
+            "ch": 159670
+          }
+        ]
+      },
+      {
+        "name": "Jane Wheldon",
+        "nm": 924078,
+        "roles": [
+          {
+            "char": "Janet Emery"
+          }
+        ]
+      },
+      {
+        "name": "Annette Ekblom",
+        "nm": 252291,
+        "roles": [
+          {
+            "char": "Diane Nash"
+          }
+        ]
+      },
+      {
+        "name": "John Langford",
+        "nm": 486393,
+        "roles": [
+          {
+            "char": "Brian Nash"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Lewis",
+        "nm": 506931,
+        "roles": [
+          {
+            "char": "Steven Nash",
+            "ch": 212600
+          }
+        ]
+      },
+      {
+        "name": "Dominic Rigby",
+        "nm": 1535445,
+        "roles": [
+          {
+            "char": "Philip Nash",
+            "ch": 245905
+          }
+        ]
+      },
+      {
+        "name": "Jim Whelan",
+        "nm": 924039,
+        "roles": [
+          {
+            "char": "Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Dave Hill",
+        "nm": 384169,
+        "roles": [
+          {
+            "char": "Mr. Franklin",
+            "as David Hill": true
+          }
+        ]
+      },
+      {
+        "name": "Carla Richee",
+        "nm": 1535439,
+        "roles": [
+          {
+            "char": "Gloria"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Katherine Dow Blyton",
+        "nm": 90069,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Clive Russell",
+        "nm": 751085,
+        "roles": [
+          {
+            "char": "Danny Fitzgerald",
+            "ch": 102388
+          }
+        ]
+      },
+      {
+        "name": "Carl Cieka",
+        "nm": 162121,
+        "roles": [
+          {
+            "char": "Eric",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Lorcan Cranitch",
+        "nm": 186475,
+        "roles": [
+          {
+            "char": "DS Jimmy Beck",
+            "ch": 53640,
+            "archive sound": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E06",
+    "title": "True Romance: Part 1",
+    "tt": 394431,
+    "air_date": "1995-11-20",
+    "description": "A lab technician, working at the same university as Fitz, begins to electrocute male students in order to gain the attention of the psychologist.",
+    "cast": [
+      {
+        "name": "Elizabeth Estensen",
+        "nm": 261597,
+        "roles": [
+          {
+            "char": "Reenie Wise",
+            "as Liz Estensen": true
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Emily Joyce",
+        "nm": 431521,
+        "roles": [
+          {
+            "char": "Janice"
+          }
+        ]
+      },
+      {
+        "name": "Katie Purslow",
+        "nm": 1535406,
+        "roles": [
+          {
+            "char": "Louise"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Gilbert",
+        "nm": 318131,
+        "roles": [
+          {
+            "char": "Father"
+          }
+        ]
+      },
+      {
+        "name": "Fleur Bennett",
+        "nm": 71753,
+        "roles": [
+          {
+            "char": "Nena"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Kevin Dignam",
+        "nm": 226589,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Larry Waller",
+        "nm": 1535646,
+        "roles": [
+          {
+            "char": "Dave"
+          }
+        ]
+      },
+      {
+        "name": "Ian Curtis",
+        "nm": 193351,
+        "roles": [
+          {
+            "char": "John Branaghan"
+          }
+        ]
+      },
+      {
+        "name": "Biddy Hodson",
+        "nm": 388336,
+        "roles": [
+          {
+            "char": "Carol Barker"
+          }
+        ]
+      },
+      {
+        "name": "Alan Maher",
+        "nm": 536822,
+        "roles": [
+          {
+            "char": "Frank Weetman"
+          }
+        ]
+      },
+      {
+        "name": "Iain Mitchell",
+        "nm": 593395,
+        "roles": [
+          {
+            "char": "Vice Chancellor"
+          }
+        ]
+      },
+      {
+        "name": "Jan Linnik",
+        "nm": 1535220,
+        "roles": [
+          {
+            "char": "Student",
+            "ch": 226774
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Martin",
+        "nm": 553013,
+        "roles": [
+          {
+            "char": "Professor Irene Jackson"
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Robert Cavanah",
+        "nm": 146917,
+        "roles": [
+          {
+            "char": "D.C. Alan Temple",
+            "ch": 245902
+          }
+        ]
+      },
+      {
+        "name": "Will Knightley",
+        "nm": 461139,
+        "roles": [
+          {
+            "char": "Pathologist",
+            "ch": 159670
+          }
+        ]
+      },
+      {
+        "name": "Wil Johnson",
+        "nm": 426435,
+        "roles": [
+          {
+            "char": "D.C. Skelton",
+            "ch": 226773,
+            "as Wilbert Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Kate 'Katie' Fitzgerald",
+            "ch": 226772
+          }
+        ]
+      },
+      {
+        "name": "Clive Russell",
+        "nm": 751085,
+        "roles": [
+          {
+            "char": "Danny Fitzgerald",
+            "ch": 102388
+          }
+        ]
+      },
+      {
+        "name": "Jane Lowe",
+        "nm": 522965,
+        "roles": [
+          {
+            "char": "Landlady"
+          }
+        ]
+      },
+      {
+        "name": "Peter Lorenzelli",
+        "nm": 520771,
+        "roles": [
+          {
+            "char": "Dog Owner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E07",
+    "title": "True Romance: Part 2",
+    "tt": 1539366,
+    "air_date": "1995-11-27",
+    "description": "Fitz is taken off the case when it is discovered the killings are for him. Determined to catch Fitz's attention, Janice targets Mark.",
+    "cast": [
+      {
+        "name": "Emily Joyce",
+        "nm": 431521,
+        "roles": [
+          {
+            "char": "Janice"
+          }
+        ]
+      },
+      {
+        "name": "Wil Johnson",
+        "nm": 426435,
+        "roles": [
+          {
+            "char": "D.C. Skelton",
+            "ch": 226773,
+            "as Wilbert Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Cavanah",
+        "nm": 146917,
+        "roles": [
+          {
+            "char": "D.C. Alan Temple",
+            "ch": 245902
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Martin",
+        "nm": 553013,
+        "roles": [
+          {
+            "char": "Professor Irene Jackson"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Somerville",
+        "nm": 813893,
+        "roles": [
+          {
+            "char": "DS Jane 'Panhandle' Penhaligon",
+            "ch": 53352
+          }
+        ]
+      },
+      {
+        "name": "Jan Linnik",
+        "nm": 1535220,
+        "roles": [
+          {
+            "char": "Student",
+            "ch": 226774
+          }
+        ]
+      },
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "Alan Maher",
+        "nm": 536822,
+        "roles": [
+          {
+            "char": "Frank Weetman"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Flynn",
+        "nm": 283409,
+        "roles": [
+          {
+            "char": "Judith Fitzgerald",
+            "ch": 53639
+          }
+        ]
+      },
+      {
+        "name": "Clive Russell",
+        "nm": 751085,
+        "roles": [
+          {
+            "char": "Danny Fitzgerald",
+            "ch": 102388
+          }
+        ]
+      },
+      {
+        "name": "Hetta Charnley",
+        "nm": 153381,
+        "roles": [
+          {
+            "char": "Maureen Kiernan"
+          }
+        ]
+      },
+      {
+        "name": "Kay Purcell",
+        "nm": 700731,
+        "roles": [
+          {
+            "char": "TV Reporter",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Iain Mitchell",
+        "nm": 593395,
+        "roles": [
+          {
+            "char": "Vice Chancellor"
+          }
+        ]
+      },
+      {
+        "name": "Kieran O'Brien",
+        "nm": 639659,
+        "roles": [
+          {
+            "char": "Mark Fitzgerald",
+            "ch": 148943
+          }
+        ]
+      },
+      {
+        "name": "Tess Thomson",
+        "nm": 861104,
+        "roles": [
+          {
+            "char": "Katie Fitzgerald"
+          }
+        ]
+      },
+      {
+        "name": "Fleur Bennett",
+        "nm": 71753,
+        "roles": [
+          {
+            "char": "Nena"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E08",
+    "title": "White Ghost",
+    "tt": 180621,
+    "air_date": "1996-10-28",
+    "description": "A British businessman operating in Hong Kong has feelings of inferiority and turns to murder when he faces bankruptcy.",
+    "cast": [
+      {
+        "name": "Robbie Coltrane",
+        "nm": 1059,
+        "roles": [
+          {
+            "char": "Dr. Eddie 'Fitz' Fitzgerald",
+            "ch": 53163
+          }
+        ]
+      },
+      {
+        "name": "Michael Pennington",
+        "nm": 672190,
+        "roles": [
+          {
+            "char": "Commander Gordon Ellison"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Chan",
+        "nm": 150862,
+        "roles": [
+          {
+            "char": "Freddie"
+          }
+        ]
+      },
+      {
+        "name": "Freda Foh Shen",
+        "nm": 791467,
+        "roles": [
+          {
+            "char": "D.C.I. Janet Lee Cheung"
+          }
+        ]
+      },
+      {
+        "name": "Barnaby Kay",
+        "nm": 442997,
+        "roles": [
+          {
+            "char": "Dennis Philby"
+          }
+        ]
+      },
+      {
+        "name": "Rene Liu",
+        "nm": 515002,
+        "roles": [
+          {
+            "char": "Su Lin Tang",
+            "as Liu Jo Ying": true
+          }
+        ]
+      },
+      {
+        "name": "Benedict Wong",
+        "nm": 938950,
+        "roles": [
+          {
+            "char": "Peter Yang"
+          }
+        ]
+      },
+      {
+        "name": "Claudia Malkovich",
+        "nm": 539827,
+        "roles": [
+          {
+            "char": "Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Pik Sen Lim",
+        "nm": 510586,
+        "roles": [
+          {
+            "char": "Wei Wei"
+          }
+        ]
+      },
+      {
+        "name": "Cecil Chang",
+        "nm": 151648,
+        "roles": [
+          {
+            "char": "Al Tang"
+          }
+        ]
+      },
+      {
+        "name": "David Tse",
+        "nm": 874851,
+        "roles": [
+          {
+            "char": "Junior Detective"
+          }
+        ]
+      },
+      {
+        "name": "Chaplin Chang",
+        "nm": 151652,
+        "roles": [
+          {
+            "char": "Hotel Manager"
+          }
+        ]
+      },
+      {
+        "name": "Sai-Kit Yung",
+        "nm": 950954,
+        "roles": [
+          {
+            "char": "Pathologist",
+            "ch": 159670,
+            "as Stuart Ong": true
+          }
+        ]
+      },
+      {
+        "name": "Glen Goei",
+        "nm": 324380,
+        "roles": [
+          {
+            "char": "Dr. Frank Sunny"
+          }
+        ]
+      },
+      {
+        "name": "Zoë Hart",
+        "nm": 366588,
+        "roles": [
+          {
+            "char": "Catherine Wilson",
+            "as Zoe Hart": true
+          }
+        ]
+      },
+      {
+        "name": "Ng Wah Sun",
+        "nm": 838973,
+        "roles": [
+          {
+            "char": "Bellboy"
+          }
+        ]
+      },
+      {
+        "name": "Ricky Tomlinson",
+        "nm": 866870,
+        "roles": [
+          {
+            "char": "D.C.I. Charlie Wise",
+            "ch": 148944
+          }
+        ]
+      },
+      {
+        "name": "David Bradley",
+        "nm": 103195,
+        "roles": [
+          {
+            "char": "Frank Carter"
+          }
+        ]
+      },
+      {
+        "name": "Choy-Ling Man",
+        "nm": 541191,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Mark Hadfield",
+        "nm": 352797,
+        "roles": [
+          {
+            "char": "Gerald Freeman"
+          }
+        ]
+      },
+      {
+        "name": "Aleck Woo",
+        "nm": 939459,
+        "roles": [
+          {
+            "char": "Young Copper"
+          }
+        ]
+      },
+      {
+        "name": "Tom Wu",
+        "nm": 943179,
+        "roles": [
+          {
+            "char": "Detective Lawyer"
+          }
+        ]
+      },
+      {
+        "name": "Chi Fai Chan",
+        "nm": 1535557,
+        "roles": [
+          {
+            "char": "Observer on Helicopter",
+            "as Chan Chi Fai Sunny": true
+          }
+        ]
+      },
+      {
+        "name": "Mok Kwok Kwong Elvis",
+        "nm": 1534957,
+        "roles": [
+          {
+            "char": "Marksman on Helicopter"
+          }
+        ]
+      },
+      {
+        "name": "John Cheung",
+        "nm": 155578,
+        "roles": [
+          {
+            "char": "Taxi Driver",
+            "as Johnny Cheung": true
+          }
+        ]
+      }
+    ]
+  }
+]

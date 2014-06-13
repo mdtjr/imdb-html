@@ -1,0 +1,2123 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Impresiones y paisajes (1903-1918)",
+    "tt": 1488821,
+    "air_date": "1987-11-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Nickolas Grace",
+        "nm": 333380,
+        "roles": [
+          {
+            "char": "Federico García Lorca",
+            "ch": 64568
+          }
+        ]
+      },
+      {
+        "name": "Frank Astor",
+        "nm": 1053879,
+        "roles": [
+          {
+            "char": "Joven periodista"
+          }
+        ]
+      },
+      {
+        "name": "Fernando Chinarro",
+        "nm": 157815,
+        "roles": [
+          {
+            "char": "Federico García Rodríguez"
+          }
+        ]
+      },
+      {
+        "name": "Jesús Guzmán",
+        "nm": 350065,
+        "roles": [
+          {
+            "char": "Don Martín Domínguez Berruete",
+            "as Jesús Guzman": true
+          }
+        ]
+      },
+      {
+        "name": "Antonio Iranzo",
+        "nm": 14763,
+        "roles": [
+          {
+            "char": "Joaquín Arcollas"
+          }
+        ]
+      },
+      {
+        "name": "Francisco Jarque",
+        "nm": 418861,
+        "roles": [
+          {
+            "char": "Dióscoro Galindo"
+          }
+        ]
+      },
+      {
+        "name": "Margarita Lozano",
+        "nm": 523597,
+        "roles": [
+          {
+            "char": "Doña Vicenta Lorca"
+          }
+        ]
+      },
+      {
+        "name": "Mario Pardo",
+        "nm": 661118,
+        "roles": [
+          {
+            "char": "Francisco Galadí"
+          }
+        ]
+      },
+      {
+        "name": "María Luisa Ponte",
+        "nm": 690592,
+        "roles": [
+          {
+            "char": "Dolores la Colorina",
+            "as Maria Luisa Ponte": true
+          }
+        ]
+      },
+      {
+        "name": "Alberto Alonso",
+        "nm": 22115,
+        "roles": [
+          {
+            "char": "Manuel Fernández Montesinos"
+          }
+        ]
+      },
+      {
+        "name": "Luis Barbero",
+        "nm": 53543,
+        "roles": [
+          {
+            "char": "Don Antonio Segura Mesa"
+          }
+        ]
+      },
+      {
+        "name": "Eduardo Calvo",
+        "nm": 130933,
+        "roles": [
+          {
+            "char": "Bibliotecario"
+          }
+        ]
+      },
+      {
+        "name": "Lina Canalejas",
+        "nm": 133532,
+        "roles": [
+          {
+            "char": "Tía Isabel"
+          }
+        ]
+      },
+      {
+        "name": "Juan A. Cruz",
+        "nm": 3582578,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jesús Fernández",
+        "nm": 273551,
+        "roles": [
+          {
+            "char": "Luis Mariscal"
+          }
+        ]
+      },
+      {
+        "name": "Tony Fuentes",
+        "nm": 297483,
+        "roles": [
+          {
+            "char": "Andrés Segovia"
+          }
+        ]
+      },
+      {
+        "name": "Ignacio Herrera",
+        "nm": 3571429,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miguel Littin",
+        "nm": 514493,
+        "roles": [
+          {
+            "char": "Fernando de los Ríos",
+            "ch": 308396
+          }
+        ]
+      },
+      {
+        "name": "Ángel Martínez",
+        "nm": 555357,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Ramón Olsen",
+        "nm": 3583131,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marina Oroza",
+        "nm": 650443,
+        "roles": [
+          {
+            "char": "María Luisa Egea"
+          }
+        ]
+      },
+      {
+        "name": "Jesús Padilla",
+        "nm": 3571371,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Ramos Cantó",
+        "nm": 3583118,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Carles Sales",
+        "nm": 758106,
+        "roles": [
+          {
+            "char": "Antonio Machado",
+            "as Carlos Sales": true
+          }
+        ]
+      },
+      {
+        "name": "Francisco Sanz",
+        "nm": 764440,
+        "roles": [
+          {
+            "char": "Profesor de colegio"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Valverde",
+        "nm": 885444,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Villarroel",
+        "nm": 3576668,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ricardo Jiménez",
+        "nm": 3582539,
+        "roles": [
+          {
+            "char": "Niño"
+          }
+        ]
+      },
+      {
+        "name": "Eudardo Puertas",
+        "nm": 3582912,
+        "roles": [
+          {
+            "char": "Niño"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Rivera",
+        "nm": 3180411,
+        "roles": [
+          {
+            "char": "Niño"
+          }
+        ]
+      },
+      {
+        "name": "Agustín Vega",
+        "nm": 3571160,
+        "roles": [
+          {
+            "char": "Niño"
+          }
+        ]
+      },
+      {
+        "name": "Javier Dotú",
+        "nm": 234630,
+        "roles": [
+          {
+            "char": "Federico",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "La residencia (1918-1923)",
+    "tt": 1488823,
+    "air_date": "1987-12-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Nickolas Grace",
+        "nm": 333380,
+        "roles": [
+          {
+            "char": "Federico García Lorca",
+            "ch": 64568
+          }
+        ]
+      },
+      {
+        "name": "Jesús Alcaide",
+        "nm": 17111,
+        "roles": [
+          {
+            "char": "José Bello"
+          }
+        ]
+      },
+      {
+        "name": "María José Alfonso",
+        "nm": 19177,
+        "roles": [
+          {
+            "char": "Catalina Bárcena",
+            "as Maria José Alfonso": true
+          }
+        ]
+      },
+      {
+        "name": "Carmen Bullejos",
+        "nm": 120042,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Fernando Chinarro",
+        "nm": 157815,
+        "roles": [
+          {
+            "char": "Federico García Rodríguez"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Iranzo",
+        "nm": 14763,
+        "roles": [
+          {
+            "char": "Joaquín Arcollas"
+          }
+        ]
+      },
+      {
+        "name": "Francisco Jarque",
+        "nm": 418861,
+        "roles": [
+          {
+            "char": "Dióscoro Galindo"
+          }
+        ]
+      },
+      {
+        "name": "Margarita Lozano",
+        "nm": 523597,
+        "roles": [
+          {
+            "char": "Doña Vicenta Lorca"
+          }
+        ]
+      },
+      {
+        "name": "Mario Pardo",
+        "nm": 661118,
+        "roles": [
+          {
+            "char": "Francisco Galadí"
+          }
+        ]
+      },
+      {
+        "name": "Diana Peñalver",
+        "nm": 679272,
+        "roles": [
+          {
+            "char": "Concha García Lorca"
+          }
+        ]
+      },
+      {
+        "name": "María Luisa Ponte",
+        "nm": 690592,
+        "roles": [
+          {
+            "char": "Dolores la Colorina",
+            "as Maria Luisa Ponte": true
+          }
+        ]
+      },
+      {
+        "name": "Fabiola Toledo",
+        "nm": 865945,
+        "roles": [
+          {
+            "char": "La Argentinita"
+          }
+        ]
+      },
+      {
+        "name": "Tito Valverde",
+        "nm": 885453,
+        "roles": [
+          {
+            "char": "Luis Buñuel",
+            "ch": 64569,
+            "as Fernando Valverde": true
+          }
+        ]
+      },
+      {
+        "name": "Fernando López Veloso",
+        "nm": 1867299,
+        "roles": [
+          {
+            "char": "Salvador Dalí",
+            "ch": 50194,
+            "as Fernando Veloso": true
+          }
+        ]
+      },
+      {
+        "name": "José Luis Barceló",
+        "nm": 53963,
+        "roles": [
+          {
+            "char": "Padre de Salvador Dalí",
+            "ch": 106955
+          }
+        ]
+      },
+      {
+        "name": "Fabián Conde",
+        "nm": 174289,
+        "roles": [
+          {
+            "char": "Manuel de Falla",
+            "ch": 223165
+          }
+        ]
+      },
+      {
+        "name": "José Antonio Correa",
+        "nm": 180778,
+        "roles": [
+          {
+            "char": "Gregorio Martínez Sierra"
+          }
+        ]
+      },
+      {
+        "name": "Laura Culat",
+        "nm": 191340,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jesús Fernández",
+        "nm": 273551,
+        "roles": [
+          {
+            "char": "Luis Mariscal"
+          }
+        ]
+      },
+      {
+        "name": "Tony Fuentes",
+        "nm": 297483,
+        "roles": [
+          {
+            "char": "Andrés Segovia"
+          }
+        ]
+      },
+      {
+        "name": "Amado Gómez Carreño",
+        "nm": 3582347,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Herminia Jiménez",
+        "nm": 3571245,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miguel Littin",
+        "nm": 514493,
+        "roles": [
+          {
+            "char": "Fernando de los Ríos",
+            "ch": 308396
+          }
+        ]
+      },
+      {
+        "name": "Alberto de Miguel",
+        "nm": 1328888,
+        "roles": [
+          {
+            "char": "Francisco García Lorca"
+          }
+        ]
+      },
+      {
+        "name": "Pedro Miguel Martínez",
+        "nm": 555290,
+        "roles": [
+          {
+            "char": "Estudiante"
+          }
+        ]
+      },
+      {
+        "name": "Josefina Ramírez",
+        "nm": 3571190,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Ramos Cantó",
+        "nm": 3583118,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Emiliano Redondo",
+        "nm": 715127,
+        "roles": [
+          {
+            "char": "Juan Ramón Jiménez"
+          }
+        ]
+      },
+      {
+        "name": "Nieves Romero",
+        "nm": 739537,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Antonio Valverde",
+        "nm": 885444,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ana María Ventura",
+        "nm": 893296,
+        "roles": [
+          {
+            "char": "María del Carmen Falla"
+          }
+        ]
+      },
+      {
+        "name": "José Villarroel",
+        "nm": 3576668,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ramón Costa",
+        "nm": 3571321,
+        "roles": [
+          {
+            "char": "Cantaor"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Cruz",
+        "nm": 3582232,
+        "roles": [
+          {
+            "char": "Cantaor"
+          }
+        ]
+      },
+      {
+        "name": "Javier Dotú",
+        "nm": 234630,
+        "roles": [
+          {
+            "char": "Federico",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Francisco M. Díaz",
+        "nm": 3582279,
+        "roles": [
+          {
+            "char": "Guitarrista"
+          }
+        ]
+      },
+      {
+        "name": "Rafael S. Gómez",
+        "nm": 3583134,
+        "roles": [
+          {
+            "char": "Guitarrista"
+          }
+        ]
+      },
+      {
+        "name": "Buster Keaton",
+        "nm": 36,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José A. Martínez",
+        "nm": 3582344,
+        "roles": [
+          {
+            "char": "Guitarrista"
+          }
+        ]
+      },
+      {
+        "name": "Fernando Navarro",
+        "nm": 3281140,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Francisco Vega",
+        "nm": 3571354,
+        "roles": [
+          {
+            "char": "Cantaor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "El amor oscuro (1925-1928)",
+    "tt": 1488819,
+    "air_date": "1987-12-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Nickolas Grace",
+        "nm": 333380,
+        "roles": [
+          {
+            "char": "Federico García Lorca",
+            "ch": 64568
+          }
+        ]
+      },
+      {
+        "name": "Germán Cobos",
+        "nm": 167962,
+        "roles": [
+          {
+            "char": "Ignacio Sánchez Mejías",
+            "as German Cobos": true
+          }
+        ]
+      },
+      {
+        "name": "Fernando Chinarro",
+        "nm": 157815,
+        "roles": [
+          {
+            "char": "Federico García Rodríguez"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Iranzo",
+        "nm": 14763,
+        "roles": [
+          {
+            "char": "Joaquín Arcollas"
+          }
+        ]
+      },
+      {
+        "name": "Francisco Jarque",
+        "nm": 418861,
+        "roles": [
+          {
+            "char": "Dióscoro Galindo"
+          }
+        ]
+      },
+      {
+        "name": "Margarita Lozano",
+        "nm": 523597,
+        "roles": [
+          {
+            "char": "Doña Vicenta Lorca"
+          }
+        ]
+      },
+      {
+        "name": "Mario Pardo",
+        "nm": 661118,
+        "roles": [
+          {
+            "char": "Francisco Galadí"
+          }
+        ]
+      },
+      {
+        "name": "Diana Peñalver",
+        "nm": 679272,
+        "roles": [
+          {
+            "char": "Concha García Lorca"
+          }
+        ]
+      },
+      {
+        "name": "María Luisa Ponte",
+        "nm": 690592,
+        "roles": [
+          {
+            "char": "Dolores la Colorina",
+            "as Maria Luisa Ponte": true
+          }
+        ]
+      },
+      {
+        "name": "Josep Maria Pou",
+        "nm": 693493,
+        "roles": [
+          {
+            "char": "Pepe García Carrillo",
+            "as José María Pou": true
+          }
+        ]
+      },
+      {
+        "name": "Manuel Sierra",
+        "nm": 797284,
+        "roles": [
+          {
+            "char": "Rafael Martínez Nadal"
+          }
+        ]
+      },
+      {
+        "name": "Fabiola Toledo",
+        "nm": 865945,
+        "roles": [
+          {
+            "char": "La Argentinita"
+          }
+        ]
+      },
+      {
+        "name": "Tito Valverde",
+        "nm": 885453,
+        "roles": [
+          {
+            "char": "Luis Buñuel",
+            "ch": 64569,
+            "as Fernando Valverde": true
+          }
+        ]
+      },
+      {
+        "name": "Fernando López Veloso",
+        "nm": 1867299,
+        "roles": [
+          {
+            "char": "Salvador Dalí",
+            "ch": 50194,
+            "as Fernando Veloso": true
+          }
+        ]
+      },
+      {
+        "name": "Núria Espert",
+        "nm": 260884,
+        "roles": [
+          {
+            "char": "Margarita Xirgu",
+            "as Nuria Espert": true
+          }
+        ]
+      },
+      {
+        "name": "Ana Leza",
+        "nm": 503842,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Máximo Astray",
+        "nm": 40128,
+        "roles": [
+          {
+            "char": "Rafael Alberti"
+          }
+        ]
+      },
+      {
+        "name": "José Luis Barceló",
+        "nm": 53963,
+        "roles": [
+          {
+            "char": "Padre de Salvador Dalí",
+            "ch": 106955
+          }
+        ]
+      },
+      {
+        "name": "Juan C. Calvo",
+        "nm": 3586959,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "María Teresa Cortés",
+        "nm": 181565,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Laura Culat",
+        "nm": 191340,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Antonio Chamorro",
+        "nm": 150561,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ana Frau",
+        "nm": 292381,
+        "roles": [
+          {
+            "char": "Actriz",
+            "as Ana María Frau": true
+          }
+        ]
+      },
+      {
+        "name": "Gabriel Latorre",
+        "nm": 490288,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rafael Machado",
+        "nm": 532496,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Martín García",
+        "nm": 3586985,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Carlos Merediz",
+        "nm": 3585786,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Alberto de Miguel",
+        "nm": 1328888,
+        "roles": [
+          {
+            "char": "Francisco García Lorca"
+          }
+        ]
+      },
+      {
+        "name": "Mariano Moro",
+        "nm": 3576905,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Julián Navarro",
+        "nm": 622933,
+        "roles": [
+          {
+            "char": "Cipriano Rivas"
+          }
+        ]
+      },
+      {
+        "name": "Isabel Prinz",
+        "nm": 697883,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Luis Rico",
+        "nm": 725600,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Francisco Ruiz de los Mozos",
+        "nm": 3586062,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Antonio Ross",
+        "nm": 743220,
+        "roles": [
+          {
+            "char": "Camarero"
+          }
+        ]
+      },
+      {
+        "name": "Pedro Javier Sánchez",
+        "nm": 3350377,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "César Varona",
+        "nm": 207235,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Javier Villalba",
+        "nm": 897755,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Villarroel",
+        "nm": 3576668,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Carlos Cruz",
+        "nm": 3582232,
+        "roles": [
+          {
+            "char": "Cantaor"
+          }
+        ]
+      },
+      {
+        "name": "Francisco M. Díaz",
+        "nm": 3582279,
+        "roles": [
+          {
+            "char": "Guitarrista"
+          }
+        ]
+      },
+      {
+        "name": "Javier Dotú",
+        "nm": 234630,
+        "roles": [
+          {
+            "char": "Federico",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "El llanto (1929-1935)",
+    "tt": 1488820,
+    "air_date": "1987-12-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Nickolas Grace",
+        "nm": 333380,
+        "roles": [
+          {
+            "char": "Federico García Lorca",
+            "ch": 64568
+          }
+        ]
+      },
+      {
+        "name": "Jesús Alcaide",
+        "nm": 17111,
+        "roles": [
+          {
+            "char": "José Bello"
+          }
+        ]
+      },
+      {
+        "name": "Manuel de Benito",
+        "nm": 71249,
+        "roles": [
+          {
+            "char": "Luis Rosales"
+          }
+        ]
+      },
+      {
+        "name": "Germán Cobos",
+        "nm": 167962,
+        "roles": [
+          {
+            "char": "Ignacio Sánchez Mejías",
+            "as German Cobos": true
+          }
+        ]
+      },
+      {
+        "name": "Rosalía Dans",
+        "nm": 200506,
+        "roles": [
+          {
+            "char": "Novia de Federico"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Iranzo",
+        "nm": 14763,
+        "roles": [
+          {
+            "char": "Joaquín Arcollas"
+          }
+        ]
+      },
+      {
+        "name": "Francisco Jarque",
+        "nm": 418861,
+        "roles": [
+          {
+            "char": "Dióscoro Galindo"
+          }
+        ]
+      },
+      {
+        "name": "Mario Pardo",
+        "nm": 661118,
+        "roles": [
+          {
+            "char": "Francisco Galadí"
+          }
+        ]
+      },
+      {
+        "name": "Manuel Sierra",
+        "nm": 797284,
+        "roles": [
+          {
+            "char": "Rafael Martínez Nadal"
+          }
+        ]
+      },
+      {
+        "name": "Fabiola Toledo",
+        "nm": 865945,
+        "roles": [
+          {
+            "char": "La Argentinita"
+          }
+        ]
+      },
+      {
+        "name": "Núria Espert",
+        "nm": 260884,
+        "roles": [
+          {
+            "char": "Margarita Xirgu",
+            "as Nuria Espert": true
+          }
+        ]
+      },
+      {
+        "name": "Ana Leza",
+        "nm": 503842,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Máximo Astray",
+        "nm": 40128,
+        "roles": [
+          {
+            "char": "Rafael Alberti"
+          }
+        ]
+      },
+      {
+        "name": "Gaspar Cano",
+        "nm": 134320,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Paco Catalá",
+        "nm": 145914,
+        "roles": [
+          {
+            "char": "Conductor",
+            "as Francisco Catalá": true
+          }
+        ]
+      },
+      {
+        "name": "Antonio Chamorro",
+        "nm": 150561,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "María Teresa Cortés",
+        "nm": 181565,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Charles Delgadillo",
+        "nm": 3585376,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ana Frau",
+        "nm": 292381,
+        "roles": [
+          {
+            "char": "Actriz",
+            "as Ana María Frau": true
+          }
+        ]
+      },
+      {
+        "name": "José María Labernié",
+        "nm": 479489,
+        "roles": [
+          {
+            "char": "Cruz Coque",
+            "as José María Labernie": true
+          }
+        ]
+      },
+      {
+        "name": "Miguel Littin",
+        "nm": 514493,
+        "roles": [
+          {
+            "char": "Fernando de los Ríos",
+            "ch": 308396
+          }
+        ]
+      },
+      {
+        "name": "Javier Lozano",
+        "nm": 523577,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Joan Miralles",
+        "nm": 592009,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Julián Navarro",
+        "nm": 622933,
+        "roles": [
+          {
+            "char": "Cipriano Rivas"
+          }
+        ]
+      },
+      {
+        "name": "José Ramos Cantó",
+        "nm": 3583118,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "César Varona",
+        "nm": 207235,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Villarroel",
+        "nm": 3576668,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Encarnación Aguerri",
+        "nm": 3593742,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Miguel Ángel Alted",
+        "nm": 3477338,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Roberto Bezos",
+        "nm": 3594487,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mariano Gracia",
+        "nm": 2093597,
+        "roles": [
+          {
+            "char": "Actor",
+            "as Mariano P. Gracia": true
+          }
+        ]
+      },
+      {
+        "name": "Covadonga Jiménez",
+        "nm": 3584977,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "María del Pilar Lara",
+        "nm": 3593899,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Antonio López",
+        "nm": 3593173,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Olga Magaña",
+        "nm": 2887643,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ángel Marqués",
+        "nm": 3477813,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "María Teresa Merino",
+        "nm": 3594159,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Manuel Millán",
+        "nm": 590288,
+        "roles": [
+          {
+            "char": "Actor",
+            "as Manuel A. Millán": true
+          }
+        ]
+      },
+      {
+        "name": "Gabriel Moreno",
+        "nm": 603966,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Joaquín Notario",
+        "nm": 636541,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ivonne Pereira",
+        "nm": 3585361,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Julio A. Sanz",
+        "nm": 3594189,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Javier Dotú",
+        "nm": 234630,
+        "roles": [
+          {
+            "char": "Federico",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hans Burmann",
+        "nm": 5663,
+        "roles": [
+          {
+            "char": "Invitado",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Una guerra civil (1935-1936)",
+    "tt": 1488824,
+    "air_date": "1987-12-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Nickolas Grace",
+        "nm": 333380,
+        "roles": [
+          {
+            "char": "Federico García Lorca",
+            "ch": 64568
+          }
+        ]
+      },
+      {
+        "name": "Alexander Allerson",
+        "nm": 21251,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ángel de Andrés López",
+        "nm": 29278,
+        "roles": [
+          {
+            "char": "Ruiz Alonso"
+          }
+        ]
+      },
+      {
+        "name": "Miguel Arribas",
+        "nm": 37274,
+        "roles": [
+          {
+            "char": "Teniente Coronel Velasco"
+          }
+        ]
+      },
+      {
+        "name": "Pilar Bardem",
+        "nm": 54224,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Amparo Baró",
+        "nm": 59575,
+        "roles": [
+          {
+            "char": "Angelina"
+          }
+        ]
+      },
+      {
+        "name": "Manuel de Benito",
+        "nm": 71249,
+        "roles": [
+          {
+            "char": "Luis Rosales"
+          }
+        ]
+      },
+      {
+        "name": "José Manuel Cervino",
+        "nm": 148992,
+        "roles": [
+          {
+            "char": "Comandante Valdés"
+          }
+        ]
+      },
+      {
+        "name": "Fernando Chinarro",
+        "nm": 157815,
+        "roles": [
+          {
+            "char": "Federico García Rodríguez"
+          }
+        ]
+      },
+      {
+        "name": "Luis Hostalot",
+        "nm": 396159,
+        "roles": [
+          {
+            "char": "Pepe Rosales"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Iranzo",
+        "nm": 14763,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Francisco Jarque",
+        "nm": 418861,
+        "roles": [
+          {
+            "char": "Dióscoro Galindo"
+          }
+        ]
+      },
+      {
+        "name": "Nikolas Lansky",
+        "nm": 487120,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Margarita Lozano",
+        "nm": 523597,
+        "roles": [
+          {
+            "char": "Doña Vicenta Lorca"
+          }
+        ]
+      },
+      {
+        "name": "Chema Muñoz",
+        "nm": 616385,
+        "roles": [
+          {
+            "char": "Miguel Rosales"
+          }
+        ]
+      },
+      {
+        "name": "Mario Pardo",
+        "nm": 661118,
+        "roles": [
+          {
+            "char": "Francisco Galadí"
+          }
+        ]
+      },
+      {
+        "name": "Diana Peñalver",
+        "nm": 679272,
+        "roles": [
+          {
+            "char": "Concha García Lorca"
+          }
+        ]
+      },
+      {
+        "name": "María Luisa Ponte",
+        "nm": 690592,
+        "roles": [
+          {
+            "char": "Dolores la Colorina",
+            "as Maria Luisa Ponte": true
+          }
+        ]
+      },
+      {
+        "name": "Teresa del Río",
+        "nm": 215907,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Manuel Sierra",
+        "nm": 797284,
+        "roles": [
+          {
+            "char": "Rafael Martínez Nadal"
+          }
+        ]
+      },
+      {
+        "name": "Manuel Zarzo",
+        "nm": 953400,
+        "roles": [
+          {
+            "char": "Coronel Muñoz"
+          }
+        ]
+      },
+      {
+        "name": "Santiago Acera",
+        "nm": 9663,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Alberto Alonso",
+        "nm": 22115,
+        "roles": [
+          {
+            "char": "Manuel Fernández Montesinos"
+          }
+        ]
+      },
+      {
+        "name": "Máximo Astray",
+        "nm": 40128,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Luis Baringo",
+        "nm": 54695,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Eduardo Bea",
+        "nm": 63435,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Teófilo Calle",
+        "nm": 130391,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Alfredo Calles",
+        "nm": 130479,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Cantero",
+        "nm": 134550,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "María Luisa Esteva",
+        "nm": 4040017,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lola Gaos",
+        "nm": 304747,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Iñaki Guevara",
+        "nm": 346473,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Antonio Guti",
+        "nm": 349318,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Pablo del Hoyo",
+        "nm": 1468030,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Fabio León",
+        "nm": 502474,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Fernando Marín",
+        "nm": 555934,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Carlos Merediz",
+        "nm": 3585786,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Alberto de Miguel",
+        "nm": 1328888,
+        "roles": [
+          {
+            "char": "Francisco García Lorca"
+          }
+        ]
+      },
+      {
+        "name": "Miguel Palenzuela",
+        "nm": 370717,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ignacio de Paúl",
+        "nm": 210883,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marcos del Pino",
+        "nm": 4040242,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rodolfo Poveda",
+        "nm": 693927,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Francisco Prada",
+        "nm": 2425860,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mauro Rivera",
+        "nm": 722963,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Enrique del Río",
+        "nm": 3898703,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José María Rueda",
+        "nm": 1167345,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Pedro Javier Sánchez",
+        "nm": 3350377,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jesús Antonio Sanz",
+        "nm": 4040634,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Luis Valdivieso",
+        "nm": 4040331,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Javier Dotú",
+        "nm": 234630,
+        "roles": [
+          {
+            "char": "Federico",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Leticia Sabater",
+        "nm": 767499,
+        "roles": [
+          {
+            "char": "Invitada fiesta",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "La muerte (1936)",
+    "tt": 1488822,
+    "air_date": "1988-01-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Nickolas Grace",
+        "nm": 333380,
+        "roles": [
+          {
+            "char": "Federico García Lorca",
+            "ch": 64568
+          }
+        ]
+      },
+      {
+        "name": "Ángel de Andrés López",
+        "nm": 29278,
+        "roles": [
+          {
+            "char": "Ruiz Alonso"
+          }
+        ]
+      },
+      {
+        "name": "Miguel Arribas",
+        "nm": 37274,
+        "roles": [
+          {
+            "char": "Teniente Coronel Velasco"
+          }
+        ]
+      },
+      {
+        "name": "Conxita Bardem",
+        "nm": 54215,
+        "roles": [
+          {
+            "char": "Tía Luisa",
+            "as Concha Bardem": true
+          }
+        ]
+      },
+      {
+        "name": "Amparo Baró",
+        "nm": 59575,
+        "roles": [
+          {
+            "char": "Angelina"
+          }
+        ]
+      },
+      {
+        "name": "Manuel de Benito",
+        "nm": 71249,
+        "roles": [
+          {
+            "char": "Luis Rosales"
+          }
+        ]
+      },
+      {
+        "name": "José Manuel Cervino",
+        "nm": 148992,
+        "roles": [
+          {
+            "char": "Comandante Valdés"
+          }
+        ]
+      },
+      {
+        "name": "Fernando Chinarro",
+        "nm": 157815,
+        "roles": [
+          {
+            "char": "Federico García Rodríguez"
+          }
+        ]
+      },
+      {
+        "name": "Luis Hostalot",
+        "nm": 396159,
+        "roles": [
+          {
+            "char": "Pepe Rosales"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Iranzo",
+        "nm": 14763,
+        "roles": [
+          {
+            "char": "Joaquín Arcollas"
+          }
+        ]
+      },
+      {
+        "name": "Francisco Jarque",
+        "nm": 418861,
+        "roles": [
+          {
+            "char": "Dióscoro Galindo"
+          }
+        ]
+      },
+      {
+        "name": "Montserrat Julió",
+        "nm": 432314,
+        "roles": [
+          {
+            "char": "Doña Esperanza"
+          }
+        ]
+      },
+      {
+        "name": "Nikolas Lansky",
+        "nm": 487120,
+        "roles": [
+          {
+            "char": "Gen. León Maestre",
+            "as Nicolas Lansky": true
+          }
+        ]
+      },
+      {
+        "name": "Margarita Lozano",
+        "nm": 523597,
+        "roles": [
+          {
+            "char": "Doña Vicenta Lorca"
+          }
+        ]
+      },
+      {
+        "name": "Chema Muñoz",
+        "nm": 616385,
+        "roles": [
+          {
+            "char": "Miguel Rosales"
+          }
+        ]
+      },
+      {
+        "name": "Mario Pardo",
+        "nm": 661118,
+        "roles": [
+          {
+            "char": "Francisco Galadí"
+          }
+        ]
+      },
+      {
+        "name": "Diana Peñalver",
+        "nm": 679272,
+        "roles": [
+          {
+            "char": "Concha García Lorca"
+          }
+        ]
+      },
+      {
+        "name": "Mireia Ros",
+        "nm": 740760,
+        "roles": [
+          {
+            "char": "Esperancita",
+            "as Mireia Ross": true
+          }
+        ]
+      },
+      {
+        "name": "Manuel Zarzo",
+        "nm": 953400,
+        "roles": [
+          {
+            "char": "Coronel Muñoz"
+          }
+        ]
+      },
+      {
+        "name": "Alberto Alonso",
+        "nm": 22115,
+        "roles": [
+          {
+            "char": "Manuel Fernández Montesinos"
+          }
+        ]
+      },
+      {
+        "name": "Hugo Blanco",
+        "nm": 87265,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Canalejas",
+        "nm": 133531,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Cantero",
+        "nm": 134550,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Ángel Egido",
+        "nm": 251021,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "María Luisa Esteva",
+        "nm": 4040017,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sergio de Frutos",
+        "nm": 208491,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lola Gaos",
+        "nm": 304747,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ernesto Girela",
+        "nm": 4085944,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Iñaki Guevara",
+        "nm": 346473,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "María Jesús Mateos",
+        "nm": 4085024,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "David Palmer",
+        "nm": 4085978,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Riesgo",
+        "nm": 726359,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José María del Río",
+        "nm": 215893,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Robles",
+        "nm": 3173124,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Eufemia Román",
+        "nm": 739804,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Javier Dotú",
+        "nm": 234630,
+        "roles": [
+          {
+            "char": "Federico",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "José Segura",
+        "nm": 782188,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Francisco Torres",
+        "nm": 868645,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Eduardo Puertas",
+        "nm": 4085321,
+        "roles": [
+          {
+            "char": "Niño"
+          }
+        ]
+      }
+    ]
+  }
+]

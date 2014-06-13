@@ -1,0 +1,7864 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Resurrection",
+    "tt": 744059,
+    "air_date": "1988-10-07",
+    "description": "A terrorist attack at a nuclear waste site awakens aliens who were in hibernation since their 1953 invasion. A group of scientists work with the military to stop the aliens.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Richard Comar",
+        "nm": 173544,
+        "roles": [
+          {
+            "char": "Chambers"
+          }
+        ]
+      },
+      {
+        "name": "Gwynyth Walsh",
+        "nm": 909657,
+        "roles": [
+          {
+            "char": "Charlotte"
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Eugene Clark",
+        "nm": 163925,
+        "roles": [
+          {
+            "char": "Sgt. Gordon Reynolds"
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Corinne Conley",
+        "nm": 174766,
+        "roles": [
+          {
+            "char": "Mrs. Pennyworth",
+            "ch": 209089
+          }
+        ]
+      },
+      {
+        "name": "Larry Reynolds",
+        "nm": 721823,
+        "roles": [
+          {
+            "char": "Tom Kensington"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "John Vernon",
+        "nm": 6893,
+        "roles": [
+          {
+            "char": "General Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Frank Pellegrino",
+        "nm": 671022,
+        "roles": [
+          {
+            "char": "Mossoud"
+          }
+        ]
+      },
+      {
+        "name": "Martin Neufeld",
+        "nm": 626884,
+        "roles": [
+          {
+            "char": "Finney",
+            "ch": 334698
+          }
+        ]
+      },
+      {
+        "name": "Ric Sarabia",
+        "nm": 2878,
+        "roles": [
+          {
+            "char": "Teal"
+          }
+        ]
+      },
+      {
+        "name": "Desmond Ellis",
+        "nm": 254799,
+        "roles": [
+          {
+            "char": "Orel"
+          }
+        ]
+      },
+      {
+        "name": "Jack Mather",
+        "nm": 558449,
+        "roles": [
+          {
+            "char": "Doc"
+          }
+        ]
+      },
+      {
+        "name": "Harry Booker",
+        "nm": 95384,
+        "roles": [
+          {
+            "char": "Sheriff Deak"
+          }
+        ]
+      },
+      {
+        "name": "David Hughes",
+        "nm": 400531,
+        "roles": [
+          {
+            "char": "Dr. Efrem Jacobi"
+          }
+        ]
+      },
+      {
+        "name": "Donald Tripe",
+        "nm": 873040,
+        "roles": [
+          {
+            "char": "Dr. Gutterman"
+          }
+        ]
+      },
+      {
+        "name": "Steve Atkinson",
+        "nm": 40802,
+        "roles": [
+          {
+            "char": "Corporal #1"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Fox",
+        "nm": 289099,
+        "roles": [
+          {
+            "char": "Corporal #2"
+          }
+        ]
+      },
+      {
+        "name": "Ted Follows",
+        "nm": 284365,
+        "roles": [
+          {
+            "char": "General Arquettte"
+          }
+        ]
+      },
+      {
+        "name": "Judah Katz",
+        "nm": 441754,
+        "roles": [
+          {
+            "char": "Pilot #1"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Knight",
+        "nm": 460951,
+        "roles": [
+          {
+            "char": "Pilot #2",
+            "as Jeff Knight": true
+          }
+        ]
+      },
+      {
+        "name": "Daryl Shuttleworth",
+        "nm": 796036,
+        "roles": [
+          {
+            "char": "Signal Corps Technician"
+          }
+        ]
+      },
+      {
+        "name": "Richard Sali",
+        "nm": 758251,
+        "roles": [
+          {
+            "char": "Hunter #1"
+          }
+        ]
+      },
+      {
+        "name": "Don Keppy",
+        "nm": 449160,
+        "roles": [
+          {
+            "char": "Hunter #2"
+          }
+        ]
+      },
+      {
+        "name": "Jacques Fortier",
+        "nm": 1290194,
+        "roles": [
+          {
+            "char": "Principle Alien",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Walls of Jericho",
+    "tt": 744062,
+    "air_date": "1988-10-10",
+    "description": "The aliens suffer from radiation poisoning and develop suits to protect themselves. Meanwhile, the government attempts to shut down Harrison and his team believing that the alien menace is no more.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Mark Humphrey",
+        "nm": 401936,
+        "roles": [
+          {
+            "char": "Milkman #1"
+          }
+        ]
+      },
+      {
+        "name": "Richard Comar",
+        "nm": 173544,
+        "roles": [
+          {
+            "char": "Chambers"
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Larry Reynolds",
+        "nm": 721823,
+        "roles": [
+          {
+            "char": "Tom Kensington"
+          }
+        ]
+      },
+      {
+        "name": "Corinne Conley",
+        "nm": 174766,
+        "roles": [
+          {
+            "char": "Mrs. Pennyworth",
+            "ch": 209089
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "John Vernon",
+        "nm": 6893,
+        "roles": [
+          {
+            "char": "General Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Dale Wilson",
+        "nm": 933232,
+        "roles": [
+          {
+            "char": "Sheriff"
+          }
+        ]
+      },
+      {
+        "name": "Jim Bearden",
+        "nm": 1683919,
+        "roles": [
+          {
+            "char": "Rancher"
+          }
+        ]
+      },
+      {
+        "name": "Leslie Carlson",
+        "nm": 137967,
+        "roles": [
+          {
+            "char": "Detective #1",
+            "as Les Carlson": true
+          }
+        ]
+      },
+      {
+        "name": "Louise Cranfield",
+        "nm": 335001,
+        "roles": [
+          {
+            "char": "Young Wife"
+          }
+        ]
+      },
+      {
+        "name": "Kris Ryan",
+        "nm": 1218816,
+        "roles": [
+          {
+            "char": "Detective #2"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Adams",
+        "nm": 10783,
+        "roles": [
+          {
+            "char": "Woman Worker"
+          }
+        ]
+      },
+      {
+        "name": "Rob Heffernan",
+        "nm": 3419765,
+        "roles": [
+          {
+            "char": "Computer Technician"
+          }
+        ]
+      },
+      {
+        "name": "Michael Caruana",
+        "nm": 142237,
+        "roles": [
+          {
+            "char": "Ralph"
+          }
+        ]
+      },
+      {
+        "name": "Chris Potter",
+        "nm": 693243,
+        "roles": [
+          {
+            "char": "Farmer"
+          }
+        ]
+      },
+      {
+        "name": "Eric Keenleyside",
+        "nm": 444776,
+        "roles": [
+          {
+            "char": "Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Steve Makaj",
+        "nm": 538363,
+        "roles": [
+          {
+            "char": "Milkman #2",
+            "as Stephen Makaj": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Lee",
+        "nm": 498104,
+        "roles": [
+          {
+            "char": "Chin"
+          }
+        ]
+      },
+      {
+        "name": "Mrs. Lau",
+        "nm": 3446750,
+        "roles": [
+          {
+            "char": "Chinese Woman"
+          }
+        ]
+      },
+      {
+        "name": "Ted Hanlan",
+        "nm": 360053,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Paul De La Rosa",
+        "nm": 209396,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Thy Kingdom Come",
+    "tt": 744063,
+    "air_date": "1988-10-17",
+    "description": "Harrison and the team talk to a psychic woman who studied the aliens after the first invasion. Meanwhile, a group of aliens take over a family and travel cross country in order to awaken more aliens from hibernation.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Ann Robinson",
+        "nm": 732378,
+        "roles": [
+          {
+            "char": "Sylvia Van Buren",
+            "ch": 250466
+          }
+        ]
+      },
+      {
+        "name": "Richard Comar",
+        "nm": 173544,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Alan C. Peterson",
+        "nm": 12586,
+        "roles": [
+          {
+            "char": "Alien Hunter",
+            "as Alar Aedma": true
+          }
+        ]
+      },
+      {
+        "name": "Walker Boone",
+        "nm": 95531,
+        "roles": [
+          {
+            "char": "Prison Guard"
+          }
+        ]
+      },
+      {
+        "name": "Michael Fletcher",
+        "nm": 282071,
+        "roles": [
+          {
+            "char": "Beckwith"
+          }
+        ]
+      },
+      {
+        "name": "Joy Thompson",
+        "nm": 860350,
+        "roles": [
+          {
+            "char": "Mom"
+          }
+        ]
+      },
+      {
+        "name": "John Blackwood",
+        "nm": 85976,
+        "roles": [
+          {
+            "char": "Dad"
+          }
+        ]
+      },
+      {
+        "name": "Helen Carscallen",
+        "nm": 141156,
+        "roles": [
+          {
+            "char": "Granny"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Stone",
+        "nm": 832187,
+        "roles": [
+          {
+            "char": "Bobby"
+          }
+        ]
+      },
+      {
+        "name": "Diane Douglass",
+        "nm": 235307,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "John Dee",
+        "nm": 214189,
+        "roles": [
+          {
+            "char": "Old Man"
+          }
+        ]
+      },
+      {
+        "name": "Paul Bettis",
+        "nm": 79378,
+        "roles": [
+          {
+            "char": "Attendant"
+          }
+        ]
+      },
+      {
+        "name": "Steve Mousseau",
+        "nm": 610093,
+        "roles": [
+          {
+            "char": "Sheriff"
+          }
+        ]
+      },
+      {
+        "name": "Len Doncheff",
+        "nm": 232338,
+        "roles": [
+          {
+            "char": "Police Captain"
+          }
+        ]
+      },
+      {
+        "name": "Paul MacCallum",
+        "nm": 531418,
+        "roles": [
+          {
+            "char": "Hunter #1"
+          }
+        ]
+      },
+      {
+        "name": "David Blacker",
+        "nm": 85661,
+        "roles": [
+          {
+            "char": "Hunter #2"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth W. Roberts",
+        "nm": 731316,
+        "roles": [
+          {
+            "char": "Hunter #3"
+          }
+        ]
+      },
+      {
+        "name": "Michael-Michael Sokovnin",
+        "nm": 3447573,
+        "roles": [
+          {
+            "char": "Hockey Player #1"
+          }
+        ]
+      },
+      {
+        "name": "Robbie Rox",
+        "nm": 746881,
+        "roles": [
+          {
+            "char": "Hockey Player #2"
+          }
+        ]
+      },
+      {
+        "name": "Al Therrien",
+        "nm": 857628,
+        "roles": [
+          {
+            "char": "Hockey Player #3"
+          }
+        ]
+      },
+      {
+        "name": "Gary Robins",
+        "nm": 1917620,
+        "roles": [
+          {
+            "char": "Goalie"
+          }
+        ]
+      },
+      {
+        "name": "Aaron Ross Fraser",
+        "nm": 292058,
+        "roles": [
+          {
+            "char": "Officer"
+          },
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Embree",
+        "nm": 256107,
+        "roles": [
+          {
+            "char": "Jordan"
+          }
+        ]
+      },
+      {
+        "name": "Dolora Harvey",
+        "nm": 3446377,
+        "roles": [
+          {
+            "char": "Nun"
+          }
+        ]
+      },
+      {
+        "name": "Valerie Boyle",
+        "nm": 102345,
+        "roles": [
+          {
+            "char": "Nun"
+          }
+        ]
+      },
+      {
+        "name": "Brian Hill",
+        "nm": 3446118,
+        "roles": [
+          {
+            "char": "Military Guard #1"
+          }
+        ]
+      },
+      {
+        "name": "Elliot McIver",
+        "nm": 570850,
+        "roles": [
+          {
+            "char": "Military Guard #2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "A Multitude of Idols",
+    "tt": 744027,
+    "air_date": "1988-10-24",
+    "description": "The Martians continue to expand their operations. Sparked by random footage shot by a reporter Harrison's the team descend on the previously abandoned town of Breeton, where they find a bustling community that in theory should not exist.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Michele Scarabelli",
+        "nm": 769039,
+        "roles": [
+          {
+            "char": "Elise Conway"
+          }
+        ]
+      },
+      {
+        "name": "Neil Vipond",
+        "nm": 899277,
+        "roles": [
+          {
+            "char": "Reverend"
+          }
+        ]
+      },
+      {
+        "name": "Ray James",
+        "nm": 416853,
+        "roles": [
+          {
+            "char": "FBI Leader"
+          }
+        ]
+      },
+      {
+        "name": "Von Flores",
+        "nm": 282959,
+        "roles": [
+          {
+            "char": "Alex"
+          }
+        ]
+      },
+      {
+        "name": "Jackie Richardson",
+        "nm": 724592,
+        "roles": [
+          {
+            "char": "Blanche"
+          }
+        ]
+      },
+      {
+        "name": "Garfield Andrews",
+        "nm": 28661,
+        "roles": [
+          {
+            "char": "Simons"
+          }
+        ]
+      },
+      {
+        "name": "Roger McKeen",
+        "nm": 571237,
+        "roles": [
+          {
+            "char": "Driver #1"
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Driver #2"
+          }
+        ]
+      },
+      {
+        "name": "Judy Sinclair",
+        "nm": 801653,
+        "roles": [
+          {
+            "char": "Judy"
+          }
+        ]
+      },
+      {
+        "name": "Chick Roberts",
+        "nm": 730930,
+        "roles": [
+          {
+            "char": "Frank"
+          }
+        ]
+      },
+      {
+        "name": "Richard Gira",
+        "nm": 320574,
+        "roles": [
+          {
+            "char": "FBI #1"
+          }
+        ]
+      },
+      {
+        "name": "Jim Walton",
+        "nm": 910536,
+        "roles": [
+          {
+            "char": "FBI #2"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Matheson",
+        "nm": 558555,
+        "roles": [
+          {
+            "char": "FBI #3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Eye for an Eye",
+    "tt": 744036,
+    "air_date": "1988-10-31",
+    "description": "The team is sent to Grover's Mill when it is discovered the 1938 radio broadcast of invasion was real. They meet with a group of local men who successfully fought the Martians 50 years ago and believe the Martians have returned to try and retrieve weapons abandoned in 1938.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Jeff Corey",
+        "nm": 179786,
+        "roles": [
+          {
+            "char": "Francis Flannery"
+          }
+        ]
+      },
+      {
+        "name": "John Ireland",
+        "nm": 409869,
+        "roles": [
+          {
+            "char": "Harv"
+          }
+        ]
+      },
+      {
+        "name": "Jack Jessop",
+        "nm": 422242,
+        "roles": [
+          {
+            "char": "Bill"
+          }
+        ]
+      },
+      {
+        "name": "Jack Ammon",
+        "nm": 25084,
+        "roles": [
+          {
+            "char": "Sam"
+          }
+        ]
+      },
+      {
+        "name": "Mark Holmes",
+        "nm": 391955,
+        "roles": [
+          {
+            "char": "Red"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Rita Tuckett",
+        "nm": 876060,
+        "roles": [
+          {
+            "char": "Miss Daly"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Rushton",
+        "nm": 750764,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      },
+      {
+        "name": "Mary Beth Rubens",
+        "nm": 747898,
+        "roles": [
+          {
+            "char": "Marla"
+          }
+        ]
+      },
+      {
+        "name": "Sergio Galli",
+        "nm": 4907388,
+        "roles": [
+          {
+            "char": "Biker #1"
+          }
+        ]
+      },
+      {
+        "name": "Linda Singer",
+        "nm": 801989,
+        "roles": [
+          {
+            "char": "Biker Chick"
+          }
+        ]
+      },
+      {
+        "name": "Kenny MacLean",
+        "nm": 3426261,
+        "roles": [
+          {
+            "char": "Biker #2"
+          }
+        ]
+      },
+      {
+        "name": "Sascha Tukatsch",
+        "nm": 3456158,
+        "roles": [
+          {
+            "char": "Biker #3"
+          }
+        ]
+      },
+      {
+        "name": "Richard Fitzpatrick",
+        "nm": 280584,
+        "roles": [
+          {
+            "char": "Officer #1"
+          }
+        ]
+      },
+      {
+        "name": "Michael Fawkes",
+        "nm": 269518,
+        "roles": [
+          {
+            "char": "Officer #2"
+          }
+        ]
+      },
+      {
+        "name": "Frank Knight",
+        "nm": 2838234,
+        "roles": [
+          {
+            "char": "Orson Welles #1",
+            "ch": 26779
+          }
+        ]
+      },
+      {
+        "name": "Giovanni Paldino",
+        "nm": 3455560,
+        "roles": [
+          {
+            "char": "Orson Welles #2",
+            "ch": 26779
+          }
+        ]
+      },
+      {
+        "name": "Alanna Cavanagh",
+        "nm": 2255890,
+        "roles": [
+          {
+            "char": "Worker"
+          }
+        ]
+      },
+      {
+        "name": "Richard Comar",
+        "nm": 173544,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Mark Parr",
+        "nm": 663330,
+        "roles": [
+          {
+            "char": "Green Midget",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "The Second Seal",
+    "tt": 744060,
+    "air_date": "1988-11-07",
+    "description": "The Martians attempt to take over a military base that has been used as a secure storage area for much of the information regarding the 1953 invasion. In particular they are seeking the location of Martians who are still in hibernation waiting to rejoin the invasion.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Lynne Griffin",
+        "nm": 341289,
+        "roles": [
+          {
+            "char": "Amanda Burke"
+          }
+        ]
+      },
+      {
+        "name": "Greg Morris",
+        "nm": 606569,
+        "roles": [
+          {
+            "char": "General Masters"
+          }
+        ]
+      },
+      {
+        "name": "Michael McKeever",
+        "nm": 571253,
+        "roles": [
+          {
+            "char": "Lt. Hamill"
+          }
+        ]
+      },
+      {
+        "name": "James Kidnie",
+        "nm": 452308,
+        "roles": [
+          {
+            "char": "Captain Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Anne Farquhar",
+        "nm": 267969,
+        "roles": [
+          {
+            "char": "Newswoman"
+          }
+        ]
+      },
+      {
+        "name": "Kirk Dunn",
+        "nm": 242659,
+        "roles": [
+          {
+            "char": "Hancock"
+          }
+        ]
+      },
+      {
+        "name": "Miriam Newhouse",
+        "nm": 627904,
+        "roles": [
+          {
+            "char": "Ellen"
+          }
+        ]
+      },
+      {
+        "name": "Roy Lewis",
+        "nm": 507712,
+        "roles": [
+          {
+            "char": "Camerman"
+          }
+        ]
+      },
+      {
+        "name": "Paul Eves",
+        "nm": 263736,
+        "roles": [
+          {
+            "char": "Alien MP"
+          },
+          {
+            "char": "Courier"
+          }
+        ]
+      },
+      {
+        "name": "Wally Bondarenko",
+        "nm": 94097,
+        "roles": [
+          {
+            "char": "Officer at the Bar",
+            "as Wally Bonderenko": true
+          }
+        ]
+      },
+      {
+        "name": "Todd Schroeder",
+        "nm": 775539,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Richard Comar",
+        "nm": 173544,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Goliath Is My Name",
+    "tt": 744037,
+    "air_date": "1988-11-14",
+    "description": "Suzanne learns that a friend of hers has disappeared from his college campus. Meanwhile the aliens are on campus in search of a bio-weapon.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Ratchford",
+        "nm": 711595,
+        "roles": [
+          {
+            "char": "Student"
+          }
+        ]
+      },
+      {
+        "name": "Eric Bruskotter",
+        "nm": 116717,
+        "roles": [
+          {
+            "char": "Jefferson"
+          }
+        ]
+      },
+      {
+        "name": "Jason Blicker",
+        "nm": 88379,
+        "roles": [
+          {
+            "char": "Pete"
+          }
+        ]
+      },
+      {
+        "name": "Hume Baugh",
+        "nm": 61986,
+        "roles": [
+          {
+            "char": "Alien #1"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Dunn",
+        "nm": 242523,
+        "roles": [
+          {
+            "char": "Debra"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rowan",
+        "nm": 746414,
+        "roles": [
+          {
+            "char": "Kim"
+          }
+        ]
+      },
+      {
+        "name": "James Kee",
+        "nm": 444339,
+        "roles": [
+          {
+            "char": "Robert Parkins"
+          }
+        ]
+      },
+      {
+        "name": "Terry Doyle",
+        "nm": 236503,
+        "roles": [
+          {
+            "char": "Dean Holden"
+          }
+        ]
+      },
+      {
+        "name": "Alex Karzis",
+        "nm": 440351,
+        "roles": [
+          {
+            "char": "Samuel"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Frank",
+        "nm": 291007,
+        "roles": [
+          {
+            "char": "Gabriel"
+          }
+        ]
+      },
+      {
+        "name": "Jill Hennessy",
+        "nm": 5007,
+        "roles": [
+          {
+            "char": "Patty"
+          }
+        ]
+      },
+      {
+        "name": "Darren O'Donnell",
+        "nm": 640742,
+        "roles": [
+          {
+            "char": "Alien #2"
+          }
+        ]
+      },
+      {
+        "name": "Damon D'Oliveira",
+        "nm": 195821,
+        "roles": [
+          {
+            "char": "Alien #3"
+          }
+        ]
+      },
+      {
+        "name": "T.J. Scott",
+        "nm": 779830,
+        "roles": [
+          {
+            "char": "Lab Technician"
+          }
+        ]
+      },
+      {
+        "name": "George Merner",
+        "nm": 581085,
+        "roles": [
+          {
+            "char": "Officer Helfreich"
+          }
+        ]
+      },
+      {
+        "name": "Richard Comar",
+        "nm": 173544,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Corinne Conley",
+        "nm": 174766,
+        "roles": [
+          {
+            "char": "Mrs. Pennyworth",
+            "ch": 209089,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "To Heal the Leper",
+    "tt": 744064,
+    "air_date": "1988-11-21",
+    "description": "The Martians encounter another human disease, chicken pox which is crippling their invasion plans. They decide by harvesting human brains so they can produce a cure that will put the invasion back on track. Harrison's team race against time to stop them completing their project.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Ann Robinson",
+        "nm": 732378,
+        "roles": [
+          {
+            "char": "Sylvia Van Buren",
+            "ch": 250466
+          }
+        ]
+      },
+      {
+        "name": "Kim Coates",
+        "nm": 167649,
+        "roles": [
+          {
+            "char": "Scott"
+          }
+        ]
+      },
+      {
+        "name": "Guylaine St-Onge",
+        "nm": 820377,
+        "roles": [
+          {
+            "char": "Beth"
+          }
+        ]
+      },
+      {
+        "name": "Paul Boretski",
+        "nm": 96390,
+        "roles": [
+          {
+            "char": "Leo"
+          }
+        ]
+      },
+      {
+        "name": "Richard Comar",
+        "nm": 173544,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Neil Dainard",
+        "nm": 197391,
+        "roles": [
+          {
+            "char": "Detective Harley"
+          }
+        ]
+      },
+      {
+        "name": "Diane Douglass",
+        "nm": 235307,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "John Dee",
+        "nm": 214189,
+        "roles": [
+          {
+            "char": "Old Man"
+          }
+        ]
+      },
+      {
+        "name": "Philip Williams",
+        "nm": 931477,
+        "roles": [
+          {
+            "char": "Fred"
+          }
+        ]
+      },
+      {
+        "name": "Len Carlson",
+        "nm": 137965,
+        "roles": [
+          {
+            "char": "Attending Alien"
+          }
+        ]
+      },
+      {
+        "name": "Ross Manson",
+        "nm": 543948,
+        "roles": [
+          {
+            "char": "Officer Roberts"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Leslie",
+        "nm": 504095,
+        "roles": [
+          {
+            "char": "Desk Honey"
+          }
+        ]
+      },
+      {
+        "name": "Krista Bridges",
+        "nm": 108765,
+        "roles": [
+          {
+            "char": "Teen Queen"
+          }
+        ]
+      },
+      {
+        "name": "Claude Rae",
+        "nm": 705992,
+        "roles": [
+          {
+            "char": "Dean"
+          }
+        ]
+      },
+      {
+        "name": "Harold Luft",
+        "nm": 525176,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "The Good Samaritan",
+    "tt": 744052,
+    "air_date": "1988-12-26",
+    "description": "Suzanne does some unauthorized research on a new kind of grain that will grow in any climate. The billionaire who invented wants to sell it to the world. Thinking poorer countries will be given money by richer countries. But the aliens have their own plans for the grain, after placing a new deadly poison in the grain, they take over the body of the billionaire who suddenly offers it free to the world.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Lori Hallier",
+        "nm": 356590,
+        "roles": [
+          {
+            "char": "Teri"
+          }
+        ]
+      },
+      {
+        "name": "Warren Davis",
+        "nm": 205643,
+        "roles": [
+          {
+            "char": "Franklin"
+          }
+        ]
+      },
+      {
+        "name": "Alex Cord",
+        "nm": 179376,
+        "roles": [
+          {
+            "char": "Marcus Madison Mason"
+          }
+        ]
+      },
+      {
+        "name": "Richard Comar",
+        "nm": 173544,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Corinne Conley",
+        "nm": 174766,
+        "roles": [
+          {
+            "char": "Mrs. Pennyworth",
+            "ch": 209089
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "Larson"
+          }
+        ]
+      },
+      {
+        "name": "Sharolyn Sparrow",
+        "nm": 817110,
+        "roles": [
+          {
+            "char": "Helen"
+          }
+        ]
+      },
+      {
+        "name": "Micki Moore",
+        "nm": 601647,
+        "roles": [
+          {
+            "char": "Joyce Mason"
+          }
+        ]
+      },
+      {
+        "name": "Barry Flatman",
+        "nm": 281284,
+        "roles": [
+          {
+            "char": "Hewlit"
+          }
+        ]
+      },
+      {
+        "name": "Michael Eric Kramer",
+        "nm": 469617,
+        "roles": [
+          {
+            "char": "Commander",
+            "as Michael Kramer": true
+          }
+        ]
+      },
+      {
+        "name": "James O'Regan",
+        "nm": 642395,
+        "roles": [
+          {
+            "char": "Cook"
+          }
+        ]
+      },
+      {
+        "name": "Mark Krause",
+        "nm": 2331039,
+        "roles": [
+          {
+            "char": "Busboy"
+          }
+        ]
+      },
+      {
+        "name": "Mung-Ling Tsui",
+        "nm": 875283,
+        "roles": [
+          {
+            "char": "Waitress",
+            "as Mung Ling Tsui": true
+          }
+        ]
+      },
+      {
+        "name": "Billie Mae Richards",
+        "nm": 723982,
+        "roles": [
+          {
+            "char": "Matron #1"
+          }
+        ]
+      },
+      {
+        "name": "Maxine Miller",
+        "nm": 588948,
+        "roles": [
+          {
+            "char": "Matron #2"
+          }
+        ]
+      },
+      {
+        "name": "Anne Mirvish",
+        "nm": 592572,
+        "roles": [
+          {
+            "char": "Matron #3"
+          }
+        ]
+      },
+      {
+        "name": "Michael Woods",
+        "nm": 1592657,
+        "roles": [
+          {
+            "char": "Bodyguard"
+          }
+        ]
+      },
+      {
+        "name": "J.R. Zimmerman",
+        "nm": 956706,
+        "roles": [
+          {
+            "char": "Dr. Adams"
+          }
+        ]
+      },
+      {
+        "name": "George Kash",
+        "nm": 440512,
+        "roles": [
+          {
+            "char": "Longshoreman"
+          }
+        ]
+      },
+      {
+        "name": "John Bayliss",
+        "nm": 63094,
+        "roles": [
+          {
+            "char": "Doctor",
+            "as John Baylis": true
+          }
+        ]
+      },
+      {
+        "name": "Djanet Sears",
+        "nm": 780758,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Darrin Baker",
+        "nm": 48370,
+        "roles": [
+          {
+            "char": "College Boy #1"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Gunn",
+        "nm": 1215178,
+        "roles": [
+          {
+            "char": "College Boy #2"
+          }
+        ]
+      },
+      {
+        "name": "Laura Cruickshank",
+        "nm": 189981,
+        "roles": [
+          {
+            "char": "Cheerleader"
+          }
+        ]
+      },
+      {
+        "name": "C.J. Fidler",
+        "nm": 275767,
+        "roles": [
+          {
+            "char": "Captive Woman",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Epiphany",
+    "tt": 744035,
+    "air_date": "1989-01-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Deborah Wakeham",
+        "nm": 906817,
+        "roles": [
+          {
+            "char": "Katya"
+          }
+        ]
+      },
+      {
+        "name": "David Ferry",
+        "nm": 275072,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Valery Kedrov"
+          }
+        ]
+      },
+      {
+        "name": "Richard Comar",
+        "nm": 173544,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Michael Eric Kramer",
+        "nm": 469617,
+        "roles": [
+          {
+            "char": "Commander",
+            "as Michael Kramer": true
+          }
+        ]
+      },
+      {
+        "name": "John Liddle",
+        "nm": 509201,
+        "roles": [
+          {
+            "char": "Worker #1"
+          }
+        ]
+      },
+      {
+        "name": "Frank Crudell",
+        "nm": 189944,
+        "roles": [
+          {
+            "char": "Worker #2"
+          }
+        ]
+      },
+      {
+        "name": "Maggie Huculak",
+        "nm": 399624,
+        "roles": [
+          {
+            "char": "Female Worker"
+          }
+        ]
+      },
+      {
+        "name": "Bob Dunn",
+        "nm": 2237083,
+        "roles": [
+          {
+            "char": "Journalist"
+          }
+        ]
+      },
+      {
+        "name": "Patti Gail",
+        "nm": 301196,
+        "roles": [
+          {
+            "char": "Nun #1"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Kamino",
+        "nm": 436694,
+        "roles": [
+          {
+            "char": "Nun #2"
+          }
+        ]
+      },
+      {
+        "name": "Jackie May",
+        "nm": 561978,
+        "roles": [
+          {
+            "char": "Nun #3"
+          }
+        ]
+      },
+      {
+        "name": "Paul Brogren",
+        "nm": 111196,
+        "roles": [
+          {
+            "char": "Small Boy"
+          }
+        ]
+      },
+      {
+        "name": "Stella Sprowell",
+        "nm": 819858,
+        "roles": [
+          {
+            "char": "Old Lady"
+          }
+        ]
+      },
+      {
+        "name": "Garry Chessman",
+        "nm": 1194097,
+        "roles": [
+          {
+            "char": "Young Hood",
+            "as Gary Chessman": true
+          }
+        ]
+      },
+      {
+        "name": "Marty Galin",
+        "nm": 302126,
+        "roles": [
+          {
+            "char": "Cabby"
+          }
+        ]
+      },
+      {
+        "name": "Conrad Coates",
+        "nm": 167626,
+        "roles": [
+          {
+            "char": "Driver"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Walsh",
+        "nm": 909866,
+        "roles": [
+          {
+            "char": "Co-Worker"
+          }
+        ]
+      },
+      {
+        "name": "Paula Barrett",
+        "nm": 57247,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Barnes-Hopkins",
+        "nm": 55819,
+        "roles": [
+          {
+            "char": "Parking Officer"
+          }
+        ]
+      },
+      {
+        "name": "Paul Charters",
+        "nm": 1120223,
+        "roles": [
+          {
+            "char": "Security Guard",
+            "as Paul Martin Charters": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Young Girl",
+            "as Sarah Lynn Campbell": true
+          }
+        ]
+      },
+      {
+        "name": "Patrick Patterson",
+        "nm": 666343,
+        "roles": [
+          {
+            "char": "Tow Truck Driver"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Among the Philistines",
+    "tt": 744029,
+    "air_date": "1989-01-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Cedric Smith",
+        "nm": 807649,
+        "roles": [
+          {
+            "char": "Adrian Bouchard"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Corinne Conley",
+        "nm": 174766,
+        "roles": [
+          {
+            "char": "Mrs. Pennyworth",
+            "ch": 209089
+          }
+        ]
+      },
+      {
+        "name": "Larry Reynolds",
+        "nm": 721823,
+        "roles": [
+          {
+            "char": "Tom Kensington"
+          }
+        ]
+      },
+      {
+        "name": "David Calderisi",
+        "nm": 129514,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Gregory Cross",
+        "nm": 189169,
+        "roles": [
+          {
+            "char": "Chubs"
+          }
+        ]
+      },
+      {
+        "name": "Cliff Woolner",
+        "nm": 941270,
+        "roles": [
+          {
+            "char": "Alien Trucker"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beach",
+        "nm": 1954360,
+        "roles": [
+          {
+            "char": "Alien Driver"
+          }
+        ]
+      },
+      {
+        "name": "Clyde Whitham",
+        "nm": 925974,
+        "roles": [
+          {
+            "char": "Soldier"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Choirs of Angels",
+    "tt": 744032,
+    "air_date": "1989-01-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "John Novak",
+        "nm": 636868,
+        "roles": [
+          {
+            "char": "Alien"
+          }
+        ]
+      },
+      {
+        "name": "Alex Carter",
+        "nm": 141450,
+        "roles": [
+          {
+            "char": "Alien #2"
+          },
+          {
+            "char": "Record Company Guy #2"
+          }
+        ]
+      },
+      {
+        "name": "Heidi von Palleske",
+        "nm": 902794,
+        "roles": [
+          {
+            "char": "Alien Soldier"
+          }
+        ]
+      },
+      {
+        "name": "Jan Rubes",
+        "nm": 747962,
+        "roles": [
+          {
+            "char": "Dr. Von Deer"
+          }
+        ]
+      },
+      {
+        "name": "Billy Thorpe",
+        "nm": 861654,
+        "roles": [
+          {
+            "char": "Billy Carlos"
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "David Calderisi",
+        "nm": 129514,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Karen Wood",
+        "nm": 939817,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Wally Bolland",
+        "nm": 93073,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Dust to Dust",
+    "tt": 744034,
+    "air_date": "1989-01-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "R.D. Reid",
+        "nm": 717395,
+        "roles": [
+          {
+            "char": "Mark Newport"
+          }
+        ]
+      },
+      {
+        "name": "Elias Zarou",
+        "nm": 953558,
+        "roles": [
+          {
+            "char": "Kirk"
+          }
+        ]
+      },
+      {
+        "name": "Ivan Naranjo",
+        "nm": 621218,
+        "roles": [
+          {
+            "char": "Joseph"
+          }
+        ]
+      },
+      {
+        "name": "Robin Sewell",
+        "nm": 1680073,
+        "roles": [
+          {
+            "char": "Grace"
+          }
+        ]
+      },
+      {
+        "name": "Eric Schweig",
+        "nm": 777760,
+        "roles": [
+          {
+            "char": "Darrow"
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Linda Goranson",
+        "nm": 329775,
+        "roles": [
+          {
+            "char": "Connie"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Ziegler",
+        "nm": 956115,
+        "roles": [
+          {
+            "char": "Pat"
+          }
+        ]
+      },
+      {
+        "name": "George Bloomfield",
+        "nm": 89276,
+        "roles": [
+          {
+            "char": "Lawyer"
+          }
+        ]
+      },
+      {
+        "name": "Gairey Richardson",
+        "nm": 724548,
+        "roles": [
+          {
+            "char": "Detective Bob"
+          }
+        ]
+      },
+      {
+        "name": "Tim MacMenamin",
+        "nm": 533983,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Aaron Alexander",
+        "nm": 18232,
+        "roles": [
+          {
+            "char": "Young John Kincaid",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "David Calderisi",
+        "nm": 129514,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Eric Kramer",
+        "nm": 469617,
+        "roles": [
+          {
+            "char": "Alien in contamination suit",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "He Feedeth Among the Lilies",
+    "tt": 744038,
+    "air_date": "1989-01-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Belliveau",
+        "nm": 69092,
+        "roles": [
+          {
+            "char": "Karen"
+          }
+        ]
+      },
+      {
+        "name": "Maria del Mar",
+        "nm": 544691,
+        "roles": [
+          {
+            "char": "Estelle"
+          }
+        ]
+      },
+      {
+        "name": "Carole Galloway",
+        "nm": 303161,
+        "roles": [
+          {
+            "char": "Pat Thistle"
+          }
+        ]
+      },
+      {
+        "name": "Graham Batchelor",
+        "nm": 60737,
+        "roles": [
+          {
+            "char": "Arnold Thistle"
+          }
+        ]
+      },
+      {
+        "name": "Myron Senkus",
+        "nm": 2439929,
+        "roles": [
+          {
+            "char": "Walter Hayden"
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "David Calderisi",
+        "nm": 129514,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Mary Pirie",
+        "nm": 685174,
+        "roles": [
+          {
+            "char": "Alien Doc #1"
+          }
+        ]
+      },
+      {
+        "name": "Mark Wilson",
+        "nm": 933817,
+        "roles": [
+          {
+            "char": "Paramedic #1"
+          }
+        ]
+      },
+      {
+        "name": "Dana Anderson",
+        "nm": 26558,
+        "roles": [
+          {
+            "char": "Paramedic #2"
+          }
+        ]
+      },
+      {
+        "name": "Faye Cohen",
+        "nm": 169376,
+        "roles": [
+          {
+            "char": "Alien Doc #2"
+          }
+        ]
+      },
+      {
+        "name": "Diana Rowland",
+        "nm": 746689,
+        "roles": [
+          {
+            "char": "Alien Doc #3"
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Man with Hat"
+          }
+        ]
+      },
+      {
+        "name": "Larry Mannell",
+        "nm": 543078,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Bonnie Gruen",
+        "nm": 344389,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Andrea Nevitt",
+        "nm": 627532,
+        "roles": [
+          {
+            "char": "Aide"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Trace",
+        "nm": 1274561,
+        "roles": [
+          {
+            "char": "Cop",
+            "as Chris Trace": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "The Prodigal Son",
+    "tt": 744057,
+    "air_date": "1989-02-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "James Purcell",
+        "nm": 700725,
+        "roles": [
+          {
+            "char": "McGinnis"
+          }
+        ]
+      },
+      {
+        "name": "Robert Morelli",
+        "nm": 603763,
+        "roles": [
+          {
+            "char": "Sgt. Fitzpatrick"
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Quinn"
+          }
+        ]
+      },
+      {
+        "name": "Boris Khaimovich",
+        "nm": 1821195,
+        "roles": [
+          {
+            "char": "Alien Cop"
+          }
+        ]
+      },
+      {
+        "name": "Elliot McIver",
+        "nm": 570850,
+        "roles": [
+          {
+            "char": "Cop",
+            "as Elliott McIver": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Rudder",
+        "nm": 748644,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "David Calderisi",
+        "nm": 129514,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Randall Carpenter",
+        "nm": 139440,
+        "roles": [
+          {
+            "char": "Margo"
+          }
+        ]
+      },
+      {
+        "name": "Jim Yip",
+        "nm": 948131,
+        "roles": [
+          {
+            "char": "Hwang"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Delabbio",
+        "nm": 2329947,
+        "roles": [
+          {
+            "char": "Sanchez",
+            "as Dan Delabbio": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "The Meek Shall Inherit",
+    "tt": 744054,
+    "air_date": "1989-02-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Diana Reis",
+        "nm": 718310,
+        "roles": [
+          {
+            "char": "Molly"
+          }
+        ]
+      },
+      {
+        "name": "Ann Robinson",
+        "nm": 732378,
+        "roles": [
+          {
+            "char": "Sylvia van Buren",
+            "ch": 250466
+          }
+        ]
+      },
+      {
+        "name": "Michael Copeman",
+        "nm": 178680,
+        "roles": [
+          {
+            "char": "Dayton"
+          }
+        ]
+      },
+      {
+        "name": "John Gilbert",
+        "nm": 318106,
+        "roles": [
+          {
+            "char": "Sensky"
+          }
+        ]
+      },
+      {
+        "name": "Sam Malkin",
+        "nm": 539809,
+        "roles": [
+          {
+            "char": "Pollito"
+          }
+        ]
+      },
+      {
+        "name": "Norah Grant",
+        "nm": 2169336,
+        "roles": [
+          {
+            "char": "Sgt. Coleman"
+          }
+        ]
+      },
+      {
+        "name": "Vito Rezza",
+        "nm": 722166,
+        "roles": [
+          {
+            "char": "Stavrakos",
+            "ch": 173720
+          }
+        ]
+      },
+      {
+        "name": "Steve Pernie",
+        "nm": 674363,
+        "roles": [
+          {
+            "char": "Derriman"
+          }
+        ]
+      },
+      {
+        "name": "Gene Mack",
+        "nm": 532984,
+        "roles": [
+          {
+            "char": "Bull"
+          }
+        ]
+      },
+      {
+        "name": "Diane Douglass",
+        "nm": 235307,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "David Calderisi",
+        "nm": 129514,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Michael Eric Kramer",
+        "nm": 469617,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718,
+            "as Michael Kramer": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Neufeld",
+        "nm": 626884,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Steve Makaj",
+        "nm": 538363,
+        "roles": [
+          {
+            "char": "Lineman"
+          }
+        ]
+      },
+      {
+        "name": "Kim Cayer",
+        "nm": 147282,
+        "roles": [
+          {
+            "char": "Hooker"
+          }
+        ]
+      },
+      {
+        "name": "Mary McCandless",
+        "nm": 2964022,
+        "roles": [
+          {
+            "char": "Mom"
+          }
+        ]
+      },
+      {
+        "name": "William Finlay",
+        "nm": 1591787,
+        "roles": [
+          {
+            "char": "Dad",
+            "as Will Finlay": true
+          }
+        ]
+      },
+      {
+        "name": "Susan Lowry",
+        "nm": 3501440,
+        "roles": [
+          {
+            "char": "Daughter"
+          }
+        ]
+      },
+      {
+        "name": "Jed Dixon",
+        "nm": 228865,
+        "roles": [
+          {
+            "char": "Stan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Unto Us a Child Is Born",
+    "tt": 744067,
+    "air_date": "1989-02-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Brent Carver",
+        "nm": 142539,
+        "roles": [
+          {
+            "char": "Jesse"
+          }
+        ]
+      },
+      {
+        "name": "Amber Lea Weston",
+        "nm": 922910,
+        "roles": [
+          {
+            "char": "Nancy"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Bowes",
+        "nm": 101133,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Clark Johnson",
+        "nm": 424800,
+        "roles": [
+          {
+            "char": "Young"
+          }
+        ]
+      },
+      {
+        "name": "Peter Boretski",
+        "nm": 96391,
+        "roles": [
+          {
+            "char": "Howard Hugo"
+          }
+        ]
+      },
+      {
+        "name": "Martha Irving",
+        "nm": 410306,
+        "roles": [
+          {
+            "char": "Peggy"
+          }
+        ]
+      },
+      {
+        "name": "Mark Parr",
+        "nm": 663330,
+        "roles": [
+          {
+            "char": "Alien Mutant #1"
+          }
+        ]
+      },
+      {
+        "name": "Norah Grant",
+        "nm": 2169336,
+        "roles": [
+          {
+            "char": "Sgt. Coleman"
+          }
+        ]
+      },
+      {
+        "name": "Deborah Theaker",
+        "nm": 857275,
+        "roles": [
+          {
+            "char": "Saleslady"
+          }
+        ]
+      },
+      {
+        "name": "Albert Schultz",
+        "nm": 776187,
+        "roles": [
+          {
+            "char": "Ken"
+          }
+        ]
+      },
+      {
+        "name": "David Calderisi",
+        "nm": 129514,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Michael Eric Kramer",
+        "nm": 469617,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718,
+            "as Michael Kramer": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Neufeld",
+        "nm": 626884,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "John Pyper-Ferguson",
+        "nm": 701561,
+        "roles": [
+          {
+            "char": "Alien Mutant #2",
+            "as John Ferguson": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Girotti",
+        "nm": 320987,
+        "roles": [
+          {
+            "char": "Lang"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Kash",
+        "nm": 440511,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Michele Claire",
+        "nm": 3490196,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Tim Koetting",
+        "nm": 462994,
+        "roles": [
+          {
+            "char": "Dr. Melish"
+          }
+        ]
+      },
+      {
+        "name": "Heather Clifford",
+        "nm": 166630,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Jacqueline McLeod",
+        "nm": 572812,
+        "roles": [
+          {
+            "char": "Blanche"
+          }
+        ]
+      },
+      {
+        "name": "James Mainprize",
+        "nm": 537762,
+        "roles": [
+          {
+            "char": "Bernie"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Ursini",
+        "nm": 3510629,
+        "roles": [
+          {
+            "char": "Alien Toddler"
+          }
+        ]
+      },
+      {
+        "name": "Brandyn Ursini",
+        "nm": 3511305,
+        "roles": [
+          {
+            "char": "Alien Toddler"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "The Last Supper",
+    "tt": 744053,
+    "air_date": "1989-03-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Colm Feore",
+        "nm": 272173,
+        "roles": [
+          {
+            "char": "Leonid Argochev"
+          }
+        ]
+      },
+      {
+        "name": "Efrain Figueroa",
+        "nm": 276691,
+        "roles": [
+          {
+            "char": "Gabriel Morales"
+          }
+        ]
+      },
+      {
+        "name": "James Hong",
+        "nm": 393222,
+        "roles": [
+          {
+            "char": "Soo Tak"
+          }
+        ]
+      },
+      {
+        "name": "Barry Kennedy",
+        "nm": 447921,
+        "roles": [
+          {
+            "char": "Jerry Raymond"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Coy",
+        "nm": 185340,
+        "roles": [
+          {
+            "char": "Sunethra Menathong"
+          }
+        ]
+      },
+      {
+        "name": "Abbott Anderson",
+        "nm": 26304,
+        "roles": [
+          {
+            "char": "Morris Burnobi",
+            "as Abbott Jones Anderson": true
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ric Sarabia",
+        "nm": 2878,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Michael Copeman",
+        "nm": 178680,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Brenda Kamino",
+        "nm": 436694,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Ron Payne",
+        "nm": 668421,
+        "roles": [
+          {
+            "char": "Businessman"
+          }
+        ]
+      },
+      {
+        "name": "Norah Grant",
+        "nm": 2169336,
+        "roles": [
+          {
+            "char": "Sgt. Coleman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Vengeance Is Mine",
+    "tt": 744068,
+    "air_date": "1989-04-17",
+    "description": "The aliens organise a series of armoured car heists in order to finance the purchase of rubies for their new laser weapons. Meanwhile, Ironhorse is kidnapped by the husband of a woman caught in the crossfire during an alien raid on a research installation.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Bernard Behrens",
+        "nm": 67049,
+        "roles": [
+          {
+            "char": "Psychiatrist"
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Martin Cole"
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Dunn",
+        "nm": 242523,
+        "roles": [
+          {
+            "char": "Sarah Cole"
+          }
+        ]
+      },
+      {
+        "name": "Alannah Myles",
+        "nm": 1817597,
+        "roles": [
+          {
+            "char": "Samantha"
+          }
+        ]
+      },
+      {
+        "name": "Peter Millard",
+        "nm": 587744,
+        "roles": [
+          {
+            "char": "Alien #1"
+          }
+        ]
+      },
+      {
+        "name": "Paul Coeur",
+        "nm": 168803,
+        "roles": [
+          {
+            "char": "Alien #2",
+            "as Paul Jolicoeur": true
+          }
+        ]
+      },
+      {
+        "name": "Julie Khaner",
+        "nm": 451364,
+        "roles": [
+          {
+            "char": "Alien Woman"
+          }
+        ]
+      },
+      {
+        "name": "Don Allison",
+        "nm": 21431,
+        "roles": [
+          {
+            "char": "Milton"
+          }
+        ]
+      },
+      {
+        "name": "Roger Montgomery",
+        "nm": 599917,
+        "roles": [
+          {
+            "char": "Henchman"
+          }
+        ]
+      },
+      {
+        "name": "Vito Rezza",
+        "nm": 722166,
+        "roles": [
+          {
+            "char": "Stavrakos",
+            "ch": 173720
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ric Sarabia",
+        "nm": 2878,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Michael Copeman",
+        "nm": 178680,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Mishu Vellani",
+        "nm": 892601,
+        "roles": [
+          {
+            "char": "Woman Student"
+          }
+        ]
+      },
+      {
+        "name": "David Mulholland",
+        "nm": 2069270,
+        "roles": [
+          {
+            "char": "Reverend"
+          }
+        ]
+      },
+      {
+        "name": "Simon Du Toit",
+        "nm": 3527819,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Nick De Kruyff",
+        "nm": 209151,
+        "roles": [
+          {
+            "char": "Human Captive"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "My Soul to Keep",
+    "tt": 744041,
+    "air_date": "1989-04-24",
+    "description": "The aliens are forced to move their unborn infants to a refrigeration facility to save them. Meanwhile Suzanne's ex-husband, an investigative journalist appears, seeking to uncover the truth about the Blackwood project.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Cash McCullough"
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Quinn"
+          }
+        ]
+      },
+      {
+        "name": "Michael Dyson",
+        "nm": 246043,
+        "roles": [
+          {
+            "char": "Farmer"
+          },
+          {
+            "char": "Alien"
+          }
+        ]
+      },
+      {
+        "name": "Bruce McFee",
+        "nm": 568846,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ric Sarabia",
+        "nm": 2878,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Michael Copeman",
+        "nm": 178680,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Vito Rezza",
+        "nm": 722166,
+        "roles": [
+          {
+            "char": "Stavrakos",
+            "ch": 173720
+          }
+        ]
+      },
+      {
+        "name": "Moshin Sherazee",
+        "nm": 1150986,
+        "roles": [
+          {
+            "char": "Cabbie"
+          },
+          {
+            "char": "Alien"
+          }
+        ]
+      },
+      {
+        "name": "Randy Atmadja",
+        "nm": 40871,
+        "roles": [
+          {
+            "char": "Old Clerk",
+            "as Handy Atmadja": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Bidaman",
+        "nm": 81106,
+        "roles": [
+          {
+            "char": "Cooper"
+          }
+        ]
+      },
+      {
+        "name": "Peter Van Wart",
+        "nm": 888257,
+        "roles": [
+          {
+            "char": "Camera Crew #1"
+          }
+        ]
+      },
+      {
+        "name": "Andre Mayers",
+        "nm": 562564,
+        "roles": [
+          {
+            "char": "Camera Crew #2"
+          }
+        ]
+      },
+      {
+        "name": "Myron Senkus",
+        "nm": 2439929,
+        "roles": [
+          {
+            "char": "Man",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "So Shall Ye Reap",
+    "tt": 744046,
+    "air_date": "1989-05-01",
+    "description": "The team set up in Chicago to investigate a spate of kidnappings but encounter resistance from the local police. Nevertheless they discover a secret cell of alien scientists, who are trying to create a designer drug which turns addicts into frenzied killers.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Jill Jacobson",
+        "nm": 414865,
+        "roles": [
+          {
+            "char": "Envoy"
+          }
+        ]
+      },
+      {
+        "name": "Dixie Seatle",
+        "nm": 780818,
+        "roles": [
+          {
+            "char": "Teri Novak"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Welsh",
+        "nm": 920558,
+        "roles": [
+          {
+            "char": "Jack Sawyer"
+          }
+        ]
+      },
+      {
+        "name": "Angelo Rizacos",
+        "nm": 729766,
+        "roles": [
+          {
+            "char": "Young Alien Aide"
+          }
+        ]
+      },
+      {
+        "name": "Isabelle Mejias",
+        "nm": 577187,
+        "roles": [
+          {
+            "char": "Sherry"
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Scott",
+        "nm": 3366133,
+        "roles": [
+          {
+            "char": "Other Woman"
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Director"
+          }
+        ]
+      },
+      {
+        "name": "Shelley-Lynn Owens",
+        "nm": 654462,
+        "roles": [
+          {
+            "char": "Streetwalker"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Scorer",
+        "nm": 778718,
+        "roles": [
+          {
+            "char": "Alien Driver"
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ric Sarabia",
+        "nm": 2878,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Frank Pellegrino",
+        "nm": 671022,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718,
+            "as Frank Pelligrino": true
+          }
+        ]
+      },
+      {
+        "name": "Charlene Richards",
+        "nm": 2010181,
+        "roles": [
+          {
+            "char": "Megan"
+          }
+        ]
+      },
+      {
+        "name": "Charles W. Gray",
+        "nm": 336517,
+        "roles": [
+          {
+            "char": "Businessman",
+            "as Charles Gray": true
+          }
+        ]
+      },
+      {
+        "name": "Allen Kosonic",
+        "nm": 467246,
+        "roles": [
+          {
+            "char": "Cop #1"
+          }
+        ]
+      },
+      {
+        "name": "Phillip Jarrett",
+        "nm": 418960,
+        "roles": [
+          {
+            "char": "Cop #2",
+            "as Phil Jarrett": true
+          }
+        ]
+      },
+      {
+        "name": "Reg Dreger",
+        "nm": 237389,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Gene Mack",
+        "nm": 532984,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Vince Guerriero",
+        "nm": 346304,
+        "roles": [
+          {
+            "char": "Nasty Alien"
+          }
+        ]
+      },
+      {
+        "name": "Myron Senkus",
+        "nm": 2439929,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Benson Simmonds",
+        "nm": 799627,
+        "roles": [
+          {
+            "char": "Busboy",
+            "as Benson Simmons": true
+          }
+        ]
+      },
+      {
+        "name": "Charles Hayter",
+        "nm": 371683,
+        "roles": [
+          {
+            "char": "Bum"
+          }
+        ]
+      },
+      {
+        "name": "John Grima",
+        "nm": 342086,
+        "roles": [
+          {
+            "char": "Coroner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "The Raising of Lazarus",
+    "tt": 744058,
+    "air_date": "1989-05-08",
+    "description": "Near an isolated nuclear research facility an alien scout ship is discovered. As the team arrives and set up their operations, command of the find is handed over to Colonel Alexander and his mysterious Project 9.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Nicolas Coster",
+        "nm": 182661,
+        "roles": [
+          {
+            "char": "Dr. Frederick Alexander"
+          }
+        ]
+      },
+      {
+        "name": "Janet Bailey",
+        "nm": 47299,
+        "roles": [
+          {
+            "char": "Perry"
+          }
+        ]
+      },
+      {
+        "name": "Dale Wilson",
+        "nm": 933232,
+        "roles": [
+          {
+            "char": "Sgt. Tex"
+          }
+        ]
+      },
+      {
+        "name": "Hugh Thompson",
+        "nm": 860217,
+        "roles": [
+          {
+            "char": "Ray"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Lee",
+        "nm": 498368,
+        "roles": [
+          {
+            "char": "Lab Tech #1",
+            "as Tim Lee": true
+          }
+        ]
+      },
+      {
+        "name": "James Rankin",
+        "nm": 710258,
+        "roles": [
+          {
+            "char": "Lab Tech #2"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Hauff",
+        "nm": 369241,
+        "roles": [
+          {
+            "char": "Colonel Manning"
+          }
+        ]
+      },
+      {
+        "name": "John Tench",
+        "nm": 854900,
+        "roles": [
+          {
+            "char": "Worker"
+          }
+        ]
+      },
+      {
+        "name": "Hume Baugh",
+        "nm": 61986,
+        "roles": [
+          {
+            "char": "Man #1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "The Angel of Death",
+    "tt": 744049,
+    "air_date": "1989-05-15",
+    "description": "A competing alien race sends an assassin to eliminate the invading force and to protect humanity.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Elaine Giftos",
+        "nm": 317560,
+        "roles": [
+          {
+            "char": "Q'Tara"
+          }
+        ]
+      },
+      {
+        "name": "John Evans",
+        "nm": 262909,
+        "roles": [
+          {
+            "char": "Jake"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Stephens",
+        "nm": 827129,
+        "roles": [
+          {
+            "char": "Housewife #1"
+          }
+        ]
+      },
+      {
+        "name": "Denise Baillargeon",
+        "nm": 47571,
+        "roles": [
+          {
+            "char": "Housewife #2"
+          }
+        ]
+      },
+      {
+        "name": "Marianne McIsaac",
+        "nm": 570842,
+        "roles": [
+          {
+            "char": "Housewife #3",
+            "as Maryanne McIssac": true
+          }
+        ]
+      },
+      {
+        "name": "Vito Rezza",
+        "nm": 722166,
+        "roles": [
+          {
+            "char": "Stravrakos",
+            "ch": 173720
+          }
+        ]
+      },
+      {
+        "name": "David McKnight",
+        "nm": 572033,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Ilse von Glatz",
+        "nm": 902316,
+        "roles": [
+          {
+            "char": "Advocate #1",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Ric Sarabia",
+        "nm": 2878,
+        "roles": [
+          {
+            "char": "Advocate #2",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Frank Pellegrino",
+        "nm": 671022,
+        "roles": [
+          {
+            "char": "Advocate #3",
+            "ch": 173718
+          }
+        ]
+      },
+      {
+        "name": "Dwight Bacquie",
+        "nm": 45863,
+        "roles": [
+          {
+            "char": "Fireman #1"
+          }
+        ]
+      },
+      {
+        "name": "Peter James Haworth",
+        "nm": 370377,
+        "roles": [
+          {
+            "char": "Fireman #2"
+          }
+        ]
+      },
+      {
+        "name": "Alan Fawcett",
+        "nm": 269479,
+        "roles": [
+          {
+            "char": "Fireman #3"
+          }
+        ]
+      },
+      {
+        "name": "Gerry Mendicino",
+        "nm": 579102,
+        "roles": [
+          {
+            "char": "T.J.",
+            "as Gerry Mendecino": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Blackburn",
+        "nm": 85635,
+        "roles": [
+          {
+            "char": "Fred"
+          }
+        ]
+      },
+      {
+        "name": "Doug Hughes",
+        "nm": 400571,
+        "roles": [
+          {
+            "char": "Man with Glasses"
+          }
+        ]
+      },
+      {
+        "name": "Art Nefsky",
+        "nm": 2438450,
+        "roles": [
+          {
+            "char": "Janitor"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Pellett",
+        "nm": 671152,
+        "roles": [
+          {
+            "char": "Beggar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "The Second Wave",
+    "tt": 744061,
+    "air_date": "1989-10-02",
+    "description": "A new, more advanced generation of aliens known as the Morthren arrive on Earth. Dr Blackwood is saved from a kidnapping by a renegade soldier called John Kincaid. After executing the original alien invaders for failing to conquer humanity, the Morthren aim to destroy Blackwood's team with a clone of Colonel Ironhorse.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Philip Akin",
+        "nm": 15370,
+        "roles": [
+          {
+            "char": "Norton Drake",
+            "ch": 156563
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Richard Chaves",
+        "nm": 154520,
+        "roles": [
+          {
+            "char": "Colonel Paul Ironhorse",
+            "ch": 173719
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Alien Scientist"
+          }
+        ]
+      },
+      {
+        "name": "Sonya Delwaide",
+        "nm": 2822276,
+        "roles": [
+          {
+            "char": "Female Newcomer"
+          }
+        ]
+      },
+      {
+        "name": "James Kirchner",
+        "nm": 456313,
+        "roles": [
+          {
+            "char": "Alien Guard"
+          }
+        ]
+      },
+      {
+        "name": "Aaron Ross Fraser",
+        "nm": 292058,
+        "roles": [
+          {
+            "char": "Plato"
+          }
+        ]
+      },
+      {
+        "name": "Greg Kramer",
+        "nm": 469530,
+        "roles": [
+          {
+            "char": "Addict 1"
+          }
+        ]
+      },
+      {
+        "name": "Michael Woods",
+        "nm": 1592657,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Mairon Bennett",
+        "nm": 71900,
+        "roles": [
+          {
+            "char": "Young Hooker"
+          }
+        ]
+      },
+      {
+        "name": "Richard Zeppieri",
+        "nm": 954999,
+        "roles": [
+          {
+            "char": "Tough Kid"
+          }
+        ]
+      },
+      {
+        "name": "Paul Eves",
+        "nm": 263736,
+        "roles": [
+          {
+            "char": "Marine 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "No Direction Home",
+    "tt": 744043,
+    "air_date": "1989-10-09",
+    "description": "The remaining members of the team set up a new home and try to deal with their grief. The Morthren also have to find a fresh refuge and as part of this they kidnap and duplicate a priest who runs a homeless shelter.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Angelo Rizacos",
+        "nm": 729766,
+        "roles": [
+          {
+            "char": "Father Tim"
+          }
+        ]
+      },
+      {
+        "name": "Peter Blais",
+        "nm": 86407,
+        "roles": [
+          {
+            "char": "Ralph"
+          }
+        ]
+      },
+      {
+        "name": "Denise Fergusson",
+        "nm": 272645,
+        "roles": [
+          {
+            "char": "Lady at Mission"
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Kevin Rushton",
+        "nm": 750764,
+        "roles": [
+          {
+            "char": "Ex-Biker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Doomsday",
+    "tt": 744033,
+    "air_date": "1989-10-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Kurt Reis",
+        "nm": 718335,
+        "roles": [
+          {
+            "char": "Reverend Thomas Solter"
+          }
+        ]
+      },
+      {
+        "name": "Diana Reis",
+        "nm": 718310,
+        "roles": [
+          {
+            "char": "Grace"
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Nathaniel Moreau",
+        "nm": 603425,
+        "roles": [
+          {
+            "char": "Steven"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Phillips",
+        "nm": 680691,
+        "roles": [
+          {
+            "char": "Bayda"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Black",
+        "nm": 85516,
+        "roles": [
+          {
+            "char": "Gates"
+          }
+        ]
+      },
+      {
+        "name": "Donnie Bowes",
+        "nm": 101128,
+        "roles": [
+          {
+            "char": "Jones"
+          }
+        ]
+      },
+      {
+        "name": "Vince Guerriero",
+        "nm": 346304,
+        "roles": [
+          {
+            "char": "Barrows"
+          }
+        ]
+      },
+      {
+        "name": "Frank Blanch",
+        "nm": 87008,
+        "roles": [
+          {
+            "char": "Desperate Man"
+          }
+        ]
+      },
+      {
+        "name": "Gerry Pearson",
+        "nm": 669262,
+        "roles": [
+          {
+            "char": "Parishioner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Terminal Rock",
+    "tt": 744048,
+    "air_date": "1989-10-23",
+    "description": "The aliens take over the members of a punk rock band and add a secret electronic signal to their music which will drive young people into a violent frenzy. Meanwhile Kincaid begins a romance with his late brother's girlfriend.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Shannon Lawson",
+        "nm": 493327,
+        "roles": [
+          {
+            "char": "Rosa"
+          }
+        ]
+      },
+      {
+        "name": "Jaimz Woolvett",
+        "nm": 941316,
+        "roles": [
+          {
+            "char": "Larry"
+          }
+        ]
+      },
+      {
+        "name": "Paul Bettis",
+        "nm": 79378,
+        "roles": [
+          {
+            "char": "Sol"
+          },
+          {
+            "char": "Dennis Lawson"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence King",
+        "nm": 1035612,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Dylan Neal",
+        "nm": 623604,
+        "roles": [
+          {
+            "char": "Scavenger 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Breeding Ground",
+    "tt": 744030,
+    "air_date": "1989-10-30",
+    "description": "Mana forces a dying surgeon to conduct experiments on patients in his hospital, attempting to implant alien embryos into human hosts.",
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Helen Hughes",
+        "nm": 400647,
+        "roles": [
+          {
+            "char": "Kate Barrows"
+          }
+        ]
+      },
+      {
+        "name": "Gerard Parkes",
+        "nm": 662730,
+        "roles": [
+          {
+            "char": "Dr. Emil Gestaine"
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Patricia Phillips",
+        "nm": 680691,
+        "roles": [
+          {
+            "char": "Bayda"
+          }
+        ]
+      },
+      {
+        "name": "James Knapp",
+        "nm": 460492,
+        "roles": [
+          {
+            "char": "Eddie"
+          }
+        ]
+      },
+      {
+        "name": "John Dee",
+        "nm": 214189,
+        "roles": [
+          {
+            "char": "Mailman"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Leslie",
+        "nm": 504095,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Sandra Caldwell",
+        "nm": 129783,
+        "roles": [
+          {
+            "char": "5th Floor Nurse"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "Seft of Emun",
+    "tt": 744045,
+    "air_date": "1989-11-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Laura Press",
+        "nm": 696230,
+        "roles": [
+          {
+            "char": "Seft"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Snow",
+        "nm": 795281,
+        "roles": [
+          {
+            "char": "Blade"
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Illya Woloshyn",
+        "nm": 938655,
+        "roles": [
+          {
+            "char": "Torri"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Loving the Alien",
+    "tt": 744039,
+    "air_date": "1989-11-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Eugene Robert Glazer",
+        "nm": 322239,
+        "roles": [
+          {
+            "char": "Marcus Crane",
+            "as Eugene Glazer": true
+          }
+        ]
+      },
+      {
+        "name": "Keram Malicki-Sánchez",
+        "nm": 539537,
+        "roles": [
+          {
+            "char": "Ceeto",
+            "ch": 90209
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Elliot Smith",
+        "nm": 808128,
+        "roles": [
+          {
+            "char": "Dix"
+          }
+        ]
+      },
+      {
+        "name": "Mia Kirshner",
+        "nm": 477,
+        "roles": [
+          {
+            "char": "Jo"
+          }
+        ]
+      },
+      {
+        "name": "Cal Wilson",
+        "nm": 933124,
+        "roles": [
+          {
+            "char": "Cappy"
+          }
+        ]
+      },
+      {
+        "name": "Louis Tucci",
+        "nm": 875697,
+        "roles": [
+          {
+            "char": "Packrat"
+          }
+        ]
+      },
+      {
+        "name": "Larry A. McLean",
+        "nm": 572596,
+        "roles": [
+          {
+            "char": "Mercenary",
+            "as Larry McLean": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Night Moves",
+    "tt": 744042,
+    "air_date": "1989-11-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Ken Pogue",
+        "nm": 688285,
+        "roles": [
+          {
+            "char": "John"
+          }
+        ]
+      },
+      {
+        "name": "Sally Chamberlin",
+        "nm": 150265,
+        "roles": [
+          {
+            "char": "Rebecca"
+          }
+        ]
+      },
+      {
+        "name": "Wayne Best",
+        "nm": 79007,
+        "roles": [
+          {
+            "char": "Paul Fox"
+          }
+        ]
+      },
+      {
+        "name": "Meg Hogarth",
+        "nm": 389648,
+        "roles": [
+          {
+            "char": "Shirley"
+          }
+        ]
+      },
+      {
+        "name": "Dale Wilson",
+        "nm": 933232,
+        "roles": [
+          {
+            "char": "Roy"
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Belinda Metz",
+        "nm": 582671,
+        "roles": [
+          {
+            "char": "Scoggs"
+          }
+        ]
+      },
+      {
+        "name": "Leonard Chow",
+        "nm": 159476,
+        "roles": [
+          {
+            "char": "Farmer"
+          }
+        ]
+      },
+      {
+        "name": "John Thallon",
+        "nm": 3575447,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Ted Ludzik",
+        "nm": 525076,
+        "roles": [
+          {
+            "char": "Morthren Worker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Synthetic Love",
+    "tt": 744047,
+    "air_date": "1990-01-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Vlasta Vrana",
+        "nm": 903985,
+        "roles": [
+          {
+            "char": "Jonathan Laporte"
+          }
+        ]
+      },
+      {
+        "name": "Sam Malkin",
+        "nm": 539809,
+        "roles": [
+          {
+            "char": "Mr. Jimmy"
+          }
+        ]
+      },
+      {
+        "name": "Kathryn Rose",
+        "nm": 741511,
+        "roles": [
+          {
+            "char": "Rene Laporte"
+          }
+        ]
+      },
+      {
+        "name": "Richard Sali",
+        "nm": 758251,
+        "roles": [
+          {
+            "char": "Aide"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Phillips",
+        "nm": 680691,
+        "roles": [
+          {
+            "char": "Bayda"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Scorer",
+        "nm": 778718,
+        "roles": [
+          {
+            "char": "Lunatic"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Horst",
+        "nm": 395470,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Dean Richards Wiancko",
+        "nm": 724050,
+        "roles": [
+          {
+            "char": "Drug Dealer",
+            "as Dean Richards": true
+          }
+        ]
+      },
+      {
+        "name": "Gigi De Leon",
+        "nm": 209655,
+        "roles": [
+          {
+            "char": "Young Woman"
+          }
+        ]
+      },
+      {
+        "name": "R.D. Reid",
+        "nm": 717395,
+        "roles": [
+          {
+            "char": "Druggist"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Beeler",
+        "nm": 2487808,
+        "roles": [
+          {
+            "char": "Scientist"
+          }
+        ]
+      },
+      {
+        "name": "Réal Andrews",
+        "nm": 28837,
+        "roles": [
+          {
+            "char": "Man in Bar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "The Defector",
+    "tt": 744051,
+    "air_date": "1990-01-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Charles McCaughan",
+        "nm": 565470,
+        "roles": [
+          {
+            "char": "Kemo"
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Belinda Metz",
+        "nm": 582671,
+        "roles": [
+          {
+            "char": "Scoggs"
+          }
+        ]
+      },
+      {
+        "name": "Charles Kerr",
+        "nm": 449665,
+        "roles": [
+          {
+            "char": "Ace"
+          }
+        ]
+      },
+      {
+        "name": "Alan Feiman",
+        "nm": 270636,
+        "roles": [
+          {
+            "char": "Lonelyheart"
+          }
+        ]
+      },
+      {
+        "name": "Paul Coeur",
+        "nm": 168803,
+        "roles": [
+          {
+            "char": "Roller",
+            "as Paul Jolicoeur": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Time to Reap",
+    "tt": 744028,
+    "air_date": "1990-01-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Paula Barrett",
+        "nm": 57247,
+        "roles": [
+          {
+            "char": "Miranda"
+          }
+        ]
+      },
+      {
+        "name": "George R. Robertson",
+        "nm": 731849,
+        "roles": [
+          {
+            "char": "General Mann"
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Martha Irving",
+        "nm": 410306,
+        "roles": [
+          {
+            "char": "Sylvia"
+          }
+        ]
+      },
+      {
+        "name": "Amos Crawley",
+        "nm": 187004,
+        "roles": [
+          {
+            "char": "Young Harrison"
+          }
+        ]
+      },
+      {
+        "name": "Seirge LeBlanc",
+        "nm": 495758,
+        "roles": [
+          {
+            "char": "Tommy"
+          }
+        ]
+      },
+      {
+        "name": "Brian Furlong",
+        "nm": 298943,
+        "roles": [
+          {
+            "char": "Aide"
+          }
+        ]
+      },
+      {
+        "name": "Alan Argue",
+        "nm": 34540,
+        "roles": [
+          {
+            "char": "Reporter #1"
+          }
+        ]
+      },
+      {
+        "name": "Lorne Pardy",
+        "nm": 661171,
+        "roles": [
+          {
+            "char": "Reporter #2"
+          }
+        ]
+      },
+      {
+        "name": "Gerry Quigley",
+        "nm": 703499,
+        "roles": [
+          {
+            "char": "Cab Driver"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "The Pied Piper",
+    "tt": 744056,
+    "air_date": "1990-02-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Joel Carlson",
+        "nm": 137941,
+        "roles": [
+          {
+            "char": "Adam"
+          }
+        ]
+      },
+      {
+        "name": "Ron Lea",
+        "nm": 494784,
+        "roles": [
+          {
+            "char": "Paul Daniels"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Jakub",
+        "nm": 4356,
+        "roles": [
+          {
+            "char": "Julie"
+          }
+        ]
+      },
+      {
+        "name": "Tanja Jacobs",
+        "nm": 414657,
+        "roles": [
+          {
+            "char": "Miss Gholston"
+          }
+        ]
+      },
+      {
+        "name": "Dominic Cuzzocrea",
+        "nm": 194092,
+        "roles": [
+          {
+            "char": "Bill",
+            "as Domenic Cuzzocrea": true
+          }
+        ]
+      },
+      {
+        "name": "Marc Marut",
+        "nm": 555450,
+        "roles": [
+          {
+            "char": "Patrick"
+          }
+        ]
+      },
+      {
+        "name": "Michael Copeman",
+        "nm": 178680,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Nadine MacKinnon",
+        "nm": 533571,
+        "roles": [
+          {
+            "char": "Mrs. Daniels"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "The Deadliest Disease",
+    "tt": 744050,
+    "air_date": "1990-02-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "James Purcell",
+        "nm": 700725,
+        "roles": [
+          {
+            "char": "Brock"
+          }
+        ]
+      },
+      {
+        "name": "Joon Kim",
+        "nm": 453538,
+        "roles": [
+          {
+            "char": "Bing"
+          }
+        ]
+      },
+      {
+        "name": "Elias Zarou",
+        "nm": 953558,
+        "roles": [
+          {
+            "char": "Abraham"
+          }
+        ]
+      },
+      {
+        "name": "Alex Karzis",
+        "nm": 440351,
+        "roles": [
+          {
+            "char": "Gerry"
+          }
+        ]
+      },
+      {
+        "name": "Aki Aleong",
+        "nm": 18080,
+        "roles": [
+          {
+            "char": "Tao"
+          }
+        ]
+      },
+      {
+        "name": "John Evans",
+        "nm": 262909,
+        "roles": [
+          {
+            "char": "Colonel West"
+          }
+        ]
+      },
+      {
+        "name": "Gene Mack",
+        "nm": 532984,
+        "roles": [
+          {
+            "char": "Wiley"
+          }
+        ]
+      },
+      {
+        "name": "Denis Akiyama",
+        "nm": 15124,
+        "roles": [
+          {
+            "char": "Chin"
+          }
+        ]
+      },
+      {
+        "name": "Robert Lee",
+        "nm": 498104,
+        "roles": [
+          {
+            "char": "Vendor"
+          }
+        ]
+      },
+      {
+        "name": "Matt Birman",
+        "nm": 83641,
+        "roles": [
+          {
+            "char": "Thief"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "Path of Lies",
+    "tt": 744044,
+    "air_date": "1990-02-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "David Ferry",
+        "nm": 275072,
+        "roles": [
+          {
+            "char": "Marc Traynor"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Behrens",
+        "nm": 67049,
+        "roles": [
+          {
+            "char": "Jennings"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Gordon",
+        "nm": 329876,
+        "roles": [
+          {
+            "char": "Bebe Gardner"
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Maurice E. Evans",
+        "nm": 2824913,
+        "roles": [
+          {
+            "char": "W.R. Samuels",
+            "as Maurice Evans": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Doyle",
+        "nm": 236439,
+        "roles": [
+          {
+            "char": "Rob Nunn"
+          }
+        ]
+      },
+      {
+        "name": "Nadia Capone",
+        "nm": 135347,
+        "roles": [
+          {
+            "char": "Maureen"
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Salo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E15",
+    "title": "Candle in the Night",
+    "tt": 744031,
+    "air_date": "1990-04-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Noam Zylberman",
+        "nm": 959112,
+        "roles": [
+          {
+            "char": "Nate"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Webster",
+        "nm": 917001,
+        "roles": [
+          {
+            "char": "Gunther"
+          }
+        ]
+      },
+      {
+        "name": "Gema Zamprogna",
+        "nm": 952779,
+        "roles": [
+          {
+            "char": "Sam Fisher"
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Marlow Vella",
+        "nm": 892589,
+        "roles": [
+          {
+            "char": "Ralph"
+          }
+        ]
+      },
+      {
+        "name": "Krista Houston",
+        "nm": 1058549,
+        "roles": [
+          {
+            "char": "Lisa"
+          }
+        ]
+      },
+      {
+        "name": "Nicolas Van Burek",
+        "nm": 885807,
+        "roles": [
+          {
+            "char": "Joe"
+          }
+        ]
+      },
+      {
+        "name": "Sam Moses",
+        "nm": 608623,
+        "roles": [
+          {
+            "char": "Sal"
+          }
+        ]
+      },
+      {
+        "name": "Jayne Eastwood",
+        "nm": 247720,
+        "roles": [
+          {
+            "char": "Grace"
+          }
+        ]
+      },
+      {
+        "name": "Rob MacInally",
+        "nm": 532812,
+        "roles": [
+          {
+            "char": "Zeel",
+            "as Rob McInally": true
+          }
+        ]
+      },
+      {
+        "name": "Pat Mastroianni",
+        "nm": 3958,
+        "roles": [
+          {
+            "char": "Pitcher"
+          }
+        ]
+      },
+      {
+        "name": "Nigel Tan",
+        "nm": 3596747,
+        "roles": [
+          {
+            "char": "2nd Baseman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E16",
+    "title": "Video Messiah",
+    "tt": 744069,
+    "air_date": "1990-04-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Roy Thinnes",
+        "nm": 858186,
+        "roles": [
+          {
+            "char": "Van Order"
+          }
+        ]
+      },
+      {
+        "name": "Lori Hallier",
+        "nm": 356590,
+        "roles": [
+          {
+            "char": "Mindy Cooper"
+          }
+        ]
+      },
+      {
+        "name": "Alex Carter",
+        "nm": 141450,
+        "roles": [
+          {
+            "char": "Clark"
+          }
+        ]
+      },
+      {
+        "name": "Larry Joshua",
+        "nm": 430829,
+        "roles": [
+          {
+            "char": "Hardy Galt"
+          }
+        ]
+      },
+      {
+        "name": "Keith Knight",
+        "nm": 460974,
+        "roles": [
+          {
+            "char": "Bob"
+          }
+        ]
+      },
+      {
+        "name": "Angela Dohrmann",
+        "nm": 230658,
+        "roles": [
+          {
+            "char": "Jane"
+          }
+        ]
+      },
+      {
+        "name": "Michael Caruana",
+        "nm": 142237,
+        "roles": [
+          {
+            "char": "Kurt"
+          }
+        ]
+      },
+      {
+        "name": "Denise McLeod",
+        "nm": 572792,
+        "roles": [
+          {
+            "char": "Sara"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Coy",
+        "nm": 185340,
+        "roles": [
+          {
+            "char": "Staff Member"
+          }
+        ]
+      },
+      {
+        "name": "Randy Butcher",
+        "nm": 124706,
+        "roles": [
+          {
+            "char": "Thief"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E17",
+    "title": "Totally Real",
+    "tt": 744065,
+    "air_date": "1990-04-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Colm Feore",
+        "nm": 272173,
+        "roles": [
+          {
+            "char": "Nikita"
+          }
+        ]
+      },
+      {
+        "name": "Tre Smith",
+        "nm": 810218,
+        "roles": [
+          {
+            "char": "David",
+            "as Trevor Cameron Smith": true
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Belinda Metz",
+        "nm": 582671,
+        "roles": [
+          {
+            "char": "Scoggs"
+          }
+        ]
+      },
+      {
+        "name": "Michael Woods",
+        "nm": 1592657,
+        "roles": [
+          {
+            "char": "Sendac"
+          }
+        ]
+      },
+      {
+        "name": "John Tench",
+        "nm": 854900,
+        "roles": [
+          {
+            "char": "Gambler 1"
+          }
+        ]
+      },
+      {
+        "name": "Elena Kudaba",
+        "nm": 473740,
+        "roles": [
+          {
+            "char": "Gambler 2"
+          }
+        ]
+      },
+      {
+        "name": "Antony Audian",
+        "nm": 3610883,
+        "roles": [
+          {
+            "char": "Hood"
+          }
+        ]
+      },
+      {
+        "name": "Peter Szkoda",
+        "nm": 844153,
+        "roles": [
+          {
+            "char": "Stoner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E18",
+    "title": "Max",
+    "tt": 744040,
+    "air_date": "1990-04-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "Michael Welden",
+        "nm": 919702,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Shamata",
+        "nm": 787825,
+        "roles": [
+          {
+            "char": "Bradley"
+          }
+        ]
+      },
+      {
+        "name": "Belinda Metz",
+        "nm": 582671,
+        "roles": [
+          {
+            "char": "Scoggs"
+          }
+        ]
+      },
+      {
+        "name": "Michael Rhoades",
+        "nm": 722322,
+        "roles": [
+          {
+            "char": "Zak"
+          }
+        ]
+      },
+      {
+        "name": "Jill Hennessy",
+        "nm": 5007,
+        "roles": [
+          {
+            "char": "Scott"
+          }
+        ]
+      },
+      {
+        "name": "Markus Parilo",
+        "nm": 661508,
+        "roles": [
+          {
+            "char": "Desk Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Barclay Hope",
+        "nm": 393953,
+        "roles": [
+          {
+            "char": "MP"
+          }
+        ]
+      },
+      {
+        "name": "Jorge Montesi",
+        "nm": 599624,
+        "roles": [
+          {
+            "char": "Gomes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E19",
+    "title": "The True Believer",
+    "tt": 744066,
+    "air_date": "1990-05-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Timothy Webber",
+        "nm": 916448,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Michael Hogan",
+        "nm": 389581,
+        "roles": [
+          {
+            "char": "Nash"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Dale",
+        "nm": 197797,
+        "roles": [
+          {
+            "char": "Hook"
+          }
+        ]
+      },
+      {
+        "name": "Leslie Toth",
+        "nm": 869342,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Sandi Stahlbrand",
+        "nm": 821507,
+        "roles": [
+          {
+            "char": "Newscaster"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E20",
+    "title": "The Obelisk",
+    "tt": 744055,
+    "air_date": "1990-05-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jared Martin",
+        "nm": 552474,
+        "roles": [
+          {
+            "char": "Harrison Blackwood",
+            "ch": 3652
+          }
+        ]
+      },
+      {
+        "name": "Lynda Mason Green",
+        "nm": 338116,
+        "roles": [
+          {
+            "char": "Suzanne McCullough",
+            "ch": 209088
+          }
+        ]
+      },
+      {
+        "name": "Adrian Paul",
+        "nm": 1600,
+        "roles": [
+          {
+            "char": "John Kincaid",
+            "ch": 3648
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Malzor",
+            "ch": 3655
+          }
+        ]
+      },
+      {
+        "name": "Catherine Disher",
+        "nm": 228324,
+        "roles": [
+          {
+            "char": "Mana",
+            "ch": 3654
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blanchard",
+        "nm": 4761,
+        "roles": [
+          {
+            "char": "Debi McCullough",
+            "ch": 3649
+          }
+        ]
+      },
+      {
+        "name": "John Gilbert",
+        "nm": 318106,
+        "roles": [
+          {
+            "char": "Tallick"
+          }
+        ]
+      },
+      {
+        "name": "Keram Malicki-Sánchez",
+        "nm": 539537,
+        "roles": [
+          {
+            "char": "Ceeto",
+            "ch": 90209
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Dale",
+        "nm": 197664,
+        "roles": [
+          {
+            "char": "Tila"
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Ardix",
+            "ch": 3650
+          }
+        ]
+      },
+      {
+        "name": "Patricia Phillips",
+        "nm": 680691,
+        "roles": [
+          {
+            "char": "Bayda"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "se": "S01E01",
+    "title": "On the Other Hand",
+    "tt": 887668,
+    "air_date": "1992-06-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ivan Kaye",
+        "nm": 443321,
+        "roles": [
+          {
+            "char": "DI Sam Saturday",
+            "ch": 131086
+          }
+        ]
+      },
+      {
+        "name": "Rubina Akhtar",
+        "nm": 2429016,
+        "roles": [
+          {
+            "char": "WPC Krishnan"
+          }
+        ]
+      },
+      {
+        "name": "Peter Armitage",
+        "nm": 35513,
+        "roles": [
+          {
+            "char": "Jim Butler",
+            "ch": 131085
+          }
+        ]
+      },
+      {
+        "name": "Gary Brown",
+        "nm": 1547035,
+        "roles": [
+          {
+            "char": "Clive"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Church",
+        "nm": 161369,
+        "roles": [
+          {
+            "char": "DC Enright"
+          }
+        ]
+      },
+      {
+        "name": "Peter Cockett",
+        "nm": 168332,
+        "roles": [
+          {
+            "char": "PC Warner"
+          }
+        ]
+      },
+      {
+        "name": "Lucy Cohu",
+        "nm": 169982,
+        "roles": [
+          {
+            "char": "Jill Connor"
+          }
+        ]
+      },
+      {
+        "name": "Simon Corris",
+        "nm": 181023,
+        "roles": [
+          {
+            "char": "PC Merry"
+          }
+        ]
+      },
+      {
+        "name": "Tim Diggle",
+        "nm": 226513,
+        "roles": [
+          {
+            "char": "PC Smith"
+          }
+        ]
+      },
+      {
+        "name": "Michael Elwyn",
+        "nm": 255914,
+        "roles": [
+          {
+            "char": "CDI Simpson",
+            "ch": 206359
+          }
+        ]
+      },
+      {
+        "name": "David Fleeshman",
+        "nm": 281418,
+        "roles": [
+          {
+            "char": "Michael Sterne",
+            "ch": 179761
+          }
+        ]
+      },
+      {
+        "name": "Jan Goodman",
+        "nm": 329108,
+        "roles": [
+          {
+            "char": "Jean Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Tracie Hart",
+        "nm": 366563,
+        "roles": [
+          {
+            "char": "Carol Greenburg"
+          }
+        ]
+      },
+      {
+        "name": "Terence Harvey",
+        "nm": 367731,
+        "roles": [
+          {
+            "char": "Sidney Elkins"
+          }
+        ]
+      },
+      {
+        "name": "Candice Jacobs",
+        "nm": 2434626,
+        "roles": [
+          {
+            "char": "Joanne Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Jacobs",
+        "nm": 2428816,
+        "roles": [
+          {
+            "char": "Miriam Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Dominic Jephcott",
+        "nm": 421826,
+        "roles": [
+          {
+            "char": "Roger Holbrook"
+          }
+        ]
+      },
+      {
+        "name": "Rowena King",
+        "nm": 455242,
+        "roles": [
+          {
+            "char": "Sandra Morrisey"
+          }
+        ]
+      },
+      {
+        "name": "Paul Leadbitter",
+        "nm": 2429795,
+        "roles": [
+          {
+            "char": "Dr. Ellis"
+          }
+        ]
+      },
+      {
+        "name": "Helen Levien",
+        "nm": 2434757,
+        "roles": [
+          {
+            "char": "WPC Daniels"
+          }
+        ]
+      },
+      {
+        "name": "David MacCreedy",
+        "nm": 531562,
+        "roles": [
+          {
+            "char": "PC Grieveson"
+          }
+        ]
+      },
+      {
+        "name": "Doreen Mantle",
+        "nm": 544140,
+        "roles": [
+          {
+            "char": "Rita Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Gareth Marks",
+        "nm": 548828,
+        "roles": [
+          {
+            "char": "Harry Greenburg"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Marsh",
+        "nm": 550624,
+        "roles": [
+          {
+            "char": "Neil Farrell"
+          }
+        ]
+      },
+      {
+        "name": "Adam Maxwell",
+        "nm": 561642,
+        "roles": [
+          {
+            "char": "Chivers SOCO"
+          }
+        ]
+      },
+      {
+        "name": "Fiona Mollison",
+        "nm": 597074,
+        "roles": [
+          {
+            "char": "Pamela Gundry"
+          }
+        ]
+      },
+      {
+        "name": "Paul Opacic",
+        "nm": 649037,
+        "roles": [
+          {
+            "char": "DC Knights",
+            "ch": 390013
+          }
+        ]
+      },
+      {
+        "name": "Amica Pavey",
+        "nm": 2429903,
+        "roles": [
+          {
+            "char": "Vicki Lewis"
+          }
+        ]
+      },
+      {
+        "name": "Simon Slater",
+        "nm": 805431,
+        "roles": [
+          {
+            "char": "DI Griffith",
+            "ch": 86648
+          }
+        ]
+      },
+      {
+        "name": "Dennis Victory",
+        "nm": 1307758,
+        "roles": [
+          {
+            "char": "Mike"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Wait",
+        "nm": 906585,
+        "roles": [
+          {
+            "char": "Charlie Grant"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Whittingham",
+        "nm": 926522,
+        "roles": [
+          {
+            "char": "Dr. McGibbon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Home Free",
+    "tt": 887666,
+    "air_date": "1992-07-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ivan Kaye",
+        "nm": 443321,
+        "roles": [
+          {
+            "char": "DI Sam Saturday",
+            "ch": 131086
+          }
+        ]
+      },
+      {
+        "name": "Peter Armitage",
+        "nm": 35513,
+        "roles": [
+          {
+            "char": "Jim Butler",
+            "ch": 131085
+          }
+        ]
+      },
+      {
+        "name": "Kate Buffery",
+        "nm": 119357,
+        "roles": [
+          {
+            "char": "Angela Munroe"
+          }
+        ]
+      },
+      {
+        "name": "Michael Elwyn",
+        "nm": 255914,
+        "roles": [
+          {
+            "char": "CDI Simpson",
+            "ch": 206359
+          }
+        ]
+      },
+      {
+        "name": "Desmond Gill",
+        "nm": 318651,
+        "roles": [
+          {
+            "char": "Dan Mincu"
+          }
+        ]
+      },
+      {
+        "name": "Sarah-Jane Holm",
+        "nm": 391563,
+        "roles": [
+          {
+            "char": "Judith"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Jones",
+        "nm": 428933,
+        "roles": [
+          {
+            "char": "Godfrey Hill"
+          }
+        ]
+      },
+      {
+        "name": "Bill Leadbitter",
+        "nm": 494901,
+        "roles": [
+          {
+            "char": "Dr. Ellis"
+          }
+        ]
+      },
+      {
+        "name": "Helen Levien",
+        "nm": 2434757,
+        "roles": [
+          {
+            "char": "WPC Daniels"
+          }
+        ]
+      },
+      {
+        "name": "Doreen Mantle",
+        "nm": 544140,
+        "roles": [
+          {
+            "char": "Rita Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Paul Opacic",
+        "nm": 649037,
+        "roles": [
+          {
+            "char": "DC Knights",
+            "ch": 390013
+          }
+        ]
+      },
+      {
+        "name": "Simon Slater",
+        "nm": 805431,
+        "roles": [
+          {
+            "char": "DI Griffith",
+            "ch": 86648
+          }
+        ]
+      },
+      {
+        "name": "Dennis Victory",
+        "nm": 1307758,
+        "roles": [
+          {
+            "char": "Mike"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Street Life",
+    "tt": 887669,
+    "air_date": "1992-07-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ivan Kaye",
+        "nm": 443321,
+        "roles": [
+          {
+            "char": "DI Sam Saturday",
+            "ch": 131086
+          }
+        ]
+      },
+      {
+        "name": "Peter Armitage",
+        "nm": 35513,
+        "roles": [
+          {
+            "char": "Jim Butler",
+            "ch": 131085
+          }
+        ]
+      },
+      {
+        "name": "John Burgess",
+        "nm": 121308,
+        "roles": [
+          {
+            "char": "Rabbi Levene"
+          }
+        ]
+      },
+      {
+        "name": "Eric Carte",
+        "nm": 141422,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Michael Elwyn",
+        "nm": 255914,
+        "roles": [
+          {
+            "char": "CDI Simpson",
+            "ch": 206359
+          }
+        ]
+      },
+      {
+        "name": "David Fleeshman",
+        "nm": 281418,
+        "roles": [
+          {
+            "char": "Michael Sterne",
+            "ch": 179761
+          }
+        ]
+      },
+      {
+        "name": "Tracie Hart",
+        "nm": 366563,
+        "roles": [
+          {
+            "char": "Carol Greenburg"
+          }
+        ]
+      },
+      {
+        "name": "Doron Jacobs",
+        "nm": 3583442,
+        "roles": [
+          {
+            "char": "Doron"
+          }
+        ]
+      },
+      {
+        "name": "Doreen Mantle",
+        "nm": 544140,
+        "roles": [
+          {
+            "char": "Rita Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Gareth Marks",
+        "nm": 548828,
+        "roles": [
+          {
+            "char": "Harry Greenburg"
+          }
+        ]
+      },
+      {
+        "name": "Simeon Pearl",
+        "nm": 669092,
+        "roles": [
+          {
+            "char": "Ben Miller"
+          }
+        ]
+      },
+      {
+        "name": "Danny Scheinmann",
+        "nm": 770652,
+        "roles": [
+          {
+            "char": "Mark Shapiro"
+          }
+        ]
+      },
+      {
+        "name": "Simon Slater",
+        "nm": 805431,
+        "roles": [
+          {
+            "char": "DI Griffiths",
+            "ch": 86648
+          }
+        ]
+      },
+      {
+        "name": "Dennis Victory",
+        "nm": 1307758,
+        "roles": [
+          {
+            "char": "Mike"
+          }
+        ]
+      },
+      {
+        "name": "David Wengrow",
+        "nm": 2429624,
+        "roles": [
+          {
+            "char": "David Levy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Chocolates Would Be Nicer",
+    "tt": 887665,
+    "air_date": "1992-07-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ivan Kaye",
+        "nm": 443321,
+        "roles": [
+          {
+            "char": "DI Sam Saturday",
+            "ch": 131086
+          }
+        ]
+      },
+      {
+        "name": "Peter Armitage",
+        "nm": 35513,
+        "roles": [
+          {
+            "char": "Jim Butler",
+            "ch": 131085
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Church",
+        "nm": 161369,
+        "roles": [
+          {
+            "char": "DC Enright"
+          }
+        ]
+      },
+      {
+        "name": "Michael Elwyn",
+        "nm": 255914,
+        "roles": [
+          {
+            "char": "CDI Simpson",
+            "ch": 206359
+          }
+        ]
+      },
+      {
+        "name": "David Fleeshman",
+        "nm": 281418,
+        "roles": [
+          {
+            "char": "Michael Sterne",
+            "ch": 179761
+          }
+        ]
+      },
+      {
+        "name": "Paul Gregory",
+        "nm": 339919,
+        "roles": [
+          {
+            "char": "Alastair 1993"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Jacobs",
+        "nm": 2428816,
+        "roles": [
+          {
+            "char": "Miriam Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Helen Levien",
+        "nm": 2434757,
+        "roles": [
+          {
+            "char": "WPC Daniels"
+          }
+        ]
+      },
+      {
+        "name": "Doreen Mantle",
+        "nm": 544140,
+        "roles": [
+          {
+            "char": "Rita Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Paul Opacic",
+        "nm": 649037,
+        "roles": [
+          {
+            "char": "DC Knights",
+            "ch": 390013
+          }
+        ]
+      },
+      {
+        "name": "Simon Slater",
+        "nm": 805431,
+        "roles": [
+          {
+            "char": "DI Griffiths",
+            "ch": 86648
+          }
+        ]
+      },
+      {
+        "name": "Dennis Victory",
+        "nm": 1307758,
+        "roles": [
+          {
+            "char": "Mike"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Judgement",
+    "tt": 887667,
+    "air_date": "1992-08-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ivan Kaye",
+        "nm": 443321,
+        "roles": [
+          {
+            "char": "DI Sam Saturday",
+            "ch": 131086
+          }
+        ]
+      },
+      {
+        "name": "Peter Armitage",
+        "nm": 35513,
+        "roles": [
+          {
+            "char": "Jim Butler",
+            "ch": 131085
+          }
+        ]
+      },
+      {
+        "name": "Sally Dexter",
+        "nm": 223327,
+        "roles": [
+          {
+            "char": "Susan"
+          }
+        ]
+      },
+      {
+        "name": "Michael Elwyn",
+        "nm": 255914,
+        "roles": [
+          {
+            "char": "CDI Simpson",
+            "ch": 206359
+          }
+        ]
+      },
+      {
+        "name": "David Fleeshman",
+        "nm": 281418,
+        "roles": [
+          {
+            "char": "Michael Sterne",
+            "ch": 179761
+          }
+        ]
+      },
+      {
+        "name": "Lauren Jacobs",
+        "nm": 2428816,
+        "roles": [
+          {
+            "char": "Miriam Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Doreen Mantle",
+        "nm": 544140,
+        "roles": [
+          {
+            "char": "Rita Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Simon Slater",
+        "nm": 805431,
+        "roles": [
+          {
+            "char": "DI Griffiths",
+            "ch": 86648
+          }
+        ]
+      },
+      {
+        "name": "Dennis Victory",
+        "nm": 1307758,
+        "roles": [
+          {
+            "char": "Mike"
+          }
+        ]
+      },
+      {
+        "name": "Lindy Whiteford",
+        "nm": 925656,
+        "roles": [
+          {
+            "char": "Mrs. Marsopp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "A Chemical Reaction",
+    "tt": 887664,
+    "air_date": "1992-08-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ivan Kaye",
+        "nm": 443321,
+        "roles": [
+          {
+            "char": "DI Sam Saturday",
+            "ch": 131086
+          }
+        ]
+      },
+      {
+        "name": "Peter Armitage",
+        "nm": 35513,
+        "roles": [
+          {
+            "char": "Jim Butler",
+            "ch": 131085
+          }
+        ]
+      },
+      {
+        "name": "Diane Bull",
+        "nm": 119963,
+        "roles": [
+          {
+            "char": "Wendy"
+          }
+        ]
+      },
+      {
+        "name": "Sally Dexter",
+        "nm": 223327,
+        "roles": [
+          {
+            "char": "Susan"
+          }
+        ]
+      },
+      {
+        "name": "David Fleeshman",
+        "nm": 281418,
+        "roles": [
+          {
+            "char": "Michael Sterne",
+            "ch": 179761
+          }
+        ]
+      },
+      {
+        "name": "Lauren Jacobs",
+        "nm": 2428816,
+        "roles": [
+          {
+            "char": "Miriam Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Doreen Mantle",
+        "nm": 544140,
+        "roles": [
+          {
+            "char": "Rita Sterne"
+          }
+        ]
+      },
+      {
+        "name": "Douglas McFerran",
+        "nm": 568855,
+        "roles": [
+          {
+            "char": "DC Braithwaite"
+          }
+        ]
+      },
+      {
+        "name": "Paul Opacic",
+        "nm": 649037,
+        "roles": [
+          {
+            "char": "DC Knights",
+            "ch": 390013
+          }
+        ]
+      },
+      {
+        "name": "Dennis Victory",
+        "nm": 1307758,
+        "roles": [
+          {
+            "char": "Mike"
+          }
+        ]
+      },
+      {
+        "name": "Marc Warren",
+        "nm": 912938,
+        "roles": [
+          {
+            "char": "DC Colin Fennel"
+          }
+        ]
+      }
+    ]
+  }
+]

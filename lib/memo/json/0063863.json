@@ -1,0 +1,120 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Dangerous Journey",
+    "tt": 3156544,
+    "air_date": "1968-09-14",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E02",
+    "title": "The Valley of Time",
+    "tt": 3156550,
+    "air_date": "1968-09-21",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E05",
+    "title": "The Forbidden Pool",
+    "tt": 1221593,
+    "air_date": "1968-10-12",
+    "description": "Gulliver and Tag drink from the Forbidden Pool and become as small as the Lilliputians.",
+    "cast": [
+      {
+        "name": "Jerry Dexter",
+        "nm": 223305,
+        "roles": [
+          {
+            "char": "Gary Gulliver",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Allan Melvin",
+        "nm": 578510,
+        "roles": [
+          {
+            "char": "Bunko",
+            "voice": true
+          },
+          {
+            "char": "Brunik the Wild Hermit",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Don Messick",
+        "nm": 582106,
+        "roles": [
+          {
+            "char": "Tag",
+            "voice": true
+          },
+          {
+            "char": "Eager",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Stephenson",
+        "nm": 827267,
+        "roles": [
+          {
+            "char": "Captain Leech",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ginny Tyler",
+        "nm": 852412,
+        "roles": [
+          {
+            "char": "Flirtacia",
+            "ch": 123714,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Herb Vigran",
+        "nm": 897141,
+        "roles": [
+          {
+            "char": "Glum",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S??E??",
+    "title": "Exit Leach",
+    "tt": 2050321,
+    "air_date": "2002-03-03",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S??E??",
+    "title": "Little Man of the Year",
+    "tt": 2034533,
+    "air_date": "2002-03-17",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S??E??",
+    "title": "Mysterious Forest",
+    "tt": 2036223,
+    "air_date": "2002-03-10",
+    "description": null,
+    "cast": null
+  }
+]

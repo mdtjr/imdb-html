@@ -1,0 +1,130 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Double Date",
+    "tt": 1997192,
+    "air_date": "1972-09-09",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E06",
+    "title": "Hectic Holiday",
+    "tt": 688305,
+    "air_date": "1972-10-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dave Willock",
+        "nm": 932565,
+        "roles": [
+          {
+            "char": "Gus Holiday",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Stanley Livingston",
+        "nm": 515301,
+        "roles": [
+          {
+            "char": "Happius",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Dom DeLuise",
+        "nm": 1123,
+        "roles": [
+          {
+            "char": "Mr. Evictus",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Daws Butler",
+        "nm": 124889,
+        "roles": [
+          {
+            "char": "Brutus, the lion",
+            "ch": 27714,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Harold Peary",
+        "nm": 669433,
+        "roles": [
+          {
+            "char": "Herman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Janet Waldo",
+        "nm": 907228,
+        "roles": [
+          {
+            "char": "Henrietta",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Cyrano deHappius",
+    "tt": 688304,
+    "air_date": "1972-12-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dave Willock",
+        "nm": 932565,
+        "roles": [
+          {
+            "char": "Gus Holiday",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Stanley Livingston",
+        "nm": 515301,
+        "roles": [
+          {
+            "char": "Happius",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Daws Butler",
+        "nm": 124889,
+        "roles": [
+          {
+            "char": "Brutus, the lion",
+            "ch": 27714,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Janet Waldo",
+        "nm": 907228,
+        "roles": [
+          {
+            "char": "Curvia",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  }
+]

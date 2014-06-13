@@ -1,0 +1,1463 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Der erste Tag",
+    "tt": 1125208,
+    "air_date": "1987-08-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kurt Böwe",
+        "nm": 127181,
+        "roles": [
+          {
+            "char": "Jonas Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Heidenreich",
+        "nm": 373942,
+        "roles": [
+          {
+            "char": "Michael Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Jutta Wachowiak",
+        "nm": 905147,
+        "roles": [
+          {
+            "char": "Erika Fürstenau"
+          }
+        ]
+      },
+      {
+        "name": "Christine Haase",
+        "nm": 1400159,
+        "roles": [
+          {
+            "char": "Manon Fürstenau"
+          }
+        ]
+      },
+      {
+        "name": "Ursula Karusseit",
+        "nm": 440285,
+        "roles": [
+          {
+            "char": "Karla Walk"
+          }
+        ]
+      },
+      {
+        "name": "Anne Kasprik",
+        "nm": 440756,
+        "roles": [
+          {
+            "char": "Jeanne Walk"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Ludwig",
+        "nm": 525050,
+        "roles": [
+          {
+            "char": "Herr Walk"
+          }
+        ]
+      },
+      {
+        "name": "Michaela Hotz",
+        "nm": 1275992,
+        "roles": [
+          {
+            "char": "Kat Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Werner Tietze",
+        "nm": 862982,
+        "roles": [
+          {
+            "char": "Wilfried Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Dittus",
+        "nm": 228594,
+        "roles": [
+          {
+            "char": "Frau Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Erika Pelikowsky",
+        "nm": 670855,
+        "roles": [
+          {
+            "char": "Großmutter Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Eberhard Esche",
+        "nm": 260244,
+        "roles": [
+          {
+            "char": "Karl Taube",
+            "ch": 301432
+          }
+        ]
+      },
+      {
+        "name": "Thomas Nick",
+        "nm": 1396738,
+        "roles": [
+          {
+            "char": "Andreas Taube",
+            "ch": 301431
+          }
+        ]
+      },
+      {
+        "name": "Ursula Werner",
+        "nm": 921496,
+        "roles": [
+          {
+            "char": "Frau Taube"
+          }
+        ]
+      },
+      {
+        "name": "Annemone Haase",
+        "nm": 352038,
+        "roles": [
+          {
+            "char": "Helga Kaminski"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Dieter Fortunas",
+            "ch": 285542
+          }
+        ]
+      },
+      {
+        "name": "Erwin Berner",
+        "nm": 76680,
+        "roles": [
+          {
+            "char": "Städtefeld"
+          }
+        ]
+      },
+      {
+        "name": "Hans Teuscher",
+        "nm": 856637,
+        "roles": [
+          {
+            "char": "Grahler",
+            "ch": 301430
+          }
+        ]
+      },
+      {
+        "name": "Rainer Gruß",
+        "nm": 1399813,
+        "roles": [
+          {
+            "char": "Martin"
+          }
+        ]
+      },
+      {
+        "name": "Heide Kipp",
+        "nm": 456030,
+        "roles": [
+          {
+            "char": "Schauspielerin Hertha"
+          }
+        ]
+      },
+      {
+        "name": "Bert Paul",
+        "nm": 666771,
+        "roles": [
+          {
+            "char": "Junge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Der zweite Tag",
+    "tt": 1125212,
+    "air_date": "1987-08-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kurt Böwe",
+        "nm": 127181,
+        "roles": [
+          {
+            "char": "Jonas Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Walfriede Schmitt",
+        "nm": 773462,
+        "roles": [
+          {
+            "char": "Gitt Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Friedhelm Eberle",
+        "nm": 248070,
+        "roles": [
+          {
+            "char": "Till Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Justus Carrière",
+        "nm": 1250881,
+        "roles": [
+          {
+            "char": "Gerd Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Eberhard Esche",
+        "nm": 260244,
+        "roles": [
+          {
+            "char": "Karl Taube",
+            "ch": 301432
+          }
+        ]
+      },
+      {
+        "name": "Thomas Nick",
+        "nm": 1396738,
+        "roles": [
+          {
+            "char": "Andreas Taube",
+            "ch": 301431
+          }
+        ]
+      },
+      {
+        "name": "Michaela Hotz",
+        "nm": 1275992,
+        "roles": [
+          {
+            "char": "Kat Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Werner Tietze",
+        "nm": 862982,
+        "roles": [
+          {
+            "char": "Wilfried Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Dittus",
+        "nm": 228594,
+        "roles": [
+          {
+            "char": "Frau Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Erika Pelikowsky",
+        "nm": 670855,
+        "roles": [
+          {
+            "char": "Großmutter Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Anne Kasprik",
+        "nm": 440756,
+        "roles": [
+          {
+            "char": "Jeanne Walk"
+          }
+        ]
+      },
+      {
+        "name": "Ursula Karusseit",
+        "nm": 440285,
+        "roles": [
+          {
+            "char": "Karla Walk"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Ludwig",
+        "nm": 525050,
+        "roles": [
+          {
+            "char": "Herr Walk"
+          }
+        ]
+      },
+      {
+        "name": "Erwin Berner",
+        "nm": 76680,
+        "roles": [
+          {
+            "char": "Städtefeld"
+          }
+        ]
+      },
+      {
+        "name": "Günter Junghans",
+        "nm": 432644,
+        "roles": [
+          {
+            "char": "Pinkert"
+          }
+        ]
+      },
+      {
+        "name": "Hans-Peter Reinicke",
+        "nm": 718196,
+        "roles": [
+          {
+            "char": "Egon"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Gruß",
+        "nm": 1399813,
+        "roles": [
+          {
+            "char": "Martin"
+          }
+        ]
+      },
+      {
+        "name": "Martin Seifert",
+        "nm": 782509,
+        "roles": [
+          {
+            "char": "Zigeuner-Arthur"
+          }
+        ]
+      },
+      {
+        "name": "Gerhard Bienert",
+        "nm": 81499,
+        "roles": [
+          {
+            "char": "Opa"
+          }
+        ]
+      },
+      {
+        "name": "Marga Legal",
+        "nm": 499165,
+        "roles": [
+          {
+            "char": "Oma"
+          }
+        ]
+      },
+      {
+        "name": "Andreas Pfaff",
+        "nm": 679290,
+        "roles": [
+          {
+            "char": "Enkel"
+          }
+        ]
+      },
+      {
+        "name": "Katja Heinrich",
+        "nm": 374482,
+        "roles": [
+          {
+            "char": "Enkelin"
+          }
+        ]
+      },
+      {
+        "name": "Wolfgang Kühne",
+        "nm": 478159,
+        "roles": [
+          {
+            "char": "Baggerfahrer"
+          }
+        ]
+      },
+      {
+        "name": "Eberhard Strauß",
+        "nm": 3121131,
+        "roles": [
+          {
+            "char": "Dispatcher"
+          }
+        ]
+      },
+      {
+        "name": "Christina Schwarz",
+        "nm": 2179508,
+        "roles": [
+          {
+            "char": "Sekretärin"
+          }
+        ]
+      },
+      {
+        "name": "Hans-Edgar Stecher",
+        "nm": 824256,
+        "roles": [
+          {
+            "char": "Erster Kollege"
+          }
+        ]
+      },
+      {
+        "name": "Helmut Wenzlau",
+        "nm": 921193,
+        "roles": [
+          {
+            "char": "Zweiter Kollege"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Der dritte Tag",
+    "tt": 1125207,
+    "air_date": "1987-09-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kurt Böwe",
+        "nm": 127181,
+        "roles": [
+          {
+            "char": "Jonas Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Walfriede Schmitt",
+        "nm": 773462,
+        "roles": [
+          {
+            "char": "Gitt Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Friedhelm Eberle",
+        "nm": 248070,
+        "roles": [
+          {
+            "char": "Till Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Heidenreich",
+        "nm": 373942,
+        "roles": [
+          {
+            "char": "Michael Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Justus Carrière",
+        "nm": 1250881,
+        "roles": [
+          {
+            "char": "Gerd Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Michaela Hotz",
+        "nm": 1275992,
+        "roles": [
+          {
+            "char": "Kat Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Werner Tietze",
+        "nm": 862982,
+        "roles": [
+          {
+            "char": "Wilfried Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Dittus",
+        "nm": 228594,
+        "roles": [
+          {
+            "char": "Frau Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Erika Pelikowsky",
+        "nm": 670855,
+        "roles": [
+          {
+            "char": "Großmutter Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Eberhard Esche",
+        "nm": 260244,
+        "roles": [
+          {
+            "char": "Karl Taube",
+            "ch": 301432
+          }
+        ]
+      },
+      {
+        "name": "Thomas Nick",
+        "nm": 1396738,
+        "roles": [
+          {
+            "char": "Andreas Taube",
+            "ch": 301431
+          }
+        ]
+      },
+      {
+        "name": "Ursula Werner",
+        "nm": 921496,
+        "roles": [
+          {
+            "char": "Frau Taube"
+          }
+        ]
+      },
+      {
+        "name": "Anne Kasprik",
+        "nm": 440756,
+        "roles": [
+          {
+            "char": "Jeanne Walk"
+          }
+        ]
+      },
+      {
+        "name": "Ursula Karusseit",
+        "nm": 440285,
+        "roles": [
+          {
+            "char": "Karla Walk"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Ludwig",
+        "nm": 525050,
+        "roles": [
+          {
+            "char": "Herr Walk"
+          }
+        ]
+      },
+      {
+        "name": "Frank Ciazynski",
+        "nm": 161921,
+        "roles": [
+          {
+            "char": "Wachtmeister Braumann"
+          }
+        ]
+      },
+      {
+        "name": "Martin Seifert",
+        "nm": 782509,
+        "roles": [
+          {
+            "char": "Zigeuner-Arthur"
+          }
+        ]
+      },
+      {
+        "name": "Hans-Peter Reinicke",
+        "nm": 718196,
+        "roles": [
+          {
+            "char": "Egon"
+          }
+        ]
+      },
+      {
+        "name": "Gerhard Bienert",
+        "nm": 81499,
+        "roles": [
+          {
+            "char": "Opa"
+          }
+        ]
+      },
+      {
+        "name": "Marga Legal",
+        "nm": 499165,
+        "roles": [
+          {
+            "char": "Oma"
+          }
+        ]
+      },
+      {
+        "name": "Werner Dissel",
+        "nm": 228427,
+        "roles": [
+          {
+            "char": "Wanderer"
+          }
+        ]
+      },
+      {
+        "name": "Franziska Troegner",
+        "nm": 873292,
+        "roles": [
+          {
+            "char": "Frau"
+          }
+        ]
+      },
+      {
+        "name": "Lothar Dimke",
+        "nm": 1029079,
+        "roles": [
+          {
+            "char": "Offizier der Volkspolizei",
+            "as Hans-Lothar Dimke": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Kalisch",
+        "nm": 435885,
+        "roles": [
+          {
+            "char": "Eisenbahner"
+          }
+        ]
+      },
+      {
+        "name": "Bert Paul",
+        "nm": 666771,
+        "roles": [
+          {
+            "char": "Junge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Der vierte Tag",
+    "tt": 1125211,
+    "air_date": "1987-09-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kurt Böwe",
+        "nm": 127181,
+        "roles": [
+          {
+            "char": "Jonas Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Walfriede Schmitt",
+        "nm": 773462,
+        "roles": [
+          {
+            "char": "Gitt Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Friedhelm Eberle",
+        "nm": 248070,
+        "roles": [
+          {
+            "char": "Till Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Heidenreich",
+        "nm": 373942,
+        "roles": [
+          {
+            "char": "Michael Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Justus Carrière",
+        "nm": 1250881,
+        "roles": [
+          {
+            "char": "Gerd Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Michaela Hotz",
+        "nm": 1275992,
+        "roles": [
+          {
+            "char": "Kat Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Werner Tietze",
+        "nm": 862982,
+        "roles": [
+          {
+            "char": "Wilfried Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Dittus",
+        "nm": 228594,
+        "roles": [
+          {
+            "char": "Frau Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Erika Pelikowsky",
+        "nm": 670855,
+        "roles": [
+          {
+            "char": "Großmutter Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Jutta Wachowiak",
+        "nm": 905147,
+        "roles": [
+          {
+            "char": "Erika Fürstenau"
+          }
+        ]
+      },
+      {
+        "name": "Christine Haase",
+        "nm": 1400159,
+        "roles": [
+          {
+            "char": "Manon Fürstenau"
+          }
+        ]
+      },
+      {
+        "name": "Ursula Karusseit",
+        "nm": 440285,
+        "roles": [
+          {
+            "char": "Karla Walk"
+          }
+        ]
+      },
+      {
+        "name": "Anne Kasprik",
+        "nm": 440756,
+        "roles": [
+          {
+            "char": "Jeanne Walk"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Ludwig",
+        "nm": 525050,
+        "roles": [
+          {
+            "char": "Herr Walk"
+          }
+        ]
+      },
+      {
+        "name": "Eberhard Esche",
+        "nm": 260244,
+        "roles": [
+          {
+            "char": "Karl Taube",
+            "ch": 301432
+          }
+        ]
+      },
+      {
+        "name": "Thomas Nick",
+        "nm": 1396738,
+        "roles": [
+          {
+            "char": "Andreas Taube",
+            "ch": 301431
+          }
+        ]
+      },
+      {
+        "name": "Ursula Werner",
+        "nm": 921496,
+        "roles": [
+          {
+            "char": "Frau Taube"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Dieter Fortunas",
+            "ch": 285542
+          }
+        ]
+      },
+      {
+        "name": "Günter Junghans",
+        "nm": 432644,
+        "roles": [
+          {
+            "char": "Pinkert"
+          }
+        ]
+      },
+      {
+        "name": "Martin Seifert",
+        "nm": 782509,
+        "roles": [
+          {
+            "char": "Zigeuner-Arthur"
+          }
+        ]
+      },
+      {
+        "name": "Bert Paul",
+        "nm": 666771,
+        "roles": [
+          {
+            "char": "Junge"
+          }
+        ]
+      },
+      {
+        "name": "Gerhard Bienert",
+        "nm": 81499,
+        "roles": [
+          {
+            "char": "Opa"
+          }
+        ]
+      },
+      {
+        "name": "Juliane Korén",
+        "nm": 466871,
+        "roles": [
+          {
+            "char": "Laborantin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Der fünfte Tag",
+    "tt": 1125209,
+    "air_date": "1987-09-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kurt Böwe",
+        "nm": 127181,
+        "roles": [
+          {
+            "char": "Jonas Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Walfriede Schmitt",
+        "nm": 773462,
+        "roles": [
+          {
+            "char": "Gitt Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Friedhelm Eberle",
+        "nm": 248070,
+        "roles": [
+          {
+            "char": "Till Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Heidenreich",
+        "nm": 373942,
+        "roles": [
+          {
+            "char": "Michael Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Justus Carrière",
+        "nm": 1250881,
+        "roles": [
+          {
+            "char": "Gerd Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Michaela Hotz",
+        "nm": 1275992,
+        "roles": [
+          {
+            "char": "Kat Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Werner Tietze",
+        "nm": 862982,
+        "roles": [
+          {
+            "char": "Wilfried Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Dittus",
+        "nm": 228594,
+        "roles": [
+          {
+            "char": "Frau Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Erika Pelikowsky",
+        "nm": 670855,
+        "roles": [
+          {
+            "char": "Großmutter Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Jutta Wachowiak",
+        "nm": 905147,
+        "roles": [
+          {
+            "char": "Erika Fürstenau"
+          }
+        ]
+      },
+      {
+        "name": "Christine Haase",
+        "nm": 1400159,
+        "roles": [
+          {
+            "char": "Manon Fürstenau"
+          }
+        ]
+      },
+      {
+        "name": "Annemone Haase",
+        "nm": 352038,
+        "roles": [
+          {
+            "char": "Helga Kaminski"
+          }
+        ]
+      },
+      {
+        "name": "Anne Kasprik",
+        "nm": 440756,
+        "roles": [
+          {
+            "char": "Jeanne Walk"
+          }
+        ]
+      },
+      {
+        "name": "Eberhard Esche",
+        "nm": 260244,
+        "roles": [
+          {
+            "char": "Karl Taube",
+            "ch": 301432
+          }
+        ]
+      },
+      {
+        "name": "Thomas Nick",
+        "nm": 1396738,
+        "roles": [
+          {
+            "char": "Andreas Taube",
+            "ch": 301431
+          }
+        ]
+      },
+      {
+        "name": "Ursula Werner",
+        "nm": 921496,
+        "roles": [
+          {
+            "char": "Frau Taube"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Dieter Fortunas",
+            "ch": 285542
+          }
+        ]
+      },
+      {
+        "name": "Carl-Hermann Risse",
+        "nm": 728362,
+        "roles": [
+          {
+            "char": "Klingbeil"
+          }
+        ]
+      },
+      {
+        "name": "Hans-Peter Reinicke",
+        "nm": 718196,
+        "roles": [
+          {
+            "char": "Egon"
+          }
+        ]
+      },
+      {
+        "name": "Hans Teuscher",
+        "nm": 856637,
+        "roles": [
+          {
+            "char": "Grahler",
+            "ch": 301430
+          }
+        ]
+      },
+      {
+        "name": "Franziska Glöss-Ebermann",
+        "nm": 2723884,
+        "roles": [
+          {
+            "char": "Vicki",
+            "as Franziska Ebermann-Glöß": true
+          }
+        ]
+      },
+      {
+        "name": "Juliane Korén",
+        "nm": 466871,
+        "roles": [
+          {
+            "char": "Laborantin"
+          }
+        ]
+      },
+      {
+        "name": "Bert Paul",
+        "nm": 666771,
+        "roles": [
+          {
+            "char": "Junge"
+          }
+        ]
+      },
+      {
+        "name": "Christoph Engel",
+        "nm": 257057,
+        "roles": [
+          {
+            "char": "Vorzimmerassistent"
+          }
+        ]
+      },
+      {
+        "name": "Peter Hoff",
+        "nm": 388726,
+        "roles": [
+          {
+            "char": "Autor"
+          }
+        ]
+      },
+      {
+        "name": "Manfred Müller",
+        "nm": 618238,
+        "roles": [
+          {
+            "char": "Sitzungsleiter"
+          }
+        ]
+      },
+      {
+        "name": "Dieter Memel",
+        "nm": 1120396,
+        "roles": [
+          {
+            "char": "Sitzungsteilnehmer"
+          }
+        ]
+      },
+      {
+        "name": "Traute Sense",
+        "nm": 784473,
+        "roles": [
+          {
+            "char": "Schulsektretärin"
+          }
+        ]
+      },
+      {
+        "name": "Günter Sonnenberg",
+        "nm": 1001946,
+        "roles": [
+          {
+            "char": "Kiesfahrer"
+          }
+        ]
+      },
+      {
+        "name": "Reiner-Horst Scheibe",
+        "nm": 770540,
+        "roles": [
+          {
+            "char": "Erster Kollege im Tonstudio"
+          }
+        ]
+      },
+      {
+        "name": "Horst Torka",
+        "nm": 868075,
+        "roles": [
+          {
+            "char": "Zweiter Kollege im Tonstudio"
+          }
+        ]
+      },
+      {
+        "name": "Hans-Joachim Engelmann",
+        "nm": 1006934,
+        "roles": [
+          {
+            "char": "Dritter Kollege im Tonstudio"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Der sechste Tag",
+    "tt": 1125210,
+    "air_date": "1987-09-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kurt Böwe",
+        "nm": 127181,
+        "roles": [
+          {
+            "char": "Jonas Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Walfriede Schmitt",
+        "nm": 773462,
+        "roles": [
+          {
+            "char": "Gitt Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Friedhelm Eberle",
+        "nm": 248070,
+        "roles": [
+          {
+            "char": "Till Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Heidenreich",
+        "nm": 373942,
+        "roles": [
+          {
+            "char": "Michael Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Justus Carrière",
+        "nm": 1250881,
+        "roles": [
+          {
+            "char": "Gerd Weithold"
+          }
+        ]
+      },
+      {
+        "name": "Michaela Hotz",
+        "nm": 1275992,
+        "roles": [
+          {
+            "char": "Kat Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Werner Tietze",
+        "nm": 862982,
+        "roles": [
+          {
+            "char": "Wilfried Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Dittus",
+        "nm": 228594,
+        "roles": [
+          {
+            "char": "Frau Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Erika Pelikowsky",
+        "nm": 670855,
+        "roles": [
+          {
+            "char": "Großmutter Hellgrewe"
+          }
+        ]
+      },
+      {
+        "name": "Jutta Wachowiak",
+        "nm": 905147,
+        "roles": [
+          {
+            "char": "Erika Fürstenau"
+          }
+        ]
+      },
+      {
+        "name": "Christine Haase",
+        "nm": 1400159,
+        "roles": [
+          {
+            "char": "Manon Fürstenau"
+          }
+        ]
+      },
+      {
+        "name": "Ursula Karusseit",
+        "nm": 440285,
+        "roles": [
+          {
+            "char": "Karla Walk"
+          }
+        ]
+      },
+      {
+        "name": "Anne Kasprik",
+        "nm": 440756,
+        "roles": [
+          {
+            "char": "Jeanne Walk"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Ludwig",
+        "nm": 525050,
+        "roles": [
+          {
+            "char": "Herr Walk"
+          }
+        ]
+      },
+      {
+        "name": "Eberhard Esche",
+        "nm": 260244,
+        "roles": [
+          {
+            "char": "Karl Taube",
+            "ch": 301432
+          }
+        ]
+      },
+      {
+        "name": "Thomas Nick",
+        "nm": 1396738,
+        "roles": [
+          {
+            "char": "Andreas Taube",
+            "ch": 301431
+          }
+        ]
+      },
+      {
+        "name": "Ursula Werner",
+        "nm": 921496,
+        "roles": [
+          {
+            "char": "Frau Taube"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Dieter Fortunas",
+            "ch": 285542
+          }
+        ]
+      },
+      {
+        "name": "Carl-Hermann Risse",
+        "nm": 728362,
+        "roles": [
+          {
+            "char": "Klingbeil"
+          }
+        ]
+      },
+      {
+        "name": "Hans Teuscher",
+        "nm": 856637,
+        "roles": [
+          {
+            "char": "Grahler",
+            "ch": 301430
+          }
+        ]
+      },
+      {
+        "name": "Hans-Peter Reinicke",
+        "nm": 718196,
+        "roles": [
+          {
+            "char": "Egon"
+          }
+        ]
+      },
+      {
+        "name": "Werner Dissel",
+        "nm": 228427,
+        "roles": [
+          {
+            "char": "Wanderer"
+          }
+        ]
+      },
+      {
+        "name": "Brigitte Beier",
+        "nm": 67153,
+        "roles": [
+          {
+            "char": "Nachbarin"
+          }
+        ]
+      },
+      {
+        "name": "Hermann Beyer",
+        "nm": 79916,
+        "roles": [
+          {
+            "char": "Heimleiter"
+          }
+        ]
+      },
+      {
+        "name": "Karl Brenk",
+        "nm": 107223,
+        "roles": [
+          {
+            "char": "Rentner"
+          }
+        ]
+      },
+      {
+        "name": "Doris Thalmer",
+        "nm": 856967,
+        "roles": [
+          {
+            "char": "Rentnerin"
+          }
+        ]
+      }
+    ]
+  }
+]

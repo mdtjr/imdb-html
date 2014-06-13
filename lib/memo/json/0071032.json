@@ -1,0 +1,5462 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Golden Cage",
+    "tt": 673867,
+    "air_date": "1974-09-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+          {
+            "char": "Arthur Holbrook"
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Forsyth",
+        "nm": 287071,
+        "roles": [
+          {
+            "char": "Nancy Holbrook"
+          }
+        ]
+      },
+      {
+        "name": "Rose Marie",
+        "nm": 547300,
+        "roles": [
+          {
+            "char": "Thelma"
+          }
+        ]
+      },
+      {
+        "name": "Earl W. Smith",
+        "nm": 808074,
+        "roles": [
+          {
+            "char": "Jamie"
+          }
+        ]
+      },
+      {
+        "name": "Hayes Stewart",
+        "nm": 829418,
+        "roles": [
+          {
+            "char": "General"
+          }
+        ]
+      },
+      {
+        "name": "Fred Stromsoe",
+        "nm": 834931,
+        "roles": [
+          {
+            "char": "Alvin Day"
+          }
+        ]
+      },
+      {
+        "name": "William Windom",
+        "nm": 934750,
+        "roles": [
+          {
+            "char": "Alex Mayberry"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Woodward",
+        "nm": 940971,
+        "roles": [
+          {
+            "char": "Lieutenant Cayle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Music to Die By",
+    "tt": 673855,
+    "air_date": "1974-09-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Ricky Nelson",
+        "nm": 625699,
+        "roles": [
+          {
+            "char": "Country Boy White",
+            "as Rick Nelson": true
+          }
+        ]
+      },
+      {
+        "name": "David Huddleston",
+        "nm": 399663,
+        "roles": [
+          {
+            "char": "Detective Ponce"
+          }
+        ]
+      },
+      {
+        "name": "David Doyle",
+        "nm": 236329,
+        "roles": [
+          {
+            "char": "Cas Turner"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Slate",
+        "nm": 805177,
+        "roles": [
+          {
+            "char": "Stacy"
+          }
+        ]
+      },
+      {
+        "name": "Bobbi Jordan",
+        "nm": 429852,
+        "roles": [
+          {
+            "char": "Millie"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Kenyon",
+        "nm": 449017,
+        "roles": [
+          {
+            "char": "Morrow"
+          }
+        ]
+      },
+      {
+        "name": "Britt Leach",
+        "nm": 494815,
+        "roles": [
+          {
+            "char": "Wiley"
+          }
+        ]
+      },
+      {
+        "name": "Don Starr",
+        "nm": 823493,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Norman Stone",
+        "nm": 832088,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Henry Kendrick",
+        "nm": 447709,
+        "roles": [
+          {
+            "char": "Prosecutor"
+          }
+        ]
+      },
+      {
+        "name": "Jess Riggle",
+        "nm": 726664,
+        "roles": [
+          {
+            "char": "Sgt. Terry",
+            "as Jess E. Riggle": true
+          }
+        ]
+      },
+      {
+        "name": "Fred Stromsoe",
+        "nm": 834931,
+        "roles": [
+          {
+            "char": "Sheriff"
+          }
+        ]
+      },
+      {
+        "name": "Richard Jacome",
+        "nm": 415037,
+        "roles": [
+          {
+            "char": "Bailiff #1"
+          }
+        ]
+      },
+      {
+        "name": "Raul R. Gomez",
+        "nm": 1752128,
+        "roles": [
+          {
+            "char": "Bailiff #2"
+          }
+        ]
+      },
+      {
+        "name": "Bow Richards",
+        "nm": 1002852,
+        "roles": [
+          {
+            "char": "Traffic Cop"
+          }
+        ]
+      },
+      {
+        "name": "Alfred G. Bosnos",
+        "nm": 98051,
+        "roles": [
+          {
+            "char": "Phony Cop"
+          }
+        ]
+      },
+      {
+        "name": "Leah Farrington",
+        "nm": 3100482,
+        "roles": [
+          {
+            "char": "Hanna Westen"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Selby",
+        "nm": 782977,
+        "roles": [
+          {
+            "char": "Winston"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "By Reason of Madness",
+    "tt": 673841,
+    "air_date": "1974-09-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Lynda Day George",
+        "nm": 313519,
+        "roles": [
+          {
+            "char": "Vickie Richardson"
+          }
+        ]
+      },
+      {
+        "name": "James McEachin",
+        "nm": 533013,
+        "roles": [
+          {
+            "char": "Dr. Herb Shoate"
+          }
+        ]
+      },
+      {
+        "name": "Rory Calhoun",
+        "nm": 1983,
+        "roles": [
+          {
+            "char": "Edgar Richardson"
+          }
+        ]
+      },
+      {
+        "name": "John Vernon",
+        "nm": 6893,
+        "roles": [
+          {
+            "char": "Barney Majors"
+          }
+        ]
+      },
+      {
+        "name": "Loretta Swit",
+        "nm": 842794,
+        "roles": [
+          {
+            "char": "Ella Knox"
+          }
+        ]
+      },
+      {
+        "name": "Rudy Bond",
+        "nm": 94036,
+        "roles": [
+          {
+            "char": "Dr. Starnberg"
+          }
+        ]
+      },
+      {
+        "name": "Riley Hill",
+        "nm": 384610,
+        "roles": [
+          {
+            "char": "Judge Medford"
+          }
+        ]
+      },
+      {
+        "name": "Ann Edwards",
+        "nm": 249805,
+        "roles": [
+          {
+            "char": "Marianne Gaddis"
+          }
+        ]
+      },
+      {
+        "name": "Hector Ledesma",
+        "nm": 1750476,
+        "roles": [
+          {
+            "char": "George Cantrell",
+            "as Hector LeDesma": true
+          }
+        ]
+      },
+      {
+        "name": "Raul R. Gomez",
+        "nm": 1752128,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Edge of Evil",
+    "tt": 673848,
+    "air_date": "1974-10-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "William Shatner",
+        "nm": 638,
+        "roles": [
+          {
+            "char": "Adam North"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Carlin",
+        "nm": 137524,
+        "roles": [
+          {
+            "char": "Audrey North"
+          }
+        ]
+      },
+      {
+        "name": "Glenn Corbett",
+        "nm": 179148,
+        "roles": [
+          {
+            "char": "Robert Warren"
+          }
+        ]
+      },
+      {
+        "name": "Susan Oliver",
+        "nm": 647010,
+        "roles": [
+          {
+            "char": "Eleanor Warren"
+          }
+        ]
+      },
+      {
+        "name": "Dana Elcar",
+        "nm": 253020,
+        "roles": [
+          {
+            "char": "Prosecutor Daley"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Paull",
+        "nm": 667133,
+        "roles": [
+          {
+            "char": "Dan Carter"
+          }
+        ]
+      },
+      {
+        "name": "Harrison Ford",
+        "nm": 148,
+        "roles": [
+          {
+            "char": "Tom Brannigan"
+          }
+        ]
+      },
+      {
+        "name": "Bob Hardy",
+        "nm": 362593,
+        "roles": [
+          {
+            "char": "Judge Wannamaker",
+            "as Robert E. Hardy": true
+          }
+        ]
+      },
+      {
+        "name": "Ron Chapman",
+        "nm": 152512,
+        "roles": [
+          {
+            "char": "Lacy"
+          }
+        ]
+      },
+      {
+        "name": "Doug Dudley",
+        "nm": 240121,
+        "roles": [
+          {
+            "char": "Newscaster"
+          }
+        ]
+      },
+      {
+        "name": "Kit Kendrick",
+        "nm": 5501630,
+        "roles": [
+          {
+            "char": "Girl"
+          }
+        ]
+      },
+      {
+        "name": "John William Johnson",
+        "nm": 1693950,
+        "roles": [
+          {
+            "char": "Bench Judge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "A Life for a Life",
+    "tt": 673834,
+    "air_date": "1974-10-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "John Anderson",
+        "nm": 26930,
+        "roles": [
+          {
+            "char": "Forbes"
+          }
+        ]
+      },
+      {
+        "name": "Walter Brooke",
+        "nm": 111754,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Geoffrey Deuel",
+        "nm": 222003,
+        "roles": [
+          {
+            "char": "Edgar Dorsey"
+          }
+        ]
+      },
+      {
+        "name": "Sharon Farrell",
+        "nm": 268331,
+        "roles": [
+          {
+            "char": "Arlene Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Henry Jones",
+        "nm": 428216,
+        "roles": [
+          {
+            "char": "Wheaton"
+          }
+        ]
+      },
+      {
+        "name": "Felice Orlandi",
+        "nm": 649939,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Death in High Places",
+    "tt": 673846,
+    "air_date": "1974-10-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Barbara Horton"
+          }
+        ]
+      },
+      {
+        "name": "Harold Gould",
+        "nm": 332390,
+        "roles": [
+          {
+            "char": "Haskell Fox"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Mitchell",
+        "nm": 593192,
+        "roles": [
+          {
+            "char": "Sheriff Bates"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Sierra",
+        "nm": 797268,
+        "roles": [
+          {
+            "char": "Rudolph Chavez"
+          }
+        ]
+      },
+      {
+        "name": "Joe Mantell",
+        "nm": 544064,
+        "roles": [
+          {
+            "char": "Jess Carson"
+          }
+        ]
+      },
+      {
+        "name": "Barney Phillips",
+        "nm": 680237,
+        "roles": [
+          {
+            "char": "Frank Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Dick Alexander",
+        "nm": 1171099,
+        "roles": [
+          {
+            "char": "Bobby Gains"
+          }
+        ]
+      },
+      {
+        "name": "Richard Elman",
+        "nm": 5504313,
+        "roles": [
+          {
+            "char": "Sam Horton"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Jeffers",
+        "nm": 420145,
+        "roles": [
+          {
+            "char": "Judge Clement"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Haley",
+        "nm": 1510093,
+        "roles": [
+          {
+            "char": "Judge Reese"
+          }
+        ]
+      },
+      {
+        "name": "Henry Kendrick",
+        "nm": 447709,
+        "roles": [
+          {
+            "char": "Elmore Samuels",
+            "as Henry M. Kendrick": true
+          }
+        ]
+      },
+      {
+        "name": "Fred Ashley",
+        "nm": 39057,
+        "roles": [
+          {
+            "char": "Potter"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Blood",
+        "nm": 89111,
+        "roles": [
+          {
+            "char": "Al Smiley",
+            "as Stephen T. Blood": true
+          }
+        ]
+      },
+      {
+        "name": "Alfred G. Bosnos",
+        "nm": 98051,
+        "roles": [
+          {
+            "char": "Houseman",
+            "as Al Bosnos": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Bickston",
+        "nm": 1320591,
+        "roles": [
+          {
+            "char": "Marshall",
+            "as Bob Bickston": true
+          }
+        ]
+      },
+      {
+        "name": "Suzan Woods",
+        "nm": 5504248,
+        "roles": [
+          {
+            "char": "Mrs. Gains"
+          }
+        ]
+      },
+      {
+        "name": "Charles Young",
+        "nm": 949371,
+        "roles": [
+          {
+            "char": "Paramedic"
+          }
+        ]
+      },
+      {
+        "name": "Fred Stromsoe",
+        "nm": 834931,
+        "roles": [
+          {
+            "char": "Tennis Pro"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Jacome",
+        "nm": 5504329,
+        "roles": [
+          {
+            "char": "Deputy"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Criss",
+        "nm": 188027,
+        "roles": [
+          {
+            "char": "Durg Addict"
+          }
+        ]
+      },
+      {
+        "name": "Richard Kennedy",
+        "nm": 448283,
+        "roles": [
+          {
+            "char": "Supporting"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "The Double Negative",
+    "tt": 673864,
+    "air_date": "1974-10-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Michael Burns",
+        "nm": 122798,
+        "roles": [
+          {
+            "char": "Billy Fletcher"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Farringer",
+        "nm": 268421,
+        "roles": [
+          {
+            "char": "Renate Fletcher"
+          }
+        ]
+      },
+      {
+        "name": "Ron Foster",
+        "nm": 288031,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Caroline Reed",
+        "nm": 715348,
+        "roles": [
+          {
+            "char": "Woman at Bar"
+          }
+        ]
+      },
+      {
+        "name": "Gene Tyburn",
+        "nm": 878700,
+        "roles": [
+          {
+            "char": "Tom Onslow"
+          }
+        ]
+      },
+      {
+        "name": "Fritz Weaver",
+        "nm": 915851,
+        "roles": [
+          {
+            "char": "Colonel Fletcher"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Mirror, Mirror on the Wall...",
+    "tt": 673854,
+    "air_date": "1974-11-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Stefanie Powers",
+        "nm": 694619,
+        "roles": [
+          {
+            "char": "Jean"
+          },
+          {
+            "char": "Ellen Carter"
+          }
+        ]
+      },
+      {
+        "name": "Harold Gould",
+        "nm": 332390,
+        "roles": [
+          {
+            "char": "Haskell Fox"
+          }
+        ]
+      },
+      {
+        "name": "William Bramley",
+        "nm": 104245,
+        "roles": [
+          {
+            "char": "Milt Daniels"
+          }
+        ]
+      },
+      {
+        "name": "Erica Hagen",
+        "nm": 353385,
+        "roles": [
+          {
+            "char": "Shirley"
+          }
+        ]
+      },
+      {
+        "name": "Kurt Grayson",
+        "nm": 337117,
+        "roles": [
+          {
+            "char": "Allan Bell"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Jeffers",
+        "nm": 420145,
+        "roles": [
+          {
+            "char": "Judge Uhlman"
+          }
+        ]
+      },
+      {
+        "name": "Gene Earle",
+        "nm": 1510067,
+        "roles": [
+          {
+            "char": "Mr. Peterson"
+          }
+        ]
+      },
+      {
+        "name": "Gary Mike Casper",
+        "nm": 143850,
+        "roles": [
+          {
+            "char": "Sgt. Roger Morton",
+            "as Gary 'Mike' Casper": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Thure",
+        "nm": 862133,
+        "roles": [
+          {
+            "char": "Tom"
+          }
+        ]
+      },
+      {
+        "name": "Lowell Gleason",
+        "nm": 1506064,
+        "roles": [
+          {
+            "char": "Bailiff"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "An Act of Love",
+    "tt": 673838,
+    "air_date": "1974-11-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Martin Braddock",
+        "nm": 102927,
+        "roles": [
+          {
+            "char": "Dan Crawford"
+          }
+        ]
+      },
+      {
+        "name": "John David Carson",
+        "nm": 141268,
+        "roles": [
+          {
+            "char": "Frank Donato"
+          }
+        ]
+      },
+      {
+        "name": "Angela Clarke",
+        "nm": 164650,
+        "roles": [
+          {
+            "char": "Mrs. Donato"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Dobbs",
+        "nm": 1509223,
+        "roles": [
+          {
+            "char": "Milkman"
+          }
+        ]
+      },
+      {
+        "name": "Christina Hart",
+        "nm": 57651,
+        "roles": [
+          {
+            "char": "Niki James"
+          }
+        ]
+      },
+      {
+        "name": "John Marley",
+        "nm": 549134,
+        "roles": [
+          {
+            "char": "Vito Donato"
+          }
+        ]
+      },
+      {
+        "name": "Claudette Nevins",
+        "nm": 2554,
+        "roles": [
+          {
+            "char": "Annette James"
+          }
+        ]
+      },
+      {
+        "name": "Alan Oppenheimer",
+        "nm": 649178,
+        "roles": [
+          {
+            "char": "Davis"
+          }
+        ]
+      },
+      {
+        "name": "Simon Scott",
+        "nm": 779794,
+        "roles": [
+          {
+            "char": "Sen. James"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "A Very Lonely Lady",
+    "tt": 673837,
+    "air_date": "1974-11-27",
+    "description": "When a woman is found dead in the desert, a young drifter who was the last seen with her is arrested cause his things were found with her. Petrocelli is assigned to defend him and the guy claims she picked him up and took him to a motel where he was with her but left as soon as he could and left his bag that had his things in it that were found with her body in her car. Petrocelli learns that the woman was the wife of a prominent businessman who saw other guys on the side. Which leads Petrocelli to think it could be her husband or one of her guys who killed her.",
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Louis Gossett Jr.",
+        "nm": 1283,
+        "roles": [
+          {
+            "char": "Kurt Olson, DA",
+            "as Lou Gossett": true
+          }
+        ]
+      },
+      {
+        "name": "Jack Ging",
+        "nm": 319978,
+        "roles": [
+          {
+            "char": "Wayne Jacoby"
+          }
+        ]
+      },
+      {
+        "name": "Russell Wiggins",
+        "nm": 927805,
+        "roles": [
+          {
+            "char": "Albert Deigh"
+          }
+        ]
+      },
+      {
+        "name": "Arlene Martel",
+        "nm": 551458,
+        "roles": [
+          {
+            "char": "Marnie Jane Underwood"
+          }
+        ]
+      },
+      {
+        "name": "Lucille Benson",
+        "nm": 72569,
+        "roles": [
+          {
+            "char": "Angie Crawford"
+          }
+        ]
+      },
+      {
+        "name": "John Milford",
+        "nm": 587333,
+        "roles": [
+          {
+            "char": "JC Underwood"
+          }
+        ]
+      },
+      {
+        "name": "Robb Townshende",
+        "nm": 1507265,
+        "roles": [
+          {
+            "char": "Percy Austin"
+          }
+        ]
+      },
+      {
+        "name": "Doug Dudley",
+        "nm": 240121,
+        "roles": [
+          {
+            "char": "Police Officer"
+          }
+        ]
+      },
+      {
+        "name": "Mike Casper",
+        "nm": 143855,
+        "roles": [
+          {
+            "char": "Sheriff Tom Madden"
+          }
+        ]
+      },
+      {
+        "name": "Bernice Smith",
+        "nm": 807432,
+        "roles": [
+          {
+            "char": "Mrs. Landis"
+          }
+        ]
+      },
+      {
+        "name": "Don Starr",
+        "nm": 823493,
+        "roles": [
+          {
+            "char": "Judge Watson"
+          }
+        ]
+      },
+      {
+        "name": "Lowell Gleason",
+        "nm": 1506064,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Kimo Owens",
+        "nm": 654408,
+        "roles": [
+          {
+            "char": "Workman"
+          }
+        ]
+      },
+      {
+        "name": "Rick Schieffer",
+        "nm": 770606,
+        "roles": [
+          {
+            "char": "TV Announcer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Counterploy",
+    "tt": 673843,
+    "air_date": "1974-12-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Stephen Blood",
+        "nm": 89111,
+        "roles": [
+          {
+            "char": "Ed Lester",
+            "as Stephen T. Blood": true
+          }
+        ]
+      },
+      {
+        "name": "Michele Conaway",
+        "nm": 174198,
+        "roles": [
+          {
+            "char": "Susan Deiman"
+          }
+        ]
+      },
+      {
+        "name": "Gaye Huston",
+        "nm": 404117,
+        "roles": [
+          {
+            "char": "Wendy Burton",
+            "as Gaye Huston Paull": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Jaeckel",
+        "nm": 1395,
+        "roles": [
+          {
+            "char": "Sergeant Sanford"
+          }
+        ]
+      },
+      {
+        "name": "Ben Masters",
+        "nm": 557653,
+        "roles": [
+          {
+            "char": "John Deiman"
+          }
+        ]
+      },
+      {
+        "name": "Hayden Rorke",
+        "nm": 740718,
+        "roles": [
+          {
+            "char": "Arnold Cole"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "A Covenant with Evil",
+    "tt": 673831,
+    "air_date": "1974-12-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "David Huddleston",
+        "nm": 399663,
+        "roles": [
+          {
+            "char": "Lt. John Ponce"
+          }
+        ]
+      },
+      {
+        "name": "Paul Carr",
+        "nm": 139824,
+        "roles": [
+          {
+            "char": "Paul Cooper"
+          }
+        ]
+      },
+      {
+        "name": "Julie Cobb",
+        "nm": 167784,
+        "roles": [
+          {
+            "char": "Millie Conway"
+          }
+        ]
+      },
+      {
+        "name": "Dean Harens",
+        "nm": 362869,
+        "roles": [
+          {
+            "char": "Dr. Vinton"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Malet",
+        "nm": 539395,
+        "roles": [
+          {
+            "char": "Clyde Leadbetter"
+          }
+        ]
+      },
+      {
+        "name": "Charles Martin Smith",
+        "nm": 1747,
+        "roles": [
+          {
+            "char": "Frankie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "The Sleep of Reason",
+    "tt": 673872,
+    "air_date": "1975-01-15",
+    "description": "A student who was having a dispute with a professor walks into a lecture the man is giving, pulls out a gun and shoots him. When questioned, he doesn't remember anything. Which makes Tony's job more difficult.",
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Jack Colvin",
+        "nm": 173438,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Connelly",
+        "nm": 175060,
+        "roles": [
+          {
+            "char": "Willie"
+          }
+        ]
+      },
+      {
+        "name": "Alberta R. Eacret",
+        "nm": 1505922,
+        "roles": [
+          {
+            "char": "Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Franklin",
+        "nm": 291512,
+        "roles": [
+          {
+            "char": "Joan Barth"
+          }
+        ]
+      },
+      {
+        "name": "Lowell Gleason",
+        "nm": 1506064,
+        "roles": [
+          {
+            "char": "Deputy District Attorney"
+          }
+        ]
+      },
+      {
+        "name": "Logan Ramsey",
+        "nm": 709029,
+        "roles": [
+          {
+            "char": "Professor Beale"
+          }
+        ]
+      },
+      {
+        "name": "Albert Stratton",
+        "nm": 833618,
+        "roles": [
+          {
+            "char": "Professor Logan"
+          }
+        ]
+      },
+      {
+        "name": "Fred Stromsoe",
+        "nm": 834931,
+        "roles": [
+          {
+            "char": "Levatatee"
+          }
+        ]
+      },
+      {
+        "name": "Francine York",
+        "nm": 948696,
+        "roles": [
+          {
+            "char": "Annabelle Tracy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "A Fallen Idol",
+    "tt": 673833,
+    "air_date": "1975-01-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Lassie Lou Ahern",
+        "nm": 13912,
+        "roles": [
+          {
+            "char": "Martha",
+            "as Lassie Ahern": true
+          }
+        ]
+      },
+      {
+        "name": "Louis Gossett Jr.",
+        "nm": 1283,
+        "roles": [
+          {
+            "char": "District Attorney Kurt Olson",
+            "as Lou Gossett": true
+          }
+        ]
+      },
+      {
+        "name": "Ben Hammer",
+        "nm": 358432,
+        "roles": [
+          {
+            "char": "Arthur Handler"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Hicks",
+        "nm": 382820,
+        "roles": [
+          {
+            "char": "Tom"
+          }
+        ]
+      },
+      {
+        "name": "George Petrie",
+        "nm": 677959,
+        "roles": [
+          {
+            "char": "Morrie Ryder"
+          }
+        ]
+      },
+      {
+        "name": "Don Starr",
+        "nm": 823493,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Susan Strasberg",
+        "nm": 1782,
+        "roles": [
+          {
+            "char": "T.J. Farlow"
+          }
+        ]
+      },
+      {
+        "name": "Fred Stromsoe",
+        "nm": 834931,
+        "roles": [
+          {
+            "char": "Ed"
+          }
+        ]
+      },
+      {
+        "name": "Don Stroud",
+        "nm": 835144,
+        "roles": [
+          {
+            "char": "Frankie Copa"
+          }
+        ]
+      },
+      {
+        "name": "Paul C. Thomas",
+        "nm": 1510189,
+        "roles": [
+          {
+            "char": "Ernie Saddler"
+          }
+        ]
+      },
+      {
+        "name": "Richard Ward",
+        "nm": 911797,
+        "roles": [
+          {
+            "char": "Charlie Bobo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Once Upon a Victim",
+    "tt": 673856,
+    "air_date": "1975-01-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Fred Ashley",
+        "nm": 39057,
+        "roles": [
+          {
+            "char": "James Mantley"
+          }
+        ]
+      },
+      {
+        "name": "Jack Collins",
+        "nm": 172355,
+        "roles": [
+          {
+            "char": "Floyd Lathrop"
+          }
+        ]
+      },
+      {
+        "name": "John Dehner",
+        "nm": 215000,
+        "roles": [
+          {
+            "char": "Dr. Leo Stegner"
+          }
+        ]
+      },
+      {
+        "name": "Gene Earle",
+        "nm": 1510067,
+        "roles": [
+          {
+            "char": "Herb Pipkin"
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "Sam Markland",
+            "ch": 170939
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Goldsmith",
+        "nm": 326091,
+        "roles": [
+          {
+            "char": "Dr. Gil Clayton",
+            "as Jonathan Lippe": true
+          }
+        ]
+      },
+      {
+        "name": "Renne Jarrett",
+        "nm": 418961,
+        "roles": [
+          {
+            "char": "Lois Phillips"
+          }
+        ]
+      },
+      {
+        "name": "Della Reese",
+        "nm": 5343,
+        "roles": [
+          {
+            "char": "Angela Damon"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Rhoades",
+        "nm": 722315,
+        "roles": [
+          {
+            "char": "Virginia Halima"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "The Kidnapping",
+    "tt": 673868,
+    "air_date": "1975-02-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Frank Ashmore",
+        "nm": 39149,
+        "roles": [
+          {
+            "char": "Alec McCaslin",
+            "as Frank Stell": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Blair",
+        "nm": 86323,
+        "roles": [
+          {
+            "char": "Angela Gilmartin"
+          }
+        ]
+      },
+      {
+        "name": "Kim Darby",
+        "nm": 200981,
+        "roles": [
+          {
+            "char": "Donna"
+          }
+        ]
+      },
+      {
+        "name": "Richard Davalos",
+        "nm": 202501,
+        "roles": [
+          {
+            "char": "District Attorney Charles Waller",
+            "as Dick Davalos": true
+          }
+        ]
+      },
+      {
+        "name": "Gene Evans",
+        "nm": 262775,
+        "roles": [
+          {
+            "char": "Senator Linville McCaslin"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Jeffers",
+        "nm": 420145,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Todd Lookinland",
+        "nm": 519656,
+        "roles": [
+          {
+            "char": "Jody"
+          }
+        ]
+      },
+      {
+        "name": "Dan Roth",
+        "nm": 744811,
+        "roles": [
+          {
+            "char": "Deputy Sheriff"
+          }
+        ]
+      },
+      {
+        "name": "Lenore Stevens",
+        "nm": 828559,
+        "roles": [
+          {
+            "char": "Rafaela"
+          }
+        ]
+      },
+      {
+        "name": "Neil Summers",
+        "nm": 838612,
+        "roles": [
+          {
+            "char": "Lorne"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "A Lonely Victim",
+    "tt": 673835,
+    "air_date": "1975-02-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Fred Beir",
+        "nm": 67262,
+        "roles": [
+          {
+            "char": "Raymond Walker"
+          }
+        ]
+      },
+      {
+        "name": "Anjanette Comer",
+        "nm": 173735,
+        "roles": [
+          {
+            "char": "Mary Thorpe"
+          }
+        ]
+      },
+      {
+        "name": "Don Dubbins",
+        "nm": 239210,
+        "roles": [
+          {
+            "char": "Joseph Bear",
+            "as Donald Dubbins": true
+          }
+        ]
+      },
+      {
+        "name": "Bobby Eilbacher",
+        "nm": 251729,
+        "roles": [
+          {
+            "char": "Billy Thorpe"
+          }
+        ]
+      },
+      {
+        "name": "Mark Goddard",
+        "nm": 323813,
+        "roles": [
+          {
+            "char": "Perry Brooks"
+          }
+        ]
+      },
+      {
+        "name": "Madlyn Rhue",
+        "nm": 722599,
+        "roles": [
+          {
+            "char": "Ellen Walker"
+          }
+        ]
+      },
+      {
+        "name": "Simon Scott",
+        "nm": 779794,
+        "roles": [
+          {
+            "char": "Carson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "The Outsiders",
+    "tt": 673870,
+    "air_date": "1975-02-26",
+    "description": "A young man who was traveling with his family, is accused of killing a pharmacist. His mother goes to Tony to ask him to defend. Ponce thinks that he came to town to get medicine for his father and had no money to pay for it and that's why he killed him. Tony tries to figure out who else would have wanted to kill the man.",
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Mitch Vogel",
+        "nm": 900938,
+        "roles": [
+          {
+            "char": "Ron Field"
+          }
+        ]
+      },
+      {
+        "name": "David Huddleston",
+        "nm": 399663,
+        "roles": [
+          {
+            "char": "Lieutenant Ponce"
+          }
+        ]
+      },
+      {
+        "name": "Lucille Benson",
+        "nm": 72569,
+        "roles": [
+          {
+            "char": "Lucille Field"
+          }
+        ]
+      },
+      {
+        "name": "Mark Hamill",
+        "nm": 434,
+        "roles": [
+          {
+            "char": "David Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Marion Ross",
+        "nm": 5385,
+        "roles": [
+          {
+            "char": "Mary Sloan"
+          }
+        ]
+      },
+      {
+        "name": "William Bramley",
+        "nm": 104245,
+        "roles": [
+          {
+            "char": "Cyrus Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Lowell Gleason",
+        "nm": 1506064,
+        "roles": [
+          {
+            "char": "Ed Bright"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Jeffers",
+        "nm": 420145,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Fred Ashley",
+        "nm": 39057,
+        "roles": [
+          {
+            "char": "Ben Fowler"
+          }
+        ]
+      },
+      {
+        "name": "Charles Young",
+        "nm": 949371,
+        "roles": [
+          {
+            "char": "Paul Glass"
+          }
+        ]
+      },
+      {
+        "name": "Gene Earle",
+        "nm": 1510067,
+        "roles": [
+          {
+            "char": "Clyde Martin"
+          }
+        ]
+      },
+      {
+        "name": "Hayes Stewart",
+        "nm": 829418,
+        "roles": [
+          {
+            "char": "Andrew Sloan"
+          }
+        ]
+      },
+      {
+        "name": "Jack Owens",
+        "nm": 654379,
+        "roles": [
+          {
+            "char": "Calvin Field"
+          }
+        ]
+      },
+      {
+        "name": "Melissa Womer",
+        "nm": 5505137,
+        "roles": [
+          {
+            "char": "Rita Field"
+          }
+        ]
+      },
+      {
+        "name": "Sherry Hummer",
+        "nm": 401876,
+        "roles": [
+          {
+            "char": "Sissy Field"
+          }
+        ]
+      },
+      {
+        "name": "Frank O'Hair",
+        "nm": 5506208,
+        "roles": [
+          {
+            "char": "Buster Field"
+          }
+        ]
+      },
+      {
+        "name": "Richard Jacome",
+        "nm": 415037,
+        "roles": [
+          {
+            "char": "Guard",
+            "as Richard C. Jacome": true
+          }
+        ]
+      },
+      {
+        "name": "John Tacoma",
+        "nm": 5505001,
+        "roles": [
+          {
+            "char": "Charlie"
+          }
+        ]
+      },
+      {
+        "name": "Mark Stanoch",
+        "nm": 1356622,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Vengeance in White",
+    "tt": 673875,
+    "air_date": "1975-03-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Michael Anderson Jr.",
+        "nm": 26295,
+        "roles": [
+          {
+            "char": "Reverend Nathaniel Wakely"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bell",
+        "nm": 68407,
+        "roles": [
+          {
+            "char": "Glenn Hiller"
+          }
+        ]
+      },
+      {
+        "name": "Elinor Donahue",
+        "nm": 231942,
+        "roles": [
+          {
+            "char": "Joan Hiller"
+          }
+        ]
+      },
+      {
+        "name": "Gene Earle",
+        "nm": 1510067,
+        "roles": [
+          {
+            "char": "Ted Atchison"
+          }
+        ]
+      },
+      {
+        "name": "Francesca Jarvis",
+        "nm": 419051,
+        "roles": [
+          {
+            "char": "Aggie Crane"
+          }
+        ]
+      },
+      {
+        "name": "Josef Rainer",
+        "nm": 707011,
+        "roles": [
+          {
+            "char": "District Attorney Ames"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Scott",
+        "nm": 778906,
+        "roles": [
+          {
+            "char": "Bonnie Wakely"
+          }
+        ]
+      },
+      {
+        "name": "Ken Swofford",
+        "nm": 842855,
+        "roles": [
+          {
+            "char": "Phillip Armor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Four the Hard Way",
+    "tt": 673851,
+    "air_date": "1975-03-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Strother Martin",
+        "nm": 1510,
+        "roles": [
+          {
+            "char": "Clate Dobie"
+          }
+        ]
+      },
+      {
+        "name": "Paul Brinegar",
+        "nm": 109495,
+        "roles": [
+          {
+            "char": "Patch Dressler"
+          }
+        ]
+      },
+      {
+        "name": "Eddie Firestone",
+        "nm": 278646,
+        "roles": [
+          {
+            "char": "Cy Bissell"
+          }
+        ]
+      },
+      {
+        "name": "Shug Fisher",
+        "nm": 279786,
+        "roles": [
+          {
+            "char": "Toot Gannon"
+          }
+        ]
+      },
+      {
+        "name": "William Bryant",
+        "nm": 117252,
+        "roles": [
+          {
+            "char": "Brian Scholfield"
+          }
+        ]
+      },
+      {
+        "name": "Lina Raymond",
+        "nm": 713315,
+        "roles": [
+          {
+            "char": "Juno Tuttler"
+          }
+        ]
+      },
+      {
+        "name": "Gloria LeRoy",
+        "nm": 503755,
+        "roles": [
+          {
+            "char": "Zazu O'Brien"
+          }
+        ]
+      },
+      {
+        "name": "John Crawford",
+        "nm": 186833,
+        "roles": [
+          {
+            "char": "Joe Tuttle"
+          }
+        ]
+      },
+      {
+        "name": "Francesca Jarvis",
+        "nm": 419051,
+        "roles": [
+          {
+            "char": "Agnes Macklin"
+          }
+        ]
+      },
+      {
+        "name": "Josef Rainer",
+        "nm": 707011,
+        "roles": [
+          {
+            "char": "Ron Weed",
+            "as Joe Ranier": true
+          }
+        ]
+      },
+      {
+        "name": "Rusty Lee",
+        "nm": 498180,
+        "roles": [
+          {
+            "char": "Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Riley Hill",
+        "nm": 384610,
+        "roles": [
+          {
+            "char": "Judge Roy Parker"
+          }
+        ]
+      },
+      {
+        "name": "Doug Dudley",
+        "nm": 240121,
+        "roles": [
+          {
+            "char": "P.A. Announcer"
+          }
+        ]
+      },
+      {
+        "name": "Charles M. Mulkern",
+        "nm": 3731473,
+        "roles": [
+          {
+            "char": "Jury Foreman",
+            "as Chuck M. Mulkern": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Death in Small Doses",
+    "tt": 673847,
+    "air_date": "1975-03-27",
+    "description": "A young man hires a beautiful young nurse to live with and care for the man's elderly, wheelchair-bound grandfather. The nurse's \"charm\" hides a sadist who couldn't care less about her patient's welfare. The young man soon finds out that his grandfather is being shamefully neglected. One night, the nurse is found murdered, a hypodermic needle slammed into the base of her brain. It's clear that she was killed during an argument, and the grandson is the prime suspect. When the grandson asks Petrocelli to quiz his grandfather, Petrocelli learns that the grandfather died that same night of one of his numerous illnesses. When the case goes to trial, damning testimony is provided by an old rancher friend of the grandfather's who visited the house just after the murder and found both bodies. Petrocelli's only chance is to poke a hole in the testimony, based on a sixteen-minute gap where the rancher says he was reminiscing over his old friend -- or was he covering up evidence?",
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Stephen Elliott",
+        "nm": 254634,
+        "roles": [
+          {
+            "char": "Martin Granger"
+          }
+        ]
+      },
+      {
+        "name": "Robert Mandan",
+        "nm": 541610,
+        "roles": [
+          {
+            "char": "Sheriff Arnheit"
+          }
+        ]
+      },
+      {
+        "name": "Michael Baseleon",
+        "nm": 59712,
+        "roles": [
+          {
+            "char": "Melvin Pollack"
+          }
+        ]
+      },
+      {
+        "name": "Paul Shenar",
+        "nm": 791502,
+        "roles": [
+          {
+            "char": "Archie LaSalle"
+          }
+        ]
+      },
+      {
+        "name": "George O'Hanlon Jr.",
+        "nm": 641191,
+        "roles": [
+          {
+            "char": "Lewis Baldwin"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth MacRae",
+        "nm": 534281,
+        "roles": [
+          {
+            "char": "Lucille Bates"
+          }
+        ]
+      },
+      {
+        "name": "Torin Thatcher",
+        "nm": 857147,
+        "roles": [
+          {
+            "char": "George Baldwin"
+          }
+        ]
+      },
+      {
+        "name": "Fred Ashley",
+        "nm": 39057,
+        "roles": [
+          {
+            "char": "Patrick O'Mahoney"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Jeffers",
+        "nm": 420145,
+        "roles": [
+          {
+            "char": "Judge Seton"
+          }
+        ]
+      },
+      {
+        "name": "Tony Moreno",
+        "nm": 5626679,
+        "roles": [
+          {
+            "char": "Flavio Verdicchio"
+          }
+        ]
+      },
+      {
+        "name": "Lowell Gleason",
+        "nm": 1506064,
+        "roles": [
+          {
+            "char": "Bailiff"
+          }
+        ]
+      },
+      {
+        "name": "Melvin Todd",
+        "nm": 865238,
+        "roles": [
+          {
+            "char": "Motel Manager"
+          }
+        ]
+      },
+      {
+        "name": "Cody Diamond",
+        "nm": 5626967,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "A Night of Terror",
+    "tt": 673836,
+    "air_date": "1975-04-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Lois Nettleton",
+        "nm": 626728,
+        "roles": [
+          {
+            "char": "Gloria"
+          }
+        ]
+      },
+      {
+        "name": "Peter Mark Richman",
+        "nm": 725052,
+        "roles": [
+          {
+            "char": "Leo Roman"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Woodward",
+        "nm": 940971,
+        "roles": [
+          {
+            "char": "Augie Briola"
+          }
+        ]
+      },
+      {
+        "name": "Lance LeGault",
+        "nm": 499223,
+        "roles": [
+          {
+            "char": "Fred Kistler",
+            "as W.L. Le Gault": true
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "Sam Murkland",
+            "ch": 170939
+          }
+        ]
+      },
+      {
+        "name": "Joseph Mell",
+        "nm": 577865,
+        "roles": [
+          {
+            "char": "Erik Frost"
+          }
+        ]
+      },
+      {
+        "name": "Claudia Bryar",
+        "nm": 117267,
+        "roles": [
+          {
+            "char": "Mrs. Brancussi"
+          }
+        ]
+      },
+      {
+        "name": "Med Flory",
+        "nm": 283095,
+        "roles": [
+          {
+            "char": "Robert Miller"
+          }
+        ]
+      },
+      {
+        "name": "Jim Boles",
+        "nm": 92899,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Walker Edmiston",
+        "nm": 249456,
+        "roles": [
+          {
+            "char": "Court Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Katharine Holcomb",
+        "nm": 3922308,
+        "roles": [
+          {
+            "char": "Sue"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Rosenthal",
+        "nm": 1575315,
+        "roles": [
+          {
+            "char": "Einhorn"
+          }
+        ]
+      },
+      {
+        "name": "Evans Thornton",
+        "nm": 861526,
+        "roles": [
+          {
+            "char": "Judge Baker"
+          }
+        ]
+      },
+      {
+        "name": "Michael Alexander",
+        "nm": 18624,
+        "roles": [
+          {
+            "char": "Assistant D.A."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Death Ride",
+    "tt": 673858,
+    "air_date": "1975-09-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Ned Beatty",
+        "nm": 885,
+        "roles": [
+          {
+            "char": "Gage"
+          }
+        ]
+      },
+      {
+        "name": "Diana Ewing",
+        "nm": 263960,
+        "roles": [
+          {
+            "char": "Dusty"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bell",
+        "nm": 68407,
+        "roles": [
+          {
+            "char": "Frank Kaiser"
+          }
+        ]
+      },
+      {
+        "name": "Ford Rainey",
+        "nm": 707077,
+        "roles": [
+          {
+            "char": "Hank"
+          }
+        ]
+      },
+      {
+        "name": "John Crawford",
+        "nm": 186833,
+        "roles": [
+          {
+            "char": "Billy Elwood"
+          }
+        ]
+      },
+      {
+        "name": "Gerald McRaney",
+        "nm": 574468,
+        "roles": [
+          {
+            "char": "Cliff"
+          }
+        ]
+      },
+      {
+        "name": "Don 'Red' Barry",
+        "nm": 57983,
+        "roles": [
+          {
+            "char": "Vern"
+          }
+        ]
+      },
+      {
+        "name": "Don Starr",
+        "nm": 823493,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Gary Mike Casper",
+        "nm": 143850,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Kimo Owens",
+        "nm": 654408,
+        "roles": [
+          {
+            "char": "1st Cowboy"
+          }
+        ]
+      },
+      {
+        "name": "Charles Young",
+        "nm": 949371,
+        "roles": [
+          {
+            "char": "2nd Cowboy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Mark of Cain",
+    "tt": 673853,
+    "air_date": "1975-09-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "John Saxon",
+        "nm": 768334,
+        "roles": [
+          {
+            "char": "Richie Martin"
+          }
+        ]
+      },
+      {
+        "name": "Ken Swofford",
+        "nm": 842855,
+        "roles": [
+          {
+            "char": "Lieutenant John Clifford",
+            "ch": 129871
+          }
+        ]
+      },
+      {
+        "name": "Paul Koslo",
+        "nm": 467178,
+        "roles": [
+          {
+            "char": "Morgan"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Beck",
+        "nm": 65301,
+        "roles": [
+          {
+            "char": "Parker"
+          }
+        ]
+      },
+      {
+        "name": "John Henry Cox",
+        "nm": 185099,
+        "roles": [
+          {
+            "char": "Davis",
+            "as John H. Cox": true
+          }
+        ]
+      },
+      {
+        "name": "Carver Barnes",
+        "nm": 55476,
+        "roles": [
+          {
+            "char": "Connors"
+          }
+        ]
+      },
+      {
+        "name": "Hal Hundley",
+        "nm": 3917642,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Barry Dowell",
+        "nm": 2468682,
+        "roles": [
+          {
+            "char": "Harris"
+          }
+        ]
+      },
+      {
+        "name": "John Leonelli",
+        "nm": 2927146,
+        "roles": [
+          {
+            "char": "Edwards"
+          }
+        ]
+      },
+      {
+        "name": "Kimo Owens",
+        "nm": 654408,
+        "roles": [
+          {
+            "char": "Thomas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Five Yards of Trouble",
+    "tt": 673850,
+    "air_date": "1975-09-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Angela Clarke",
+        "nm": 164650,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Glenn Corbett",
+        "nm": 179148,
+        "roles": [
+          {
+            "char": "Charlie"
+          }
+        ]
+      },
+      {
+        "name": "Richard Jacome",
+        "nm": 415037,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "BarBara Luna",
+        "nm": 526008,
+        "roles": [
+          {
+            "char": "Dorothy",
+            "as Barbara Luna": true
+          }
+        ]
+      },
+      {
+        "name": "Robbie Rist",
+        "nm": 728411,
+        "roles": [
+          {
+            "char": "Ray"
+          }
+        ]
+      },
+      {
+        "name": "Fred Stromsoe",
+        "nm": 834931,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "H.M. Wynant",
+        "nm": 943894,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Shadow of Fear",
+    "tt": 673857,
+    "air_date": "1975-10-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Anne Archer",
+        "nm": 271,
+        "roles": [
+          {
+            "char": "Sherril Brewster"
+          }
+        ]
+      },
+      {
+        "name": "John Henry Cox",
+        "nm": 185099,
+        "roles": [
+          {
+            "char": "Tom Archer"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Goldsmith",
+        "nm": 326091,
+        "roles": [
+          {
+            "char": "Harry Silver",
+            "as Jonathan Lippe": true
+          }
+        ]
+      },
+      {
+        "name": "Warren J. Kemmerling",
+        "nm": 447230,
+        "roles": [
+          {
+            "char": "Lt. Carter"
+          }
+        ]
+      },
+      {
+        "name": "William Windom",
+        "nm": 934750,
+        "roles": [
+          {
+            "char": "Alan Brewster"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Chain of Command",
+    "tt": 673842,
+    "air_date": "1975-10-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Rosemary DeCamp",
+        "nm": 213619,
+        "roles": [
+          {
+            "char": "Mrs. Drew"
+          }
+        ]
+      },
+      {
+        "name": "John Lupton",
+        "nm": 527017,
+        "roles": [
+          {
+            "char": "District Attorney Hanson"
+          }
+        ]
+      },
+      {
+        "name": "Lin McCarthy",
+        "nm": 565229,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lee Montgomery",
+        "nm": 599837,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John Ritter",
+        "nm": 615,
+        "roles": [
+          {
+            "char": "John Oleson"
+          }
+        ]
+      },
+      {
+        "name": "Warren Stevens",
+        "nm": 828838,
+        "roles": [
+          {
+            "char": "General Drew"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "To See No Evil",
+    "tt": 673873,
+    "air_date": "1975-10-29",
+    "description": "In the dead of night, the residents of a sprawling apartment complex hear two rapid-fire gunshots. They race to the apartment of a young woman living alone, and find the body of another resident on the floor near her bed. The young woman claims that the man raided her room and she shot him in self-defense. The District Attorney believes part of the story, but claims the victim wasn't threatening the young woman and files manslaughter charges against her. But that's not half of the story. The young woman is blind. She only heard the intruder and panicked, grabbing a pistol from her bed stand drawer and firing wildly. One bullet drilled the victim through the heart -- but the other one can't be found. When the weapon is examined, only one round is spent. Did everybody hear a phantom second shot? Petrocelli cross-examines the woman, handing her an \"unloaded\" pistol and asking her to pull the trigger on his count. He's actually loaded a blank cartridge into the chamber and she can't tell the difference, so when the gun detonates she cries out that she's killed her lawyer. That makes Petrocelli believe that maybe she didn't kill anyone. Some snooping around the San Remo, Arizona (actually Tucson) police department reveals that the dead man was an undercover cop -- giving somebody plenty of motive to murder him beforehand and dump his corpse in the young woman's lap!",
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Michael Bell",
+        "nm": 68407,
+        "roles": [
+          {
+            "char": "Frank Kaiser"
+          }
+        ]
+      },
+      {
+        "name": "Erica Hagen",
+        "nm": 353385,
+        "roles": [
+          {
+            "char": "Shirley Miller"
+          }
+        ]
+      },
+      {
+        "name": "Dave Hatunen",
+        "nm": 1510096,
+        "roles": [
+          {
+            "char": "John Saffro"
+          }
+        ]
+      },
+      {
+        "name": "Julie Kavner",
+        "nm": 1413,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Steve Sandor",
+        "nm": 762080,
+        "roles": [
+          {
+            "char": "Robert Jarvis"
+          }
+        ]
+      },
+      {
+        "name": "Robert Symonds",
+        "nm": 843367,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Terror on Wheels",
+    "tt": 673863,
+    "air_date": "1975-11-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Dimitri"
+          }
+        ]
+      },
+      {
+        "name": "Gerald McRaney",
+        "nm": 574468,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Annette O'Toole",
+        "nm": 1578,
+        "roles": [
+          {
+            "char": "Tina"
+          }
+        ]
+      },
+      {
+        "name": "Kimo Owens",
+        "nm": 654408,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Caroline Reed",
+        "nm": 715348,
+        "roles": [
+          {
+            "char": "Biker Chick"
+          }
+        ]
+      },
+      {
+        "name": "Ayn Ruymen",
+        "nm": 752267,
+        "roles": [
+          {
+            "char": "Katie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "The Gamblers",
+    "tt": 673866,
+    "air_date": "1975-11-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Jack Ging",
+        "nm": 319978,
+        "roles": [
+          {
+            "char": "James Wylie"
+          }
+        ]
+      },
+      {
+        "name": "Mark Hamill",
+        "nm": 434,
+        "roles": [
+          {
+            "char": "Dennis Wylie"
+          }
+        ]
+      },
+      {
+        "name": "John Lupton",
+        "nm": 527017,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "A Martinez",
+        "nm": 553436,
+        "roles": [
+          {
+            "char": "Mando"
+          }
+        ]
+      },
+      {
+        "name": "Monika Ramirez",
+        "nm": 708346,
+        "roles": [
+          {
+            "char": "Teresa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Terror by the Book",
+    "tt": 673862,
+    "air_date": "1975-12-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Michael Bell",
+        "nm": 68407,
+        "roles": [
+          {
+            "char": "Frank Kaiser"
+          }
+        ]
+      },
+      {
+        "name": "Dick Butkus",
+        "nm": 124792,
+        "roles": [
+          {
+            "char": "Jim Eberly"
+          }
+        ]
+      },
+      {
+        "name": "Marj Dusay",
+        "nm": 244582,
+        "roles": [
+          {
+            "char": "Eve Orland"
+          }
+        ]
+      },
+      {
+        "name": "Anne Francis",
+        "nm": 4282,
+        "roles": [
+          {
+            "char": "Emily Burke"
+          }
+        ]
+      },
+      {
+        "name": "S. John Launer",
+        "nm": 490961,
+        "roles": [
+          {
+            "char": "Max Franklin"
+          }
+        ]
+      },
+      {
+        "name": "Dewey Martin",
+        "nm": 552185,
+        "roles": [
+          {
+            "char": "Bill Whitehead"
+          }
+        ]
+      },
+      {
+        "name": "Bing Russell",
+        "nm": 751032,
+        "roles": [
+          {
+            "char": "John Miller"
+          }
+        ]
+      },
+      {
+        "name": "Ned Wilson",
+        "nm": 933905,
+        "roles": [
+          {
+            "char": "Roy Burke"
+          }
+        ]
+      },
+      {
+        "name": "Eric Sundt",
+        "nm": 1782006,
+        "roles": [
+          {
+            "char": "Football Player",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Face of Evil",
+    "tt": 673849,
+    "air_date": "1975-12-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Kay Lenz",
+        "nm": 1464,
+        "roles": [
+          {
+            "char": "Janet"
+          },
+          {
+            "char": "Mary Wade"
+          }
+        ]
+      },
+      {
+        "name": "Robert F. Lyons",
+        "nm": 529150,
+        "roles": [
+          {
+            "char": "Sam Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Lucille Benson",
+        "nm": 72569,
+        "roles": [
+          {
+            "char": "Madge Briar"
+          }
+        ]
+      },
+      {
+        "name": "Fred Beir",
+        "nm": 67262,
+        "roles": [
+          {
+            "char": "John Kelley"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Rosenthal",
+        "nm": 1575315,
+        "roles": [
+          {
+            "char": "Dr. Koblin"
+          }
+        ]
+      },
+      {
+        "name": "Fred Ashley",
+        "nm": 39057,
+        "roles": [
+          {
+            "char": "Henry Hoffler"
+          }
+        ]
+      },
+      {
+        "name": "Henry Kendrick",
+        "nm": 447709,
+        "roles": [
+          {
+            "char": "Doc Simpson"
+          }
+        ]
+      },
+      {
+        "name": "Shirley Poliakoff",
+        "nm": 6516721,
+        "roles": [
+          {
+            "char": "Thelma"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Jeffers",
+        "nm": 420145,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Norman Stone",
+        "nm": 832088,
+        "roles": [
+          {
+            "char": "Wallace"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Blood",
+        "nm": 89111,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Moe Mosley",
+        "nm": 608844,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Too Many Alibis",
+    "tt": 673874,
+    "air_date": "1975-12-24",
+    "description": "Petrocelli's client is a conscientious black doctor accused of killing the hospital chief of staff, who charged him with incompetence and fired him.",
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Robert Hooks",
+        "nm": 393666,
+        "roles": [
+          {
+            "char": "Dave Hill"
+          }
+        ]
+      },
+      {
+        "name": "Bettye Ackerman",
+        "nm": 9956,
+        "roles": [
+          {
+            "char": "Ann Hendricks"
+          }
+        ]
+      },
+      {
+        "name": "Susan Sullivan",
+        "nm": 838360,
+        "roles": [
+          {
+            "char": "Janet Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Gloria Calomee",
+        "nm": 130673,
+        "roles": [
+          {
+            "char": "Cobbie Hill"
+          }
+        ]
+      },
+      {
+        "name": "Sally Kirkland",
+        "nm": 476,
+        "roles": [
+          {
+            "char": "Joan Arnold"
+          }
+        ]
+      },
+      {
+        "name": "Gino Ardito",
+        "nm": 34082,
+        "roles": [
+          {
+            "char": "Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Marian Gibson",
+        "nm": 317099,
+        "roles": [
+          {
+            "char": "Emma Nolan"
+          }
+        ]
+      },
+      {
+        "name": "Riley Hill",
+        "nm": 384610,
+        "roles": [
+          {
+            "char": "Allen Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Jeffers",
+        "nm": 420145,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Steve Eastin",
+        "nm": 247611,
+        "roles": [
+          {
+            "char": "Detective Brock"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Weiss",
+        "nm": 918915,
+        "roles": [
+          {
+            "char": "Dr. Irwin Bliss"
+          }
+        ]
+      },
+      {
+        "name": "Ron Chapman",
+        "nm": 152512,
+        "roles": [
+          {
+            "char": "Mr. Thatcher"
+          }
+        ]
+      },
+      {
+        "name": "Frank Kennedy",
+        "nm": 448036,
+        "roles": [
+          {
+            "char": "Dr. Wilbur Hendricks"
+          }
+        ]
+      },
+      {
+        "name": "Rex Janssen",
+        "nm": 418192,
+        "roles": [
+          {
+            "char": "Tod Harris"
+          }
+        ]
+      },
+      {
+        "name": "George Aguillar",
+        "nm": 6516943,
+        "roles": [
+          {
+            "char": "Aguillar"
+          }
+        ]
+      },
+      {
+        "name": "Earl W. Smith",
+        "nm": 808074,
+        "roles": [
+          {
+            "char": "John Arnold"
+          }
+        ]
+      },
+      {
+        "name": "Fred Stromsoe",
+        "nm": 834931,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Sherry Hummer",
+        "nm": 401876,
+        "roles": [
+          {
+            "char": "Kid"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "A Deadly Vow",
+    "tt": 673832,
+    "air_date": "1975-12-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Forsyth",
+        "nm": 287071,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Salome Jens",
+        "nm": 421300,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Warren J. Kemmerling",
+        "nm": 447230,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Fred Stromsoe",
+        "nm": 834931,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Len Wayland",
+        "nm": 915485,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "The Falling Star",
+    "tt": 673865,
+    "air_date": "1976-01-21",
+    "description": "This case is not an ordinary one for Petrocelli. As a matter of fact, the man he accepts to defend is none other than Dusty Rhodes, a film star who was his youth idol. Dusty is suspected of having murdered Mannie Tyler, a film producer, and all appearances are unfortunately against him. But Petrocelli's favorite actor is positive he has nothing to do with the crime.",
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Frank Aletter",
+        "nm": 18173,
+        "roles": [
+          {
+            "char": "Dusty Rhodes"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence P. Casey",
+        "nm": 143472,
+        "roles": [
+          {
+            "char": "Himself",
+            "as Larry Casey": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Curtis",
+        "nm": 193411,
+        "roles": [
+          {
+            "char": "Harry Underwood"
+          }
+        ]
+      },
+      {
+        "name": "Susan Dey",
+        "nm": 1138,
+        "roles": [
+          {
+            "char": "Jenny Halliday"
+          }
+        ]
+      },
+      {
+        "name": "George Petrie",
+        "nm": 677959,
+        "roles": [
+          {
+            "char": "Mannie Tyler"
+          }
+        ]
+      },
+      {
+        "name": "Jess Riggle",
+        "nm": 726664,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Fred Stromsoe",
+        "nm": 834931,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Noble Willingham",
+        "nm": 932244,
+        "roles": [
+          {
+            "char": "Artie Jacobs"
+          }
+        ]
+      },
+      {
+        "name": "Francine York",
+        "nm": 948696,
+        "roles": [
+          {
+            "char": "Lisa Farley"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "Survival",
+    "tt": 673861,
+    "air_date": "1976-01-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Ron Burke",
+        "nm": 121850,
+        "roles": [
+          {
+            "char": "Driver"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Connelly",
+        "nm": 175060,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "René Enríquez",
+        "nm": 258089,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "James W. Gavin",
+        "nm": 310542,
+        "roles": [
+          {
+            "char": "Helicopter Pilot"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Goldsmith",
+        "nm": 326091,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Brian Libby",
+        "nm": 508742,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Troy Melton",
+        "nm": 578415,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Moe Mosley",
+        "nm": 608844,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Cindy Williams",
+        "nm": 930286,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E15",
+    "title": "The Night Visitor",
+    "tt": 673869,
+    "air_date": "1976-02-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Thayer David",
+        "nm": 203076,
+        "roles": [
+          {
+            "char": "MacIver"
+          }
+        ]
+      },
+      {
+        "name": "Moe Mosley",
+        "nm": 608844,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Phillip Pine",
+        "nm": 683984,
+        "roles": [
+          {
+            "char": "Parker"
+          }
+        ]
+      },
+      {
+        "name": "Mark Stanoch",
+        "nm": 1356622,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Neil Summers",
+        "nm": 838612,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ken Swofford",
+        "nm": 842855,
+        "roles": [
+          {
+            "char": "Clifford",
+            "ch": 129871
+          }
+        ]
+      },
+      {
+        "name": "Joan Van Ark",
+        "nm": 5521,
+        "roles": [
+          {
+            "char": "Chris"
+          }
+        ]
+      },
+      {
+        "name": "Charles Young",
+        "nm": 949371,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E16",
+    "title": "Blood Money",
+    "tt": 673840,
+    "air_date": "1976-02-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Harry"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Hammond",
+        "nm": 358749,
+        "roles": [
+          {
+            "char": "Whitey"
+          }
+        ]
+      },
+      {
+        "name": "David Mooney",
+        "nm": 544537,
+        "roles": [
+          {
+            "char": "Prosecuting Attorney"
+          }
+        ]
+      },
+      {
+        "name": "James Naughton",
+        "nm": 622553,
+        "roles": [
+          {
+            "char": "Andy"
+          }
+        ]
+      },
+      {
+        "name": "Denver Pyle",
+        "nm": 701500,
+        "roles": [
+          {
+            "char": "Warburton"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Rubin",
+        "nm": 748004,
+        "roles": [
+          {
+            "char": "Doc"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Scott",
+        "nm": 779850,
+        "roles": [
+          {
+            "char": "Gus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E17",
+    "title": "Any Number Can Die",
+    "tt": 673839,
+    "air_date": "1976-02-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Joshua Bryant",
+        "nm": 117145,
+        "roles": [
+          {
+            "char": "Paul Andrews"
+          }
+        ]
+      },
+      {
+        "name": "Paul Burke",
+        "nm": 121826,
+        "roles": [
+          {
+            "char": "John Fleming"
+          }
+        ]
+      },
+      {
+        "name": "Gwynne Gilford",
+        "nm": 318522,
+        "roles": [
+          {
+            "char": "Jean Andrews"
+          }
+        ]
+      },
+      {
+        "name": "Mark Gordon",
+        "nm": 330427,
+        "roles": [
+          {
+            "char": "Frank Keegan"
+          }
+        ]
+      },
+      {
+        "name": "Francesca Jarvis",
+        "nm": 419051,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E18",
+    "title": "Six Strings of Guilt",
+    "tt": 673860,
+    "air_date": "1976-02-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Claire Brennen",
+        "nm": 107268,
+        "roles": [
+          {
+            "char": "Georgia"
+          }
+        ]
+      },
+      {
+        "name": "Ward Costello",
+        "nm": 182626,
+        "roles": [
+          {
+            "char": "Thomas Barnes"
+          }
+        ]
+      },
+      {
+        "name": "John Henry Cox",
+        "nm": 185099,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tammy Harrington",
+        "nm": 364359,
+        "roles": [
+          {
+            "char": "Judy Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Martin Kove",
+        "nm": 184392,
+        "roles": [
+          {
+            "char": "Frank Harris"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Miles",
+        "nm": 587151,
+        "roles": [
+          {
+            "char": "Sally Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Moe Mosley",
+        "nm": 608844,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Eddie Quillan",
+        "nm": 703600,
+        "roles": [
+          {
+            "char": "Drunk"
+          }
+        ]
+      },
+      {
+        "name": "Wayne Tippit",
+        "nm": 864133,
+        "roles": [
+          {
+            "char": "Will Lewis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E19",
+    "title": "Deadly Journey",
+    "tt": 673844,
+    "air_date": "1976-03-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Jeff Allin",
+        "nm": 20635,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lucille Benson",
+        "nm": 72569,
+        "roles": [
+          {
+            "char": "Lucilole Davis"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Borden",
+        "nm": 96143,
+        "roles": [
+          {
+            "char": "Susan Kurry"
+          }
+        ]
+      },
+      {
+        "name": "Ron Burke",
+        "nm": 121850,
+        "roles": [
+          {
+            "char": "Mechanic"
+          }
+        ]
+      },
+      {
+        "name": "Fred Carson",
+        "nm": 141236,
+        "roles": [
+          {
+            "char": "Mechanic"
+          }
+        ]
+      },
+      {
+        "name": "Ron Foster",
+        "nm": 288031,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kent Hays",
+        "nm": 371626,
+        "roles": [
+          {
+            "char": "Mechanic"
+          }
+        ]
+      },
+      {
+        "name": "Brian Libby",
+        "nm": 508742,
+        "roles": [
+          {
+            "char": "Bill Kerry"
+          }
+        ]
+      },
+      {
+        "name": "M.P. Murphy",
+        "nm": 614477,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marion Ross",
+        "nm": 5385,
+        "roles": [
+          {
+            "char": "Janet Williamson"
+          }
+        ]
+      },
+      {
+        "name": "Alan Vint",
+        "nm": 899106,
+        "roles": [
+          {
+            "char": "Joe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Deborah White",
+        "nm": 924697,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E20",
+    "title": "The Pay Off",
+    "tt": 673845,
+    "air_date": "1976-03-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Victor French",
+        "nm": 294229,
+        "roles": [
+          {
+            "char": "Roy Caldwell"
+          }
+        ]
+      },
+      {
+        "name": "Dabney Coleman",
+        "nm": 1056,
+        "roles": [
+          {
+            "char": "Willy Morgan"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Moore",
+        "nm": 601369,
+        "roles": [
+          {
+            "char": "Kay Willis"
+          }
+        ]
+      },
+      {
+        "name": "Don Most",
+        "nm": 609182,
+        "roles": [
+          {
+            "char": "Will Johnson",
+            "as Donny Most": true
+          }
+        ]
+      },
+      {
+        "name": "Linda Dano",
+        "nm": 200451,
+        "roles": [
+          {
+            "char": "Lila Danford"
+          }
+        ]
+      },
+      {
+        "name": "Burr DeBenning",
+        "nm": 213392,
+        "roles": [
+          {
+            "char": "Vince Belmont"
+          }
+        ]
+      },
+      {
+        "name": "Whit Bissell",
+        "nm": 946,
+        "roles": [
+          {
+            "char": "Douglas Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Mark Goddard",
+        "nm": 323813,
+        "roles": [
+          {
+            "char": "Bo Keller"
+          }
+        ]
+      },
+      {
+        "name": "Richard Elman",
+        "nm": 5504313,
+        "roles": [
+          {
+            "char": "Walt Jameson"
+          }
+        ]
+      },
+      {
+        "name": "Don Starr",
+        "nm": 823493,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Gail Bowman",
+        "nm": 101321,
+        "roles": [
+          {
+            "char": "Jackie"
+          }
+        ]
+      },
+      {
+        "name": "Doug Dudley",
+        "nm": 240121,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Hayes Stewart",
+        "nm": 829418,
+        "roles": [
+          {
+            "char": "Bartender - Rusty Hayes"
+          }
+        ]
+      },
+      {
+        "name": "Mike Munday",
+        "nm": 5595460,
+        "roles": [
+          {
+            "char": "Cab Driver"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Burnett",
+        "nm": 122418,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "George O'Hanlon Jr.",
+        "nm": 641191,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E21",
+    "title": "Shadow of a Doubt",
+    "tt": 673859,
+    "air_date": "1976-03-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Anne Archer",
+        "nm": 271,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Harold Gould",
+        "nm": 332390,
+        "roles": [
+          {
+            "char": "Haskell Fox"
+          }
+        ]
+      },
+      {
+        "name": "Katherine Helmond",
+        "nm": 1340,
+        "roles": [
+          {
+            "char": "Nancy Berwick"
+          }
+        ]
+      },
+      {
+        "name": "Brian Libby",
+        "nm": 508742,
+        "roles": [
+          {
+            "char": "James Buck"
+          }
+        ]
+      },
+      {
+        "name": "Tim Matheson",
+        "nm": 1513,
+        "roles": [
+          {
+            "char": "Mike Fisher"
+          }
+        ]
+      },
+      {
+        "name": "William Prince",
+        "nm": 697733,
+        "roles": [
+          {
+            "char": "Judge Anderson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E22",
+    "title": "Jubilee Jones",
+    "tt": 673852,
+    "air_date": "1976-03-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Barry Newman",
+        "nm": 628017,
+        "roles": [
+          {
+            "char": "Anthony J. Petrocelli",
+            "ch": 70669
+          }
+        ]
+      },
+      {
+        "name": "Susan Howard",
+        "nm": 397622,
+        "roles": [
+          {
+            "char": "Maggie Petrocelli"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Pete Ritter",
+            "ch": 70670
+          }
+        ]
+      },
+      {
+        "name": "Sheldon Allman",
+        "nm": 21532,
+        "roles": [
+          {
+            "char": "Phil Kinglsey"
+          }
+        ]
+      },
+      {
+        "name": "Scatman Crothers",
+        "nm": 1079,
+        "roles": [
+          {
+            "char": "Jubilee Jones"
+          }
+        ]
+      },
+      {
+        "name": "Beah Richards",
+        "nm": 723968,
+        "roles": [
+          {
+            "char": "Bessie Jones"
+          }
+        ]
+      },
+      {
+        "name": "Don Starr",
+        "nm": 823493,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Linda Sublette",
+        "nm": 836971,
+        "roles": [
+          {
+            "char": "Alice Jablonski"
+          }
+        ]
+      }
+    ]
+  }
+]

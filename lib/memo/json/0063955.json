@@ -1,0 +1,2124 @@
+[
+  {
+    "se": "S01E00",
+    "title": "Pilot",
+    "tt": 65087,
+    "air_date": "1969-03-24",
+    "description": "A newspaper reporter quits his job and travels across America by motorcycle.",
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Bonnie Bedelia",
+        "nm": 889,
+        "roles": [
+          {
+            "char": "Temple Brooks",
+            "ch": 90250
+          }
+        ]
+      },
+      {
+        "name": "Akim Tamiroff",
+        "nm": 848667,
+        "roles": [
+          {
+            "char": "Papa Bear",
+            "ch": 93558
+          }
+        ]
+      },
+      {
+        "name": "Gary Merrill",
+        "nm": 581282,
+        "roles": [
+          {
+            "char": "Inspector Otis"
+          }
+        ]
+      },
+      {
+        "name": "Sheree North",
+        "nm": 636065,
+        "roles": [
+          {
+            "char": "Gloria Oresko"
+          }
+        ]
+      },
+      {
+        "name": "Martin Sheen",
+        "nm": 640,
+        "roles": [
+          {
+            "char": "Nick Oresko",
+            "ch": 93557
+          }
+        ]
+      },
+      {
+        "name": "Bert Freed",
+        "nm": 293099,
+        "roles": [
+          {
+            "char": "Editor Carson"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Mars",
+        "nm": 550308,
+        "roles": [
+          {
+            "char": "Troy"
+          }
+        ]
+      },
+      {
+        "name": "Ted Gehring",
+        "nm": 311811,
+        "roles": [
+          {
+            "char": "Diner Owner"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Hauben",
+        "nm": 369142,
+        "roles": [
+          {
+            "char": "Eddie"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bell",
+        "nm": 68407,
+        "roles": [
+          {
+            "char": "Petty"
+          }
+        ]
+      },
+      {
+        "name": "Gene Dynarski",
+        "nm": 245940,
+        "roles": [
+          {
+            "char": "Boots Kowalski",
+            "ch": 226411
+          }
+        ]
+      },
+      {
+        "name": "Art Metrano",
+        "nm": 582586,
+        "roles": [
+          {
+            "char": "Barker"
+          }
+        ]
+      },
+      {
+        "name": "Peter Brocco",
+        "nm": 110480,
+        "roles": [
+          {
+            "char": "Stationmaster"
+          }
+        ]
+      },
+      {
+        "name": "Stanley Schneider",
+        "nm": 774029,
+        "roles": [
+          {
+            "char": "Deputy"
+          }
+        ]
+      },
+      {
+        "name": "Stu Klitsner",
+        "nm": 459893,
+        "roles": [
+          {
+            "char": "Businessman"
+          }
+        ]
+      },
+      {
+        "name": "Fabian Gregory Cordova",
+        "nm": 179644,
+        "roles": [
+          {
+            "char": "Pablo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E01",
+    "title": "The Runner",
+    "tt": 720584,
+    "air_date": "1969-09-17",
+    "description": "At a camp for children with autism, Jim befriends Johnny: a young autistic boy who is known as \"The Runner.\"",
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Jack Klugman",
+        "nm": 1430,
+        "roles": [
+          {
+            "char": "Dr. Charles Hanrahan",
+            "ch": 212825
+          }
+        ]
+      },
+      {
+        "name": "Karen Ericson",
+        "nm": 259155,
+        "roles": [
+          {
+            "char": "Doris Hanrahan",
+            "ch": 90232,
+            "as Karen Huston": true
+          }
+        ]
+      },
+      {
+        "name": "Mark Lester",
+        "nm": 504492,
+        "roles": [
+          {
+            "char": "John Beaman",
+            "ch": 149001
+          }
+        ]
+      },
+      {
+        "name": "Penny Marshall",
+        "nm": 1508,
+        "roles": [
+          {
+            "char": "Claire"
+          }
+        ]
+      },
+      {
+        "name": "David Westberg",
+        "nm": 922427,
+        "roles": [
+          {
+            "char": "Frank"
+          }
+        ]
+      },
+      {
+        "name": "Steve Vinovich",
+        "nm": 899079,
+        "roles": [
+          {
+            "char": "Clayton"
+          }
+        ]
+      },
+      {
+        "name": "Arlene Kaiser",
+        "nm": 1097632,
+        "roles": [
+          {
+            "char": "Maggie"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Lee Gayhart",
+        "nm": 2611356,
+        "roles": [
+          {
+            "char": "Betsy"
+          }
+        ]
+      },
+      {
+        "name": "Roy Lewis Garton",
+        "nm": 5146306,
+        "roles": [
+          {
+            "char": "Handicapped School Student",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Old Motorcycle Fiasco",
+    "tt": 720583,
+    "air_date": "1969-09-24",
+    "description": "Old-timer Alex invites Jim to use his ranch to work on his damaged bike with the hopes that Bronson will repair his Rudge Ulster; a bike that has been garaged since 1946 due to Alex's wife's hatred of motorcycles.",
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Keenan Wynn",
+        "nm": 943978,
+        "roles": [
+          {
+            "char": "Alex Halvorsen",
+            "ch": 94651
+          }
+        ]
+      },
+      {
+        "name": "Martine Bartlett",
+        "nm": 58856,
+        "roles": [
+          {
+            "char": "Nora Halvorsen",
+            "ch": 94652
+          }
+        ]
+      },
+      {
+        "name": "James Nusser",
+        "nm": 638281,
+        "roles": [
+          {
+            "char": "Ben Crosswell"
+          }
+        ]
+      },
+      {
+        "name": "Meg Wyllie",
+        "nm": 943816,
+        "roles": [
+          {
+            "char": "Mrs. Crosswell"
+          }
+        ]
+      },
+      {
+        "name": "James Goodwin",
+        "nm": 329478,
+        "roles": [
+          {
+            "char": "Pump Jockey",
+            "ch": 93065
+          }
+        ]
+      },
+      {
+        "name": "Carey Loftin",
+        "nm": 517444,
+        "roles": [
+          {
+            "char": "Rancher"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "A Famine Where Abundance Lies",
+    "tt": 720564,
+    "air_date": "1969-10-01",
+    "description": "Knowing that Bronson is short on cash, lonely widow Monica offers him a job on her guest ranch. During Jim's stay, Monica's teenage daughter Lori becomes quite enamored with Jim; and so does her mother.",
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Paul Gleason",
+        "nm": 322339,
+        "roles": [
+          {
+            "char": "Deputy"
+          }
+        ]
+      },
+      {
+        "name": "Lois A. Harsen",
+        "nm": 3126868,
+        "roles": [
+          {
+            "char": "Hospital E.R. Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Hal Johnson",
+        "nm": 3125657,
+        "roles": [
+          {
+            "char": "Helping Cowboy"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Randall",
+        "nm": 709613,
+        "roles": [
+          {
+            "char": "Peter"
+          }
+        ]
+      },
+      {
+        "name": "Carol Eve Rossen",
+        "nm": 744029,
+        "roles": [
+          {
+            "char": "Monica Balin",
+            "ch": 90235,
+            "as Carol Rossen": true
+          }
+        ]
+      },
+      {
+        "name": "Charlotte Stewart",
+        "nm": 829270,
+        "roles": [
+          {
+            "char": "Lori Balin",
+            "ch": 98148
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Circle of Time",
+    "tt": 720577,
+    "air_date": "1969-10-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Woody Chambliss",
+        "nm": 150476,
+        "roles": [
+          {
+            "char": "Abner Hotchman",
+            "ch": 90236
+          }
+        ]
+      },
+      {
+        "name": "Dabney Coleman",
+        "nm": 1056,
+        "roles": [
+          {
+            "char": "Doctor Ron Carlisle"
+          }
+        ]
+      },
+      {
+        "name": "Elsa Lanchester",
+        "nm": 6471,
+        "roles": [
+          {
+            "char": "Hattie Calter",
+            "ch": 90237
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Where Will the Trumpets Be?",
+    "tt": 720588,
+    "air_date": "1969-10-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Lane Bradbury",
+        "nm": 102902,
+        "roles": [
+          {
+            "char": "Bella Mendoza",
+            "ch": 96677
+          }
+        ]
+      },
+      {
+        "name": "Fernando Lamas",
+        "nm": 482881,
+        "roles": [
+          {
+            "char": "Miguel Cordova",
+            "ch": 90239
+          }
+        ]
+      },
+      {
+        "name": "Jessica Walter",
+        "nm": 910055,
+        "roles": [
+          {
+            "char": "Morgana Mendoza",
+            "ch": 96678
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Amid Splinters of the Thunderbolt",
+    "tt": 720569,
+    "air_date": "1969-10-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Bruce Dern",
+        "nm": 1136,
+        "roles": [
+          {
+            "char": "Bucky O'Neill",
+            "ch": 90241
+          }
+        ]
+      },
+      {
+        "name": "James Doohan",
+        "nm": 1150,
+        "roles": [
+          {
+            "char": "Dr. John Wilson, M.D.",
+            "ch": 90243
+          }
+        ]
+      },
+      {
+        "name": "Zohra Lampert",
+        "nm": 483876,
+        "roles": [
+          {
+            "char": "Mary Draper",
+            "ch": 90242
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "The 3:13 Arrives at Noon",
+    "tt": 720576,
+    "air_date": "1969-10-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "William 'Billy' Benedict",
+        "nm": 70827,
+        "roles": [
+          {
+            "char": "Card Player No. 3"
+          }
+        ]
+      },
+      {
+        "name": "Royal Dano",
+        "nm": 200455,
+        "roles": [
+          {
+            "char": "Sheriff Binns",
+            "ch": 90245
+          }
+        ]
+      },
+      {
+        "name": "Larry Gates",
+        "nm": 309588,
+        "roles": [
+          {
+            "char": "Ed Hemmings",
+            "ch": 90248
+          }
+        ]
+      },
+      {
+        "name": "Gloria Grahame",
+        "nm": 2108,
+        "roles": [
+          {
+            "char": "Charlene Braden",
+            "ch": 90249
+          }
+        ]
+      },
+      {
+        "name": "John Hubbard",
+        "nm": 399192,
+        "roles": [
+          {
+            "char": "Walt"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Kidd",
+        "nm": 452252,
+        "roles": [
+          {
+            "char": "Card Player No. 2"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth MacDonald",
+        "nm": 531810,
+        "roles": [
+          {
+            "char": "The Banker"
+          }
+        ]
+      },
+      {
+        "name": "Steve Raines",
+        "nm": 707063,
+        "roles": [
+          {
+            "char": "Marlow"
+          }
+        ]
+      },
+      {
+        "name": "Queenie Smith",
+        "nm": 809625,
+        "roles": [
+          {
+            "char": "Cleaning Woman"
+          }
+        ]
+      },
+      {
+        "name": "Bob Steele",
+        "nm": 824496,
+        "roles": [
+          {
+            "char": "Clay Turner",
+            "ch": 90247
+          }
+        ]
+      },
+      {
+        "name": "Garry Walberg",
+        "nm": 906918,
+        "roles": [
+          {
+            "char": "Earl Braden"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Old Tigers Never Die--They Just Run Away",
+    "tt": 720572,
+    "air_date": "1969-11-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Iron Eyes Cody",
+        "nm": 2014,
+        "roles": [
+          {
+            "char": "Chief John Carbona",
+            "ch": 200939
+          }
+        ]
+      },
+      {
+        "name": "Gabriel Dell",
+        "nm": 217316,
+        "roles": [
+          {
+            "char": "Russ Faber",
+            "ch": 93043
+          }
+        ]
+      },
+      {
+        "name": "Will Geer",
+        "nm": 2095,
+        "roles": [
+          {
+            "char": "Oliver Hidemann",
+            "ch": 94655
+          }
+        ]
+      },
+      {
+        "name": "Jean Marie Ingels",
+        "nm": 408731,
+        "roles": [
+          {
+            "char": "Lorene Newton",
+            "as Jean Marie": true
+          }
+        ]
+      },
+      {
+        "name": "Diane Ladd",
+        "nm": 2663,
+        "roles": [
+          {
+            "char": "Valerie Faber",
+            "ch": 93042
+          }
+        ]
+      },
+      {
+        "name": "Zack McWiggins",
+        "nm": 2615500,
+        "roles": [
+          {
+            "char": "Artie"
+          }
+        ]
+      },
+      {
+        "name": "Richard P. Gallegos",
+        "nm": 5945013,
+        "roles": [
+          {
+            "char": "Indian Boy",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Your Love Is Like a Demolition Derby in My Heart",
+    "tt": 720589,
+    "air_date": "1969-11-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "David Huddleston",
+        "nm": 399663,
+        "roles": [
+          {
+            "char": "Bear Hudson",
+            "ch": 107577
+          }
+        ]
+      },
+      {
+        "name": "Tim McIntire",
+        "nm": 570625,
+        "roles": [
+          {
+            "char": "Darryl Czandowski",
+            "ch": 94656
+          }
+        ]
+      },
+      {
+        "name": "Flora Plumb",
+        "nm": 687573,
+        "roles": [
+          {
+            "char": "Leona Czandowski",
+            "ch": 94657
+          }
+        ]
+      },
+      {
+        "name": "Jordan Rhodes",
+        "nm": 722468,
+        "roles": [
+          {
+            "char": "Red"
+          }
+        ]
+      },
+      {
+        "name": "Alan Vint",
+        "nm": 899106,
+        "roles": [
+          {
+            "char": "Billy Huskie",
+            "ch": 94658
+          }
+        ]
+      },
+      {
+        "name": "Bill Vint",
+        "nm": 899108,
+        "roles": [
+          {
+            "char": "Foley"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Two Percent of Nothing",
+    "tt": 720586,
+    "air_date": "1969-11-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Steve Ihnat",
+        "nm": 407307,
+        "roles": [
+          {
+            "char": "Royce MacLeod",
+            "ch": 93044
+          }
+        ]
+      },
+      {
+        "name": "Patricia Quinn",
+        "nm": 703947,
+        "roles": [
+          {
+            "char": "Pat MacLeod",
+            "ch": 93045
+          }
+        ]
+      },
+      {
+        "name": "Zalman King",
+        "nm": 455394,
+        "roles": [
+          {
+            "char": "Warren"
+          }
+        ]
+      },
+      {
+        "name": "Conlan Carter",
+        "nm": 141543,
+        "roles": [
+          {
+            "char": "Lorrison"
+          }
+        ]
+      },
+      {
+        "name": "Percy Rodrigues",
+        "nm": 735471,
+        "roles": [
+          {
+            "char": "Mac Keller",
+            "ch": 93046
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "All the World and God",
+    "tt": 720568,
+    "air_date": "1969-12-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Lois Nettleton",
+        "nm": 626728,
+        "roles": [
+          {
+            "char": "Barbara Timmons",
+            "ch": 93047
+          }
+        ]
+      },
+      {
+        "name": "Josephine Hutchinson",
+        "nm": 404360,
+        "roles": [
+          {
+            "char": "Miss Lucy",
+            "ch": 93048
+          }
+        ]
+      },
+      {
+        "name": "Rex Holman",
+        "nm": 391637,
+        "roles": [
+          {
+            "char": "Lambeth Lansing"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Hamilton",
+        "nm": 358026,
+        "roles": [
+          {
+            "char": "Maybelle Giles"
+          }
+        ]
+      },
+      {
+        "name": "Lincoln Kilpatrick",
+        "nm": 453299,
+        "roles": [
+          {
+            "char": "Leuty Giles"
+          }
+        ]
+      },
+      {
+        "name": "Charles Seel",
+        "nm": 781543,
+        "roles": [
+          {
+            "char": "Oliver Ryan"
+          }
+        ]
+      },
+      {
+        "name": "Walker Edmiston",
+        "nm": 249456,
+        "roles": [
+          {
+            "char": "Brother Paul"
+          }
+        ]
+      },
+      {
+        "name": "Buddy Trone",
+        "nm": 2616757,
+        "roles": [
+          {
+            "char": "Mechanic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "A Long Trip to Yesterday",
+    "tt": 720565,
+    "air_date": "1969-12-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Robert Hooks",
+        "nm": 393666,
+        "roles": [
+          {
+            "char": "Henry Tate",
+            "ch": 93049
+          }
+        ]
+      },
+      {
+        "name": "Florence St. Peter",
+        "nm": 820791,
+        "roles": [
+          {
+            "char": "Johnnie Tate"
+          }
+        ]
+      },
+      {
+        "name": "Jason Bernard",
+        "nm": 76251,
+        "roles": [
+          {
+            "char": "Reverend Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Slim Gaillard",
+        "nm": 301254,
+        "roles": [
+          {
+            "char": "Bollie Wallace"
+          }
+        ]
+      },
+      {
+        "name": "Leonard Stone",
+        "nm": 832007,
+        "roles": [
+          {
+            "char": "Cafe Owner"
+          }
+        ]
+      },
+      {
+        "name": "James McEachin",
+        "nm": 533013,
+        "roles": [
+          {
+            "char": "Spud The Pool Shark",
+            "ch": 93050
+          }
+        ]
+      },
+      {
+        "name": "Stuart Nisbet",
+        "nm": 632604,
+        "roles": [
+          {
+            "char": "Garage Owner"
+          }
+        ]
+      },
+      {
+        "name": "Bucklind Beery",
+        "nm": 66554,
+        "roles": [
+          {
+            "char": "Buster",
+            "as Bucklind Noah Beery": true
+          }
+        ]
+      },
+      {
+        "name": "Paulene Myers",
+        "nm": 583314,
+        "roles": [
+          {
+            "char": "Mrs. Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Lee Duncan",
+        "nm": 242021,
+        "roles": [
+          {
+            "char": "Arthur Tate"
+          }
+        ]
+      },
+      {
+        "name": "Edward Faulkner",
+        "nm": 269067,
+        "roles": [
+          {
+            "char": "Highway Patrolman"
+          }
+        ]
+      },
+      {
+        "name": "Pepe Brown",
+        "nm": 114418,
+        "roles": [
+          {
+            "char": "Timmy Tate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "The Spitball Kid",
+    "tt": 720585,
+    "air_date": "1969-12-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "James Beach",
+        "nm": 63467,
+        "roles": [
+          {
+            "char": "Rudy Slade"
+          }
+        ]
+      },
+      {
+        "name": "Don Drysdale",
+        "nm": 238771,
+        "roles": [
+          {
+            "char": "Art Gilroy"
+          }
+        ]
+      },
+      {
+        "name": "Bill LeSeuer",
+        "nm": 3126172,
+        "roles": [
+          {
+            "char": "Jimmie Reed"
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Mann",
+        "nm": 1997003,
+        "roles": [
+          {
+            "char": "Viola Mason"
+          }
+        ]
+      },
+      {
+        "name": "Joseph V. Perry",
+        "nm": 675129,
+        "roles": [
+          {
+            "char": "Mr. Rivers",
+            "as Joseph Perry": true
+          }
+        ]
+      },
+      {
+        "name": "Kurt Russell",
+        "nm": 621,
+        "roles": [
+          {
+            "char": "William P. Lovering",
+            "ch": 93051
+          }
+        ]
+      },
+      {
+        "name": "David Sheiner",
+        "nm": 790905,
+        "roles": [
+          {
+            "char": "Eddie Mickel",
+            "ch": 171043
+          }
+        ]
+      },
+      {
+        "name": "Robert Stiles",
+        "nm": 830197,
+        "roles": [
+          {
+            "char": "Vito"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Against a Blank Cold Wall",
+    "tt": 720567,
+    "air_date": "1969-12-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Robert Loggia",
+        "nm": 5162,
+        "roles": [
+          {
+            "char": "Tony Wade",
+            "ch": 93052
+          }
+        ]
+      },
+      {
+        "name": "Manuel Padilla Jr.",
+        "nm": 655693,
+        "roles": [
+          {
+            "char": "Mike Wade"
+          }
+        ]
+      },
+      {
+        "name": "Logan Ramsey",
+        "nm": 709029,
+        "roles": [
+          {
+            "char": "Prospector"
+          }
+        ]
+      },
+      {
+        "name": "Pilar Seurat",
+        "nm": 786193,
+        "roles": [
+          {
+            "char": "Linda Wade"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Sibyl",
+    "tt": 720573,
+    "air_date": "1969-12-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Renne Jarrett",
+        "nm": 418961,
+        "roles": [
+          {
+            "char": "Sibyl The Witch"
+          }
+        ]
+      },
+      {
+        "name": "Michael Lipton",
+        "nm": 513862,
+        "roles": [
+          {
+            "char": "Hermes"
+          }
+        ]
+      },
+      {
+        "name": "Amzie Strickland",
+        "nm": 834351,
+        "roles": [
+          {
+            "char": "Mary"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Raymond",
+        "nm": 2467467,
+        "roles": [
+          {
+            "char": "Father Al"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Eaton",
+        "nm": 247856,
+        "roles": [
+          {
+            "char": "Madame Vanya"
+          }
+        ]
+      },
+      {
+        "name": "Warren Parker",
+        "nm": 662693,
+        "roles": [
+          {
+            "char": "Fred"
+          }
+        ]
+      },
+      {
+        "name": "Rosanna Huffman",
+        "nm": 400294,
+        "roles": [
+          {
+            "char": "Betty"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "A-Pickin' An' A-Singin'",
+    "tt": 720566,
+    "air_date": "1970-01-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Michael Burns",
+        "nm": 122798,
+        "roles": [
+          {
+            "char": "Billy Mulavey",
+            "ch": 93054
+          }
+        ]
+      },
+      {
+        "name": "Skip Homeier",
+        "nm": 392945,
+        "roles": [
+          {
+            "char": "Johnny Dell"
+          }
+        ]
+      },
+      {
+        "name": "Jana Taylor",
+        "nm": 852529,
+        "roles": [
+          {
+            "char": "Betty Webber",
+            "ch": 94659
+          }
+        ]
+      },
+      {
+        "name": "Mark Allen",
+        "nm": 20802,
+        "roles": [
+          {
+            "char": "Deputy"
+          }
+        ]
+      },
+      {
+        "name": "Frank Corsentino",
+        "nm": 181088,
+        "roles": [
+          {
+            "char": "Bar Owner"
+          }
+        ]
+      },
+      {
+        "name": "Martin Speer",
+        "nm": 817571,
+        "roles": [
+          {
+            "char": "Mickey Rand"
+          }
+        ]
+      },
+      {
+        "name": "John Wheeler",
+        "nm": 923863,
+        "roles": [
+          {
+            "char": "Herb Perry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "The Gleam of the Eagle Mind",
+    "tt": 720579,
+    "air_date": "1970-01-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Lou Cutell",
+        "nm": 193836,
+        "roles": [
+          {
+            "char": "Mr. Willoughby"
+          }
+        ]
+      },
+      {
+        "name": "John Dehner",
+        "nm": 215000,
+        "roles": [
+          {
+            "char": "Sid Casper"
+          }
+        ]
+      },
+      {
+        "name": "Sam Edwards",
+        "nm": 249855,
+        "roles": [
+          {
+            "char": "Will Hudson"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Mood",
+        "nm": 3126759,
+        "roles": [
+          {
+            "char": "Viejo"
+          }
+        ]
+      },
+      {
+        "name": "Jay Novello",
+        "nm": 637041,
+        "roles": [
+          {
+            "char": "Juan Longorio",
+            "ch": 93055
+          }
+        ]
+      },
+      {
+        "name": "Jan Shepard",
+        "nm": 791629,
+        "roles": [
+          {
+            "char": "Helen Casper",
+            "ch": 93056
+          }
+        ]
+      },
+      {
+        "name": "Richard Webb",
+        "nm": 916253,
+        "roles": [
+          {
+            "char": "Hud McCarver"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "That Undiscovered Country...",
+    "tt": 720575,
+    "air_date": "1970-01-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "June Dayton",
+        "nm": 206761,
+        "roles": [
+          {
+            "char": "Mrs. Kristine Mueller"
+          }
+        ]
+      },
+      {
+        "name": "Rance Howard",
+        "nm": 397555,
+        "roles": [
+          {
+            "char": "Mr. Carl Mueller"
+          }
+        ]
+      },
+      {
+        "name": "Mark Jenkins",
+        "nm": 420920,
+        "roles": [
+          {
+            "char": "Harold Mueller",
+            "ch": 93057
+          }
+        ]
+      },
+      {
+        "name": "Bebe Kelly",
+        "nm": 446205,
+        "roles": [
+          {
+            "char": "Jan Clover",
+            "ch": 94660
+          }
+        ]
+      },
+      {
+        "name": "Carole Lamond",
+        "nm": 483619,
+        "roles": [
+          {
+            "char": "Employment Girl"
+          }
+        ]
+      },
+      {
+        "name": "Louis Massad",
+        "nm": 557111,
+        "roles": [
+          {
+            "char": "Art Instructor",
+            "as Lou Massad": true
+          }
+        ]
+      },
+      {
+        "name": "Heidi Vaughn",
+        "nm": 891174,
+        "roles": [
+          {
+            "char": "Dorothy Hofer",
+            "ch": 93058
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Lucky Day",
+    "tt": 720570,
+    "air_date": "1970-02-04",
+    "description": "Jim arrives in Reno to visit his cousin Eve. Because Jim is in town, Eve and her fiancé Len decide on an impromptu wedding. When Jim lends the couple money for the ceremony, trouble ensues.",
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Barry Brown",
+        "nm": 113077,
+        "roles": [
+          {
+            "char": "Len",
+            "ch": 94661
+          }
+        ]
+      },
+      {
+        "name": "Dort Clark",
+        "nm": 163888,
+        "roles": [
+          {
+            "char": "Ned"
+          }
+        ]
+      },
+      {
+        "name": "Lynne Marta",
+        "nm": 551413,
+        "roles": [
+          {
+            "char": "Eve Bronson",
+            "ch": 93059
+          }
+        ]
+      },
+      {
+        "name": "Naomi Stevens",
+        "nm": 828653,
+        "roles": [
+          {
+            "char": "Winnie May"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Mating Dance for Tender Grass",
+    "tt": 720571,
+    "air_date": "1970-02-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Buffy Sainte-Marie",
+        "nm": 756763,
+        "roles": [
+          {
+            "char": "Tender Grass",
+            "ch": 93060
+          }
+        ]
+      },
+      {
+        "name": "Eddie Little Sky",
+        "nm": 514507,
+        "roles": [
+          {
+            "char": "Boise Idaho",
+            "ch": 93061
+          }
+        ]
+      },
+      {
+        "name": "Ivan Naranjo",
+        "nm": 621218,
+        "roles": [
+          {
+            "char": "Spare Parts One"
+          }
+        ]
+      },
+      {
+        "name": "Kim Kahana",
+        "nm": 434679,
+        "roles": [
+          {
+            "char": "Spare Parts Two",
+            "as Kahana": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "The Mountain",
+    "tt": 720581,
+    "air_date": "1970-02-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Melendy Britt",
+        "nm": 110068,
+        "roles": [
+          {
+            "char": "Marcia Ford",
+            "ch": 93062
+          }
+        ]
+      },
+      {
+        "name": "James Whitmore",
+        "nm": 926235,
+        "roles": [
+          {
+            "char": "Wilson Ford",
+            "ch": 93063
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Still Waters",
+    "tt": 720574,
+    "air_date": "1970-02-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Jean Allison",
+        "nm": 21446,
+        "roles": [
+          {
+            "char": "June Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Eddie Barth",
+        "nm": 58532,
+        "roles": [
+          {
+            "char": "The Foreman",
+            "as Ed Barth": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Cartwright",
+        "nm": 1021,
+        "roles": [
+          {
+            "char": "Petey Traine",
+            "ch": 93064
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Harve Traine"
+          }
+        ]
+      },
+      {
+        "name": "Don Dubbins",
+        "nm": 239210,
+        "roles": [
+          {
+            "char": "Deputy Sheriff Al"
+          }
+        ]
+      },
+      {
+        "name": "Ray Galvin",
+        "nm": 303468,
+        "roles": [
+          {
+            "char": "George"
+          }
+        ]
+      },
+      {
+        "name": "Karl Lukas",
+        "nm": 525523,
+        "roles": [
+          {
+            "char": "Printer Billy"
+          }
+        ]
+      },
+      {
+        "name": "Phillip Pine",
+        "nm": 683984,
+        "roles": [
+          {
+            "char": "Adams Ambridge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "The Forest Primeval",
+    "tt": 720578,
+    "air_date": "1970-03-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Gary Clarke",
+        "nm": 164766,
+        "roles": [
+          {
+            "char": "Ranger"
+          }
+        ]
+      },
+      {
+        "name": "Lee de Broux",
+        "nm": 207616,
+        "roles": [
+          {
+            "char": "Pump Jockey",
+            "ch": 93065
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "The Ninety-Nine Mile Circle",
+    "tt": 720582,
+    "air_date": "1970-03-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "David Burns",
+        "nm": 122634,
+        "roles": [
+          {
+            "char": "Isadore Katz",
+            "ch": 93066
+          }
+        ]
+      },
+      {
+        "name": "Paula Victor",
+        "nm": 896138,
+        "roles": [
+          {
+            "char": "Flora Gold"
+          }
+        ]
+      },
+      {
+        "name": "Gwynne Gilford",
+        "nm": 318522,
+        "roles": [
+          {
+            "char": "Lila"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Lewis",
+        "nm": 507212,
+        "roles": [
+          {
+            "char": "Gus Arlington",
+            "ch": 156329,
+            "Attendant": true
+          }
+        ]
+      },
+      {
+        "name": "Ralph Montgomery",
+        "nm": 599892,
+        "roles": [
+          {
+            "char": "Fred Mosconi",
+            "ch": 156328
+          }
+        ]
+      },
+      {
+        "name": "Barbara Dodd",
+        "nm": 230060,
+        "roles": [
+          {
+            "char": "Mama"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E25",
+    "title": "The Mary R",
+    "tt": 720580,
+    "air_date": "1970-03-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Beverly Garland",
+        "nm": 307500,
+        "roles": [
+          {
+            "char": "Beth Morse",
+            "ch": 94662
+          }
+        ]
+      },
+      {
+        "name": "Marcia Gelbart",
+        "nm": 3125515,
+        "roles": [
+          {
+            "char": "The Party Girl"
+          }
+        ]
+      },
+      {
+        "name": "Gerald S. O'Loughlin",
+        "nm": 641663,
+        "roles": [
+          {
+            "char": "Herman Morse",
+            "ch": 94663
+          }
+        ]
+      },
+      {
+        "name": "Robert Random",
+        "nm": 709947,
+        "roles": [
+          {
+            "char": "Carl Morse",
+            "ch": 94664,
+            "as Bob Random": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Walker",
+        "nm": 992319,
+        "roles": [
+          {
+            "char": "The Skipper"
+          }
+        ]
+      },
+      {
+        "name": "Gene Evans",
+        "nm": 262775,
+        "roles": [
+          {
+            "char": "Harbormaster",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E26",
+    "title": "What's an Ark Without Centaurs?",
+    "tt": 720587,
+    "air_date": "1970-04-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Parks",
+        "nm": 662981,
+        "roles": [
+          {
+            "char": "Jim Bronson",
+            "ch": 85286
+          }
+        ]
+      },
+      {
+        "name": "Anjanette Comer",
+        "nm": 173735,
+        "roles": [
+          {
+            "char": "Vhea Samos",
+            "ch": 93068
+          }
+        ]
+      },
+      {
+        "name": "Morgan Woodward",
+        "nm": 940971,
+        "roles": [
+          {
+            "char": "Gus Samos",
+            "ch": 93069
+          }
+        ]
+      },
+      {
+        "name": "Akira Akamine",
+        "nm": 3126695,
+        "roles": [
+          {
+            "char": "The Buddhist",
+            "ch": 203587
+          }
+        ]
+      }
+    ]
+  }
+]

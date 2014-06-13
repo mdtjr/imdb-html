@@ -1,0 +1,568 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Chien et chat",
+    "tt": 540532,
+    "air_date": "1992-04-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Roland Giraud",
+        "nm": 320801,
+        "roles": [
+          {
+            "char": "Merlin"
+          }
+        ]
+      },
+      {
+        "name": "André Dussollier",
+        "nm": 244707,
+        "roles": [
+          {
+            "char": "Thibaud"
+          }
+        ]
+      },
+      {
+        "name": "Zoon Besse",
+        "nm": 78780,
+        "roles": [
+          {
+            "char": "Azouz",
+            "as Zoon": true
+          }
+        ]
+      },
+      {
+        "name": "Cyril Bodin",
+        "nm": 90944,
+        "roles": [
+          {
+            "char": "Mathieu"
+          }
+        ]
+      },
+      {
+        "name": "Emmanuel Curtil",
+        "nm": 193191,
+        "roles": [
+          {
+            "char": "Bernie"
+          }
+        ]
+      },
+      {
+        "name": "Léa Drucker",
+        "nm": 238475,
+        "roles": [
+          {
+            "char": "Caissière"
+          }
+        ]
+      },
+      {
+        "name": "Ismaël Fernandes",
+        "nm": 3574255,
+        "roles": [
+          {
+            "char": "Pereira"
+          }
+        ]
+      },
+      {
+        "name": "Elodie Frenck",
+        "nm": 294240,
+        "roles": [
+          {
+            "char": "Marie-France"
+          }
+        ]
+      },
+      {
+        "name": "Laurent Gamelon",
+        "nm": 303909,
+        "roles": [
+          {
+            "char": "Feutrelle"
+          }
+        ]
+      },
+      {
+        "name": "Stéphane Henon",
+        "nm": 377493,
+        "roles": [
+          {
+            "char": "Cookie"
+          }
+        ]
+      },
+      {
+        "name": "Maaike Jansen",
+        "nm": 417959,
+        "roles": [
+          {
+            "char": "Yolande Merlin"
+          }
+        ]
+      },
+      {
+        "name": "Mauricette Laurence",
+        "nm": 491133,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Valérie Leboutte",
+        "nm": 495845,
+        "roles": [
+          {
+            "char": "Muriel Susini"
+          }
+        ]
+      },
+      {
+        "name": "Bénédicte Loyen",
+        "nm": 523468,
+        "roles": [
+          {
+            "char": "Carole"
+          }
+        ]
+      },
+      {
+        "name": "Francis Mage",
+        "nm": 535816,
+        "roles": [
+          {
+            "char": "Arnaud"
+          }
+        ]
+      },
+      {
+        "name": "Emmanuel Montes",
+        "nm": 599541,
+        "roles": [
+          {
+            "char": "Bertrand"
+          }
+        ]
+      },
+      {
+        "name": "Louis Navarre",
+        "nm": 622771,
+        "roles": [
+          {
+            "char": "Vaudreuil"
+          }
+        ]
+      },
+      {
+        "name": "Sébastien Tavel",
+        "nm": 851683,
+        "roles": [
+          {
+            "char": "Gendarme de garde"
+          }
+        ]
+      },
+      {
+        "name": "Maurice Tuech",
+        "nm": 876145,
+        "roles": [
+          {
+            "char": "Fabre"
+          }
+        ]
+      },
+      {
+        "name": "Serge Vincent",
+        "nm": 898757,
+        "roles": [
+          {
+            "char": "Inspecteur des stups"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "L'embrouille",
+    "tt": 540533,
+    "air_date": "1994-03-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Roland Giraud",
+        "nm": 320801,
+        "roles": [
+          {
+            "char": "Merlin"
+          }
+        ]
+      },
+      {
+        "name": "André Dussollier",
+        "nm": 244707,
+        "roles": [
+          {
+            "char": "Thibaud"
+          }
+        ]
+      },
+      {
+        "name": "Jezabelle Amato",
+        "nm": 24158,
+        "roles": [
+          {
+            "char": "La patronne"
+          }
+        ]
+      },
+      {
+        "name": "Christian Bordeleau",
+        "nm": 96102,
+        "roles": [
+          {
+            "char": "Patron restaurant"
+          }
+        ]
+      },
+      {
+        "name": "Etienne Chicot",
+        "nm": 157255,
+        "roles": [
+          {
+            "char": "Capelli"
+          }
+        ]
+      },
+      {
+        "name": "Xavier de Cassan-Floyrac",
+        "nm": 207846,
+        "roles": [
+          {
+            "char": "L'avocat",
+            "as Xavier De Cassan": true
+          }
+        ]
+      },
+      {
+        "name": "Albert Dray",
+        "nm": 237260,
+        "roles": [
+          {
+            "char": "Coggio"
+          }
+        ]
+      },
+      {
+        "name": "Antoine Duléry",
+        "nm": 241383,
+        "roles": [
+          {
+            "char": "Servais"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Bernard Guillard",
+        "nm": 346993,
+        "roles": [
+          {
+            "char": "Le préfet"
+          }
+        ]
+      },
+      {
+        "name": "Jacky Henser",
+        "nm": 378108,
+        "roles": [
+          {
+            "char": "Cuisinier"
+          }
+        ]
+      },
+      {
+        "name": "Maaike Jansen",
+        "nm": 417959,
+        "roles": [
+          {
+            "char": "Yolande Merlin"
+          }
+        ]
+      },
+      {
+        "name": "Frédéric Lary",
+        "nm": 489373,
+        "roles": [
+          {
+            "char": "Barman"
+          }
+        ]
+      },
+      {
+        "name": "Valérie Leboutte",
+        "nm": 495845,
+        "roles": [
+          {
+            "char": "Sylvie"
+          }
+        ]
+      },
+      {
+        "name": "Annie Lemoine",
+        "nm": 501451,
+        "roles": [
+          {
+            "char": "Le juge"
+          }
+        ]
+      },
+      {
+        "name": "Geoffroy Lidvan",
+        "nm": 509252,
+        "roles": [
+          {
+            "char": "Mathieu"
+          }
+        ]
+      },
+      {
+        "name": "Alain Minier",
+        "nm": 591360,
+        "roles": [
+          {
+            "char": "Legrand"
+          }
+        ]
+      },
+      {
+        "name": "Louis Navarre",
+        "nm": 622771,
+        "roles": [
+          {
+            "char": "Vaudreuil"
+          }
+        ]
+      },
+      {
+        "name": "Michel Pilorgé",
+        "nm": 683629,
+        "roles": [
+          {
+            "char": "Feutrelle"
+          }
+        ]
+      },
+      {
+        "name": "Isabelle Renauld",
+        "nm": 719224,
+        "roles": [
+          {
+            "char": "Isabelle"
+          }
+        ]
+      },
+      {
+        "name": "Diane Simenon",
+        "nm": 799441,
+        "roles": [
+          {
+            "char": "Employée de banque"
+          }
+        ]
+      },
+      {
+        "name": "Vanessa Wagner",
+        "nm": 906144,
+        "roles": [
+          {
+            "char": "Marie-France"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "La faute",
+    "tt": 540534,
+    "air_date": "1995-01-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Roland Giraud",
+        "nm": 320801,
+        "roles": [
+          {
+            "char": "Bernard Merlin"
+          }
+        ]
+      },
+      {
+        "name": "André Dussollier",
+        "nm": 244707,
+        "roles": [
+          {
+            "char": "Serge Thibaud"
+          }
+        ]
+      },
+      {
+        "name": "Maaike Jansen",
+        "nm": 417959,
+        "roles": [
+          {
+            "char": "Yolande Merlin"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Pierre Darras",
+        "nm": 201588,
+        "roles": [
+          {
+            "char": "François Delalande"
+          }
+        ]
+      },
+      {
+        "name": "Mylène Demongeot",
+        "nm": 218634,
+        "roles": [
+          {
+            "char": "Annabelle Montbrial"
+          }
+        ]
+      },
+      {
+        "name": "Youssef Diawara",
+        "nm": 224940,
+        "roles": [
+          {
+            "char": "Sammy"
+          }
+        ]
+      },
+      {
+        "name": "Vanessa Wagner",
+        "nm": 906144,
+        "roles": [
+          {
+            "char": "Marie-France"
+          }
+        ]
+      },
+      {
+        "name": "Louis Navarre",
+        "nm": 622771,
+        "roles": [
+          {
+            "char": "Vaudreuil"
+          }
+        ]
+      },
+      {
+        "name": "Claude Segard",
+        "nm": 1974797,
+        "roles": [
+          {
+            "char": "Lenteric"
+          }
+        ]
+      },
+      {
+        "name": "Luc Lavandier",
+        "nm": 491773,
+        "roles": [
+          {
+            "char": "Radovan"
+          }
+        ]
+      },
+      {
+        "name": "Michel Pilorgé",
+        "nm": 683629,
+        "roles": [
+          {
+            "char": "Feutrelle"
+          }
+        ]
+      },
+      {
+        "name": "Diane Simenon",
+        "nm": 799441,
+        "roles": [
+          {
+            "char": "Mosquito"
+          }
+        ]
+      },
+      {
+        "name": "Marie Desgranges",
+        "nm": 221159,
+        "roles": [
+          {
+            "char": "Stéphanie"
+          }
+        ]
+      },
+      {
+        "name": "Sonia Ung",
+        "nm": 881079,
+        "roles": [
+          {
+            "char": "Sammang",
+            "as Sonia Devi-Ung": true
+          }
+        ]
+      },
+      {
+        "name": "Marianne Anska",
+        "nm": 30634,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "François D'Aubigny",
+        "nm": 195538,
+        "roles": [
+          {
+            "char": "Letourneur"
+          }
+        ]
+      },
+      {
+        "name": "Valérie Leboutte",
+        "nm": 495845,
+        "roles": [
+          {
+            "char": "Muriel"
+          }
+        ]
+      },
+      {
+        "name": "Jim Adhi Limas",
+        "nm": 11965,
+        "roles": [
+          {
+            "char": "Tan"
+          }
+        ]
+      },
+      {
+        "name": "Natacha Lindinger",
+        "nm": 511943,
+        "roles": [
+          {
+            "char": "Ingrid"
+          }
+        ]
+      }
+    ]
+  }
+]

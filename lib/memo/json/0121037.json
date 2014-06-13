@@ -1,0 +1,9576 @@
+[
+  {
+    "se": "S01E01",
+    "title": "70 ist doch kein Alter",
+    "tt": 737441,
+    "air_date": "1991-01-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Ernst Stankovski",
+        "nm": 822403,
+        "roles": [
+          {
+            "char": "Franz Sellenbrook",
+            "ch": 225665
+          }
+        ]
+      },
+      {
+        "name": "Matthew Burton",
+        "nm": 123672,
+        "roles": [
+          {
+            "char": "Sam Euler",
+            "as Mathew Burton": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "Katharina Matz",
+        "nm": 560684,
+        "roles": [
+          {
+            "char": "Frau Kückert"
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Affentheater",
+    "tt": 737443,
+    "air_date": "1991-01-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Ernst Stankovski",
+        "nm": 822403,
+        "roles": [
+          {
+            "char": "Franz Sellenbrook",
+            "ch": 225665
+          }
+        ]
+      },
+      {
+        "name": "Angelika Feldmann",
+        "nm": 271137,
+        "roles": [
+          {
+            "char": "Eleonore Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "Rosemarie Wohlbauer",
+        "nm": 937408,
+        "roles": [
+          {
+            "char": "Frau Stüber"
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Schwierige Zeiten",
+    "tt": 737459,
+    "air_date": "1991-01-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Ernst Stankovski",
+        "nm": 822403,
+        "roles": [
+          {
+            "char": "Franz Sellenbrook",
+            "ch": 225665
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Rosemarie Wohlbauer",
+        "nm": 937408,
+        "roles": [
+          {
+            "char": "Frau Stüber"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Familienzwist",
+    "tt": 737451,
+    "air_date": "1991-01-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Ernst Stankovski",
+        "nm": 822403,
+        "roles": [
+          {
+            "char": "Franz Sellenbrook",
+            "ch": 225665
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Burton",
+        "nm": 123672,
+        "roles": [
+          {
+            "char": "Sam Euler",
+            "as Mathew Burton": true
+          }
+        ]
+      },
+      {
+        "name": "Tilli Breidenbach",
+        "nm": 106900,
+        "roles": [
+          {
+            "char": "Emma Dahlsen",
+            "as Tilly Breidenbach": true
+          }
+        ]
+      },
+      {
+        "name": "Angelika Feldmann",
+        "nm": 271137,
+        "roles": [
+          {
+            "char": "Eleonore Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Katharina Matz",
+        "nm": 560684,
+        "roles": [
+          {
+            "char": "Frau Kückert"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      },
+      {
+        "name": "Käte Jaenicke",
+        "nm": 415397,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Verdacht und Intrige",
+    "tt": 929221,
+    "air_date": "1991-01-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Ernst Stankovski",
+        "nm": 822403,
+        "roles": [
+          {
+            "char": "Franz Sellenbrook",
+            "ch": 225665
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Liebe und Tod",
+    "tt": 737455,
+    "air_date": "1991-02-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Ernst Stankovski",
+        "nm": 822403,
+        "roles": [
+          {
+            "char": "Franz Sellenbrook",
+            "ch": 225665
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Peter Aust",
+        "nm": 42265,
+        "roles": [
+          {
+            "char": "Eberhard Brandes"
+          }
+        ]
+      },
+      {
+        "name": "Tilli Breidenbach",
+        "nm": 106900,
+        "roles": [
+          {
+            "char": "Emma Dahlsen",
+            "as Tilly Breidenbach": true
+          }
+        ]
+      },
+      {
+        "name": "Rosemarie Wohlbauer",
+        "nm": 937408,
+        "roles": [
+          {
+            "char": "Frau Stüber"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      },
+      {
+        "name": "Käte Jaenicke",
+        "nm": 415397,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Fritz Lichtenhahn",
+        "nm": 509021,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Freud' und Leid",
+    "tt": 737453,
+    "air_date": "1991-02-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Claus Wilcke",
+        "nm": 928148,
+        "roles": [
+          {
+            "char": "Anton Serendsen"
+          }
+        ]
+      },
+      {
+        "name": "Verena Grosser",
+        "nm": 343564,
+        "roles": [
+          {
+            "char": "Heike Serendsen",
+            "as Verena Großer": true
+          }
+        ]
+      },
+      {
+        "name": "Marek Erhardt",
+        "nm": 258921,
+        "roles": [
+          {
+            "char": "Olli Serendsen"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "Martina Maurer",
+        "nm": 561038,
+        "roles": [
+          {
+            "char": "Tanja"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      },
+      {
+        "name": "Inge Flimm",
+        "nm": 282323,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jörg Gillner",
+        "nm": 319361,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Überraschende Ereignisse",
+    "tt": 737464,
+    "air_date": "1991-02-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Peter Aust",
+        "nm": 42265,
+        "roles": [
+          {
+            "char": "Eberhard Brandes"
+          }
+        ]
+      },
+      {
+        "name": "Michaela Merten",
+        "nm": 563149,
+        "roles": [
+          {
+            "char": "Barbara von Gussendorf"
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Matschoss",
+        "nm": 559331,
+        "roles": [
+          {
+            "char": "Dr. Berger"
+          }
+        ]
+      },
+      {
+        "name": "Rosemarie Wohlbauer",
+        "nm": 937408,
+        "roles": [
+          {
+            "char": "Frau Stüber"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "Martina Maurer",
+        "nm": 561038,
+        "roles": [
+          {
+            "char": "Tanja"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      },
+      {
+        "name": "Rudi Spieth",
+        "nm": 1059501,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sabi Dorr",
+        "nm": 233319,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Rivalitäten",
+    "tt": 737458,
+    "air_date": "1991-02-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Peter Aust",
+        "nm": 42265,
+        "roles": [
+          {
+            "char": "Eberhard Brandes"
+          }
+        ]
+      },
+      {
+        "name": "Rosemarie Wohlbauer",
+        "nm": 937408,
+        "roles": [
+          {
+            "char": "Frau Stüber"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "Martina Maurer",
+        "nm": 561038,
+        "roles": [
+          {
+            "char": "Tanja"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Gefährdetes Glück",
+    "tt": 1195598,
+    "air_date": "1991-03-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck, geb. Sellenbrook"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "Martina Maurer",
+        "nm": 561038,
+        "roles": [
+          {
+            "char": "Tanja"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Freunde in Not",
+    "tt": 929217,
+    "air_date": "1991-03-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "Martina Maurer",
+        "nm": 561038,
+        "roles": [
+          {
+            "char": "Tanja"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      },
+      {
+        "name": "Michael S. Ruscheinsky",
+        "nm": 2937150,
+        "roles": [
+          {
+            "char": "Kleiner Junge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Der Tierpark feiert",
+    "tt": 929213,
+    "air_date": "1991-03-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Grimm",
+        "nm": 342292,
+        "roles": [
+          {
+            "char": "Herr Ritschel",
+            "ch": 205028,
+            "as Michael Grimm": true
+          }
+        ]
+      },
+      {
+        "name": "Laura G. Temeltas",
+        "nm": 854585,
+        "roles": [
+          {
+            "char": "Susanne"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Joshy Peters",
+        "nm": 676525,
+        "roles": [
+          {
+            "char": "Werner"
+          }
+        ]
+      },
+      {
+        "name": "Lissy von Lambsdorff",
+        "nm": 902601,
+        "roles": [
+          {
+            "char": "Marlene",
+            "as Lissi Lambsdorff": true
+          }
+        ]
+      },
+      {
+        "name": "Martina Maurer",
+        "nm": 561038,
+        "roles": [
+          {
+            "char": "Tanja"
+          }
+        ]
+      },
+      {
+        "name": "Julchen",
+        "nm": 1922742,
+        "roles": [
+          {
+            "char": "Ape"
+          }
+        ]
+      },
+      {
+        "name": "Fridolin",
+        "nm": 1922145,
+        "roles": [
+          {
+            "char": "Donkey"
+          }
+        ]
+      },
+      {
+        "name": "Giac",
+        "nm": 1917545,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Taufe",
+    "tt": 929220,
+    "air_date": "1992-07-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Heidemarie Wenzel",
+        "nm": 921178,
+        "roles": [
+          {
+            "char": "Sylvia Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Plötzlich allein",
+    "tt": 929219,
+    "air_date": "1992-07-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Flüchtige Bekanntschaft",
+    "tt": 929216,
+    "air_date": "1992-07-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Überraschung aus Shanghai",
+    "tt": 929224,
+    "air_date": "1992-07-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Ein neuer Anfang",
+    "tt": 929214,
+    "air_date": "1992-08-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Selma Baldursson",
+        "nm": 49843,
+        "roles": [
+          {
+            "char": "Mareike"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "Der Diebstahl",
+    "tt": 737447,
+    "air_date": "1992-08-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Selma Baldursson",
+        "nm": 49843,
+        "roles": [
+          {
+            "char": "Mareike"
+          }
+        ]
+      },
+      {
+        "name": "Heinz Reincke",
+        "nm": 717946,
+        "roles": [
+          {
+            "char": "Zirkusdirektor"
+          }
+        ]
+      },
+      {
+        "name": "Jan Fedder",
+        "nm": 270035,
+        "roles": [
+          {
+            "char": "Sohn des Zirkusdirektors"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Zirkus um Emil",
+    "tt": 929222,
+    "air_date": "1992-08-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Pläne",
+    "tt": 929218,
+    "air_date": "1992-09-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Die Schlagzeile",
+    "tt": 737450,
+    "air_date": "1992-09-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Christof Wackernagel",
+        "nm": 905226,
+        "roles": [
+          {
+            "char": "Dr. Renner"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Hans Kahlert",
+        "nm": 434760,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Janna Striebeck",
+        "nm": 834454,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Henning Schlüter",
+        "nm": 772530,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Guido Zarncke",
+        "nm": 953539,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Umzug",
+    "tt": 737462,
+    "air_date": "1992-09-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Matthew Burton",
+        "nm": 123672,
+        "roles": [
+          {
+            "char": "Sam Euler"
+          }
+        ]
+      },
+      {
+        "name": "Angelika Thomas",
+        "nm": 858479,
+        "roles": [
+          {
+            "char": "Eva Biddendorf"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Selma Baldursson",
+        "nm": 49843,
+        "roles": [
+          {
+            "char": "Mareike"
+          }
+        ]
+      },
+      {
+        "name": "Peter Heinrich",
+        "nm": 374496,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Alarm im Tierpark",
+    "tt": 737444,
+    "air_date": "1992-09-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Angelika Thomas",
+        "nm": 858479,
+        "roles": [
+          {
+            "char": "Eva Biddendorf"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Michael Gempart",
+        "nm": 312601,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gerhard Hinze",
+        "nm": 386082,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Peer Augustinski",
+        "nm": 41940,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kyra Mladeck",
+        "nm": 594809,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Klaus Dittmann",
+        "nm": 228559,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gilles Gavois",
+        "nm": 310607,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "Besuch aus Indien",
+    "tt": 737445,
+    "air_date": "1992-10-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Angelika Thomas",
+        "nm": 858479,
+        "roles": [
+          {
+            "char": "Eva Biddendorf"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Michael Gempart",
+        "nm": 312601,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gilles Gavois",
+        "nm": 310607,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "Nachwuchs",
+    "tt": 737457,
+    "air_date": "1992-10-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Daphne Wagner",
+        "nm": 905856,
+        "roles": [
+          {
+            "char": "Ingrid Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Christian Dalesch",
+        "nm": 1747460,
+        "roles": [
+          {
+            "char": "Bernd Hagenbeck",
+            "ch": 405401
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Constanze Wetzel",
+        "nm": 923228,
+        "roles": [
+          {
+            "char": "Saskia Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Astrid Meyer-Gossler",
+        "nm": 583435,
+        "roles": [
+          {
+            "char": "Gesine Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Reiner Scheibe",
+        "nm": 1054084,
+        "roles": [
+          {
+            "char": "Hannes Junklers"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Jörg Pleva",
+        "nm": 687257,
+        "roles": [
+          {
+            "char": "Gilbert Mack"
+          }
+        ]
+      },
+      {
+        "name": "Eva Brumby",
+        "nm": 115918,
+        "roles": [
+          {
+            "char": "Elsa Littmann"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Volker Model",
+        "nm": 1086147,
+        "roles": [
+          {
+            "char": "Dr. Robert Esch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Ingeburg Kanstein",
+        "nm": 437866,
+        "roles": [
+          {
+            "char": "Frau Waltinger"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Jophi Ries",
+        "nm": 726332,
+        "roles": [
+          {
+            "char": "Ralf"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Sir Henry"
+          }
+        ]
+      },
+      {
+        "name": "Michael Brandner",
+        "nm": 104710,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Claudia Demarmels",
+        "nm": 218155,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Michael Gempart",
+        "nm": 312601,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Hans Lobitz",
+        "nm": 516488,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Henning Schlüter",
+        "nm": 772530,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E01",
+    "title": "Jede Menge Pläne",
+    "tt": 737454,
+    "air_date": "1994-06-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Julia Bremermann",
+        "nm": 107094,
+        "roles": [
+          {
+            "char": "Steffi Behrmann"
+          }
+        ]
+      },
+      {
+        "name": "Lilly Schmuck",
+        "nm": 773566,
+        "roles": [
+          {
+            "char": "Grete Seiler"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Wolf-Dietrich Sprenger",
+        "nm": 819636,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Oliver Stokowski",
+        "nm": 831440,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nikolaus Paryla",
+        "nm": 664144,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Balduin Baas",
+        "nm": 44680,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Harry Raymon",
+        "nm": 713195,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E02",
+    "title": "Abschied",
+    "tt": 737442,
+    "air_date": "1994-07-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Julia Bremermann",
+        "nm": 107094,
+        "roles": [
+          {
+            "char": "Steffi Behrmann"
+          }
+        ]
+      },
+      {
+        "name": "Lilly Schmuck",
+        "nm": 773566,
+        "roles": [
+          {
+            "char": "Grete Seiler"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Heinrich",
+        "nm": 374481,
+        "roles": [
+          {
+            "char": "Herr Gessling",
+            "ch": 174323
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Matschoss",
+        "nm": 559331,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jens Peter Brose",
+        "nm": 112450,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gerda Gmelin",
+        "nm": 323431,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lars Sidenius",
+        "nm": 796548,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E03",
+    "title": "Talkshow",
+    "tt": 737460,
+    "air_date": "1994-07-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Julia Bremermann",
+        "nm": 107094,
+        "roles": [
+          {
+            "char": "Steffi Behrmann"
+          }
+        ]
+      },
+      {
+        "name": "Lilly Schmuck",
+        "nm": 773566,
+        "roles": [
+          {
+            "char": "Grete Seiler"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Angelika Milster",
+        "nm": 590622,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dieter Okras",
+        "nm": 645706,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Giovanni di Lorenzo",
+        "nm": 998420,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Harry Raymon",
+        "nm": 713195,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marco Kröger",
+        "nm": 473175,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E04",
+    "title": "Der neue Inspektor",
+    "tt": 737448,
+    "air_date": "1994-07-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Julia Bremermann",
+        "nm": 107094,
+        "roles": [
+          {
+            "char": "Steffi Behrmann"
+          }
+        ]
+      },
+      {
+        "name": "Lilly Schmuck",
+        "nm": 773566,
+        "roles": [
+          {
+            "char": "Grete Seiler"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Matthias Ponnier",
+        "nm": 690456,
+        "roles": [
+          {
+            "char": "Rabe"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Matschoss",
+        "nm": 559331,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Brigitte Böttrich",
+        "nm": 127177,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E05",
+    "title": "Die Rettung der Teddybären",
+    "tt": 737449,
+    "air_date": "1994-08-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Julia Bremermann",
+        "nm": 107094,
+        "roles": [
+          {
+            "char": "Steffi Behrmann"
+          }
+        ]
+      },
+      {
+        "name": "Leonor Bruna",
+        "nm": 116022,
+        "roles": [
+          {
+            "char": "Isabel Graham"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "William Mang",
+        "nm": 542090,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Annemarie Marks-Rocke",
+        "nm": 548989,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Harry Raymon",
+        "nm": 713195,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E06",
+    "title": "Nach Schottland",
+    "tt": 737456,
+    "air_date": "1994-08-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Julia Bremermann",
+        "nm": 107094,
+        "roles": [
+          {
+            "char": "Steffi Behrmann"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "John Abineri",
+        "nm": 8757,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Renny Krupinski",
+        "nm": 472778,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Richard Caldicot",
+        "nm": 129634,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Geoffrey Banks",
+        "nm": 52159,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E07",
+    "title": "Das Leben geht weiter",
+    "tt": 737446,
+    "air_date": "1994-08-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Julia Bremermann",
+        "nm": 107094,
+        "roles": [
+          {
+            "char": "Steffi Behrmann"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Kerstin Römer",
+        "nm": 753953,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "William Mang",
+        "nm": 542090,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Henning Schlüter",
+        "nm": 772530,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E08",
+    "title": "Tatort Tierpark",
+    "tt": 737461,
+    "air_date": "1994-08-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Julia Bremermann",
+        "nm": 107094,
+        "roles": [
+          {
+            "char": "Steffi Behrmann"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Joost Siedhoff",
+        "nm": 796830,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "William Mang",
+        "nm": 542090,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Holger Mahlich",
+        "nm": 537007,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rüdiger Kuhlbrodt",
+        "nm": 474040,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ronald Beer",
+        "nm": 66514,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E09",
+    "title": "Von Forschern und Träumern",
+    "tt": 737463,
+    "air_date": "1994-09-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Julia Bremermann",
+        "nm": 107094,
+        "roles": [
+          {
+            "char": "Steffi Behrmann"
+          }
+        ]
+      },
+      {
+        "name": "Leonor Bruna",
+        "nm": 116022,
+        "roles": [
+          {
+            "char": "Isabel Graham"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Peter Franke",
+        "nm": 291164,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Alexander May",
+        "nm": 561860,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Hildegard Krekel",
+        "nm": 470739,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Christian Redl",
+        "nm": 714943,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Henning Schlüter",
+        "nm": 772530,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kerstin Römer",
+        "nm": 753953,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dieter Kirchlechner",
+        "nm": 456290,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ulrich von Dobschütz",
+        "nm": 902187,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E10",
+    "title": "Zwerghippos",
+    "tt": 929223,
+    "air_date": "1994-09-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Wanja Mues",
+        "nm": 611148,
+        "roles": [
+          {
+            "char": "Tobias Mack",
+            "ch": 289251
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Julia Bremermann",
+        "nm": 107094,
+        "roles": [
+          {
+            "char": "Steffi Behrmann"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E11",
+    "title": "Andalusische Abenteuer",
+    "tt": 929212,
+    "air_date": "1994-09-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen"
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E12",
+    "title": "Ende und Anfang",
+    "tt": 929215,
+    "air_date": "1994-09-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tilly Lauenstein",
+        "nm": 490772,
+        "roles": [
+          {
+            "char": "Martha Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Peter Striebeck",
+        "nm": 834457,
+        "roles": [
+          {
+            "char": "Dr. Christoph Hagenbeck",
+            "ch": 405403
+          }
+        ]
+      },
+      {
+        "name": "Giulia Follina",
+        "nm": 284346,
+        "roles": [
+          {
+            "char": "Dr. Miriam Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Rudolph",
+        "nm": 748984,
+        "roles": [
+          {
+            "char": "Thomas Hagenbeck",
+            "ch": 405402
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Kessler",
+        "nm": 450309,
+        "roles": [
+          {
+            "char": "Rebecca Hagenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Kellner",
+        "nm": 446079,
+        "roles": [
+          {
+            "char": "Meta Haark"
+          }
+        ]
+      },
+      {
+        "name": "Franz Josef Steffens",
+        "nm": 825146,
+        "roles": [
+          {
+            "char": "Felix Junklers",
+            "as Franz-Josef Steffens": true
+          }
+        ]
+      },
+      {
+        "name": "Nicole Boguth",
+        "nm": 91953,
+        "roles": [
+          {
+            "char": "Cora Kirsch"
+          }
+        ]
+      },
+      {
+        "name": "Otto Tausig",
+        "nm": 851555,
+        "roles": [
+          {
+            "char": "Willy Stein",
+            "ch": 405400
+          }
+        ]
+      },
+      {
+        "name": "Helen Suyderhoud",
+        "nm": 840504,
+        "roles": [
+          {
+            "char": "Tina de Vries"
+          }
+        ]
+      },
+      {
+        "name": "Charles Regnier",
+        "nm": 753687,
+        "roles": [
+          {
+            "char": "Herr Straaten"
+          }
+        ]
+      },
+      {
+        "name": "Traudel Sperber",
+        "nm": 818273,
+        "roles": [
+          {
+            "char": "Frau Schilling",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrud Nothorn",
+        "nm": 636570,
+        "roles": [
+          {
+            "char": "Frau Schröder",
+            "as Gertrud Nothhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Ulrich Faulhaber",
+        "nm": 269031,
+        "roles": [
+          {
+            "char": "Herr Jansen",
+            "as Traudl Sperber": true
+          }
+        ]
+      },
+      {
+        "name": "Dirk Martens",
+        "nm": 551678,
+        "roles": [
+          {
+            "char": "Klaus",
+            "ch": 212306
+          }
+        ]
+      },
+      {
+        "name": "Dirk Dautzenberg",
+        "nm": 202474,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Strecker",
+        "nm": 834037,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      }
+    ]
+  }
+]

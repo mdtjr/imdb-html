@@ -1,0 +1,956 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Har den äran",
+    "tt": 3666240,
+    "air_date": "1983-01-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Ville"
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Janne"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Kommissarien"
+          }
+        ]
+      },
+      {
+        "name": "Kim Anderzon",
+        "nm": 27872,
+        "roles": [
+          {
+            "char": "Maria, Jannes fru"
+          }
+        ]
+      },
+      {
+        "name": "Lena Söderblom",
+        "nm": 845484,
+        "roles": [
+          {
+            "char": "Doris"
+          }
+        ]
+      },
+      {
+        "name": "Lars-Erik Berenett",
+        "nm": 73512,
+        "roles": [
+          {
+            "char": "Charlie"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Bergqvist",
+        "nm": 74997,
+        "roles": [
+          {
+            "char": "Kriminalpolis",
+            "as Gösta Bergkvist": true
+          }
+        ]
+      },
+      {
+        "name": "Roland Borgström",
+        "nm": 1741809,
+        "roles": [
+          {
+            "char": "Radiopolis"
+          }
+        ]
+      },
+      {
+        "name": "Hans Ernback",
+        "nm": 259624,
+        "roles": [
+          {
+            "char": "Rulle"
+          }
+        ]
+      },
+      {
+        "name": "Carl-Axel Karlsson",
+        "nm": 439612,
+        "roles": [
+          {
+            "char": "Radiopolis"
+          }
+        ]
+      },
+      {
+        "name": "Tom Lööf",
+        "nm": 4580790,
+        "roles": [
+          {
+            "char": "Man som frågar om bygglov"
+          }
+        ]
+      },
+      {
+        "name": "Lis Nilheim",
+        "nm": 632060,
+        "roles": [
+          {
+            "char": "Margit"
+          }
+        ]
+      },
+      {
+        "name": "Tomas Norström",
+        "nm": 635962,
+        "roles": [
+          {
+            "char": "Tjuv"
+          }
+        ]
+      },
+      {
+        "name": "Lasse Pettersson",
+        "nm": 678535,
+        "roles": [
+          {
+            "char": "Totte",
+            "as Lasse Petterson": true
+          }
+        ]
+      },
+      {
+        "name": "Annette Stenson",
+        "nm": 4580838,
+        "roles": [
+          {
+            "char": "Tjuvens brud"
+          }
+        ]
+      },
+      {
+        "name": "Karl Söderqvist",
+        "nm": 1207695,
+        "roles": [
+          {
+            "char": "Mats, Rulles grabb"
+          }
+        ]
+      },
+      {
+        "name": "Anita Wall",
+        "nm": 908371,
+        "roles": [
+          {
+            "char": "Gangsterbruden"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Gyllene höst",
+    "tt": 3666268,
+    "air_date": "1983-01-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Ville"
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Janne"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Kommissarien"
+          }
+        ]
+      },
+      {
+        "name": "Kim Anderzon",
+        "nm": 27872,
+        "roles": [
+          {
+            "char": "Maria, Jannes fru"
+          }
+        ]
+      },
+      {
+        "name": "Lena Söderblom",
+        "nm": 845484,
+        "roles": [
+          {
+            "char": "Doris"
+          }
+        ]
+      },
+      {
+        "name": "Lillemor Biörnstad",
+        "nm": 84735,
+        "roles": [
+          {
+            "char": "Aina Lindberg"
+          }
+        ]
+      },
+      {
+        "name": "Ulf Brunnberg",
+        "nm": 116339,
+        "roles": [
+          {
+            "char": "Hugo Sörenson"
+          }
+        ]
+      },
+      {
+        "name": "Gregor Dahlman",
+        "nm": 197114,
+        "roles": [
+          {
+            "char": "Hovmästare"
+          }
+        ]
+      },
+      {
+        "name": "Gus Dahlström",
+        "nm": 197168,
+        "roles": [
+          {
+            "char": "Pensionären"
+          }
+        ]
+      },
+      {
+        "name": "Carl-Åke Eriksson",
+        "nm": 259323,
+        "roles": [
+          {
+            "char": "Lasse-Maja"
+          }
+        ]
+      },
+      {
+        "name": "Inga Gill",
+        "nm": 318676,
+        "roles": [
+          {
+            "char": "Märta"
+          }
+        ]
+      },
+      {
+        "name": "Sture Hovstadius",
+        "nm": 389437,
+        "roles": [
+          {
+            "char": "Franzén"
+          }
+        ]
+      },
+      {
+        "name": "Lena Lindewall",
+        "nm": 511777,
+        "roles": [
+          {
+            "char": "Kompanjonen"
+          }
+        ]
+      },
+      {
+        "name": "Hans Lindgren",
+        "nm": 511826,
+        "roles": [
+          {
+            "char": "Sminkören"
+          }
+        ]
+      },
+      {
+        "name": "Sune Mangs",
+        "nm": 542301,
+        "roles": [
+          {
+            "char": "Koloniägaren"
+          }
+        ]
+      },
+      {
+        "name": "Rulle Åberg",
+        "nm": 6426021,
+        "roles": [
+          {
+            "char": "Emil"
+          }
+        ]
+      },
+      {
+        "name": "Inga-Lill Åhström",
+        "nm": 959759,
+        "roles": [
+          {
+            "char": "Emils fru"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Högt spel",
+    "tt": 3666296,
+    "air_date": "1983-01-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Ville"
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Janne"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Kommissarien"
+          }
+        ]
+      },
+      {
+        "name": "Kim Anderzon",
+        "nm": 27872,
+        "roles": [
+          {
+            "char": "Maria, Jannes fru"
+          }
+        ]
+      },
+      {
+        "name": "Lena Söderblom",
+        "nm": 845484,
+        "roles": [
+          {
+            "char": "Doris"
+          }
+        ]
+      },
+      {
+        "name": "Rozita Auer",
+        "nm": 41689,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Christer Banck",
+        "nm": 51608,
+        "roles": [
+          {
+            "char": "Lars Ottosson"
+          }
+        ]
+      },
+      {
+        "name": "Gösta Engström",
+        "nm": 257789,
+        "roles": [
+          {
+            "char": "Joshua"
+          }
+        ]
+      },
+      {
+        "name": "Palle Granditsky",
+        "nm": 334890,
+        "roles": [
+          {
+            "char": "Max Valentin"
+          }
+        ]
+      },
+      {
+        "name": "Rune Hallberg",
+        "nm": 356320,
+        "roles": [
+          {
+            "char": "Kaninmannen"
+          }
+        ]
+      },
+      {
+        "name": "Peter Hüttner",
+        "nm": 406191,
+        "roles": [
+          {
+            "char": "Lappen"
+          }
+        ]
+      },
+      {
+        "name": "Helena Kallenbäck",
+        "nm": 435983,
+        "roles": [
+          {
+            "char": "Fru Ottosson"
+          }
+        ]
+      },
+      {
+        "name": "Gustav Kling",
+        "nm": 459705,
+        "roles": [
+          {
+            "char": "Tobbe"
+          }
+        ]
+      },
+      {
+        "name": "Björn Strand",
+        "nm": 833243,
+        "roles": [
+          {
+            "char": "Vakt"
+          }
+        ]
+      },
+      {
+        "name": "Anders Åberg",
+        "nm": 959706,
+        "roles": [
+          {
+            "char": "Torped"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Svar till sol eller vår",
+    "tt": 3666312,
+    "air_date": "1983-01-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Ville"
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Janne"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Kommissarien"
+          }
+        ]
+      },
+      {
+        "name": "Kim Anderzon",
+        "nm": 27872,
+        "roles": [
+          {
+            "char": "Maria, Jannes fru"
+          }
+        ]
+      },
+      {
+        "name": "Lena Söderblom",
+        "nm": 845484,
+        "roles": [
+          {
+            "char": "Doris"
+          }
+        ]
+      },
+      {
+        "name": "Marie Ahrle",
+        "nm": 638740,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sten Ardenstam",
+        "nm": 34023,
+        "roles": [
+          {
+            "char": "Misstänkt man"
+          }
+        ]
+      },
+      {
+        "name": "Lottie Ejebrant",
+        "nm": 252225,
+        "roles": [
+          {
+            "char": "Sonja Skog"
+          }
+        ]
+      },
+      {
+        "name": "Stig Grybe",
+        "nm": 344784,
+        "roles": [
+          {
+            "char": "Lottförsäljaren"
+          }
+        ]
+      },
+      {
+        "name": "Lasse Haldenberg",
+        "nm": 354818,
+        "roles": [
+          {
+            "char": "Taxi"
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Järås",
+        "nm": 433548,
+        "roles": [
+          {
+            "char": "Vera"
+          }
+        ]
+      },
+      {
+        "name": "Lars Lind",
+        "nm": 511234,
+        "roles": [
+          {
+            "char": "Ejnar Skog"
+          }
+        ]
+      },
+      {
+        "name": "Angelica Lundqvist",
+        "nm": 526568,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Birger Malmsten",
+        "nm": 540311,
+        "roles": [
+          {
+            "char": "Augustsson"
+          }
+        ]
+      },
+      {
+        "name": "Segol Mann",
+        "nm": 542959,
+        "roles": [
+          {
+            "char": "Taxipassagerare"
+          }
+        ]
+      },
+      {
+        "name": "Åsa Melldahl",
+        "nm": 577893,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Börje Mellvig",
+        "nm": 578151,
+        "roles": [
+          {
+            "char": "Bankkamrer"
+          }
+        ]
+      },
+      {
+        "name": "Per Myrberg",
+        "nm": 617098,
+        "roles": [
+          {
+            "char": "Georg Abrahamson"
+          }
+        ]
+      },
+      {
+        "name": "Ulf Pramfors",
+        "nm": 695189,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Helge Skoog",
+        "nm": 804636,
+        "roles": [
+          {
+            "char": "Direktör för kontokortsföretag"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Falska färger",
+    "tt": 3666330,
+    "air_date": "1983-02-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Ville"
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Janne"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Kommissarien"
+          }
+        ]
+      },
+      {
+        "name": "Kim Anderzon",
+        "nm": 27872,
+        "roles": [
+          {
+            "char": "Maria, Jannes fru"
+          }
+        ]
+      },
+      {
+        "name": "Lena Söderblom",
+        "nm": 845484,
+        "roles": [
+          {
+            "char": "Doris"
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Backlin",
+        "nm": 45680,
+        "roles": [
+          {
+            "char": "Fru Ström"
+          }
+        ]
+      },
+      {
+        "name": "Inger Berggren",
+        "nm": 74531,
+        "roles": [
+          {
+            "char": "Fru Bergholm"
+          }
+        ]
+      },
+      {
+        "name": "Jonas Bergström",
+        "nm": 75092,
+        "roles": [
+          {
+            "char": "Morgan Andersson"
+          }
+        ]
+      },
+      {
+        "name": "Charlie Elvegård",
+        "nm": 255818,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Egil Holmsen",
+        "nm": 392181,
+        "roles": [
+          {
+            "char": "Alvar Bergholm"
+          }
+        ]
+      },
+      {
+        "name": "Åke Lindström",
+        "nm": 512537,
+        "roles": [
+          {
+            "char": "Ordensbrodern"
+          }
+        ]
+      },
+      {
+        "name": "Fredrik Ohlsson",
+        "nm": 645077,
+        "roles": [
+          {
+            "char": "Hugo Lööv"
+          }
+        ]
+      },
+      {
+        "name": "Dora Söderberg",
+        "nm": 845459,
+        "roles": [
+          {
+            "char": "Bogren",
+            "as Dora Carlsten-Söderberg": true
+          }
+        ]
+      },
+      {
+        "name": "Bert-Åke Varg",
+        "nm": 889693,
+        "roles": [
+          {
+            "char": "Konstkopisten"
+          }
+        ]
+      },
+      {
+        "name": "Meta Velander",
+        "nm": 892228,
+        "roles": [
+          {
+            "char": "Hushållerska"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Storfurstens miljoner",
+    "tt": 3666336,
+    "air_date": "1983-02-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tor Isedal",
+        "nm": 410781,
+        "roles": [
+          {
+            "char": "Ville"
+          }
+        ]
+      },
+      {
+        "name": "John Harryson",
+        "nm": 366069,
+        "roles": [
+          {
+            "char": "Janne"
+          }
+        ]
+      },
+      {
+        "name": "Sven Holmberg",
+        "nm": 391700,
+        "roles": [
+          {
+            "char": "Kommissarien"
+          }
+        ]
+      },
+      {
+        "name": "Kim Anderzon",
+        "nm": 27872,
+        "roles": [
+          {
+            "char": "Maria, Jannes fru"
+          }
+        ]
+      },
+      {
+        "name": "Lena Söderblom",
+        "nm": 845484,
+        "roles": [
+          {
+            "char": "Doris"
+          }
+        ]
+      },
+      {
+        "name": "Carl-Olof Alm",
+        "nm": 21694,
+        "roles": [
+          {
+            "char": "Allan Österberg"
+          }
+        ]
+      },
+      {
+        "name": "Carl Billquist",
+        "nm": 82599,
+        "roles": [
+          {
+            "char": "Bilhandlaren"
+          }
+        ]
+      },
+      {
+        "name": "Bengt Brunskog",
+        "nm": 116598,
+        "roles": [
+          {
+            "char": "Harry Hubertsson"
+          }
+        ]
+      },
+      {
+        "name": "Sten Carlberg",
+        "nm": 137332,
+        "roles": [
+          {
+            "char": "Hertigen"
+          }
+        ]
+      },
+      {
+        "name": "Patrik Ersgård",
+        "nm": 259829,
+        "roles": [
+          {
+            "char": "Lennart Flod"
+          }
+        ]
+      },
+      {
+        "name": "Cecilia Hjalmarsson",
+        "nm": 387048,
+        "roles": [
+          {
+            "char": "Gullan"
+          }
+        ]
+      },
+      {
+        "name": "Marianne Nielsen",
+        "nm": 630921,
+        "roles": [
+          {
+            "char": "Vera"
+          }
+        ]
+      },
+      {
+        "name": "Jan Nygren",
+        "nm": 638641,
+        "roles": [
+          {
+            "char": "Klädeshandlaren"
+          }
+        ]
+      },
+      {
+        "name": "Tage Severin",
+        "nm": 786311,
+        "roles": [
+          {
+            "char": "Bilhandlare"
+          }
+        ]
+      },
+      {
+        "name": "Christer Söderlund",
+        "nm": 845513,
+        "roles": [
+          {
+            "char": "Biggen"
+          }
+        ]
+      },
+      {
+        "name": "Torsten Wahlund",
+        "nm": 906366,
+        "roles": [
+          {
+            "char": "Rocky"
+          }
+        ]
+      },
+      {
+        "name": "Curt 'Minimal' Åström",
+        "nm": 959845,
+        "roles": [
+          {
+            "char": "Döv man"
+          }
+        ]
+      }
+    ]
+  }
+]

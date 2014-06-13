@@ -1,0 +1,129 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 2512382,
+    "air_date": "1949-11-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Tom Bernard",
+        "nm": 76403,
+        "roles": [
+          {
+            "char": "Chuck Ruggles"
+          }
+        ]
+      },
+      {
+        "name": "Jimmy Hawkins",
+        "nm": 370151,
+        "roles": [
+          {
+            "char": "Donald Ruggles"
+          }
+        ]
+      },
+      {
+        "name": "Margaret Kerry",
+        "nm": 449905,
+        "roles": [
+          {
+            "char": "Sharon Ruggles"
+          }
+        ]
+      },
+      {
+        "name": "Judy Nugent",
+        "nm": 637803,
+        "roles": [
+          {
+            "char": "Donna Ruggles"
+          }
+        ]
+      },
+      {
+        "name": "Charles Ruggles",
+        "nm": 749476,
+        "roles": [
+          {
+            "char": "Charlie Ruggles"
+          }
+        ]
+      },
+      {
+        "name": "Irene Tedrow",
+        "nm": 853792,
+        "roles": [
+          {
+            "char": "Margaret Ruggles"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S??E??",
+    "title": "Christmas Eve",
+    "tt": 1317954,
+    "air_date": "1949-12-01",
+    "description": "The Ruggles clan decides to do something nice for Sharon's classmate, Elaine, whose father recently died. They prepare a lavish meal and take to her house on Christmas Eve, but discover that she's quite happy and a great singer, to boot.",
+    "cast": [
+      {
+        "name": "Charles Ruggles",
+        "nm": 749476,
+        "roles": [
+          {
+            "char": "Charlie Ruggles"
+          }
+        ]
+      },
+      {
+        "name": "Erin O'Brien-Moore",
+        "nm": 639895,
+        "roles": [
+          {
+            "char": "Margaret Ruggles"
+          }
+        ]
+      },
+      {
+        "name": "Margaret Kerry",
+        "nm": 449905,
+        "roles": [
+          {
+            "char": "Sharon Ruggles"
+          }
+        ]
+      },
+      {
+        "name": "Tom Bernard",
+        "nm": 76403,
+        "roles": [
+          {
+            "char": "Chuck Ruggles"
+          }
+        ]
+      },
+      {
+        "name": "Judy Nugent",
+        "nm": 637803,
+        "roles": [
+          {
+            "char": "Donna Ruggles"
+          }
+        ]
+      },
+      {
+        "name": "Jimmy Hawkins",
+        "nm": 370151,
+        "roles": [
+          {
+            "char": "Donald Ruggles",
+            "as Jimmie Hawkins": true
+          }
+        ]
+      }
+    ]
+  }
+]

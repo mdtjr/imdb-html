@@ -1,0 +1,65 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 2515542,
+    "air_date": "1952-09-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Cliff Hall",
+        "nm": 355429,
+        "roles": [
+          {
+            "char": "Mr. Wilmot"
+          }
+        ]
+      },
+      {
+        "name": "Jack Lemmon",
+        "nm": 493,
+        "roles": [
+          {
+            "char": "Peter Bell"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Stone",
+        "nm": 831805,
+        "roles": [
+          {
+            "char": "Betsy Bell"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 2515544,
+    "air_date": "1952-10-02",
+    "description": "Peter tries to install a TV set antenna.",
+    "cast": [
+      {
+        "name": "Jack Lemmon",
+        "nm": 493,
+        "roles": [
+          {
+            "char": "Peter Bell"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Stone",
+        "nm": 831805,
+        "roles": [
+          {
+            "char": "Betsy Bell"
+          }
+        ]
+      }
+    ]
+  }
+]

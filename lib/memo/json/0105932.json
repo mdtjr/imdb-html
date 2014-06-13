@@ -1,0 +1,4343 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 505808,
+    "air_date": "1993-08-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Dan Gerrity",
+        "nm": 314767,
+        "roles": [
+          {
+            "char": "Jonah Collier"
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Billy Drago",
+        "nm": 236711,
+        "roles": [
+          {
+            "char": "John Bly",
+            "ch": 64801
+          }
+        ]
+      },
+      {
+        "name": "John Astin",
+        "nm": 40014,
+        "roles": [
+          {
+            "char": "Prof. Albert Wickwire",
+            "ch": 67242
+          }
+        ]
+      },
+      {
+        "name": "R. Lee Ermey",
+        "nm": 388,
+        "roles": [
+          {
+            "char": "Brisco County Sr.",
+            "ch": 86837
+          }
+        ]
+      },
+      {
+        "name": "M.C. Gainey",
+        "nm": 301370,
+        "roles": [
+          {
+            "char": "Big Smith",
+            "ch": 86841
+          }
+        ]
+      },
+      {
+        "name": "John Pyper-Ferguson",
+        "nm": 701561,
+        "roles": [
+          {
+            "char": "Peter Hutter",
+            "ch": 64800
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Dixie Cousins",
+            "ch": 290656
+          }
+        ]
+      },
+      {
+        "name": "Anne Tremko",
+        "nm": 872008,
+        "roles": [
+          {
+            "char": "Amanda Wickwire"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Whitman",
+        "nm": 926183,
+        "roles": [
+          {
+            "char": "Granville Thorogood"
+          }
+        ]
+      },
+      {
+        "name": "Rayford Barnes",
+        "nm": 55736,
+        "roles": [
+          {
+            "char": "Sherman Paulson"
+          }
+        ]
+      },
+      {
+        "name": "Paul Brinegar",
+        "nm": 109495,
+        "roles": [
+          {
+            "char": "Francis Kilbride",
+            "ch": 99364
+          }
+        ]
+      },
+      {
+        "name": "James Drury",
+        "nm": 238628,
+        "roles": [
+          {
+            "char": "Ethan Emerson",
+            "ch": 94718
+          }
+        ]
+      },
+      {
+        "name": "Robert Fuller",
+        "nm": 298333,
+        "roles": [
+          {
+            "char": "Kenyon Drummond"
+          }
+        ]
+      },
+      {
+        "name": "Bert Remsen",
+        "nm": 719037,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Bill Bolender",
+        "nm": 92877,
+        "roles": [
+          {
+            "char": "Lightning Bill"
+          }
+        ]
+      },
+      {
+        "name": "Charles Noland",
+        "nm": 634377,
+        "roles": [
+          {
+            "char": "Scratchy"
+          }
+        ]
+      },
+      {
+        "name": "Mark Twogood",
+        "nm": 878629,
+        "roles": [
+          {
+            "char": "Vulture Neck"
+          }
+        ]
+      },
+      {
+        "name": "James Hong",
+        "nm": 393222,
+        "roles": [
+          {
+            "char": "Lee Pow",
+            "ch": 84898
+          }
+        ]
+      },
+      {
+        "name": "Melissa Behr",
+        "nm": 66996,
+        "roles": [
+          {
+            "char": "Female Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Gary Carlos Cervantes",
+        "nm": 148869,
+        "roles": [
+          {
+            "char": "Chava",
+            "ch": 86849,
+            "as Gary Cervantes": true
+          }
+        ]
+      },
+      {
+        "name": "Rick Dean",
+        "nm": 212921,
+        "roles": [
+          {
+            "char": "Lookout"
+          }
+        ]
+      },
+      {
+        "name": "Eric Lawson",
+        "nm": 493211,
+        "roles": [
+          {
+            "char": "Outlaw #1"
+          }
+        ]
+      },
+      {
+        "name": "Chi Muoi Lo",
+        "nm": 516286,
+        "roles": [
+          {
+            "char": "Loo"
+          }
+        ]
+      },
+      {
+        "name": "Lego Louis",
+        "nm": 507454,
+        "roles": [
+          {
+            "char": "Outlaw #2",
+            "as Lego Lewis": true
+          }
+        ]
+      },
+      {
+        "name": "Kevin Lowe",
+        "nm": 522986,
+        "roles": [
+          {
+            "char": "Federal Agent Brown"
+          }
+        ]
+      },
+      {
+        "name": "Norman Merrill",
+        "nm": 581316,
+        "roles": [
+          {
+            "char": "Scientist"
+          }
+        ]
+      },
+      {
+        "name": "Sunshine Parker",
+        "nm": 662641,
+        "roles": [
+          {
+            "char": "Stagecoach Driver #2",
+            "as Lloyd 'Sunshine' Parker": true
+          }
+        ]
+      },
+      {
+        "name": "Mark Silence",
+        "nm": 2473019,
+        "roles": [
+          {
+            "char": "Male Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Scott Allen",
+        "nm": 2473321,
+        "roles": [
+          {
+            "char": "Announcer"
+          }
+        ]
+      },
+      {
+        "name": "Peter Bromilow",
+        "nm": 111325,
+        "roles": [
+          {
+            "char": "Butler"
+          }
+        ]
+      },
+      {
+        "name": "Carlton Cuse",
+        "nm": 193681,
+        "roles": [
+          {
+            "char": "Owens"
+          }
+        ]
+      },
+      {
+        "name": "Terry Funk",
+        "nm": 298750,
+        "roles": [
+          {
+            "char": "Defendant"
+          }
+        ]
+      },
+      {
+        "name": "Fernanda Gordon",
+        "nm": 330183,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Al Hansen",
+        "nm": 360637,
+        "roles": [
+          {
+            "char": "Man on Horseback"
+          }
+        ]
+      },
+      {
+        "name": "Armando Ortega",
+        "nm": 650835,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Quan",
+        "nm": 702850,
+        "roles": [
+          {
+            "char": "Lucky"
+          }
+        ]
+      },
+      {
+        "name": "Buck Rooney",
+        "nm": 2466924,
+        "roles": [
+          {
+            "char": "Outlaw #3"
+          }
+        ]
+      },
+      {
+        "name": "Tom Simmons",
+        "nm": 799919,
+        "roles": [
+          {
+            "char": "Wagon Driver"
+          }
+        ]
+      },
+      {
+        "name": "Frank Vlastnik",
+        "nm": 900648,
+        "roles": [
+          {
+            "char": "Telegraph Clerk"
+          }
+        ]
+      },
+      {
+        "name": "J.T. Chinn",
+        "nm": 157928,
+        "roles": [
+          {
+            "char": "Sailor",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Holmquist",
+        "nm": 392147,
+        "roles": [
+          {
+            "char": "Saloon Girl",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Orb Scholar",
+    "tt": 505816,
+    "air_date": "1993-09-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Comet",
+        "nm": 2483313,
+        "roles": [
+          {
+            "char": "Comet",
+            "ch": 257395
+          }
+        ]
+      },
+      {
+        "name": "Robert Picardo",
+        "nm": 585,
+        "roles": [
+          {
+            "char": "Puel"
+          }
+        ]
+      },
+      {
+        "name": "Billy Drago",
+        "nm": 236711,
+        "roles": [
+          {
+            "char": "John Bly",
+            "ch": 64801
+          }
+        ]
+      },
+      {
+        "name": "Brandon Maggart",
+        "nm": 535933,
+        "roles": [
+          {
+            "char": "Professor Ogden Coles",
+            "ch": 84627
+          }
+        ]
+      },
+      {
+        "name": "Pat Skipper",
+        "nm": 804361,
+        "roles": [
+          {
+            "char": "Donovan Joe"
+          }
+        ]
+      },
+      {
+        "name": "Herman Poppe",
+        "nm": 691551,
+        "roles": [
+          {
+            "char": "Sheriff Worth"
+          }
+        ]
+      },
+      {
+        "name": "Tom Simmons",
+        "nm": 799919,
+        "roles": [
+          {
+            "char": "Dobbs"
+          }
+        ]
+      },
+      {
+        "name": "Dewey Weber",
+        "nm": 916534,
+        "roles": [
+          {
+            "char": "Tate"
+          }
+        ]
+      },
+      {
+        "name": "David Youse",
+        "nm": 950331,
+        "roles": [
+          {
+            "char": "Todd the Waiter",
+            "ch": 257394
+          }
+        ]
+      },
+      {
+        "name": "Leon Melas",
+        "nm": 577412,
+        "roles": [
+          {
+            "char": "French Canadian Gang Member"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "No Man's Land",
+    "tt": 505807,
+    "air_date": "1993-09-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Comet",
+        "nm": 2483313,
+        "roles": [
+          {
+            "char": "Comet",
+            "ch": 257395
+          }
+        ]
+      },
+      {
+        "name": "John Astin",
+        "nm": 40014,
+        "roles": [
+          {
+            "char": "Prof. Albert Wickwire",
+            "ch": 67242
+          }
+        ]
+      },
+      {
+        "name": "Denise Crosby",
+        "nm": 344,
+        "roles": [
+          {
+            "char": "Sheriff Jenny Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Will Swill",
+            "ch": 148572
+          }
+        ]
+      },
+      {
+        "name": "Brook Susan Parker",
+        "nm": 662096,
+        "roles": [
+          {
+            "char": "K.C."
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Roberts",
+        "nm": 731230,
+        "roles": [
+          {
+            "char": "Bill Swill",
+            "ch": 72198
+          }
+        ]
+      },
+      {
+        "name": "Judson Scott",
+        "nm": 779401,
+        "roles": [
+          {
+            "char": "Gil Swill"
+          }
+        ]
+      },
+      {
+        "name": "Tracey Walter",
+        "nm": 910145,
+        "roles": [
+          {
+            "char": "Phil Swill",
+            "ch": 72197
+          }
+        ]
+      },
+      {
+        "name": "Corinna Everson",
+        "nm": 263691,
+        "roles": [
+          {
+            "char": "Katrina Schwenke",
+            "as Corey Everson": true
+          }
+        ]
+      },
+      {
+        "name": "Cameo Kneuer",
+        "nm": 460713,
+        "roles": [
+          {
+            "char": "Ilsa Schwenke"
+          }
+        ]
+      },
+      {
+        "name": "Shareen Mitchell",
+        "nm": 593721,
+        "roles": [
+          {
+            "char": "Dr. Rosa Quintano",
+            "as Shareen J. Mitchell": true
+          }
+        ]
+      },
+      {
+        "name": "Tegan West",
+        "nm": 922359,
+        "roles": [
+          {
+            "char": "Cousin Ed"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer MacDonald",
+        "nm": 531777,
+        "roles": [
+          {
+            "char": "Tina",
+            "as Jennifer McDonald": true
+          }
+        ]
+      },
+      {
+        "name": "Andy Rolfes",
+        "nm": 738227,
+        "roles": [
+          {
+            "char": "Smith",
+            "as Andrew A. Rolfes": true
+          }
+        ]
+      },
+      {
+        "name": "Thais Springer",
+        "nm": 2482445,
+        "roles": [
+          {
+            "char": "Emily"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Brisco in Jalisco",
+    "tt": 505796,
+    "air_date": "1993-09-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Comet",
+        "nm": 2483313,
+        "roles": [
+          {
+            "char": "Comet",
+            "ch": 257395
+          }
+        ]
+      },
+      {
+        "name": "John Pyper-Ferguson",
+        "nm": 701561,
+        "roles": [
+          {
+            "char": "Peter Hutter",
+            "ch": 64800
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Dixie Cousins",
+            "ch": 290656
+          }
+        ]
+      },
+      {
+        "name": "Paul Brinegar",
+        "nm": 109495,
+        "roles": [
+          {
+            "char": "Francis Kilbride",
+            "ch": 99364
+          }
+        ]
+      },
+      {
+        "name": "Robert Fuller",
+        "nm": 298333,
+        "roles": [
+          {
+            "char": "Kenyon Drummond"
+          }
+        ]
+      },
+      {
+        "name": "Michael DeLorenzo",
+        "nm": 217716,
+        "roles": [
+          {
+            "char": "Emilio Pena"
+          }
+        ]
+      },
+      {
+        "name": "Miguel Pérez",
+        "nm": 702296,
+        "roles": [
+          {
+            "char": "General Zaca",
+            "as Miguel Perez": true
+          }
+        ]
+      },
+      {
+        "name": "Marco Rodríguez",
+        "nm": 735424,
+        "roles": [
+          {
+            "char": "Aguerro"
+          }
+        ]
+      },
+      {
+        "name": "Scott Lincoln",
+        "nm": 511138,
+        "roles": [
+          {
+            "char": "Gambler"
+          }
+        ]
+      },
+      {
+        "name": "Frank Roman",
+        "nm": 738686,
+        "roles": [
+          {
+            "char": "Pablo"
+          }
+        ]
+      },
+      {
+        "name": "Alberto Vazquez",
+        "nm": 890651,
+        "roles": [
+          {
+            "char": "Soldier",
+            "as Albert Vasquez": true
+          }
+        ]
+      },
+      {
+        "name": "Miraida Rios",
+        "nm": 727904,
+        "roles": [
+          {
+            "char": "Peasant"
+          }
+        ]
+      },
+      {
+        "name": "Emilio Rivera",
+        "nm": 729256,
+        "roles": [
+          {
+            "char": "Federale"
+          }
+        ]
+      },
+      {
+        "name": "J.T. Chinn",
+        "nm": 157928,
+        "roles": [
+          {
+            "char": "Butler",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Socrates' Sister",
+    "tt": 505813,
+    "air_date": "1993-09-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Comet",
+        "nm": 2483313,
+        "roles": [
+          {
+            "char": "Comet",
+            "ch": 257395
+          }
+        ]
+      },
+      {
+        "name": "John Astin",
+        "nm": 40014,
+        "roles": [
+          {
+            "char": "Prof. Albert Wickwire",
+            "ch": 67242
+          }
+        ]
+      },
+      {
+        "name": "Judith Hoag",
+        "nm": 387432,
+        "roles": [
+          {
+            "char": "Iphigenia Poole"
+          }
+        ]
+      },
+      {
+        "name": "John Pyper-Ferguson",
+        "nm": 701561,
+        "roles": [
+          {
+            "char": "Peter Hutter",
+            "ch": 64800
+          }
+        ]
+      },
+      {
+        "name": "William Russ",
+        "nm": 750916,
+        "roles": [
+          {
+            "char": "Jack Randolph"
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Ellie"
+          }
+        ]
+      },
+      {
+        "name": "Ashby Adams",
+        "nm": 10752,
+        "roles": [
+          {
+            "char": "U.S. Atty. Ginger Breakstone"
+          }
+        ]
+      },
+      {
+        "name": "Al Pugliese",
+        "nm": 700094,
+        "roles": [
+          {
+            "char": "Guard #2"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Wynne",
+        "nm": 944018,
+        "roles": [
+          {
+            "char": "Guard #1"
+          }
+        ]
+      },
+      {
+        "name": "Owen Bush",
+        "nm": 124184,
+        "roles": [
+          {
+            "char": "Farmer"
+          }
+        ]
+      },
+      {
+        "name": "George 'Buck' Flower",
+        "nm": 2668,
+        "roles": [
+          {
+            "char": "49'er",
+            "as George 'Buck' Flowers": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Riverboat",
+    "tt": 505810,
+    "air_date": "1993-10-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Comet",
+        "nm": 2483313,
+        "roles": [
+          {
+            "char": "Comet",
+            "ch": 257395
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Dixie Cousins",
+            "ch": 290656
+          }
+        ]
+      },
+      {
+        "name": "Xander Berkeley",
+        "nm": 75359,
+        "roles": [
+          {
+            "char": "Brett Bones"
+          }
+        ]
+      },
+      {
+        "name": "Montae Russell",
+        "nm": 751350,
+        "roles": [
+          {
+            "char": "Wylie Turner",
+            "as Monté Russell": true
+          }
+        ]
+      },
+      {
+        "name": "Don Stroud",
+        "nm": 835144,
+        "roles": [
+          {
+            "char": "Randy Hatchett"
+          }
+        ]
+      },
+      {
+        "name": "Cal Bartlett",
+        "nm": 58786,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John Shumski",
+        "nm": 2084167,
+        "roles": [
+          {
+            "char": "Dynamite Sullivan"
+          }
+        ]
+      },
+      {
+        "name": "Brandon Bluhm",
+        "nm": 89604,
+        "roles": [
+          {
+            "char": "Telegraph Boy"
+          }
+        ]
+      },
+      {
+        "name": "Charles Hyman",
+        "nm": 405161,
+        "roles": [
+          {
+            "char": "Sheriff #2",
+            "as Charles H. Hyman": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Prentiss",
+        "nm": 696041,
+        "roles": [
+          {
+            "char": "Ringo Kid"
+          }
+        ]
+      },
+      {
+        "name": "Charles Hutchins",
+        "nm": 404260,
+        "roles": [
+          {
+            "char": "Player"
+          }
+        ]
+      },
+      {
+        "name": "Glenn Taranto",
+        "nm": 850234,
+        "roles": [
+          {
+            "char": "Referee"
+          }
+        ]
+      },
+      {
+        "name": "Craig Richards",
+        "nm": 724033,
+        "roles": [
+          {
+            "char": "The Gambler"
+          }
+        ]
+      },
+      {
+        "name": "J.T. Chinn",
+        "nm": 157928,
+        "roles": [
+          {
+            "char": "Crap Dealer",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Pepper",
+        "nm": 672575,
+        "roles": [
+          {
+            "char": "Henchman",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Pirates!",
+    "tt": 505809,
+    "air_date": "1993-10-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Comet",
+        "nm": 2483313,
+        "roles": [
+          {
+            "char": "Comet",
+            "ch": 257395
+          }
+        ]
+      },
+      {
+        "name": "Andrew Divoff",
+        "nm": 228678,
+        "roles": [
+          {
+            "char": "Blackbeard LaCutte",
+            "ch": 43873
+          }
+        ]
+      },
+      {
+        "name": "John Walcutt",
+        "nm": 906975,
+        "roles": [
+          {
+            "char": "Clayton Sims"
+          }
+        ]
+      },
+      {
+        "name": "Robert O'Reilly",
+        "nm": 642481,
+        "roles": [
+          {
+            "char": "Sketch"
+          }
+        ]
+      },
+      {
+        "name": "Janel Moloney",
+        "nm": 597223,
+        "roles": [
+          {
+            "char": "Mary Sims"
+          }
+        ]
+      },
+      {
+        "name": "Adam Wylie",
+        "nm": 943766,
+        "roles": [
+          {
+            "char": "Charlie Sims"
+          }
+        ]
+      },
+      {
+        "name": "James Greene",
+        "nm": 338783,
+        "roles": [
+          {
+            "char": "Cartwright",
+            "ch": 96669
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Ellie"
+          }
+        ]
+      },
+      {
+        "name": "Josh Lozoff",
+        "nm": 523666,
+        "roles": [
+          {
+            "char": "Dr. Spencer"
+          }
+        ]
+      },
+      {
+        "name": "Michael Denney",
+        "nm": 219369,
+        "roles": [
+          {
+            "char": "Weaver"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Kim Heinburg",
+        "nm": 1667695,
+        "roles": [
+          {
+            "char": "Barmaid"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Pilato",
+        "nm": 683334,
+        "roles": [
+          {
+            "char": "Big Ed",
+            "as Josef Pilato": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Senior Spirit",
+    "tt": 505811,
+    "air_date": "1993-10-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Comet",
+        "nm": 2483313,
+        "roles": [
+          {
+            "char": "Comet",
+            "ch": 257395
+          }
+        ]
+      },
+      {
+        "name": "John Astin",
+        "nm": 40014,
+        "roles": [
+          {
+            "char": "Prof. Albert Wickwire",
+            "ch": 67242
+          }
+        ]
+      },
+      {
+        "name": "R. Lee Ermey",
+        "nm": 388,
+        "roles": [
+          {
+            "char": "Brisco County Sr.",
+            "ch": 86837
+          }
+        ]
+      },
+      {
+        "name": "Billy Drago",
+        "nm": 236711,
+        "roles": [
+          {
+            "char": "John Bly",
+            "ch": 64801
+          }
+        ]
+      },
+      {
+        "name": "Jason Marsden",
+        "nm": 5189,
+        "roles": [
+          {
+            "char": "Jason Barkley",
+            "ch": 376513
+          }
+        ]
+      },
+      {
+        "name": "Steve Rankin",
+        "nm": 710292,
+        "roles": [
+          {
+            "char": "Remy",
+            "ch": 376516
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Ellie"
+          }
+        ]
+      },
+      {
+        "name": "James DiStefano",
+        "nm": 228445,
+        "roles": [
+          {
+            "char": "Loco Bob",
+            "ch": 376515
+          }
+        ]
+      },
+      {
+        "name": "Adrian Sparks",
+        "nm": 816962,
+        "roles": [
+          {
+            "char": "Jedidiah Barkley",
+            "ch": 376517
+          }
+        ]
+      },
+      {
+        "name": "Kort Falkenberg",
+        "nm": 266236,
+        "roles": [
+          {
+            "char": "Old Man"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Pilavin",
+        "nm": 683340,
+        "roles": [
+          {
+            "char": "Old Woman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Brisco for the Defense",
+    "tt": 505795,
+    "air_date": "1993-10-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Comet",
+        "nm": 2483313,
+        "roles": [
+          {
+            "char": "Comet",
+            "ch": 257395
+          }
+        ]
+      },
+      {
+        "name": "Edward Blatchford",
+        "nm": 87801,
+        "roles": [
+          {
+            "char": "Dr. Matt Carter"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Cassie Crow"
+          }
+        ]
+      },
+      {
+        "name": "Tony Jay",
+        "nm": 419645,
+        "roles": [
+          {
+            "char": "Judge Silot Gatt"
+          }
+        ]
+      },
+      {
+        "name": "Felton Perry",
+        "nm": 675066,
+        "roles": [
+          {
+            "char": "Sheriff Bumper"
+          }
+        ]
+      },
+      {
+        "name": "Jensen Daggett",
+        "nm": 196762,
+        "roles": [
+          {
+            "char": "Charlotte Ketchum"
+          }
+        ]
+      },
+      {
+        "name": "John Bellucci",
+        "nm": 69257,
+        "roles": [
+          {
+            "char": "Dwayne Melon"
+          }
+        ]
+      },
+      {
+        "name": "Duane Tucker",
+        "nm": 875848,
+        "roles": [
+          {
+            "char": "Bewtell Ogilvey"
+          }
+        ]
+      },
+      {
+        "name": "Mark Bramhall",
+        "nm": 104220,
+        "roles": [
+          {
+            "char": "Bennett McKenzie"
+          }
+        ]
+      },
+      {
+        "name": "Carmen Filpi",
+        "nm": 277300,
+        "roles": [
+          {
+            "char": "Titus Miller"
+          }
+        ]
+      },
+      {
+        "name": "James Harlow",
+        "nm": 363352,
+        "roles": [
+          {
+            "char": "Bart"
+          }
+        ]
+      },
+      {
+        "name": "Jack Orend",
+        "nm": 649683,
+        "roles": [
+          {
+            "char": "Rufus Wells",
+            "as Jack R. Orend": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Sorce",
+        "nm": 1490475,
+        "roles": [
+          {
+            "char": "Bar patron"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Showdown",
+    "tt": 505812,
+    "air_date": "1993-10-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Comet",
+        "nm": 2483313,
+        "roles": [
+          {
+            "char": "Comet",
+            "ch": 257395
+          }
+        ]
+      },
+      {
+        "name": "Jessica Tuck",
+        "nm": 875768,
+        "roles": [
+          {
+            "char": "Annie Cavendish"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bowen",
+        "nm": 100889,
+        "roles": [
+          {
+            "char": "Bishop Brackman"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Starke",
+        "nm": 823289,
+        "roles": [
+          {
+            "char": "Olaf Brackman"
+          }
+        ]
+      },
+      {
+        "name": "John Hawkes",
+        "nm": 370035,
+        "roles": [
+          {
+            "char": "Utah Johnny Montana's Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Richard Venture",
+        "nm": 893390,
+        "roles": [
+          {
+            "char": "Mack Brackman"
+          }
+        ]
+      },
+      {
+        "name": "John P. Ryan",
+        "nm": 752636,
+        "roles": [
+          {
+            "char": "Sheriff Bob Cavendish"
+          }
+        ]
+      },
+      {
+        "name": "James Staley",
+        "nm": 821650,
+        "roles": [
+          {
+            "char": "Mayor Dartly"
+          }
+        ]
+      },
+      {
+        "name": "Holly Gagnier",
+        "nm": 300939,
+        "roles": [
+          {
+            "char": "Her"
+          }
+        ]
+      },
+      {
+        "name": "Billie Worley",
+        "nm": 941495,
+        "roles": [
+          {
+            "char": "Him"
+          }
+        ]
+      },
+      {
+        "name": "David Carpenter",
+        "nm": 139312,
+        "roles": [
+          {
+            "char": "Hench"
+          }
+        ]
+      },
+      {
+        "name": "Ashby Adams",
+        "nm": 10752,
+        "roles": [
+          {
+            "char": "U.S. Atty. Ginger Breakstone"
+          }
+        ]
+      },
+      {
+        "name": "Sibel Ergener",
+        "nm": 258884,
+        "roles": [
+          {
+            "char": "Ellen"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Hobson",
+        "nm": 387752,
+        "roles": [
+          {
+            "char": "Duncan"
+          }
+        ]
+      },
+      {
+        "name": "Ken Johnson",
+        "nm": 425531,
+        "roles": [
+          {
+            "char": "Barney the Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Klyn",
+        "nm": 460288,
+        "roles": [
+          {
+            "char": "Utah Johnny Montana"
+          }
+        ]
+      },
+      {
+        "name": "Carl J. Pfeifer",
+        "nm": 2491843,
+        "roles": [
+          {
+            "char": "Villain No. 1"
+          }
+        ]
+      },
+      {
+        "name": "Jason Reins",
+        "nm": 718260,
+        "roles": [
+          {
+            "char": "John"
+          }
+        ]
+      },
+      {
+        "name": "Kirk B.R. Woller",
+        "nm": 938570,
+        "roles": [
+          {
+            "char": "Villain No. 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Deep in the Heart of Dixie",
+    "tt": 505800,
+    "air_date": "1993-11-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Comet",
+        "nm": 2483313,
+        "roles": [
+          {
+            "char": "Comet",
+            "ch": 257395
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Dixie Cousins",
+            "ch": 290656
+          }
+        ]
+      },
+      {
+        "name": "David Warner",
+        "nm": 1831,
+        "roles": [
+          {
+            "char": "Winston Smiles"
+          }
+        ]
+      },
+      {
+        "name": "Andrea Parker",
+        "nm": 662042,
+        "roles": [
+          {
+            "char": "Rita Avnet",
+            "ch": 177402
+          }
+        ]
+      },
+      {
+        "name": "James Greene",
+        "nm": 338783,
+        "roles": [
+          {
+            "char": "Cartwright",
+            "ch": 96669
+          }
+        ]
+      },
+      {
+        "name": "Ashby Adams",
+        "nm": 10752,
+        "roles": [
+          {
+            "char": "U.S. Atty. Ginger Breakstone"
+          }
+        ]
+      },
+      {
+        "name": "Deke Anderson",
+        "nm": 26610,
+        "roles": [
+          {
+            "char": "Simkins"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Anthony",
+        "nm": 30918,
+        "roles": [
+          {
+            "char": "Ricardo"
+          }
+        ]
+      },
+      {
+        "name": "Michael Lowry",
+        "nm": 523350,
+        "roles": [
+          {
+            "char": "Ricketts"
+          }
+        ]
+      },
+      {
+        "name": "José Pérez",
+        "nm": 673526,
+        "roles": [
+          {
+            "char": "Roberto",
+            "as Jose Perez": true
+          }
+        ]
+      },
+      {
+        "name": "Janet Rotblatt",
+        "nm": 744725,
+        "roles": [
+          {
+            "char": "Mother Superior"
+          }
+        ]
+      },
+      {
+        "name": "Craig Richards",
+        "nm": 724033,
+        "roles": [
+          {
+            "char": "The Gambler"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Crystal Hawks",
+    "tt": 505799,
+    "air_date": "1993-11-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Comet",
+        "nm": 2483313,
+        "roles": [
+          {
+            "char": "Comet",
+            "ch": 257395
+          }
+        ]
+      },
+      {
+        "name": "Sheena Easton",
+        "nm": 2054,
+        "roles": [
+          {
+            "char": "Crystal Hawks"
+          }
+        ]
+      },
+      {
+        "name": "M.C. Gainey",
+        "nm": 301370,
+        "roles": [
+          {
+            "char": "Big Smith",
+            "ch": 86841
+          }
+        ]
+      },
+      {
+        "name": "Billy Drago",
+        "nm": 236711,
+        "roles": [
+          {
+            "char": "John Bly",
+            "ch": 64801
+          }
+        ]
+      },
+      {
+        "name": "Rayford Barnes",
+        "nm": 55736,
+        "roles": [
+          {
+            "char": "Sherman Paulson"
+          }
+        ]
+      },
+      {
+        "name": "Tom Dahlgren",
+        "nm": 197080,
+        "roles": [
+          {
+            "char": "Sandstedt"
+          }
+        ]
+      },
+      {
+        "name": "James Gleason",
+        "nm": 322300,
+        "roles": [
+          {
+            "char": "Marvin Lee"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Fischler",
+        "nm": 279209,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Adrienne Hampton",
+        "nm": 358945,
+        "roles": [
+          {
+            "char": "Female Bank Teller"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Lowe",
+        "nm": 522986,
+        "roles": [
+          {
+            "char": "Agent Brown"
+          }
+        ]
+      },
+      {
+        "name": "John Mueller",
+        "nm": 611066,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "John Voldstad",
+        "nm": 901390,
+        "roles": [
+          {
+            "char": "Bruno Krell"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Whipp",
+        "nm": 924179,
+        "roles": [
+          {
+            "char": "U.S. Marshal"
+          }
+        ]
+      },
+      {
+        "name": "Harry Woolf",
+        "nm": 941145,
+        "roles": [
+          {
+            "char": "Harold Smith"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Steel Horses",
+    "tt": 505815,
+    "air_date": "1993-11-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "John Astin",
+        "nm": 40014,
+        "roles": [
+          {
+            "char": "Prof. Albert Wickwire",
+            "ch": 67242
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Blake",
+        "nm": 86553,
+        "roles": [
+          {
+            "char": "Beck"
+          }
+        ]
+      },
+      {
+        "name": "Brian Cousins",
+        "nm": 184080,
+        "roles": [
+          {
+            "char": "Hans"
+          }
+        ]
+      },
+      {
+        "name": "Corinna Everson",
+        "nm": 263691,
+        "roles": [
+          {
+            "char": "Katrina Schwenke"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Fimple",
+        "nm": 277344,
+        "roles": [
+          {
+            "char": "Gully Barton"
+          }
+        ]
+      },
+      {
+        "name": "James Greene",
+        "nm": 338783,
+        "roles": [
+          {
+            "char": "Cartwright",
+            "ch": 96669
+          }
+        ]
+      },
+      {
+        "name": "Cameo Kneuer",
+        "nm": 460713,
+        "roles": [
+          {
+            "char": "Ilsa Schwenke"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Lowe",
+        "nm": 522986,
+        "roles": [
+          {
+            "char": "Agent Brown"
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Juno Dawkins"
+          }
+        ]
+      },
+      {
+        "name": "Josh Richman",
+        "nm": 725042,
+        "roles": [
+          {
+            "char": "Angel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Mail Order Brides",
+    "tt": 505805,
+    "air_date": "1993-12-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Abraham Alvarez",
+        "nm": 23225,
+        "roles": [
+          {
+            "char": "King of Spain",
+            "ch": 290697
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Barondes",
+        "nm": 56336,
+        "roles": [
+          {
+            "char": "Meg O'Brien"
+          }
+        ]
+      },
+      {
+        "name": "Denis Forest",
+        "nm": 286111,
+        "roles": [
+          {
+            "char": "Will Swill",
+            "ch": 148572
+          }
+        ]
+      },
+      {
+        "name": "Nan Martin",
+        "nm": 552832,
+        "roles": [
+          {
+            "char": "Lil Swill"
+          }
+        ]
+      },
+      {
+        "name": "Armando Ortega",
+        "nm": 650835,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Brian Phelps",
+        "nm": 679778,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Frank Renzulli",
+        "nm": 719982,
+        "roles": [
+          {
+            "char": "Preacher"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Roberts",
+        "nm": 731230,
+        "roles": [
+          {
+            "char": "Bill Swill",
+            "ch": 72198
+          }
+        ]
+      },
+      {
+        "name": "Romy Rosemont",
+        "nm": 741891,
+        "roles": [
+          {
+            "char": "Sally Dane"
+          }
+        ]
+      },
+      {
+        "name": "Mark Thompson",
+        "nm": 860461,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John Vargas",
+        "nm": 889855,
+        "roles": [
+          {
+            "char": "Mendosa"
+          }
+        ]
+      },
+      {
+        "name": "Kim Walker",
+        "nm": 907947,
+        "roles": [
+          {
+            "char": "Caitlin Ward"
+          }
+        ]
+      },
+      {
+        "name": "Tracey Walter",
+        "nm": 910145,
+        "roles": [
+          {
+            "char": "Phil Swill",
+            "ch": 72197
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "A.K.A. Kansas",
+    "tt": 505791,
+    "air_date": "1993-12-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Ashby Adams",
+        "nm": 10752,
+        "roles": [
+          {
+            "char": "U.S. Atty. Ginger Breakstone"
+          }
+        ]
+      },
+      {
+        "name": "Vaughn Armstrong",
+        "nm": 35932,
+        "roles": [
+          {
+            "char": "Major"
+          }
+        ]
+      },
+      {
+        "name": "Obba Babatundé",
+        "nm": 44762,
+        "roles": [
+          {
+            "char": "Mongoose"
+          }
+        ]
+      },
+      {
+        "name": "Peter Dennis",
+        "nm": 219536,
+        "roles": [
+          {
+            "char": "Reginald",
+            "ch": 86852
+          }
+        ]
+      },
+      {
+        "name": "Robert Keith",
+        "nm": 445291,
+        "roles": [
+          {
+            "char": "Kansas Wily Stafford"
+          }
+        ]
+      },
+      {
+        "name": "Zachary Mott",
+        "nm": 609446,
+        "roles": [
+          {
+            "char": "Gunman"
+          }
+        ]
+      },
+      {
+        "name": "Andrea Parker",
+        "nm": 662042,
+        "roles": [
+          {
+            "char": "Rita Avnet",
+            "ch": 177402
+          }
+        ]
+      },
+      {
+        "name": "Andreas Reinl",
+        "nm": 718241,
+        "roles": [
+          {
+            "char": "Spurzem"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Doc McCoy"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Dixie Cousins",
+            "ch": 290656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Bounty Hunters' Convention",
+    "tt": 505794,
+    "air_date": "1994-01-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Luis Contreras",
+        "nm": 176520,
+        "roles": [
+          {
+            "char": "El Gato"
+          }
+        ]
+      },
+      {
+        "name": "J.G. Hertzler",
+        "nm": 381117,
+        "roles": [
+          {
+            "char": "Edward Hayes"
+          },
+          {
+            "char": "Myron Stempler"
+          }
+        ]
+      },
+      {
+        "name": "Rex Linn",
+        "nm": 513010,
+        "roles": [
+          {
+            "char": "Mountain McClain"
+          }
+        ]
+      },
+      {
+        "name": "Coleman McClary",
+        "nm": 1759292,
+        "roles": [
+          {
+            "char": "Outlaw"
+          }
+        ]
+      },
+      {
+        "name": "Ian Ogilvy",
+        "nm": 644707,
+        "roles": [
+          {
+            "char": "Furlong"
+          }
+        ]
+      },
+      {
+        "name": "Johnathon Schaech",
+        "nm": 628,
+        "roles": [
+          {
+            "char": "Nevada Cooper"
+          }
+        ]
+      },
+      {
+        "name": "Clement von Franckenstein",
+        "nm": 820527,
+        "roles": [
+          {
+            "char": "Dr. Ambrose Curber"
+          }
+        ]
+      },
+      {
+        "name": "Robert Winley",
+        "nm": 935297,
+        "roles": [
+          {
+            "char": "Snakeskinner"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Woodward",
+        "nm": 940971,
+        "roles": [
+          {
+            "char": "Sam Travis"
+          }
+        ]
+      },
+      {
+        "name": "Clare Wren",
+        "nm": 942102,
+        "roles": [
+          {
+            "char": "Rosalind Peters"
+          }
+        ]
+      },
+      {
+        "name": "David Youse",
+        "nm": 950331,
+        "roles": [
+          {
+            "char": "Todd the Desk Clerk",
+            "ch": 257394
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Fountain of Youth",
+    "tt": 505801,
+    "air_date": "1994-01-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Blake Adams",
+        "nm": 10772,
+        "roles": [
+          {
+            "char": "Maxfield",
+            "as Blake Bailey": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Blom",
+        "nm": 88885,
+        "roles": [
+          {
+            "char": "Lars"
+          }
+        ]
+      },
+      {
+        "name": "Billy Drago",
+        "nm": 236711,
+        "roles": [
+          {
+            "char": "John Bly",
+            "ch": 64801
+          }
+        ]
+      },
+      {
+        "name": "James Hong",
+        "nm": 393222,
+        "roles": [
+          {
+            "char": "Lee Pow",
+            "ch": 84898
+          }
+        ]
+      },
+      {
+        "name": "Terri Ivens",
+        "nm": 412238,
+        "roles": [
+          {
+            "char": "Lillian Coles"
+          }
+        ]
+      },
+      {
+        "name": "Wolf Larson",
+        "nm": 489112,
+        "roles": [
+          {
+            "char": "Berkey"
+          }
+        ]
+      },
+      {
+        "name": "Brandon Maggart",
+        "nm": 535933,
+        "roles": [
+          {
+            "char": "Professor Ogden Coles",
+            "ch": 84627
+          }
+        ]
+      },
+      {
+        "name": "Gregg Thomsen",
+        "nm": 860898,
+        "roles": [
+          {
+            "char": "Bruno"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Hard Rock",
+    "tt": 505802,
+    "air_date": "1994-02-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "William Frankfather",
+        "nm": 291290,
+        "roles": [
+          {
+            "char": "Sonny Red"
+          }
+        ]
+      },
+      {
+        "name": "Gary Hudson",
+        "nm": 399839,
+        "roles": [
+          {
+            "char": "Sheriff Aaron Viva",
+            "ch": 68287
+          }
+        ]
+      },
+      {
+        "name": "Hawthorne James",
+        "nm": 416551,
+        "roles": [
+          {
+            "char": "Gage"
+          }
+        ]
+      },
+      {
+        "name": "JoNell Kennedy",
+        "nm": 448129,
+        "roles": [
+          {
+            "char": "Lenore Raymond",
+            "as Jonelle Kennedy": true
+          }
+        ]
+      },
+      {
+        "name": "Zak Knutson",
+        "nm": 1018295,
+        "roles": [
+          {
+            "char": "Gambler #1"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Phillips",
+        "nm": 680483,
+        "roles": [
+          {
+            "char": "Whip Morgan",
+            "ch": 68285
+          }
+        ]
+      },
+      {
+        "name": "Nicolas Surovy",
+        "nm": 839708,
+        "roles": [
+          {
+            "char": "Roy Hondo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Brooklyn Dodgers",
+    "tt": 505797,
+    "air_date": "1994-02-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Sam Anderson",
+        "nm": 27402,
+        "roles": [
+          {
+            "char": "Simon Wolfe"
+          }
+        ]
+      },
+      {
+        "name": "Melissa Berger",
+        "nm": 74290,
+        "roles": [
+          {
+            "char": "Harem Woman"
+          }
+        ]
+      },
+      {
+        "name": "Clark Heathcliffe Brolly",
+        "nm": 111272,
+        "roles": [
+          {
+            "char": "Billy Monahan"
+          }
+        ]
+      },
+      {
+        "name": "Michael Cade",
+        "nm": 128111,
+        "roles": [
+          {
+            "char": "Tommy Trahern"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Cockrum",
+        "nm": 168371,
+        "roles": [
+          {
+            "char": "Richard Grimes",
+            "ch": 102241
+          }
+        ]
+      },
+      {
+        "name": "Ryan Cutrona",
+        "nm": 193982,
+        "roles": [
+          {
+            "char": "Franklin Boggs"
+          }
+        ]
+      },
+      {
+        "name": "Scott Harlan",
+        "nm": 363232,
+        "roles": [
+          {
+            "char": "Callahan"
+          }
+        ]
+      },
+      {
+        "name": "Clyde Kusatsu",
+        "nm": 476226,
+        "roles": [
+          {
+            "char": "Roy Shimamura"
+          }
+        ]
+      },
+      {
+        "name": "Mercedes McNab",
+        "nm": 573523,
+        "roles": [
+          {
+            "char": "Shannon Trahern",
+            "as Mercedes Alicia McNab": true
+          }
+        ]
+      },
+      {
+        "name": "Devon O'Brien",
+        "nm": 639516,
+        "roles": [
+          {
+            "char": "Housekeeper"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Tigar",
+        "nm": 863024,
+        "roles": [
+          {
+            "char": "Mr. Flint"
+          }
+        ]
+      },
+      {
+        "name": "Michael T. Weiss",
+        "nm": 919117,
+        "roles": [
+          {
+            "char": "Johnny",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Bye Bly",
+    "tt": 505798,
+    "air_date": "1994-02-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Stewart Bick",
+        "nm": 80987,
+        "roles": [
+          {
+            "char": "Pepe Bendix"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Cockrum",
+        "nm": 168371,
+        "roles": [
+          {
+            "char": "Richard Grimes",
+            "ch": 102241
+          }
+        ]
+      },
+      {
+        "name": "Billy Drago",
+        "nm": 236711,
+        "roles": [
+          {
+            "char": "John Bly",
+            "ch": 64801
+          }
+        ]
+      },
+      {
+        "name": "Richard Herd",
+        "nm": 378800,
+        "roles": [
+          {
+            "char": "President Cleveland",
+            "ch": 29481
+          }
+        ]
+      },
+      {
+        "name": "Kane Hodder",
+        "nm": 387987,
+        "roles": [
+          {
+            "char": "Cop Near Bank Vault"
+          }
+        ]
+      },
+      {
+        "name": "Ryan Thomas Johnson",
+        "nm": 426162,
+        "roles": [
+          {
+            "char": "Kid"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Lowe",
+        "nm": 522986,
+        "roles": [
+          {
+            "char": "Agent Brown"
+          }
+        ]
+      },
+      {
+        "name": "Craig Richards",
+        "nm": 724033,
+        "roles": [
+          {
+            "char": "The Gambler"
+          }
+        ]
+      },
+      {
+        "name": "Melanie Smith",
+        "nm": 809322,
+        "roles": [
+          {
+            "char": "Karina"
+          }
+        ]
+      },
+      {
+        "name": "Ryal Haakenson",
+        "nm": 3422607,
+        "roles": [
+          {
+            "char": "Pedestrian",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Ned Zed",
+    "tt": 505806,
+    "air_date": "1994-03-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Charles Bailey-Gates",
+        "nm": 47538,
+        "roles": [
+          {
+            "char": "Dell"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Bakke",
+        "nm": 283,
+        "roles": [
+          {
+            "char": "Frances McCabe"
+          }
+        ]
+      },
+      {
+        "name": "Michael Boston",
+        "nm": 98268,
+        "roles": [
+          {
+            "char": "Ivan"
+          }
+        ]
+      },
+      {
+        "name": "Ray Bumatai",
+        "nm": 120286,
+        "roles": [
+          {
+            "char": "Frenchy Bearpaux"
+          }
+        ]
+      },
+      {
+        "name": "Gary Carlos Cervantes",
+        "nm": 148869,
+        "roles": [
+          {
+            "char": "Chava",
+            "ch": 86849,
+            "as Gary Cervantes": true
+          }
+        ]
+      },
+      {
+        "name": "Frederick Coffin",
+        "nm": 168918,
+        "roles": [
+          {
+            "char": "Father"
+          }
+        ]
+      },
+      {
+        "name": "James Drury",
+        "nm": 238628,
+        "roles": [
+          {
+            "char": "Ethan Emerson",
+            "ch": 94718
+          }
+        ]
+      },
+      {
+        "name": "Fernanda Gordon",
+        "nm": 330183,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Robert Louis Kempf",
+        "nm": 447445,
+        "roles": [
+          {
+            "char": "Citizen Steve"
+          }
+        ]
+      },
+      {
+        "name": "Tom McCleister",
+        "nm": 565735,
+        "roles": [
+          {
+            "char": "Morgan"
+          }
+        ]
+      },
+      {
+        "name": "Matt McColm",
+        "nm": 566157,
+        "roles": [
+          {
+            "char": "Lt. Rayford"
+          }
+        ]
+      },
+      {
+        "name": "Vince Melocchi",
+        "nm": 578278,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Steve Peterson",
+        "nm": 677405,
+        "roles": [
+          {
+            "char": "Bank Customer"
+          }
+        ]
+      },
+      {
+        "name": "Casey Siemaszko",
+        "nm": 797150,
+        "roles": [
+          {
+            "char": "Ned Zed"
+          }
+        ]
+      },
+      {
+        "name": "Bob Telford",
+        "nm": 854360,
+        "roles": [
+          {
+            "char": "Townie"
+          }
+        ]
+      },
+      {
+        "name": "Phillip Van Dyke",
+        "nm": 886745,
+        "roles": [
+          {
+            "char": "Son"
+          }
+        ]
+      },
+      {
+        "name": "Craig Adelberg",
+        "nm": 11784,
+        "roles": [
+          {
+            "char": "Bank Employee Hostage",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Stagecoach",
+    "tt": 505814,
+    "air_date": "1994-04-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Lisa Collins",
+        "nm": 172492,
+        "roles": [
+          {
+            "char": "Emma Steed"
+          }
+        ]
+      },
+      {
+        "name": "Robert Covarrubias",
+        "nm": 184381,
+        "roles": [
+          {
+            "char": "Hector"
+          }
+        ]
+      },
+      {
+        "name": "Carlton Cuse",
+        "nm": 193681,
+        "roles": [
+          {
+            "char": "Owen"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Leary",
+        "nm": 495276,
+        "roles": [
+          {
+            "char": "Dr. Milo"
+          }
+        ]
+      },
+      {
+        "name": "Shelley Malil",
+        "nm": 6596,
+        "roles": [
+          {
+            "char": "Ashok"
+          }
+        ]
+      },
+      {
+        "name": "Richard McGonagle",
+        "nm": 569501,
+        "roles": [
+          {
+            "char": "Ashenden"
+          }
+        ]
+      },
+      {
+        "name": "Pat Millicano",
+        "nm": 589646,
+        "roles": [
+          {
+            "char": "Fred Mulch"
+          }
+        ]
+      },
+      {
+        "name": "John Pyper-Ferguson",
+        "nm": 701561,
+        "roles": [
+          {
+            "char": "Peter Hutter",
+            "ch": 64800
+          }
+        ]
+      },
+      {
+        "name": "Debra Jo Rupp",
+        "nm": 750468,
+        "roles": [
+          {
+            "char": "Ms. Plowright"
+          }
+        ]
+      },
+      {
+        "name": "Aries Spears",
+        "nm": 817341,
+        "roles": [
+          {
+            "char": "Bobby Swan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "Wild Card",
+    "tt": 505817,
+    "air_date": "1994-04-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Paul Ben-Victor",
+        "nm": 70115,
+        "roles": [
+          {
+            "char": "Joey Tataglia"
+          }
+        ]
+      },
+      {
+        "name": "Cosimo Canale",
+        "nm": 133519,
+        "roles": [
+          {
+            "char": "Luca"
+          }
+        ]
+      },
+      {
+        "name": "Peter Dobson",
+        "nm": 229930,
+        "roles": [
+          {
+            "char": "Dino Tataglia"
+          }
+        ]
+      },
+      {
+        "name": "Louis Giambalvo",
+        "nm": 316080,
+        "roles": [
+          {
+            "char": "Enzio Tataglia"
+          }
+        ]
+      },
+      {
+        "name": "Elaine Hendrix",
+        "nm": 5006,
+        "roles": [
+          {
+            "char": "Dolly Cousins"
+          }
+        ]
+      },
+      {
+        "name": "Gathering Marbet",
+        "nm": 545003,
+        "roles": [
+          {
+            "char": "Darla"
+          }
+        ]
+      },
+      {
+        "name": "Ted Markland",
+        "nm": 548524,
+        "roles": [
+          {
+            "char": "Duster #1"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Phillips",
+        "nm": 680483,
+        "roles": [
+          {
+            "char": "Whip Morgan",
+            "ch": 68285
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Dixie Cousins",
+            "ch": 290656
+          }
+        ]
+      },
+      {
+        "name": "Herschel Sparber",
+        "nm": 816916,
+        "roles": [
+          {
+            "char": "Rex"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "And Baby Makes Three",
+    "tt": 505792,
+    "air_date": "1994-04-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Gary Armagnac",
+        "nm": 35247,
+        "roles": [
+          {
+            "char": "Watch Sgt."
+          }
+        ]
+      },
+      {
+        "name": "Lou Cass",
+        "nm": 992223,
+        "roles": [
+          {
+            "char": "Drunk Womanizer"
+          }
+        ]
+      },
+      {
+        "name": "François Chau",
+        "nm": 154236,
+        "roles": [
+          {
+            "char": "Aide"
+          }
+        ]
+      },
+      {
+        "name": "Peter Dennis",
+        "nm": 219536,
+        "roles": [
+          {
+            "char": "Reginald",
+            "ch": 86852
+          }
+        ]
+      },
+      {
+        "name": "James Hong",
+        "nm": 393222,
+        "roles": [
+          {
+            "char": "Lee Pow",
+            "ch": 84898
+          }
+        ]
+      },
+      {
+        "name": "Tzi Ma",
+        "nm": 2245,
+        "roles": [
+          {
+            "char": "Chan"
+          }
+        ]
+      },
+      {
+        "name": "Craig Ryan Ng",
+        "nm": 628746,
+        "roles": [
+          {
+            "char": "Warrior"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Phillips",
+        "nm": 680483,
+        "roles": [
+          {
+            "char": "Whip Morgan",
+            "ch": 68285
+          }
+        ]
+      },
+      {
+        "name": "John Pyper-Ferguson",
+        "nm": 701561,
+        "roles": [
+          {
+            "char": "Peter Hutter",
+            "ch": 64800
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Dixie Cousins",
+            "ch": 290656
+          }
+        ]
+      },
+      {
+        "name": "David Youse",
+        "nm": 950331,
+        "roles": [
+          {
+            "char": "Todd the Caterer",
+            "ch": 257394
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E25",
+    "title": "Bad Luck Betty",
+    "tt": 505793,
+    "air_date": "1994-04-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "Dana Craig",
+        "nm": 185818,
+        "roles": [
+          {
+            "char": "Pearson"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Doucette",
+        "nm": 234731,
+        "roles": [
+          {
+            "char": "Sheriff Hyde"
+          }
+        ]
+      },
+      {
+        "name": "Edith Fields",
+        "nm": 276232,
+        "roles": [
+          {
+            "char": "Mrs. Van Allen"
+          }
+        ]
+      },
+      {
+        "name": "Adam Hendershott",
+        "nm": 376307,
+        "roles": [
+          {
+            "char": "Bog",
+            "ch": 351584
+          }
+        ]
+      },
+      {
+        "name": "Morgan Hunter",
+        "nm": 402974,
+        "roles": [
+          {
+            "char": "Mr. Cross"
+          }
+        ]
+      },
+      {
+        "name": "Don Keith Opper",
+        "nm": 649210,
+        "roles": [
+          {
+            "char": "Riley"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Phillips",
+        "nm": 680483,
+        "roles": [
+          {
+            "char": "Whip Morgan",
+            "ch": 68285
+          }
+        ]
+      },
+      {
+        "name": "Annabella Price",
+        "nm": 696790,
+        "roles": [
+          {
+            "char": "Betty O'Donnell"
+          }
+        ]
+      },
+      {
+        "name": "Jane Sibbett",
+        "nm": 796235,
+        "roles": [
+          {
+            "char": "Dianna Grayson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E26",
+    "title": "High Treason: Part 1",
+    "tt": 505803,
+    "air_date": "1994-05-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "John Astin",
+        "nm": 40014,
+        "roles": [
+          {
+            "char": "Prof. Albert Wickwire",
+            "ch": 67242
+          }
+        ]
+      },
+      {
+        "name": "Raye Birk",
+        "nm": 83541,
+        "roles": [
+          {
+            "char": "Prosecuting Attorney"
+          }
+        ]
+      },
+      {
+        "name": "Terry Bradshaw",
+        "nm": 103537,
+        "roles": [
+          {
+            "char": "Colonel March"
+          }
+        ]
+      },
+      {
+        "name": "Jaime Cardriche",
+        "nm": 136729,
+        "roles": [
+          {
+            "char": "Tiny Lee Jones"
+          }
+        ]
+      },
+      {
+        "name": "Michael Fairman",
+        "nm": 265637,
+        "roles": [
+          {
+            "char": "General Quarry",
+            "ch": 86850
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Courtmartial panel member"
+          }
+        ]
+      },
+      {
+        "name": "Gary Hudson",
+        "nm": 399839,
+        "roles": [
+          {
+            "char": "Sheriff Aaron Viva",
+            "ch": 68287
+          }
+        ]
+      },
+      {
+        "name": "Michael Jace",
+        "nm": 413052,
+        "roles": [
+          {
+            "char": "Sgt.-at-Arms"
+          }
+        ]
+      },
+      {
+        "name": "Macon McCalman",
+        "nm": 564782,
+        "roles": [
+          {
+            "char": "Tribunal Head"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Hill Newman",
+        "nm": 628008,
+        "roles": [
+          {
+            "char": "Lt. Walker"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Phillips",
+        "nm": 680483,
+        "roles": [
+          {
+            "char": "Whip Morgan",
+            "ch": 68285
+          }
+        ]
+      },
+      {
+        "name": "Ely Pouget",
+        "nm": 693531,
+        "roles": [
+          {
+            "char": "Jennifer Hart"
+          }
+        ]
+      },
+      {
+        "name": "John Pyper-Ferguson",
+        "nm": 701561,
+        "roles": [
+          {
+            "char": "Peter Hutter",
+            "ch": 64800
+          }
+        ]
+      },
+      {
+        "name": "Victor Rivers",
+        "nm": 729582,
+        "roles": [
+          {
+            "char": "Carlos Falco",
+            "ch": 86851
+          }
+        ]
+      },
+      {
+        "name": "Sean Whitesell",
+        "nm": 925878,
+        "roles": [
+          {
+            "char": "Squad Sgt."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E27",
+    "title": "High Treason: Part 2",
+    "tt": 505804,
+    "air_date": "1994-05-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bruce Campbell",
+        "nm": 132257,
+        "roles": [
+          {
+            "char": "Brisco County Jr.",
+            "ch": 47681
+          }
+        ]
+      },
+      {
+        "name": "Julius Carry",
+        "nm": 141114,
+        "roles": [
+          {
+            "char": "Lord Bowler",
+            "ch": 47682
+          }
+        ]
+      },
+      {
+        "name": "Christian Clemenson",
+        "nm": 166061,
+        "roles": [
+          {
+            "char": "Socrates Poole",
+            "ch": 47683
+          }
+        ]
+      },
+      {
+        "name": "John Astin",
+        "nm": 40014,
+        "roles": [
+          {
+            "char": "Prof. Albert Wickwire",
+            "ch": 67242
+          }
+        ]
+      },
+      {
+        "name": "Carl Banks",
+        "nm": 2064107,
+        "roles": [
+          {
+            "char": "Grissle Wallens"
+          }
+        ]
+      },
+      {
+        "name": "Terry Bradshaw",
+        "nm": 103537,
+        "roles": [
+          {
+            "char": "Colonel March"
+          }
+        ]
+      },
+      {
+        "name": "Michael Fairman",
+        "nm": 265637,
+        "roles": [
+          {
+            "char": "General Quarry",
+            "ch": 86850
+          }
+        ]
+      },
+      {
+        "name": "Jim Harbaugh",
+        "nm": 2355566,
+        "roles": [
+          {
+            "char": "Mason 'Cowboy' Dixon"
+          }
+        ]
+      },
+      {
+        "name": "Richard Herd",
+        "nm": 378800,
+        "roles": [
+          {
+            "char": "President Cleveland",
+            "ch": 29481
+          }
+        ]
+      },
+      {
+        "name": "Gary Hudson",
+        "nm": 399839,
+        "roles": [
+          {
+            "char": "Sheriff Aaron Viva",
+            "ch": 68287
+          }
+        ]
+      },
+      {
+        "name": "Ken Norton Jr.",
+        "nm": 636150,
+        "roles": [
+          {
+            "char": "Aldo Buttuchi"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Phillips",
+        "nm": 680483,
+        "roles": [
+          {
+            "char": "Whip Morgan",
+            "ch": 68285
+          }
+        ]
+      },
+      {
+        "name": "Ely Pouget",
+        "nm": 693531,
+        "roles": [
+          {
+            "char": "Jennifer Hart"
+          }
+        ]
+      },
+      {
+        "name": "John Pyper-Ferguson",
+        "nm": 701561,
+        "roles": [
+          {
+            "char": "Peter Hutter",
+            "ch": 64800
+          }
+        ]
+      },
+      {
+        "name": "Victor Rivers",
+        "nm": 729582,
+        "roles": [
+          {
+            "char": "Carlos Falco",
+            "ch": 86851
+          }
+        ]
+      }
+    ]
+  }
+]

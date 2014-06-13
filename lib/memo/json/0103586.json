@@ -1,0 +1,6904 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Young Indiana Jones and the Curse of the Jackal",
+    "tt": 394998,
+    "air_date": "1992-03-04",
+    "description": "Professor Indiana Jones teaches two young boys to appreciate the history of art while visiting a museum be recalling his youth. He tells them how his father, Henry Jones Sr, was invited to give lectures all over the world in 1908, and, taking his wife and son along, invites his former tutor Helen Seymour to teach young Henry Jr. during the trip. On their first stop in Cairo, Egypt Junior, who prefers to be called 'Indy' and Miss Seymour were invited to join an archaeological dig by another former student of hers,T.E. Lawrence (who prefers to be called 'Ned'). There a man is killed and a priceless headpiece is stolen. Indiana finally caught up again with this jackal shaped artifact in 1916, after getting himself involved in the Mexican revolution while crossing the border with his cousin Frank. Having joined up with Pancho Villa, Indy became fast friends with Remy Baudouin, another revolutionary who originally hails from Belgium.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Corey Carrier",
+        "nm": 140393,
+        "roles": [
+          {
+            "char": "Henry 'Indiana' Jones, Jr.",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Margaret Tyzack",
+        "nm": 879239,
+        "roles": [
+          {
+            "char": "Miss Seymour",
+            "ch": 38968
+          }
+        ]
+      },
+      {
+        "name": "Ronny Coutteure",
+        "nm": 184261,
+        "roles": [
+          {
+            "char": "Remy Baudouin",
+            "ch": 37416
+          }
+        ]
+      },
+      {
+        "name": "Mike Moroff",
+        "nm": 120878,
+        "roles": [
+          {
+            "char": "Pancho Villa",
+            "ch": 35665
+          }
+        ]
+      },
+      {
+        "name": "Francesco Quinn",
+        "nm": 5331,
+        "roles": [
+          {
+            "char": "Francois"
+          }
+        ]
+      },
+      {
+        "name": "Ruth de Sosa",
+        "nm": 211679,
+        "roles": [
+          {
+            "char": "Anna Jones",
+            "ch": 39007,
+            "as Ruth De Sosa": true
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Owen",
+        "nm": 654197,
+        "roles": [
+          {
+            "char": "Professor Henry Jones, Sr.",
+            "ch": 1064
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Joseph Bennett",
+        "nm": 71851,
+        "roles": [
+          {
+            "char": "Lawrence of Arabia",
+            "ch": 5770
+          }
+        ]
+      },
+      {
+        "name": "Oliver Ford Davies",
+        "nm": 203882,
+        "roles": [
+          {
+            "char": "Ship's Captain"
+          }
+        ]
+      },
+      {
+        "name": "Pip Torrens",
+        "nm": 868476,
+        "roles": [
+          {
+            "char": "Howard Carter",
+            "ch": 34196
+          }
+        ]
+      },
+      {
+        "name": "Tariq Alibai",
+        "nm": 19541,
+        "roles": [
+          {
+            "char": "Rasheed Sallam"
+          }
+        ]
+      },
+      {
+        "name": "Vic Tablian",
+        "nm": 846004,
+        "roles": [
+          {
+            "char": "Demetrios"
+          },
+          {
+            "char": "Claw"
+          }
+        ]
+      },
+      {
+        "name": "Tony Alleff",
+        "nm": 20178,
+        "roles": [
+          {
+            "char": "Bassam Ghaly"
+          }
+        ]
+      },
+      {
+        "name": "Tony Robinson",
+        "nm": 733153,
+        "roles": [
+          {
+            "char": "Pierre Duclos"
+          }
+        ]
+      },
+      {
+        "name": "Keith Marsh",
+        "nm": 550595,
+        "roles": [
+          {
+            "char": "Bishop"
+          }
+        ]
+      },
+      {
+        "name": "Diana Taylor",
+        "nm": 852266,
+        "roles": [
+          {
+            "char": "Teacher"
+          }
+        ]
+      },
+      {
+        "name": "Alan Agor",
+        "nm": 2296550,
+        "roles": [
+          {
+            "char": "First Kid"
+          }
+        ]
+      },
+      {
+        "name": "Shane Fernando",
+        "nm": 2237637,
+        "roles": [
+          {
+            "char": "Second Kid"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Valero",
+        "nm": 884581,
+        "roles": [
+          {
+            "char": "Julio Cardenas"
+          }
+        ]
+      },
+      {
+        "name": "Peter Marinker",
+        "nm": 547707,
+        "roles": [
+          {
+            "char": "Pershing"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Milligan",
+        "nm": 589645,
+        "roles": [
+          {
+            "char": "Patton",
+            "ch": 28822
+          }
+        ]
+      },
+      {
+        "name": "Stephen Graf",
+        "nm": 1399810,
+        "roles": [
+          {
+            "char": "Frank"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Douglas",
+        "nm": 234980,
+        "roles": [
+          {
+            "char": "Mexican Banker"
+          }
+        ]
+      },
+      {
+        "name": "Ed Bishop",
+        "nm": 84042,
+        "roles": [
+          {
+            "char": "Sentry"
+          }
+        ]
+      },
+      {
+        "name": "Gregorio",
+        "nm": 1920159,
+        "roles": [
+          {
+            "char": "Old Man in Pueblo"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Wentworth",
+        "nm": 921120,
+        "roles": [
+          {
+            "char": "Pilot"
+          }
+        ]
+      },
+      {
+        "name": "David Morwick",
+        "nm": 1235393,
+        "roles": [
+          {
+            "char": "Third Kid"
+          }
+        ]
+      },
+      {
+        "name": "Kevin McNally",
+        "nm": 573618,
+        "roles": [
+          {
+            "char": "Mr. Harris",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Ashley Walters",
+        "nm": 910180,
+        "roles": [
+          {
+            "char": "Omar",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "London, May 1916",
+    "tt": 752179,
+    "air_date": "1992-03-11",
+    "description": "While having a meeting with his financier, Dr. Indiana Jones is reminded of the great love of his life, Vicky Prentiss. He met her in London in 1916 when she was working as a bus conductor and he was trying to pick up another woman (a war widow to be precise). Indy and Remy had just arrived to enlist in the Belgian army and were waiting to be send to La Havre for training.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Ronny Coutteure",
+        "nm": 184261,
+        "roles": [
+          {
+            "char": "Remy Baudouin",
+            "ch": 37416
+          }
+        ]
+      },
+      {
+        "name": "Margaret Tyzack",
+        "nm": 879239,
+        "roles": [
+          {
+            "char": "Miss Seymour",
+            "ch": 38968
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Hurley",
+        "nm": 167,
+        "roles": [
+          {
+            "char": "Vicky Prentiss",
+            "ch": 53571
+          }
+        ]
+      },
+      {
+        "name": "Vanessa Redgrave",
+        "nm": 603,
+        "roles": [
+          {
+            "char": "Vicky's Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jane Wyatt",
+        "nm": 943553,
+        "roles": [
+          {
+            "char": "Older Vicky",
+            "ch": 53571
+          }
+        ]
+      },
+      {
+        "name": "Kika Markham",
+        "nm": 548440,
+        "roles": [
+          {
+            "char": "Sylvia Pankhurst",
+            "ch": 101200
+          }
+        ]
+      },
+      {
+        "name": "Frederick Treves",
+        "nm": 872370,
+        "roles": [
+          {
+            "char": "Sir Peregrine Prentiss"
+          }
+        ]
+      },
+      {
+        "name": "Shelagh McLeod",
+        "nm": 572870,
+        "roles": [
+          {
+            "char": "Lady Lavinia"
+          }
+        ]
+      },
+      {
+        "name": "Julian Fellowes",
+        "nm": 271501,
+        "roles": [
+          {
+            "char": "Winston Churchill",
+            "ch": 26663
+          }
+        ]
+      },
+      {
+        "name": "Pauline Melville",
+        "nm": 578501,
+        "roles": [
+          {
+            "char": "Maisie Kemp"
+          }
+        ]
+      },
+      {
+        "name": "Daniel André Pageon",
+        "nm": 656408,
+        "roles": [
+          {
+            "char": "Recruiting Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Tilly Vosburgh",
+        "nm": 903637,
+        "roles": [
+          {
+            "char": "Mrs. Newton"
+          }
+        ]
+      },
+      {
+        "name": "Fergus Brazier",
+        "nm": 106344,
+        "roles": [
+          {
+            "char": "George Newton"
+          }
+        ]
+      },
+      {
+        "name": "Sukey Fekkes",
+        "nm": 270872,
+        "roles": [
+          {
+            "char": "Eddie Newton"
+          }
+        ]
+      },
+      {
+        "name": "Jane Wood",
+        "nm": 939771,
+        "roles": [
+          {
+            "char": "Chairwoman"
+          }
+        ]
+      },
+      {
+        "name": "Phyllida Hewat",
+        "nm": 381957,
+        "roles": [
+          {
+            "char": "Hostess"
+          }
+        ]
+      },
+      {
+        "name": "Gérard Dimiglio",
+        "nm": 227286,
+        "roles": [
+          {
+            "char": "Jean Baudouin"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Passard",
+        "nm": 439821,
+        "roles": [
+          {
+            "char": "Suzette Chambin"
+          }
+        ]
+      },
+      {
+        "name": "Rick Warner",
+        "nm": 912570,
+        "roles": [
+          {
+            "char": "Bob Traynor"
+          }
+        ]
+      },
+      {
+        "name": "Rayner Bourton",
+        "nm": 100183,
+        "roles": [
+          {
+            "char": "George the Bus Driver"
+          }
+        ]
+      },
+      {
+        "name": "James Bowers",
+        "nm": 101065,
+        "roles": [
+          {
+            "char": "London News Vendor"
+          }
+        ]
+      },
+      {
+        "name": "Ed Stobart",
+        "nm": 830679,
+        "roles": [
+          {
+            "char": "Rough Man"
+          }
+        ]
+      },
+      {
+        "name": "Ruari Connellan",
+        "nm": 2313177,
+        "roles": [
+          {
+            "char": "Baby Newton"
+          }
+        ]
+      },
+      {
+        "name": "Michaela Flenerová",
+        "nm": 281872,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "British East Africa, September 1909",
+    "tt": 752172,
+    "air_date": "1992-03-18",
+    "description": "Professor Indiana Jones visits the Metropolitan Foundation for Educational Quality where the Annual Celebrity tennis shoe auction and diner is being held. He begins to entertain the snobby people at his table by recounting a safari to British East Africa in 1909. There, Indy became determined to find the fabled Fringe-Eared Oryx for former US President Teddy Roosevelt. He befriended Meto, a Massai boy around the same age as himself at the time. Despite their language barrier, they find out where to find the last remaining Oryx.",
+    "cast": [
+      {
+        "name": "Corey Carrier",
+        "nm": 140393,
+        "roles": [
+          {
+            "char": "Henry 'Indiana' Jones, Jr.",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Margaret Tyzack",
+        "nm": 879239,
+        "roles": [
+          {
+            "char": "Miss Seymour",
+            "ch": 38968
+          }
+        ]
+      },
+      {
+        "name": "Ruth de Sosa",
+        "nm": 211679,
+        "roles": [
+          {
+            "char": "Anna Jones",
+            "ch": 39007
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Owen",
+        "nm": 654197,
+        "roles": [
+          {
+            "char": "Professor Henry Jones, Sr.",
+            "ch": 1064
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Isaac Senteu Supeyo",
+        "nm": 1719450,
+        "roles": [
+          {
+            "char": "Meto"
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Teddy Roosevelt",
+            "ch": 27501
+          }
+        ]
+      },
+      {
+        "name": "Paul Freeman",
+        "nm": 293550,
+        "roles": [
+          {
+            "char": "Frederick Selous",
+            "ch": 50324
+          }
+        ]
+      },
+      {
+        "name": "Tim Machin",
+        "nm": 1266405,
+        "roles": [
+          {
+            "char": "Kermit Roosevelt",
+            "as Timothy Machin": true
+          }
+        ]
+      },
+      {
+        "name": "Edward Tudor-Pole",
+        "nm": 876128,
+        "roles": [
+          {
+            "char": "Medlicot"
+          }
+        ]
+      },
+      {
+        "name": "Paul Birchard",
+        "nm": 83307,
+        "roles": [
+          {
+            "char": "Heller"
+          }
+        ]
+      },
+      {
+        "name": "Toby Stark",
+        "nm": 2287339,
+        "roles": [
+          {
+            "char": "Earing"
+          }
+        ]
+      },
+      {
+        "name": "Frances Taylor",
+        "nm": 852367,
+        "roles": [
+          {
+            "char": "Norma"
+          }
+        ]
+      },
+      {
+        "name": "Lee Freeman",
+        "nm": 293479,
+        "roles": [
+          {
+            "char": "Selina",
+            "as H. Lee Freeman": true
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Pillars",
+        "nm": 683505,
+        "roles": [
+          {
+            "char": "Tom"
+          }
+        ]
+      },
+      {
+        "name": "Naini Ole Meshesh",
+        "nm": 2298479,
+        "roles": [
+          {
+            "char": "Liabon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Verdun, September 1916",
+    "tt": 752191,
+    "air_date": "1992-03-25",
+    "description": "Old Indiana Jones lectures a so-called 'Pirate of Wallstreet' sitting next to him on a plane about the horrors of the first world war. The man reminds old Indy of the generals who casually send hundreds of young men off to slaughter in the trenches with each battle. Indy himself had managed to get a position as a courier, while his friend Remy had ended up in hospital, only to be ordered back to the front as soon as his wounds have healed. On a reconnaissance mission, Indy learned the Germans were bringing in two Big Bertha's, enormous howitzers to be used at Verdun.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Ronny Coutteure",
+        "nm": 184261,
+        "roles": [
+          {
+            "char": "Remy Baudouin",
+            "ch": 37416
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Bernard Fresson",
+        "nm": 294401,
+        "roles": [
+          {
+            "char": "Joffre",
+            "ch": 45020
+          }
+        ]
+      },
+      {
+        "name": "Jean Rougerie",
+        "nm": 745625,
+        "roles": [
+          {
+            "char": "Henri Philippe Petain",
+            "ch": 53747
+          }
+        ]
+      },
+      {
+        "name": "Igor De Savitch",
+        "nm": 211502,
+        "roles": [
+          {
+            "char": "Robert Nivelle"
+          }
+        ]
+      },
+      {
+        "name": "Cris Campion",
+        "nm": 133049,
+        "roles": [
+          {
+            "char": "Lt. Gaston"
+          }
+        ]
+      },
+      {
+        "name": "Francis Lalanne",
+        "nm": 482362,
+        "roles": [
+          {
+            "char": "Barc"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Claude Bouillon",
+        "nm": 99352,
+        "roles": [
+          {
+            "char": "Mangin"
+          }
+        ]
+      },
+      {
+        "name": "François Bourcier",
+        "nm": 99758,
+        "roles": [
+          {
+            "char": "Marat"
+          }
+        ]
+      },
+      {
+        "name": "Rémy Roubakha",
+        "nm": 745516,
+        "roles": [
+          {
+            "char": "Claude"
+          }
+        ]
+      },
+      {
+        "name": "Philippe Giraudeau",
+        "nm": 1118197,
+        "roles": [
+          {
+            "char": "Alex"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Pierre Castaldi",
+        "nm": 144413,
+        "roles": [
+          {
+            "char": "Rocco"
+          }
+        ]
+      },
+      {
+        "name": "François-Eric Gendron",
+        "nm": 312695,
+        "roles": [
+          {
+            "char": "Jean Marc"
+          }
+        ]
+      },
+      {
+        "name": "Oskar Freitag",
+        "nm": 293908,
+        "roles": [
+          {
+            "char": "German Officer #1",
+            "as Oscar Freitag": true
+          }
+        ]
+      },
+      {
+        "name": "Hans Meyer",
+        "nm": 583141,
+        "roles": [
+          {
+            "char": "German Officer #2"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Floersheim",
+        "nm": 282505,
+        "roles": [
+          {
+            "char": "German Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "J. Michael Hunter",
+        "nm": 402853,
+        "roles": [
+          {
+            "char": "Businessman on Plane"
+          }
+        ]
+      },
+      {
+        "name": "Petr Meissel",
+        "nm": 577081,
+        "roles": [
+          {
+            "char": "French Private"
+          }
+        ]
+      },
+      {
+        "name": "Jan Kuzelka",
+        "nm": 476737,
+        "roles": [
+          {
+            "char": "French Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Cécile Paoli",
+        "nm": 660015,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Chalaire",
+        "nm": 149858,
+        "roles": [
+          {
+            "char": "Stewardess"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "German East Africa, December 1916",
+    "tt": 752175,
+    "air_date": "1992-04-01",
+    "description": "In a the waiting room of a hospital, Professor Indiana Jones recounts a harrowing time he had in Africa, December 1916. Indy was promoted to Captain and then ordered to cross the jungle with Remy and Captain Boucher to pick up a shipment of weaponry. Along the way his Ubangan Sgt, Barthelemy picked up the sole surviving child from a disease ridden village despite Boucher's orders against it.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Ronny Coutteure",
+        "nm": 184261,
+        "roles": [
+          {
+            "char": "Remy Baudouin",
+            "ch": 37416
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Bryan Pringle",
+        "nm": 697799,
+        "roles": [
+          {
+            "char": "Zachariah Sloat",
+            "ch": 121854
+          }
+        ]
+      },
+      {
+        "name": "Michel Duchaussoy",
+        "nm": 239816,
+        "roles": [
+          {
+            "char": "Major Boucher"
+          }
+        ]
+      },
+      {
+        "name": "Isaach De Bankolé",
+        "nm": 207218,
+        "roles": [
+          {
+            "char": "Sgt. Barthelmy"
+          }
+        ]
+      },
+      {
+        "name": "Friedrich von Thun",
+        "nm": 903110,
+        "roles": [
+          {
+            "char": "Albert Schweitzer",
+            "ch": 44830
+          }
+        ]
+      },
+      {
+        "name": "Jacques Sereys",
+        "nm": 785037,
+        "roles": [
+          {
+            "char": "Colonel Mathieu"
+          }
+        ]
+      },
+      {
+        "name": "Jacques Vincey",
+        "nm": 898814,
+        "roles": [
+          {
+            "char": "Captain Lafleur"
+          }
+        ]
+      },
+      {
+        "name": "Hubert Saint-Macary",
+        "nm": 756651,
+        "roles": [
+          {
+            "char": "LL Arnoud",
+            "as Hubert St. Macary": true
+          }
+        ]
+      },
+      {
+        "name": "Jürgen Müller",
+        "nm": 612174,
+        "roles": [
+          {
+            "char": "Major Kleist",
+            "as Jurgen Muller": true
+          }
+        ]
+      },
+      {
+        "name": "Leon Pridgen",
+        "nm": 697268,
+        "roles": [
+          {
+            "char": "Jeffers",
+            "as J. Leon Pridgen II": true
+          }
+        ]
+      },
+      {
+        "name": "David Lenthall",
+        "nm": 502253,
+        "roles": [
+          {
+            "char": "Mike"
+          }
+        ]
+      },
+      {
+        "name": "Holden Hansen",
+        "nm": 360854,
+        "roles": [
+          {
+            "char": "Paramedic"
+          }
+        ]
+      },
+      {
+        "name": "Ben Pont",
+        "nm": 690559,
+        "roles": [
+          {
+            "char": "Dutchman"
+          }
+        ]
+      },
+      {
+        "name": "Laurent Ragor",
+        "nm": 2305252,
+        "roles": [
+          {
+            "char": "Army Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Gerard Arichi",
+        "nm": 2313820,
+        "roles": [
+          {
+            "char": "2nd Army Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Maryon Fletcher",
+        "nm": 2304951,
+        "roles": [
+          {
+            "char": "White Nun"
+          }
+        ]
+      },
+      {
+        "name": "Louise Abukutsa",
+        "nm": 2305987,
+        "roles": [
+          {
+            "char": "Black Nun"
+          }
+        ]
+      },
+      {
+        "name": "Mark Kaigwa",
+        "nm": 2310174,
+        "roles": [
+          {
+            "char": "Ubangi boy"
+          }
+        ]
+      },
+      {
+        "name": "Sean McCabe",
+        "nm": 564506,
+        "roles": [
+          {
+            "char": "Machine-Gunner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Congo, January 1917",
+    "tt": 752173,
+    "air_date": "1992-04-08",
+    "description": "Being treated for a bee-sting to his toe, old man Indy recounts the time he spent in Albert Schweitzer's jungle hospital in Africa during the Great War. Schweitzer and his orderlies had picked up Indy and companions near death while attempting to bring a shipment of guns across the Congo. At first resistant to being treated by a German, Indy soon began to realize that Schweitzer was not interested in war, only attempting to cure people against all odds.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Ronny Coutteure",
+        "nm": 184261,
+        "roles": [
+          {
+            "char": "Remy Baudouin",
+            "ch": 37416
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Bryan Pringle",
+        "nm": 697799,
+        "roles": [
+          {
+            "char": "Zachariah Sloat",
+            "ch": 121854
+          }
+        ]
+      },
+      {
+        "name": "Emile Abossolo M'bo",
+        "nm": 8865,
+        "roles": [
+          {
+            "char": "Joseph"
+          }
+        ]
+      },
+      {
+        "name": "Isolde Barth",
+        "nm": 58537,
+        "roles": [
+          {
+            "char": "Helene Schweitzer",
+            "ch": 295140
+          }
+        ]
+      },
+      {
+        "name": "Yann Collette",
+        "nm": 171811,
+        "roles": [
+          {
+            "char": "Colonel Pernod"
+          }
+        ]
+      },
+      {
+        "name": "Friedrich von Thun",
+        "nm": 903110,
+        "roles": [
+          {
+            "char": "Albert Schweitzer",
+            "ch": 44830
+          }
+        ]
+      },
+      {
+        "name": "Asiba Asiba",
+        "nm": 39335,
+        "roles": [
+          {
+            "char": "Zimu"
+          }
+        ]
+      },
+      {
+        "name": "Christian Cloarec",
+        "nm": 166992,
+        "roles": [
+          {
+            "char": "Captain Rostand"
+          }
+        ]
+      },
+      {
+        "name": "Leon Pridgen",
+        "nm": 697268,
+        "roles": [
+          {
+            "char": "Jeffens",
+            "as J. Leon Pridgen II": true
+          }
+        ]
+      },
+      {
+        "name": "David Lenthall",
+        "nm": 502253,
+        "roles": [
+          {
+            "char": "Mike"
+          }
+        ]
+      },
+      {
+        "name": "Holden Hansen",
+        "nm": 360854,
+        "roles": [
+          {
+            "char": "Paramedic #2"
+          }
+        ]
+      },
+      {
+        "name": "Abdullah Sohado",
+        "nm": 2313374,
+        "roles": [
+          {
+            "char": "Pahdun Chief"
+          }
+        ]
+      },
+      {
+        "name": "David Odero",
+        "nm": 2312090,
+        "roles": [
+          {
+            "char": "Chief's Son"
+          }
+        ]
+      },
+      {
+        "name": "Jean-François Chavrier",
+        "nm": 154645,
+        "roles": [
+          {
+            "char": "Military Gendarme",
+            "as J.F. Chavrier": true
+          }
+        ]
+      },
+      {
+        "name": "Antoine Valenti",
+        "nm": 2301478,
+        "roles": [
+          {
+            "char": "French Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Philippe Bernard",
+        "nm": 2311765,
+        "roles": [
+          {
+            "char": "French Corporal"
+          }
+        ]
+      },
+      {
+        "name": "John Chavanga",
+        "nm": 154443,
+        "roles": [
+          {
+            "char": "Private Juba"
+          }
+        ]
+      },
+      {
+        "name": "Kent Brown",
+        "nm": 114015,
+        "roles": [
+          {
+            "char": "African Soldier",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Austria, March 1917",
+    "tt": 752169,
+    "air_date": "1992-09-21",
+    "description": "Old Indy has posted a wrong parcel by mistake and is trying to get it out of the mailbox when a postal worker scolds him. He starts to tell her about the last time he had so much trouble delivering a package, during the Great War. Under the alias of Henri Defence, Indiana Jones was a spy in the Belgian Army. He had to safely escort two Austrian Princes to their family in order for their country to begin a separate peace treatment and deprive Germany of it's strongest ally.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Benedict Taylor",
+        "nm": 852028,
+        "roles": [
+          {
+            "char": "Prince Sixtus of Bourbon-Parma"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Wait",
+        "nm": 906585,
+        "roles": [
+          {
+            "char": "Xavier"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 489,
+        "roles": [
+          {
+            "char": "Count Ottokar Graf Czerin"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Ryecart",
+        "nm": 753236,
+        "roles": [
+          {
+            "char": "Emperor Karl I of Austria",
+            "ch": 69414
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Ehle",
+        "nm": 383,
+        "roles": [
+          {
+            "char": "Empress Zita of Austria"
+          }
+        ]
+      },
+      {
+        "name": "Joss Ackland",
+        "nm": 722,
+        "roles": [
+          {
+            "char": "The Prussian"
+          }
+        ]
+      },
+      {
+        "name": "Jeffry Wickham",
+        "nm": 926905,
+        "roles": [
+          {
+            "char": "Colonel Belmond",
+            "as Jeffrey Wickham": true
+          }
+        ]
+      },
+      {
+        "name": "David Sibley",
+        "nm": 796287,
+        "roles": [
+          {
+            "char": "Major Delon"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Spriggs",
+        "nm": 819655,
+        "roles": [
+          {
+            "char": "Schultz"
+          }
+        ]
+      },
+      {
+        "name": "Terry Richards",
+        "nm": 724358,
+        "roles": [
+          {
+            "char": "The Bavarian"
+          }
+        ]
+      },
+      {
+        "name": "Roger Ashton-Griffiths",
+        "nm": 4355,
+        "roles": [
+          {
+            "char": "Sinister German"
+          }
+        ]
+      },
+      {
+        "name": "John Ryan",
+        "nm": 752626,
+        "roles": [
+          {
+            "char": "Mister Max"
+          }
+        ]
+      },
+      {
+        "name": "Gábor Piroch",
+        "nm": 685230,
+        "roles": [
+          {
+            "char": "Killer #1"
+          }
+        ]
+      },
+      {
+        "name": "Bronco McLoughlin",
+        "nm": 572928,
+        "roles": [
+          {
+            "char": "Killer #2"
+          }
+        ]
+      },
+      {
+        "name": "Michele Seidman",
+        "nm": 782464,
+        "roles": [
+          {
+            "char": "Postal Woman"
+          }
+        ]
+      },
+      {
+        "name": "Hamilton Perkins",
+        "nm": 673951,
+        "roles": [
+          {
+            "char": "Imposing Pedestrian",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Somme, Early August 1916",
+    "tt": 752189,
+    "air_date": "1992-09-28",
+    "description": "Old Indiana Jones scolds a rude young man in a donut-shop and tells him about the hell he went through when he was about the same age. In august 1916, Jones had enlisted in the Belgian army to fight in the Great War. After all his commanding officers have been wiped out during combat in Flanders, Corporal ' Henri Defense' (Indy's pseudonym) is left in charge of what's left of the 9th Belgian Infantry. They are assigned to the French 14th Company and dispatched into the Battle of the Somme.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Ronny Coutteure",
+        "nm": 184261,
+        "roles": [
+          {
+            "char": "Remy Baudouin",
+            "ch": 37416
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Jason Flemyng",
+        "nm": 2076,
+        "roles": [
+          {
+            "char": "Emile",
+            "ch": 94320
+          }
+        ]
+      },
+      {
+        "name": "Richard Ridings",
+        "nm": 725956,
+        "roles": [
+          {
+            "char": "Andre"
+          }
+        ]
+      },
+      {
+        "name": "Simon Hepworth",
+        "nm": 1668300,
+        "roles": [
+          {
+            "char": "Tutu"
+          }
+        ]
+      },
+      {
+        "name": "Jonny Phillips",
+        "nm": 680526,
+        "roles": [
+          {
+            "char": "Jacques",
+            "as Jonathan Phillips": true
+          }
+        ]
+      },
+      {
+        "name": "Stevan Rimkus",
+        "nm": 727268,
+        "roles": [
+          {
+            "char": "Sassoon",
+            "ch": 137234
+          }
+        ]
+      },
+      {
+        "name": "Jamie Glover",
+        "nm": 323132,
+        "roles": [
+          {
+            "char": "Graves"
+          }
+        ]
+      },
+      {
+        "name": "Miles Anderson",
+        "nm": 27215,
+        "roles": [
+          {
+            "char": "Giscard"
+          }
+        ]
+      },
+      {
+        "name": "Paul Rattigan",
+        "nm": 711780,
+        "roles": [
+          {
+            "char": "Lieutenant Moreau",
+            "ch": 1088
+          }
+        ]
+      },
+      {
+        "name": "Edward Petherbridge",
+        "nm": 677489,
+        "roles": [
+          {
+            "char": "Major Bilideau"
+          }
+        ]
+      },
+      {
+        "name": "Joe Searby",
+        "nm": 780664,
+        "roles": [
+          {
+            "char": "Gascoyne"
+          }
+        ]
+      },
+      {
+        "name": "Steve Nicolson",
+        "nm": 630496,
+        "roles": [
+          {
+            "char": "British Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "John Lawhorn",
+        "nm": 492455,
+        "roles": [
+          {
+            "char": "Tom at Donut Shop",
+            "as John B. Lawhorn": true
+          }
+        ]
+      },
+      {
+        "name": "Amy Parrish",
+        "nm": 663511,
+        "roles": [
+          {
+            "char": "Sandy"
+          }
+        ]
+      },
+      {
+        "name": "Jody Smith",
+        "nm": 808754,
+        "roles": [
+          {
+            "char": "Scottie"
+          }
+        ]
+      },
+      {
+        "name": "Marty Terry",
+        "nm": 856042,
+        "roles": [
+          {
+            "char": "Elderly Woman"
+          }
+        ]
+      },
+      {
+        "name": "George Hasenstaab",
+        "nm": 367996,
+        "roles": [
+          {
+            "char": "Policeman #1",
+            "as George L. Hasenstab": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Germany, Mid-August 1916",
+    "tt": 752176,
+    "air_date": "1992-10-05",
+    "description": "Old man Indy is arrested for assaulting a young man and thrown into a crowded jail cell. He immediately starts plotting his escape, just like he did in 1916 when he was captured by the Germans in De Somme. After taking part in an escape attempt on his first day in a camp, young Indy was sent to the maximum security prison at Dunsterstadt on the Danube.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Jason Flemyng",
+        "nm": 2076,
+        "roles": [
+          {
+            "char": "Emile",
+            "ch": 94320
+          }
+        ]
+      },
+      {
+        "name": "Yves Beneyton",
+        "nm": 70987,
+        "roles": [
+          {
+            "char": "Benet"
+          }
+        ]
+      },
+      {
+        "name": "Hervé Pauchon",
+        "nm": 666709,
+        "roles": [
+          {
+            "char": "Charles De Gaulle",
+            "ch": 27428
+          }
+        ]
+      },
+      {
+        "name": "David Marsden",
+        "nm": 1624292,
+        "roles": [
+          {
+            "char": "Simon",
+            "as Dave Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Pat Abernathy",
+        "nm": 1721106,
+        "roles": [
+          {
+            "char": "Ian"
+          }
+        ]
+      },
+      {
+        "name": "Ian Brimble",
+        "nm": 109407,
+        "roles": [
+          {
+            "char": "Truck Driver"
+          }
+        ]
+      },
+      {
+        "name": "Philip Martin Brown",
+        "nm": 114441,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Sean Pertwee",
+        "nm": 675730,
+        "roles": [
+          {
+            "char": "Captain Heinz"
+          }
+        ]
+      },
+      {
+        "name": "David Howey",
+        "nm": 398147,
+        "roles": [
+          {
+            "char": "Plantier"
+          }
+        ]
+      },
+      {
+        "name": "Richard Garnett",
+        "nm": 307817,
+        "roles": [
+          {
+            "char": "Bordenais"
+          }
+        ]
+      },
+      {
+        "name": "Jay Villiers",
+        "nm": 898377,
+        "roles": [
+          {
+            "char": "Devereux"
+          }
+        ]
+      },
+      {
+        "name": "Ian Redford",
+        "nm": 714852,
+        "roles": [
+          {
+            "char": "Commandant"
+          }
+        ]
+      },
+      {
+        "name": "Carl Duering",
+        "nm": 240268,
+        "roles": [
+          {
+            "char": "Richter"
+          }
+        ]
+      },
+      {
+        "name": "Julian Firth",
+        "nm": 278747,
+        "roles": [
+          {
+            "char": "Lambert"
+          }
+        ]
+      },
+      {
+        "name": "James Nesbitt",
+        "nm": 626362,
+        "roles": [
+          {
+            "char": "Yuri"
+          }
+        ]
+      },
+      {
+        "name": "Niven Boyd",
+        "nm": 101872,
+        "roles": [
+          {
+            "char": "Leonid"
+          }
+        ]
+      },
+      {
+        "name": "Paul Opacic",
+        "nm": 649037,
+        "roles": [
+          {
+            "char": "French Officer"
+          }
+        ]
+      },
+      {
+        "name": "George Hasenstaab",
+        "nm": 367996,
+        "roles": [
+          {
+            "char": "Policeman #1",
+            "as George L. Hasen stab": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Tyson",
+        "nm": 879150,
+        "roles": [
+          {
+            "char": "Policeman #2"
+          }
+        ]
+      },
+      {
+        "name": "Don Tilley",
+        "nm": 863336,
+        "roles": [
+          {
+            "char": "Greasy Inmate"
+          }
+        ]
+      },
+      {
+        "name": "James Slade",
+        "nm": 805156,
+        "roles": [
+          {
+            "char": "Inmate #1",
+            "as Butch Slade": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Burgess",
+        "nm": 121327,
+        "roles": [
+          {
+            "char": "Inmate #2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Barcelona, May 1917",
+    "tt": 752170,
+    "air_date": "1992-10-12",
+    "description": "Professor Indiana Jones is about to lecture the Pennsylvania History Society when some trouble with his microphone stand leads him off into recounting a disastrous spy mission in which he was involved in May 1917. Jones had joined up with an international trio of spies plotting against their German counterparts in the neutral city of Barcelona. After his old acquaintance Pablo Picasso helped him get a job at Sergei Diaghilev's Ballets Russes, Indy devised a plan to forge a love letter written by the German cultural attaché to make it seem the man was having an affair with the Countess of Toledo.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Amanda Ooms",
+        "nm": 648975,
+        "roles": [
+          {
+            "char": "Nadia"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Spall",
+        "nm": 1758,
+        "roles": [
+          {
+            "char": "Cunningham",
+            "ch": 122313
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Cranham",
+        "nm": 186469,
+        "roles": [
+          {
+            "char": "Colonel Schmidt"
+          }
+        ]
+      },
+      {
+        "name": "Harry Enfield",
+        "nm": 256960,
+        "roles": [
+          {
+            "char": "Chauffeur"
+          }
+        ]
+      },
+      {
+        "name": "Terry Jones",
+        "nm": 1402,
+        "roles": [
+          {
+            "char": "Marcello"
+          }
+        ]
+      },
+      {
+        "name": "William Hootkins",
+        "nm": 393853,
+        "roles": [
+          {
+            "char": "Diaghilev"
+          }
+        ]
+      },
+      {
+        "name": "Liz Smith",
+        "nm": 809131,
+        "roles": [
+          {
+            "char": "Delfina"
+          }
+        ]
+      },
+      {
+        "name": "David Leland",
+        "nm": 500896,
+        "roles": [
+          {
+            "char": "Costume dDesigner"
+          }
+        ]
+      },
+      {
+        "name": "Charles McKeown",
+        "nm": 571650,
+        "roles": [
+          {
+            "char": "Charles",
+            "ch": 128120
+          }
+        ]
+      },
+      {
+        "name": "David Hatton",
+        "nm": 369033,
+        "roles": [
+          {
+            "char": "Count of Toledo"
+          }
+        ]
+      },
+      {
+        "name": "Sussanah Morley",
+        "nm": 605934,
+        "roles": [
+          {
+            "char": "Countess of Toledo"
+          }
+        ]
+      },
+      {
+        "name": "Wolf Kahler",
+        "nm": 434759,
+        "roles": [
+          {
+            "char": "German 2nd"
+          }
+        ]
+      },
+      {
+        "name": "Carl Chase",
+        "nm": 153704,
+        "roles": [
+          {
+            "char": "German 2nd #2"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Frost",
+        "nm": 296571,
+        "roles": [
+          {
+            "char": "Huge Man"
+          }
+        ]
+      },
+      {
+        "name": "Jimmy Gardner",
+        "nm": 306977,
+        "roles": [
+          {
+            "char": "Old Spanish Man"
+          }
+        ]
+      },
+      {
+        "name": "Desirée Erasmus",
+        "nm": 258605,
+        "roles": [
+          {
+            "char": "Olga"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Seear",
+        "nm": 781439,
+        "roles": [
+          {
+            "char": "Spanish 2nd #1"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Drew",
+        "nm": 237661,
+        "roles": [
+          {
+            "char": "Spanish 2nd #2"
+          }
+        ]
+      },
+      {
+        "name": "Bill Dean",
+        "nm": 212711,
+        "roles": [
+          {
+            "char": "Theatre Caretaker"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Sim",
+        "nm": 799252,
+        "roles": [
+          {
+            "char": "Theatre Page"
+          }
+        ]
+      },
+      {
+        "name": "Claire Perriam",
+        "nm": 674655,
+        "roles": [
+          {
+            "char": "Balet Dancer"
+          }
+        ]
+      },
+      {
+        "name": "Jacqueline Charles",
+        "nm": 153049,
+        "roles": [
+          {
+            "char": "Old Spanish Lady"
+          }
+        ]
+      },
+      {
+        "name": "Gavin Scott",
+        "nm": 779170,
+        "roles": [
+          {
+            "char": "German Spy"
+          }
+        ]
+      },
+      {
+        "name": "George Nannarello",
+        "nm": 620882,
+        "roles": [
+          {
+            "char": "Small Fussy Man"
+          }
+        ]
+      },
+      {
+        "name": "Salvador Sáinz",
+        "nm": 844639,
+        "roles": [
+          {
+            "char": "Juerguista",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Danny Webb",
+        "nm": 916073,
+        "roles": [
+          {
+            "char": "Pablo Picasso",
+            "ch": 31943,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Young Indiana Jones and the Mystery of the Blues",
+    "tt": 108635,
+    "air_date": "1993-03-13",
+    "description": "Wyoming, 1950. Indiana Jones and his friend Grey Cloud have obtained a sacred ceremonial pipe and end up in a slow-logged cabin. When Jones finds a soprano sax, he is reminded of his college days in Chicago 1920. Indy was waiting tables at Colosimo's and had become obsessed with Jazz music. He managed to befriend Sidney Bichet who encouraged him to practice the soprano sax. But then Colosimo was murdered on the doorstep of his restaurant and Indy got caught up in the investigation together with his roommate Eliot Ness and young reporter Ernest Hemingway.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Harrison Ford",
+        "nm": 148,
+        "roles": [
+          {
+            "char": "Indiana Jones - age 50",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Wright",
+        "nm": 942482,
+        "roles": [
+          {
+            "char": "Sidney Bichet"
+          }
+        ]
+      },
+      {
+        "name": "Jay Underwood",
+        "nm": 1809,
+        "roles": [
+          {
+            "char": "Ernest Hemingway",
+            "ch": 44831
+          }
+        ]
+      },
+      {
+        "name": "Keith David",
+        "nm": 202966,
+        "roles": [
+          {
+            "char": "King Oliver"
+          }
+        ]
+      },
+      {
+        "name": "Frank Vincent",
+        "nm": 898634,
+        "roles": [
+          {
+            "char": "John Torrio",
+            "ch": 69163
+          }
+        ]
+      },
+      {
+        "name": "Frederick Weller",
+        "nm": 919867,
+        "roles": [
+          {
+            "char": "Eliot Ness",
+            "ch": 3954
+          }
+        ]
+      },
+      {
+        "name": "Maria Howell",
+        "nm": 398016,
+        "roles": [
+          {
+            "char": "Goldie"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Turturro",
+        "nm": 878155,
+        "roles": [
+          {
+            "char": "Big Al Brown"
+          }
+        ]
+      },
+      {
+        "name": "Saginaw Grant",
+        "nm": 335636,
+        "roles": [
+          {
+            "char": "Grey Cloud"
+          }
+        ]
+      },
+      {
+        "name": "Jane Krakowski",
+        "nm": 5105,
+        "roles": [
+          {
+            "char": "Dale Winter"
+          }
+        ]
+      },
+      {
+        "name": "David Arnott",
+        "nm": 36714,
+        "roles": [
+          {
+            "char": "Clifford"
+          }
+        ]
+      },
+      {
+        "name": "Victor Slezak",
+        "nm": 805789,
+        "roles": [
+          {
+            "char": "O'Bannion"
+          }
+        ]
+      },
+      {
+        "name": "Raymond Serra",
+        "nm": 785435,
+        "roles": [
+          {
+            "char": "Colosimo",
+            "as Ray Serra": true
+          }
+        ]
+      },
+      {
+        "name": "Leon Pridgen",
+        "nm": 697268,
+        "roles": [
+          {
+            "char": "CJ",
+            "as J. Leon Pridgen II": true
+          }
+        ]
+      },
+      {
+        "name": "Byron Stripling",
+        "nm": 834615,
+        "roles": [
+          {
+            "char": "Louis Armstrong",
+            "ch": 151931
+          }
+        ]
+      },
+      {
+        "name": "Mark Kiely",
+        "nm": 452492,
+        "roles": [
+          {
+            "char": "Ben Hecht"
+          }
+        ]
+      },
+      {
+        "name": "Sunday Theodore",
+        "nm": 857498,
+        "roles": [
+          {
+            "char": "Babs"
+          }
+        ]
+      },
+      {
+        "name": "Lou Criscuolo",
+        "nm": 187951,
+        "roles": [
+          {
+            "char": "Ceasarino"
+          }
+        ]
+      },
+      {
+        "name": "Jim Fyfe",
+        "nm": 299474,
+        "roles": [
+          {
+            "char": "Harold"
+          }
+        ]
+      },
+      {
+        "name": "Damon Whitaker",
+        "nm": 924254,
+        "roles": [
+          {
+            "char": "Piano Man"
+          }
+        ]
+      },
+      {
+        "name": "Ed Grady",
+        "nm": 333592,
+        "roles": [
+          {
+            "char": "Professor Hunt"
+          }
+        ]
+      },
+      {
+        "name": "Mark Jeffrey Miller",
+        "nm": 7002,
+        "roles": [
+          {
+            "char": "Frank Camilla"
+          }
+        ]
+      },
+      {
+        "name": "Malachy McCourt",
+        "nm": 566663,
+        "roles": [
+          {
+            "char": "Chief Garrety"
+          }
+        ]
+      },
+      {
+        "name": "Barry Bell",
+        "nm": 68049,
+        "roles": [
+          {
+            "char": "Charles MacArthur",
+            "ch": 40209
+          }
+        ]
+      },
+      {
+        "name": "Linda Lutz",
+        "nm": 527587,
+        "roles": [
+          {
+            "char": "Victoria Moresco"
+          }
+        ]
+      },
+      {
+        "name": "Keith Flippen",
+        "nm": 282436,
+        "roles": [
+          {
+            "char": "Sam"
+          }
+        ]
+      },
+      {
+        "name": "Alan McCoy",
+        "nm": 566694,
+        "roles": [
+          {
+            "char": "Holloway"
+          }
+        ]
+      },
+      {
+        "name": "Shilla Benning",
+        "nm": 72163,
+        "roles": [
+          {
+            "char": "Black Female Vocalist"
+          }
+        ]
+      },
+      {
+        "name": "Dwayne Andre Murrill",
+        "nm": 3439297,
+        "roles": [
+          {
+            "char": "Arte the cornet player"
+          }
+        ]
+      },
+      {
+        "name": "Hadley Eure",
+        "nm": 262372,
+        "roles": [
+          {
+            "char": "Susie"
+          }
+        ]
+      },
+      {
+        "name": "Philip Loch",
+        "nm": 516628,
+        "roles": [
+          {
+            "char": "Sculli"
+          }
+        ]
+      },
+      {
+        "name": "Jery Hewitt",
+        "nm": 382047,
+        "roles": [
+          {
+            "char": "Coveralls man"
+          }
+        ]
+      },
+      {
+        "name": "Nate Bynum",
+        "nm": 125967,
+        "roles": [
+          {
+            "char": "Black waiter at Royal Garderns"
+          }
+        ]
+      },
+      {
+        "name": "Terry L. Wallace",
+        "nm": 2314003,
+        "roles": [
+          {
+            "char": "Tall black man"
+          }
+        ]
+      },
+      {
+        "name": "Pete Prehn",
+        "nm": 695813,
+        "roles": [
+          {
+            "char": "Natty white man"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Wilcox",
+        "nm": 928267,
+        "roles": [
+          {
+            "char": "Black manager"
+          }
+        ]
+      },
+      {
+        "name": "Paul Mixon",
+        "nm": 2794688,
+        "roles": [
+          {
+            "char": "Drunk white customer"
+          }
+        ]
+      },
+      {
+        "name": "Lee Spencer",
+        "nm": 818013,
+        "roles": [
+          {
+            "char": "Gregory"
+          }
+        ]
+      },
+      {
+        "name": "Ishmond Jones",
+        "nm": 428257,
+        "roles": [
+          {
+            "char": "Black waiter"
+          }
+        ]
+      },
+      {
+        "name": "Don Hartman",
+        "nm": 366943,
+        "roles": [
+          {
+            "char": "White man in trunks"
+          }
+        ]
+      },
+      {
+        "name": "Charles McIntyre",
+        "nm": 3418633,
+        "roles": [
+          {
+            "char": "Old one-armed man"
+          }
+        ]
+      },
+      {
+        "name": "Helmar Augustus Cooper",
+        "nm": 178087,
+        "roles": [
+          {
+            "char": "Mr. Williams"
+          }
+        ]
+      },
+      {
+        "name": "Lizan Mitchell",
+        "nm": 593541,
+        "roles": [
+          {
+            "char": "Mrs. Williams"
+          }
+        ]
+      },
+      {
+        "name": "Otis Banks",
+        "nm": 2182029,
+        "roles": [
+          {
+            "char": "Waiter Gus"
+          }
+        ]
+      },
+      {
+        "name": "Stormy Lang",
+        "nm": 3440543,
+        "roles": [
+          {
+            "char": "Young black man"
+          }
+        ]
+      },
+      {
+        "name": "Sal Ruffino",
+        "nm": 749311,
+        "roles": [
+          {
+            "char": "Customer at Colosimo's"
+          }
+        ]
+      },
+      {
+        "name": "Rudy Tyson",
+        "nm": 3418791,
+        "roles": [
+          {
+            "char": "Orchestra Leader"
+          }
+        ]
+      },
+      {
+        "name": "Winston Hemingway",
+        "nm": 376028,
+        "roles": [
+          {
+            "char": "Doorman at Peking Inn"
+          }
+        ]
+      },
+      {
+        "name": "James Bloodworth",
+        "nm": 89121,
+        "roles": [
+          {
+            "char": "Doorman at Royal Gardens"
+          }
+        ]
+      },
+      {
+        "name": "George Evans",
+        "nm": 262781,
+        "roles": [
+          {
+            "char": "Doorman at Four Deuces"
+          }
+        ]
+      },
+      {
+        "name": "George Fisher",
+        "nm": 279510,
+        "roles": [
+          {
+            "char": "Thug #1"
+          }
+        ]
+      },
+      {
+        "name": "Anthony G. Schmidt",
+        "nm": 772826,
+        "roles": [
+          {
+            "char": "Thug #2",
+            "as Anthony Schmidt": true
+          }
+        ]
+      },
+      {
+        "name": "Nick Dimitri",
+        "nm": 227313,
+        "roles": [
+          {
+            "char": "Greycloud double"
+          }
+        ]
+      },
+      {
+        "name": "David Frisinger",
+        "nm": 295885,
+        "roles": [
+          {
+            "char": "Library clerk"
+          }
+        ]
+      },
+      {
+        "name": "Amy Parrish",
+        "nm": 663511,
+        "roles": [
+          {
+            "char": "Blonde Collegiate",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "Princeton, February 1916",
+    "tt": 752188,
+    "air_date": "1993-03-20",
+    "description": "Old Indy meets a man driving a monster truck with the biggest set of wheels he ever saw at the gas station. He is reminded of his own teenage dream of driving the hottest car to his junior prom in 1916: a Bugatti owned by his then girlfriends father, Edward Stratemeyer. While trying to get the engine repaired, Indy and Nancy helped solve a robbery case from Thomas Edison's laboratory. It seemed German spies were after Edison's new electric motor.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Owen",
+        "nm": 654197,
+        "roles": [
+          {
+            "char": "Professor Henry Jones, Sr.",
+            "ch": 1064
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Robyn Lively",
+        "nm": 1477,
+        "roles": [
+          {
+            "char": "Nancy Stratemeyer"
+          }
+        ]
+      },
+      {
+        "name": "Mark L. Taylor",
+        "nm": 852848,
+        "roles": [
+          {
+            "char": "Professor Thompson"
+          }
+        ]
+      },
+      {
+        "name": "Clark Gregg",
+        "nm": 163988,
+        "roles": [
+          {
+            "char": "Dickinson"
+          }
+        ]
+      },
+      {
+        "name": "James Handy",
+        "nm": 359695,
+        "roles": [
+          {
+            "char": "Frank Brady"
+          }
+        ]
+      },
+      {
+        "name": "John Asher",
+        "nm": 38875,
+        "roles": [
+          {
+            "char": "Clifford",
+            "as John Mallory Asher": true
+          }
+        ]
+      },
+      {
+        "name": "Joe West",
+        "nm": 922147,
+        "roles": [
+          {
+            "char": "Butch"
+          }
+        ]
+      },
+      {
+        "name": "Lee Lively",
+        "nm": 515132,
+        "roles": [
+          {
+            "char": "Edward Stratemeyer"
+          }
+        ]
+      },
+      {
+        "name": "Jeromie Wilson",
+        "nm": 933597,
+        "roles": [
+          {
+            "char": "Mrs. Stratemeyer"
+          }
+        ]
+      },
+      {
+        "name": "Thea Mills",
+        "nm": 2953623,
+        "roles": [
+          {
+            "char": "Jewel Williams"
+          }
+        ]
+      },
+      {
+        "name": "Rick Warner",
+        "nm": 912570,
+        "roles": [
+          {
+            "char": "Howard Butler"
+          }
+        ]
+      },
+      {
+        "name": "Marilyn Allen",
+        "nm": 20800,
+        "roles": [
+          {
+            "char": "Thompson's Wife"
+          }
+        ]
+      },
+      {
+        "name": "Richard K. Olsen",
+        "nm": 647785,
+        "roles": [
+          {
+            "char": "Thomas Alva Edison",
+            "ch": 30532
+          }
+        ]
+      },
+      {
+        "name": "Michael Titterton",
+        "nm": 864527,
+        "roles": [
+          {
+            "char": "Teacher"
+          }
+        ]
+      },
+      {
+        "name": "Eric Lavoie",
+        "nm": 492169,
+        "roles": [
+          {
+            "char": "Ricky"
+          }
+        ]
+      },
+      {
+        "name": "Pearl Brennan",
+        "nm": 2953773,
+        "roles": [
+          {
+            "char": "Mrs. Brennan"
+          }
+        ]
+      },
+      {
+        "name": "Robert V. Girolami",
+        "nm": 320949,
+        "roles": [
+          {
+            "char": "Security Guard"
+          }
+        ]
+      },
+      {
+        "name": "Dick Latessa",
+        "nm": 490050,
+        "roles": [
+          {
+            "char": "Willie"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Long",
+        "nm": 2954377,
+        "roles": [
+          {
+            "char": "Race Car Driver"
+          }
+        ]
+      },
+      {
+        "name": "Ken Sprunt",
+        "nm": 819887,
+        "roles": [
+          {
+            "char": "Kurt",
+            "as K.M. Sprunt Jr": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Pentz",
+        "nm": 672416,
+        "roles": [
+          {
+            "char": "Herman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Petrograd, July 1917",
+    "tt": 752186,
+    "air_date": "1993-03-27",
+    "description": "Prof. Indiana Jones points out to a museum curator that a picture of the Russian revolution is labeled wrong. He knows it for sure because he was there. Working as a translator at the French embassy in Petrograd, Indy had befriended a group of young Bolshevik students. On his 18th birthday, they took him to hear Lenin himself giving a speech. Unfortunately, the speech inspires them to a premature revolution attempt.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Julia Stemberger",
+        "nm": 826432,
+        "roles": [
+          {
+            "char": "Rosa"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Pierre Cassel",
+        "nm": 144045,
+        "roles": [
+          {
+            "char": "Ambassador"
+          }
+        ]
+      },
+      {
+        "name": "Beata Po&#378;niak",
+        "nm": 694796,
+        "roles": [
+          {
+            "char": "Irene",
+            "as Beata Pozniak": true
+          }
+        ]
+      },
+      {
+        "name": "Ravil Isyanov",
+        "nm": 411570,
+        "roles": [
+          {
+            "char": "Sergei"
+          }
+        ]
+      },
+      {
+        "name": "Gary Olsen",
+        "nm": 647653,
+        "roles": [
+          {
+            "char": "Boris"
+          }
+        ]
+      },
+      {
+        "name": "Roger Sloman",
+        "nm": 806149,
+        "roles": [
+          {
+            "char": "Vladimir Ilyich Lenin",
+            "ch": 33067
+          }
+        ]
+      },
+      {
+        "name": "Alan Cox",
+        "nm": 184893,
+        "roles": [
+          {
+            "char": "Dimitri"
+          }
+        ]
+      },
+      {
+        "name": "Marc Berman",
+        "nm": 75807,
+        "roles": [
+          {
+            "char": "Laurentine"
+          }
+        ]
+      },
+      {
+        "name": "Pierre Lacan",
+        "nm": 479807,
+        "roles": [
+          {
+            "char": "Brossard"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Gabriel Nordmann",
+        "nm": 635157,
+        "roles": [
+          {
+            "char": "First Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Elsa Zylberstein",
+        "nm": 959113,
+        "roles": [
+          {
+            "char": "Telephone Girl"
+          }
+        ]
+      },
+      {
+        "name": "Milan Gargula",
+        "nm": 307384,
+        "roles": [
+          {
+            "char": "Cap Man",
+            "as Melon Garcula": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Hub",
+        "nm": 399103,
+        "roles": [
+          {
+            "char": "Bolshevik #1"
+          }
+        ]
+      },
+      {
+        "name": "Karel Engel",
+        "nm": 257104,
+        "roles": [
+          {
+            "char": "Bolshevik #2"
+          }
+        ]
+      },
+      {
+        "name": "Jan Nemejovský",
+        "nm": 625887,
+        "roles": [
+          {
+            "char": "Second Secretary",
+            "as Mr. Nemejovsky": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Inscoe",
+        "nm": 409367,
+        "roles": [
+          {
+            "char": "Curator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Young Indiana Jones and the Scandal of 1920",
+    "tt": 395000,
+    "air_date": "1993-04-03",
+    "description": "Indiana Jones is late for a Broadway show and begins to recount his own experiences working backstage at George White's Scandals in 1920 to his disgruntled female cabdriver. Indy managed to woo no less than three girls in as many days: singer Peggy, poet Kate and socialite Gloria. Arriving at the treater, Old Indy has no time to finish his account to the cabbie and instead picks up the story in the course of lecturing a theatre critic about the hardships of the little people struggling to put on their show.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Powers",
+        "nm": 694490,
+        "roles": [
+          {
+            "char": "Gloria"
+          }
+        ]
+      },
+      {
+        "name": "Anne Heche",
+        "nm": 162,
+        "roles": [
+          {
+            "char": "Kate"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Stevens",
+        "nm": 828483,
+        "roles": [
+          {
+            "char": "Peggy"
+          }
+        ]
+      },
+      {
+        "name": "Christopher John Fields",
+        "nm": 276211,
+        "roles": [
+          {
+            "char": "George White",
+            "ch": 86627
+          }
+        ]
+      },
+      {
+        "name": "Tom Beckett",
+        "nm": 65726,
+        "roles": [
+          {
+            "char": "George Gershwin",
+            "ch": 40098
+          }
+        ]
+      },
+      {
+        "name": "Michelle Nicastro",
+        "nm": 629264,
+        "roles": [
+          {
+            "char": "Ann Penington",
+            "ch": 86634
+          }
+        ]
+      },
+      {
+        "name": "Bill McKinney",
+        "nm": 571853,
+        "roles": [
+          {
+            "char": "Mack"
+          }
+        ]
+      },
+      {
+        "name": "Robert Trebor",
+        "nm": 871636,
+        "roles": [
+          {
+            "char": "Schwarz"
+          }
+        ]
+      },
+      {
+        "name": "Peter Appel",
+        "nm": 32216,
+        "roles": [
+          {
+            "char": "Ross"
+          }
+        ]
+      },
+      {
+        "name": "Annabelle Gurwitch",
+        "nm": 348800,
+        "roles": [
+          {
+            "char": "Dottie"
+          }
+        ]
+      },
+      {
+        "name": "Mark Holton",
+        "nm": 392625,
+        "roles": [
+          {
+            "char": "Alexander Woollcott",
+            "ch": 40216
+          }
+        ]
+      },
+      {
+        "name": "Terumi Matthews",
+        "nm": 560198,
+        "roles": [
+          {
+            "char": "Edna Ferber",
+            "ch": 40213
+          }
+        ]
+      },
+      {
+        "name": "Dylan Price",
+        "nm": 696879,
+        "roles": [
+          {
+            "char": "Franklin Adams",
+            "ch": 86657
+          }
+        ]
+      },
+      {
+        "name": "Joshua Beckett",
+        "nm": 65698,
+        "roles": [
+          {
+            "char": "Robert Sherwood",
+            "ch": 86656,
+            "as Joshua Rifkind": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Spears",
+        "nm": 817379,
+        "roles": [
+          {
+            "char": "Robert Benchley"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Strong",
+        "nm": 834947,
+        "roles": [
+          {
+            "char": "Beatrice Kaufman",
+            "ch": 86654
+          }
+        ]
+      },
+      {
+        "name": "Guri Weinberg",
+        "nm": 918184,
+        "roles": [
+          {
+            "char": "George Kaufman",
+            "ch": 40215
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Wright",
+        "nm": 942482,
+        "roles": [
+          {
+            "char": "Sidney Bechet",
+            "ch": 86630
+          }
+        ]
+      },
+      {
+        "name": "Pat Brady",
+        "nm": 103704,
+        "roles": [
+          {
+            "char": "Conductor"
+          }
+        ]
+      },
+      {
+        "name": "Vic Ventura",
+        "nm": 2327711,
+        "roles": [
+          {
+            "char": "Cabbie"
+          }
+        ]
+      },
+      {
+        "name": "Steven Dean Davis",
+        "nm": 1721157,
+        "roles": [
+          {
+            "char": "Bohemian"
+          }
+        ]
+      },
+      {
+        "name": "Janell McLeod",
+        "nm": 572814,
+        "roles": [
+          {
+            "char": "Housekeeper"
+          }
+        ]
+      },
+      {
+        "name": "David Deblinger",
+        "nm": 213446,
+        "roles": [
+          {
+            "char": "Harry"
+          }
+        ]
+      },
+      {
+        "name": "Brad Moranz",
+        "nm": 603105,
+        "roles": [
+          {
+            "char": "Ted"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Mayer",
+        "nm": 2315434,
+        "roles": [
+          {
+            "char": "Otto"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Pillars",
+        "nm": 683505,
+        "roles": [
+          {
+            "char": "Fred"
+          }
+        ]
+      },
+      {
+        "name": "Ethan Marten",
+        "nm": 551650,
+        "roles": [
+          {
+            "char": "Irving Berlin",
+            "ch": 86651
+          }
+        ]
+      },
+      {
+        "name": "Tom Hull",
+        "nm": 401476,
+        "roles": [
+          {
+            "char": "Doorkeeper"
+          }
+        ]
+      },
+      {
+        "name": "Roma Maffia",
+        "nm": 5173,
+        "roles": [
+          {
+            "char": "New York Cabbie"
+          }
+        ]
+      },
+      {
+        "name": "Louis Turenne",
+        "nm": 877027,
+        "roles": [
+          {
+            "char": "Theatre Critic"
+          }
+        ]
+      },
+      {
+        "name": "Mert Hatfield",
+        "nm": 368844,
+        "roles": [
+          {
+            "char": "J. J. Schuyler",
+            "ch": 79138
+          }
+        ]
+      },
+      {
+        "name": "Fred Maske",
+        "nm": 1663730,
+        "roles": [
+          {
+            "char": "Joe"
+          }
+        ]
+      },
+      {
+        "name": "Jay Underwood",
+        "nm": 1809,
+        "roles": [
+          {
+            "char": "Ernest Hemingway",
+            "ch": 44831
+          }
+        ]
+      },
+      {
+        "name": "Maria Howell",
+        "nm": 398016,
+        "roles": [
+          {
+            "char": "Goldie"
+          }
+        ]
+      },
+      {
+        "name": "Deshera Rainey",
+        "nm": 2330946,
+        "roles": [
+          {
+            "char": "Blues singer"
+          }
+        ]
+      },
+      {
+        "name": "James Martin Jr.",
+        "nm": 551848,
+        "roles": [
+          {
+            "char": "Usher"
+          }
+        ]
+      },
+      {
+        "name": "Mary Boucher",
+        "nm": 99010,
+        "roles": [
+          {
+            "char": "Ginger"
+          }
+        ]
+      },
+      {
+        "name": "Doug Richards",
+        "nm": 724065,
+        "roles": [
+          {
+            "char": "Frank"
+          },
+          {
+            "char": "Stagehand"
+          }
+        ]
+      },
+      {
+        "name": "Brent Young",
+        "nm": 1678465,
+        "roles": [
+          {
+            "char": "Young John Barrymore",
+            "ch": 30406
+          }
+        ]
+      },
+      {
+        "name": "John Lawson",
+        "nm": 2364305,
+        "roles": [
+          {
+            "char": "Unnamed Boy",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Linda Ronstadt",
+        "nm": 740168,
+        "roles": [
+          {
+            "char": "Peggy",
+            "singing voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Vienna, November 1908",
+    "tt": 752192,
+    "air_date": "1993-06-15",
+    "description": "Old Indy voluntarily visits a psychiatrist to prove he's still able to take care of himself (after getting himself stuck up a tree trying to rescue a cat). While there, he recounts a meeting with Sigmund Freud, Carl Jung and Alfred Adler in Viena, Austria in 1908. The three of them were there to attend the world's first psycho-analytical conference. Young Indy asked them how to cope with his first crush, on Princess Sophie of Austia, daughter of Archduke Franz Ferdinand.",
+    "cast": [
+      {
+        "name": "Corey Carrier",
+        "nm": 140393,
+        "roles": [
+          {
+            "char": "Henry 'Indiana' Jones, Jr.",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Margaret Tyzack",
+        "nm": 879239,
+        "roles": [
+          {
+            "char": "Miss Seymour",
+            "ch": 38968
+          }
+        ]
+      },
+      {
+        "name": "Ruth de Sosa",
+        "nm": 211679,
+        "roles": [
+          {
+            "char": "Anna Jones",
+            "ch": 39007
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Owen",
+        "nm": 654197,
+        "roles": [
+          {
+            "char": "Professor Henry Jones, Sr.",
+            "ch": 1064
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Lennart Hjulström",
+        "nm": 387140,
+        "roles": [
+          {
+            "char": "Franz Ferdinand",
+            "ch": 52180,
+            "as Lennart Hjulstrom": true
+          }
+        ]
+      },
+      {
+        "name": "Ernst-Hugo Järegård",
+        "nm": 433495,
+        "roles": [
+          {
+            "char": "Carl Jung",
+            "ch": 69417,
+            "as Ernst-Hugo Jardegard": true
+          }
+        ]
+      },
+      {
+        "name": "Björn Granath",
+        "nm": 334689,
+        "roles": [
+          {
+            "char": "Adler",
+            "ch": 92639,
+            "as Bjorn Granat": true
+          }
+        ]
+      },
+      {
+        "name": "Amalie Ihle Alstrup",
+        "nm": 22606,
+        "roles": [
+          {
+            "char": "Princess Sophie",
+            "ch": 92642,
+            "as Amalie Alstrup": true
+          }
+        ]
+      },
+      {
+        "name": "Max von Sydow",
+        "nm": 1884,
+        "roles": [
+          {
+            "char": "Sigmund Freud",
+            "ch": 27184
+          }
+        ]
+      },
+      {
+        "name": "Pernilla August",
+        "nm": 278,
+        "roles": [
+          {
+            "char": "Emilie",
+            "ch": 92649
+          }
+        ]
+      },
+      {
+        "name": "Peter Eyre",
+        "nm": 264235,
+        "roles": [
+          {
+            "char": "Kurt"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Boa",
+        "nm": 90124,
+        "roles": [
+          {
+            "char": "Ambassador Kerens",
+            "ch": 92651
+          }
+        ]
+      },
+      {
+        "name": "Volker Eckstein",
+        "nm": 248749,
+        "roles": [
+          {
+            "char": "Riding Instructor",
+            "ch": 64584
+          }
+        ]
+      },
+      {
+        "name": "Catherine Shaffner",
+        "nm": 787342,
+        "roles": [
+          {
+            "char": "Carol"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Northern Italy, June 1918",
+    "tt": 752180,
+    "air_date": "1993-04-17",
+    "description": "Old Indy snatches a parking place from under the noses of two squabbling commuters, then begins to lecture them about something he learned while in the Italian Alps during the Great War. While working as a spy to get Austrian deserters safely to the allies side, Indy was wooing an Italian beauty named Guiletta in his spare time. However, another man was competing with him for the girl's affections. So, together with ambulance driver Ernest Hemingway, Indy planned to crush the competition by smothering Guiletta with presents and compliments.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Jay Underwood",
+        "nm": 1809,
+        "roles": [
+          {
+            "char": "Ernest Hemingway",
+            "ch": 44831
+          }
+        ]
+      },
+      {
+        "name": "Veronica Logan",
+        "nm": 517672,
+        "roles": [
+          {
+            "char": "Giulietta",
+            "as Veronika Logan": true
+          }
+        ]
+      },
+      {
+        "name": "Pernilla August",
+        "nm": 278,
+        "roles": [
+          {
+            "char": "Mamma"
+          }
+        ]
+      },
+      {
+        "name": "Martin McDougall",
+        "nm": 568246,
+        "roles": [
+          {
+            "char": "Joe"
+          }
+        ]
+      },
+      {
+        "name": "Adam Serwer",
+        "nm": 2105143,
+        "roles": [
+          {
+            "char": "Umberto"
+          }
+        ]
+      },
+      {
+        "name": "Anna Lelio",
+        "nm": 500952,
+        "roles": [
+          {
+            "char": "Granny"
+          }
+        ]
+      },
+      {
+        "name": "Renato Scarpa",
+        "nm": 769237,
+        "roles": [
+          {
+            "char": "Papa"
+          }
+        ]
+      },
+      {
+        "name": "Carlo Zardini Lacadella",
+        "nm": 2318833,
+        "roles": [
+          {
+            "char": "Sentry"
+          }
+        ]
+      },
+      {
+        "name": "Lex van Delden",
+        "nm": 216683,
+        "roles": [
+          {
+            "char": "Voska"
+          }
+        ]
+      },
+      {
+        "name": "Eduardo Cuomo",
+        "nm": 192516,
+        "roles": [
+          {
+            "char": "Luigi"
+          }
+        ]
+      },
+      {
+        "name": "Andreas Jung",
+        "nm": 432508,
+        "roles": [
+          {
+            "char": "Austrian soldier #1",
+            "as Andreas Sportelli": true
+          }
+        ]
+      },
+      {
+        "name": "Walter Di Mai",
+        "nm": 2330892,
+        "roles": [
+          {
+            "char": "Austrian soldier #2"
+          }
+        ]
+      },
+      {
+        "name": "Michel Di Franco",
+        "nm": 2329887,
+        "roles": [
+          {
+            "char": "Austrian soldier #3"
+          }
+        ]
+      },
+      {
+        "name": "Vittorio Duse",
+        "nm": 244602,
+        "roles": [
+          {
+            "char": "Flower seller"
+          }
+        ]
+      },
+      {
+        "name": "Guerrino Crivello",
+        "nm": 188267,
+        "roles": [
+          {
+            "char": "Musician #1"
+          }
+        ]
+      },
+      {
+        "name": "Valerio Isidori",
+        "nm": 411194,
+        "roles": [
+          {
+            "char": "Musician #2"
+          }
+        ]
+      },
+      {
+        "name": "Roberto Milani",
+        "nm": 586838,
+        "roles": [
+          {
+            "char": "Musician #3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Young Indiana Jones and the Phantom Train of Doom",
+    "tt": 394999,
+    "air_date": "1993-06-05",
+    "description": "November, 1916. Indiana Jones and Remy Baudouin have managed to get a transfer from the European trenches to the plains of Africa. On arrival they both receive a promotion to the rank of lieutenant in the Belgian Army. When they take the wrong train they end up in Moshi. Desprerate to join their unit in Lake Victoria, the two men bump into the 25th Royal Fusiliers, a unit of cranky old men led by Indy's old acquaintance Frederick Selous. Indy's passing knowledge of trains and fluent German comes in handy for the Fusiliers, who are about to go on a mission to find and destroy a Phantom Train that carries an enormous German artillery gun. After accomplishing their goal, Selous tricks Indy and Remy into joining his unit for another caper involving the capture of the German military strategist Colonel Von Lettow-Vorbeck.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Ronny Coutteure",
+        "nm": 184261,
+        "roles": [
+          {
+            "char": "Remy Baudouin",
+            "ch": 37416
+          }
+        ]
+      },
+      {
+        "name": "Paul Freeman",
+        "nm": 293550,
+        "roles": [
+          {
+            "char": "Frederick Selous",
+            "ch": 50324
+          }
+        ]
+      },
+      {
+        "name": "Freddie Jones",
+        "nm": 428086,
+        "roles": [
+          {
+            "char": "Birdy"
+          }
+        ]
+      },
+      {
+        "name": "Norman Rodway",
+        "nm": 736178,
+        "roles": [
+          {
+            "char": "Gen. Jan Christian Smuts",
+            "ch": 41965
+          }
+        ]
+      },
+      {
+        "name": "Ronald Fraser",
+        "nm": 292226,
+        "roles": [
+          {
+            "char": "Donald"
+          }
+        ]
+      },
+      {
+        "name": "Lynsey Baxter",
+        "nm": 62785,
+        "roles": [
+          {
+            "char": "Margaret Trappe"
+          }
+        ]
+      },
+      {
+        "name": "Tom Bell",
+        "nm": 68552,
+        "roles": [
+          {
+            "char": "Colonel Paul von Lettow-Vorbeck"
+          }
+        ]
+      },
+      {
+        "name": "Julian Firth",
+        "nm": 278747,
+        "roles": [
+          {
+            "char": "Richard Meinertzhagen",
+            "ch": 50325
+          }
+        ]
+      },
+      {
+        "name": "Mac McDonald",
+        "nm": 567881,
+        "roles": [
+          {
+            "char": "Big Mac"
+          }
+        ]
+      },
+      {
+        "name": "Abdulla Sunado",
+        "nm": 839013,
+        "roles": [
+          {
+            "char": "Mr. Cold"
+          }
+        ]
+      },
+      {
+        "name": "Perry Davey",
+        "nm": 202745,
+        "roles": [
+          {
+            "char": "Zoltan"
+          }
+        ]
+      },
+      {
+        "name": "Graeme Crowther",
+        "nm": 189837,
+        "roles": [
+          {
+            "char": "Harper"
+          }
+        ]
+      },
+      {
+        "name": "Roger Haller",
+        "nm": 2301673,
+        "roles": [
+          {
+            "char": "Belgian Troop Major"
+          }
+        ]
+      },
+      {
+        "name": "Bruno Pasquier-Desvignes",
+        "nm": 664749,
+        "roles": [
+          {
+            "char": "Belgian Lieutenant",
+            "as Bruno Pasquiers": true
+          }
+        ]
+      },
+      {
+        "name": "Daniel Kiare",
+        "nm": 1152725,
+        "roles": [
+          {
+            "char": "Native Man"
+          }
+        ]
+      },
+      {
+        "name": "Wilhelm Nelson",
+        "nm": 2301642,
+        "roles": [
+          {
+            "char": "Cook"
+          }
+        ]
+      },
+      {
+        "name": "Jon Freeman",
+        "nm": 1160916,
+        "roles": [
+          {
+            "char": "Telegraph man"
+          }
+        ]
+      },
+      {
+        "name": "Klaus Keese",
+        "nm": 2308529,
+        "roles": [
+          {
+            "char": "Sentry Captain"
+          }
+        ]
+      },
+      {
+        "name": "Marco Hillman",
+        "nm": 2301658,
+        "roles": [
+          {
+            "char": "German Sentry"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Schaal",
+        "nm": 2313684,
+        "roles": [
+          {
+            "char": "Huge German Captain",
+            "as Thomas Schaal": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Hub",
+        "nm": 399103,
+        "roles": [
+          {
+            "char": "Engineer 1",
+            "ch": 381439
+          }
+        ]
+      },
+      {
+        "name": "Pavel Vokoun",
+        "nm": 903827,
+        "roles": [
+          {
+            "char": "Engineer 2"
+          }
+        ]
+      },
+      {
+        "name": "Jurgen Mueller",
+        "nm": 2301708,
+        "roles": [
+          {
+            "char": "Gunnery Captain"
+          }
+        ]
+      },
+      {
+        "name": "Tillman Proske",
+        "nm": 2305500,
+        "roles": [
+          {
+            "char": "German #1"
+          }
+        ]
+      },
+      {
+        "name": "Hans Gruber",
+        "nm": 1348039,
+        "roles": [
+          {
+            "char": "German 2"
+          }
+        ]
+      },
+      {
+        "name": "Paul Oluncae",
+        "nm": 2311236,
+        "roles": [
+          {
+            "char": "German Askari"
+          }
+        ]
+      },
+      {
+        "name": "Horst Lehmberg",
+        "nm": 2314149,
+        "roles": [
+          {
+            "char": "Sentry"
+          }
+        ]
+      },
+      {
+        "name": "Freddie Lustenberger",
+        "nm": 2307565,
+        "roles": [
+          {
+            "char": "German Captain"
+          }
+        ]
+      },
+      {
+        "name": "Lenny Juma",
+        "nm": 432388,
+        "roles": [
+          {
+            "char": "Warrior Chier"
+          }
+        ]
+      },
+      {
+        "name": "Jimmy Were",
+        "nm": 2310476,
+        "roles": [
+          {
+            "char": "Moshi Ticket Seller"
+          }
+        ]
+      },
+      {
+        "name": "Gábor Piroch",
+        "nm": 685230,
+        "roles": [
+          {
+            "char": "German Soldier"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "Ireland, April 1916",
+    "tt": 752177,
+    "air_date": "1993-06-12",
+    "description": "Although his daughter tells him it's time to go to the Grandparents Tea at Lucy's school, Old Indy would rather watch his soap and tell her about his stay in Ireland around the Easter revolution of 1916. He and Remy had just arrived from Mexico and were waiting tables and washing dishes in order to get the fare to go to London. Indy tried to impress a girl called Maggie who assumed he must rich, what with him being America.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Ronny Coutteure",
+        "nm": 184261,
+        "roles": [
+          {
+            "char": "Remy Baudouin",
+            "ch": 37416
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "John Lynch",
+        "nm": 1487,
+        "roles": [
+          {
+            "char": "Sean O'Casey",
+            "ch": 81133
+          }
+        ]
+      },
+      {
+        "name": "Shane Connaughton",
+        "nm": 174934,
+        "roles": [
+          {
+            "char": "W.B. Yeats",
+            "ch": 81135
+          }
+        ]
+      },
+      {
+        "name": "Darragh Kelly",
+        "nm": 446302,
+        "roles": [
+          {
+            "char": "Sean Lemass",
+            "ch": 81137,
+            "as Darrah Kelly": true
+          }
+        ]
+      },
+      {
+        "name": "Susannah Doyle",
+        "nm": 236500,
+        "roles": [
+          {
+            "char": "Maggie Lemass",
+            "ch": 81138
+          }
+        ]
+      },
+      {
+        "name": "Nell Murphy",
+        "nm": 2295129,
+        "roles": [
+          {
+            "char": "Nuala"
+          }
+        ]
+      },
+      {
+        "name": "Pat Abernathy",
+        "nm": 1721106,
+        "roles": [
+          {
+            "char": "Man in pub"
+          }
+        ]
+      },
+      {
+        "name": "Jeananne Crowley",
+        "nm": 189741,
+        "roles": [
+          {
+            "char": "Old Woman at Abbey"
+          }
+        ]
+      },
+      {
+        "name": "Richard Dormer",
+        "nm": 233807,
+        "roles": [
+          {
+            "char": "Young Civilian"
+          }
+        ]
+      },
+      {
+        "name": "Dave Duffy",
+        "nm": 240518,
+        "roles": [
+          {
+            "char": "Rooney"
+          }
+        ]
+      },
+      {
+        "name": "Conleth Hill",
+        "nm": 384152,
+        "roles": [
+          {
+            "char": "Irish Tenor"
+          }
+        ]
+      },
+      {
+        "name": "David Herlihy",
+        "nm": 379050,
+        "roles": [
+          {
+            "char": "Patrick Pearse",
+            "ch": 81139
+          }
+        ]
+      },
+      {
+        "name": "Stephen Holland",
+        "nm": 390833,
+        "roles": [
+          {
+            "char": "Michael Dara"
+          }
+        ]
+      },
+      {
+        "name": "Jimmy Keogh",
+        "nm": 449055,
+        "roles": [
+          {
+            "char": "Old Man at GPO"
+          }
+        ]
+      },
+      {
+        "name": "Noreen Kershaw",
+        "nm": 449969,
+        "roles": [
+          {
+            "char": "Woman with Load"
+          }
+        ]
+      },
+      {
+        "name": "Tom Lawlor",
+        "nm": 492572,
+        "roles": [
+          {
+            "char": "Peter"
+          }
+        ]
+      },
+      {
+        "name": "Anna Manahan",
+        "nm": 541258,
+        "roles": [
+          {
+            "char": "Old Woman at GPO"
+          }
+        ]
+      },
+      {
+        "name": "David Marsden",
+        "nm": 1624292,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Bunny May",
+        "nm": 561880,
+        "roles": [
+          {
+            "char": "British Tommy"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine O'Rawe",
+        "nm": 642374,
+        "roles": [
+          {
+            "char": "Woman with baby",
+            "as Geraldine O'Raw": true
+          }
+        ]
+      },
+      {
+        "name": "Gerry O'Brien",
+        "nm": 639569,
+        "roles": [
+          {
+            "char": "Man at GPO and pub"
+          }
+        ]
+      },
+      {
+        "name": "Ethna Roddy",
+        "nm": 734493,
+        "roles": [
+          {
+            "char": "Woman with pram"
+          }
+        ]
+      },
+      {
+        "name": "John Rogan",
+        "nm": 736580,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Joe Savino",
+        "nm": 767753,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Britta Smith",
+        "nm": 807541,
+        "roles": [
+          {
+            "char": "Bridget"
+          }
+        ]
+      },
+      {
+        "name": "Barry Stearn",
+        "nm": 824155,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "John Copeman",
+        "nm": 178678,
+        "roles": [
+          {
+            "char": "British Soldier"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "Paris, September 1908",
+    "tt": 752184,
+    "air_date": "1993-06-01",
+    "description": "Professor Indiana Jones attends the auction of a Degas painting 'The Woman at her Toilet' which he claims to mean the world to him. He explains how he got involved in a quarrel between Degas and young Pablo Picasso in Paris, 1908. While there, Indy befriended a young American boy named Norman Rockwell and together they learned to appreciate the nuances of modern art.",
+    "cast": [
+      {
+        "name": "Corey Carrier",
+        "nm": 140393,
+        "roles": [
+          {
+            "char": "Henry 'Indiana' Jones, Jr.",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Margaret Tyzack",
+        "nm": 879239,
+        "roles": [
+          {
+            "char": "Miss Seymour",
+            "ch": 38968
+          }
+        ]
+      },
+      {
+        "name": "Ruth de Sosa",
+        "nm": 211679,
+        "roles": [
+          {
+            "char": "Anna Jones",
+            "ch": 39007
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Owen",
+        "nm": 654197,
+        "roles": [
+          {
+            "char": "Professor Henry Jones, Sr.",
+            "ch": 1064
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Danny Webb",
+        "nm": 916073,
+        "roles": [
+          {
+            "char": "Pablo Picasso",
+            "ch": 31943
+          }
+        ]
+      },
+      {
+        "name": "Jean-Pierre Aumont",
+        "nm": 1922,
+        "roles": [
+          {
+            "char": "Edgar Degas",
+            "ch": 55059
+          }
+        ]
+      },
+      {
+        "name": "Lukas Haas",
+        "nm": 1305,
+        "roles": [
+          {
+            "char": "Norman Rockwell",
+            "ch": 271649
+          }
+        ]
+      },
+      {
+        "name": "Eric Viellard",
+        "nm": 896726,
+        "roles": [
+          {
+            "char": "George Braque",
+            "ch": 271650
+          }
+        ]
+      },
+      {
+        "name": "Nathalie Cardone",
+        "nm": 136597,
+        "roles": [
+          {
+            "char": "Fernande Olivier",
+            "ch": 294818
+          }
+        ]
+      },
+      {
+        "name": "Robert Manuel",
+        "nm": 544275,
+        "roles": [
+          {
+            "char": "Henri Rousseau",
+            "ch": 55066
+          }
+        ]
+      },
+      {
+        "name": "Ron Berglas",
+        "nm": 74672,
+        "roles": [
+          {
+            "char": "Kahnweiler",
+            "ch": 271654
+          }
+        ]
+      },
+      {
+        "name": "Armand Meffre",
+        "nm": 576272,
+        "roles": [
+          {
+            "char": "Police Inspector"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Pierre Hutinet",
+        "nm": 404501,
+        "roles": [
+          {
+            "char": "Hotel Inspector"
+          }
+        ]
+      },
+      {
+        "name": "Craig Crosbie",
+        "nm": 188952,
+        "roles": [
+          {
+            "char": "Pimp #1"
+          }
+        ]
+      },
+      {
+        "name": "Gary Whelan",
+        "nm": 924030,
+        "roles": [
+          {
+            "char": "Pimp #2"
+          }
+        ]
+      },
+      {
+        "name": "Olga Michalkova",
+        "nm": 584649,
+        "roles": [
+          {
+            "char": "Prostitute"
+          }
+        ]
+      },
+      {
+        "name": "Jozef Ruzicka",
+        "nm": 1387164,
+        "roles": [
+          {
+            "char": "Night Porter"
+          }
+        ]
+      },
+      {
+        "name": "Jirí Ruzicka",
+        "nm": 1631712,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Michaela Flenerová",
+        "nm": 281872,
+        "roles": [
+          {
+            "char": "Prostitute #1"
+          }
+        ]
+      },
+      {
+        "name": "Jitka Sedlácková",
+        "nm": 974742,
+        "roles": [
+          {
+            "char": "Prostitute #2"
+          }
+        ]
+      },
+      {
+        "name": "Tomás Hanák",
+        "nm": 361579,
+        "roles": [
+          {
+            "char": "Barman"
+          }
+        ]
+      },
+      {
+        "name": "Ivana Prchalová",
+        "nm": 2144249,
+        "roles": [
+          {
+            "char": "Gertrude Stein",
+            "ch": 55061
+          }
+        ]
+      },
+      {
+        "name": "Ludek Nesleha",
+        "nm": 1166633,
+        "roles": [
+          {
+            "char": "Leo Stein",
+            "ch": 294820
+          }
+        ]
+      },
+      {
+        "name": "Alice Dvoráková",
+        "nm": 245328,
+        "roles": [
+          {
+            "char": "Alice B. Toklas",
+            "ch": 55064,
+            "as Alice Dvorakova-Snirychova": true
+          }
+        ]
+      },
+      {
+        "name": "Jirí Patocka",
+        "nm": 665693,
+        "roles": [
+          {
+            "char": "Old Keeper"
+          }
+        ]
+      },
+      {
+        "name": "Peter Townes",
+        "nm": 870044,
+        "roles": [
+          {
+            "char": "Auctioneer"
+          }
+        ]
+      },
+      {
+        "name": "John Bennes",
+        "nm": 71525,
+        "roles": [
+          {
+            "char": "Auction Husband"
+          }
+        ]
+      },
+      {
+        "name": "Mary McMillan",
+        "nm": 573307,
+        "roles": [
+          {
+            "char": "Auction Woman"
+          }
+        ]
+      },
+      {
+        "name": "Matt Nikko",
+        "nm": 631753,
+        "roles": [
+          {
+            "char": "Auction Japanese Man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "Peking, March 1910",
+    "tt": 752185,
+    "air_date": "1993-06-08",
+    "description": "During a Thanksgiving dinner, professor Indiana Jones entertains his great-grandchildren by recalling a visit to China he made as a boy. While his father was working with the Chinese translator Yen Fu, young Indy, his mother and his tutor went sightseeing with their guide, Mr Li. After visiting the Great Wall of China, Indy fell ill during a rain storm and the travelers were taken in by a poor Chinese family. Dispite his mother's misgivings, she consented to have a local doctor treat her boy using acupuncture.",
+    "cast": [
+      {
+        "name": "Corey Carrier",
+        "nm": 140393,
+        "roles": [
+          {
+            "char": "Henry 'Indiana' Jones, Jr.",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Margaret Tyzack",
+        "nm": 879239,
+        "roles": [
+          {
+            "char": "Miss Seymour",
+            "ch": 38968
+          }
+        ]
+      },
+      {
+        "name": "Ruth de Sosa",
+        "nm": 211679,
+        "roles": [
+          {
+            "char": "Anna Jones",
+            "ch": 39007
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Owen",
+        "nm": 654197,
+        "roles": [
+          {
+            "char": "Professor Henry Jones, Sr.",
+            "ch": 1064
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Ping Wu",
+        "nm": 943156,
+        "roles": [
+          {
+            "char": "Li"
+          }
+        ]
+      },
+      {
+        "name": "Nigel Fan",
+        "nm": 266655,
+        "roles": [
+          {
+            "char": "Ah Pin"
+          }
+        ]
+      },
+      {
+        "name": "Dr. Le",
+        "nm": 2307043,
+        "roles": [
+          {
+            "char": "Dr. Wen Ch-iu"
+          }
+        ]
+      },
+      {
+        "name": "Gary Tong",
+        "nm": 1890853,
+        "roles": [
+          {
+            "char": "Huang Feng"
+          }
+        ]
+      },
+      {
+        "name": "Anna Kenrick",
+        "nm": 2297619,
+        "roles": [
+          {
+            "char": "Choy"
+          }
+        ]
+      },
+      {
+        "name": "Ray Charleson",
+        "nm": 153186,
+        "roles": [
+          {
+            "char": "Dr. James Morton"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Gerber",
+        "nm": 2294489,
+        "roles": [
+          {
+            "char": "Harry Jones"
+          }
+        ]
+      },
+      {
+        "name": "Joy Miller",
+        "nm": 588684,
+        "roles": [
+          {
+            "char": "Annie Jones"
+          }
+        ]
+      },
+      {
+        "name": "Candy Aston",
+        "nm": 40054,
+        "roles": [
+          {
+            "char": "Caroline Jones"
+          }
+        ]
+      },
+      {
+        "name": "Jonathon Yong",
+        "nm": 2294515,
+        "roles": [
+          {
+            "char": "Cheng"
+          }
+        ]
+      },
+      {
+        "name": "Cecil Cheng",
+        "nm": 155547,
+        "roles": [
+          {
+            "char": "Chinese Debt Collector"
+          }
+        ]
+      },
+      {
+        "name": "Mary Tenpow",
+        "nm": 1221930,
+        "roles": [
+          {
+            "char": "Grandmother",
+            "as Mary Ten Pow": true
+          }
+        ]
+      },
+      {
+        "name": "Alice Fung",
+        "nm": 2294559,
+        "roles": [
+          {
+            "char": "Mai-Ling"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E15",
+    "title": "Benares, January 1910",
+    "tt": 752171,
+    "air_date": "1993-06-08",
+    "description": "Old Indy attempts to enlighten a down on his luck trucker by telling him about the most extraordinary person he ever met: Krishnamurti. In 1910 The Jones family was attending a meeting of the Theosophy movement in Benares, India. Society leaders Annie Besant and Charles Leadbeater pronounced a young boy named Jiddu Krishnamurti to be the next world teacher and possible messiah. Traveling the holy city, Krishnamurti explained to Indy about the similarities between all different religions. However, Miss Seymour was less easily convinced and became determined to expose Leadbeater as a fraud.",
+    "cast": [
+      {
+        "name": "Corey Carrier",
+        "nm": 140393,
+        "roles": [
+          {
+            "char": "Henry 'Indiana' Jones, Jr.",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Margaret Tyzack",
+        "nm": 879239,
+        "roles": [
+          {
+            "char": "Miss Seymour",
+            "ch": 38968
+          }
+        ]
+      },
+      {
+        "name": "Ruth de Sosa",
+        "nm": 211679,
+        "roles": [
+          {
+            "char": "Anna Jones",
+            "ch": 39007
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Owen",
+        "nm": 654197,
+        "roles": [
+          {
+            "char": "Professor Henry Jones, Sr.",
+            "ch": 1064
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "John Wood",
+        "nm": 939795,
+        "roles": [
+          {
+            "char": "Charles Leadbeater"
+          }
+        ]
+      },
+      {
+        "name": "Dorothy Tutin",
+        "nm": 878302,
+        "roles": [
+          {
+            "char": "Annie Besant"
+          }
+        ]
+      },
+      {
+        "name": "Hemanth Rao",
+        "nm": 710554,
+        "roles": [
+          {
+            "char": "Jiddu Krishnamurthi"
+          }
+        ]
+      },
+      {
+        "name": "Anatol Yusef",
+        "nm": 992195,
+        "roles": [
+          {
+            "char": "Hurbert Van Hook"
+          }
+        ]
+      },
+      {
+        "name": "Kari Masengale",
+        "nm": 2298336,
+        "roles": [
+          {
+            "char": "Mrs. Van Hook"
+          }
+        ]
+      },
+      {
+        "name": "Naved Aslam",
+        "nm": 1240831,
+        "roles": [
+          {
+            "char": "Theosophy Attendant"
+          }
+        ]
+      },
+      {
+        "name": "Vijoy Krishna",
+        "nm": 2300272,
+        "roles": [
+          {
+            "char": "Indian thief"
+          }
+        ]
+      },
+      {
+        "name": "Chris Jose Matthew",
+        "nm": 2312540,
+        "roles": [
+          {
+            "char": "Nitya"
+          }
+        ]
+      },
+      {
+        "name": "Udayan Nair",
+        "nm": 2300693,
+        "roles": [
+          {
+            "char": "Sanjeeva Sharistap"
+          }
+        ]
+      },
+      {
+        "name": "Lou Criscuolo",
+        "nm": 187951,
+        "roles": [
+          {
+            "char": "Al"
+          }
+        ]
+      },
+      {
+        "name": "Michael Flippo",
+        "nm": 282442,
+        "roles": [
+          {
+            "char": "Trucker",
+            "as Mike Flippo": true
+          }
+        ]
+      },
+      {
+        "name": "Judy Simpson",
+        "nm": 2807547,
+        "roles": [
+          {
+            "char": "Louise"
+          }
+        ]
+      },
+      {
+        "name": "Terry L. Wallace",
+        "nm": 2314003,
+        "roles": [
+          {
+            "char": "Patron at Diner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E16",
+    "title": "Paris, October 1916",
+    "tt": 752183,
+    "air_date": "1993-05-25",
+    "description": "While flipping through a gossip magazine at the supermarket, 93 year old Indiana Jones recounts his love affair with Mata Hari while visiting Paris on leave from the front in 1916. Unaware of Mata's involvement as a spy, 16 year old Indy became jealous when seeing her with other men, even though he admitted at the time that his feelings for Mata were not as strong as they had been for Vicky Prentiss in London five months earlier.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Ronny Coutteure",
+        "nm": 184261,
+        "roles": [
+          {
+            "char": "Remy Baudouin",
+            "ch": 37416
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Domiziana Giordano",
+        "nm": 320323,
+        "roles": [
+          {
+            "char": "Mata Hari",
+            "ch": 27577
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Haigh",
+        "nm": 354078,
+        "roles": [
+          {
+            "char": "War Minister"
+          }
+        ]
+      },
+      {
+        "name": "Ian McDiarmid",
+        "nm": 1519,
+        "roles": [
+          {
+            "char": "Prof. Levi"
+          }
+        ]
+      },
+      {
+        "name": "Jacqueline Pearce",
+        "nm": 668940,
+        "roles": [
+          {
+            "char": "Mrs. Annabelle Levi"
+          }
+        ]
+      },
+      {
+        "name": "Sheila Burrell",
+        "nm": 123090,
+        "roles": [
+          {
+            "char": "Lady #1"
+          }
+        ]
+      },
+      {
+        "name": "Maria Charles",
+        "nm": 153093,
+        "roles": [
+          {
+            "char": "Lady #2"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Davidson",
+        "nm": 203408,
+        "roles": [
+          {
+            "char": "Husband at party"
+          }
+        ]
+      },
+      {
+        "name": "James Coyle",
+        "nm": 185371,
+        "roles": [
+          {
+            "char": "Desk Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Paul Brooke",
+        "nm": 111727,
+        "roles": [
+          {
+            "char": "Policeman #1"
+          }
+        ]
+      },
+      {
+        "name": "Olivier Pierre",
+        "nm": 682649,
+        "roles": [
+          {
+            "char": "Policeman #2"
+          }
+        ]
+      },
+      {
+        "name": "Jon Sotherton",
+        "nm": 815446,
+        "roles": [
+          {
+            "char": "Military Liason",
+            "as Jon Sutherton": true
+          }
+        ]
+      },
+      {
+        "name": "Pavel Pesek",
+        "nm": 2310817,
+        "roles": [
+          {
+            "char": "Bellhop"
+          }
+        ]
+      },
+      {
+        "name": "Miroslav Krejca",
+        "nm": 1542594,
+        "roles": [
+          {
+            "char": "Trench Coat man"
+          }
+        ]
+      },
+      {
+        "name": "George Heath",
+        "nm": 2305468,
+        "roles": [
+          {
+            "char": "Genevieve"
+          }
+        ]
+      },
+      {
+        "name": "Markéta Hrubesová",
+        "nm": 398661,
+        "roles": [
+          {
+            "char": "Prostitute Colette"
+          }
+        ]
+      },
+      {
+        "name": "Jan Okrouhich",
+        "nm": 2310528,
+        "roles": [
+          {
+            "char": "Watcher"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Sinclair",
+        "nm": 801572,
+        "roles": [
+          {
+            "char": "Supermarket Woman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E17",
+    "title": "Istanbul, September 1918",
+    "tt": 752178,
+    "air_date": "1993-07-17",
+    "description": "Posing as neutral Swedish journalist 'Nils Anderson', Indiana Jones is trying to convince Turkish general Mustafa Kemal to form a separate piece with the allies instead of the Germans. His mission becomes jeopardized when he learns there is a traitor codenamed 'The Wolf' in his spy network. To complicate matters, Indy himself has fallen for Molly, a young American working at a Turkish orphanage, despite lying to her about his identity.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Peter Firth",
+        "nm": 278752,
+        "roles": [
+          {
+            "char": "Stefan"
+          }
+        ]
+      },
+      {
+        "name": "Ahmet Levendoglu",
+        "nm": 505241,
+        "roles": [
+          {
+            "char": "Mustafa Kemal",
+            "ch": 141789
+          }
+        ]
+      },
+      {
+        "name": "Philippe Smolikowski",
+        "nm": 810590,
+        "roles": [
+          {
+            "char": "Etienne"
+          }
+        ]
+      },
+      {
+        "name": "Huseyin Katircioclu",
+        "nm": 2322861,
+        "roles": [
+          {
+            "char": "Nico"
+          }
+        ]
+      },
+      {
+        "name": "Boris Isarov",
+        "nm": 410708,
+        "roles": [
+          {
+            "char": "Vasily"
+          }
+        ]
+      },
+      {
+        "name": "Tristram Jellinek",
+        "nm": 420601,
+        "roles": [
+          {
+            "char": "Victor"
+          }
+        ]
+      },
+      {
+        "name": "Mehmet Birkiye",
+        "nm": 83614,
+        "roles": [
+          {
+            "char": "Sadallah"
+          }
+        ]
+      },
+      {
+        "name": "Nüvit Özdogru",
+        "nm": 960235,
+        "roles": [
+          {
+            "char": "Sutltan"
+          }
+        ]
+      },
+      {
+        "name": "Emrah Kolukisa",
+        "nm": 464452,
+        "roles": [
+          {
+            "char": "Mahmoud"
+          }
+        ]
+      },
+      {
+        "name": "Ali Taygun",
+        "nm": 851878,
+        "roles": [
+          {
+            "char": "Enver Pasha"
+          }
+        ]
+      },
+      {
+        "name": "Zuhal Olcay",
+        "nm": 646041,
+        "roles": [
+          {
+            "char": "Halide Edib"
+          }
+        ]
+      },
+      {
+        "name": "Hüseyin Köroglu",
+        "nm": 478007,
+        "roles": [
+          {
+            "char": "Young Turkish Officer"
+          }
+        ]
+      },
+      {
+        "name": "Nuri Ersan",
+        "nm": 2321960,
+        "roles": [
+          {
+            "char": "Young Turkish man"
+          }
+        ]
+      },
+      {
+        "name": "Suna Pekuysal",
+        "nm": 670739,
+        "roles": [
+          {
+            "char": "Fortune teller"
+          }
+        ]
+      },
+      {
+        "name": "Kevork Malikyan",
+        "nm": 539616,
+        "roles": [
+          {
+            "char": "Armenian Agent"
+          }
+        ]
+      },
+      {
+        "name": "Sean McCabe",
+        "nm": 564506,
+        "roles": [
+          {
+            "char": "Monty"
+          }
+        ]
+      },
+      {
+        "name": "Sara Baydur",
+        "nm": 2322814,
+        "roles": [
+          {
+            "char": "Turkish Girl #1"
+          }
+        ]
+      },
+      {
+        "name": "Tumay Keles",
+        "nm": 2322854,
+        "roles": [
+          {
+            "char": "Jale"
+          }
+        ]
+      },
+      {
+        "name": "Zeynep Cem",
+        "nm": 2316788,
+        "roles": [
+          {
+            "char": "Turkish Girl #2"
+          }
+        ]
+      },
+      {
+        "name": "Neslihan Yazici",
+        "nm": 2316715,
+        "roles": [
+          {
+            "char": "Turkish girl #3"
+          }
+        ]
+      },
+      {
+        "name": "Katherine Butler",
+        "nm": 124997,
+        "roles": [
+          {
+            "char": "Molly"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E18",
+    "title": "Paris, May 1919",
+    "tt": 752182,
+    "air_date": "1993-07-24",
+    "description": "Indy is in Paris working as a translator during the peace conference following the end of the Great War. He meets up with T.E. Lawrence once more but finds his ideals have changed a lot since the start of the war.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Cyril Cusack",
+        "nm": 159258,
+        "roles": [
+          {
+            "char": "George Clemenceau",
+            "ch": 44819
+          }
+        ]
+      },
+      {
+        "name": "Anna Massey",
+        "nm": 557281,
+        "roles": [
+          {
+            "char": "Gertrude Bell",
+            "ch": 291567
+          }
+        ]
+      },
+      {
+        "name": "Michael Maloney",
+        "nm": 540585,
+        "roles": [
+          {
+            "char": "Arnold Toynbee"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Henshall",
+        "nm": 378112,
+        "roles": [
+          {
+            "char": "T.E. Lawrence",
+            "ch": 5770,
+            "as Dougie Henshall": true
+          }
+        ]
+      },
+      {
+        "name": "Alec Mapa",
+        "nm": 544568,
+        "roles": [
+          {
+            "char": "Nguyen"
+          }
+        ]
+      },
+      {
+        "name": "Michael Kitchen",
+        "nm": 457655,
+        "roles": [
+          {
+            "char": "Lloyd George",
+            "ch": 303226
+          }
+        ]
+      },
+      {
+        "name": "Josef Sommer",
+        "nm": 813977,
+        "roles": [
+          {
+            "char": "Woodrow Wilson",
+            "ch": 29498
+          }
+        ]
+      },
+      {
+        "name": "Jeroen Krabbé",
+        "nm": 469103,
+        "roles": [
+          {
+            "char": "Brockdorff"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Zaki",
+        "nm": 1862769,
+        "roles": [
+          {
+            "char": "King Feisal",
+            "ch": 5772
+          }
+        ]
+      },
+      {
+        "name": "Denis O'Hare",
+        "nm": 641354,
+        "roles": [
+          {
+            "char": "Keating"
+          }
+        ]
+      },
+      {
+        "name": "Kai Wiesinger",
+        "nm": 927641,
+        "roles": [
+          {
+            "char": "Jurgen"
+          }
+        ]
+      },
+      {
+        "name": "Sorgato Avelino",
+        "nm": 2329311,
+        "roles": [
+          {
+            "char": "Italian Diplomat"
+          }
+        ]
+      },
+      {
+        "name": "Bohumil Vávra",
+        "nm": 904702,
+        "roles": [
+          {
+            "char": "Wilson's Advisor"
+          }
+        ]
+      },
+      {
+        "name": "Kindl Jiri",
+        "nm": 2330282,
+        "roles": [
+          {
+            "char": "British diplomat"
+          }
+        ]
+      },
+      {
+        "name": "Otamar Vapenik",
+        "nm": 2331238,
+        "roles": [
+          {
+            "char": "Orlando"
+          }
+        ]
+      },
+      {
+        "name": "Václav Vodák",
+        "nm": 900765,
+        "roles": [
+          {
+            "char": "Bertin"
+          }
+        ]
+      },
+      {
+        "name": "Jirí Valenta",
+        "nm": 884036,
+        "roles": [
+          {
+            "char": "Dr. Bell"
+          }
+        ]
+      },
+      {
+        "name": "Seisuke Tsukahara",
+        "nm": 875344,
+        "roles": [
+          {
+            "char": "Japanese Premier",
+            "as Tsukuhara": true
+          }
+        ]
+      },
+      {
+        "name": "Ladislav Stanek",
+        "nm": 2327960,
+        "roles": [
+          {
+            "char": "Colonel House"
+          }
+        ]
+      },
+      {
+        "name": "Ota Filip",
+        "nm": 1476469,
+        "roles": [
+          {
+            "char": "Muller"
+          }
+        ]
+      },
+      {
+        "name": "S.T. Tam",
+        "nm": 2333319,
+        "roles": [
+          {
+            "char": "Vietnamese Delegate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E19",
+    "title": "Florence, May 1908",
+    "tt": 752174,
+    "air_date": "1993-07-31",
+    "description": "Old Indy is challenged to a game of pool in a bar and recounts the time he first studied the laws of physics while visiting Florence, Italy in 1908. With her husband away in Rome, Anna Jones found herself enchanted by the persuasive opera composer Giacomo Puccini. Stricken by love, the impulsive Italian went as far as to ask her to leave her husband for him.",
+    "cast": [
+      {
+        "name": "Corey Carrier",
+        "nm": 140393,
+        "roles": [
+          {
+            "char": "Henry 'Indiana' Jones, Jr.",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Margaret Tyzack",
+        "nm": 879239,
+        "roles": [
+          {
+            "char": "Miss Seymour",
+            "ch": 38968
+          }
+        ]
+      },
+      {
+        "name": "Ruth de Sosa",
+        "nm": 211679,
+        "roles": [
+          {
+            "char": "Anna Jones",
+            "ch": 39007
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Owen",
+        "nm": 654197,
+        "roles": [
+          {
+            "char": "Professor Henry Jones, Sr.",
+            "ch": 1064
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Selina Giles",
+        "nm": 318498,
+        "roles": [
+          {
+            "char": "Sophia"
+          }
+        ]
+      },
+      {
+        "name": "Georges Corraface",
+        "nm": 4248,
+        "roles": [
+          {
+            "char": "Giacomo Puccini",
+            "ch": 88389,
+            "as George Corraface": true
+          }
+        ]
+      },
+      {
+        "name": "Dado Ruspoli",
+        "nm": 750874,
+        "roles": [
+          {
+            "char": "Professor Reale",
+            "ch": 92646
+          }
+        ]
+      },
+      {
+        "name": "Phyllida Law",
+        "nm": 492373,
+        "roles": [
+          {
+            "char": "Signora Reale",
+            "ch": 92645
+          }
+        ]
+      },
+      {
+        "name": "Pavlina Augustinova",
+        "nm": 2289823,
+        "roles": [
+          {
+            "char": "Mimi"
+          }
+        ]
+      },
+      {
+        "name": "Vladimír Chmelo",
+        "nm": 2288866,
+        "roles": [
+          {
+            "char": "Marcello"
+          },
+          {
+            "char": "Sharpless",
+            "ch": 143534
+          }
+        ]
+      },
+      {
+        "name": "Josef Skrobanek",
+        "nm": 2292057,
+        "roles": [
+          {
+            "char": "Goro",
+            "ch": 212018
+          }
+        ]
+      },
+      {
+        "name": "Jan Hladik",
+        "nm": 1843698,
+        "roles": [
+          {
+            "char": "Coline",
+            "ch": 13082
+          }
+        ]
+      },
+      {
+        "name": "Marketa Uncrova",
+        "nm": 2292227,
+        "roles": [
+          {
+            "char": "Mussetta",
+            "ch": 13086
+          }
+        ]
+      },
+      {
+        "name": "Ales Stava",
+        "nm": 2288895,
+        "roles": [
+          {
+            "char": "Schaunard",
+            "ch": 13085
+          }
+        ]
+      },
+      {
+        "name": "Milan Voldrich",
+        "nm": 2293709,
+        "roles": [
+          {
+            "char": "Rodolfo",
+            "ch": 184713
+          },
+          {
+            "char": "Pinkerton",
+            "ch": 143502
+          }
+        ]
+      },
+      {
+        "name": "Tibor Varga",
+        "nm": 889747,
+        "roles": [
+          {
+            "char": "Conductor"
+          }
+        ]
+      },
+      {
+        "name": "Zora Jehlickova",
+        "nm": 2290143,
+        "roles": [
+          {
+            "char": "Madame Butterfly",
+            "ch": 143501
+          }
+        ]
+      },
+      {
+        "name": "Jitka Zerhauova",
+        "nm": 2289857,
+        "roles": [
+          {
+            "char": "Suzuki",
+            "ch": 143535
+          }
+        ]
+      },
+      {
+        "name": "Vaclav Loskot",
+        "nm": 2291589,
+        "roles": [
+          {
+            "char": "Pianist"
+          }
+        ]
+      },
+      {
+        "name": "Karel Duda",
+        "nm": 2940024,
+        "roles": [
+          {
+            "char": "Choir Mme. Butterfly",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Hana Dvorská",
+        "nm": 245351,
+        "roles": [
+          {
+            "char": "La Boheme",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Zdenka Flalova",
+        "nm": 2940602,
+        "roles": [
+          {
+            "char": "Choir Mme. Butterfly",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Milena Herzova",
+        "nm": 2940569,
+        "roles": [
+          {
+            "char": "Choir Mme. Butterfly",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Vlasta Hultschova",
+        "nm": 2941207,
+        "roles": [
+          {
+            "char": "Choir Mme. Butterfly",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jitka Kleckerova",
+        "nm": 2940957,
+        "roles": [
+          {
+            "char": "Choir Mme. Butterfly",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Josef Kovar",
+        "nm": 2940695,
+        "roles": [
+          {
+            "char": "La Boheme",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Levicek",
+        "nm": 2941043,
+        "roles": [
+          {
+            "char": "Choir Mme. Butterfly",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Joseph Long",
+        "nm": 519034,
+        "roles": [
+          {
+            "char": "Italian Servant",
+            "ch": 92654,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Eva Navotna",
+        "nm": 2940561,
+        "roles": [
+          {
+            "char": "La Boheme",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Zdenek Plaskal",
+        "nm": 2940803,
+        "roles": [
+          {
+            "char": "La Boheme",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Marcela Polaskova",
+        "nm": 2941413,
+        "roles": [
+          {
+            "char": "Choir Mme. Butterfly",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Hana Precova",
+        "nm": 2941668,
+        "roles": [
+          {
+            "char": "La Boheme",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jiri Pribyla",
+        "nm": 2940618,
+        "roles": [
+          {
+            "char": "La Boheme",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Iva Sagnerova",
+        "nm": 2941216,
+        "roles": [
+          {
+            "char": "La Boheme",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Lenka Sochorova",
+        "nm": 2941123,
+        "roles": [
+          {
+            "char": "Choir Mme. Butterfly",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Leona Tuckova",
+        "nm": 2941033,
+        "roles": [
+          {
+            "char": "La Boheme",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Marcel Vazansky",
+        "nm": 2941273,
+        "roles": [
+          {
+            "char": "Choir Mme. Butterfly",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Milan Vlcek",
+        "nm": 2941286,
+        "roles": [
+          {
+            "char": "Choir Mme. Butterfly",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Vladimir Wernisch",
+        "nm": 2941296,
+        "roles": [
+          {
+            "char": "La Boheme",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Barbara Zizkova",
+        "nm": 2940519,
+        "roles": [
+          {
+            "char": "La Boheme",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E20",
+    "title": "Prague, August 1917",
+    "tt": 752187,
+    "air_date": "1993-08-07",
+    "description": "Working as a Belgian spy during World War One, young Indiana Jones is reassigned to Prague where he is to receive an important phone call. Unfortunately his hotel room turns out to be unequipped with a phone. Indy heads for the Ministery of Telephones, where he learns that having to confront Czech bureaucracy can be quite a trial.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Tim McInnerny",
+        "nm": 570570,
+        "roles": [
+          {
+            "char": "Franz Kafka",
+            "ch": 36170
+          }
+        ]
+      },
+      {
+        "name": "Michael McShane",
+        "nm": 574540,
+        "roles": [
+          {
+            "char": "Anton Dvorak"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Spall",
+        "nm": 1758,
+        "roles": [
+          {
+            "char": "Cunningham - Masseur",
+            "ch": 122313
+          }
+        ]
+      },
+      {
+        "name": "Nickolas Grace",
+        "nm": 333380,
+        "roles": [
+          {
+            "char": "The Prague Spy",
+            "as Nicholas Grace": true
+          }
+        ]
+      },
+      {
+        "name": "John Clive",
+        "nm": 166979,
+        "roles": [
+          {
+            "char": "Very Thin Man"
+          }
+        ]
+      },
+      {
+        "name": "Charles McKeown",
+        "nm": 571650,
+        "roles": [
+          {
+            "char": "Charles",
+            "ch": 128120
+          }
+        ]
+      },
+      {
+        "name": "Colin Jeavons",
+        "nm": 420010,
+        "roles": [
+          {
+            "char": "Shifty man"
+          }
+        ]
+      },
+      {
+        "name": "Jan Kuzelka",
+        "nm": 476737,
+        "roles": [
+          {
+            "char": "Fat man"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Bresslaw",
+        "nm": 107805,
+        "roles": [
+          {
+            "char": "Very Big Man - Ministery of Telephones"
+          }
+        ]
+      },
+      {
+        "name": "Jirina Chlumská",
+        "nm": 1957590,
+        "roles": [
+          {
+            "char": "Tram Woman"
+          }
+        ]
+      },
+      {
+        "name": "Andrew McCulloch",
+        "nm": 567124,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Milan Hein",
+        "nm": 374287,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Ninka Scott",
+        "nm": 779628,
+        "roles": [
+          {
+            "char": "Cleaning Woman"
+          }
+        ]
+      },
+      {
+        "name": "Peter Armitage",
+        "nm": 35513,
+        "roles": [
+          {
+            "char": "Small man"
+          }
+        ]
+      },
+      {
+        "name": "Bridget McConnell",
+        "nm": 566259,
+        "roles": [
+          {
+            "char": "Bun lady"
+          }
+        ]
+      },
+      {
+        "name": "Ludvik Poznik",
+        "nm": 694791,
+        "roles": [
+          {
+            "char": "Police Captain"
+          }
+        ]
+      },
+      {
+        "name": "Philip Davis",
+        "nm": 205290,
+        "roles": [
+          {
+            "char": "Interrogator"
+          }
+        ]
+      },
+      {
+        "name": "Peter-Hugo Daly",
+        "nm": 198501,
+        "roles": [
+          {
+            "char": "Interrogator"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Selby",
+        "nm": 782997,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Philip Whitchurch",
+        "nm": 924360,
+        "roles": [
+          {
+            "char": "Prosecutor"
+          }
+        ]
+      },
+      {
+        "name": "Jan Sváb",
+        "nm": 1214097,
+        "roles": [
+          {
+            "char": "Court Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Peter Majer",
+        "nm": 538070,
+        "roles": [
+          {
+            "char": "Brutal Guard"
+          }
+        ]
+      },
+      {
+        "name": "Bill Wallis",
+        "nm": 909245,
+        "roles": [
+          {
+            "char": "Error Inspector"
+          }
+        ]
+      },
+      {
+        "name": "Monika Záková",
+        "nm": 952344,
+        "roles": [
+          {
+            "char": "Desk woman"
+          }
+        ]
+      },
+      {
+        "name": "Jirí Krytinár",
+        "nm": 473038,
+        "roles": [
+          {
+            "char": "Small man #2"
+          }
+        ]
+      },
+      {
+        "name": "Peter Guinness",
+        "nm": 347423,
+        "roles": [
+          {
+            "char": "Mustachioed man"
+          }
+        ]
+      },
+      {
+        "name": "Harry Fowler",
+        "nm": 288714,
+        "roles": [
+          {
+            "char": "1st Installer"
+          }
+        ]
+      },
+      {
+        "name": "Trevor Bannister",
+        "nm": 52415,
+        "roles": [
+          {
+            "char": "2nd Installer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E21",
+    "title": "Palestine, October 1917",
+    "tt": 752181,
+    "air_date": "1993-08-14",
+    "description": "T.E. Lawrence suggests his old friend and pen-pal Indiana Jones (aka Henri Defense) for an undercover mission in Gaza, where Indy befriends some members of the Australian Lighthorseman Regiment. The British plan to attack Beersheba but have to cross a grueling desert to do so. To get into Beersheba first, Indy poses as an Arab trader and is accompanied by a 'belly dancer' named Maya.",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Catherine Zeta-Jones",
+        "nm": 1876,
+        "roles": [
+          {
+            "char": "Maya"
+          }
+        ]
+      },
+      {
+        "name": "Julian Firth",
+        "nm": 278747,
+        "roles": [
+          {
+            "char": "Richard Meinertzhagen",
+            "ch": 50325
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Jack Anders",
+            "ch": 73652
+          }
+        ]
+      },
+      {
+        "name": "Douglas Henshall",
+        "nm": 378112,
+        "roles": [
+          {
+            "char": "T.E. Lawrence",
+            "ch": 5770
+          }
+        ]
+      },
+      {
+        "name": "Haluk Bilginer",
+        "nm": 82211,
+        "roles": [
+          {
+            "char": "Colonel Ismel Bey",
+            "ch": 73653
+          }
+        ]
+      },
+      {
+        "name": "Kerem Atabeyoglu",
+        "nm": 1274725,
+        "roles": [
+          {
+            "char": "Rashid",
+            "ch": 73654
+          }
+        ]
+      },
+      {
+        "name": "Colin Baker",
+        "nm": 48346,
+        "roles": [
+          {
+            "char": "Harry George Chauvel",
+            "ch": 96006
+          }
+        ]
+      },
+      {
+        "name": "Tony Bonner",
+        "nm": 94937,
+        "roles": [
+          {
+            "char": "M.W.J. Bourchier"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Craig",
+        "nm": 185819,
+        "roles": [
+          {
+            "char": "Schiller",
+            "ch": 73651
+          }
+        ]
+      },
+      {
+        "name": "Terrence Hardiman",
+        "nm": 362202,
+        "roles": [
+          {
+            "char": "Fitzgerald"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Bennett",
+        "nm": 72080,
+        "roles": [
+          {
+            "char": "Kevin"
+          }
+        ]
+      },
+      {
+        "name": "Todd Boyce",
+        "nm": 101668,
+        "roles": [
+          {
+            "char": "Dex"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Brown",
+        "nm": 113095,
+        "roles": [
+          {
+            "char": "General Hodgson"
+          }
+        ]
+      },
+      {
+        "name": "Vincenzo Nicoli",
+        "nm": 630405,
+        "roles": [
+          {
+            "char": "Kazim"
+          }
+        ]
+      },
+      {
+        "name": "Robert Swann",
+        "nm": 841723,
+        "roles": [
+          {
+            "char": "Gen. William Grant"
+          }
+        ]
+      },
+      {
+        "name": "Alan Talbot",
+        "nm": 847880,
+        "roles": [
+          {
+            "char": "Sergeant Porter"
+          }
+        ]
+      },
+      {
+        "name": "John Vine",
+        "nm": 898905,
+        "roles": [
+          {
+            "char": "Allerby"
+          }
+        ]
+      },
+      {
+        "name": "Ali Yalaz",
+        "nm": 945142,
+        "roles": [
+          {
+            "char": "Greasy man"
+          }
+        ]
+      },
+      {
+        "name": "James Bowers",
+        "nm": 101065,
+        "roles": [
+          {
+            "char": "British Artillery Spotter"
+          }
+        ]
+      },
+      {
+        "name": "Halil Dogan",
+        "nm": 1361367,
+        "roles": [
+          {
+            "char": "Turkish Sentry Captain"
+          }
+        ]
+      },
+      {
+        "name": "Okan Bayülgen",
+        "nm": 63252,
+        "roles": [
+          {
+            "char": "Turkish Spotterman"
+          }
+        ]
+      },
+      {
+        "name": "James McMartin",
+        "nm": 573180,
+        "roles": [
+          {
+            "char": "British Artilleryman"
+          }
+        ]
+      },
+      {
+        "name": "Ozgur Erkekli",
+        "nm": 1359462,
+        "roles": [
+          {
+            "char": "Turkish Artilleryman"
+          }
+        ]
+      },
+      {
+        "name": "Kanat Tibet",
+        "nm": 862603,
+        "roles": [
+          {
+            "char": "Turkish Artilleryman #2"
+          }
+        ]
+      },
+      {
+        "name": "Ben Miller",
+        "nm": 587950,
+        "roles": [
+          {
+            "char": "French Officer"
+          }
+        ]
+      },
+      {
+        "name": "Tolga Yalcinkaya",
+        "nm": 1361227,
+        "roles": [
+          {
+            "char": "Turkish Adjudant"
+          }
+        ]
+      },
+      {
+        "name": "Simon Murray",
+        "nm": 1358496,
+        "roles": [
+          {
+            "char": "German Officer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E22",
+    "title": "Transylvania, January 1918",
+    "tt": 752190,
+    "air_date": "1993-08-21",
+    "description": "On Halloween, old Indy tells a ghost story to three trick or treaters concerning a mission he undertook near the end of the Great War. As part of a small team of special agents, young Indy was sent to Transylvania to find out why General Targo has raided a German P.O.W. camp. They soon found out the mysterious General had taken up impaling his enemies, just like Vlad Tepes used to in the 15th century",
+    "cast": [
+      {
+        "name": "Sean Patrick Flanery",
+        "nm": 1218,
+        "roles": [
+          {
+            "char": "Indiana Jones",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "George Hall",
+        "nm": 355598,
+        "roles": [
+          {
+            "char": "Old Indy",
+            "ch": 1063
+          }
+        ]
+      },
+      {
+        "name": "Bob Peck",
+        "nm": 669629,
+        "roles": [
+          {
+            "char": "General Targo",
+            "ch": 2561
+          }
+        ]
+      },
+      {
+        "name": "Keith Szarabajka",
+        "nm": 843775,
+        "roles": [
+          {
+            "char": "Colonel Waters"
+          }
+        ]
+      },
+      {
+        "name": "Simone Bendix",
+        "nm": 70583,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kynman",
+        "nm": 477441,
+        "roles": [
+          {
+            "char": "Nicholas Hunyadi"
+          }
+        ]
+      },
+      {
+        "name": "Sam Kelly",
+        "nm": 446844,
+        "roles": [
+          {
+            "char": "Dr. Franz Heinzer"
+          },
+          {
+            "char": "Capt. Adolf Schmidt"
+          }
+        ]
+      },
+      {
+        "name": "Alan Polonsky",
+        "nm": 689797,
+        "roles": [
+          {
+            "char": "Agent McCall"
+          }
+        ]
+      },
+      {
+        "name": "Michael Mellinger",
+        "nm": 577996,
+        "roles": [
+          {
+            "char": "Paretti"
+          }
+        ]
+      },
+      {
+        "name": "William Roberts",
+        "nm": 731681,
+        "roles": [
+          {
+            "char": "Stanfill"
+          }
+        ]
+      },
+      {
+        "name": "William Armstrong",
+        "nm": 35628,
+        "roles": [
+          {
+            "char": "The Major"
+          }
+        ]
+      },
+      {
+        "name": "Steven Hartley",
+        "nm": 366889,
+        "roles": [
+          {
+            "char": "Agent Picard"
+          }
+        ]
+      },
+      {
+        "name": "Anne Tirard",
+        "nm": 864213,
+        "roles": [
+          {
+            "char": "Tarot Reader"
+          }
+        ]
+      },
+      {
+        "name": "Petr Svárovský",
+        "nm": 841391,
+        "roles": [
+          {
+            "char": "Venetian Policeman"
+          }
+        ]
+      },
+      {
+        "name": "David Gilliam",
+        "nm": 319100,
+        "roles": [
+          {
+            "char": "Agent Thompson"
+          }
+        ]
+      },
+      {
+        "name": "Petr Jákl",
+        "nm": 415894,
+        "roles": [
+          {
+            "char": "German General"
+          }
+        ]
+      },
+      {
+        "name": "Jiri Kraus",
+        "nm": 470133,
+        "roles": [
+          {
+            "char": "French General"
+          }
+        ]
+      },
+      {
+        "name": "Lee Norris",
+        "nm": 635851,
+        "roles": [
+          {
+            "char": "Kid #1"
+          }
+        ]
+      },
+      {
+        "name": "Grady Bowman",
+        "nm": 101323,
+        "roles": [
+          {
+            "char": "Kid #2",
+            "as Grady McCloud Bowman": true
+          }
+        ]
+      },
+      {
+        "name": "Darwin Brandis",
+        "nm": 2023243,
+        "roles": [
+          {
+            "char": "Kid #3"
+          }
+        ]
+      }
+    ]
+  }
+]

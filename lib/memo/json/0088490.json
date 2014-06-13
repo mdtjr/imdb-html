@@ -1,0 +1,296 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 1387645,
+    "air_date": "1985-09-04",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 1387646,
+    "air_date": "1985-09-11",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E03",
+    "title": "Episode #1.3",
+    "tt": 1387647,
+    "air_date": "1985-09-18",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E04",
+    "title": "Episode #1.4",
+    "tt": 1387648,
+    "air_date": "1985-09-25",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E05",
+    "title": "Episode #1.5",
+    "tt": 1387649,
+    "air_date": "1985-10-02",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E06",
+    "title": "Episode #1.6",
+    "tt": 1387650,
+    "air_date": "1985-10-09",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E07",
+    "title": "Episode #1.7",
+    "tt": 1387651,
+    "air_date": "1985-10-16",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E01",
+    "title": "Episode #2.1",
+    "tt": 1387652,
+    "air_date": "1986-04-03",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E02",
+    "title": "Episode #2.2",
+    "tt": 1387653,
+    "air_date": "1986-04-10",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E03",
+    "title": "Episode #2.3",
+    "tt": 1387654,
+    "air_date": "1986-04-17",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E04",
+    "title": "Episode #2.4",
+    "tt": 1387655,
+    "air_date": "1986-04-24",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E05",
+    "title": "Episode #2.5",
+    "tt": 1387656,
+    "air_date": "1986-05-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Paul Barber",
+        "nm": 53448,
+        "roles": [
+          {
+            "char": "Wesley McGregor",
+            "ch": 384704
+          }
+        ]
+      },
+      {
+        "name": "Jean Heywood",
+        "nm": 382402,
+        "roles": [
+          {
+            "char": "Dolly"
+          }
+        ]
+      },
+      {
+        "name": "Philip Whitchurch",
+        "nm": 924360,
+        "roles": [
+          {
+            "char": "Cyril McGregor",
+            "ch": 384709
+          }
+        ]
+      },
+      {
+        "name": "Jackie Downey",
+        "nm": 235998,
+        "roles": [
+          {
+            "char": "Glenys Pike"
+          }
+        ]
+      },
+      {
+        "name": "Allan Surtees",
+        "nm": 839731,
+        "roles": [
+          {
+            "char": "Colwyn Stanley"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Bill",
+        "nm": 82296,
+        "roles": [
+          {
+            "char": "Humphrey Pyecroft"
+          }
+        ]
+      },
+      {
+        "name": "Terry Cundall",
+        "nm": 2120941,
+        "roles": [
+          {
+            "char": "Nigel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "Episode #2.6",
+    "tt": 1387657,
+    "air_date": "1986-05-08",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S03E01",
+    "title": "Episode #3.1",
+    "tt": 1387658,
+    "air_date": "1987-02-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Malcolm Hebden",
+        "nm": 372835,
+        "roles": [
+          {
+            "char": "Sensitive Man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E02",
+    "title": "Episode #3.2",
+    "tt": 1387659,
+    "air_date": "1987-02-23",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S03E03",
+    "title": "Episode #3.3",
+    "tt": 1387660,
+    "air_date": "1987-03-02",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S03E04",
+    "title": "Episode #3.4",
+    "tt": 1387661,
+    "air_date": "1987-03-09",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S03E05",
+    "title": "Episode #3.5",
+    "tt": 1387662,
+    "air_date": "1987-03-16",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S03E06",
+    "title": "Episode #3.6",
+    "tt": 1387663,
+    "air_date": "1987-03-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Bert Gaunt",
+        "nm": 310138,
+        "roles": [
+          {
+            "char": "Tory gent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E01",
+    "title": "Episode #4.1",
+    "tt": 1387664,
+    "air_date": "1988-07-13",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S04E02",
+    "title": "Episode #4.2",
+    "tt": 1387665,
+    "air_date": "1988-07-20",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S04E03",
+    "title": "Episode #4.3",
+    "tt": 1387666,
+    "air_date": "1988-07-27",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S04E04",
+    "title": "Episode #4.4",
+    "tt": 1387667,
+    "air_date": "1988-08-03",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S04E05",
+    "title": "Episode #4.5",
+    "tt": 1387668,
+    "air_date": "1988-08-10",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S04E06",
+    "title": "Episode #4.6",
+    "tt": 1387669,
+    "air_date": "1988-08-17",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S04E07",
+    "title": "Episode #4.7",
+    "tt": 1387670,
+    "air_date": "1988-08-24",
+    "description": null,
+    "cast": null
+  }
+]

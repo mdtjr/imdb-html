@@ -1,0 +1,3074 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Shattered",
+    "tt": 536320,
+    "air_date": "1987-09-20",
+    "description": "Captain Power receives a transmission from Athena, an old flame from before the invasion. Entering the ruins of San Francisco to meet her, he finds the reunion less than friendly.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Ann-Marie MacDonald",
+        "nm": 531612,
+        "roles": [
+          {
+            "char": "Athena"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Mentor",
+            "ch": 391939
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Abyss",
+    "tt": 536321,
+    "air_date": "1987-09-27",
+    "description": "When the Captain and Hawk answer a distress call, they are captured by General Briggs and his troops. The General has been driven over the edge and is still waiting for new orders from the President.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Michael J. Reynolds",
+        "nm": 721866,
+        "roles": [
+          {
+            "char": "Briggs"
+          }
+        ]
+      },
+      {
+        "name": "Hardee T. Lineham",
+        "nm": 512620,
+        "roles": [
+          {
+            "char": "Masters"
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Victor Ertmanis",
+        "nm": 259923,
+        "roles": [
+          {
+            "char": "Interrogator"
+          }
+        ]
+      },
+      {
+        "name": "Ray Paisley",
+        "nm": 656950,
+        "roles": [
+          {
+            "char": "Hamilton Price"
+          }
+        ]
+      },
+      {
+        "name": "Tim Koetting",
+        "nm": 462994,
+        "roles": [
+          {
+            "char": "Soldier"
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Stephen Strachan",
+        "nm": 833063,
+        "roles": [
+          {
+            "char": "Dread Trooper",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Final Stand",
+    "tt": 536310,
+    "air_date": "1987-10-04",
+    "description": "The Power team find a marauder holding civilians hostage. Tank recognizes the man, Kasko, who came from the same genetically engineered place he did: Babylon 5.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Charles Seixas",
+        "nm": 782576,
+        "roles": [
+          {
+            "char": "Kasko"
+          }
+        ]
+      },
+      {
+        "name": "Susan Conway",
+        "nm": 1903477,
+        "roles": [
+          {
+            "char": "The Woman"
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Pariah",
+    "tt": 536317,
+    "air_date": "1987-10-11",
+    "description": "Hawk rescues a young escapee from the Styx project who is being hunted by Dread's troopers. But unknown to him , the boy is carrying a paralyzing plague.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Gordon Michael Woolvett",
+        "nm": 941315,
+        "roles": [
+          {
+            "char": "Mitch",
+            "as Gorden Woolvett": true
+          }
+        ]
+      },
+      {
+        "name": "Wayne Best",
+        "nm": 79007,
+        "roles": [
+          {
+            "char": "Commander Lorek"
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "A Fire in the Dark",
+    "tt": 536305,
+    "air_date": "1987-10-18",
+    "description": "Lord Dread seeks out Jessica Morgan, an artist and former acquaintance when he was still Lyman Taggert. He wants her to become the architect of his new machine race. But first her sight, which she lost in an accident 15 year s earlier, will have to be restored.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          },
+          {
+            "char": "Lyman Taggert"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Collins",
+        "nm": 172590,
+        "roles": [
+          {
+            "char": "Jessica Morgan"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Mentor",
+            "ch": 391939
+          }
+        ]
+      },
+      {
+        "name": "Gerry Pearson",
+        "nm": 669262,
+        "roles": [
+          {
+            "char": "Arthur"
+          }
+        ]
+      },
+      {
+        "name": "J.R. Zimmerman",
+        "nm": 956706,
+        "roles": [
+          {
+            "char": "Henry the Elder"
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Robert O'Ree",
+        "nm": 642383,
+        "roles": [
+          {
+            "char": "Adam"
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "The Mirror in Darkness",
+    "tt": 536325,
+    "air_date": "1987-10-25",
+    "description": "An impostor is posing as Captain Power and luring refugees to reveal themselves, only to be digitized by Soaron. A couple of humans manage to escape this fate, and when they meet the real Captain Power, decide to get their revenge.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "David James Elliott",
+        "nm": 4895,
+        "roles": [
+          {
+            "char": "Jason"
+          }
+        ]
+      },
+      {
+        "name": "John Dee",
+        "nm": 214189,
+        "roles": [
+          {
+            "char": "Zig"
+          }
+        ]
+      },
+      {
+        "name": "Anne Anglin",
+        "nm": 29888,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tom Diamond",
+        "nm": 224731,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Dwayne McLean",
+        "nm": 572540,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Colin O'Meara",
+        "nm": 641840,
+        "roles": [
+          {
+            "char": "Fal"
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "The Ferryman",
+    "tt": 536323,
+    "air_date": "1987-11-01",
+    "description": "During a raid on Epsilon station, Power and his soldiers uncover information on the four phases of Project New Order. But Dread orders it's container to self destruct, taking out Mentor along the way. Meanwhile, Dread and Overmind accelerate the phase Charon: the creation of an army of new Bio-Dreads.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Peter Snider",
+        "nm": 811140,
+        "roles": [
+          {
+            "char": "Commander"
+          }
+        ]
+      },
+      {
+        "name": "Ric Sarabia",
+        "nm": 2878,
+        "roles": [
+          {
+            "char": "Rivvik"
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gary",
+        "nm": 1795613,
+        "roles": [
+          {
+            "char": "Mentor",
+            "ch": 391939
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Don Francks",
+        "nm": 290475,
+        "roles": [
+          {
+            "char": "Lacchi",
+            "ch": 391940,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "And Study War No More",
+    "tt": 536309,
+    "air_date": "1987-11-08",
+    "description": "While investigating Dread communications in sector 12, Power and his team find an underground sanctuary called Haven, where they are welcome to stay and live the war out in peace.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Graeme Campbell",
+        "nm": 132491,
+        "roles": [
+          {
+            "char": "Miles Williamson"
+          }
+        ]
+      },
+      {
+        "name": "Tonya Lee Williams",
+        "nm": 931845,
+        "roles": [
+          {
+            "char": "Chelsea Chandler"
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "The Intruder",
+    "tt": 536324,
+    "air_date": "1987-11-15",
+    "description": "Two resistance fighters, Andy Jackson and Jim Mitchell want to join Captain Power's soldiers. Andy manages to sneak aboard the Jumpship and into the Power base. But the Soldiers are far from pleased that their base has been compromised.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Barry Flatman",
+        "nm": 281284,
+        "roles": [
+          {
+            "char": "Andy Jackson"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Mentor",
+            "ch": 391939
+          }
+        ]
+      },
+      {
+        "name": "Ted Simonett",
+        "nm": 800593,
+        "roles": [
+          {
+            "char": "Jim Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Steve Whistance-Smith",
+        "nm": 924224,
+        "roles": [
+          {
+            "char": "Scavenger No.1",
+            "as Steve Whistance Smith": true
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Don Francks",
+        "nm": 290475,
+        "roles": [
+          {
+            "char": "Lacchi",
+            "ch": 391940,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Wardogs",
+    "tt": 536326,
+    "air_date": "1987-11-22",
+    "description": "Two members of Wardogs company shoots down Hawk, thinking he's a Biodread. Their leader, Colonel Vi, happens to be an old acquaintance of Hawk's. The doggies have given up on fighting and are looking for the fabled Eden II. Meanwhile, the remaining Soldiers of the Future find themselves trapped in a Dreadstation while trying to find out more about Project New Order.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Kate Trotter",
+        "nm": 873693,
+        "roles": [
+          {
+            "char": "Vi"
+          }
+        ]
+      },
+      {
+        "name": "Graham Greene",
+        "nm": 1295,
+        "roles": [
+          {
+            "char": "Cherokee"
+          }
+        ]
+      },
+      {
+        "name": "Jane Luk",
+        "nm": 525476,
+        "roles": [
+          {
+            "char": "Keiko"
+          }
+        ]
+      },
+      {
+        "name": "Michael Woods",
+        "nm": 1592657,
+        "roles": [
+          {
+            "char": "Overunit Webber"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Mentor",
+            "ch": 391939,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Flame Street",
+    "tt": 536311,
+    "air_date": "1987-11-29",
+    "description": "Power and his soldiers travel to Tech City to enter the Cyberweb and try to gain information about Project New Order. But as soon as Power enters cyberspace, so does Lord Dread with the intention to destroy the captain's mind.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          },
+          {
+            "char": "Lyman Taggert"
+          }
+        ]
+      },
+      {
+        "name": "Laurie Paton",
+        "nm": 665726,
+        "roles": [
+          {
+            "char": "Mindsinger"
+          }
+        ]
+      },
+      {
+        "name": "Brock Johnson",
+        "nm": 424662,
+        "roles": [
+          {
+            "char": "Zone Boy"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Dr. Stuart Power",
+            "ch": 77969
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Gemini and Counting",
+    "tt": 536313,
+    "air_date": "1988-01-10",
+    "description": "A deadly virus is sweeping the passages. Pilot proposes to infiltrate Dread's chem factory Medlab 1 dressed in her old Dread Youth uniform to steal a vaccine. Once there she comes into contact with a young Dread Youth named Erin who reminds her of herself.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Laurie Holden",
+        "nm": 390229,
+        "roles": [
+          {
+            "char": "Erin"
+          }
+        ]
+      },
+      {
+        "name": "Anna Ferguson",
+        "nm": 272370,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "And Madness Shall Reign",
+    "tt": 536308,
+    "air_date": "1988-01-17",
+    "description": "Colonel Cypher's resistance group has fallen victim to a insanity inducing drug. Unfortunately Tank has also taken a sip of the contaminated water and soon becomes convinced his teammates are Bio Dreads.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Kelly Bricker",
+        "nm": 108581,
+        "roles": [
+          {
+            "char": "Overunit Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Lorne Cossette",
+        "nm": 181969,
+        "roles": [
+          {
+            "char": "Colonel Cypher"
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Don Francks",
+        "nm": 290475,
+        "roles": [
+          {
+            "char": "Lacchi",
+            "ch": 391940,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Mentor",
+            "ch": 391939
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Judgement",
+    "tt": 536314,
+    "air_date": "1988-01-31",
+    "description": "Power has been injured and Pilot goes in search of help in a nearby settlement. But a young villager recognizes her as part of the Dread youth that torched his home town and Pilot is put on trial.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Hans Engel",
+        "nm": 257081,
+        "roles": [
+          {
+            "char": "Randall",
+            "as Hans Jason Engel": true
+          }
+        ]
+      },
+      {
+        "name": "William B. Davis",
+        "nm": 205657,
+        "roles": [
+          {
+            "char": "Arvin"
+          }
+        ]
+      },
+      {
+        "name": "Jan Filips",
+        "nm": 277156,
+        "roles": [
+          {
+            "char": "Clegg"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Bricker",
+        "nm": 108581,
+        "roles": [
+          {
+            "char": "Overunit Wilson"
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "Gaelan"
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rich Parker",
+        "nm": 2508582,
+        "roles": [
+          {
+            "char": "Martin"
+          }
+        ]
+      },
+      {
+        "name": "Kerry Rossall",
+        "nm": 743953,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "A Summoning of Thunder: Part 1",
+    "tt": 536306,
+    "air_date": "1988-02-07",
+    "description": "It is the 15th anniversary of Dr. Stuart Power's death. As Jonathan Power is lost in memories while visiting his fathers grave, Overmind urges Lord Dread to take this opportunity to ambush his adversary.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          },
+          {
+            "char": "Lyman Taggert"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Dean Rubes",
+        "nm": 747961,
+        "roles": [
+          {
+            "char": "Landry"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Orle",
+        "nm": 2506174,
+        "roles": [
+          {
+            "char": "Commander"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Wilson",
+        "nm": 933658,
+        "roles": [
+          {
+            "char": "Soldier Jack"
+          }
+        ]
+      },
+      {
+        "name": "Dylan Neal",
+        "nm": 623604,
+        "roles": [
+          {
+            "char": "Jon Power",
+            "ch": 104354
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Don Francks",
+        "nm": 290475,
+        "roles": [
+          {
+            "char": "Lacchi",
+            "ch": 391940,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Dr. Stuart Power",
+            "ch": 77969
+          }
+        ]
+      },
+      {
+        "name": "Patricia Collins",
+        "nm": 172590,
+        "roles": [
+          {
+            "char": "Jessica Morgan",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "A Summoning of Thunder: Part 2",
+    "tt": 536307,
+    "air_date": "1988-02-14",
+    "description": "As Dread and Soaron close in on Jonathan Power at his father's resting place, Dread is reminded of that day 15 years earlier when Stuart Power died and Lyman Taggart became Lord Dread.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          },
+          {
+            "char": "Lyman Taggert"
+          }
+        ]
+      },
+      {
+        "name": "Dylan Neal",
+        "nm": 623604,
+        "roles": [
+          {
+            "char": "Jon Power",
+            "ch": 104354
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Dr. Stuart Power",
+            "ch": 77969
+          },
+          {
+            "char": "Mentor",
+            "ch": 391939
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Don Francks",
+        "nm": 290475,
+        "roles": [
+          {
+            "char": "Lacchi",
+            "ch": 391940,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "The Eden Road",
+    "tt": 536322,
+    "air_date": "1988-02-21",
+    "description": "Cypher tells Captain Power that he and his team have been asked to make contact with a representative from the mythical sanctuary Eden II in one of the harshest places on Earth: the acid-ridden Dark Town.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Rafe Macpherson",
+        "nm": 534238,
+        "roles": [
+          {
+            "char": "Overunit"
+          }
+        ]
+      },
+      {
+        "name": "Lorne Cossette",
+        "nm": 181969,
+        "roles": [
+          {
+            "char": "Colonel Six",
+            "Cypher": true
+          }
+        ]
+      },
+      {
+        "name": "Brent Stait",
+        "nm": 821609,
+        "roles": [
+          {
+            "char": "John"
+          }
+        ]
+      },
+      {
+        "name": "Kate Trotter",
+        "nm": 873693,
+        "roles": [
+          {
+            "char": "Vi",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Freedom One",
+    "tt": 536312,
+    "air_date": "1988-02-28",
+    "description": "When Freedom One, the voice of the East Coast Resistance radio organizes a meeting between the five most powerful Resistance leaders, she contacts Power and his team to gather the leaders together.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Raymond O'Neill",
+        "nm": 642288,
+        "roles": [
+          {
+            "char": "Elzer Polarski"
+          }
+        ]
+      },
+      {
+        "name": "Gwynyth Walsh",
+        "nm": 909657,
+        "roles": [
+          {
+            "char": "Christine Larrabee"
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lorne Cossette",
+        "nm": 181969,
+        "roles": [
+          {
+            "char": "Colonel Six",
+            "Cypher": true
+          }
+        ]
+      },
+      {
+        "name": "Nick Nichols",
+        "nm": 629676,
+        "roles": [
+          {
+            "char": "Gundar"
+          }
+        ]
+      },
+      {
+        "name": "Laing Maybee",
+        "nm": 1930538,
+        "roles": [
+          {
+            "char": "Overunit"
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "New Order: Part One - The Sky Shall Swallow Them",
+    "tt": 536316,
+    "air_date": "1988-03-06",
+    "description": "New data from a springer indicates that phase 3 of Project New Order is about to commence. A suborbital platform codenamed Icaras will start mass digitization at 15.00 hours. Power comes up with a desperate two part plan to attack Icarus control followed by Volcania itself.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Todd Waite",
+        "nm": 906632,
+        "roles": [
+          {
+            "char": "Overunit Gerber"
+          }
+        ]
+      },
+      {
+        "name": "Paul Humphrey",
+        "nm": 401944,
+        "roles": [
+          {
+            "char": "Locke"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Mentor",
+            "ch": 391939
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Don Francks",
+        "nm": 290475,
+        "roles": [
+          {
+            "char": "Lacchi",
+            "ch": 391940,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "New Order: Part Two - The Land Shall Burn",
+    "tt": 536315,
+    "air_date": "1988-03-13",
+    "description": "The downed Icarus platform crashes into Volcania, but the Prometheus beam (phase 4 of Project New Order) remains active. Therefore, Power and his group infiltrates Volcania to deactivate Prometheus and face Dread.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Todd Waite",
+        "nm": 906632,
+        "roles": [
+          {
+            "char": "Overunit Gerber"
+          }
+        ]
+      },
+      {
+        "name": "Paul Humphrey",
+        "nm": 401944,
+        "roles": [
+          {
+            "char": "Locke"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Mentor",
+            "ch": 391939
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Don Francks",
+        "nm": 290475,
+        "roles": [
+          {
+            "char": "Lacchi",
+            "ch": 391940,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Retribution: Part 1",
+    "tt": 536318,
+    "air_date": "1988-03-20",
+    "description": "Dread decides to put all his power into destroying Power and his resistance group. Thanks to Blastarr he finds out Power's Jumpship has teleportation capabilities and Souron helps him to install a tracking device with which to locate Power's base.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Deryck Hazel",
+        "nm": 371931,
+        "roles": [
+          {
+            "char": "Soaron",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Don Francks",
+        "nm": 290475,
+        "roles": [
+          {
+            "char": "Lacchi",
+            "ch": 391940,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tom Quinn",
+        "nm": 704015,
+        "roles": [
+          {
+            "char": "Overunit"
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michael J. Reynolds",
+        "nm": 721866,
+        "roles": [
+          {
+            "char": "Briggs",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Retribution: Part 2",
+    "tt": 536319,
+    "air_date": "1988-03-27",
+    "description": "Lord Dread is about to have his mind transferred into a new machine body. But first he delivers his final strike against Captain Power. Blastarr and his troops attack the Jumpship and prevent it from entering a Teleportation gate by breaching it themselves. The machine forces overrun the Powerbase, manned only by Pilot as Power and the others remain helpless on the outside.",
+    "cast": [
+      {
+        "name": "Tim Dunigan",
+        "nm": 242313,
+        "roles": [
+          {
+            "char": "Captain Jonathan Power",
+            "ch": 77968
+          }
+        ]
+      },
+      {
+        "name": "Peter MacNeill",
+        "nm": 534132,
+        "roles": [
+          {
+            "char": "Major Matthew 'Hawk' Masterson",
+            "ch": 104353
+          }
+        ]
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "nm": 861752,
+        "roles": [
+          {
+            "char": "Lieutenant Michael 'Tank' Ellis",
+            "ch": 216710,
+            "as Sven Thorsen": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Sergeant Robert 'Scout' Baker",
+            "ch": 212496
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Corporal Jennifer 'Pilot' Chase",
+            "ch": 233594
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Lord Dread",
+            "ch": 216711
+          }
+        ]
+      },
+      {
+        "name": "Todd Waite",
+        "nm": 906632,
+        "roles": [
+          {
+            "char": "Overunit Gerber"
+          }
+        ]
+      },
+      {
+        "name": "Paul Humphrey",
+        "nm": 401944,
+        "roles": [
+          {
+            "char": "Locke"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "Mentor",
+            "ch": 391939
+          }
+        ]
+      },
+      {
+        "name": "Tedd Dillon",
+        "nm": 227074,
+        "roles": [
+          {
+            "char": "Overmind",
+            "ch": 231547,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John S. Davies",
+        "nm": 203788,
+        "roles": [
+          {
+            "char": "Blastarr",
+            "ch": 318098,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brad Crandall",
+        "nm": 186255,
+        "roles": [
+          {
+            "char": "Opening narration",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  }
+]

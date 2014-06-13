@@ -1,0 +1,576 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 1837733,
+    "air_date": "1981-12-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Roger Hanin",
+        "nm": 359894,
+        "roles": [
+          {
+            "char": "Charles-Hubert Poissonnard"
+          }
+        ]
+      },
+      {
+        "name": "Andréa Ferréol",
+        "nm": 275138,
+        "roles": [
+          {
+            "char": "Juliette Poissonnard"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Claude Dauphin",
+        "nm": 202409,
+        "roles": [
+          {
+            "char": "Léon Lécuyer"
+          }
+        ]
+      },
+      {
+        "name": "Christine Pascal",
+        "nm": 664243,
+        "roles": [
+          {
+            "char": "Josette - la première employée des Poissonard"
+          }
+        ]
+      },
+      {
+        "name": "Paul Guers",
+        "nm": 244849,
+        "roles": [
+          {
+            "char": "Le médecin"
+          }
+        ]
+      },
+      {
+        "name": "Béatrice Agenin",
+        "nm": 12964,
+        "roles": [
+          {
+            "char": "Madeleine Lécuyer"
+          }
+        ]
+      },
+      {
+        "name": "Philippe Clay",
+        "nm": 165564,
+        "roles": [
+          {
+            "char": "M. Deprat"
+          }
+        ]
+      },
+      {
+        "name": "Dora Doll",
+        "nm": 231098,
+        "roles": [
+          {
+            "char": "Mme Halluin"
+          }
+        ]
+      },
+      {
+        "name": "Fred Personne",
+        "nm": 675525,
+        "roles": [
+          {
+            "char": "M. Lebugle"
+          }
+        ]
+      },
+      {
+        "name": "Monique Mélinand",
+        "nm": 617585,
+        "roles": [
+          {
+            "char": "Mme Lécuyer, la mère de Léon"
+          }
+        ]
+      },
+      {
+        "name": "Annick Blancheteau",
+        "nm": 87161,
+        "roles": [
+          {
+            "char": "Émilienne"
+          }
+        ]
+      },
+      {
+        "name": "Claude Brosset",
+        "nm": 112533,
+        "roles": [
+          {
+            "char": "Jules"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Marie Arnoux",
+        "nm": 36750,
+        "roles": [
+          {
+            "char": "Le brigadier route de campagne"
+          }
+        ]
+      },
+      {
+        "name": "Alain Cathelin",
+        "nm": 1216083,
+        "roles": [
+          {
+            "char": "Le gendarme lors démobilisation #1"
+          }
+        ]
+      },
+      {
+        "name": "Michel Chalmeau",
+        "nm": 150017,
+        "roles": [
+          {
+            "char": "L'inspecteur de la gare de Perrache"
+          }
+        ]
+      },
+      {
+        "name": "Pierre Duncan",
+        "nm": 239702,
+        "roles": [
+          {
+            "char": "Le gendarme au cinéma"
+          }
+        ]
+      },
+      {
+        "name": "Isabelle Gauchet",
+        "nm": 1063508,
+        "roles": [
+          {
+            "char": "Yvette"
+          }
+        ]
+      },
+      {
+        "name": "Sylvain Lemarie",
+        "nm": 1101901,
+        "roles": [
+          {
+            "char": "Le gendarme lors de la démobilisation #2"
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Masson",
+        "nm": 557486,
+        "roles": [
+          {
+            "char": "Jeanine Poissonnard - la fille des Poissonard",
+            "as Béatrice Masson": true
+          }
+        ]
+      },
+      {
+        "name": "Salvino Di Pietra",
+        "nm": 224194,
+        "roles": [
+          {
+            "char": "Le capitaine Legrandier"
+          }
+        ]
+      },
+      {
+        "name": "María Riquelme",
+        "nm": 728163,
+        "roles": [
+          {
+            "char": "La femme du train"
+          }
+        ]
+      },
+      {
+        "name": "Tony Rödel",
+        "nm": 753886,
+        "roles": [
+          {
+            "char": "Gunther",
+            "as Tony Roedel": true
+          }
+        ]
+      },
+      {
+        "name": "Werner Schulenberg",
+        "nm": 775999,
+        "roles": [
+          {
+            "char": "La Walkyrie"
+          }
+        ]
+      },
+      {
+        "name": "Yves Soucasse",
+        "nm": 1225009,
+        "roles": [
+          {
+            "char": "Le copain de Léon"
+          }
+        ]
+      },
+      {
+        "name": "Romain Trembleau",
+        "nm": 871992,
+        "roles": [
+          {
+            "char": "Henri 'Riri' Poissonard,le fils Poissonard à á 8 ans"
+          }
+        ]
+      },
+      {
+        "name": "Martin Trévières",
+        "nm": 872436,
+        "roles": [
+          {
+            "char": "Le patron de la coutellerie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 1837734,
+    "air_date": "1981-12-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Roger Hanin",
+        "nm": 359894,
+        "roles": [
+          {
+            "char": "Charles-Hubert Poissonnard"
+          }
+        ]
+      },
+      {
+        "name": "Andréa Ferréol",
+        "nm": 275138,
+        "roles": [
+          {
+            "char": "Juliette Poissonnard"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Claude Dauphin",
+        "nm": 202409,
+        "roles": [
+          {
+            "char": "Léon Lécuyer"
+          }
+        ]
+      },
+      {
+        "name": "Catherine Allégret",
+        "nm": 21691,
+        "roles": [
+          {
+            "char": "Léonie"
+          }
+        ]
+      },
+      {
+        "name": "Fred Personne",
+        "nm": 675525,
+        "roles": [
+          {
+            "char": "M. Lebugle"
+          }
+        ]
+      },
+      {
+        "name": "Béatrice Agenin",
+        "nm": 12964,
+        "roles": [
+          {
+            "char": "Madeleine Lécuyer"
+          }
+        ]
+      },
+      {
+        "name": "Jean-François Adam",
+        "nm": 10544,
+        "roles": [
+          {
+            "char": "L'inspecteur sanitaire Simonin"
+          }
+        ]
+      },
+      {
+        "name": "Annick Blancheteau",
+        "nm": 87161,
+        "roles": [
+          {
+            "char": "Émilienne"
+          }
+        ]
+      },
+      {
+        "name": "Claude Brosset",
+        "nm": 112533,
+        "roles": [
+          {
+            "char": "Jules"
+          }
+        ]
+      },
+      {
+        "name": "Dora Doll",
+        "nm": 231098,
+        "roles": [
+          {
+            "char": "Mme Halluin"
+          }
+        ]
+      },
+      {
+        "name": "Monique Mélinand",
+        "nm": 617585,
+        "roles": [
+          {
+            "char": "Mme Lécuyer"
+          }
+        ]
+      },
+      {
+        "name": "Maurice Jacquemont",
+        "nm": 415121,
+        "roles": [
+          {
+            "char": "Le maréchal Philippe Pétain, le chef de l'état",
+            "ch": 53747
+          }
+        ]
+      },
+      {
+        "name": "Renaud Benoît",
+        "nm": 1223435,
+        "roles": [
+          {
+            "char": "Henri 'Riri' Poissonnard, à 14 ans"
+          }
+        ]
+      },
+      {
+        "name": "Annick Fougery",
+        "nm": 288270,
+        "roles": [
+          {
+            "char": "Le concierge de Rappoport"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Claude de Goros",
+        "nm": 208600,
+        "roles": [
+          {
+            "char": "Inspecteur Hôtel Vichy"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Gourevitch",
+        "nm": 332671,
+        "roles": [
+          {
+            "char": "Le greffier à Vichy"
+          }
+        ]
+      },
+      {
+        "name": "Giuseppe Grottadaurea",
+        "nm": 343883,
+        "roles": [
+          {
+            "char": "Le costaud #1"
+          }
+        ]
+      },
+      {
+        "name": "Elisabeth Kaza",
+        "nm": 443529,
+        "roles": [
+          {
+            "char": "Mme Legrandier"
+          }
+        ]
+      },
+      {
+        "name": "Francis Lax",
+        "nm": 493408,
+        "roles": [
+          {
+            "char": "Rappoport - un tailleur juif"
+          }
+        ]
+      },
+      {
+        "name": "Charles Marosi",
+        "nm": 549547,
+        "roles": [
+          {
+            "char": "Le planton de l'hôtel du parc"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Marcellin",
+        "nm": 545214,
+        "roles": [
+          {
+            "char": "Le costaud #2"
+          }
+        ]
+      },
+      {
+        "name": "Beatrice Masson",
+        "nm": 557486,
+        "roles": [
+          {
+            "char": "Jeanine Poissonnard",
+            "as Béatrice Masson": true
+          }
+        ]
+      },
+      {
+        "name": "Jacques Mutel",
+        "nm": 1120422,
+        "roles": [
+          {
+            "char": "René Benjamin"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Passalia",
+        "nm": 664207,
+        "roles": [
+          {
+            "char": "L'huissier de la Chambre des Députés",
+            "as Antonio Passaglia": true
+          }
+        ]
+      },
+      {
+        "name": "Salvino Di Pietra",
+        "nm": 224194,
+        "roles": [
+          {
+            "char": "Le capitaine Gérard Legrandier"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Simon Prévost",
+        "nm": 699557,
+        "roles": [
+          {
+            "char": "Baden Powell - le chef des scouts chez Pétain",
+            "ch": 268260
+          }
+        ]
+      },
+      {
+        "name": "René Renot",
+        "nm": 719779,
+        "roles": [
+          {
+            "char": "Le gardien de prison"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Pierre Rivière",
+        "nm": 1130514,
+        "roles": [
+          {
+            "char": "Le lieutenant de la prison"
+          }
+        ]
+      },
+      {
+        "name": "Pierre Semmler",
+        "nm": 783838,
+        "roles": [
+          {
+            "char": "Le major von Pasbst",
+            "as Peter Semler": true
+          }
+        ]
+      },
+      {
+        "name": "Gilbert Servien",
+        "nm": 785835,
+        "roles": [
+          {
+            "char": "Le chef de la délégation ouvrière"
+          }
+        ]
+      },
+      {
+        "name": "Romain Trembleau",
+        "nm": 871992,
+        "roles": [
+          {
+            "char": "Henri 'Riri' Poissonard,le fils Poissonard à á 8 ans"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Louis Tristan",
+        "nm": 873151,
+        "roles": [
+          {
+            "char": "Le policier de l'interrogatoire à Vichy"
+          }
+        ]
+      },
+      {
+        "name": "André Valardy",
+        "nm": 883491,
+        "roles": [
+          {
+            "char": "Alphonse"
+          }
+        ]
+      },
+      {
+        "name": "Frithjof Vierock",
+        "nm": 896818,
+        "roles": [
+          {
+            "char": "Hans Pfeiffer"
+          }
+        ]
+      },
+      {
+        "name": "Gilbert Vilhon",
+        "nm": 1100877,
+        "roles": [
+          {
+            "char": "Le juge d'assises"
+          }
+        ]
+      }
+    ]
+  }
+]

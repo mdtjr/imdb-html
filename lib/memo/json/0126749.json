@@ -1,0 +1,2756 @@
+[
+  {
+    "se": "S01E01",
+    "title": "En ærlig mand",
+    "tt": 1004448,
+    "air_date": "1992-01-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend 'Gønge' Poulsen",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Benedikte Hansen",
+        "nm": 360678,
+        "roles": [
+          {
+            "char": "Ane Marie",
+            "ch": 195778
+          }
+        ]
+      },
+      {
+        "name": "Adam Brix",
+        "nm": 110249,
+        "roles": [
+          {
+            "char": "Palle",
+            "ch": 209644,
+            "as Adam Schächter": true
+          }
+        ]
+      },
+      {
+        "name": "Henning Jensen",
+        "nm": 421473,
+        "roles": [
+          {
+            "char": "Frederik III",
+            "ch": 43457
+          }
+        ]
+      },
+      {
+        "name": "Charlotte Sieling",
+        "nm": 797136,
+        "roles": [
+          {
+            "char": "Sophie Amalie",
+            "ch": 195779
+          }
+        ]
+      },
+      {
+        "name": "Søren Rode",
+        "nm": 734531,
+        "roles": [
+          {
+            "char": "Gabel",
+            "ch": 218733
+          }
+        ]
+      },
+      {
+        "name": "Wencke Barfoed",
+        "nm": 54510,
+        "roles": [
+          {
+            "char": "Julie Parsberg",
+            "ch": 214578
+          }
+        ]
+      },
+      {
+        "name": "Ilse Rande",
+        "nm": 709741,
+        "roles": [
+          {
+            "char": "Else Parsberg",
+            "ch": 230879
+          }
+        ]
+      },
+      {
+        "name": "Flemming Enevold",
+        "nm": 256953,
+        "roles": [
+          {
+            "char": "Kai Lykke",
+            "ch": 215315
+          }
+        ]
+      },
+      {
+        "name": "Henrik Koefoed",
+        "nm": 462724,
+        "roles": [
+          {
+            "char": "Kørbitz"
+          }
+        ]
+      },
+      {
+        "name": "Susanne Breuning",
+        "nm": 108077,
+        "roles": [
+          {
+            "char": "Den sorte dame",
+            "ch": 215318
+          }
+        ]
+      },
+      {
+        "name": "Michel Carliez",
+        "nm": 137479,
+        "roles": [
+          {
+            "char": "Spionen"
+          }
+        ]
+      },
+      {
+        "name": "Søren Hauch-Fausbøll",
+        "nm": 369166,
+        "roles": [
+          {
+            "char": "Abel",
+            "ch": 215325
+          }
+        ]
+      },
+      {
+        "name": "Asger Reher",
+        "nm": 716815,
+        "roles": [
+          {
+            "char": "Jens Jerntrøje",
+            "ch": 209643
+          }
+        ]
+      },
+      {
+        "name": "Henrik Larsen",
+        "nm": 488776,
+        "roles": [
+          {
+            "char": "Hartvig",
+            "ch": 230878
+          }
+        ]
+      },
+      {
+        "name": "Kurt Ravn",
+        "nm": 712513,
+        "roles": [
+          {
+            "char": "Tam",
+            "ch": 195781
+          }
+        ]
+      },
+      {
+        "name": "Jarl Forsmann",
+        "nm": 286892,
+        "roles": [
+          {
+            "char": "Ving",
+            "ch": 230877,
+            "as Jarl Forsman": true
+          }
+        ]
+      },
+      {
+        "name": "Stig Hoffmeyer",
+        "nm": 389298,
+        "roles": [
+          {
+            "char": "Holger Madsen"
+          }
+        ]
+      },
+      {
+        "name": "Ulver Skuli Abildgaard",
+        "nm": 8752,
+        "roles": [
+          {
+            "char": "Jokum"
+          }
+        ]
+      },
+      {
+        "name": "Søren Steen",
+        "nm": 824801,
+        "roles": [
+          {
+            "char": "Thormod"
+          }
+        ]
+      },
+      {
+        "name": "Bent Mejding",
+        "nm": 577167,
+        "roles": [
+          {
+            "char": "Oberst Sparre",
+            "ch": 195780
+          }
+        ]
+      },
+      {
+        "name": "Michael Lindvad",
+        "nm": 512559,
+        "roles": [
+          {
+            "char": "Kaptajn Kernbok",
+            "ch": 214582
+          }
+        ]
+      },
+      {
+        "name": "Palle Huld",
+        "nm": 401341,
+        "roles": [
+          {
+            "char": "Ceremonimesteren"
+          }
+        ]
+      },
+      {
+        "name": "Bjarne Buur",
+        "nm": 125488,
+        "roles": [
+          {
+            "char": "Ridefogeden"
+          }
+        ]
+      },
+      {
+        "name": "Finn Rye",
+        "nm": 753224,
+        "roles": [
+          {
+            "char": "Soldaten",
+            "as Finn Rye Petersen": true
+          }
+        ]
+      },
+      {
+        "name": "Jeanne Boel",
+        "nm": 91259,
+        "roles": [
+          {
+            "char": "Hofdamen"
+          }
+        ]
+      },
+      {
+        "name": "Poul Glargaard",
+        "nm": 321768,
+        "roles": [
+          {
+            "char": "Kroværten"
+          }
+        ]
+      },
+      {
+        "name": "Lina Hedegaard",
+        "nm": 1227757,
+        "roles": [
+          {
+            "char": "Skøgen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Død mand ønskes",
+    "tt": 1004445,
+    "air_date": "1992-01-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend 'Gønge' Poulsen",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Søren Hauch-Fausbøll",
+        "nm": 369166,
+        "roles": [
+          {
+            "char": "Abel",
+            "ch": 215325
+          }
+        ]
+      },
+      {
+        "name": "Asger Reher",
+        "nm": 716815,
+        "roles": [
+          {
+            "char": "Jens Jerntrøje",
+            "ch": 209643
+          }
+        ]
+      },
+      {
+        "name": "Henrik Larsen",
+        "nm": 488776,
+        "roles": [
+          {
+            "char": "Hartvig",
+            "ch": 230878
+          }
+        ]
+      },
+      {
+        "name": "Kurt Ravn",
+        "nm": 712513,
+        "roles": [
+          {
+            "char": "Tam",
+            "ch": 195781
+          }
+        ]
+      },
+      {
+        "name": "Wencke Barfoed",
+        "nm": 54510,
+        "roles": [
+          {
+            "char": "Julie Parsberg",
+            "ch": 214578
+          }
+        ]
+      },
+      {
+        "name": "Jarl Forsmann",
+        "nm": 286892,
+        "roles": [
+          {
+            "char": "Ving",
+            "ch": 230877
+          }
+        ]
+      },
+      {
+        "name": "Ilse Rande",
+        "nm": 709741,
+        "roles": [
+          {
+            "char": "Else Parsberg",
+            "ch": 230879
+          }
+        ]
+      },
+      {
+        "name": "Bent Mejding",
+        "nm": 577167,
+        "roles": [
+          {
+            "char": "Oberst Sparre",
+            "ch": 195780
+          }
+        ]
+      },
+      {
+        "name": "Michael Lindvad",
+        "nm": 512559,
+        "roles": [
+          {
+            "char": "Kaptajn Kernbok",
+            "ch": 214582
+          }
+        ]
+      },
+      {
+        "name": "David Seedorff",
+        "nm": 2551056,
+        "roles": [
+          {
+            "char": "Bøhm"
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lehfeldt",
+        "nm": 499600,
+        "roles": [
+          {
+            "char": "Kulsoen",
+            "ch": 209641
+          }
+        ]
+      },
+      {
+        "name": "John Hahn-Petersen",
+        "nm": 353990,
+        "roles": [
+          {
+            "char": "Hans Nansen",
+            "ch": 195783
+          }
+        ]
+      },
+      {
+        "name": "Benedikte Hansen",
+        "nm": 360678,
+        "roles": [
+          {
+            "char": "Ane Marie",
+            "ch": 195778
+          }
+        ]
+      },
+      {
+        "name": "Adam Brix",
+        "nm": 110249,
+        "roles": [
+          {
+            "char": "Palle",
+            "ch": 209644,
+            "as Adam Schächter": true
+          }
+        ]
+      },
+      {
+        "name": "Benny Hansen",
+        "nm": 360681,
+        "roles": [
+          {
+            "char": "Kokken"
+          }
+        ]
+      },
+      {
+        "name": "Jørgen Buckhøj",
+        "nm": 118479,
+        "roles": [
+          {
+            "char": "Præsten",
+            "ch": 214581
+          }
+        ]
+      },
+      {
+        "name": "Per Møller Nielsen",
+        "nm": 2271384,
+        "roles": [
+          {
+            "char": "Nieler"
+          }
+        ]
+      },
+      {
+        "name": "Morten Suurballe",
+        "nm": 840436,
+        "roles": [
+          {
+            "char": "Tange",
+            "ch": 195782
+          }
+        ]
+      },
+      {
+        "name": "Erno Müller",
+        "nm": 618143,
+        "roles": [
+          {
+            "char": "Borger #1"
+          }
+        ]
+      },
+      {
+        "name": "Jens Okking",
+        "nm": 645663,
+        "roles": [
+          {
+            "char": "Manheimer",
+            "ch": 199247
+          }
+        ]
+      },
+      {
+        "name": "Niels Anders Thorn",
+        "nm": 861301,
+        "roles": [
+          {
+            "char": "Soldaten"
+          }
+        ]
+      },
+      {
+        "name": "Mogens Brix-Pedersen",
+        "nm": 110264,
+        "roles": [
+          {
+            "char": "Korporalen"
+          }
+        ]
+      },
+      {
+        "name": "Kim Skat Nørrevig",
+        "nm": 1046315,
+        "roles": [
+          {
+            "char": "Dragon #1",
+            "as Kim Nørrevig": true
+          }
+        ]
+      },
+      {
+        "name": "Erik Holmey",
+        "nm": 392103,
+        "roles": [
+          {
+            "char": "Dragon #2"
+          }
+        ]
+      },
+      {
+        "name": "Ole Bramsen",
+        "nm": 1910788,
+        "roles": [
+          {
+            "char": "Dragon #3",
+            "as Ole S. C. Brams": true
+          }
+        ]
+      },
+      {
+        "name": "Susanne Breuning",
+        "nm": 108077,
+        "roles": [
+          {
+            "char": "Den sorte dame",
+            "ch": 215318
+          }
+        ]
+      },
+      {
+        "name": "Poul Glargaard",
+        "nm": 321768,
+        "roles": [
+          {
+            "char": "Kroværten"
+          }
+        ]
+      },
+      {
+        "name": "Lina Hedegaard",
+        "nm": 1227757,
+        "roles": [
+          {
+            "char": "Skøgen"
+          }
+        ]
+      },
+      {
+        "name": "Henning Jensen",
+        "nm": 421473,
+        "roles": [
+          {
+            "char": "Frederik III",
+            "ch": 43457
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Forræderen",
+    "tt": 1004449,
+    "air_date": "1992-01-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend 'Gønge' Poulsen",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Jens Okking",
+        "nm": 645663,
+        "roles": [
+          {
+            "char": "Manheimer",
+            "ch": 199247
+          }
+        ]
+      },
+      {
+        "name": "Kim Veisgaard",
+        "nm": 892092,
+        "roles": [
+          {
+            "char": "Bødkeren"
+          }
+        ]
+      },
+      {
+        "name": "Henning Palner",
+        "nm": 658658,
+        "roles": [
+          {
+            "char": "Artilleristen",
+            "ch": 214583
+          }
+        ]
+      },
+      {
+        "name": "Holger Perfort",
+        "nm": 673670,
+        "roles": [
+          {
+            "char": "Tambouren"
+          }
+        ]
+      },
+      {
+        "name": "Thorbjørn Hummel",
+        "nm": 401858,
+        "roles": [
+          {
+            "char": "Dragonen"
+          }
+        ]
+      },
+      {
+        "name": "Erik Paaske",
+        "nm": 654994,
+        "roles": [
+          {
+            "char": "Tyge Høeg"
+          }
+        ]
+      },
+      {
+        "name": "Paul Hüttel",
+        "nm": 406185,
+        "roles": [
+          {
+            "char": "Esben Naas"
+          }
+        ]
+      },
+      {
+        "name": "Maria Garde",
+        "nm": 1265820,
+        "roles": [
+          {
+            "char": "Ellen"
+          }
+        ]
+      },
+      {
+        "name": "Marianne Mortensen",
+        "nm": 607798,
+        "roles": [
+          {
+            "char": "Inger",
+            "ch": 214580
+          }
+        ]
+      },
+      {
+        "name": "John Martinus",
+        "nm": 554201,
+        "roles": [
+          {
+            "char": "Tjeneren"
+          }
+        ]
+      },
+      {
+        "name": "Birgitte Simonsen",
+        "nm": 800755,
+        "roles": [
+          {
+            "char": "Syersken"
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lehfeldt",
+        "nm": 499600,
+        "roles": [
+          {
+            "char": "Kulsoen",
+            "ch": 209641
+          }
+        ]
+      },
+      {
+        "name": "Kurt Ravn",
+        "nm": 712513,
+        "roles": [
+          {
+            "char": "Tam",
+            "ch": 195781
+          }
+        ]
+      },
+      {
+        "name": "Poul Glargaard",
+        "nm": 321768,
+        "roles": [
+          {
+            "char": "Kroværten"
+          }
+        ]
+      },
+      {
+        "name": "Peter Gantzler",
+        "nm": 304644,
+        "roles": [
+          {
+            "char": "Lejesoldaten"
+          }
+        ]
+      },
+      {
+        "name": "Mogens Brix-Pedersen",
+        "nm": 110264,
+        "roles": [
+          {
+            "char": "Korporalen"
+          }
+        ]
+      },
+      {
+        "name": "Bent Mejding",
+        "nm": 577167,
+        "roles": [
+          {
+            "char": "Oberst Sparre",
+            "ch": 195780
+          }
+        ]
+      },
+      {
+        "name": "Wencke Barfoed",
+        "nm": 54510,
+        "roles": [
+          {
+            "char": "Julie Parsberg",
+            "ch": 214578
+          }
+        ]
+      },
+      {
+        "name": "Ilse Rande",
+        "nm": 709741,
+        "roles": [
+          {
+            "char": "Else Parsberg",
+            "ch": 230879
+          }
+        ]
+      },
+      {
+        "name": "Benedikte Hansen",
+        "nm": 360678,
+        "roles": [
+          {
+            "char": "Ane Marie",
+            "ch": 195778
+          }
+        ]
+      },
+      {
+        "name": "Adam Brix",
+        "nm": 110249,
+        "roles": [
+          {
+            "char": "Palle",
+            "ch": 209644,
+            "as Adam Schächter": true
+          }
+        ]
+      },
+      {
+        "name": "Søren Hauch-Fausbøll",
+        "nm": 369166,
+        "roles": [
+          {
+            "char": "Abel",
+            "ch": 215325
+          }
+        ]
+      },
+      {
+        "name": "Asger Reher",
+        "nm": 716815,
+        "roles": [
+          {
+            "char": "Jens Jerntrøje",
+            "ch": 209643
+          }
+        ]
+      },
+      {
+        "name": "Henrik Larsen",
+        "nm": 488776,
+        "roles": [
+          {
+            "char": "Hartvig",
+            "ch": 230878
+          }
+        ]
+      },
+      {
+        "name": "Jarl Forsmann",
+        "nm": 286892,
+        "roles": [
+          {
+            "char": "Ving",
+            "ch": 230877,
+            "as Jarl Forsman": true
+          }
+        ]
+      },
+      {
+        "name": "Bent Warburg",
+        "nm": 911299,
+        "roles": [
+          {
+            "char": "Bygmesteren"
+          }
+        ]
+      },
+      {
+        "name": "Søren Østergaard",
+        "nm": 960319,
+        "roles": [
+          {
+            "char": "Bent Arvedsøn"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Wallin",
+        "nm": 3909857,
+        "roles": [
+          {
+            "char": "Valde, køkkendrengen"
+          }
+        ]
+      },
+      {
+        "name": "Erik Holmey",
+        "nm": 392103,
+        "roles": [
+          {
+            "char": "Dragon #2"
+          }
+        ]
+      },
+      {
+        "name": "Ole Bramsen",
+        "nm": 1910788,
+        "roles": [
+          {
+            "char": "Dragon #3",
+            "as Ole S.G. Brams": true
+          }
+        ]
+      },
+      {
+        "name": "Jan Hovgaard",
+        "nm": 397027,
+        "roles": [
+          {
+            "char": "Vagten"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Blandt de balsamerede",
+    "tt": 1004442,
+    "air_date": "1992-01-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend 'Gønge' Poulsen",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lehfeldt",
+        "nm": 499600,
+        "roles": [
+          {
+            "char": "Kulsoen",
+            "ch": 209641
+          }
+        ]
+      },
+      {
+        "name": "Jens Okking",
+        "nm": 645663,
+        "roles": [
+          {
+            "char": "Manheimer",
+            "ch": 199247
+          }
+        ]
+      },
+      {
+        "name": "Henning Palner",
+        "nm": 658658,
+        "roles": [
+          {
+            "char": "Artilleristen",
+            "ch": 214583
+          }
+        ]
+      },
+      {
+        "name": "Holger Perfort",
+        "nm": 673670,
+        "roles": [
+          {
+            "char": "Tambouren"
+          }
+        ]
+      },
+      {
+        "name": "Thorbjørn Hummel",
+        "nm": 401858,
+        "roles": [
+          {
+            "char": "Dragonen"
+          }
+        ]
+      },
+      {
+        "name": "Ole Ernst",
+        "nm": 259724,
+        "roles": [
+          {
+            "char": "Smeden"
+          }
+        ]
+      },
+      {
+        "name": "Inger Hovman",
+        "nm": 397059,
+        "roles": [
+          {
+            "char": "Jens' kone"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Pedersen",
+        "nm": 669871,
+        "roles": [
+          {
+            "char": "Knøsen"
+          }
+        ]
+      },
+      {
+        "name": "Benedikte Hansen",
+        "nm": 360678,
+        "roles": [
+          {
+            "char": "Ane Marie",
+            "ch": 195778
+          }
+        ]
+      },
+      {
+        "name": "Adam Brix",
+        "nm": 110249,
+        "roles": [
+          {
+            "char": "Palle",
+            "ch": 209644,
+            "as Adam Schächter": true
+          }
+        ]
+      },
+      {
+        "name": "Søren Hauch-Fausbøll",
+        "nm": 369166,
+        "roles": [
+          {
+            "char": "Abel",
+            "ch": 215325
+          }
+        ]
+      },
+      {
+        "name": "Asger Reher",
+        "nm": 716815,
+        "roles": [
+          {
+            "char": "Jens Jerntrøje",
+            "ch": 209643
+          }
+        ]
+      },
+      {
+        "name": "Henrik Larsen",
+        "nm": 488776,
+        "roles": [
+          {
+            "char": "Hartvig",
+            "ch": 230878
+          }
+        ]
+      },
+      {
+        "name": "Kurt Ravn",
+        "nm": 712513,
+        "roles": [
+          {
+            "char": "Tam",
+            "ch": 195781
+          }
+        ]
+      },
+      {
+        "name": "Jarl Forsmann",
+        "nm": 286892,
+        "roles": [
+          {
+            "char": "Ving",
+            "ch": 230877
+          }
+        ]
+      },
+      {
+        "name": "Paul Hagen",
+        "nm": 353434,
+        "roles": [
+          {
+            "char": "Kasper Dam",
+            "ch": 230874
+          }
+        ]
+      },
+      {
+        "name": "Marianne Mortensen",
+        "nm": 607798,
+        "roles": [
+          {
+            "char": "Inger",
+            "ch": 214580
+          }
+        ]
+      },
+      {
+        "name": "Bodil Udsen",
+        "nm": 879881,
+        "roles": [
+          {
+            "char": "Ibs mor"
+          }
+        ]
+      },
+      {
+        "name": "Preben Neergaard",
+        "nm": 624253,
+        "roles": [
+          {
+            "char": "Ibs far"
+          }
+        ]
+      },
+      {
+        "name": "Bent Mejding",
+        "nm": 577167,
+        "roles": [
+          {
+            "char": "Oberst Sparre",
+            "ch": 195780
+          }
+        ]
+      },
+      {
+        "name": "Michael Lindvad",
+        "nm": 512559,
+        "roles": [
+          {
+            "char": "Kaptajn Kernbok",
+            "ch": 214582
+          }
+        ]
+      },
+      {
+        "name": "David Seedorff",
+        "nm": 2551056,
+        "roles": [
+          {
+            "char": "Bøhm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Brevet",
+    "tt": 1004443,
+    "air_date": "1992-02-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib Abelsøn",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend 'Gønge' Poulsen",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lehfeldt",
+        "nm": 499600,
+        "roles": [
+          {
+            "char": "Kulsoen",
+            "ch": 209641
+          }
+        ]
+      },
+      {
+        "name": "Jens Okking",
+        "nm": 645663,
+        "roles": [
+          {
+            "char": "Manheimer",
+            "ch": 199247
+          }
+        ]
+      },
+      {
+        "name": "Buster Larsen",
+        "nm": 488722,
+        "roles": [
+          {
+            "char": "Manfred Fisker"
+          }
+        ]
+      },
+      {
+        "name": "Henning Jensen",
+        "nm": 421473,
+        "roles": [
+          {
+            "char": "Frederik III",
+            "ch": 43457
+          }
+        ]
+      },
+      {
+        "name": "Søren Rode",
+        "nm": 734531,
+        "roles": [
+          {
+            "char": "Gabel",
+            "ch": 218733
+          }
+        ]
+      },
+      {
+        "name": "Wencke Barfoed",
+        "nm": 54510,
+        "roles": [
+          {
+            "char": "Julie Parsberg",
+            "ch": 214578
+          }
+        ]
+      },
+      {
+        "name": "Flemming Sørensen",
+        "nm": 845672,
+        "roles": [
+          {
+            "char": "Kgl. sekretær",
+            "ch": 215319
+          }
+        ]
+      },
+      {
+        "name": "Bent Mejding",
+        "nm": 577167,
+        "roles": [
+          {
+            "char": "Oberst Sparre",
+            "ch": 195780
+          }
+        ]
+      },
+      {
+        "name": "Susanne Breuning",
+        "nm": 108077,
+        "roles": [
+          {
+            "char": "Den sorte dame",
+            "ch": 215318
+          }
+        ]
+      },
+      {
+        "name": "Max Hansen",
+        "nm": 361002,
+        "roles": [
+          {
+            "char": "Soldaten"
+          }
+        ]
+      },
+      {
+        "name": "Flemming Enevold",
+        "nm": 256953,
+        "roles": [
+          {
+            "char": "Kai Lykke",
+            "ch": 215315
+          }
+        ]
+      },
+      {
+        "name": "Charlotte Sieling",
+        "nm": 797136,
+        "roles": [
+          {
+            "char": "Sophie Amalie",
+            "ch": 195779
+          }
+        ]
+      },
+      {
+        "name": "Birgit Thøt",
+        "nm": 862468,
+        "roles": [
+          {
+            "char": "Hofdamen"
+          }
+        ]
+      },
+      {
+        "name": "Henrik Koefoed",
+        "nm": 462724,
+        "roles": [
+          {
+            "char": "Kørbits"
+          }
+        ]
+      },
+      {
+        "name": "Jørgen Fønss",
+        "nm": 299758,
+        "roles": [
+          {
+            "char": "Vægteren"
+          }
+        ]
+      },
+      {
+        "name": "Michael Mansdotter",
+        "nm": 543732,
+        "roles": [
+          {
+            "char": "Hellebardisten"
+          }
+        ]
+      },
+      {
+        "name": "Mads Keiser",
+        "nm": 445168,
+        "roles": [
+          {
+            "char": "Lejesoldat",
+            "as Mads Keiser-Nielsen": true
+          }
+        ]
+      },
+      {
+        "name": "Thomas Kirk",
+        "nm": 1210050,
+        "roles": [
+          {
+            "char": "Lejesoldat"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Rotter på loftet",
+    "tt": 1004452,
+    "air_date": "1992-02-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib Abelsøn",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend 'Gønge' Poulsen",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Henning Jensen",
+        "nm": 421473,
+        "roles": [
+          {
+            "char": "Frederik III",
+            "ch": 43457
+          }
+        ]
+      },
+      {
+        "name": "Søren Rode",
+        "nm": 734531,
+        "roles": [
+          {
+            "char": "Gabel",
+            "ch": 218733
+          }
+        ]
+      },
+      {
+        "name": "Flemming Enevold",
+        "nm": 256953,
+        "roles": [
+          {
+            "char": "Kai Lykke",
+            "ch": 215315
+          }
+        ]
+      },
+      {
+        "name": "Bent Mejding",
+        "nm": 577167,
+        "roles": [
+          {
+            "char": "Oberst Sparre",
+            "ch": 195780
+          }
+        ]
+      },
+      {
+        "name": "Susanne Breuning",
+        "nm": 108077,
+        "roles": [
+          {
+            "char": "Den sorte dame",
+            "ch": 215318
+          }
+        ]
+      },
+      {
+        "name": "Marianne Mortensen",
+        "nm": 607798,
+        "roles": [
+          {
+            "char": "Inger",
+            "ch": 214580
+          }
+        ]
+      },
+      {
+        "name": "Paul Hagen",
+        "nm": 353434,
+        "roles": [
+          {
+            "char": "Kasper Dam",
+            "ch": 230874
+          }
+        ]
+      },
+      {
+        "name": "Benedikte Hansen",
+        "nm": 360678,
+        "roles": [
+          {
+            "char": "Ane Marie",
+            "ch": 195778
+          }
+        ]
+      },
+      {
+        "name": "Adam Brix",
+        "nm": 110249,
+        "roles": [
+          {
+            "char": "Palle",
+            "ch": 209644,
+            "as Adam Schächter": true
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lehfeldt",
+        "nm": 499600,
+        "roles": [
+          {
+            "char": "Kulsoen",
+            "ch": 209641
+          }
+        ]
+      },
+      {
+        "name": "Lars Lunøe",
+        "nm": 526820,
+        "roles": [
+          {
+            "char": "Kaptajn Ziegler",
+            "ch": 230875
+          }
+        ]
+      },
+      {
+        "name": "Peter Gilsfort",
+        "nm": 319694,
+        "roles": [
+          {
+            "char": "Lejesoldat"
+          }
+        ]
+      },
+      {
+        "name": "Morten Eisner",
+        "nm": 252152,
+        "roles": [
+          {
+            "char": "Lejesoldat"
+          }
+        ]
+      },
+      {
+        "name": "Søren Hauch-Fausbøll",
+        "nm": 369166,
+        "roles": [
+          {
+            "char": "Abel",
+            "ch": 215325
+          }
+        ]
+      },
+      {
+        "name": "Asger Reher",
+        "nm": 716815,
+        "roles": [
+          {
+            "char": "Jens Jerntrøje",
+            "ch": 209643
+          }
+        ]
+      },
+      {
+        "name": "Henrik Larsen",
+        "nm": 488776,
+        "roles": [
+          {
+            "char": "Hartvig",
+            "ch": 230878
+          }
+        ]
+      },
+      {
+        "name": "Kurt Ravn",
+        "nm": 712513,
+        "roles": [
+          {
+            "char": "Tam",
+            "ch": 195781
+          }
+        ]
+      },
+      {
+        "name": "Jarl Forsmann",
+        "nm": 286892,
+        "roles": [
+          {
+            "char": "Ving",
+            "ch": 230877,
+            "as Jarl Forsman": true
+          }
+        ]
+      },
+      {
+        "name": "Jens Okking",
+        "nm": 645663,
+        "roles": [
+          {
+            "char": "Manheimer",
+            "ch": 199247
+          }
+        ]
+      },
+      {
+        "name": "Morten Suurballe",
+        "nm": 840436,
+        "roles": [
+          {
+            "char": "Tange",
+            "ch": 195782
+          }
+        ]
+      },
+      {
+        "name": "Solbjørg Højfeldt",
+        "nm": 406056,
+        "roles": [
+          {
+            "char": "Elsebeth Buchwald",
+            "ch": 230876
+          }
+        ]
+      },
+      {
+        "name": "Diana Gordjiaxelsen",
+        "nm": 3997772,
+        "roles": [
+          {
+            "char": "Karen Buchwald"
+          }
+        ]
+      },
+      {
+        "name": "Ilse Rande",
+        "nm": 709741,
+        "roles": [
+          {
+            "char": "Else Parsberg",
+            "ch": 230879
+          }
+        ]
+      },
+      {
+        "name": "Wencke Barfoed",
+        "nm": 54510,
+        "roles": [
+          {
+            "char": "Julie Parsberg",
+            "ch": 214578
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Dømt til døden",
+    "tt": 1004446,
+    "air_date": "1992-02-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Wencke Barfoed",
+        "nm": 54510,
+        "roles": [
+          {
+            "char": "Julie Parsberg",
+            "ch": 214578
+          }
+        ]
+      },
+      {
+        "name": "Christoffer Bro",
+        "nm": 110327,
+        "roles": [
+          {
+            "char": "Feltpræst"
+          }
+        ]
+      },
+      {
+        "name": "Jarl Forsmann",
+        "nm": 286892,
+        "roles": [
+          {
+            "char": "Ving",
+            "ch": 230877
+          }
+        ]
+      },
+      {
+        "name": "Benedikte Hansen",
+        "nm": 360678,
+        "roles": [
+          {
+            "char": "Ane Marie",
+            "ch": 195778
+          }
+        ]
+      },
+      {
+        "name": "Søren Hauch-Fausbøll",
+        "nm": 369166,
+        "roles": [
+          {
+            "char": "Abel",
+            "ch": 215325
+          }
+        ]
+      },
+      {
+        "name": "Erik Holmey",
+        "nm": 392103,
+        "roles": [
+          {
+            "char": "Svensker"
+          }
+        ]
+      },
+      {
+        "name": "Thorbjørn Hummel",
+        "nm": 401858,
+        "roles": [
+          {
+            "char": "Dragon"
+          }
+        ]
+      },
+      {
+        "name": "Henrik Larsen",
+        "nm": 488776,
+        "roles": [
+          {
+            "char": "Hartvig",
+            "ch": 230878
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lehfeldt",
+        "nm": 499600,
+        "roles": [
+          {
+            "char": "Kulsoen",
+            "ch": 209641
+          }
+        ]
+      },
+      {
+        "name": "Bent Mejding",
+        "nm": 577167,
+        "roles": [
+          {
+            "char": "Oberst Sparre",
+            "ch": 195780
+          }
+        ]
+      },
+      {
+        "name": "Kim Skat Nørrevig",
+        "nm": 1046315,
+        "roles": [
+          {
+            "char": "Svensker"
+          }
+        ]
+      },
+      {
+        "name": "Jens Okking",
+        "nm": 645663,
+        "roles": [
+          {
+            "char": "Manheimer",
+            "ch": 199247
+          }
+        ]
+      },
+      {
+        "name": "Henning Palner",
+        "nm": 658658,
+        "roles": [
+          {
+            "char": "Artillerist"
+          }
+        ]
+      },
+      {
+        "name": "Holger Perfort",
+        "nm": 673670,
+        "roles": [
+          {
+            "char": "Tambouren"
+          }
+        ]
+      },
+      {
+        "name": "Ilse Rande",
+        "nm": 709741,
+        "roles": [
+          {
+            "char": "Else Parsberg",
+            "ch": 230879
+          }
+        ]
+      },
+      {
+        "name": "Kurt Ravn",
+        "nm": 712513,
+        "roles": [
+          {
+            "char": "Tam",
+            "ch": 195781
+          }
+        ]
+      },
+      {
+        "name": "Asger Reher",
+        "nm": 716815,
+        "roles": [
+          {
+            "char": "Jens Jerntrøje",
+            "ch": 209643
+          }
+        ]
+      },
+      {
+        "name": "Bent Warburg",
+        "nm": 911299,
+        "roles": [
+          {
+            "char": "Svensk Bygmester"
+          }
+        ]
+      },
+      {
+        "name": "Søren Østergaard",
+        "nm": 960319,
+        "roles": [
+          {
+            "char": "Bent Arvedson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Tandpinen",
+    "tt": 1004453,
+    "air_date": "1992-02-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Ole Ernst",
+        "nm": 259724,
+        "roles": [
+          {
+            "char": "Rasmus, Smed"
+          }
+        ]
+      },
+      {
+        "name": "Jarl Forsmann",
+        "nm": 286892,
+        "roles": [
+          {
+            "char": "Ving",
+            "ch": 230877
+          }
+        ]
+      },
+      {
+        "name": "Benedikte Hansen",
+        "nm": 360678,
+        "roles": [
+          {
+            "char": "Ane Marie",
+            "ch": 195778
+          }
+        ]
+      },
+      {
+        "name": "Søren Hauch-Fausbøll",
+        "nm": 369166,
+        "roles": [
+          {
+            "char": "Abel",
+            "ch": 215325
+          }
+        ]
+      },
+      {
+        "name": "Inger Hovman",
+        "nm": 397059,
+        "roles": [
+          {
+            "char": "Jens Jerntrøje's Kone"
+          }
+        ]
+      },
+      {
+        "name": "Thorbjørn Hummel",
+        "nm": 401858,
+        "roles": [
+          {
+            "char": "Dragon"
+          }
+        ]
+      },
+      {
+        "name": "Henrik Larsen",
+        "nm": 488776,
+        "roles": [
+          {
+            "char": "Hartvig",
+            "ch": 230878
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lehfeldt",
+        "nm": 499600,
+        "roles": [
+          {
+            "char": "Kulsoen",
+            "ch": 209641
+          }
+        ]
+      },
+      {
+        "name": "Jens Okking",
+        "nm": 645663,
+        "roles": [
+          {
+            "char": "Manheimer",
+            "ch": 199247
+          }
+        ]
+      },
+      {
+        "name": "Henning Palner",
+        "nm": 658658,
+        "roles": [
+          {
+            "char": "Artillerist"
+          }
+        ]
+      },
+      {
+        "name": "Holger Perfort",
+        "nm": 673670,
+        "roles": [
+          {
+            "char": "Tambouren"
+          }
+        ]
+      },
+      {
+        "name": "Kurt Ravn",
+        "nm": 712513,
+        "roles": [
+          {
+            "char": "Tam",
+            "ch": 195781
+          }
+        ]
+      },
+      {
+        "name": "Asger Reher",
+        "nm": 716815,
+        "roles": [
+          {
+            "char": "Jens Jerntrøje",
+            "ch": 209643
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Død eller levende",
+    "tt": 1004444,
+    "air_date": "1992-02-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Paul Hagen",
+        "nm": 353434,
+        "roles": [
+          {
+            "char": "Kasper Dam",
+            "ch": 230874
+          },
+          {
+            "char": "Foged"
+          },
+          {
+            "char": "Ingers Far"
+          }
+        ]
+      },
+      {
+        "name": "Søren Hauch-Fausbøll",
+        "nm": 369166,
+        "roles": [
+          {
+            "char": "Abel",
+            "ch": 215325
+          }
+        ]
+      },
+      {
+        "name": "Thorbjørn Hummel",
+        "nm": 401858,
+        "roles": [
+          {
+            "char": "Dragon"
+          }
+        ]
+      },
+      {
+        "name": "Henrik Larsen",
+        "nm": 488776,
+        "roles": [
+          {
+            "char": "Hartvig",
+            "ch": 230878
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lehfeldt",
+        "nm": 499600,
+        "roles": [
+          {
+            "char": "Kulsoen",
+            "ch": 209641
+          }
+        ]
+      },
+      {
+        "name": "Michael Lindvad",
+        "nm": 512559,
+        "roles": [
+          {
+            "char": "Kaptajn Kernbok",
+            "ch": 214582
+          }
+        ]
+      },
+      {
+        "name": "Bent Mejding",
+        "nm": 577167,
+        "roles": [
+          {
+            "char": "Oberst Sparre",
+            "ch": 195780
+          }
+        ]
+      },
+      {
+        "name": "Marianne Mortensen",
+        "nm": 607798,
+        "roles": [
+          {
+            "char": "Inger",
+            "ch": 214580
+          }
+        ]
+      },
+      {
+        "name": "Preben Neergaard",
+        "nm": 624253,
+        "roles": [
+          {
+            "char": "Ib's Far"
+          }
+        ]
+      },
+      {
+        "name": "Jens Okking",
+        "nm": 645663,
+        "roles": [
+          {
+            "char": "Manheimer",
+            "ch": 199247
+          }
+        ]
+      },
+      {
+        "name": "Henning Palner",
+        "nm": 658658,
+        "roles": [
+          {
+            "char": "Artillerist"
+          }
+        ]
+      },
+      {
+        "name": "Holger Perfort",
+        "nm": 673670,
+        "roles": [
+          {
+            "char": "Tambouren"
+          }
+        ]
+      },
+      {
+        "name": "Kurt Ravn",
+        "nm": 712513,
+        "roles": [
+          {
+            "char": "Tam",
+            "ch": 195781
+          }
+        ]
+      },
+      {
+        "name": "Asger Reher",
+        "nm": 716815,
+        "roles": [
+          {
+            "char": "Jens Jerntrøje",
+            "ch": 209643
+          }
+        ]
+      },
+      {
+        "name": "David Seedorff",
+        "nm": 2551056,
+        "roles": [
+          {
+            "char": "Bøhm"
+          }
+        ]
+      },
+      {
+        "name": "Bodil Udsen",
+        "nm": 879881,
+        "roles": [
+          {
+            "char": "Ib's Mor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "På glat is",
+    "tt": 1004451,
+    "air_date": "1992-03-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Susanne Breuning",
+        "nm": 108077,
+        "roles": [
+          {
+            "char": "Den sorte dame",
+            "ch": 215318
+          }
+        ]
+      },
+      {
+        "name": "Flemming Enevold",
+        "nm": 256953,
+        "roles": [
+          {
+            "char": "Kai Lykke",
+            "ch": 215315
+          }
+        ]
+      },
+      {
+        "name": "Max Hansen",
+        "nm": 361002,
+        "roles": [
+          {
+            "char": "Svensker"
+          }
+        ]
+      },
+      {
+        "name": "Henning Jensen",
+        "nm": 421473,
+        "roles": [
+          {
+            "char": "Frederik III",
+            "ch": 43457
+          }
+        ]
+      },
+      {
+        "name": "Mads Keiser",
+        "nm": 445168,
+        "roles": [
+          {
+            "char": "Lejesoldat"
+          }
+        ]
+      },
+      {
+        "name": "Buster Larsen",
+        "nm": 488722,
+        "roles": [
+          {
+            "char": "Manfred, Fisker"
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lehfeldt",
+        "nm": 499600,
+        "roles": [
+          {
+            "char": "Kulsoen",
+            "ch": 209641
+          }
+        ]
+      },
+      {
+        "name": "Jens Okking",
+        "nm": 645663,
+        "roles": [
+          {
+            "char": "Manheimer",
+            "ch": 199247
+          }
+        ]
+      },
+      {
+        "name": "Søren Rode",
+        "nm": 734531,
+        "roles": [
+          {
+            "char": "Gabel",
+            "ch": 218733
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Audiensen",
+    "tt": 1004441,
+    "air_date": "1992-03-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Wencke Barfoed",
+        "nm": 54510,
+        "roles": [
+          {
+            "char": "Julie Parsberg",
+            "ch": 214578
+          }
+        ]
+      },
+      {
+        "name": "Flemming Enevold",
+        "nm": 256953,
+        "roles": [
+          {
+            "char": "Kai Lykke",
+            "ch": 215315
+          }
+        ]
+      },
+      {
+        "name": "Jørgen Fønss",
+        "nm": 299758,
+        "roles": [
+          {
+            "char": "Vægter"
+          }
+        ]
+      },
+      {
+        "name": "Henning Jensen",
+        "nm": 421473,
+        "roles": [
+          {
+            "char": "Frederik III",
+            "ch": 43457
+          }
+        ]
+      },
+      {
+        "name": "Henrik Koefoed",
+        "nm": 462724,
+        "roles": [
+          {
+            "char": "Kørbitz"
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lehfeldt",
+        "nm": 499600,
+        "roles": [
+          {
+            "char": "Kulsoen",
+            "ch": 209641
+          }
+        ]
+      },
+      {
+        "name": "Michael Mansdotter",
+        "nm": 543732,
+        "roles": [
+          {
+            "char": "Hellebardist"
+          }
+        ]
+      },
+      {
+        "name": "Søren Rode",
+        "nm": 734531,
+        "roles": [
+          {
+            "char": "Gabel",
+            "ch": 218733
+          }
+        ]
+      },
+      {
+        "name": "Charlotte Sieling",
+        "nm": 797136,
+        "roles": [
+          {
+            "char": "Sofie Amalie",
+            "ch": 195779
+          }
+        ]
+      },
+      {
+        "name": "Niels Sleimann",
+        "nm": 805719,
+        "roles": [
+          {
+            "char": "Kunstmaler"
+          }
+        ]
+      },
+      {
+        "name": "Flemming Sørensen",
+        "nm": 845672,
+        "roles": [
+          {
+            "char": "Kongelig Sekretær",
+            "ch": 215319
+          }
+        ]
+      },
+      {
+        "name": "Birgit Thøt",
+        "nm": 862468,
+        "roles": [
+          {
+            "char": "Hofdame"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Opgøret",
+    "tt": 1004450,
+    "air_date": "1992-03-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Morten Eisner",
+        "nm": 252152,
+        "roles": [
+          {
+            "char": "Lejesoldat"
+          }
+        ]
+      },
+      {
+        "name": "Flemming Enevold",
+        "nm": 256953,
+        "roles": [
+          {
+            "char": "Kai Lykke",
+            "ch": 215315
+          }
+        ]
+      },
+      {
+        "name": "Peter Gilsfort",
+        "nm": 319694,
+        "roles": [
+          {
+            "char": "Lejesoldat"
+          }
+        ]
+      },
+      {
+        "name": "Paul Hagen",
+        "nm": 353434,
+        "roles": [
+          {
+            "char": "Kasper Dam",
+            "ch": 230874
+          },
+          {
+            "char": "Foged"
+          },
+          {
+            "char": "Ingers Far"
+          }
+        ]
+      },
+      {
+        "name": "Henning Jensen",
+        "nm": 421473,
+        "roles": [
+          {
+            "char": "Frederik III",
+            "ch": 43457
+          }
+        ]
+      },
+      {
+        "name": "Lars Lunøe",
+        "nm": 526820,
+        "roles": [
+          {
+            "char": "Ziegler",
+            "ch": 230875
+          }
+        ]
+      },
+      {
+        "name": "Bent Mejding",
+        "nm": 577167,
+        "roles": [
+          {
+            "char": "Oberst Sparre",
+            "ch": 195780
+          }
+        ]
+      },
+      {
+        "name": "Marianne Mortensen",
+        "nm": 607798,
+        "roles": [
+          {
+            "char": "Inger",
+            "ch": 214580
+          }
+        ]
+      },
+      {
+        "name": "Hardy Rafn",
+        "nm": 421466,
+        "roles": [
+          {
+            "char": "Gartner"
+          }
+        ]
+      },
+      {
+        "name": "Ilse Rande",
+        "nm": 709741,
+        "roles": [
+          {
+            "char": "Else Parsberg",
+            "ch": 230879
+          }
+        ]
+      },
+      {
+        "name": "Søren Rode",
+        "nm": 734531,
+        "roles": [
+          {
+            "char": "Gabel",
+            "ch": 218733
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "En spådom går i opfyldelse",
+    "tt": 1004447,
+    "air_date": "1992-03-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Søren Pilmark",
+        "nm": 683587,
+        "roles": [
+          {
+            "char": "Svend",
+            "ch": 194359
+          }
+        ]
+      },
+      {
+        "name": "Per Pallesen",
+        "nm": 657866,
+        "roles": [
+          {
+            "char": "Ib",
+            "ch": 195777
+          }
+        ]
+      },
+      {
+        "name": "Wencke Barfoed",
+        "nm": 54510,
+        "roles": [
+          {
+            "char": "Julie Parsberg",
+            "ch": 214578
+          }
+        ]
+      },
+      {
+        "name": "Adam Brix",
+        "nm": 110249,
+        "roles": [
+          {
+            "char": "Palle",
+            "ch": 209644,
+            "as Adam Schæchter": true
+          }
+        ]
+      },
+      {
+        "name": "Jarl Forsmann",
+        "nm": 286892,
+        "roles": [
+          {
+            "char": "Ving",
+            "ch": 230877
+          }
+        ]
+      },
+      {
+        "name": "Benedikte Hansen",
+        "nm": 360678,
+        "roles": [
+          {
+            "char": "Ane Marie",
+            "ch": 195778
+          }
+        ]
+      },
+      {
+        "name": "Søren Hauch-Fausbøll",
+        "nm": 369166,
+        "roles": [
+          {
+            "char": "Abel",
+            "ch": 215325
+          }
+        ]
+      },
+      {
+        "name": "Solbjørg Højfeldt",
+        "nm": 406056,
+        "roles": [
+          {
+            "char": "Elsebeth Buchwald",
+            "ch": 230876
+          }
+        ]
+      },
+      {
+        "name": "Henrik Larsen",
+        "nm": 488776,
+        "roles": [
+          {
+            "char": "Hartvig",
+            "ch": 230878
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Lehfeldt",
+        "nm": 499600,
+        "roles": [
+          {
+            "char": "Kulsoen",
+            "ch": 209641
+          }
+        ]
+      },
+      {
+        "name": "Jens Okking",
+        "nm": 645663,
+        "roles": [
+          {
+            "char": "Manheimer",
+            "ch": 199247
+          }
+        ]
+      },
+      {
+        "name": "Ilse Rande",
+        "nm": 709741,
+        "roles": [
+          {
+            "char": "Else Parsberg",
+            "ch": 230879
+          }
+        ]
+      },
+      {
+        "name": "Kurt Ravn",
+        "nm": 712513,
+        "roles": [
+          {
+            "char": "Tam",
+            "ch": 195781
+          }
+        ]
+      },
+      {
+        "name": "Asger Reher",
+        "nm": 716815,
+        "roles": [
+          {
+            "char": "Jens Jerntrøje",
+            "ch": 209643
+          }
+        ]
+      },
+      {
+        "name": "Morten Suurballe",
+        "nm": 840436,
+        "roles": [
+          {
+            "char": "Oluf Tange"
+          }
+        ]
+      }
+    ]
+  }
+]

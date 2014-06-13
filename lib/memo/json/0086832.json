@@ -1,0 +1,1039 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 1171212,
+    "air_date": "1984-03-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Paul Rodriguez",
+        "nm": 735467,
+        "roles": [
+          {
+            "char": "Paul Rivera",
+            "ch": 72402
+          }
+        ]
+      },
+      {
+        "name": "Hector Elizondo",
+        "nm": 1185,
+        "roles": [
+          {
+            "char": "Jose Sanchez",
+            "ch": 72403
+          }
+        ]
+      },
+      {
+        "name": "Joe Santos",
+        "nm": 764134,
+        "roles": [
+          {
+            "char": "Domingo Rivera",
+            "ch": 251960
+          }
+        ]
+      },
+      {
+        "name": "Alma Cuervo",
+        "nm": 191119,
+        "roles": [
+          {
+            "char": "Sylvia Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Martha Velez",
+        "nm": 892474,
+        "roles": [
+          {
+            "char": "Lucia Rivera Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Arnaldo Santana",
+        "nm": 763274,
+        "roles": [
+          {
+            "char": "Hector Del Gato",
+            "ch": 251961
+          }
+        ]
+      },
+      {
+        "name": "Maria Richwine",
+        "nm": 600233,
+        "roles": [
+          {
+            "char": "Carmen Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Bert Rosario",
+        "nm": 741034,
+        "roles": [
+          {
+            "char": "Manuel Rivera",
+            "ch": 251963
+          }
+        ]
+      },
+      {
+        "name": "Katy Jurado",
+        "nm": 432827,
+        "roles": [
+          {
+            "char": "Rosa Maria Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Edie Marie Rubio",
+        "nm": 748318,
+        "roles": [
+          {
+            "char": "Linda Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Torres",
+        "nm": 868564,
+        "roles": [
+          {
+            "char": "Nicholas Rivera",
+            "ch": 251965,
+            "as Antonio Torres": true
+          }
+        ]
+      },
+      {
+        "name": "Claudia Gonzáles",
+        "nm": 327845,
+        "roles": [
+          {
+            "char": "Anna Maria Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Marta Yolanda González",
+        "nm": 1537914,
+        "roles": [
+          {
+            "char": "Susanna Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Mario Lopez",
+        "nm": 530249,
+        "roles": [
+          {
+            "char": "Tomas Del Gato",
+            "ch": 251962,
+            "as Mario López": true
+          }
+        ]
+      },
+      {
+        "name": "Beto Lovato",
+        "nm": 522257,
+        "roles": [
+          {
+            "char": "Mario Del Gato",
+            "ch": 251964
+          }
+        ]
+      },
+      {
+        "name": "Michelle Smith",
+        "nm": 4355917,
+        "roles": [
+          {
+            "char": "Elena Del Gato"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Big Mouth",
+    "tt": 779718,
+    "air_date": "1984-03-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Paul Rodriguez",
+        "nm": 735467,
+        "roles": [
+          {
+            "char": "Paul Rivera",
+            "ch": 72402
+          }
+        ]
+      },
+      {
+        "name": "Hector Elizondo",
+        "nm": 1185,
+        "roles": [
+          {
+            "char": "Jose Sanchez",
+            "ch": 72403
+          },
+          {
+            "char": "Shapiro"
+          }
+        ]
+      },
+      {
+        "name": "Joe Santos",
+        "nm": 764134,
+        "roles": [
+          {
+            "char": "Domingo Rivera",
+            "ch": 251960
+          }
+        ]
+      },
+      {
+        "name": "Alma Cuervo",
+        "nm": 191119,
+        "roles": [
+          {
+            "char": "Sylvia Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Martha Velez",
+        "nm": 892474,
+        "roles": [
+          {
+            "char": "Lucia Rivera Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Arnaldo Santana",
+        "nm": 763274,
+        "roles": [
+          {
+            "char": "Hector Del Gato",
+            "ch": 251961
+          }
+        ]
+      },
+      {
+        "name": "Maria Richwine",
+        "nm": 600233,
+        "roles": [
+          {
+            "char": "Carmen Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Bert Rosario",
+        "nm": 741034,
+        "roles": [
+          {
+            "char": "Manuel Rivera",
+            "ch": 251963
+          }
+        ]
+      },
+      {
+        "name": "Katy Jurado",
+        "nm": 432827,
+        "roles": [
+          {
+            "char": "Rosa Maria Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Edie Marie Rubio",
+        "nm": 748318,
+        "roles": [
+          {
+            "char": "Linda Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Torres",
+        "nm": 868564,
+        "roles": [
+          {
+            "char": "Nicholas Rivera",
+            "ch": 251965,
+            "as Antonio Torres": true
+          }
+        ]
+      },
+      {
+        "name": "Claudia Gonzáles",
+        "nm": 327845,
+        "roles": [
+          {
+            "char": "Anna Maria Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Marta Yolanda González",
+        "nm": 1537914,
+        "roles": [
+          {
+            "char": "Susanna Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Mario Lopez",
+        "nm": 530249,
+        "roles": [
+          {
+            "char": "Tomas Del Gato",
+            "ch": 251962,
+            "as Mario López": true
+          }
+        ]
+      },
+      {
+        "name": "Beto Lovato",
+        "nm": 522257,
+        "roles": [
+          {
+            "char": "Mario Del Gato",
+            "ch": 251964
+          }
+        ]
+      },
+      {
+        "name": "Michelle Smith",
+        "nm": 4355917,
+        "roles": [
+          {
+            "char": "Elena Del Gato"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "My Son, the Gringo",
+    "tt": 755346,
+    "air_date": "1984-03-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Paul Rodriguez",
+        "nm": 735467,
+        "roles": [
+          {
+            "char": "Paul Rivera",
+            "ch": 72402
+          }
+        ]
+      },
+      {
+        "name": "Hector Elizondo",
+        "nm": 1185,
+        "roles": [
+          {
+            "char": "Jose Sanchez",
+            "ch": 72403
+          },
+          {
+            "char": "Shapiro"
+          }
+        ]
+      },
+      {
+        "name": "Joe Santos",
+        "nm": 764134,
+        "roles": [
+          {
+            "char": "Domingo Rivera",
+            "ch": 251960
+          }
+        ]
+      },
+      {
+        "name": "Alma Cuervo",
+        "nm": 191119,
+        "roles": [
+          {
+            "char": "Sylvia Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Martha Velez",
+        "nm": 892474,
+        "roles": [
+          {
+            "char": "Lucia Rivera Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Arnaldo Santana",
+        "nm": 763274,
+        "roles": [
+          {
+            "char": "Hector Del Gato",
+            "ch": 251961
+          }
+        ]
+      },
+      {
+        "name": "Maria Richwine",
+        "nm": 600233,
+        "roles": [
+          {
+            "char": "Carmen Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Bert Rosario",
+        "nm": 741034,
+        "roles": [
+          {
+            "char": "Manuel Rivera",
+            "ch": 251963
+          }
+        ]
+      },
+      {
+        "name": "Katy Jurado",
+        "nm": 432827,
+        "roles": [
+          {
+            "char": "Rosa Maria Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Edie Marie Rubio",
+        "nm": 748318,
+        "roles": [
+          {
+            "char": "Linda Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Torres",
+        "nm": 868564,
+        "roles": [
+          {
+            "char": "Nicholas Rivera",
+            "ch": 251965,
+            "as Antonio Torres": true
+          }
+        ]
+      },
+      {
+        "name": "Claudia Gonzáles",
+        "nm": 327845,
+        "roles": [
+          {
+            "char": "Anna Maria Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Marta Yolanda González",
+        "nm": 1537914,
+        "roles": [
+          {
+            "char": "Susanna Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Beto Lovato",
+        "nm": 522257,
+        "roles": [
+          {
+            "char": "Mario Del Gato",
+            "ch": 251964
+          }
+        ]
+      },
+      {
+        "name": "Michelle Smith",
+        "nm": 4355917,
+        "roles": [
+          {
+            "char": "Elena Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Bea Arthur",
+        "nm": 37735,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mario Lopez",
+        "nm": 530249,
+        "roles": [
+          {
+            "char": "Tomas Del Gato",
+            "ch": 251962,
+            "as Mario López": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Presidential Joke Teller",
+    "tt": 1181782,
+    "air_date": "1984-03-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Paul Rodriguez",
+        "nm": 735467,
+        "roles": [
+          {
+            "char": "Paul Rivera",
+            "ch": 72402
+          }
+        ]
+      },
+      {
+        "name": "Hector Elizondo",
+        "nm": 1185,
+        "roles": [
+          {
+            "char": "Jose Sanchez",
+            "ch": 72403
+          },
+          {
+            "char": "Shapiro"
+          }
+        ]
+      },
+      {
+        "name": "Joe Santos",
+        "nm": 764134,
+        "roles": [
+          {
+            "char": "Domingo Rivera",
+            "ch": 251960
+          }
+        ]
+      },
+      {
+        "name": "Alma Cuervo",
+        "nm": 191119,
+        "roles": [
+          {
+            "char": "Sylvia Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Martha Velez",
+        "nm": 892474,
+        "roles": [
+          {
+            "char": "Lucia Rivera Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Arnaldo Santana",
+        "nm": 763274,
+        "roles": [
+          {
+            "char": "Hector Del Gato",
+            "ch": 251961
+          }
+        ]
+      },
+      {
+        "name": "Maria Richwine",
+        "nm": 600233,
+        "roles": [
+          {
+            "char": "Carmen Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Bert Rosario",
+        "nm": 741034,
+        "roles": [
+          {
+            "char": "Manuel Rivera",
+            "ch": 251963
+          }
+        ]
+      },
+      {
+        "name": "Katy Jurado",
+        "nm": 432827,
+        "roles": [
+          {
+            "char": "Rosa Maria Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Edie Marie Rubio",
+        "nm": 748318,
+        "roles": [
+          {
+            "char": "Linda Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Torres",
+        "nm": 868564,
+        "roles": [
+          {
+            "char": "Nicholas Rivera",
+            "ch": 251965,
+            "as Antonio Torres": true
+          }
+        ]
+      },
+      {
+        "name": "Claudia Gonzáles",
+        "nm": 327845,
+        "roles": [
+          {
+            "char": "Anna Maria Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Marta Yolanda González",
+        "nm": 1537914,
+        "roles": [
+          {
+            "char": "Susanna Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Mario Lopez",
+        "nm": 530249,
+        "roles": [
+          {
+            "char": "Tomas Del Gato",
+            "ch": 251962,
+            "as Mario López": true
+          }
+        ]
+      },
+      {
+        "name": "Beto Lovato",
+        "nm": 522257,
+        "roles": [
+          {
+            "char": "Mario Del Gato",
+            "ch": 251964
+          }
+        ]
+      },
+      {
+        "name": "Michelle Smith",
+        "nm": 4355917,
+        "roles": [
+          {
+            "char": "Elena Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "James Victor",
+        "nm": 896116,
+        "roles": [
+          {
+            "char": "Officer Hernandez"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "The Whole Enchilada",
+    "tt": 1181783,
+    "air_date": "1984-04-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Paul Rodriguez",
+        "nm": 735467,
+        "roles": [
+          {
+            "char": "Paul Rivera",
+            "ch": 72402
+          }
+        ]
+      },
+      {
+        "name": "Hector Elizondo",
+        "nm": 1185,
+        "roles": [
+          {
+            "char": "Jose Sanchez",
+            "ch": 72403
+          }
+        ]
+      },
+      {
+        "name": "Joe Santos",
+        "nm": 764134,
+        "roles": [
+          {
+            "char": "Domingo Rivera",
+            "ch": 251960
+          }
+        ]
+      },
+      {
+        "name": "Alma Cuervo",
+        "nm": 191119,
+        "roles": [
+          {
+            "char": "Sylvia Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Martha Velez",
+        "nm": 892474,
+        "roles": [
+          {
+            "char": "Lucia Rivera Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Arnaldo Santana",
+        "nm": 763274,
+        "roles": [
+          {
+            "char": "Hector Del Gato",
+            "ch": 251961
+          }
+        ]
+      },
+      {
+        "name": "Maria Richwine",
+        "nm": 600233,
+        "roles": [
+          {
+            "char": "Carmen Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Bert Rosario",
+        "nm": 741034,
+        "roles": [
+          {
+            "char": "Manuel Rivera",
+            "ch": 251963
+          }
+        ]
+      },
+      {
+        "name": "Katy Jurado",
+        "nm": 432827,
+        "roles": [
+          {
+            "char": "Rosa Maria Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Edie Marie Rubio",
+        "nm": 748318,
+        "roles": [
+          {
+            "char": "Linda Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Torres",
+        "nm": 868564,
+        "roles": [
+          {
+            "char": "Nicholas Rivera",
+            "ch": 251965,
+            "as Antonio Torres": true
+          }
+        ]
+      },
+      {
+        "name": "Claudia Gonzáles",
+        "nm": 327845,
+        "roles": [
+          {
+            "char": "Anna Maria Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Marta Yolanda González",
+        "nm": 1537914,
+        "roles": [
+          {
+            "char": "Susanna Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Mario Lopez",
+        "nm": 530249,
+        "roles": [
+          {
+            "char": "Tomas Del Gato",
+            "ch": 251962,
+            "as Mario López": true
+          }
+        ]
+      },
+      {
+        "name": "Beto Lovato",
+        "nm": 522257,
+        "roles": [
+          {
+            "char": "Mario Del Gato",
+            "ch": 251964
+          }
+        ]
+      },
+      {
+        "name": "Michelle Smith",
+        "nm": 4355917,
+        "roles": [
+          {
+            "char": "Elena Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Danny Mora",
+        "nm": 602267,
+        "roles": [
+          {
+            "char": "Medrano"
+          }
+        ]
+      },
+      {
+        "name": "Lupe Ontiveros",
+        "nm": 648913,
+        "roles": [
+          {
+            "char": "Mrs. Alvarez"
+          }
+        ]
+      },
+      {
+        "name": "Carmen Zapata",
+        "nm": 953175,
+        "roles": [
+          {
+            "char": "Dolores"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "The Woman Who Came to Dinner",
+    "tt": 1181784,
+    "air_date": "1984-04-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Paul Rodriguez",
+        "nm": 735467,
+        "roles": [
+          {
+            "char": "Paul Rivera",
+            "ch": 72402
+          }
+        ]
+      },
+      {
+        "name": "Hector Elizondo",
+        "nm": 1185,
+        "roles": [
+          {
+            "char": "Jose Sanchez",
+            "ch": 72403
+          }
+        ]
+      },
+      {
+        "name": "Joe Santos",
+        "nm": 764134,
+        "roles": [
+          {
+            "char": "Domingo Rivera",
+            "ch": 251960
+          }
+        ]
+      },
+      {
+        "name": "Alma Cuervo",
+        "nm": 191119,
+        "roles": [
+          {
+            "char": "Sylvia Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Martha Velez",
+        "nm": 892474,
+        "roles": [
+          {
+            "char": "Lucia Rivera Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Arnaldo Santana",
+        "nm": 763274,
+        "roles": [
+          {
+            "char": "Hector Del Gato",
+            "ch": 251961
+          }
+        ]
+      },
+      {
+        "name": "Maria Richwine",
+        "nm": 600233,
+        "roles": [
+          {
+            "char": "Carmen Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Bert Rosario",
+        "nm": 741034,
+        "roles": [
+          {
+            "char": "Manuel Rivera",
+            "ch": 251963
+          }
+        ]
+      },
+      {
+        "name": "Katy Jurado",
+        "nm": 432827,
+        "roles": [
+          {
+            "char": "Rosa Maria Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Edie Marie Rubio",
+        "nm": 748318,
+        "roles": [
+          {
+            "char": "Linda Rivera"
+          }
+        ]
+      },
+      {
+        "name": "Antonio Torres",
+        "nm": 868564,
+        "roles": [
+          {
+            "char": "Nicholas Rivera",
+            "ch": 251965,
+            "as Antonio Torres": true
+          }
+        ]
+      },
+      {
+        "name": "Claudia Gonzáles",
+        "nm": 327845,
+        "roles": [
+          {
+            "char": "Anna Maria Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Marta Yolanda González",
+        "nm": 1537914,
+        "roles": [
+          {
+            "char": "Susanna Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Mario Lopez",
+        "nm": 530249,
+        "roles": [
+          {
+            "char": "Tomas Del Gato",
+            "ch": 251962,
+            "as Mario López": true
+          }
+        ]
+      },
+      {
+        "name": "Beto Lovato",
+        "nm": 522257,
+        "roles": [
+          {
+            "char": "Mario Del Gato",
+            "ch": 251964
+          }
+        ]
+      },
+      {
+        "name": "Michelle Smith",
+        "nm": 4355917,
+        "roles": [
+          {
+            "char": "Elena Del Gato"
+          }
+        ]
+      },
+      {
+        "name": "Ada Maris",
+        "nm": 548040,
+        "roles": [
+
+        ]
+      }
+    ]
+  }
+]

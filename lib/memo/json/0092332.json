@@ -1,0 +1,2611 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 539495,
+    "air_date": "1987-03-20",
+    "description": "Prince Charming, Snow White and their family find themselves in the 20th century and have problems trying to adapt to the modern world.",
+    "cast": [
+      {
+        "name": "Caitlin O'Heaney",
+        "nm": 641378,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Sam Anderson",
+        "nm": 27402,
+        "roles": [
+          {
+            "char": "Dr. Peters"
+          }
+        ]
+      },
+      {
+        "name": "Phyllis Katz",
+        "nm": 441820,
+        "roles": [
+          {
+            "char": "Real Estate Agent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Mirror Cracked",
+    "tt": 539500,
+    "air_date": "1987-03-27",
+    "description": "Eric and Snow throw a party in an attempt to make new friends. Annoyed by their reluctance to invite her, Lillian uses her magic to spoil the festivities, but it results in her own beloved Magic Mirror getting broken.",
+    "cast": [
+      {
+        "name": "Caitlin O'Heaney",
+        "nm": 641378,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Roy Johns",
+        "nm": 3141028,
+        "roles": [
+          {
+            "char": "The Mums",
+            "Juggler": true
+          }
+        ]
+      },
+      {
+        "name": "Albie Selznick",
+        "nm": 783675,
+        "roles": [
+          {
+            "char": "The Mums",
+            "Juggler": true
+          }
+        ]
+      },
+      {
+        "name": "Nathan Stein",
+        "nm": 825590,
+        "roles": [
+          {
+            "char": "The Mums",
+            "Juggler": true
+          }
+        ]
+      },
+      {
+        "name": "Daniel Zacapa",
+        "nm": 669254,
+        "roles": [
+          {
+            "char": "Delivery Man",
+            "as Garret Pearson": true
+          }
+        ]
+      },
+      {
+        "name": "Charles Shapiro",
+        "nm": 788478,
+        "roles": [
+          {
+            "char": "The Herald"
+          }
+        ]
+      },
+      {
+        "name": "Tyen",
+        "nm": 6164420,
+        "roles": [
+          {
+            "char": "The Mime"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Modern Romance",
+    "tt": 539494,
+    "air_date": "1987-04-03",
+    "description": "Luther and Lillian make a bet that they can get a better date. While Luther finds an attractive girl, Lillian chooses to drag a bum off the street and makes a potion to turn him into a hunk.",
+    "cast": [
+      {
+        "name": "Caitlin O'Heaney",
+        "nm": 641378,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Rebeca Arthur",
+        "nm": 37813,
+        "roles": [
+          {
+            "char": "Rhonda"
+          }
+        ]
+      },
+      {
+        "name": "Carmen Filpi",
+        "nm": 277300,
+        "roles": [
+          {
+            "char": "The Bum"
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Lionel Davenport III"
+          }
+        ]
+      },
+      {
+        "name": "Theresa Hayes",
+        "nm": 371253,
+        "roles": [
+          {
+            "char": "Female Mirror"
+          }
+        ]
+      },
+      {
+        "name": "Gerald Jann",
+        "nm": 417791,
+        "roles": [
+          {
+            "char": "Chinese Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Rip Taylor",
+        "nm": 853067,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Charming's Buy a Car",
+    "tt": 539496,
+    "air_date": "1987-04-10",
+    "description": "For their 1010th anniversary, Eric buys Snow a lemon of a car from a sleazy used car dealer. Meanwhile, the Mirror tries to coax Lillian into taking a trip to Las Vegas.",
+    "cast": [
+      {
+        "name": "Caitlin O'Heaney",
+        "nm": 641378,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Jim Doughan",
+        "nm": 234810,
+        "roles": [
+          {
+            "char": "Salesman"
+          }
+        ]
+      },
+      {
+        "name": "Casey Sander",
+        "nm": 761389,
+        "roles": [
+          {
+            "char": "Abraham \"Honest Abe\" Jones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Incredible Shrinking Prince",
+    "tt": 773841,
+    "air_date": "1987-04-17",
+    "description": "Attempting to find a way to earn money, Lillian concocts a diet potion, but it turns out that it is actually a \"reducing\" formula. Eric inadvertently drinks it and shrinks to 12 inches high.",
+    "cast": [
+      {
+        "name": "Caitlin O'Heaney",
+        "nm": 641378,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "An 80's Kind of Prince",
+    "tt": 539488,
+    "air_date": "1987-04-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Caitlin O'Heaney",
+        "nm": 641378,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Tim Choate",
+        "nm": 158678,
+        "roles": [
+          {
+            "char": "Delivery Man"
+          }
+        ]
+      },
+      {
+        "name": "Mary Kane",
+        "nm": 437389,
+        "roles": [
+          {
+            "char": "Virginia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Lillian Loses the Kids",
+    "tt": 539492,
+    "air_date": "1987-09-17",
+    "description": "To keep them quiet, Lillian turns the children into mannequins, but she's unable to change them back.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Mandley",
+        "nm": 541849,
+        "roles": [
+          {
+            "char": "Security Guard"
+          }
+        ]
+      },
+      {
+        "name": "Irene Roseen",
+        "nm": 741788,
+        "roles": [
+          {
+            "char": "Woman in scarf"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Winant",
+        "nm": 934522,
+        "roles": [
+          {
+            "char": "Window Dresser"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "The Charmings Go Plastic",
+    "tt": 539498,
+    "air_date": "1987-09-24",
+    "description": "When Snow gets a credit card the family goes on a shopping spree not realizing they have to pay. And when the bill comes they're shocked at how much it it. Snow and Eric have a big fight. Lillian magically gets her own credit card but because of the information she placed on it, she is audited by the IRS.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Alex Henteloff",
+        "nm": 378261,
+        "roles": [
+          {
+            "char": "IRS Agent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "The Witch Is of Van Oaks",
+    "tt": 539501,
+    "air_date": "1987-10-01",
+    "description": "Snow and Eric set up Lillian with a new neighbor, but they quickly come to realize that he's actually the devil. Meanwhile, Luthor gets an ego boost regarding his short stature from the children.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "John Astin",
+        "nm": 40014,
+        "roles": [
+          {
+            "char": "Jack"
+          },
+          {
+            "char": "The Devil",
+            "ch": 121748
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "The Fish Story",
+    "tt": 773840,
+    "air_date": "1987-10-08",
+    "description": "After Lilian uses magic to restore a broken lamp, the children decide to use her spell-book to revive their recently deceased pet fish. Meanwhile, Eric faces Snow's wrath when he misses her wildlife preservation meeting.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Cindy's Back in Town",
+    "tt": 539490,
+    "air_date": "1987-10-15",
+    "description": "Lillian's attempt to zap herself back into the Enchanted Forest goes awry, landing Cinderella in the Charming home. Cinderella's arrival doesn't bode well with Snow -- particularly when \"Cindy\" makes a play for Eric.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Billie Bird",
+        "nm": 83345,
+        "roles": [
+          {
+            "char": "Fairy Godmother",
+            "ch": 33662
+          }
+        ]
+      },
+      {
+        "name": "Kim Johnston Ulrich",
+        "nm": 5514,
+        "roles": [
+          {
+            "char": "Cinderella",
+            "ch": 416246,
+            "as Kim Ulrich": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "A Charming Halloween",
+    "tt": 539487,
+    "air_date": "1987-10-29",
+    "description": "Embarassed by his family's antics, Thomas neglects to tell Eric about a father/son car wash. But the family causes even more humiliation for the lad when Eric insists on hosting the neighborhood Halloween party.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Eric Fry",
+        "nm": 296744,
+        "roles": [
+          {
+            "char": "Kid"
+          }
+        ]
+      },
+      {
+        "name": "Jacob Kenner",
+        "nm": 448417,
+        "roles": [
+          {
+            "char": "Donny Miller"
+          }
+        ]
+      },
+      {
+        "name": "Jenny Lewis",
+        "nm": 507343,
+        "roles": [
+          {
+            "char": "Sara"
+          }
+        ]
+      },
+      {
+        "name": "Brandon Maciel",
+        "nm": 1528053,
+        "roles": [
+          {
+            "char": "Robin Hood",
+            "ch": 3908
+          }
+        ]
+      },
+      {
+        "name": "Allen Williams",
+        "nm": 930006,
+        "roles": [
+          {
+            "char": "Sara's Father"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Trading Places",
+    "tt": 539503,
+    "air_date": "1987-11-12",
+    "description": "Luthor expresses his envy of Eric's looks, so Lillian casts a spell to make the dwarf as handsome as a prince. The catch is that Luthor and Eric switch bodies and can only return to normal if Luthor wishes -- and sincerely means it.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Todd Bryant",
+        "nm": 117245,
+        "roles": [
+          {
+            "char": "Guy"
+          }
+        ]
+      },
+      {
+        "name": "Jill Carroll",
+        "nm": 140859,
+        "roles": [
+          {
+            "char": "Sandy"
+          }
+        ]
+      },
+      {
+        "name": "John Matuszak",
+        "nm": 560596,
+        "roles": [
+          {
+            "char": "Rock"
+          }
+        ]
+      },
+      {
+        "name": "Deborah Tranelli",
+        "nm": 870956,
+        "roles": [
+          {
+            "char": "Cynthia Medford"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Lillian Loses Her Powers",
+    "tt": 539491,
+    "air_date": "1987-11-19",
+    "description": "As a result of Cory passing the flu to the family, Eric becomes a hypochondriac and Lillian loses her magic powers (and as a non-witch, she has to say goodbye to her Magic Mirror).",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Bernie Kopell",
+        "nm": 465728,
+        "roles": [
+          {
+            "char": "Dr. Roland"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "The Charmings and the Beanstalk",
+    "tt": 539499,
+    "air_date": "1987-11-26",
+    "description": "Lillian throws out some beans and they sprout into a beanstalk and a giant comes down. When they chop the beanstalk down the giant finds himself stuck. At the same time Snow and Eric are having problems. And the giant takes a liking to Lillian. Eventually the giant's wife follows him but he refuses to go back with her.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Teresa Ganzel",
+        "nm": 304679,
+        "roles": [
+          {
+            "char": "Alice Giant"
+          }
+        ]
+      },
+      {
+        "name": "Walter Olkewicz",
+        "nm": 647288,
+        "roles": [
+          {
+            "char": "Henry Giant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Yes, Lillian, There Is a Santa Claus",
+    "tt": 539504,
+    "air_date": "1987-12-17",
+    "description": "Lillian tries to ruin Christmas by telling the children that there is no Santa Claus but gets a shock when Santa does arrive at the Charming house only to find no \"believers\" left there. Since Santa only delivers gifts to true believer, Lillian must use her powers to try to correct the damage she has done.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Cal Gibson",
+        "nm": 316878,
+        "roles": [
+          {
+            "char": "Plumber"
+          }
+        ]
+      },
+      {
+        "name": "Jacob Kenner",
+        "nm": 448417,
+        "roles": [
+          {
+            "char": "Donny Miller"
+          }
+        ]
+      },
+      {
+        "name": "Brandon Maciel",
+        "nm": 1528053,
+        "roles": [
+          {
+            "char": "Robin",
+            "ch": 3908
+          }
+        ]
+      },
+      {
+        "name": "Tony Steedman",
+        "nm": 824364,
+        "roles": [
+          {
+            "char": "Santa Claus",
+            "ch": 4985
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "The Charmings Get Robbed",
+    "tt": 539497,
+    "air_date": "1988-01-07",
+    "description": "After two teen crooks rob the Charmings', a Eric over-zealously protects their home. Meanwhile, Lillian tries to track down the family's stolen possessions, but finds it difficult, having lost her spell-book and beloved Magic Mirror in the robbery.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Norman Lee Harris",
+        "nm": 365160,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Zero Hubbard",
+        "nm": 399241,
+        "roles": [
+          {
+            "char": "Youth"
+          }
+        ]
+      },
+      {
+        "name": "Billy Jayne",
+        "nm": 419747,
+        "roles": [
+          {
+            "char": "Al",
+            "as Bill Jacoby": true
+          }
+        ]
+      },
+      {
+        "name": "Sean Stanek",
+        "nm": 822119,
+        "roles": [
+          {
+            "char": "Petey",
+            "as Sean Faro": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "Birth of a Salesman",
+    "tt": 539489,
+    "air_date": "1988-01-14",
+    "description": "Eric gets a job working as a salesman for Donny. And on his first day, he's just too nice that Donny tells him, he better shape up. So before going Snow wishes that Eric wasn't so nice so Lillian casts a spell that turns Eric into a crude salesman.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Burr",
+        "nm": 123015,
+        "roles": [
+          {
+            "char": "Timid Man"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Dobkin",
+        "nm": 229697,
+        "roles": [
+          {
+            "char": "Mr. Reynolds",
+            "as Larry Dobkin": true
+          }
+        ]
+      },
+      {
+        "name": "Steven Eckholdt",
+        "nm": 248692,
+        "roles": [
+          {
+            "char": "Mike",
+            "as Steve Eckholdt": true
+          }
+        ]
+      },
+      {
+        "name": "Roger Hampton",
+        "nm": 359047,
+        "roles": [
+          {
+            "char": "Customer"
+          }
+        ]
+      },
+      {
+        "name": "Robin Leach",
+        "nm": 494858,
+        "roles": [
+          {
+            "char": "Himself",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Siobhan McCafferty",
+        "nm": 564532,
+        "roles": [
+          {
+            "char": "Karen"
+          }
+        ]
+      },
+      {
+        "name": "Don Stark",
+        "nm": 823155,
+        "roles": [
+          {
+            "char": "Marty"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "The Man Who Came to Dinner",
+    "tt": 773842,
+    "air_date": "1988-01-21",
+    "description": "Lillian puts a spell on Eric to make him tell the absolute truth. Meanwhile, Don winds up rooming with the Charmings after he and Sally have a fight; and Lillian transcribes all of her spells into her computer.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "The Woman of His Dreams",
+    "tt": 539502,
+    "air_date": "1988-02-11",
+    "description": "Eric denies that he ever fantasizes about other women, so Lillian puts a spell on him to make his fantasy woman appear whenever he thinks of her.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Jacob Kenner",
+        "nm": 448417,
+        "roles": [
+          {
+            "char": "Donny Miller"
+          }
+        ]
+      },
+      {
+        "name": "Jackie Swanson",
+        "nm": 841806,
+        "roles": [
+          {
+            "char": "Candy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E15",
+    "title": "Lillian's Protege",
+    "tt": 539493,
+    "air_date": "1988-01-28",
+    "description": "Amused by a devious shoplifter, Lillian takes her in -- but has a change of heart when the girl sets up Thomas to get caught stealing. Meanwhile Snow and Eric question their parenting skills in the modern world.",
+    "cast": [
+      {
+        "name": "Christopher Rich",
+        "nm": 723621,
+        "roles": [
+          {
+            "char": "Eric Charming"
+          }
+        ]
+      },
+      {
+        "name": "Carol Huston",
+        "nm": 404108,
+        "roles": [
+          {
+            "char": "Snow White Charming",
+            "ch": 26716
+          }
+        ]
+      },
+      {
+        "name": "Judy Parfitt",
+        "nm": 661407,
+        "roles": [
+          {
+            "char": "Queen Lillian White",
+            "ch": 47796
+          }
+        ]
+      },
+      {
+        "name": "Cork Hubbert",
+        "nm": 399155,
+        "roles": [
+          {
+            "char": "Luther",
+            "ch": 408108
+          }
+        ]
+      },
+      {
+        "name": "Brandon Call",
+        "nm": 130085,
+        "roles": [
+          {
+            "char": "Thomas Charming",
+            "ch": 59439
+          }
+        ]
+      },
+      {
+        "name": "Garette Ratliff Henson",
+        "nm": 378207,
+        "roles": [
+          {
+            "char": "Cory Charming",
+            "ch": 75669,
+            "as Garette Ratliff": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Don 'King of Carpets' Miller",
+            "ch": 75671
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Sally Miller",
+            "ch": 208664
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "The Mirror",
+            "ch": 2013
+          }
+        ]
+      },
+      {
+        "name": "Viveka Davis",
+        "nm": 205630,
+        "roles": [
+          {
+            "char": "Amy"
+          }
+        ]
+      },
+      {
+        "name": "Judy Kain",
+        "nm": 435071,
+        "roles": [
+          {
+            "char": "Saleslady"
+          }
+        ]
+      },
+      {
+        "name": "Harry Woolf",
+        "nm": 941145,
+        "roles": [
+          {
+            "char": "Security Guard"
+          }
+        ]
+      }
+    ]
+  }
+]

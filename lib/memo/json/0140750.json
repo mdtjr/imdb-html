@@ -1,0 +1,948 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Young Man in a Hurry",
+    "tt": 1615686,
+    "air_date": "1998-02-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jonathan Cake",
+        "nm": 129160,
+        "roles": [
+          {
+            "char": "Oswald 'Tom' Mosley",
+            "ch": 227430
+          }
+        ]
+      },
+      {
+        "name": "Jemma Redgrave",
+        "nm": 714876,
+        "roles": [
+          {
+            "char": "Cimmie Curzon"
+          }
+        ]
+      },
+      {
+        "name": "Windsor Davies",
+        "nm": 204034,
+        "roles": [
+          {
+            "char": "David Lloyd George",
+            "ch": 303226
+          }
+        ]
+      },
+      {
+        "name": "Hugh Bonneville",
+        "nm": 95017,
+        "roles": [
+          {
+            "char": "Bob Boothby",
+            "ch": 227431
+          }
+        ]
+      },
+      {
+        "name": "Robert Lang",
+        "nm": 485894,
+        "roles": [
+          {
+            "char": "Lord Curzon",
+            "ch": 44189
+          }
+        ]
+      },
+      {
+        "name": "Ralph Riach",
+        "nm": 722661,
+        "roles": [
+          {
+            "char": "Ramsay MacDonald",
+            "ch": 33064
+          }
+        ]
+      },
+      {
+        "name": "Philip Dunbar",
+        "nm": 241865,
+        "roles": [
+          {
+            "char": "Philip Sassoon"
+          }
+        ]
+      },
+      {
+        "name": "Debora Weston",
+        "nm": 922937,
+        "roles": [
+          {
+            "char": "Maxine Elliott"
+          }
+        ]
+      },
+      {
+        "name": "Paul Jerricho",
+        "nm": 422056,
+        "roles": [
+          {
+            "char": "Harold Merrick",
+            "as Paul Jerrico": true
+          }
+        ]
+      },
+      {
+        "name": "Helena McCarthy",
+        "nm": 565151,
+        "roles": [
+          {
+            "char": "Old Lady"
+          }
+        ]
+      },
+      {
+        "name": "Neville Phillips",
+        "nm": 680670,
+        "roles": [
+          {
+            "char": "Returning Officer"
+          }
+        ]
+      },
+      {
+        "name": "Richenda Carey",
+        "nm": 137028,
+        "roles": [
+          {
+            "char": "Lady Mosley"
+          }
+        ]
+      },
+      {
+        "name": "Hugh Simon",
+        "nm": 800179,
+        "roles": [
+          {
+            "char": "Winston Churchill",
+            "ch": 26663
+          }
+        ]
+      },
+      {
+        "name": "Sean Patterson",
+        "nm": 1791293,
+        "roles": [
+          {
+            "char": "Heckler"
+          }
+        ]
+      },
+      {
+        "name": "Devon Scott",
+        "nm": 779061,
+        "roles": [
+          {
+            "char": "Grace Curzon"
+          }
+        ]
+      },
+      {
+        "name": "Flora Montgomery",
+        "nm": 599778,
+        "roles": [
+          {
+            "char": "Baba"
+          }
+        ]
+      },
+      {
+        "name": "Dermot Martin",
+        "nm": 552182,
+        "roles": [
+          {
+            "char": "Michael O'Sullivan"
+          }
+        ]
+      },
+      {
+        "name": "Connor Byrne",
+        "nm": 126146,
+        "roles": [
+          {
+            "char": "Liam"
+          }
+        ]
+      },
+      {
+        "name": "Mark Callum",
+        "nm": 2113165,
+        "roles": [
+          {
+            "char": "MP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Rules of the Game",
+    "tt": 1615685,
+    "air_date": "1998-02-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jonathan Cake",
+        "nm": 129160,
+        "roles": [
+          {
+            "char": "Oswald 'Tom' Mosley",
+            "ch": 227430
+          }
+        ]
+      },
+      {
+        "name": "Jemma Redgrave",
+        "nm": 714876,
+        "roles": [
+          {
+            "char": "Cimmie Curzon"
+          }
+        ]
+      },
+      {
+        "name": "Hugh Bonneville",
+        "nm": 95017,
+        "roles": [
+          {
+            "char": "Bob Boothby",
+            "ch": 227431
+          }
+        ]
+      },
+      {
+        "name": "Caroline Langrishe",
+        "nm": 486674,
+        "roles": [
+          {
+            "char": "Jane Bewley"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Riach",
+        "nm": 722661,
+        "roles": [
+          {
+            "char": "Ramsay MacDonald",
+            "ch": 33064
+          }
+        ]
+      },
+      {
+        "name": "John D. Collins",
+        "nm": 172412,
+        "roles": [
+          {
+            "char": "Toastmaster"
+          }
+        ]
+      },
+      {
+        "name": "Ken Jones",
+        "nm": 428544,
+        "roles": [
+          {
+            "char": "J.H. Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Eric Allan",
+        "nm": 19924,
+        "roles": [
+          {
+            "char": "Philip Snowden",
+            "ch": 227639
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Child",
+        "nm": 157461,
+        "roles": [
+          {
+            "char": "Major Bewley"
+          }
+        ]
+      },
+      {
+        "name": "Roger May",
+        "nm": 562116,
+        "roles": [
+          {
+            "char": "John Strachey"
+          }
+        ]
+      },
+      {
+        "name": "Karl Draper",
+        "nm": 237154,
+        "roles": [
+          {
+            "char": "Makin"
+          }
+        ]
+      },
+      {
+        "name": "Paul Ireland",
+        "nm": 409883,
+        "roles": [
+          {
+            "char": "Alan Young",
+            "ch": 308017
+          }
+        ]
+      },
+      {
+        "name": "Orlando Wells",
+        "nm": 920366,
+        "roles": [
+          {
+            "char": "Cecil Beaton",
+            "ch": 221533
+          }
+        ]
+      },
+      {
+        "name": "Edward Arthur",
+        "nm": 37757,
+        "roles": [
+          {
+            "char": "Cox"
+          }
+        ]
+      },
+      {
+        "name": "Flora Montgomery",
+        "nm": 599778,
+        "roles": [
+          {
+            "char": "Baba"
+          }
+        ]
+      },
+      {
+        "name": "Roger Brierley",
+        "nm": 108926,
+        "roles": [
+          {
+            "char": "Neville Chamberlain",
+            "ch": 53786
+          }
+        ]
+      },
+      {
+        "name": "Anthony Jackson",
+        "nm": 413273,
+        "roles": [
+          {
+            "char": "Returning Officer"
+          }
+        ]
+      },
+      {
+        "name": "Alex Knight",
+        "nm": 460790,
+        "roles": [
+          {
+            "char": "Journalist"
+          }
+        ]
+      },
+      {
+        "name": "Gresby Nash",
+        "nm": 621729,
+        "roles": [
+          {
+            "char": "Fruity Metcalf",
+            "ch": 275535
+          }
+        ]
+      },
+      {
+        "name": "Berwick Kaler",
+        "nm": 435693,
+        "roles": [
+          {
+            "char": "Arthur Henderson"
+          }
+        ]
+      },
+      {
+        "name": "Donald Pickering",
+        "nm": 681826,
+        "roles": [
+          {
+            "char": "Sir Oswald Mosley"
+          }
+        ]
+      },
+      {
+        "name": "Edward Highmore",
+        "nm": 383602,
+        "roles": [
+          {
+            "char": "Derek Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Richard Syms",
+        "nm": 843400,
+        "roles": [
+          {
+            "char": "Club Steward"
+          }
+        ]
+      },
+      {
+        "name": "Mike Eastman",
+        "nm": 247661,
+        "roles": [
+          {
+            "char": "Politician",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Breaking the Mould",
+    "tt": 1615684,
+    "air_date": "1998-02-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jonathan Cake",
+        "nm": 129160,
+        "roles": [
+          {
+            "char": "Oswald 'Tom' Mosley",
+            "ch": 227430
+          }
+        ]
+      },
+      {
+        "name": "Jemma Redgrave",
+        "nm": 714876,
+        "roles": [
+          {
+            "char": "Cimmie Curzon"
+          }
+        ]
+      },
+      {
+        "name": "Hugh Bonneville",
+        "nm": 95017,
+        "roles": [
+          {
+            "char": "Bob Boothby",
+            "ch": 227431
+          }
+        ]
+      },
+      {
+        "name": "Ralph Riach",
+        "nm": 722661,
+        "roles": [
+          {
+            "char": "Ramsay MacDonald",
+            "ch": 33064
+          }
+        ]
+      },
+      {
+        "name": "Ken Jones",
+        "nm": 428544,
+        "roles": [
+          {
+            "char": "J.H. Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Eric Allan",
+        "nm": 19924,
+        "roles": [
+          {
+            "char": "Philip Snowden",
+            "ch": 227639
+          }
+        ]
+      },
+      {
+        "name": "Roger May",
+        "nm": 562116,
+        "roles": [
+          {
+            "char": "John Strachey"
+          }
+        ]
+      },
+      {
+        "name": "Karl Draper",
+        "nm": 237154,
+        "roles": [
+          {
+            "char": "Makin"
+          }
+        ]
+      },
+      {
+        "name": "Paul Ireland",
+        "nm": 409883,
+        "roles": [
+          {
+            "char": "Alan Young",
+            "ch": 308017
+          }
+        ]
+      },
+      {
+        "name": "Orlando Wells",
+        "nm": 920366,
+        "roles": [
+          {
+            "char": "Cecil Beaton",
+            "ch": 221533
+          }
+        ]
+      },
+      {
+        "name": "Flora Montgomery",
+        "nm": 599778,
+        "roles": [
+          {
+            "char": "Baba"
+          }
+        ]
+      },
+      {
+        "name": "Gresby Nash",
+        "nm": 621729,
+        "roles": [
+          {
+            "char": "Fruity Metcalf",
+            "ch": 275535
+          }
+        ]
+      },
+      {
+        "name": "Berwick Kaler",
+        "nm": 435693,
+        "roles": [
+          {
+            "char": "Arthur Henderson"
+          }
+        ]
+      },
+      {
+        "name": "Emma Davies",
+        "nm": 203696,
+        "roles": [
+          {
+            "char": "Diana Mitford Guinness"
+          }
+        ]
+      },
+      {
+        "name": "Windsor Davies",
+        "nm": 204034,
+        "roles": [
+          {
+            "char": "David Lloyd George",
+            "ch": 303226
+          }
+        ]
+      },
+      {
+        "name": "Maggie Guess",
+        "nm": 1183296,
+        "roles": [
+          {
+            "char": "Tory woman"
+          }
+        ]
+      },
+      {
+        "name": "Doyne Byrd",
+        "nm": 126016,
+        "roles": [
+          {
+            "char": "Speaker"
+          }
+        ]
+      },
+      {
+        "name": "David Henry",
+        "nm": 377788,
+        "roles": [
+          {
+            "char": "Sir William Morris"
+          }
+        ]
+      },
+      {
+        "name": "Paul Regan",
+        "nm": 716463,
+        "roles": [
+          {
+            "char": "Heckler"
+          }
+        ]
+      },
+      {
+        "name": "Bunny May",
+        "nm": 561880,
+        "roles": [
+          {
+            "char": "Returning officer"
+          }
+        ]
+      },
+      {
+        "name": "Ben Pullen",
+        "nm": 700399,
+        "roles": [
+          {
+            "char": "Peter Howard"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Coy",
+        "nm": 185329,
+        "roles": [
+          {
+            "char": "Harold Nicholson"
+          }
+        ]
+      },
+      {
+        "name": "Sonya Walger",
+        "nm": 907427,
+        "roles": [
+          {
+            "char": "Barbara Hutchinson"
+          }
+        ]
+      },
+      {
+        "name": "Arturo Venegas",
+        "nm": 892992,
+        "roles": [
+          {
+            "char": "Count Grandi",
+            "ch": 245259
+          }
+        ]
+      },
+      {
+        "name": "Stephen Gressieux",
+        "nm": 340370,
+        "roles": [
+          {
+            "char": "Mussolini",
+            "ch": 33715
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Beyond the Pale",
+    "tt": 1615683,
+    "air_date": "1998-03-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jonathan Cake",
+        "nm": 129160,
+        "roles": [
+          {
+            "char": "Oswald 'Tom' Mosley",
+            "ch": 227430
+          }
+        ]
+      },
+      {
+        "name": "Jemma Redgrave",
+        "nm": 714876,
+        "roles": [
+          {
+            "char": "Cimmie Curzon"
+          }
+        ]
+      },
+      {
+        "name": "Hugh Bonneville",
+        "nm": 95017,
+        "roles": [
+          {
+            "char": "Bob Boothby",
+            "ch": 227431
+          }
+        ]
+      },
+      {
+        "name": "Karl Draper",
+        "nm": 237154,
+        "roles": [
+          {
+            "char": "Makin"
+          }
+        ]
+      },
+      {
+        "name": "Flora Montgomery",
+        "nm": 599778,
+        "roles": [
+          {
+            "char": "Lady Alexandra Metcalfe",
+            "ch": 275534
+          }
+        ]
+      },
+      {
+        "name": "Gresby Nash",
+        "nm": 621729,
+        "roles": [
+          {
+            "char": "Fruity Metcalf",
+            "ch": 275535
+          }
+        ]
+      },
+      {
+        "name": "Emma Davies",
+        "nm": 203696,
+        "roles": [
+          {
+            "char": "Diana Guinness"
+          }
+        ]
+      },
+      {
+        "name": "Windsor Davies",
+        "nm": 204034,
+        "roles": [
+          {
+            "char": "David Lloyd George",
+            "ch": 303226
+          }
+        ]
+      },
+      {
+        "name": "Arturo Venegas",
+        "nm": 892992,
+        "roles": [
+          {
+            "char": "Count Grandi",
+            "ch": 245259
+          }
+        ]
+      },
+      {
+        "name": "Stephen Gressieux",
+        "nm": 340370,
+        "roles": [
+          {
+            "char": "Mussolini",
+            "ch": 33715
+          }
+        ]
+      },
+      {
+        "name": "Nigel Davenport",
+        "nm": 202638,
+        "roles": [
+          {
+            "char": "Lord Rothermere"
+          }
+        ]
+      },
+      {
+        "name": "Colum Convey",
+        "nm": 176617,
+        "roles": [
+          {
+            "char": "William Joyce"
+          }
+        ]
+      },
+      {
+        "name": "Mike Burnside",
+        "nm": 1130878,
+        "roles": [
+          {
+            "char": "Neil Francis Hawkins"
+          }
+        ]
+      },
+      {
+        "name": "Brigitte Kahn",
+        "nm": 434800,
+        "roles": [
+          {
+            "char": "Margherita Sarfatti"
+          }
+        ]
+      },
+      {
+        "name": "Jon Cartwright",
+        "nm": 142183,
+        "roles": [
+          {
+            "char": "Dr. Kirkwood"
+          }
+        ]
+      },
+      {
+        "name": "Anouschka Menzies",
+        "nm": 579982,
+        "roles": [
+          {
+            "char": "Unity Mitford"
+          }
+        ]
+      },
+      {
+        "name": "Stephan Grothgar",
+        "nm": 343869,
+        "roles": [
+          {
+            "char": "Putzi Hansfstaengl",
+            "ch": 135307
+          }
+        ]
+      },
+      {
+        "name": "John Straiton",
+        "nm": 833194,
+        "roles": [
+          {
+            "char": "James Maxton"
+          }
+        ]
+      },
+      {
+        "name": "Jim Dunk",
+        "nm": 242319,
+        "roles": [
+          {
+            "char": "Harry Lucas"
+          }
+        ]
+      },
+      {
+        "name": "David Griffith",
+        "nm": 341472,
+        "roles": [
+          {
+            "char": "Gerald Barry"
+          }
+        ]
+      },
+      {
+        "name": "Simon Sherlock",
+        "nm": 792348,
+        "roles": [
+          {
+            "char": "Mickey Clark"
+          }
+        ]
+      },
+      {
+        "name": "Erich Redman",
+        "nm": 715000,
+        "roles": [
+          {
+            "char": "Joseph Goebbels",
+            "ch": 29162
+          }
+        ]
+      },
+      {
+        "name": "Martina Berne",
+        "nm": 76654,
+        "roles": [
+          {
+            "char": "Magda Goebbels",
+            "ch": 42403
+          }
+        ]
+      },
+      {
+        "name": "Rupert Bates",
+        "nm": 61023,
+        "roles": [
+          {
+            "char": "BBC Interviewer"
+          }
+        ]
+      },
+      {
+        "name": "Robert Langdon Lloyd",
+        "nm": 486750,
+        "roles": [
+          {
+            "char": "Sir Philip Game"
+          }
+        ]
+      },
+      {
+        "name": "Reinhard Michaels",
+        "nm": 1496271,
+        "roles": [
+          {
+            "char": "Hitler",
+            "ch": 27857
+          }
+        ]
+      },
+      {
+        "name": "Alan Ford",
+        "nm": 285495,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Richard Lloyd King",
+        "nm": 1544392,
+        "roles": [
+          {
+            "char": "David"
+          }
+        ]
+      },
+      {
+        "name": "William Boscaven",
+        "nm": 1147947,
+        "roles": [
+          {
+            "char": "Nicholas Mosley"
+          }
+        ]
+      }
+    ]
+  }
+]

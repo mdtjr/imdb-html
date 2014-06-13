@@ -1,0 +1,49 @@
+[
+  {
+    "se": "S??E??",
+    "title": "Episode dated 27 May 1962",
+    "tt": 500854,
+    "air_date": "1962-05-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jack Lescoulie",
+        "nm": 503921,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Richard Morse",
+        "nm": 607664,
+        "roles": [
+          {
+            "char": "Courier"
+          }
+        ]
+      },
+      {
+        "name": "Richard Thomas",
+        "nm": 1796,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Joe Warren",
+        "nm": 912883,
+        "roles": [
+          {
+            "char": "Thomas Jefferson",
+            "ch": 28253,
+            "as Joseph Warren": true
+          }
+        ]
+      }
+    ]
+  }
+]

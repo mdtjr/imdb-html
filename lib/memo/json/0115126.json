@@ -1,0 +1,2702 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 115821,
+    "air_date": "1996-09-01",
+    "description": "'The Cape' explores the daily lives of current-day NASA astronauts, astronauts in training (ASCANs) and support personnel. In the pilot, the Russians have lost radio contact with one of their nuclear-powered spy satellites. This satellite threatens the Eastern Seaboard of the United States when its orbit degrades. A Space Shuttle mission, which includes a Russian cosmonaut, is deployed to prevent the spy satellite from de-orbiting.",
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "Chief PAO Andrea Wyler"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmd. Barbara De Santos, ASCAN"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708,
+            "teacher in space": true
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Whitman Mayo",
+        "nm": 562924,
+        "roles": [
+          {
+            "char": "Sweets",
+            "owner of the Moonshot Bar &amp; Grill": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curt Beaumont",
+            "ch": 293503,
+            "Capt. Zeke Beaumont's Brother": true
+          }
+        ]
+      },
+      {
+        "name": "Tom Nowicki",
+        "nm": 637441,
+        "roles": [
+          {
+            "char": "Soviet Astronaut Major Mikoyan",
+            "ch": 73511
+          }
+        ]
+      },
+      {
+        "name": "Robin O'Dell",
+        "nm": 640674,
+        "roles": [
+          {
+            "char": "Ellen Eckert",
+            "Col. Eckert's Wife": true
+          }
+        ]
+      },
+      {
+        "name": "Sam Anderson",
+        "nm": 27402,
+        "roles": [
+          {
+            "char": "Kevin Davis, Capcom"
+          }
+        ]
+      },
+      {
+        "name": "Nick Corirossi",
+        "nm": 179880,
+        "roles": [
+          {
+            "char": "Noah Riles",
+            "ch": 73510
+          }
+        ]
+      },
+      {
+        "name": "Mike Pniewski",
+        "nm": 687772,
+        "roles": [
+          {
+            "char": "Chris Nunziata",
+            "ch": 386915
+          }
+        ]
+      },
+      {
+        "name": "Jim R. Coleman",
+        "nm": 171078,
+        "roles": [
+          {
+            "char": "Technician",
+            "Pete": true
+          }
+        ]
+      },
+      {
+        "name": "Melissa Kolaks",
+        "nm": 463837,
+        "roles": [
+          {
+            "char": "The Girl"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Duerr",
+        "nm": 240277,
+        "roles": [
+          {
+            "char": "State Dept. Official"
+          }
+        ]
+      },
+      {
+        "name": "William Childers",
+        "nm": 157526,
+        "roles": [
+          {
+            "char": "Space Command"
+          }
+        ]
+      },
+      {
+        "name": "Jim Grimshaw",
+        "nm": 342352,
+        "roles": [
+          {
+            "char": "Pentagon Official"
+          }
+        ]
+      },
+      {
+        "name": "Michael Costello",
+        "nm": 182591,
+        "roles": [
+          {
+            "char": "NASA Official #1"
+          }
+        ]
+      },
+      {
+        "name": "Steve Raulerson",
+        "nm": 712076,
+        "roles": [
+          {
+            "char": "Soviet Official"
+          }
+        ]
+      },
+      {
+        "name": "Mikki Scanlon",
+        "nm": 571255,
+        "roles": [
+          {
+            "char": "Janet Presser",
+            "as Mikki McKeever": true
+          }
+        ]
+      },
+      {
+        "name": "Greg Davis Jr.",
+        "nm": 1486299,
+        "roles": [
+          {
+            "char": "Kid #1",
+            "as Gregory D. Davis II": true
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Storms",
+        "nm": 832653,
+        "roles": [
+          {
+            "char": "Kid #2"
+          }
+        ]
+      },
+      {
+        "name": "Chad Reeves",
+        "nm": 716171,
+        "roles": [
+          {
+            "char": "Ben"
+          }
+        ]
+      },
+      {
+        "name": "Tom Kouchalakos",
+        "nm": 467921,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Niedland",
+        "nm": 37835,
+        "roles": [
+          {
+            "char": "News Anchor",
+            "as Suzanne Arthur": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Kiernan",
+        "nm": 452593,
+        "roles": [
+          {
+            "char": "Engineer"
+          }
+        ]
+      },
+      {
+        "name": "Pete Penuel",
+        "nm": 672420,
+        "roles": [
+          {
+            "char": "Police Officer"
+          }
+        ]
+      },
+      {
+        "name": "Brett Rice",
+        "nm": 723365,
+        "roles": [
+          {
+            "char": "Technician #1"
+          }
+        ]
+      },
+      {
+        "name": "Bill Cordell",
+        "nm": 179450,
+        "roles": [
+          {
+            "char": "Technician #2"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Barber",
+        "nm": 53441,
+        "roles": [
+          {
+            "char": "Gail Weathers"
+          }
+        ]
+      },
+      {
+        "name": "Janis Benson",
+        "nm": 72525,
+        "roles": [
+          {
+            "char": "Hospital Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Phillip Martinez",
+        "nm": 553663,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "John Wade",
+        "nm": 905447,
+        "roles": [
+          {
+            "char": "NASA Official #2"
+          }
+        ]
+      },
+      {
+        "name": "Dean Cudworth",
+        "nm": 1454238,
+        "roles": [
+          {
+            "char": "Dean"
+          }
+        ]
+      },
+      {
+        "name": "Jim Harrington",
+        "nm": 364283,
+        "roles": [
+          {
+            "char": "Himself",
+            "Launch Director": true
+          }
+        ]
+      },
+      {
+        "name": "Kevin McGuire",
+        "nm": 570235,
+        "roles": [
+          {
+            "char": "Bar Patron"
+          }
+        ]
+      },
+      {
+        "name": "Vivienne Sendaydiego",
+        "nm": 784128,
+        "roles": [
+          {
+            "char": "Attendee, Featured"
+          }
+        ]
+      },
+      {
+        "name": "Rich Williams",
+        "nm": 931528,
+        "roles": [
+          {
+            "char": "Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Michael S. Nunez",
+        "nm": 1107047,
+        "roles": [
+          {
+            "char": "Various Featured Extra",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "In Friends We Trust",
+    "tt": 536129,
+    "air_date": "1996-09-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Whitman Mayo",
+        "nm": 562924,
+        "roles": [
+          {
+            "char": "Sweets"
+          }
+        ]
+      },
+      {
+        "name": "Dan Gauthier",
+        "nm": 310248,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Niedland",
+        "nm": 37835,
+        "roles": [
+          {
+            "char": "News Anchor",
+            "as Suzanne Arthur": true
+          }
+        ]
+      },
+      {
+        "name": "Roger Ranney",
+        "nm": 710340,
+        "roles": [
+          {
+            "char": "Jimmy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "No Fear",
+    "tt": 536136,
+    "air_date": "1996-09-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Bryan Friday",
+        "nm": 294857,
+        "roles": [
+          {
+            "char": "Ron"
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Wendy Kilbourne",
+        "nm": 452935,
+        "roles": [
+          {
+            "char": "Caitlin Grayson"
+          }
+        ]
+      },
+      {
+        "name": "Ashlee Lauren",
+        "nm": 491057,
+        "roles": [
+          {
+            "char": "Marissa"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Niedland",
+        "nm": 37835,
+        "roles": [
+          {
+            "char": "News Anchor",
+            "as Suzanne Arthur": true
+          }
+        ]
+      },
+      {
+        "name": "Mike Pniewski",
+        "nm": 687772,
+        "roles": [
+          {
+            "char": "Chris Nunziata",
+            "ch": 386915
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Just a Rumor",
+    "tt": 1070108,
+    "air_date": "1996-09-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "Kokoa Woodget Aubert",
+        "nm": 3454837,
+        "roles": [
+          {
+            "char": "Crew member"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Play Astronaut for Me",
+    "tt": 536138,
+    "air_date": "1996-10-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Candice Critchfield",
+        "nm": 1490224,
+        "roles": [
+          {
+            "char": "Marlene"
+          }
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Tohoru Masamune",
+        "nm": 556070,
+        "roles": [
+          {
+            "char": "Hiro Furakawa",
+            "ch": 84831
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Lost in Space",
+    "tt": 536133,
+    "air_date": "1996-10-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "R. Emmett Fitzsimmons",
+        "nm": 6887,
+        "roles": [
+          {
+            "char": "CNN Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Susanna Harter",
+        "nm": 366676,
+        "roles": [
+          {
+            "char": "Engineer"
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Family Values",
+    "tt": 536128,
+    "air_date": "1996-10-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Nick Corirossi",
+        "nm": 179880,
+        "roles": [
+          {
+            "char": "Noah Riles",
+            "ch": 73510
+          }
+        ]
+      },
+      {
+        "name": "R. Emmett Fitzsimmons",
+        "nm": 6887,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Buried in Peace",
+    "tt": 536126,
+    "air_date": "1996-10-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "R. Emmett Fitzsimmons",
+        "nm": 6887,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Tom Nowicki",
+        "nm": 637441,
+        "roles": [
+          {
+            "char": "Major Andrei Mikoyan",
+            "ch": 73511
+          }
+        ]
+      },
+      {
+        "name": "Kevin J. O'Neill",
+        "nm": 642228,
+        "roles": [
+          {
+            "char": "Flight Engineer",
+            "ch": 386916
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "The Need to Know",
+    "tt": 536142,
+    "air_date": "1996-11-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Mike Ciannilli",
+        "nm": 4502800,
+        "roles": [
+          {
+            "char": "Astronaut"
+          }
+        ]
+      },
+      {
+        "name": "R. Emmett Fitzsimmons",
+        "nm": 6887,
+        "roles": [
+          {
+            "char": "CNN Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Neill",
+        "nm": 642259,
+        "roles": [
+          {
+            "char": "Keith Mason"
+          }
+        ]
+      },
+      {
+        "name": "Shawn Pyfrom",
+        "nm": 701457,
+        "roles": [
+          {
+            "char": "Jerry Blake"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Reggie's Wild Ride",
+    "tt": 536139,
+    "air_date": "1996-11-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Maury Covington",
+        "nm": 184498,
+        "roles": [
+          {
+            "char": "General"
+          }
+        ]
+      },
+      {
+        "name": "Greg Davis Jr.",
+        "nm": 1486299,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Wilbur Fitzgerald",
+        "nm": 280409,
+        "roles": [
+          {
+            "char": "Commander of the Space Shuttle"
+          }
+        ]
+      },
+      {
+        "name": "R. Emmett Fitzsimmons",
+        "nm": 6887,
+        "roles": [
+          {
+            "char": "CNN Reporter"
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Lamar",
+        "nm": 1417690,
+        "roles": [
+          {
+            "char": "Caleb"
+          }
+        ]
+      },
+      {
+        "name": "Tohoru Masamune",
+        "nm": 556070,
+        "roles": [
+          {
+            "char": "Hiro Furakawa",
+            "ch": 84831
+          }
+        ]
+      },
+      {
+        "name": "Mike Pniewski",
+        "nm": 687772,
+        "roles": [
+          {
+            "char": "Chris Nunziata",
+            "ch": 386915
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Burning Fuse",
+    "tt": 1070107,
+    "air_date": "1996-11-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Nick Corirossi",
+        "nm": 179880,
+        "roles": [
+          {
+            "char": "Noah Riles",
+            "ch": 73510
+          }
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "Kokoa Woodget Aubert",
+        "nm": 3454837,
+        "roles": [
+          {
+            "char": "Crew member"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Judgment Call",
+    "tt": 536131,
+    "air_date": "1996-11-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "R. Emmett Fitzsimmons",
+        "nm": 6887,
+        "roles": [
+          {
+            "char": "CNN Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Leslie Hardy",
+        "nm": 362696,
+        "roles": [
+          {
+            "char": "Dr. Suzanna Cassell"
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Niedland",
+        "nm": 37835,
+        "roles": [
+          {
+            "char": "News Anchor",
+            "as Suzanne Arthur": true
+          }
+        ]
+      },
+      {
+        "name": "Robin O'Dell",
+        "nm": 640674,
+        "roles": [
+          {
+            "char": "Ellen Eckert",
+            "Col. Eckert's Wife": true
+          }
+        ]
+      },
+      {
+        "name": "Fritz Sperberg",
+        "nm": 818277,
+        "roles": [
+          {
+            "char": "Sam Blake"
+          }
+        ]
+      },
+      {
+        "name": "Debra Stipe",
+        "nm": 762017,
+        "roles": [
+          {
+            "char": "Kathy Blake"
+          }
+        ]
+      },
+      {
+        "name": "Marty Stonerock",
+        "nm": 832303,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "The Accusation",
+    "tt": 536140,
+    "air_date": "1996-12-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Todd Sheeler",
+        "nm": 790665,
+        "roles": [
+          {
+            "char": "Trace"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Interpretations",
+    "tt": 536130,
+    "air_date": "1997-01-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Katy Boyer",
+        "nm": 102060,
+        "roles": [
+          {
+            "char": "Jennifer"
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Hurricane",
+    "tt": 536141,
+    "air_date": "1997-02-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Donna Bullock",
+        "nm": 120141,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Leesa Castaneda",
+        "nm": 4096,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Mike Ciannilli",
+        "nm": 4502800,
+        "roles": [
+          {
+            "char": "Engineer"
+          }
+        ]
+      },
+      {
+        "name": "Nick Corirossi",
+        "nm": 179880,
+        "roles": [
+          {
+            "char": "Noah Riles",
+            "ch": 73510
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Dennis Bove",
+        "nm": 2684031,
+        "roles": [
+          {
+            "char": "Extra",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "The Last to Know",
+    "tt": 1070110,
+    "air_date": "1997-02-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Nick Corirossi",
+        "nm": 179880,
+        "roles": [
+          {
+            "char": "Noah Riles",
+            "ch": 73510
+          }
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "Kokoa Woodget Aubert",
+        "nm": 3454837,
+        "roles": [
+          {
+            "char": "Crew member"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "The Astronaut Formerly Known as Prince",
+    "tt": 1070109,
+    "air_date": "1997-02-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "Kokoa Woodget Aubert",
+        "nm": 3454837,
+        "roles": [
+          {
+            "char": "Crew member"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Enemy Within",
+    "tt": 536127,
+    "air_date": "1997-02-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "Arabella Holzbog",
+        "nm": 392776,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Andrew Masset",
+        "nm": 557259,
+        "roles": [
+          {
+            "char": "Carl Reinhart",
+            "as Andrew Massett": true
+          }
+        ]
+      },
+      {
+        "name": "Robin O'Dell",
+        "nm": 640674,
+        "roles": [
+          {
+            "char": "Ellen Eckert",
+            "Col. Eckert's Wife": true
+          }
+        ]
+      },
+      {
+        "name": "Mariangela Pino",
+        "nm": 684488,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Just Like Old Times",
+    "tt": 536132,
+    "air_date": "1997-05-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "James Read",
+        "nm": 416856,
+        "roles": [
+          {
+            "char": "Jeff"
+          }
+        ]
+      },
+      {
+        "name": "Paul Mitton",
+        "nm": 594188,
+        "roles": [
+          {
+            "char": "TV Reporter",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Mir, Mir Off the Wall: Part 1",
+    "tt": 536134,
+    "air_date": "1997-05-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Niedland",
+        "nm": 37835,
+        "roles": [
+          {
+            "char": "News Anchor",
+            "as Suzanne Arthur": true
+          }
+        ]
+      },
+      {
+        "name": "Tom Nowicki",
+        "nm": 637441,
+        "roles": [
+          {
+            "char": "Major Andrei Mikoyan",
+            "ch": 73511
+          }
+        ]
+      },
+      {
+        "name": "Kevin J. O'Neill",
+        "nm": 642228,
+        "roles": [
+          {
+            "char": "Flight Engineer",
+            "ch": 386916
+          }
+        ]
+      },
+      {
+        "name": "Gary Rorman",
+        "nm": 740727,
+        "roles": [
+          {
+            "char": "Valarie Yurchenko"
+          }
+        ]
+      },
+      {
+        "name": "Marty Stonerock",
+        "nm": 832303,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Michael Pope",
+        "nm": 4850855,
+        "roles": [
+          {
+            "char": "Journalist",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Mir, Mir Off the Wall: Part 2",
+    "tt": 536135,
+    "air_date": "1997-05-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Corbin Bernsen",
+        "nm": 929,
+        "roles": [
+          {
+            "char": "USAF Col. Henry 'Bull' Eckert",
+            "ch": 64704
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Col. Jack Riles",
+            "ch": 64705
+          }
+        ]
+      },
+      {
+        "name": "Cameron Bancroft",
+        "nm": 51621,
+        "roles": [
+          {
+            "char": "Capt. Ezekiel 'Zeke' Beaumont, ASCAN",
+            "ch": 64706
+          }
+        ]
+      },
+      {
+        "name": "Tyra Ferrell",
+        "nm": 274508,
+        "roles": [
+          {
+            "char": "Mission Specialist Tamara St. James"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Hosea",
+        "nm": 395914,
+        "roles": [
+          {
+            "char": "Marine Pilot Maj. Reggie Warren"
+          }
+        ]
+      },
+      {
+        "name": "David Kelsey",
+        "nm": 447037,
+        "roles": [
+          {
+            "char": "D.B. Woods, ASCAN",
+            "ch": 73509
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+          {
+            "char": "NASA Chief PAO Andrea Miller"
+          }
+        ]
+      },
+      {
+        "name": "Bobbie Phillips",
+        "nm": 4095,
+        "roles": [
+          {
+            "char": "Navy Pilot Lt. Cmdr. Barbara DeSantos"
+          }
+        ]
+      },
+      {
+        "name": "Chad Willett",
+        "nm": 929814,
+        "roles": [
+          {
+            "char": "Peter Engel, ASCAN",
+            "ch": 64708
+          }
+        ]
+      },
+      {
+        "name": "Michael Hartson",
+        "nm": 367233,
+        "roles": [
+          {
+            "char": "Curtis Beamont",
+            "ch": 293503
+          }
+        ]
+      },
+      {
+        "name": "Signe Kiesel",
+        "nm": 452627,
+        "roles": [
+          {
+            "char": "Girlfriend"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Niedland",
+        "nm": 37835,
+        "roles": [
+          {
+            "char": "News Anchor",
+            "as Suzanne Arthur": true
+          }
+        ]
+      },
+      {
+        "name": "Tom Nowicki",
+        "nm": 637441,
+        "roles": [
+          {
+            "char": "Major Andrei Mikoyan",
+            "ch": 73511
+          }
+        ]
+      },
+      {
+        "name": "Lee Perkins",
+        "nm": 674101,
+        "roles": [
+          {
+            "char": "Sergeant Dess"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1918 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Cold Front",
+    "tt": 960162,
+    "air_date": "1962-06-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Peter Halliday",
+        "nm": 356579,
+        "roles": [
+          {
+            "char": "Fleming",
+            "ch": 100455
+          }
+        ]
+      },
+      {
+        "name": "Susan Hampshire",
+        "nm": 358925,
+        "roles": [
+          {
+            "char": "Andromeda",
+            "ch": 35662
+          }
+        ]
+      },
+      {
+        "name": "Mary Morris",
+        "nm": 606783,
+        "roles": [
+          {
+            "char": "Madeleine Dawnay",
+            "ch": 82076
+          }
+        ]
+      },
+      {
+        "name": "Noel Johnson",
+        "nm": 425904,
+        "roles": [
+          {
+            "char": "Osborne",
+            "ch": 100454
+          }
+        ]
+      },
+      {
+        "name": "Claude Farell",
+        "nm": 267219,
+        "roles": [
+          {
+            "char": "Mlle. Gamboule",
+            "ch": 106712
+          }
+        ]
+      },
+      {
+        "name": "David King",
+        "nm": 454627,
+        "roles": [
+          {
+            "char": "Burdett",
+            "ch": 128669
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Lewis",
+        "nm": 507213,
+        "roles": [
+          {
+            "char": "Geers",
+            "ch": 106716
+          }
+        ]
+      },
+      {
+        "name": "John Hollis",
+        "nm": 391197,
+        "roles": [
+          {
+            "char": "Kaufman",
+            "ch": 106714
+          }
+        ]
+      },
+      {
+        "name": "Barry Linehan",
+        "nm": 512622,
+        "roles": [
+          {
+            "char": "Col. Salim",
+            "ch": 118907
+          }
+        ]
+      },
+      {
+        "name": "Mellan Mitchell",
+        "nm": 593597,
+        "roles": [
+          {
+            "char": "Manservant"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Dunn",
+        "nm": 242572,
+        "roles": [
+          {
+            "char": "Preen"
+          }
+        ]
+      },
+      {
+        "name": "Frederick Treves",
+        "nm": 872370,
+        "roles": [
+          {
+            "char": "RAF Officer"
+          }
+        ]
+      },
+      {
+        "name": "Sheila Conner",
+        "nm": 2688574,
+        "roles": [
+          {
+            "char": "BEA Staff"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Shepard",
+        "nm": 791596,
+        "roles": [
+          {
+            "char": "BEA Staff",
+            "as Anthony Sheppard": true
+          }
+        ]
+      },
+      {
+        "name": "Julie Christie",
+        "nm": 1046,
+        "roles": [
+          {
+            "char": "Andromeda",
+            "ch": 35662,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Alec Coleman",
+        "nm": 170915,
+        "roles": [
+          {
+            "char": "Intel Thug",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Dorling",
+        "nm": 2700611,
+        "roles": [
+          {
+            "char": "Radio Newsreader",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bernard Egan",
+        "nm": 250653,
+        "roles": [
+          {
+            "char": "Intel Thug",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Tom Friswell",
+        "nm": 295926,
+        "roles": [
+          {
+            "char": "Soldier",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Johnnie Fry",
+        "nm": 2699264,
+        "roles": [
+          {
+            "char": "Intel Thug",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Reg Good",
+        "nm": 2699276,
+        "roles": [
+          {
+            "char": "Soldier",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Doris Hall",
+        "nm": 355516,
+        "roles": [
+          {
+            "char": "Woman at Airport",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Hardwicke",
+        "nm": 2705342,
+        "roles": [
+          {
+            "char": "Man at Airport",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "David Helms",
+        "nm": 2699335,
+        "roles": [
+          {
+            "char": "Local",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "M. Jassar",
+        "nm": 2689474,
+        "roles": [
+          {
+            "char": "Azaran Broadcaster",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eamonn O'Callagan",
+        "nm": 2702057,
+        "roles": [
+          {
+            "char": "Man at Airport",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jack Probert",
+        "nm": 698220,
+        "roles": [
+          {
+            "char": "Soldier",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "George Rose",
+        "nm": 741394,
+        "roles": [
+          {
+            "char": "Local",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Sellars",
+        "nm": 783286,
+        "roles": [
+          {
+            "char": "Soldier",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Rita Smythe",
+        "nm": 1500537,
+        "roles": [
+          {
+            "char": "Woman at Airport",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Watson",
+        "nm": 914780,
+        "roles": [
+          {
+            "char": "Man at Airport",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Gale Warning",
+    "tt": 960163,
+    "air_date": "1962-07-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Peter Halliday",
+        "nm": 356579,
+        "roles": [
+          {
+            "char": "Fleming",
+            "ch": 100455
+          }
+        ]
+      },
+      {
+        "name": "Noel Johnson",
+        "nm": 425904,
+        "roles": [
+          {
+            "char": "Osborne",
+            "ch": 100454
+          }
+        ]
+      },
+      {
+        "name": "Philip Latham",
+        "nm": 490108,
+        "roles": [
+          {
+            "char": "Osborne's P.A."
+          }
+        ]
+      },
+      {
+        "name": "Susan Hampshire",
+        "nm": 358925,
+        "roles": [
+          {
+            "char": "Andromeda",
+            "ch": 35662
+          }
+        ]
+      },
+      {
+        "name": "David King",
+        "nm": 454627,
+        "roles": [
+          {
+            "char": "Burdett",
+            "ch": 128669
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Lewis",
+        "nm": 507213,
+        "roles": [
+          {
+            "char": "Geers",
+            "ch": 106716
+          }
+        ]
+      },
+      {
+        "name": "Anthony Sharp",
+        "nm": 789001,
+        "roles": [
+          {
+            "char": "Solicitor"
+          }
+        ]
+      },
+      {
+        "name": "John Hollis",
+        "nm": 391197,
+        "roles": [
+          {
+            "char": "Kaufman",
+            "ch": 106714
+          }
+        ]
+      },
+      {
+        "name": "David Saire",
+        "nm": 756803,
+        "roles": [
+          {
+            "char": "Abu Zeki",
+            "ch": 128667
+          }
+        ]
+      },
+      {
+        "name": "Assad Obeid",
+        "nm": 643186,
+        "roles": [
+          {
+            "char": "Abu Zeki's Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Blaise Wyndham",
+        "nm": 1554012,
+        "roles": [
+          {
+            "char": "Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Bessie Love",
+        "nm": 522281,
+        "roles": [
+          {
+            "char": "Mrs. Neilson"
+          }
+        ]
+      },
+      {
+        "name": "Walter Gotell",
+        "nm": 331770,
+        "roles": [
+          {
+            "char": "Professor Neilson",
+            "ch": 106713
+          }
+        ]
+      },
+      {
+        "name": "Jacques Cey",
+        "nm": 149189,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "James Urquhart",
+        "nm": 882038,
+        "roles": [
+          {
+            "char": "Gunman"
+          }
+        ]
+      },
+      {
+        "name": "Roy Wilson",
+        "nm": 934081,
+        "roles": [
+          {
+            "char": "Jan Neilson"
+          }
+        ]
+      },
+      {
+        "name": "Jose Berlinka",
+        "nm": 1095272,
+        "roles": [
+          {
+            "char": "Photographer"
+          }
+        ]
+      },
+      {
+        "name": "Barry Linehan",
+        "nm": 512622,
+        "roles": [
+          {
+            "char": "Col. Salim",
+            "ch": 118907
+          }
+        ]
+      },
+      {
+        "name": "Claude Farell",
+        "nm": 267219,
+        "roles": [
+          {
+            "char": "Mlle. Gamboule",
+            "ch": 106712
+          }
+        ]
+      },
+      {
+        "name": "Mary Morris",
+        "nm": 606783,
+        "roles": [
+          {
+            "char": "Madeleine Dawnay",
+            "ch": 82076
+          }
+        ]
+      },
+      {
+        "name": "Jerry Alexander",
+        "nm": 2692596,
+        "roles": [
+          {
+            "char": "Policeman at Airport",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Ann Asprey",
+        "nm": 2698326,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Baker",
+        "nm": 2693493,
+        "roles": [
+          {
+            "char": "Cafe Waiter",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Leslie Bates",
+        "nm": 1661724,
+        "roles": [
+          {
+            "char": "British Soldier",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "David Brewster",
+        "nm": 1584365,
+        "roles": [
+          {
+            "char": "British Soldier",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Fran Browne",
+        "nm": 2692024,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Norman Coburn",
+        "nm": 168017,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Les Conrad",
+        "nm": 175687,
+        "roles": [
+          {
+            "char": "British Soldier",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Adrian Drotsky",
+        "nm": 1096351,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Earl",
+        "nm": 1093884,
+        "roles": [
+          {
+            "char": "Policeman at Airport",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Marcell Fugere",
+        "nm": 2697760,
+        "roles": [
+          {
+            "char": "Lab Assistant",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Charles Gilbert",
+        "nm": 1725944,
+        "roles": [
+          {
+            "char": "Policeman at Airport",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Hedley",
+        "nm": 373331,
+        "roles": [
+          {
+            "char": "Prime Minister",
+            "ch": 100457,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Frank Henderson",
+        "nm": 376434,
+        "roles": [
+          {
+            "char": "PM's Secretary",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sonny Herrick",
+        "nm": 2692049,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Donald Hoath",
+        "nm": 387523,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "M. Jassar",
+        "nm": 2689474,
+        "roles": [
+          {
+            "char": "Azaran Broadcaster",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ann Kennedy",
+        "nm": 1685463,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Gordon Lang",
+        "nm": 485757,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Russ Lockart",
+        "nm": 2695931,
+        "roles": [
+          {
+            "char": "Cafe Waiter",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Theresa Mann",
+        "nm": 2692078,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Patrick Milner",
+        "nm": 1312099,
+        "roles": [
+          {
+            "char": "Policeman at Manor House",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Delia Paton",
+        "nm": 665718,
+        "roles": [
+          {
+            "char": "Airport Tannoy",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Brian Proudfoot",
+        "nm": 1658527,
+        "roles": [
+          {
+            "char": "British Army Officer",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Pat Schoefield",
+        "nm": 2698573,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Johnny Scripps",
+        "nm": 780138,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Les Shannon",
+        "nm": 1535503,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jan Shier",
+        "nm": 2694612,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Lyn Turner",
+        "nm": 877724,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Helga Wahlrow",
+        "nm": 970476,
+        "roles": [
+          {
+            "char": "Crowd Extra",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Azaran Forecast",
+    "tt": 960161,
+    "air_date": "1962-07-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Claude Farell",
+        "nm": 267219,
+        "roles": [
+          {
+            "char": "Mlle. Gamboule",
+            "ch": 106712
+          }
+        ]
+      },
+      {
+        "name": "David Saire",
+        "nm": 756803,
+        "roles": [
+          {
+            "char": "Abu Zeki",
+            "ch": 128667
+          }
+        ]
+      },
+      {
+        "name": "Susan Hampshire",
+        "nm": 358925,
+        "roles": [
+          {
+            "char": "Andromeda",
+            "ch": 35662
+          }
+        ]
+      },
+      {
+        "name": "Peter Halliday",
+        "nm": 356579,
+        "roles": [
+          {
+            "char": "Fleming",
+            "ch": 100455
+          }
+        ]
+      },
+      {
+        "name": "Mary Morris",
+        "nm": 606783,
+        "roles": [
+          {
+            "char": "Madeleine Dawnay",
+            "ch": 82076
+          }
+        ]
+      },
+      {
+        "name": "Arnold Yarrow",
+        "nm": 946531,
+        "roles": [
+          {
+            "char": "President of Azaran"
+          }
+        ]
+      },
+      {
+        "name": "Robert Yearwood",
+        "nm": 1731621,
+        "roles": [
+          {
+            "char": "Boy"
+          }
+        ]
+      },
+      {
+        "name": "Harry Tardios",
+        "nm": 850391,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Heather Emmanuel",
+        "nm": 256464,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Noel Johnson",
+        "nm": 425904,
+        "roles": [
+          {
+            "char": "Osborne",
+            "ch": 100454
+          }
+        ]
+      },
+      {
+        "name": "Philip Latham",
+        "nm": 490108,
+        "roles": [
+          {
+            "char": "Osborne's P.A."
+          }
+        ]
+      },
+      {
+        "name": "David King",
+        "nm": 454627,
+        "roles": [
+          {
+            "char": "Burdett",
+            "ch": 128669
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Gardiner",
+        "nm": 306764,
+        "roles": [
+          {
+            "char": "Burdett's P.A.",
+            "ch": 133340
+          }
+        ]
+      },
+      {
+        "name": "John Hollis",
+        "nm": 391197,
+        "roles": [
+          {
+            "char": "Kaufman",
+            "ch": 106714
+          }
+        ]
+      },
+      {
+        "name": "Barry Linehan",
+        "nm": 512622,
+        "roles": [
+          {
+            "char": "Col. Salim",
+            "ch": 118907
+          }
+        ]
+      },
+      {
+        "name": "Nick Antony",
+        "nm": 2113335,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Assad Obeid",
+        "nm": 643186,
+        "roles": [
+          {
+            "char": "Corporal"
+          }
+        ]
+      },
+      {
+        "name": "Al Black",
+        "nm": 3101635,
+        "roles": [
+          {
+            "char": "Computer Guard",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Dorling",
+        "nm": 2700611,
+        "roles": [
+          {
+            "char": "Radio Newsreader",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Minush Fabinah",
+        "nm": 2723670,
+        "roles": [
+          {
+            "char": "Gamboule's Secretary",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Mike Goddard",
+        "nm": 323818,
+        "roles": [
+          {
+            "char": "Computer Guard",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "M. Jassar",
+        "nm": 2689474,
+        "roles": [
+          {
+            "char": "Army R",
+            "voice": true
+          },
+          {
+            "char": "T",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jose Kuereb",
+        "nm": 2726953,
+        "roles": [
+          {
+            "char": "Army Officer with Salim",
+            "uncredited": true
+          },
+          {
+            "char": "Soldier",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jeff Philipe",
+        "nm": 2722363,
+        "roles": [
+          {
+            "char": "Medical Orderly",
+            "uncredited": true
+          },
+          {
+            "char": "Computer Assistant",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Webster",
+        "nm": 2722371,
+        "roles": [
+          {
+            "char": "Army Officer with Salim",
+            "uncredited": true
+          },
+          {
+            "char": "Soldier",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Storm Centres",
+    "tt": 960165,
+    "air_date": "1962-07-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Peter Halliday",
+        "nm": 356579,
+        "roles": [
+          {
+            "char": "Fleming",
+            "ch": 100455
+          }
+        ]
+      },
+      {
+        "name": "David Saire",
+        "nm": 756803,
+        "roles": [
+          {
+            "char": "Abu Zeki",
+            "ch": 128667
+          }
+        ]
+      },
+      {
+        "name": "John Hollis",
+        "nm": 391197,
+        "roles": [
+          {
+            "char": "Kaufman",
+            "ch": 106714
+          }
+        ]
+      },
+      {
+        "name": "Mary Morris",
+        "nm": 606783,
+        "roles": [
+          {
+            "char": "Madeleine Dawnay",
+            "ch": 82076
+          }
+        ]
+      },
+      {
+        "name": "Susan Hampshire",
+        "nm": 358925,
+        "roles": [
+          {
+            "char": "Andromeda",
+            "ch": 35662
+          }
+        ]
+      },
+      {
+        "name": "Claude Farell",
+        "nm": 267219,
+        "roles": [
+          {
+            "char": "Mlle. Gamboule",
+            "ch": 106712
+          }
+        ]
+      },
+      {
+        "name": "Arnold Yarrow",
+        "nm": 946531,
+        "roles": [
+          {
+            "char": "President of Azaran"
+          }
+        ]
+      },
+      {
+        "name": "Barry Linehan",
+        "nm": 512622,
+        "roles": [
+          {
+            "char": "Col. Salim",
+            "ch": 118907
+          }
+        ]
+      },
+      {
+        "name": "Heather Emmanuel",
+        "nm": 256464,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Hassan Gadalla",
+        "nm": 2157255,
+        "roles": [
+          {
+            "char": "Secretary to the Council"
+          }
+        ]
+      },
+      {
+        "name": "Tony Arpino",
+        "nm": 37100,
+        "roles": [
+          {
+            "char": "Councillor"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Attard",
+        "nm": 1527230,
+        "roles": [
+          {
+            "char": "Councillor"
+          }
+        ]
+      },
+      {
+        "name": "Victor Ibrahim",
+        "nm": 2111374,
+        "roles": [
+          {
+            "char": "Councillor"
+          }
+        ]
+      },
+      {
+        "name": "David King",
+        "nm": 454627,
+        "roles": [
+          {
+            "char": "Burdett",
+            "ch": 128669
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Gardiner",
+        "nm": 306764,
+        "roles": [
+          {
+            "char": "Burdett's P.A.",
+            "ch": 133340
+          }
+        ]
+      },
+      {
+        "name": "Jimmy Kingsbury",
+        "nm": 2150745,
+        "roles": [
+          {
+            "char": "Newsreader"
+          }
+        ]
+      },
+      {
+        "name": "Noel Johnson",
+        "nm": 425904,
+        "roles": [
+          {
+            "char": "Osborne",
+            "ch": 100454
+          }
+        ]
+      },
+      {
+        "name": "Assad Obeid",
+        "nm": 643186,
+        "roles": [
+          {
+            "char": "Abu Zeki's Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Jean Robinson",
+        "nm": 732722,
+        "roles": [
+          {
+            "char": "Lemka",
+            "ch": 128668
+          }
+        ]
+      },
+      {
+        "name": "Miki Iveria",
+        "nm": 412242,
+        "roles": [
+          {
+            "char": "Lemka's Mother"
+          }
+        ]
+      },
+      {
+        "name": "Walter Gotell",
+        "nm": 331770,
+        "roles": [
+          {
+            "char": "Professor Neilson",
+            "ch": 106713
+          }
+        ]
+      },
+      {
+        "name": "Marcell Fugere",
+        "nm": 2697760,
+        "roles": [
+          {
+            "char": "Computer Guard",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Alan Haider",
+        "nm": 354043,
+        "roles": [
+          {
+            "char": "Councillor",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "H.B. Hayeem",
+        "nm": 2717336,
+        "roles": [
+          {
+            "char": "Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Nisar Hussain",
+        "nm": 2715551,
+        "roles": [
+          {
+            "char": "Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Alfred Kurti",
+        "nm": 2718074,
+        "roles": [
+          {
+            "char": "Extra",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Hurricane",
+    "tt": 960164,
+    "air_date": "1962-07-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Peter Halliday",
+        "nm": 356579,
+        "roles": [
+          {
+            "char": "Fleming",
+            "ch": 100455
+          }
+        ]
+      },
+      {
+        "name": "Susan Hampshire",
+        "nm": 358925,
+        "roles": [
+          {
+            "char": "Andromeda",
+            "ch": 35662
+          }
+        ]
+      },
+      {
+        "name": "Mary Morris",
+        "nm": 606783,
+        "roles": [
+          {
+            "char": "Madeleine Dawnay",
+            "ch": 82076
+          }
+        ]
+      },
+      {
+        "name": "Noel Johnson",
+        "nm": 425904,
+        "roles": [
+          {
+            "char": "Osborne",
+            "ch": 100454
+          }
+        ]
+      },
+      {
+        "name": "David Saire",
+        "nm": 756803,
+        "roles": [
+          {
+            "char": "Abu Zeki",
+            "ch": 128667
+          }
+        ]
+      },
+      {
+        "name": "Heather Emmanuel",
+        "nm": 256464,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Walter Gotell",
+        "nm": 331770,
+        "roles": [
+          {
+            "char": "Professor Neilson",
+            "ch": 106713
+          }
+        ]
+      },
+      {
+        "name": "Frank Henderson",
+        "nm": 376434,
+        "roles": [
+          {
+            "char": "PM's Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Norman Scace",
+        "nm": 768667,
+        "roles": [
+          {
+            "char": "Ratcliff",
+            "ch": 128670
+          }
+        ]
+      },
+      {
+        "name": "Michael Jacques",
+        "nm": 415161,
+        "roles": [
+          {
+            "char": "Intel Agent"
+          }
+        ]
+      },
+      {
+        "name": "Rifat Shenel",
+        "nm": 791519,
+        "roles": [
+          {
+            "char": "Aircrew"
+          }
+        ]
+      },
+      {
+        "name": "Nasser Bin Yaqoob",
+        "nm": 2689188,
+        "roles": [
+          {
+            "char": "Aircrew"
+          }
+        ]
+      },
+      {
+        "name": "Earl Cameron",
+        "nm": 131565,
+        "roles": [
+          {
+            "char": "Yusel"
+          }
+        ]
+      },
+      {
+        "name": "Jean Robinson",
+        "nm": 732722,
+        "roles": [
+          {
+            "char": "Lemka",
+            "ch": 128668
+          }
+        ]
+      },
+      {
+        "name": "Tony Cyrus",
+        "nm": 194304,
+        "roles": [
+          {
+            "char": "Corporal"
+          }
+        ]
+      },
+      {
+        "name": "John Hollis",
+        "nm": 391197,
+        "roles": [
+          {
+            "char": "Kaufman",
+            "ch": 106714
+          }
+        ]
+      },
+      {
+        "name": "Claude Farell",
+        "nm": 267219,
+        "roles": [
+          {
+            "char": "Mlle. Gamboule",
+            "ch": 106712
+          }
+        ]
+      },
+      {
+        "name": "Maurice Hedley",
+        "nm": 373331,
+        "roles": [
+          {
+            "char": "Prime Minister",
+            "ch": 100457
+          }
+        ]
+      },
+      {
+        "name": "David King",
+        "nm": 454627,
+        "roles": [
+          {
+            "char": "Burdett",
+            "ch": 128669
+          }
+        ]
+      },
+      {
+        "name": "Miki Iveria",
+        "nm": 412242,
+        "roles": [
+          {
+            "char": "Lemka's Mother"
+          }
+        ]
+      },
+      {
+        "name": "Al Black",
+        "nm": 3101635,
+        "roles": [
+          {
+            "char": "Computer Guard",
+            "uncredited": true
+          },
+          {
+            "char": "Soldier",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sam Chowdhary",
+        "nm": 1622601,
+        "roles": [
+          {
+            "char": "Flight Engineer",
+            "uncredited": true
+          },
+          {
+            "char": "Lab Assistant",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Dorling",
+        "nm": 2700611,
+        "roles": [
+          {
+            "char": "Radio Newsreader",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nisar Hussain",
+        "nm": 2715551,
+        "roles": [
+          {
+            "char": "Airport Official",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Kirby",
+        "nm": 456229,
+        "roles": [
+          {
+            "char": "Cargo Plane Captain",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Gordon Lang",
+        "nm": 485757,
+        "roles": [
+          {
+            "char": "President's Footman",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "The Roman Peace",
+    "tt": 960166,
+    "air_date": "1962-08-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Peter Halliday",
+        "nm": 356579,
+        "roles": [
+          {
+            "char": "Fleming",
+            "ch": 100455
+          }
+        ]
+      },
+      {
+        "name": "John Hollis",
+        "nm": 391197,
+        "roles": [
+          {
+            "char": "Kaufman",
+            "ch": 106714
+          }
+        ]
+      },
+      {
+        "name": "David Saire",
+        "nm": 756803,
+        "roles": [
+          {
+            "char": "Abu Zeki",
+            "ch": 128667
+          }
+        ]
+      },
+      {
+        "name": "Mary Morris",
+        "nm": 606783,
+        "roles": [
+          {
+            "char": "Madeleine Dawnay",
+            "ch": 82076
+          }
+        ]
+      },
+      {
+        "name": "Noel Johnson",
+        "nm": 425904,
+        "roles": [
+          {
+            "char": "Osborne",
+            "ch": 100454
+          }
+        ]
+      },
+      {
+        "name": "Susan Hampshire",
+        "nm": 358925,
+        "roles": [
+          {
+            "char": "Andromeda",
+            "ch": 35662
+          }
+        ]
+      },
+      {
+        "name": "Heather Emmanuel",
+        "nm": 256464,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Assad Obeid",
+        "nm": 643186,
+        "roles": [
+          {
+            "char": "Abu Zeki's Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Yarrow",
+        "nm": 946531,
+        "roles": [
+          {
+            "char": "President of Azaran"
+          }
+        ]
+      },
+      {
+        "name": "Walter Gotell",
+        "nm": 331770,
+        "roles": [
+          {
+            "char": "Professor Neilson",
+            "ch": 106713
+          }
+        ]
+      },
+      {
+        "name": "Jean Robinson",
+        "nm": 732722,
+        "roles": [
+          {
+            "char": "Lemka",
+            "ch": 128668
+          }
+        ]
+      },
+      {
+        "name": "Earl Cameron",
+        "nm": 131565,
+        "roles": [
+          {
+            "char": "Yusel"
+          }
+        ]
+      },
+      {
+        "name": "Norman Scace",
+        "nm": 768667,
+        "roles": [
+          {
+            "char": "Ratcliff",
+            "ch": 128670
+          }
+        ]
+      },
+      {
+        "name": "Maurice Hedley",
+        "nm": 373331,
+        "roles": [
+          {
+            "char": "Prime Minister",
+            "ch": 100457
+          }
+        ]
+      },
+      {
+        "name": "Peter Digby-Smith",
+        "nm": 2686969,
+        "roles": [
+          {
+            "char": "Man on Wharf"
+          }
+        ]
+      },
+      {
+        "name": "David Chivers",
+        "nm": 158467,
+        "roles": [
+          {
+            "char": "Sharpling"
+          }
+        ]
+      },
+      {
+        "name": "Minush Thuillier",
+        "nm": 862007,
+        "roles": [
+          {
+            "char": "Dancer"
+          }
+        ]
+      },
+      {
+        "name": "Tony Arpino",
+        "nm": 37100,
+        "roles": [
+          {
+            "char": "Azaran Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Nasser Bin Yaqoob",
+        "nm": 2689188,
+        "roles": [
+          {
+            "char": "Azaran Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sam Chowdhary",
+        "nm": 1622601,
+        "roles": [
+          {
+            "char": "Azaran Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Earl",
+        "nm": 1093884,
+        "roles": [
+          {
+            "char": "Wharf Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Marcell Fugere",
+        "nm": 2697760,
+        "roles": [
+          {
+            "char": "Dead Guard",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 2723034,
+        "roles": [
+          {
+            "char": "Wharf Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Alan Haider",
+        "nm": 354043,
+        "roles": [
+          {
+            "char": "Azaran Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Chris Hans",
+        "nm": 2714059,
+        "roles": [
+          {
+            "char": "Azaran Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Philip Howard",
+        "nm": 1440239,
+        "roles": [
+          {
+            "char": "Wharf Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Idris Jones",
+        "nm": 2723780,
+        "roles": [
+          {
+            "char": "Wharf Extra",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Gordon Lang",
+        "nm": 485757,
+        "roles": [
+          {
+            "char": "President's Footman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Abdul Rahmin",
+        "nm": 2722979,
+        "roles": [
+          {
+            "char": "Workman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Rifat Shenel",
+        "nm": 791519,
+        "roles": [
+          {
+            "char": "Workman",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  }
+]

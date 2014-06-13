@@ -1,0 +1,5829 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Killing Ground",
+    "tt": 691916,
+    "air_date": "1975-02-24",
+    "description": "Responding to an early morning call reporting a family dispute Officer Jim Street and his partner fall prey to an ambush by three gunmen. It is just one in a series of ambushes which have plagued the police. In the aftermath of the shooting Street's partner is dead and he tries out for an opening in a newly formed S.W.A.T. unit being headed by Lt. 'Hondo' Harrelson. The teams first assignment is to find and stop the gunmen who have declared war on the city's police.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Lewis",
+        "nm": 507212,
+        "roles": [
+          {
+            "char": "Jack Bonelli"
+          }
+        ]
+      },
+      {
+        "name": "Jesse Vint",
+        "nm": 6956,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "William Lucking",
+        "nm": 524747,
+        "roles": [
+          {
+            "char": "Ray West",
+            "as Bill Lucking": true
+          }
+        ]
+      },
+      {
+        "name": "Annette O'Toole",
+        "nm": 1578,
+        "roles": [
+          {
+            "char": "Rita Bonelli"
+          }
+        ]
+      },
+      {
+        "name": "Taylor Lacher",
+        "nm": 480030,
+        "roles": [
+          {
+            "char": "Rob Duran"
+          }
+        ]
+      },
+      {
+        "name": "Mel Scott",
+        "nm": 779562,
+        "roles": [
+          {
+            "char": "Sam Hanks"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Tobey",
+        "nm": 864851,
+        "roles": [
+          {
+            "char": "Sergeant",
+            "as Kenneth Toby": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Lumley",
+        "nm": 525929,
+        "roles": [
+          {
+            "char": "Mary Duran"
+          }
+        ]
+      },
+      {
+        "name": "Keith Walker",
+        "nm": 907929,
+        "roles": [
+          {
+            "char": "T.V. Announcer"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Coit",
+        "nm": 170039,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Pat Patterson",
+        "nm": 666337,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "A Coven of Killers",
+    "tt": 691886,
+    "air_date": "1975-03-03",
+    "description": "A prisoner is broken out of the prison ward of County General Hospital. His name is Joey Hopper and his followers are referred to as the Hopper Family. The 'family' consists of alienated youths who view Joey Hopper as their spiritual leader. All escape routes out of the city have been closed And SWAT's job is to conduct a sweep of the city and find them. Hopper's goal is to exact revenge against all those who prosecuted him...including 'Hondo' Harrelson.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Ellen Weston",
+        "nm": 922948,
+        "roles": [
+          {
+            "char": "Betty Harrelson"
+          }
+        ]
+      },
+      {
+        "name": "William Windom",
+        "nm": 934750,
+        "roles": [
+          {
+            "char": "Ross Collins"
+          }
+        ]
+      },
+      {
+        "name": "Sal Mineo",
+        "nm": 543,
+        "roles": [
+          {
+            "char": "Joey Hopper"
+          }
+        ]
+      },
+      {
+        "name": "James Keach",
+        "nm": 5077,
+        "roles": [
+          {
+            "char": "Arlie Warren"
+          }
+        ]
+      },
+      {
+        "name": "Belinda Balaski",
+        "nm": 49470,
+        "roles": [
+          {
+            "char": "Judy Collins"
+          }
+        ]
+      },
+      {
+        "name": "Elisha Cook Jr.",
+        "nm": 176879,
+        "roles": [
+          {
+            "char": "Harry Thorne",
+            "as Elisha Cook": true
+          }
+        ]
+      },
+      {
+        "name": "Richard O'Brien",
+        "nm": 639783,
+        "roles": [
+          {
+            "char": "Chief Roman"
+          }
+        ]
+      },
+      {
+        "name": "Peggy McCay",
+        "nm": 565556,
+        "roles": [
+          {
+            "char": "Laura Huston"
+          }
+        ]
+      },
+      {
+        "name": "Mimi Maynard",
+        "nm": 562775,
+        "roles": [
+          {
+            "char": "Pam Morgan"
+          }
+        ]
+      },
+      {
+        "name": "Dan Spelling",
+        "nm": 817684,
+        "roles": [
+          {
+            "char": "Craig Huston"
+          }
+        ]
+      },
+      {
+        "name": "Ross Elliott",
+        "nm": 254616,
+        "roles": [
+          {
+            "char": "Roger Forbes"
+          }
+        ]
+      },
+      {
+        "name": "Lance Taylor Sr.",
+        "nm": 851916,
+        "roles": [
+          {
+            "char": "Sgt. Willis",
+            "as Lance Taylor": true
+          }
+        ]
+      },
+      {
+        "name": "David Adams",
+        "nm": 10884,
+        "roles": [
+          {
+            "char": "Kevin Harrelson",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Harland",
+        "nm": 363247,
+        "roles": [
+          {
+            "char": "Matt Harrelson",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Shayne",
+        "nm": 790171,
+        "roles": [
+          {
+            "char": "Dr.Gordon",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Death Carrier",
+    "tt": 691896,
+    "air_date": "1975-03-10",
+    "description": "Frank Thomas is the 3rd victim of a sniper shooting in the last year. SWAT begins investigating by looking for a common link between the victims. They discover that two of the men dated the same woman...Janet Warren. Harrelson's plan puts Jim Street undercover as her new boyfriend in an attempt to draw out the sniper.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Ronne Troup",
+        "nm": 873761,
+        "roles": [
+          {
+            "char": "Janet"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Barnes",
+        "nm": 55645,
+        "roles": [
+          {
+            "char": "Andrea"
+          }
+        ]
+      },
+      {
+        "name": "David Sheiner",
+        "nm": 790905,
+        "roles": [
+          {
+            "char": "Eric"
+          }
+        ]
+      },
+      {
+        "name": "John Bleifer",
+        "nm": 88197,
+        "roles": [
+          {
+            "char": "First Cutter"
+          }
+        ]
+      },
+      {
+        "name": "Clint Young",
+        "nm": 949411,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Michael E. Perry",
+        "nm": 2243061,
+        "roles": [
+          {
+            "char": "Car Accident Victim",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Pressure Cooker",
+    "tt": 691907,
+    "air_date": "1975-03-17",
+    "description": "Meredith Cooper is a freelance writer sent by the PR department to do a piece on S.W.A.T. for a magazine. She is anti-police and thinks they are a necessary evil but more evil than necessary. Harrelson and the team are told to cooperate and give her what she wants...human interest stories. While she is with them they respond to an APB on a missing girl which may be a kidnapping.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Ellen Weston",
+        "nm": 922948,
+        "roles": [
+          {
+            "char": "Betty Harrelson"
+          }
+        ]
+      },
+      {
+        "name": "Darleen Carr",
+        "nm": 139669,
+        "roles": [
+          {
+            "char": "Meredith Cooper"
+          }
+        ]
+      },
+      {
+        "name": "Logan Ramsey",
+        "nm": 709029,
+        "roles": [
+          {
+            "char": "Merrill Gist"
+          }
+        ]
+      },
+      {
+        "name": "Gerald Hiken",
+        "nm": 383732,
+        "roles": [
+          {
+            "char": "Tolan",
+            "as Gerald Hike": true
+          }
+        ]
+      },
+      {
+        "name": "Jean Allison",
+        "nm": 21446,
+        "roles": [
+          {
+            "char": "Mrs. Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Gary Vinson",
+        "nm": 899090,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Lee Paul",
+        "nm": 666901,
+        "roles": [
+          {
+            "char": "Burly Thug",
+            "ch": 239841
+          }
+        ]
+      },
+      {
+        "name": "Wayne Sutherlin",
+        "nm": 840188,
+        "roles": [
+          {
+            "char": "Long Hair Thug"
+          }
+        ]
+      },
+      {
+        "name": "Fredrica Duke",
+        "nm": 241182,
+        "roles": [
+          {
+            "char": "Laurie"
+          }
+        ]
+      },
+      {
+        "name": "Milt Kogan",
+        "nm": 463100,
+        "roles": [
+          {
+            "char": "Market Owner"
+          }
+        ]
+      },
+      {
+        "name": "Byron Morrow",
+        "nm": 607465,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Paul Sorensen",
+        "nm": 814897,
+        "roles": [
+          {
+            "char": "Fire Captain",
+            "as Paul Sorenson": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Hit Men",
+    "tt": 691899,
+    "air_date": "1975-03-24",
+    "description": "Vincent Ritchie is a drug dealer who has agreed to testify against his former associates. While being escorted into town there is an ambush and during the gunfight he is shot and severely wounded. His future safety is now in the hands of S.W.A.T. The team sets up around the clock surveillance in the hospital wing while the gunmen make plans to hit.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Jess Walton",
+        "nm": 910535,
+        "roles": [
+          {
+            "char": "Carole Ritchie"
+          }
+        ]
+      },
+      {
+        "name": "Paul Stevens",
+        "nm": 828676,
+        "roles": [
+          {
+            "char": "Kenneth Traynor"
+          }
+        ]
+      },
+      {
+        "name": "Walter Brooke",
+        "nm": 111754,
+        "roles": [
+          {
+            "char": "Dr. Woodmore"
+          }
+        ]
+      },
+      {
+        "name": "Robert Loggia",
+        "nm": 5162,
+        "roles": [
+          {
+            "char": "Joe Stevens"
+          }
+        ]
+      },
+      {
+        "name": "Paul Pepper",
+        "nm": 672605,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Ed Walsh",
+        "nm": 1702002,
+        "roles": [
+          {
+            "char": "Kurowski"
+          }
+        ]
+      },
+      {
+        "name": "John Zaremba",
+        "nm": 953437,
+        "roles": [
+          {
+            "char": "Howard Redding"
+          }
+        ]
+      },
+      {
+        "name": "Del Monroe",
+        "nm": 598489,
+        "roles": [
+          {
+            "char": "Pete"
+          }
+        ]
+      },
+      {
+        "name": "Alex Courtney",
+        "nm": 183881,
+        "roles": [
+          {
+            "char": "Richard Warren",
+            "as Alexander Courtney": true
+          }
+        ]
+      },
+      {
+        "name": "Jean Byron",
+        "nm": 126395,
+        "roles": [
+          {
+            "char": "Nurse Marlowe"
+          }
+        ]
+      },
+      {
+        "name": "Ari Sorko-Ram",
+        "nm": 815079,
+        "roles": [
+          {
+            "char": "Nate Smith",
+            "as R.B. Sorko-Ram": true
+          }
+        ]
+      },
+      {
+        "name": "Joseph Mell",
+        "nm": 577865,
+        "roles": [
+          {
+            "char": "Art",
+            "as Joe Mell": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Jungle War",
+    "tt": 691900,
+    "air_date": "1975-03-31",
+    "description": "Bo Pritchard, Hondo's Vietnam buddy, is determined to replaced Deke on Hondo's team. When Deke is wounded, Pritchard gets his chance, put Hondo must make a tough decision when his old friend's reckless behavior puts the team in danger.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Ellen Weston",
+        "nm": 922948,
+        "roles": [
+          {
+            "char": "Betty Harrelson"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Mitchell",
+        "nm": 593192,
+        "roles": [
+          {
+            "char": "Bo Pritchard"
+          }
+        ]
+      },
+      {
+        "name": "Tom Lee McFadden",
+        "nm": 568716,
+        "roles": [
+          {
+            "char": "Bernie Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Frances Reid",
+        "nm": 717265,
+        "roles": [
+          {
+            "char": "Mrs. Dennis"
+          }
+        ]
+      },
+      {
+        "name": "Janet MacLachlan",
+        "nm": 533672,
+        "roles": [
+          {
+            "char": "Cleo"
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Joe D'Andre"
+          }
+        ]
+      },
+      {
+        "name": "Anitra Ford",
+        "nm": 285503,
+        "roles": [
+          {
+            "char": "Gloria"
+          }
+        ]
+      },
+      {
+        "name": "John Lisbon Wood",
+        "nm": 939805,
+        "roles": [
+          {
+            "char": "Joey Simpson"
+          }
+        ]
+      },
+      {
+        "name": "Dallas Mitchell",
+        "nm": 593249,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Warren Munson",
+        "nm": 613240,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Death Score",
+    "tt": 691897,
+    "air_date": "1975-04-07",
+    "description": "Posing as terrorists seeking freedom for their comrades, a group of thugs take an entire pro basketball team hostage during a game. They aren't terrorists, they just hope to extort $2 million from the team's owner.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Robert Webber",
+        "nm": 916434,
+        "roles": [
+          {
+            "char": "Doug McVea"
+          }
+        ]
+      },
+      {
+        "name": "Michael Warren",
+        "nm": 912966,
+        "roles": [
+          {
+            "char": "Ollie Wyatt",
+            "as Mike Warren": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Cavonis",
+        "nm": 147186,
+        "roles": [
+          {
+            "char": "Rameri"
+          }
+        ]
+      },
+      {
+        "name": "Corinne Camacho",
+        "nm": 131074,
+        "roles": [
+          {
+            "char": "Robin Phillips",
+            "as Corinne Michaels": true
+          }
+        ]
+      },
+      {
+        "name": "Berlinda Tolbert",
+        "nm": 865869,
+        "roles": [
+          {
+            "char": "Joanne Wyatt"
+          }
+        ]
+      },
+      {
+        "name": "Stu Nahan",
+        "nm": 619555,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Richard O'Brien",
+        "nm": 639783,
+        "roles": [
+          {
+            "char": "Chief Roman"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Eisley",
+        "nm": 252111,
+        "roles": [
+          {
+            "char": "Warren Royce"
+          }
+        ]
+      },
+      {
+        "name": "Logan Field",
+        "nm": 275987,
+        "roles": [
+          {
+            "char": "Pete Morgan"
+          }
+        ]
+      },
+      {
+        "name": "Tom Malinchak",
+        "nm": 2081673,
+        "roles": [
+          {
+            "char": "Don Benson"
+          }
+        ]
+      },
+      {
+        "name": "Jack Lukes",
+        "nm": 525652,
+        "roles": [
+          {
+            "char": "Nicholas Cortease"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "The Bravo Enigma",
+    "tt": 691914,
+    "air_date": "1975-04-21",
+    "description": "The team's mission to stop the assassination of a U.S. Senator becomes even more urgent when it's learned the killer hired for the job is carrying a deadly plague that could start an epidemic.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Christopher George",
+        "nm": 313387,
+        "roles": [
+          {
+            "char": "Bravo"
+          }
+        ]
+      },
+      {
+        "name": "John Lupton",
+        "nm": 527017,
+        "roles": [
+          {
+            "char": "Senator Richards",
+            "ch": 301479
+          }
+        ]
+      },
+      {
+        "name": "Murray Matheson",
+        "nm": 558569,
+        "roles": [
+          {
+            "char": "Cyrus Porter"
+          }
+        ]
+      },
+      {
+        "name": "Lezlie Dalton",
+        "nm": 198310,
+        "roles": [
+          {
+            "char": "Diane Holt"
+          }
+        ]
+      },
+      {
+        "name": "Rose Marie",
+        "nm": 547300,
+        "roles": [
+          {
+            "char": "Hilda"
+          }
+        ]
+      },
+      {
+        "name": "Robert Ellenstein",
+        "nm": 254006,
+        "roles": [
+          {
+            "char": "Dr. Algrin"
+          }
+        ]
+      },
+      {
+        "name": "Austin Stoker",
+        "nm": 831288,
+        "roles": [
+          {
+            "char": "Dr. Evans"
+          }
+        ]
+      },
+      {
+        "name": "Lou Krugman",
+        "nm": 472632,
+        "roles": [
+          {
+            "char": "Jay Brock"
+          }
+        ]
+      },
+      {
+        "name": "Frank Arno",
+        "nm": 36315,
+        "roles": [
+          {
+            "char": "Lester Cole"
+          }
+        ]
+      },
+      {
+        "name": "Sam Edwards",
+        "nm": 249855,
+        "roles": [
+          {
+            "char": "Morgan"
+          }
+        ]
+      },
+      {
+        "name": "Christian Juttner",
+        "nm": 433289,
+        "roles": [
+          {
+            "char": "Billy Farris"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "The Steel-Plated Security Blanket",
+    "tt": 691919,
+    "air_date": "1975-04-28",
+    "description": "Thugs hijack an armored car and hide it somewhere in Los Angeles. S.W.A.T. borrows another armored car and tries to penetrate it for practice, but can't do it. The stolen car had no money inside, so S.W.A.T. assumes it will be used in a future heist. But where? A national beauty pageant with a million dollars in prizes provides the answer.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Michael Conrad",
+        "nm": 175700,
+        "roles": [
+          {
+            "char": "Vince"
+          }
+        ]
+      },
+      {
+        "name": "Lara Parker",
+        "nm": 662430,
+        "roles": [
+          {
+            "char": "Susan"
+          }
+        ]
+      },
+      {
+        "name": "Farrah Fawcett",
+        "nm": 396,
+        "roles": [
+          {
+            "char": "Miss New Mexico",
+            "as Farrah Fawcett-Majors": true
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Cortland",
+        "nm": 181477,
+        "roles": [
+          {
+            "char": "Dewey"
+          }
+        ]
+      },
+      {
+        "name": "Rose Marie",
+        "nm": 547300,
+        "roles": [
+          {
+            "char": "Hilda"
+          }
+        ]
+      },
+      {
+        "name": "Joan Huntington",
+        "nm": 403124,
+        "roles": [
+          {
+            "char": "Linda"
+          }
+        ]
+      },
+      {
+        "name": "Cec Linder",
+        "nm": 511695,
+        "roles": [
+          {
+            "char": "Blake"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Brown",
+        "nm": 114790,
+        "roles": [
+          {
+            "char": "Jesse"
+          }
+        ]
+      },
+      {
+        "name": "Erica Hagen",
+        "nm": 353385,
+        "roles": [
+          {
+            "char": "Willa"
+          }
+        ]
+      },
+      {
+        "name": "Carole Ita White",
+        "nm": 924578,
+        "roles": [
+          {
+            "char": "Augusta"
+          }
+        ]
+      },
+      {
+        "name": "Loni Anderson",
+        "nm": 756,
+        "roles": [
+          {
+            "char": "Miss Texas"
+          }
+        ]
+      },
+      {
+        "name": "Jillian Kesner",
+        "nm": 450242,
+        "roles": [
+          {
+            "char": "Miss California"
+          }
+        ]
+      },
+      {
+        "name": "Robert Hackman",
+        "nm": 352550,
+        "roles": [
+          {
+            "char": "Dispatcher"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Montgomery",
+        "nm": 599892,
+        "roles": [
+          {
+            "char": "Morton"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Omega One",
+    "tt": 691905,
+    "air_date": "1975-05-05",
+    "description": "A student protest is a cover for radicals to infiltrate a chemical plant and demand a million-dollar ransom. S.W.A.T. has only a short time to sneak in, rescue the hostages, and deactivate the programmed explosion.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Kip Niven",
+        "nm": 633121,
+        "roles": [
+          {
+            "char": "Stockwell",
+            "as Nip Niven": true
+          }
+        ]
+      },
+      {
+        "name": "Elliott Street",
+        "nm": 834071,
+        "roles": [
+          {
+            "char": "Trooper"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Stich",
+        "nm": 829986,
+        "roles": [
+          {
+            "char": "Marcia"
+          }
+        ]
+      },
+      {
+        "name": "Sam Jaffe",
+        "nm": 415488,
+        "roles": [
+          {
+            "char": "Dr. Brunner"
+          }
+        ]
+      },
+      {
+        "name": "Louise Lewis",
+        "nm": 507486,
+        "roles": [
+          {
+            "char": "Mrs. Brunner",
+            "as Louise Fitch": true
+          }
+        ]
+      },
+      {
+        "name": "William Vaughan",
+        "nm": 891122,
+        "roles": [
+          {
+            "char": "Barone"
+          }
+        ]
+      },
+      {
+        "name": "Don Furneaux",
+        "nm": 1711102,
+        "roles": [
+          {
+            "char": "Mr. Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "John Davey",
+        "nm": 202726,
+        "roles": [
+          {
+            "char": "Novak"
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Clinton",
+            "as Kerry Mahan": true
+          }
+        ]
+      },
+      {
+        "name": "Joanne Nail",
+        "nm": 619701,
+        "roles": [
+          {
+            "char": "Pam McCabe"
+          }
+        ]
+      },
+      {
+        "name": "Gary Brient",
+        "nm": 1711031,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Robert P. Lieb",
+        "nm": 509294,
+        "roles": [
+          {
+            "char": "Mayor"
+          }
+        ]
+      },
+      {
+        "name": "James Griffith",
+        "nm": 341526,
+        "roles": [
+          {
+            "char": "Sgt. Reardon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Blind Man's Bluff",
+    "tt": 691888,
+    "air_date": "1975-05-12",
+    "description": "Harrelson is shot although he survives, his vision is in question. So until he can be cleared he is assigned to a desk job.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Ellen Weston",
+        "nm": 922948,
+        "roles": [
+          {
+            "char": "Betty Harrelson"
+          }
+        ]
+      },
+      {
+        "name": "Frank Aletter",
+        "nm": 18173,
+        "roles": [
+          {
+            "char": "Lt. Purcell"
+          }
+        ]
+      },
+      {
+        "name": "Richard Evans",
+        "nm": 263154,
+        "roles": [
+          {
+            "char": "Arly"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Rubin",
+        "nm": 748004,
+        "roles": [
+          {
+            "char": "Bud"
+          }
+        ]
+      },
+      {
+        "name": "Rose Marie",
+        "nm": 547300,
+        "roles": [
+          {
+            "char": "Hilda"
+          }
+        ]
+      },
+      {
+        "name": "Richard O'Brien",
+        "nm": 639783,
+        "roles": [
+          {
+            "char": "Chief Roman"
+          }
+        ]
+      },
+      {
+        "name": "Byron Morrow",
+        "nm": 607465,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Joan Shawlee",
+        "nm": 790064,
+        "roles": [
+          {
+            "char": "Parlor Owner"
+          }
+        ]
+      },
+      {
+        "name": "Kay Stewart",
+        "nm": 829558,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Trent Dolan",
+        "nm": 230855,
+        "roles": [
+          {
+            "char": "Police Officer"
+          }
+        ]
+      },
+      {
+        "name": "Ann Sidney",
+        "nm": 796635,
+        "roles": [
+          {
+            "char": "Regeena"
+          }
+        ]
+      },
+      {
+        "name": "Ilona Wilson",
+        "nm": 933517,
+        "roles": [
+          {
+            "char": "Loreen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Sole Survivor",
+    "tt": 691912,
+    "air_date": "1975-05-26",
+    "description": "A gang of ex-convicts, led by their former parole officer, utilizing his familiarity with S.W.A.T. procedures, invades a heavily guarded rare coin auction and makes off with two million dollars is gold in \"Sole Survivor.\"",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Ellen Weston",
+        "nm": 922948,
+        "roles": [
+          {
+            "char": "Betty Harrelson"
+          }
+        ]
+      },
+      {
+        "name": "Simon Oakland",
+        "nm": 643000,
+        "roles": [
+          {
+            "char": "Frank Hunter"
+          }
+        ]
+      },
+      {
+        "name": "Jim McMullan",
+        "nm": 573401,
+        "roles": [
+          {
+            "char": "Sylvestor Gray",
+            "as James McMullan": true
+          }
+        ]
+      },
+      {
+        "name": "Hal Williams",
+        "nm": 930724,
+        "roles": [
+          {
+            "char": "Bo Tate"
+          }
+        ]
+      },
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "Ben Wiley",
+            "as George Di Cenzo": true
+          }
+        ]
+      },
+      {
+        "name": "Rose Marie",
+        "nm": 547300,
+        "roles": [
+          {
+            "char": "Hilda"
+          }
+        ]
+      },
+      {
+        "name": "Ben Wright",
+        "nm": 942220,
+        "roles": [
+          {
+            "char": "Mr. Jarvis"
+          }
+        ]
+      },
+      {
+        "name": "Ike Eisenmann",
+        "nm": 252055,
+        "roles": [
+          {
+            "char": "Timmy Lacey",
+            "as Ike Eisenman": true
+          }
+        ]
+      },
+      {
+        "name": "Burt Douglas",
+        "nm": 234977,
+        "roles": [
+          {
+            "char": "Lacey"
+          }
+        ]
+      },
+      {
+        "name": "Ari Sorko-Ram",
+        "nm": 815079,
+        "roles": [
+          {
+            "char": "Sgt. #1",
+            "as R.B. Sorko-Ram": true
+          }
+        ]
+      },
+      {
+        "name": "Montana Smoyer",
+        "nm": 810694,
+        "roles": [
+          {
+            "char": "House Mother"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Dodd",
+        "nm": 230060,
+        "roles": [
+          {
+            "char": "Mrs. Lacey"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Deadly Tide: Part 1",
+    "tt": 691892,
+    "air_date": "1975-09-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Susan Dey",
+        "nm": 1138,
+        "roles": [
+          {
+            "char": "Janice"
+          }
+        ]
+      },
+      {
+        "name": "Christopher George",
+        "nm": 313387,
+        "roles": [
+          {
+            "char": "Harry"
+          }
+        ]
+      },
+      {
+        "name": "Sal Mineo",
+        "nm": 543,
+        "roles": [
+          {
+            "char": "Roy"
+          }
+        ]
+      },
+      {
+        "name": "Phil Silvers",
+        "nm": 799014,
+        "roles": [
+          {
+            "char": "Russ Baker"
+          }
+        ]
+      },
+      {
+        "name": "Don Stroud",
+        "nm": 835144,
+        "roles": [
+          {
+            "char": "Dan"
+          }
+        ]
+      },
+      {
+        "name": "Lesley Ann Warren",
+        "nm": 690,
+        "roles": [
+          {
+            "char": "Linda",
+            "as Lesley Warren": true
+          }
+        ]
+      },
+      {
+        "name": "Loni Anderson",
+        "nm": 756,
+        "roles": [
+          {
+            "char": "Art Teacher"
+          }
+        ]
+      },
+      {
+        "name": "Craig R. Baxley",
+        "nm": 62644,
+        "roles": [
+          {
+            "char": "Tommy"
+          }
+        ]
+      },
+      {
+        "name": "Ken Sansom",
+        "nm": 763052,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Laird Stuart",
+        "nm": 6422,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Ed White",
+        "nm": 924758,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Deadly Tide: Part 2",
+    "tt": 691893,
+    "air_date": "1975-09-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Susan Dey",
+        "nm": 1138,
+        "roles": [
+          {
+            "char": "Janice"
+          }
+        ]
+      },
+      {
+        "name": "Christopher George",
+        "nm": 313387,
+        "roles": [
+          {
+            "char": "Harry"
+          }
+        ]
+      },
+      {
+        "name": "Sal Mineo",
+        "nm": 543,
+        "roles": [
+          {
+            "char": "Roy"
+          }
+        ]
+      },
+      {
+        "name": "Phil Silvers",
+        "nm": 799014,
+        "roles": [
+          {
+            "char": "Russ Baker"
+          }
+        ]
+      },
+      {
+        "name": "Don Stroud",
+        "nm": 835144,
+        "roles": [
+          {
+            "char": "Dan"
+          }
+        ]
+      },
+      {
+        "name": "Lesley Ann Warren",
+        "nm": 690,
+        "roles": [
+          {
+            "char": "Linda",
+            "as Lesley Warren": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Sansom",
+        "nm": 763052,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ed White",
+        "nm": 924758,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Kill S.W.A.T.",
+    "tt": 691901,
+    "air_date": "1975-09-20",
+    "description": "Hondo and his team are set up as targets for mass execution by a family of criminals who have convinced themselves that the death of one of their kin was an act of S.W.A.T. \"brutality.\"",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "David Canary",
+        "nm": 133597,
+        "roles": [
+          {
+            "char": "Blake Phillips"
+          }
+        ]
+      },
+      {
+        "name": "Trent Dolan",
+        "nm": 230855,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Joanne Dorian",
+        "nm": 233654,
+        "roles": [
+          {
+            "char": "Diane Baylor"
+          }
+        ]
+      },
+      {
+        "name": "Don Eitner",
+        "nm": 252190,
+        "roles": [
+          {
+            "char": "Frank Baylor"
+          }
+        ]
+      },
+      {
+        "name": "Ben Frank",
+        "nm": 290843,
+        "roles": [
+          {
+            "char": "Simon Bishop"
+          }
+        ]
+      },
+      {
+        "name": "Diana Hyland",
+        "nm": 405076,
+        "roles": [
+          {
+            "char": "Joanna Bishop"
+          }
+        ]
+      },
+      {
+        "name": "Wyatt Johnson",
+        "nm": 426453,
+        "roles": [
+          {
+            "char": "Ben Wade"
+          }
+        ]
+      },
+      {
+        "name": "David Nash",
+        "nm": 621705,
+        "roles": [
+          {
+            "char": "Mike Bishop"
+          }
+        ]
+      },
+      {
+        "name": "Jimmy Weldon",
+        "nm": 919729,
+        "roles": [
+          {
+            "char": "Diner Owner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Dealers in Death",
+    "tt": 691895,
+    "air_date": "1975-09-27",
+    "description": "Lt. Hondo Harrelson sends Dom Luca and T.J. McCabe on special undercover assignment to track down the supplier of sophisticated automatic weapons being used in a series of crimes.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Bobby Bass",
+        "nm": 60037,
+        "roles": [
+          {
+            "char": "Bus Driver"
+          }
+        ]
+      },
+      {
+        "name": "Claire Brennen",
+        "nm": 107268,
+        "roles": [
+          {
+            "char": "Janie"
+          }
+        ]
+      },
+      {
+        "name": "Rex Holman",
+        "nm": 391637,
+        "roles": [
+          {
+            "char": "Dietrich"
+          }
+        ]
+      },
+      {
+        "name": "Sean McClory",
+        "nm": 565887,
+        "roles": [
+          {
+            "char": "James Patrick Ryan"
+          }
+        ]
+      },
+      {
+        "name": "Hank Stohl",
+        "nm": 831129,
+        "roles": [
+          {
+            "char": "Peters"
+          }
+        ]
+      },
+      {
+        "name": "John Vernon",
+        "nm": 6893,
+        "roles": [
+          {
+            "char": "Shannon"
+          }
+        ]
+      },
+      {
+        "name": "Edward Walsh",
+        "nm": 909624,
+        "roles": [
+          {
+            "char": "Bonelli",
+            "as Ed Walsh": true
+          }
+        ]
+      },
+      {
+        "name": "Frank Whiteman",
+        "nm": 925831,
+        "roles": [
+          {
+            "char": "Parsons"
+          }
+        ]
+      },
+      {
+        "name": "John A. Zee",
+        "nm": 954173,
+        "roles": [
+          {
+            "char": "Devere"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Time Bomb",
+    "tt": 691922,
+    "air_date": "1975-10-04",
+    "description": "The team is trying out one of their new devices at a movie studio. When they're done Street leaves his behind. He and Luca ans McCabe are suppose to go out with their girlfriends so he picks her up when he remembers he left it behind. He goes back to get it but some men came after the team left and have planted explosives all over the studio as part of an extortion scheme. When Street gets trapped he uses it to signal the others who rush to the studio.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "William Smith",
+        "nm": 810342,
+        "roles": [
+          {
+            "char": "Cowboy"
+          }
+        ]
+      },
+      {
+        "name": "Heather Menzies-Urich",
+        "nm": 579991,
+        "roles": [
+          {
+            "char": "Sheri",
+            "as Heather Menzies": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Donner",
+        "nm": 232817,
+        "roles": [
+          {
+            "char": "Sarge"
+          }
+        ]
+      },
+      {
+        "name": "John Dennis",
+        "nm": 112392,
+        "roles": [
+          {
+            "char": "Kelley"
+          }
+        ]
+      },
+      {
+        "name": "Don Eitner",
+        "nm": 252190,
+        "roles": [
+          {
+            "char": "Pat - The Sniper"
+          }
+        ]
+      },
+      {
+        "name": "Paul Bryar",
+        "nm": 117269,
+        "roles": [
+          {
+            "char": "Charlie"
+          }
+        ]
+      },
+      {
+        "name": "Eddie Hice",
+        "nm": 382554,
+        "roles": [
+          {
+            "char": "Martinez"
+          }
+        ]
+      },
+      {
+        "name": "Fred Dale",
+        "nm": 197693,
+        "roles": [
+          {
+            "char": "Baker"
+          }
+        ]
+      },
+      {
+        "name": "Susan Forman",
+        "nm": 1707440,
+        "roles": [
+          {
+            "char": "Elena"
+          }
+        ]
+      },
+      {
+        "name": "Jean Fraser",
+        "nm": 1712476,
+        "roles": [
+          {
+            "char": "Susan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "The Vendetta",
+    "tt": 691921,
+    "air_date": "1975-10-11",
+    "description": "Lt. Hondo Harrelson and a crooked property owner are marked for death by a pair of vengeance-seeking ex-convicts.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Aldo Ray",
+        "nm": 712731,
+        "roles": [
+          {
+            "char": "Ralph Costas"
+          }
+        ]
+      },
+      {
+        "name": "Paul Mantee",
+        "nm": 544045,
+        "roles": [
+          {
+            "char": "Lang"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Johnny Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Melissa Murphy",
+        "nm": 614524,
+        "roles": [
+          {
+            "char": "Ruth Brewer"
+          }
+        ]
+      },
+      {
+        "name": "William Sargent",
+        "nm": 765095,
+        "roles": [
+          {
+            "char": "Sergeant Cleary"
+          }
+        ]
+      },
+      {
+        "name": "Scott Newman",
+        "nm": 628263,
+        "roles": [
+          {
+            "char": "Will Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Richard Collier",
+        "nm": 171956,
+        "roles": [
+          {
+            "char": "Shopkeeper"
+          }
+        ]
+      },
+      {
+        "name": "Susan Sullivan",
+        "nm": 838360,
+        "roles": [
+          {
+            "char": "Julia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Criss-Cross",
+    "tt": 691890,
+    "air_date": "1975-10-18",
+    "description": "SWAT investigates a series of warehouse heists and seeks a runaway teenage girl who witnessed the thieves in action. Hovering over the investigation is a former senator with an invested interest.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Carl Betz",
+        "nm": 79475,
+        "roles": [
+          {
+            "char": "Greg Colby"
+          }
+        ]
+      },
+      {
+        "name": "Jack Hogan",
+        "nm": 389537,
+        "roles": [
+          {
+            "char": "Frank"
+          }
+        ]
+      },
+      {
+        "name": "Neva Patterson",
+        "nm": 666332,
+        "roles": [
+          {
+            "char": "Ellen Stafford"
+          }
+        ]
+      },
+      {
+        "name": "Monica Gayle",
+        "nm": 310898,
+        "roles": [
+          {
+            "char": "Kathy"
+          }
+        ]
+      },
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Ed"
+          }
+        ]
+      },
+      {
+        "name": "Sander Johnson",
+        "nm": 426176,
+        "roles": [
+          {
+            "char": "Joe Winters"
+          }
+        ]
+      },
+      {
+        "name": "Steven Morgan",
+        "nm": 605047,
+        "roles": [
+          {
+            "char": "Arnold Stokes"
+          }
+        ]
+      },
+      {
+        "name": "Bill McLean",
+        "nm": 565686,
+        "roles": [
+          {
+            "char": "Butler"
+          }
+        ]
+      },
+      {
+        "name": "Duffy Hambleton",
+        "nm": 357392,
+        "roles": [
+          {
+            "char": "Cal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Vigilante",
+    "tt": 691923,
+    "air_date": "1975-10-25",
+    "description": "Paul Julian, a radio repairman and friend to most of the S.W.A.T. team, lost his wife to a brutal killer, and has gone mad obsessing over her death. He keeps a police scanner tuned to S.W.A.T. and shows up at their stakeouts. Whenever the bad guys come out, to surrender or otherwise, he shoots them.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Robert Gribbin",
+        "nm": 340791,
+        "roles": [
+          {
+            "char": "Second Officer"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Jones",
+        "nm": 428896,
+        "roles": [
+          {
+            "char": "First Officer"
+          }
+        ]
+      },
+      {
+        "name": "Jack Kissell",
+        "nm": 1149461,
+        "roles": [
+          {
+            "char": "Mr. Robertson"
+          }
+        ]
+      },
+      {
+        "name": "Janet Margolin",
+        "nm": 546755,
+        "roles": [
+          {
+            "char": "Emily"
+          }
+        ]
+      },
+      {
+        "name": "Jimmy McNichol",
+        "nm": 574000,
+        "roles": [
+          {
+            "char": "Youth"
+          }
+        ]
+      },
+      {
+        "name": "Richard O'Brien",
+        "nm": 639783,
+        "roles": [
+          {
+            "char": "Chief Roman"
+          }
+        ]
+      },
+      {
+        "name": "John Lisbon Wood",
+        "nm": 939805,
+        "roles": [
+          {
+            "char": "Gunman"
+          }
+        ]
+      },
+      {
+        "name": "Harris Yulin",
+        "nm": 950867,
+        "roles": [
+          {
+            "char": "Paul Julian"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Courthouse",
+    "tt": 691889,
+    "air_date": "1975-11-01",
+    "description": "Four thugs knock over a race track for $2 million, but only two of them escape. One of the one left behind is killed and the other captured. The gang tries elaborate methods to try to spring the surviving accomplice when he goes to trial.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Elisha Cook Jr.",
+        "nm": 176879,
+        "roles": [
+          {
+            "char": "Albert Winters"
+          }
+        ]
+      },
+      {
+        "name": "Brad Dexter",
+        "nm": 223290,
+        "roles": [
+          {
+            "char": "Captain Ward"
+          }
+        ]
+      },
+      {
+        "name": "Bill Fletcher",
+        "nm": 281950,
+        "roles": [
+          {
+            "char": "Howard Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Anitra Ford",
+        "nm": 285503,
+        "roles": [
+          {
+            "char": "Peggy"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Hacker",
+        "nm": 352420,
+        "roles": [
+          {
+            "char": "Patrolman"
+          }
+        ]
+      },
+      {
+        "name": "Robert Hackman",
+        "nm": 352550,
+        "roles": [
+          {
+            "char": "Webster"
+          }
+        ]
+      },
+      {
+        "name": "Deidre Hall",
+        "nm": 4984,
+        "roles": [
+          {
+            "char": "Diane"
+          }
+        ]
+      },
+      {
+        "name": "Zitto Kazann",
+        "nm": 443601,
+        "roles": [
+          {
+            "char": "Peterson"
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Sommers",
+        "nm": 3004174,
+        "roles": [
+          {
+            "char": "Teller"
+          }
+        ]
+      },
+      {
+        "name": "Joe Turkel",
+        "nm": 877185,
+        "roles": [
+          {
+            "char": "Freddie"
+          }
+        ]
+      },
+      {
+        "name": "Robert Webber",
+        "nm": 916434,
+        "roles": [
+          {
+            "char": "Mike Simon",
+            "ch": 362232
+          }
+        ]
+      },
+      {
+        "name": "H.M. Wynant",
+        "nm": 943894,
+        "roles": [
+          {
+            "char": "Bridges"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Ordeal",
+    "tt": 691906,
+    "air_date": "1975-11-08",
+    "description": "Hondo and a talkative dope dealer marked for execution are stranded to ether in rugged terrain after surviving the crash of a sabotaged helicopter. Frank Gorshin guest stars.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "John Brascia",
+        "nm": 105351,
+        "roles": [
+          {
+            "char": "Tom"
+          }
+        ]
+      },
+      {
+        "name": "Richard Davalos",
+        "nm": 202501,
+        "roles": [
+          {
+            "char": "Manny"
+          }
+        ]
+      },
+      {
+        "name": "James W. Gavin",
+        "nm": 310542,
+        "roles": [
+          {
+            "char": "Pilot"
+          }
+        ]
+      },
+      {
+        "name": "Frank Gorshin",
+        "nm": 331319,
+        "roles": [
+          {
+            "char": "Johnny Rizi"
+          }
+        ]
+      },
+      {
+        "name": "Alan Manson",
+        "nm": 543904,
+        "roles": [
+          {
+            "char": "Norman"
+          }
+        ]
+      },
+      {
+        "name": "Gary Pagett",
+        "nm": 656450,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Strike Force",
+    "tt": 1023786,
+    "air_date": "1975-11-15",
+    "description": "The team has been assigned to protect a white supremacist. What they don't know is that the man's wife and right hand are having an affair and are plotting something.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "John Brascia",
+        "nm": 105351,
+        "roles": [
+          {
+            "char": "Tom"
+          }
+        ]
+      },
+      {
+        "name": "Anjanette Comer",
+        "nm": 173735,
+        "roles": [
+          {
+            "char": "Alicia Woodward"
+          }
+        ]
+      },
+      {
+        "name": "Richard Davalos",
+        "nm": 202501,
+        "roles": [
+          {
+            "char": "Manny",
+            "as Dick Davalos": true
+          }
+        ]
+      },
+      {
+        "name": "John Dehner",
+        "nm": 215000,
+        "roles": [
+          {
+            "char": "Gen. Woodward"
+          }
+        ]
+      },
+      {
+        "name": "Robert Dowdell",
+        "nm": 235703,
+        "roles": [
+          {
+            "char": "Peter Sedley"
+          }
+        ]
+      },
+      {
+        "name": "John Ericson",
+        "nm": 259152,
+        "roles": [
+          {
+            "char": "Capt. Brenner"
+          }
+        ]
+      },
+      {
+        "name": "Frank Gorshin",
+        "nm": 331319,
+        "roles": [
+          {
+            "char": "Johnny Rizi"
+          }
+        ]
+      },
+      {
+        "name": "James Hall",
+        "nm": 5120297,
+        "roles": [
+          {
+            "char": "Sentry"
+          }
+        ]
+      },
+      {
+        "name": "Brick Huston",
+        "nm": 404106,
+        "roles": [
+          {
+            "char": "Deputy Sheriff"
+          }
+        ]
+      },
+      {
+        "name": "Victor Izay",
+        "nm": 412731,
+        "roles": [
+          {
+            "char": "Miles Sander"
+          }
+        ]
+      },
+      {
+        "name": "John Kerry",
+        "nm": 5120440,
+        "roles": [
+          {
+            "char": "Sgt. Conover"
+          }
+        ]
+      },
+      {
+        "name": "Alan Manson",
+        "nm": 543904,
+        "roles": [
+          {
+            "char": "Norman Crown"
+          }
+        ]
+      },
+      {
+        "name": "Ray Middleton",
+        "nm": 5120593,
+        "roles": [
+          {
+            "char": "Gregory Kenyon"
+          }
+        ]
+      },
+      {
+        "name": "Gene Otis",
+        "nm": 652901,
+        "roles": [
+          {
+            "char": "Jim Morgan"
+          }
+        ]
+      },
+      {
+        "name": "Gary Pagett",
+        "nm": 656450,
+        "roles": [
+          {
+            "char": "Sgt. Connors"
+          }
+        ]
+      },
+      {
+        "name": "K.T. Stevens",
+        "nm": 828523,
+        "roles": [
+          {
+            "char": "Mrs. Prescott"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "The Swinger",
+    "tt": 691920,
+    "air_date": "1975-11-22",
+    "description": "The wild, man-crazy 15-year-old daughter of a district attorney leads Jim Street on a frantic chase as a enforcer plots to abduct the girl and trade her life for her father's cooperation.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Arline Anderson",
+        "nm": 26371,
+        "roles": [
+          {
+            "char": "Marie"
+          }
+        ]
+      },
+      {
+        "name": "Jane Alice Brandon",
+        "nm": 104772,
+        "roles": [
+          {
+            "char": "Torry Stevens"
+          }
+        ]
+      },
+      {
+        "name": "Ric Carrott",
+        "nm": 141057,
+        "roles": [
+          {
+            "char": "Gary Bennett"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Douglas",
+        "nm": 235112,
+        "roles": [
+          {
+            "char": "Ryan"
+          }
+        ]
+      },
+      {
+        "name": "Ed Gilbert",
+        "nm": 318027,
+        "roles": [
+          {
+            "char": "John Stevens",
+            "as Edmund Gilbert": true
+          }
+        ]
+      },
+      {
+        "name": "Al Ruscio",
+        "nm": 750596,
+        "roles": [
+          {
+            "char": "Frank Deal"
+          }
+        ]
+      },
+      {
+        "name": "Mark Thomas",
+        "nm": 859210,
+        "roles": [
+          {
+            "char": "Al Davis"
+          }
+        ]
+      },
+      {
+        "name": "Tony Young",
+        "nm": 950119,
+        "roles": [
+          {
+            "char": "Rosetti"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "Terror Ship",
+    "tt": 691913,
+    "air_date": "1975-11-29",
+    "description": "A tugboat hauling a barge laden with explosives is hijacked by a man who threatens to blow up the harbor and murder a famous marine biologist unless Hondo Harrelson delivers a million dollars in cash.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Paul Carr",
+        "nm": 139824,
+        "roles": [
+          {
+            "char": "Chuck Jennings"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Haymer",
+        "nm": 371372,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Don Keefer",
+        "nm": 444411,
+        "roles": [
+          {
+            "char": "Captain Wallen"
+          }
+        ]
+      },
+      {
+        "name": "Milt Kogan",
+        "nm": 463100,
+        "roles": [
+          {
+            "char": "Market Owner"
+          }
+        ]
+      },
+      {
+        "name": "James Luisi",
+        "nm": 525403,
+        "roles": [
+          {
+            "char": "Phil Garland"
+          }
+        ]
+      },
+      {
+        "name": "Frank Maxwell",
+        "nm": 561702,
+        "roles": [
+          {
+            "char": "Captain Grady"
+          }
+        ]
+      },
+      {
+        "name": "Tom McDonald",
+        "nm": 568033,
+        "roles": [
+          {
+            "char": "Sam White"
+          }
+        ]
+      },
+      {
+        "name": "Diana Muldaur",
+        "nm": 611707,
+        "roles": [
+          {
+            "char": "Kate Darby"
+          }
+        ]
+      },
+      {
+        "name": "Lee Paul",
+        "nm": 666901,
+        "roles": [
+          {
+            "char": "Burly Thug",
+            "ch": 239841
+          }
+        ]
+      },
+      {
+        "name": "Betty Anne Rees",
+        "nm": 715883,
+        "roles": [
+          {
+            "char": "Janie Carew"
+          }
+        ]
+      },
+      {
+        "name": "Herb Robins",
+        "nm": 732299,
+        "roles": [
+          {
+            "char": "Seaman"
+          }
+        ]
+      },
+      {
+        "name": "Wayne Sutherlin",
+        "nm": 840188,
+        "roles": [
+          {
+            "char": "Longhair Thug"
+          }
+        ]
+      },
+      {
+        "name": "Clint Young",
+        "nm": 949411,
+        "roles": [
+          {
+            "char": "Patrolman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "Murder by Fire",
+    "tt": 691903,
+    "air_date": "1975-12-06",
+    "description": "Hondo and his team go after a gang of arsonist-killers who pose as firemen, evacuate posh homes, shoot at actual firemen and police and escape with a fortune in jewels, paintings and antiques.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Arthur Adams",
+        "nm": 10751,
+        "roles": [
+          {
+            "char": "Captain Evans"
+          }
+        ]
+      },
+      {
+        "name": "Luke Askew",
+        "nm": 39435,
+        "roles": [
+          {
+            "char": "Todd"
+          }
+        ]
+      },
+      {
+        "name": "Peter Breck",
+        "nm": 106539,
+        "roles": [
+          {
+            "char": "Marco"
+          }
+        ]
+      },
+      {
+        "name": "Corinne Camacho",
+        "nm": 131074,
+        "roles": [
+          {
+            "char": "Renee Lavalle",
+            "as Corinne Michaels": true
+          }
+        ]
+      },
+      {
+        "name": "Jean Gillespie",
+        "nm": 318944,
+        "roles": [
+          {
+            "char": "Betty Walker"
+          }
+        ]
+      },
+      {
+        "name": "Anthony James",
+        "nm": 416279,
+        "roles": [
+          {
+            "char": "Lonzo"
+          }
+        ]
+      },
+      {
+        "name": "Murray Matheson",
+        "nm": 558569,
+        "roles": [
+          {
+            "char": "Armand"
+          }
+        ]
+      },
+      {
+        "name": "Frank Parker",
+        "nm": 662243,
+        "roles": [
+          {
+            "char": "Larry Walker"
+          }
+        ]
+      },
+      {
+        "name": "Ed Peck",
+        "nm": 669653,
+        "roles": [
+          {
+            "char": "Captain Salter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E15",
+    "title": "Silent Night, Deadly Night",
+    "tt": 691910,
+    "air_date": "1975-12-13",
+    "description": "A woman doctor and her \"patient\" plot to steal a half-million in jewels from a socialite who has brought the gems into the hospital where she is undergoing cosmetic surgery.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Anne Francis",
+        "nm": 4282,
+        "roles": [
+          {
+            "char": "Doris Wainwright Bristol"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Baur",
+        "nm": 62420,
+        "roles": [
+          {
+            "char": "Dr. Ellen Benton"
+          }
+        ]
+      },
+      {
+        "name": "Alan Oppenheimer",
+        "nm": 649178,
+        "roles": [
+          {
+            "char": "Dr. Norman Davis"
+          }
+        ]
+      },
+      {
+        "name": "Jodean Lawrence",
+        "nm": 492828,
+        "roles": [
+          {
+            "char": "Margaret Doan",
+            "as Jodean Russo": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Callan",
+        "nm": 130286,
+        "roles": [
+          {
+            "char": "Frank Molloy"
+          }
+        ]
+      },
+      {
+        "name": "Rose Marie",
+        "nm": 547300,
+        "roles": [
+          {
+            "char": "Hilda"
+          }
+        ]
+      },
+      {
+        "name": "Frank Campanella",
+        "nm": 132100,
+        "roles": [
+          {
+            "char": "Joe DeLeon"
+          }
+        ]
+      },
+      {
+        "name": "Richard Forbes",
+        "nm": 285393,
+        "roles": [
+          {
+            "char": "Willie Domino"
+          }
+        ]
+      },
+      {
+        "name": "Kay Stewart",
+        "nm": 829558,
+        "roles": [
+          {
+            "char": "Cora Winfield"
+          }
+        ]
+      },
+      {
+        "name": "Dan Barton",
+        "nm": 59114,
+        "roles": [
+          {
+            "char": "Detective Locker"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Jones",
+        "nm": 428896,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Len Ross",
+        "nm": 743608,
+        "roles": [
+          {
+            "char": "George Barton"
+          }
+        ]
+      },
+      {
+        "name": "Tara Talboy",
+        "nm": 848006,
+        "roles": [
+          {
+            "char": "Mandy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E16",
+    "title": "The Running Man: Part 1",
+    "tt": 130418,
+    "air_date": "1976-01-24",
+    "description": "S.W.A.T. is tasked by the Justice Department with protecting a key witness in a trial against a crime kingpin. The mob pulls out all stops and stoops to new lows to locate and liquidate David Neil.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Stuart Whitman",
+        "nm": 926183,
+        "roles": [
+          {
+            "char": "David Neil"
+          },
+          {
+            "char": "Ben Jordan"
+          }
+        ]
+      },
+      {
+        "name": "David Opatoshu",
+        "nm": 649055,
+        "roles": [
+          {
+            "char": "Alexander Vincent"
+          }
+        ]
+      },
+      {
+        "name": "James Darren",
+        "nm": 201626,
+        "roles": [
+          {
+            "char": "Joey Wade"
+          }
+        ]
+      },
+      {
+        "name": "John Lupton",
+        "nm": 527017,
+        "roles": [
+          {
+            "char": "John Tyler",
+            "ch": 301479
+          }
+        ]
+      },
+      {
+        "name": "Linda Marsh",
+        "nm": 550604,
+        "roles": [
+          {
+            "char": "Julia Abbott"
+          }
+        ]
+      },
+      {
+        "name": "Jim McMullan",
+        "nm": 573401,
+        "roles": [
+          {
+            "char": "Deputy Tom Holden",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Bruce Glover",
+        "nm": 323098,
+        "roles": [
+          {
+            "char": "J.D. Upton",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Forrest Tucker",
+        "nm": 875861,
+        "roles": [
+          {
+            "char": "Owen Fiske",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Donna Mills",
+        "nm": 5234,
+        "roles": [
+          {
+            "char": "Lauren Brooks",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Leslie Nielsen",
+        "nm": 558,
+        "roles": [
+          {
+            "char": "Vic Ritchie"
+          }
+        ]
+      },
+      {
+        "name": "Garry Walberg",
+        "nm": 906918,
+        "roles": [
+          {
+            "char": "George Harris",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "George Sperdakos",
+        "nm": 818279,
+        "roles": [
+          {
+            "char": "Simpson"
+          }
+        ]
+      },
+      {
+        "name": "Charlie Briggs",
+        "nm": 109009,
+        "roles": [
+          {
+            "char": "Sheriff Thad Grover",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Daniel Keough",
+        "nm": 3280437,
+        "roles": [
+          {
+            "char": "Police Officer"
+          }
+        ]
+      },
+      {
+        "name": "Bill McLean",
+        "nm": 565686,
+        "roles": [
+          {
+            "char": "Ed Wilson, Mechanic",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Sorensen",
+        "nm": 814897,
+        "roles": [
+          {
+            "char": "Officer D'Amico"
+          }
+        ]
+      },
+      {
+        "name": "Dick Spangler",
+        "nm": 816799,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Paul Preston",
+        "nm": 696472,
+        "roles": [
+          {
+            "char": "Ed Phillips"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E17",
+    "title": "The Running Man: Part 2",
+    "tt": 691918,
+    "air_date": "1976-01-24",
+    "description": "Ben Jordan begins a new life in Lakevale, but fast runs afoul of the town's power brokers. Jordan discovers that even this quaint community falls under the dark shadow of the Mob, and hopes the blue line of S.W.A.T. also extends this far.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Stuart Whitman",
+        "nm": 926183,
+        "roles": [
+          {
+            "char": "David Neil"
+          },
+          {
+            "char": "Ben Jordan"
+          }
+        ]
+      },
+      {
+        "name": "David Opatoshu",
+        "nm": 649055,
+        "roles": [
+          {
+            "char": "Alexander Vincent",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "James Darren",
+        "nm": 201626,
+        "roles": [
+          {
+            "char": "Joey Wade"
+          }
+        ]
+      },
+      {
+        "name": "John Lupton",
+        "nm": 527017,
+        "roles": [
+          {
+            "char": "John Tyler",
+            "ch": 301479
+          }
+        ]
+      },
+      {
+        "name": "Linda Marsh",
+        "nm": 550604,
+        "roles": [
+          {
+            "char": "Julia Abbott",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jim McMullan",
+        "nm": 573401,
+        "roles": [
+          {
+            "char": "Deputy Tom Holden"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Glover",
+        "nm": 323098,
+        "roles": [
+          {
+            "char": "J.D. Upton"
+          }
+        ]
+      },
+      {
+        "name": "Forrest Tucker",
+        "nm": 875861,
+        "roles": [
+          {
+            "char": "Owen Fiske"
+          }
+        ]
+      },
+      {
+        "name": "Donna Mills",
+        "nm": 5234,
+        "roles": [
+          {
+            "char": "Lauren Brooks"
+          }
+        ]
+      },
+      {
+        "name": "Leslie Nielsen",
+        "nm": 558,
+        "roles": [
+          {
+            "char": "Vic Ritchie"
+          }
+        ]
+      },
+      {
+        "name": "Garry Walberg",
+        "nm": 906918,
+        "roles": [
+          {
+            "char": "George Harris"
+          }
+        ]
+      },
+      {
+        "name": "George Sperdakos",
+        "nm": 818279,
+        "roles": [
+          {
+            "char": "Simpson",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Charlie Briggs",
+        "nm": 109009,
+        "roles": [
+          {
+            "char": "Sheriff Thad Grover"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Keough",
+        "nm": 3280437,
+        "roles": [
+          {
+            "char": "Police Officer"
+          }
+        ]
+      },
+      {
+        "name": "Bill McLean",
+        "nm": 565686,
+        "roles": [
+          {
+            "char": "Ed Wilson, Mechanic"
+          }
+        ]
+      },
+      {
+        "name": "Paul Sorensen",
+        "nm": 814897,
+        "roles": [
+          {
+            "char": "Officer D'Amico",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Dick Spangler",
+        "nm": 816799,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Paul Preston",
+        "nm": 696472,
+        "roles": [
+          {
+            "char": "Ed Phillips"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E18",
+    "title": "Lessons in Fear",
+    "tt": 691902,
+    "air_date": "1976-01-31",
+    "description": "The theft of space age cutting tools and dynamite point to safe robbery and a murderous member of the gang's girlfriend runs an apartment for girls where resides a girl Luca is dating and is connected to the building with the safe.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Hank Brandt",
+        "nm": 104919,
+        "roles": [
+          {
+            "char": "Detective #1"
+          }
+        ]
+      },
+      {
+        "name": "Don Chastain",
+        "nm": 153944,
+        "roles": [
+          {
+            "char": "Mark North"
+          }
+        ]
+      },
+      {
+        "name": "Elinor Donahue",
+        "nm": 231942,
+        "roles": [
+          {
+            "char": "Marjorie Kemp"
+          }
+        ]
+      },
+      {
+        "name": "Monie Ellis",
+        "nm": 254998,
+        "roles": [
+          {
+            "char": "Sharon Merlindale"
+          }
+        ]
+      },
+      {
+        "name": "Don Fenwick",
+        "nm": 272113,
+        "roles": [
+          {
+            "char": "Detective #2"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Jones",
+        "nm": 428896,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Jack Kirby",
+        "nm": 5133705,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Heather Lowe",
+        "nm": 522953,
+        "roles": [
+          {
+            "char": "Tracey Blaine"
+          }
+        ]
+      },
+      {
+        "name": "Charlie Picerni",
+        "nm": 681604,
+        "roles": [
+          {
+            "char": "Bob Daniels"
+          }
+        ]
+      },
+      {
+        "name": "Robert Viharo",
+        "nm": 897160,
+        "roles": [
+          {
+            "char": "Nick Light"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E19",
+    "title": "Deadly Weapons",
+    "tt": 691894,
+    "air_date": "1976-02-21",
+    "description": "Lt. Hondo Harrelson investigates the murder of a young man who was slain helping a group of \"professionals\" burglarize his father's ware-house, containing a vast store of unmarked weapons.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Brian Baker",
+        "nm": 48293,
+        "roles": [
+          {
+            "char": "Patrol Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Eric Boles",
+        "nm": 92895,
+        "roles": [
+          {
+            "char": "Bud Haskins"
+          }
+        ]
+      },
+      {
+        "name": "Joseph DeNicola",
+        "nm": 3003200,
+        "roles": [
+          {
+            "char": "Ed Ryan"
+          }
+        ]
+      },
+      {
+        "name": "Burt Douglas",
+        "nm": 234977,
+        "roles": [
+          {
+            "char": "Sniper"
+          }
+        ]
+      },
+      {
+        "name": "Vince Howard",
+        "nm": 397660,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Steven Keats",
+        "nm": 444198,
+        "roles": [
+          {
+            "char": "Wally Stone"
+          }
+        ]
+      },
+      {
+        "name": "Pat Renella",
+        "nm": 719466,
+        "roles": [
+          {
+            "char": "Dave Wright"
+          }
+        ]
+      },
+      {
+        "name": "Norman Rice",
+        "nm": 723516,
+        "roles": [
+          {
+            "char": "Bert Rankin"
+          }
+        ]
+      },
+      {
+        "name": "Mark Stevens",
+        "nm": 828594,
+        "roles": [
+          {
+            "char": "John Haskins"
+          }
+        ]
+      },
+      {
+        "name": "Pat Sturges",
+        "nm": 836331,
+        "roles": [
+          {
+            "char": "Janice Wayne"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E20",
+    "title": "The Chinese Connection",
+    "tt": 691915,
+    "air_date": "1976-02-28",
+    "description": "Hondo and a Chinese-American police lieutenant team up to crack a highly organized, heavily armed and deadly drug and protection ring which is terrorizing the Chinese community.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Joe Bonny",
+        "nm": 95100,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Chao Li Chi",
+        "nm": 156874,
+        "roles": [
+          {
+            "char": "Flute Player",
+            "as Chao-Li Chi": true
+          }
+        ]
+      },
+      {
+        "name": "George Chung",
+        "nm": 161219,
+        "roles": [
+          {
+            "char": "Han"
+          }
+        ]
+      },
+      {
+        "name": "Lezlie Dalton",
+        "nm": 198310,
+        "roles": [
+          {
+            "char": "Sandy"
+          }
+        ]
+      },
+      {
+        "name": "Susie Elene",
+        "nm": 253244,
+        "roles": [
+          {
+            "char": "Blossom",
+            "as Elena Suesie": true
+          }
+        ]
+      },
+      {
+        "name": "Joel Fabiani",
+        "nm": 264603,
+        "roles": [
+          {
+            "char": "Ronald Parker"
+          }
+        ]
+      },
+      {
+        "name": "James Hong",
+        "nm": 393222,
+        "roles": [
+          {
+            "char": "Kwan Loon"
+          }
+        ]
+      },
+      {
+        "name": "Richard Lee-Sung",
+        "nm": 498519,
+        "roles": [
+          {
+            "char": "Bouncer"
+          }
+        ]
+      },
+      {
+        "name": "Beulah Quo",
+        "nm": 704511,
+        "roles": [
+          {
+            "char": "Madame Yang"
+          }
+        ]
+      },
+      {
+        "name": "James Shigeta",
+        "nm": 793363,
+        "roles": [
+          {
+            "char": "Lieutenant Eddie Chew"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Song",
+        "nm": 814257,
+        "roles": [
+          {
+            "char": "Lin Yang"
+          }
+        ]
+      },
+      {
+        "name": "Hatsuo Uda",
+        "nm": 879810,
+        "roles": [
+          {
+            "char": "Lee"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E21",
+    "title": "Dragons and Owls",
+    "tt": 691898,
+    "air_date": "1976-03-06",
+    "description": "S.W.A.T. goes after a gang of misfits who steal vans and attack beautiful women.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Tom Skerritt",
+        "nm": 643,
+        "roles": [
+          {
+            "char": "Maynard Hill"
+          }
+        ]
+      },
+      {
+        "name": "Henry Olek",
+        "nm": 646255,
+        "roles": [
+          {
+            "char": "Les Hagen"
+          }
+        ]
+      },
+      {
+        "name": "Karen Carlson",
+        "nm": 137948,
+        "roles": [
+          {
+            "char": "Laurie Wendell"
+          }
+        ]
+      },
+      {
+        "name": "Virginia Gregg",
+        "nm": 339615,
+        "roles": [
+          {
+            "char": "Mrs. Hill"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Fimple",
+        "nm": 277344,
+        "roles": [
+          {
+            "char": "Harry"
+          }
+        ]
+      },
+      {
+        "name": "Terry Lumley",
+        "nm": 525929,
+        "roles": [
+          {
+            "char": "Becky Wendell"
+          }
+        ]
+      },
+      {
+        "name": "Dick DeCoit",
+        "nm": 213941,
+        "roles": [
+          {
+            "char": "Scott Morrison"
+          }
+        ]
+      },
+      {
+        "name": "Terry Hinz",
+        "nm": 386073,
+        "roles": [
+          {
+            "char": "Gabe"
+          }
+        ]
+      },
+      {
+        "name": "I. Stanford Jolley",
+        "nm": 427157,
+        "roles": [
+          {
+            "char": "Wino"
+          }
+        ]
+      },
+      {
+        "name": "Bill Quinn",
+        "nm": 703767,
+        "roles": [
+          {
+            "char": "Dr. Davidson",
+            "as William Quinn": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Hackman",
+        "nm": 352542,
+        "roles": [
+          {
+            "char": "Bert"
+          }
+        ]
+      },
+      {
+        "name": "Gwen Van Dam",
+        "nm": 885934,
+        "roles": [
+          {
+            "char": "Nurse Thompson"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Meeker",
+        "nm": 576112,
+        "roles": [
+          {
+            "char": "Waitress",
+            "as Coleen Meeker": true
+          }
+        ]
+      },
+      {
+        "name": "Louis J. DiFonzo",
+        "nm": 226455,
+        "roles": [
+          {
+            "char": "Orderly",
+            "as Louis DiFonzo": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E22",
+    "title": "Any Second Now",
+    "tt": 691887,
+    "air_date": "1976-03-13",
+    "description": "Some men go into a radio station and plant explosives. The team arrives and when every access is taken out they have to find some way to get in.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Charles Aidman",
+        "nm": 14493,
+        "roles": [
+          {
+            "char": "Pete Ashton"
+          }
+        ]
+      },
+      {
+        "name": "James V. Christy",
+        "nm": 160696,
+        "roles": [
+          {
+            "char": "Sergeant Avery"
+          }
+        ]
+      },
+      {
+        "name": "Ji-Tu Cumbuka",
+        "nm": 191783,
+        "roles": [
+          {
+            "char": "Talbert"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Dirkson",
+        "nm": 228226,
+        "roles": [
+          {
+            "char": "Phillips"
+          }
+        ]
+      },
+      {
+        "name": "Robert Loggia",
+        "nm": 5162,
+        "roles": [
+          {
+            "char": "Lieutenant Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Lynne Moody",
+        "nm": 600508,
+        "roles": [
+          {
+            "char": "Ellen Jeffers"
+          }
+        ]
+      },
+      {
+        "name": "Bert Remsen",
+        "nm": 719037,
+        "roles": [
+          {
+            "char": "Heath"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Robinson",
+        "nm": 732367,
+        "roles": [
+          {
+            "char": "Edward Stillman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E23",
+    "title": "Soldier on the Hill",
+    "tt": 691911,
+    "air_date": "1976-03-16",
+    "description": "A disoriented war veteran taking a tourist ride through a movie studio becomes convinced he is back at the front and takes a beautiful star as his prisoner.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "Mark Slade",
+        "nm": 805188,
+        "roles": [
+          {
+            "char": "Corporal Ken Gillis"
+          }
+        ]
+      },
+      {
+        "name": "Marianna Hill",
+        "nm": 384494,
+        "roles": [
+          {
+            "char": "Kate Devers",
+            "as Mariana Hill": true
+          }
+        ]
+      },
+      {
+        "name": "Ivor Francis",
+        "nm": 290179,
+        "roles": [
+          {
+            "char": "Doctor Reston"
+          }
+        ]
+      },
+      {
+        "name": "Hoke Howell",
+        "nm": 397982,
+        "roles": [
+          {
+            "char": "Howard"
+          }
+        ]
+      },
+      {
+        "name": "Bennye Gatteys",
+        "nm": 309771,
+        "roles": [
+          {
+            "char": "Anne"
+          }
+        ]
+      },
+      {
+        "name": "Dave Shelley",
+        "nm": 791190,
+        "roles": [
+          {
+            "char": "Tourist"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E24",
+    "title": "Dangerous Memories",
+    "tt": 691891,
+    "air_date": "1976-03-20",
+    "description": "As Hondo fights for his life after being shot while leading an operation, team members Jim Street, Deacon Kay, Dom Luca and T.J. McCabe recall earlier experiences with the tough lieutenant.",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "T.J. Castronovo",
+        "nm": 145416,
+        "roles": [
+          {
+            "char": "Jim Simon"
+          }
+        ]
+      },
+      {
+        "name": "Burton Cooper",
+        "nm": 1664133,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Don Maxwell",
+        "nm": 561688,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Phillip Pine",
+        "nm": 683984,
+        "roles": [
+          {
+            "char": "Dr. Arnold Durson"
+          }
+        ]
+      },
+      {
+        "name": "Scott Walker",
+        "nm": 908198,
+        "roles": [
+          {
+            "char": "Frank Ryan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E25",
+    "title": "Officer Luca, You're Dead",
+    "tt": 691904,
+    "air_date": "1976-04-03",
+    "description": "The basic idea of \"Rashomon\" -- the same event told in flashbacks from different perspectives -- fuels this story of Luca killing a man. The man, a distraught husband, had carried a .25 five-bullet automatic pistol up to his wife's lover's apartment and shot the lover (one bullet), one at a cop in a hallway (two), and two more out a window at the S.W.A.T. team (four). When he takes the wife downstairs to a cellar, Luca is waiting with his rifle and drops him in his tracks. The question remains now -- did the gunman fire the final bullet at Luca (Luca's version) -- did Luca fire on him without provocation (which is what the wife thinks) -- or was the last bullet a dud that didn't detonate (which is what a photographer trailing Luca thinks)?",
+    "cast": [
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Lieutenant Dan 'Hondo' Harrelson",
+            "ch": 10673
+          }
+        ]
+      },
+      {
+        "name": "Robert Urich",
+        "nm": 1810,
+        "roles": [
+          {
+            "char": "Officer Jim Street",
+            "ch": 10674
+          }
+        ]
+      },
+      {
+        "name": "Rod Perry",
+        "nm": 675272,
+        "roles": [
+          {
+            "char": "Sergeant David 'Deacon' Kay",
+            "ch": 10677
+          }
+        ]
+      },
+      {
+        "name": "Mark Shera",
+        "nm": 792058,
+        "roles": [
+          {
+            "char": "Officer Dominic Luca",
+            "ch": 10687
+          }
+        ]
+      },
+      {
+        "name": "James Coleman",
+        "nm": 171062,
+        "roles": [
+          {
+            "char": "Officer T.J. McCabe",
+            "ch": 10678
+          }
+        ]
+      },
+      {
+        "name": "William Kirby Cullen",
+        "nm": 191535,
+        "roles": [
+          {
+            "char": "Lance Izing"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Haddon",
+        "nm": 352736,
+        "roles": [
+          {
+            "char": "Judge Zell"
+          }
+        ]
+      },
+      {
+        "name": "Mitzi Hoag",
+        "nm": 387435,
+        "roles": [
+          {
+            "char": "Donna Izing"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Jones",
+        "nm": 428896,
+        "roles": [
+          {
+            "char": "Officer Hickock"
+          }
+        ]
+      },
+      {
+        "name": "Sandra Kerns",
+        "nm": 444034,
+        "roles": [
+          {
+            "char": "Jackie"
+          }
+        ]
+      },
+      {
+        "name": "Richard O'Brien",
+        "nm": 639783,
+        "roles": [
+          {
+            "char": "Chief Roman"
+          }
+        ]
+      },
+      {
+        "name": "David Perna",
+        "nm": 674314,
+        "roles": [
+          {
+            "char": "Vince Fredericks"
+          }
+        ]
+      },
+      {
+        "name": "Gary Pillar",
+        "nm": 139340,
+        "roles": [
+          {
+            "char": "Assistant D.A. Pierce",
+            "as Gary Carpenter": true
+          }
+        ]
+      },
+      {
+        "name": "Judson Pratt",
+        "nm": 695489,
+        "roles": [
+          {
+            "char": "O.C. Sullivan"
+          }
+        ]
+      },
+      {
+        "name": "Robert Sorrells",
+        "nm": 815171,
+        "roles": [
+          {
+            "char": "Alan Izing"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,983 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 1113227,
+    "air_date": "1981-01-05",
+    "description": "The story of The Hitch Hiker's Guide to the Galaxy begins when a 6-foot ape descendant named Arthur Dent is saved from the destruction of planet Earth thanks to Ford Prefect, who is in fact from a small planet somewhere in the vicinity of Betlegeuse, and not from Guildford as Arthur had first thought.",
+    "cast": [
+      {
+        "name": "Peter Jones",
+        "nm": 429012,
+        "roles": [
+          {
+            "char": "The Book",
+            "ch": 7565,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Simon Jones",
+        "nm": 429254,
+        "roles": [
+          {
+            "char": "Arthur Dent",
+            "ch": 7552
+          }
+        ]
+      },
+      {
+        "name": "David Dixon",
+        "nm": 228797,
+        "roles": [
+          {
+            "char": "Ford Prefect",
+            "ch": 7554
+          }
+        ]
+      },
+      {
+        "name": "Joe Melia",
+        "nm": 577705,
+        "roles": [
+          {
+            "char": "Mr. Prosser",
+            "ch": 7560
+          }
+        ]
+      },
+      {
+        "name": "Martin Benson",
+        "nm": 72578,
+        "roles": [
+          {
+            "char": "Vogon Captain",
+            "ch": 7564
+          }
+        ]
+      },
+      {
+        "name": "Steve Conway",
+        "nm": 176781,
+        "roles": [
+          {
+            "char": "Barman",
+            "ch": 7567
+          }
+        ]
+      },
+      {
+        "name": "Cleo Rocos",
+        "nm": 734372,
+        "roles": [
+          {
+            "char": "Alien"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Mussell",
+        "nm": 615833,
+        "roles": [
+          {
+            "char": "Alien"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Adams",
+        "nm": 10930,
+        "roles": [
+          {
+            "char": "Man in Pub",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Barnsley",
+        "nm": 56114,
+        "roles": [
+          {
+            "char": "Man Listening to Radio",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Duran",
+        "nm": 243744,
+        "roles": [
+          {
+            "char": "Workman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "David Grahame",
+        "nm": 334368,
+        "roles": [
+          {
+            "char": "Sandwich-Board Man",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Trainer",
+        "nm": 870702,
+        "roles": [
+          {
+            "char": "Man in Pub",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 1113228,
+    "air_date": "1981-01-12",
+    "description": "Arthur Dent and Ford Prefect find themselves thrown off the Vogon spaceship into the vacuum of space. Improbably, they are rescued 29 seconds later by the Starship Heart of Gold. This brand new model has just been high-jacked by the President of the Universe, Zaphod Beeblebrox and his girlfriend Trillian. Even more unlikely, it turns out both the hitch hikers and their rescuers have met before.",
+    "cast": [
+      {
+        "name": "Peter Jones",
+        "nm": 429012,
+        "roles": [
+          {
+            "char": "The Book",
+            "ch": 7565,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Simon Jones",
+        "nm": 429254,
+        "roles": [
+          {
+            "char": "Arthur Dent",
+            "ch": 7552
+          }
+        ]
+      },
+      {
+        "name": "David Dixon",
+        "nm": 228797,
+        "roles": [
+          {
+            "char": "Ford Prefect",
+            "ch": 7554
+          }
+        ]
+      },
+      {
+        "name": "Sandra Dickinson",
+        "nm": 225549,
+        "roles": [
+          {
+            "char": "Trillian",
+            "ch": 7547
+          }
+        ]
+      },
+      {
+        "name": "Mark Wing-Davey",
+        "nm": 934983,
+        "roles": [
+          {
+            "char": "Zaphod Beeblebrox",
+            "ch": 7549
+          }
+        ]
+      },
+      {
+        "name": "Martin Benson",
+        "nm": 72578,
+        "roles": [
+          {
+            "char": "Vogon Captain",
+            "ch": 7564
+          }
+        ]
+      },
+      {
+        "name": "Michael Cule",
+        "nm": 191369,
+        "roles": [
+          {
+            "char": "Vogon Guard"
+          }
+        ]
+      },
+      {
+        "name": "Rayner Bourton",
+        "nm": 100183,
+        "roles": [
+          {
+            "char": "Newscaster"
+          }
+        ]
+      },
+      {
+        "name": "Gil Morris",
+        "nm": 606555,
+        "roles": [
+          {
+            "char": "Gag Halfrunt",
+            "ch": 7548
+          }
+        ]
+      },
+      {
+        "name": "David Learner",
+        "nm": 495231,
+        "roles": [
+          {
+            "char": "Marvin",
+            "ch": 7553
+          }
+        ]
+      },
+      {
+        "name": "Stephen Moore",
+        "nm": 601891,
+        "roles": [
+          {
+            "char": "Marvin",
+            "ch": 7553,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "David Tate",
+        "nm": 851123,
+        "roles": [
+          {
+            "char": "Eddie",
+            "ch": 38609,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Douglas Adams",
+        "nm": 10930,
+        "roles": [
+          {
+            "char": "Man in Ocean",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Antony Gilding",
+        "nm": 318418,
+        "roles": [
+          {
+            "char": "Businessman",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Ralph Morse",
+        "nm": 607659,
+        "roles": [
+          {
+            "char": "Young Scientist",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Roy",
+        "nm": 1169403,
+        "roles": [
+          {
+            "char": "Limousine Chauffeur",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Episode #1.3",
+    "tt": 1113229,
+    "air_date": "1981-01-19",
+    "description": "Zaphod Beeblebrox is certain he's located the fabled planet of Magrathea, the richest planet of all time. Here customers could place an order to have their own dream planets constructed. Soon the 'dead planet' fires two missiles at the Starship Heart of Gold, leading Beeblebrox to deduce there must be something very valuable and hoopy worth protecting down there.",
+    "cast": [
+      {
+        "name": "Peter Jones",
+        "nm": 429012,
+        "roles": [
+          {
+            "char": "The Book",
+            "ch": 7565,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Simon Jones",
+        "nm": 429254,
+        "roles": [
+          {
+            "char": "Arthur Dent",
+            "ch": 7552
+          }
+        ]
+      },
+      {
+        "name": "David Dixon",
+        "nm": 228797,
+        "roles": [
+          {
+            "char": "Ford Prefect",
+            "ch": 7554
+          }
+        ]
+      },
+      {
+        "name": "Sandra Dickinson",
+        "nm": 225549,
+        "roles": [
+          {
+            "char": "Trillian",
+            "ch": 7547
+          }
+        ]
+      },
+      {
+        "name": "Mark Wing-Davey",
+        "nm": 934983,
+        "roles": [
+          {
+            "char": "Zaphod Beeblebrox",
+            "ch": 7549
+          }
+        ]
+      },
+      {
+        "name": "Richard Vernon",
+        "nm": 894710,
+        "roles": [
+          {
+            "char": "Slartibartfast",
+            "ch": 7550
+          }
+        ]
+      },
+      {
+        "name": "David Learner",
+        "nm": 495231,
+        "roles": [
+          {
+            "char": "Marvin",
+            "ch": 7553
+          }
+        ]
+      },
+      {
+        "name": "Stephen Moore",
+        "nm": 601891,
+        "roles": [
+          {
+            "char": "Marvin",
+            "ch": 7553,
+            "voice": true
+          },
+          {
+            "char": "Whale",
+            "ch": 7558,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "David Tate",
+        "nm": 851123,
+        "roles": [
+          {
+            "char": "Eddie",
+            "ch": 38609,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nicola Critcher",
+        "nm": 188207,
+        "roles": [
+          {
+            "char": "Handmaiden",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "John Dair",
+        "nm": 197419,
+        "roles": [
+          {
+            "char": "Rich Merchant",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Zoe Hendry",
+        "nm": 376933,
+        "roles": [
+          {
+            "char": "Co-Pilot",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Lorraine Paul",
+        "nm": 666910,
+        "roles": [
+          {
+            "char": "Handmaiden",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Susie Silvey",
+        "nm": 799189,
+        "roles": [
+          {
+            "char": "Handmaiden",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Episode #1.4",
+    "tt": 1113230,
+    "air_date": "1981-01-26",
+    "description": "Deep down inside the planet Magrathea, coastline designer Slartibartfast is working on Earth, mark II. It seems the previous version was destroyed just before it managed to complete it's purpose. Arthur Dent, being the last human survivor to leave Earth (Trillian doesn't count), may hold the answer to Live, the Universe and Everything.",
+    "cast": [
+      {
+        "name": "Peter Jones",
+        "nm": 429012,
+        "roles": [
+          {
+            "char": "The Book",
+            "ch": 7565,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Simon Jones",
+        "nm": 429254,
+        "roles": [
+          {
+            "char": "Arthur Dent",
+            "ch": 7552
+          }
+        ]
+      },
+      {
+        "name": "David Dixon",
+        "nm": 228797,
+        "roles": [
+          {
+            "char": "Ford Prefect",
+            "ch": 7554
+          }
+        ]
+      },
+      {
+        "name": "Sandra Dickinson",
+        "nm": 225549,
+        "roles": [
+          {
+            "char": "Trillian",
+            "ch": 7547
+          }
+        ]
+      },
+      {
+        "name": "Mark Wing-Davey",
+        "nm": 934983,
+        "roles": [
+          {
+            "char": "Zaphod Beeblebrox",
+            "ch": 7549
+          }
+        ]
+      },
+      {
+        "name": "Richard Vernon",
+        "nm": 894710,
+        "roles": [
+          {
+            "char": "Slartibartfast",
+            "ch": 7550
+          }
+        ]
+      },
+      {
+        "name": "Anthony Carrick",
+        "nm": 140354,
+        "roles": [
+          {
+            "char": "Lunkwill",
+            "ch": 7569,
+            "as Antony Carrick": true
+          }
+        ]
+      },
+      {
+        "name": "Timothy Davies",
+        "nm": 203997,
+        "roles": [
+          {
+            "char": "Fook",
+            "ch": 7562
+          }
+        ]
+      },
+      {
+        "name": "David Leland",
+        "nm": 500896,
+        "roles": [
+          {
+            "char": "Majikthise",
+            "ch": 7563
+          }
+        ]
+      },
+      {
+        "name": "Charles McKeown",
+        "nm": 571650,
+        "roles": [
+          {
+            "char": "Vroomfondel",
+            "ch": 7566
+          }
+        ]
+      },
+      {
+        "name": "Matt Zimmerman",
+        "nm": 956757,
+        "roles": [
+          {
+            "char": "Shooty",
+            "ch": 7571
+          }
+        ]
+      },
+      {
+        "name": "Marc Smith",
+        "nm": 809204,
+        "roles": [
+          {
+            "char": "Bang Bang",
+            "ch": 7570
+          }
+        ]
+      },
+      {
+        "name": "Valentine Dyall",
+        "nm": 245581,
+        "roles": [
+          {
+            "char": "Deep Thought",
+            "ch": 7546,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric French",
+        "nm": 1588318,
+        "roles": [
+          {
+            "char": "G'Gugvunt Leader",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Stephen Moore",
+        "nm": 601891,
+        "roles": [
+          {
+            "char": "Frankie Mouse",
+            "ch": 7561,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "James Muir",
+        "nm": 611364,
+        "roles": [
+          {
+            "char": "Vl'Hurg Leader",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Eddie Sommer",
+        "nm": 813959,
+        "roles": [
+          {
+            "char": "Magrathean",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "David Tate",
+        "nm": 851123,
+        "roles": [
+          {
+            "char": "Benjy Mouse",
+            "ch": 36835,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Episode #1.5",
+    "tt": 1113231,
+    "air_date": "1981-02-02",
+    "description": "Arthur, Ford, Trillian and Zaphod travel in time by way of an exploding computer to Milliways, the Restaurant at the end of the Universe. Here people can enjoy a good meal while watching the end of all things. They soon discover that Marvin has been waiting for them for 5376000 million years. The paranoid android has taken a job parking spaceships, and Zaphod once again feels the need to swipe himself a new ride.",
+    "cast": [
+      {
+        "name": "Peter Jones",
+        "nm": 429012,
+        "roles": [
+          {
+            "char": "The Book",
+            "ch": 7565,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Simon Jones",
+        "nm": 429254,
+        "roles": [
+          {
+            "char": "Arthur Dent",
+            "ch": 7552
+          }
+        ]
+      },
+      {
+        "name": "David Dixon",
+        "nm": 228797,
+        "roles": [
+          {
+            "char": "Ford Prefect",
+            "ch": 7554
+          }
+        ]
+      },
+      {
+        "name": "Mark Wing-Davey",
+        "nm": 934983,
+        "roles": [
+          {
+            "char": "Zaphod Beeblebrox",
+            "ch": 7549
+          }
+        ]
+      },
+      {
+        "name": "Sandra Dickinson",
+        "nm": 225549,
+        "roles": [
+          {
+            "char": "Trillian",
+            "ch": 7547
+          }
+        ]
+      },
+      {
+        "name": "Jack May",
+        "nm": 561975,
+        "roles": [
+          {
+            "char": "Garkbit",
+            "Head Waiter": true
+          }
+        ]
+      },
+      {
+        "name": "Colin Jeavons",
+        "nm": 420010,
+        "roles": [
+          {
+            "char": "Max Quordlepleen",
+            "ch": 7568
+          }
+        ]
+      },
+      {
+        "name": "Barry Frank Warren",
+        "nm": 912729,
+        "roles": [
+          {
+            "char": "Hotblack Desiato"
+          }
+        ]
+      },
+      {
+        "name": "David Prowse",
+        "nm": 1190,
+        "roles": [
+          {
+            "char": "Bodyguard",
+            "as Dave Prowse": true
+          }
+        ]
+      },
+      {
+        "name": "Colin Bennett",
+        "nm": 71681,
+        "roles": [
+          {
+            "char": "Zarquon"
+          }
+        ]
+      },
+      {
+        "name": "David Learner",
+        "nm": 495231,
+        "roles": [
+          {
+            "char": "Marvin",
+            "ch": 7553
+          }
+        ]
+      },
+      {
+        "name": "Stephen Moore",
+        "nm": 601891,
+        "roles": [
+          {
+            "char": "Marvin",
+            "ch": 7553,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Davison",
+        "nm": 205749,
+        "roles": [
+          {
+            "char": "Dish of the Day",
+            "ch": 7559
+          }
+        ]
+      },
+      {
+        "name": "Mary Eveleigh",
+        "nm": 2171734,
+        "roles": [
+          {
+            "char": "Woman on Stairs at Milliway's",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Adam Tandy",
+        "nm": 1046953,
+        "roles": [
+          {
+            "char": "Young Conservative",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Episode #1.6",
+    "tt": 1113232,
+    "air_date": "1981-02-09",
+    "description": "Zaphod has stolen Disaster Area's Stuntship which is about to plunge into a sun to form the climax to one of their typically loud concerts. Marvin is chosen to sacrifice himself by teleporting the others off the ship. It is at this point that Trillian and Zaphod disappear from the story, while Arthur and Ford end up on Golgafrincham Arkship B, heading straight for Earth.",
+    "cast": [
+      {
+        "name": "Peter Jones",
+        "nm": 429012,
+        "roles": [
+          {
+            "char": "The Book",
+            "ch": 7565,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Simon Jones",
+        "nm": 429254,
+        "roles": [
+          {
+            "char": "Arthur Dent",
+            "ch": 7552
+          }
+        ]
+      },
+      {
+        "name": "David Dixon",
+        "nm": 228797,
+        "roles": [
+          {
+            "char": "Ford Prefect",
+            "ch": 7554
+          }
+        ]
+      },
+      {
+        "name": "Sandra Dickinson",
+        "nm": 225549,
+        "roles": [
+          {
+            "char": "Trillian",
+            "ch": 7547
+          }
+        ]
+      },
+      {
+        "name": "Mark Wing-Davey",
+        "nm": 934983,
+        "roles": [
+          {
+            "char": "Zaphod Beeblebrox",
+            "ch": 7549
+          }
+        ]
+      },
+      {
+        "name": "Rayner Bourton",
+        "nm": 100183,
+        "roles": [
+          {
+            "char": "Newscaster"
+          }
+        ]
+      },
+      {
+        "name": "Aubrey Morris",
+        "nm": 606368,
+        "roles": [
+          {
+            "char": "Captain"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Scurfield",
+        "nm": 780321,
+        "roles": [
+          {
+            "char": "Number One"
+          }
+        ]
+      },
+      {
+        "name": "David Neville",
+        "nm": 627434,
+        "roles": [
+          {
+            "char": "Number Two"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Beevers",
+        "nm": 66644,
+        "roles": [
+          {
+            "char": "Number Three"
+          }
+        ]
+      },
+      {
+        "name": "Beth Porter",
+        "nm": 692037,
+        "roles": [
+          {
+            "char": "Marketing Girl"
+          }
+        ]
+      },
+      {
+        "name": "David Rowlands",
+        "nm": 746760,
+        "roles": [
+          {
+            "char": "Hairdresser"
+          }
+        ]
+      },
+      {
+        "name": "Jon Glover",
+        "nm": 323140,
+        "roles": [
+          {
+            "char": "Management Consultant"
+          }
+        ]
+      },
+      {
+        "name": "David Learner",
+        "nm": 495231,
+        "roles": [
+          {
+            "char": "Marvin",
+            "ch": 7553
+          }
+        ]
+      },
+      {
+        "name": "Stephen Moore",
+        "nm": 601891,
+        "roles": [
+          {
+            "char": "Marvin",
+            "ch": 7553,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Laurie Goode",
+        "nm": 328824,
+        "roles": [
+          {
+            "char": "Jogger",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  }
+]

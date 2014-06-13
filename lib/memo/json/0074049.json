@@ -1,0 +1,1129 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Show Business",
+    "tt": 687905,
+    "air_date": "1976-02-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlotte Cornwell",
+        "nm": 180489,
+        "roles": [
+          {
+            "char": "Anna Ward",
+            "ch": 106613
+          }
+        ]
+      },
+      {
+        "name": "Julie Covington",
+        "nm": 184493,
+        "roles": [
+          {
+            "char": "Devonia 'Dee' Rhoades",
+            "ch": 106615
+          }
+        ]
+      },
+      {
+        "name": "Rula Lenska",
+        "nm": 502218,
+        "roles": [
+          {
+            "char": "Nancy 'Q' Cunard de Longchamps",
+            "ch": 106616
+          }
+        ]
+      },
+      {
+        "name": "Denis Lawson",
+        "nm": 493200,
+        "roles": [
+          {
+            "char": "Ken Church",
+            "ch": 153905
+          }
+        ]
+      },
+      {
+        "name": "John Blythe",
+        "nm": 90043,
+        "roles": [
+          {
+            "char": "Sheldon Markie"
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Gloria"
+          }
+        ]
+      },
+      {
+        "name": "Larry Burns",
+        "nm": 122753,
+        "roles": [
+          {
+            "char": "Eddie Lorenzo"
+          }
+        ]
+      },
+      {
+        "name": "Ellis Dale",
+        "nm": 197687,
+        "roles": [
+          {
+            "char": "Schubert Birnbaum"
+          }
+        ]
+      },
+      {
+        "name": "Bill Drysdale",
+        "nm": 238763,
+        "roles": [
+          {
+            "char": "Ron Furie"
+          }
+        ]
+      },
+      {
+        "name": "Stanley Fleet",
+        "nm": 281433,
+        "roles": [
+          {
+            "char": "Sam Stone"
+          }
+        ]
+      },
+      {
+        "name": "Peter Gale",
+        "nm": 301895,
+        "roles": [
+          {
+            "char": "Michael Rolphe"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Gardiner",
+        "nm": 306764,
+        "roles": [
+          {
+            "char": "William Bishop"
+          }
+        ]
+      },
+      {
+        "name": "Sam Harding",
+        "nm": 1013619,
+        "roles": [
+          {
+            "char": "Rehearsal pianist"
+          }
+        ]
+      },
+      {
+        "name": "Peter Hill",
+        "nm": 384571,
+        "roles": [
+          {
+            "char": "Mr. Grendel"
+          }
+        ]
+      },
+      {
+        "name": "Maggy Maxwell",
+        "nm": 561762,
+        "roles": [
+          {
+            "char": "Lottie Nelson"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Moore",
+        "nm": 601891,
+        "roles": [
+          {
+            "char": "Jack",
+            "ch": 159693
+          }
+        ]
+      },
+      {
+        "name": "Billy Murray",
+        "nm": 614854,
+        "roles": [
+          {
+            "char": "Spike",
+            "ch": 98782
+          }
+        ]
+      },
+      {
+        "name": "Emlyn Price",
+        "nm": 696888,
+        "roles": [
+          {
+            "char": "Derek Huggin"
+          }
+        ]
+      },
+      {
+        "name": "Michael Shannon",
+        "nm": 788332,
+        "roles": [
+          {
+            "char": "Carl 'Tubes' Benson",
+            "ch": 98783
+          }
+        ]
+      },
+      {
+        "name": "Frank Williams",
+        "nm": 930595,
+        "roles": [
+          {
+            "char": "Make-Up Man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Little Ladies",
+    "tt": 687902,
+    "air_date": "1976-03-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlotte Cornwell",
+        "nm": 180489,
+        "roles": [
+          {
+            "char": "Anna Ward",
+            "ch": 106613
+          }
+        ]
+      },
+      {
+        "name": "Julie Covington",
+        "nm": 184493,
+        "roles": [
+          {
+            "char": "Devonia 'Dee' Rhoades",
+            "ch": 106615
+          }
+        ]
+      },
+      {
+        "name": "Rula Lenska",
+        "nm": 502218,
+        "roles": [
+          {
+            "char": "Nancy 'Q' Cunard de Longchamps",
+            "ch": 106616
+          }
+        ]
+      },
+      {
+        "name": "Denis Lawson",
+        "nm": 493200,
+        "roles": [
+          {
+            "char": "Ken Church",
+            "ch": 153905
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Gloria"
+          }
+        ]
+      },
+      {
+        "name": "John Bryans",
+        "nm": 117028,
+        "roles": [
+          {
+            "char": "Al Fiegleman"
+          }
+        ]
+      },
+      {
+        "name": "David Joss Buckley",
+        "nm": 118592,
+        "roles": [
+          {
+            "char": "Chris",
+            "as Joss Buckley": true
+          }
+        ]
+      },
+      {
+        "name": "Vivienne Burgess",
+        "nm": 121363,
+        "roles": [
+          {
+            "char": "Mrs. Wynd"
+          }
+        ]
+      },
+      {
+        "name": "Angela Chadfield",
+        "nm": 149445,
+        "roles": [
+          {
+            "char": "Joyce"
+          }
+        ]
+      },
+      {
+        "name": "Cyril Cross",
+        "nm": 189136,
+        "roles": [
+          {
+            "char": "Sam Sprat"
+          }
+        ]
+      },
+      {
+        "name": "Ellis Dale",
+        "nm": 197687,
+        "roles": [
+          {
+            "char": "Schubert Birnbaum"
+          }
+        ]
+      },
+      {
+        "name": "Denis Lill",
+        "nm": 510317,
+        "roles": [
+          {
+            "char": "Chas Speed",
+            "as Dennis Lill": true
+          }
+        ]
+      },
+      {
+        "name": "Stephen Moore",
+        "nm": 601891,
+        "roles": [
+          {
+            "char": "Jack",
+            "ch": 159693
+          }
+        ]
+      },
+      {
+        "name": "Billy Murray",
+        "nm": 614854,
+        "roles": [
+          {
+            "char": "Spike",
+            "ch": 98782
+          }
+        ]
+      },
+      {
+        "name": "Emlyn Price",
+        "nm": 696888,
+        "roles": [
+          {
+            "char": "Derek Huggin"
+          }
+        ]
+      },
+      {
+        "name": "Ray Russell",
+        "nm": 751399,
+        "roles": [
+          {
+            "char": "The Group"
+          }
+        ]
+      },
+      {
+        "name": "Michael Shannon",
+        "nm": 788332,
+        "roles": [
+          {
+            "char": "Carl 'Tubes' Benson",
+            "ch": 98783
+          }
+        ]
+      },
+      {
+        "name": "Kathy Staff",
+        "nm": 821220,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Bill Stewart",
+        "nm": 829202,
+        "roles": [
+          {
+            "char": "Bob"
+          }
+        ]
+      },
+      {
+        "name": "Peter Van Hooke",
+        "nm": 887159,
+        "roles": [
+          {
+            "char": "The Group",
+            "as Peter John Van Hooke": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "The Road",
+    "tt": 687904,
+    "air_date": "1976-03-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlotte Cornwell",
+        "nm": 180489,
+        "roles": [
+          {
+            "char": "Anna Ward",
+            "ch": 106613
+          }
+        ]
+      },
+      {
+        "name": "Julie Covington",
+        "nm": 184493,
+        "roles": [
+          {
+            "char": "Devonia 'Dee' Rhoades",
+            "ch": 106615
+          }
+        ]
+      },
+      {
+        "name": "Rula Lenska",
+        "nm": 502218,
+        "roles": [
+          {
+            "char": "Nancy 'Q' Cunard de Longchamps",
+            "ch": 106616
+          }
+        ]
+      },
+      {
+        "name": "Wendy Barrie",
+        "nm": 1222850,
+        "roles": [
+          {
+            "char": "Aquaitress"
+          }
+        ]
+      },
+      {
+        "name": "Iain Blair",
+        "nm": 86260,
+        "roles": [
+          {
+            "char": "Roy Rogers",
+            "ch": 37439
+          }
+        ]
+      },
+      {
+        "name": "Dustin Gee",
+        "nm": 1045382,
+        "roles": [
+          {
+            "char": "Disc jockey"
+          }
+        ]
+      },
+      {
+        "name": "Chrissie Kendall",
+        "nm": 447578,
+        "roles": [
+          {
+            "char": "Mermgirl"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Moore",
+        "nm": 601891,
+        "roles": [
+          {
+            "char": "Jack",
+            "ch": 159693
+          }
+        ]
+      },
+      {
+        "name": "Billy Murray",
+        "nm": 614854,
+        "roles": [
+          {
+            "char": "Spike",
+            "ch": 98782
+          }
+        ]
+      },
+      {
+        "name": "Christopher Neil",
+        "nm": 624669,
+        "roles": [
+          {
+            "char": "David"
+          }
+        ]
+      },
+      {
+        "name": "Emlyn Price",
+        "nm": 696888,
+        "roles": [
+          {
+            "char": "Derek Huggin"
+          }
+        ]
+      },
+      {
+        "name": "Ray Russell",
+        "nm": 751399,
+        "roles": [
+          {
+            "char": "The Group"
+          }
+        ]
+      },
+      {
+        "name": "Peter Van Hooke",
+        "nm": 887159,
+        "roles": [
+          {
+            "char": "The Group",
+            "as Peter John Van Hooke": true
+          }
+        ]
+      },
+      {
+        "name": "James Warwick",
+        "nm": 913243,
+        "roles": [
+          {
+            "char": "Nigel",
+            "ch": 145511
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Talking Pictures",
+    "tt": 687906,
+    "air_date": "1976-03-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlotte Cornwell",
+        "nm": 180489,
+        "roles": [
+          {
+            "char": "Anna Ward",
+            "ch": 106613
+          }
+        ]
+      },
+      {
+        "name": "Julie Covington",
+        "nm": 184493,
+        "roles": [
+          {
+            "char": "Devonia 'Dee' Rhoades",
+            "ch": 106615
+          }
+        ]
+      },
+      {
+        "name": "Rula Lenska",
+        "nm": 502218,
+        "roles": [
+          {
+            "char": "Nancy 'Q' Cunard de Longchamps",
+            "ch": 106616
+          }
+        ]
+      },
+      {
+        "name": "Peter Attard",
+        "nm": 41125,
+        "roles": [
+          {
+            "char": "Bull Trade"
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Gloria"
+          }
+        ]
+      },
+      {
+        "name": "David Joss Buckley",
+        "nm": 118592,
+        "roles": [
+          {
+            "char": "Chris",
+            "as Joss Buckley": true
+          }
+        ]
+      },
+      {
+        "name": "Angela Chadfield",
+        "nm": 149445,
+        "roles": [
+          {
+            "char": "Joyce"
+          }
+        ]
+      },
+      {
+        "name": "Cyril Cross",
+        "nm": 189136,
+        "roles": [
+          {
+            "char": "Sam Sprat"
+          }
+        ]
+      },
+      {
+        "name": "Ellis Dale",
+        "nm": 197687,
+        "roles": [
+          {
+            "char": "Schubert Birnbaum"
+          }
+        ]
+      },
+      {
+        "name": "David Dixon",
+        "nm": 228797,
+        "roles": [
+          {
+            "char": "Rob Fury"
+          }
+        ]
+      },
+      {
+        "name": "Willie Jonah",
+        "nm": 427289,
+        "roles": [
+          {
+            "char": "Mr. N'Krunni"
+          }
+        ]
+      },
+      {
+        "name": "Denis Lill",
+        "nm": 510317,
+        "roles": [
+          {
+            "char": "Chas Speed",
+            "as Dennis Lill": true
+          }
+        ]
+      },
+      {
+        "name": "Stephen Moore",
+        "nm": 601891,
+        "roles": [
+          {
+            "char": "Jack",
+            "ch": 159693
+          }
+        ]
+      },
+      {
+        "name": "Billy Murray",
+        "nm": 614854,
+        "roles": [
+          {
+            "char": "Spike",
+            "ch": 98782
+          }
+        ]
+      },
+      {
+        "name": "Emlyn Price",
+        "nm": 696888,
+        "roles": [
+          {
+            "char": "Derek Huggin"
+          }
+        ]
+      },
+      {
+        "name": "Michael Shannon",
+        "nm": 788332,
+        "roles": [
+          {
+            "char": "Carl 'Tubes' Benson",
+            "ch": 98783
+          }
+        ]
+      },
+      {
+        "name": "Bill Stewart",
+        "nm": 829202,
+        "roles": [
+          {
+            "char": "Bob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "The Pounds Sterling",
+    "tt": 687903,
+    "air_date": "1976-03-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlotte Cornwell",
+        "nm": 180489,
+        "roles": [
+          {
+            "char": "Anna Ward",
+            "ch": 106613
+          }
+        ]
+      },
+      {
+        "name": "Julie Covington",
+        "nm": 184493,
+        "roles": [
+          {
+            "char": "Devonia 'Dee' Rhoades",
+            "ch": 106615
+          }
+        ]
+      },
+      {
+        "name": "Rula Lenska",
+        "nm": 502218,
+        "roles": [
+          {
+            "char": "Nancy 'Q' Cunard de Longchamps",
+            "ch": 106616
+          }
+        ]
+      },
+      {
+        "name": "Michael Angelis",
+        "nm": 29617,
+        "roles": [
+          {
+            "char": "Stavros Kuklas",
+            "ch": 246154
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Gloria"
+          }
+        ]
+      },
+      {
+        "name": "David Joss Buckley",
+        "nm": 118592,
+        "roles": [
+          {
+            "char": "Chris",
+            "as Joss Buckley": true
+          }
+        ]
+      },
+      {
+        "name": "Vivienne Burgess",
+        "nm": 121363,
+        "roles": [
+          {
+            "char": "Mrs. Wynd"
+          }
+        ]
+      },
+      {
+        "name": "Angela Chadfield",
+        "nm": 149445,
+        "roles": [
+          {
+            "char": "Joyce"
+          }
+        ]
+      },
+      {
+        "name": "Julie Crosthwaite",
+        "nm": 189385,
+        "roles": [
+          {
+            "char": "Pamina",
+            "as Julie Crosthwait": true
+          }
+        ]
+      },
+      {
+        "name": "Simon Jones",
+        "nm": 429254,
+        "roles": [
+          {
+            "char": "Juan Les Pins",
+            "ch": 98784
+          }
+        ]
+      },
+      {
+        "name": "Jon Laurimore",
+        "nm": 491440,
+        "roles": [
+          {
+            "char": "Charles"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Moore",
+        "nm": 601891,
+        "roles": [
+          {
+            "char": "Jack",
+            "ch": 159693
+          }
+        ]
+      },
+      {
+        "name": "Billy Murray",
+        "nm": 614854,
+        "roles": [
+          {
+            "char": "Spike",
+            "ch": 98782
+          }
+        ]
+      },
+      {
+        "name": "Christopher Neil",
+        "nm": 624669,
+        "roles": [
+          {
+            "char": "David"
+          }
+        ]
+      },
+      {
+        "name": "Emlyn Price",
+        "nm": 696888,
+        "roles": [
+          {
+            "char": "Derek Huggin"
+          }
+        ]
+      },
+      {
+        "name": "Gordon Reid",
+        "nm": 717276,
+        "roles": [
+          {
+            "char": "Carlos"
+          }
+        ]
+      },
+      {
+        "name": "Michael Richmond",
+        "nm": 2044284,
+        "roles": [
+          {
+            "char": "Bill"
+          }
+        ]
+      },
+      {
+        "name": "Michael Shannon",
+        "nm": 788332,
+        "roles": [
+          {
+            "char": "Carl 'Tubes' Benson",
+            "ch": 98783
+          }
+        ]
+      },
+      {
+        "name": "Bill Stewart",
+        "nm": 829202,
+        "roles": [
+          {
+            "char": "Bob"
+          }
+        ]
+      },
+      {
+        "name": "David Toguri",
+        "nm": 865611,
+        "roles": [
+          {
+            "char": "Alan Nagouchi"
+          }
+        ]
+      },
+      {
+        "name": "Peter Van Hooke",
+        "nm": 887159,
+        "roles": [
+          {
+            "char": "The Group",
+            "as Peter John Van Hooke": true
+          }
+        ]
+      },
+      {
+        "name": "James Warwick",
+        "nm": 913243,
+        "roles": [
+          {
+            "char": "Nigel",
+            "ch": 145511
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "The Blitz",
+    "tt": 687901,
+    "air_date": "1976-03-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlotte Cornwell",
+        "nm": 180489,
+        "roles": [
+          {
+            "char": "Anna Ward",
+            "ch": 106613
+          }
+        ]
+      },
+      {
+        "name": "Julie Covington",
+        "nm": 184493,
+        "roles": [
+          {
+            "char": "Devonia 'Dee' Rhoades",
+            "ch": 106615
+          }
+        ]
+      },
+      {
+        "name": "Rula Lenska",
+        "nm": 502218,
+        "roles": [
+          {
+            "char": "Nancy 'Q' Cunard de Longchamps",
+            "ch": 106616
+          }
+        ]
+      },
+      {
+        "name": "Michael Angelis",
+        "nm": 29617,
+        "roles": [
+          {
+            "char": "Stavros Kuklas",
+            "ch": 246154
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Gloria"
+          }
+        ]
+      },
+      {
+        "name": "David Joss Buckley",
+        "nm": 118592,
+        "roles": [
+          {
+            "char": "Chris",
+            "as Joss Buckley": true
+          }
+        ]
+      },
+      {
+        "name": "Vivienne Burgess",
+        "nm": 121363,
+        "roles": [
+          {
+            "char": "Mrs. Wynd"
+          }
+        ]
+      },
+      {
+        "name": "Angela Chadfield",
+        "nm": 149445,
+        "roles": [
+          {
+            "char": "Joyce"
+          }
+        ]
+      },
+      {
+        "name": "Julie Crosthwaite",
+        "nm": 189385,
+        "roles": [
+          {
+            "char": "Pamina",
+            "as Julie Crosthwait": true
+          }
+        ]
+      },
+      {
+        "name": "Ellis Dale",
+        "nm": 197687,
+        "roles": [
+          {
+            "char": "Schubert Birnbaum"
+          }
+        ]
+      },
+      {
+        "name": "Michael Hawkins",
+        "nm": 370186,
+        "roles": [
+          {
+            "char": "Mark Jefferies"
+          }
+        ]
+      },
+      {
+        "name": "Simon Jones",
+        "nm": 429254,
+        "roles": [
+          {
+            "char": "Juan Les Pins",
+            "ch": 98784
+          }
+        ]
+      },
+      {
+        "name": "Jon Laurimore",
+        "nm": 491440,
+        "roles": [
+          {
+            "char": "Charles"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Moore",
+        "nm": 601891,
+        "roles": [
+          {
+            "char": "Jack",
+            "ch": 159693
+          }
+        ]
+      },
+      {
+        "name": "Billy Murray",
+        "nm": 614854,
+        "roles": [
+          {
+            "char": "Spike",
+            "ch": 98782
+          }
+        ]
+      },
+      {
+        "name": "Christopher Neil",
+        "nm": 624669,
+        "roles": [
+          {
+            "char": "David"
+          }
+        ]
+      },
+      {
+        "name": "Emlyn Price",
+        "nm": 696888,
+        "roles": [
+          {
+            "char": "Derek Huggin"
+          }
+        ]
+      },
+      {
+        "name": "Michael Shannon",
+        "nm": 788332,
+        "roles": [
+          {
+            "char": "Carl 'Tubes' Benson",
+            "ch": 98783
+          }
+        ]
+      },
+      {
+        "name": "David Toguri",
+        "nm": 865611,
+        "roles": [
+          {
+            "char": "Alan Nagouchi"
+          }
+        ]
+      },
+      {
+        "name": "James Warwick",
+        "nm": 913243,
+        "roles": [
+          {
+            "char": "Nigel",
+            "ch": 145511
+          }
+        ]
+      }
+    ]
+  }
+]

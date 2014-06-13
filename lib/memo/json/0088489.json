@@ -1,0 +1,889 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pripreme",
+    "tt": 1312389,
+    "air_date": "1985-04-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Slobodan Aligrudic",
+        "nm": 19609,
+        "roles": [
+          {
+            "char": "Cica Rogulja"
+          }
+        ]
+      },
+      {
+        "name": "Miralem Zupcevic",
+        "nm": 958237,
+        "roles": [
+          {
+            "char": "Stjepan Seburic Lubura"
+          }
+        ]
+      },
+      {
+        "name": "Bogdan Diklic",
+        "nm": 226699,
+        "roles": [
+          {
+            "char": "Krnjo"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Ejdus",
+        "nm": 252222,
+        "roles": [
+          {
+            "char": "Jokohama"
+          }
+        ]
+      },
+      {
+        "name": "Radko Polic",
+        "nm": 689091,
+        "roles": [
+          {
+            "char": "Kardinal"
+          }
+        ]
+      },
+      {
+        "name": "Danilo Lazovic",
+        "nm": 493952,
+        "roles": [
+          {
+            "char": "Marko Vranac"
+          }
+        ]
+      },
+      {
+        "name": "Miodrag Krivokapic",
+        "nm": 471771,
+        "roles": [
+          {
+            "char": "Doktor"
+          }
+        ]
+      },
+      {
+        "name": "Milos Zutic",
+        "nm": 958856,
+        "roles": [
+          {
+            "char": "Sal"
+          }
+        ]
+      },
+      {
+        "name": "Mihailo 'Misa' Janketic",
+        "nm": 417712,
+        "roles": [
+          {
+            "char": "Boro",
+            "as Mihajlo Janketic": true
+          }
+        ]
+      },
+      {
+        "name": "Boro Begovic",
+        "nm": 66806,
+        "roles": [
+          {
+            "char": "Stipe Silver"
+          }
+        ]
+      },
+      {
+        "name": "Demeter Bitenc",
+        "nm": 84459,
+        "roles": [
+          {
+            "char": "Nepoznati"
+          }
+        ]
+      },
+      {
+        "name": "Rade Colovic",
+        "nm": 1053918,
+        "roles": [
+          {
+            "char": "Kapula"
+          }
+        ]
+      },
+      {
+        "name": "Jasna Diklic",
+        "nm": 226701,
+        "roles": [
+          {
+            "char": "Kucepaziteljica"
+          }
+        ]
+      },
+      {
+        "name": "Jasmin Geljo",
+        "nm": 312334,
+        "roles": [
+          {
+            "char": "Bili"
+          }
+        ]
+      },
+      {
+        "name": "Ivo Gregurevic",
+        "nm": 340005,
+        "roles": [
+          {
+            "char": "Stimer"
+          }
+        ]
+      },
+      {
+        "name": "Izet Hajdarhodzic",
+        "nm": 354436,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Zeljko Hajndl",
+        "nm": 1670113,
+        "roles": [
+          {
+            "char": "Francuski agent"
+          }
+        ]
+      },
+      {
+        "name": "Zdenko Jelcic",
+        "nm": 420507,
+        "roles": [
+          {
+            "char": "Briskula"
+          }
+        ]
+      },
+      {
+        "name": "Zeljko Kecojevic",
+        "nm": 1670255,
+        "roles": [
+          {
+            "char": "Milicioner"
+          }
+        ]
+      },
+      {
+        "name": "Vlado Kerosevic",
+        "nm": 449614,
+        "roles": [
+          {
+            "char": "Maks"
+          }
+        ]
+      },
+      {
+        "name": "Sanda Krgo",
+        "nm": 1572734,
+        "roles": [
+          {
+            "char": "Cicina Kcerka",
+            "as Senada Krgo": true
+          }
+        ]
+      },
+      {
+        "name": "Miodrag Krstovic",
+        "nm": 472431,
+        "roles": [
+          {
+            "char": "Porucnik Banjac"
+          }
+        ]
+      },
+      {
+        "name": "Miroljub Leso",
+        "nm": 504240,
+        "roles": [
+          {
+            "char": "Mika Dali"
+          }
+        ]
+      },
+      {
+        "name": "Radoslava Marinkovic",
+        "nm": 547721,
+        "roles": [
+          {
+            "char": "Nada"
+          }
+        ]
+      },
+      {
+        "name": "Zinaid Memisevic",
+        "nm": 578610,
+        "roles": [
+          {
+            "char": "Lisko"
+          }
+        ]
+      },
+      {
+        "name": "Mladen Nelevic",
+        "nm": 625003,
+        "roles": [
+          {
+            "char": "Fil"
+          }
+        ]
+      },
+      {
+        "name": "Dubravka Ostojic",
+        "nm": 652446,
+        "roles": [
+          {
+            "char": "Salova zena"
+          }
+        ]
+      },
+      {
+        "name": "Edo Perocevic",
+        "nm": 674390,
+        "roles": [
+          {
+            "char": "Jokas"
+          }
+        ]
+      },
+      {
+        "name": "Goran Savic",
+        "nm": 1675449,
+        "roles": [
+          {
+            "char": "Pop"
+          }
+        ]
+      },
+      {
+        "name": "Ramiz Sekic",
+        "nm": 782844,
+        "roles": [
+          {
+            "char": "Barisa"
+          }
+        ]
+      },
+      {
+        "name": "Nebojsa Surlan",
+        "nm": 839671,
+        "roles": [
+          {
+            "char": "Radnik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Kamion",
+    "tt": 1353053,
+    "air_date": "1985-05-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Slobodan Aligrudic",
+        "nm": 19609,
+        "roles": [
+          {
+            "char": "Cica Rogulja"
+          }
+        ]
+      },
+      {
+        "name": "Miralem Zupcevic",
+        "nm": 958237,
+        "roles": [
+          {
+            "char": "Stjepan Seburic Lubura"
+          }
+        ]
+      },
+      {
+        "name": "Bogdan Diklic",
+        "nm": 226699,
+        "roles": [
+          {
+            "char": "Krnjo"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Ejdus",
+        "nm": 252222,
+        "roles": [
+          {
+            "char": "Jokohama"
+          }
+        ]
+      },
+      {
+        "name": "Radko Polic",
+        "nm": 689091,
+        "roles": [
+          {
+            "char": "Kardinal"
+          }
+        ]
+      },
+      {
+        "name": "Danilo Lazovic",
+        "nm": 493952,
+        "roles": [
+          {
+            "char": "Marko Vranac"
+          }
+        ]
+      },
+      {
+        "name": "Velimir 'Bata' Zivojinovic",
+        "nm": 957372,
+        "roles": [
+          {
+            "char": "Ivan Vrebac",
+            "as Bata Zivojinovic": true
+          }
+        ]
+      },
+      {
+        "name": "Miodrag Krivokapic",
+        "nm": 471771,
+        "roles": [
+          {
+            "char": "Doktor"
+          }
+        ]
+      },
+      {
+        "name": "Mihailo 'Misa' Janketic",
+        "nm": 417712,
+        "roles": [
+          {
+            "char": "Boro",
+            "as Mihajlo Janketic": true
+          }
+        ]
+      },
+      {
+        "name": "Alija Aljevic",
+        "nm": 1669655,
+        "roles": [
+          {
+            "char": "Vodnik"
+          }
+        ]
+      },
+      {
+        "name": "Boro Begovic",
+        "nm": 66806,
+        "roles": [
+          {
+            "char": "Stipe Silver"
+          }
+        ]
+      },
+      {
+        "name": "Rade Colovic",
+        "nm": 1053918,
+        "roles": [
+          {
+            "char": "Kapula"
+          }
+        ]
+      },
+      {
+        "name": "Milenko Djedovic",
+        "nm": 229136,
+        "roles": [
+          {
+            "char": "Gost"
+          }
+        ]
+      },
+      {
+        "name": "Jasmin Geljo",
+        "nm": 312334,
+        "roles": [
+          {
+            "char": "Bili"
+          }
+        ]
+      },
+      {
+        "name": "Ivo Gregurevic",
+        "nm": 340005,
+        "roles": [
+          {
+            "char": "Stimer"
+          }
+        ]
+      },
+      {
+        "name": "Zvone Hribar",
+        "nm": 398597,
+        "roles": [
+          {
+            "char": "Janez"
+          }
+        ]
+      },
+      {
+        "name": "Zdenko Jelcic",
+        "nm": 420507,
+        "roles": [
+          {
+            "char": "Briskula"
+          }
+        ]
+      },
+      {
+        "name": "Vlado Kerosevic",
+        "nm": 449614,
+        "roles": [
+          {
+            "char": "Maks"
+          }
+        ]
+      },
+      {
+        "name": "Zinaid Memisevic",
+        "nm": 578610,
+        "roles": [
+          {
+            "char": "Lisko"
+          }
+        ]
+      },
+      {
+        "name": "Dragan Milivojevic",
+        "nm": 587524,
+        "roles": [
+          {
+            "char": "Sivo"
+          }
+        ]
+      },
+      {
+        "name": "Amela Milunovic",
+        "nm": 1671558,
+        "roles": [
+          {
+            "char": "Mala"
+          }
+        ]
+      },
+      {
+        "name": "Mladen Nelevic",
+        "nm": 625003,
+        "roles": [
+          {
+            "char": "Fil"
+          }
+        ]
+      },
+      {
+        "name": "Ratko Petkovic",
+        "nm": 677706,
+        "roles": [
+          {
+            "char": "Piljak"
+          }
+        ]
+      },
+      {
+        "name": "Goran Savic",
+        "nm": 1675449,
+        "roles": [
+          {
+            "char": "Pop"
+          }
+        ]
+      },
+      {
+        "name": "Vlajko Sparavalo",
+        "nm": 816915,
+        "roles": [
+          {
+            "char": "Ante Lilicek"
+          }
+        ]
+      },
+      {
+        "name": "Goran Sultanovic",
+        "nm": 838469,
+        "roles": [
+          {
+            "char": "Lujo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Sukob",
+    "tt": 1353055,
+    "air_date": "1985-05-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Gorica Popovic",
+        "nm": 691419,
+        "roles": [
+          {
+            "char": "Todorova zena"
+          }
+        ]
+      },
+      {
+        "name": "Danilo Lazovic",
+        "nm": 493952,
+        "roles": [
+          {
+            "char": "Marko Vranac"
+          }
+        ]
+      },
+      {
+        "name": "Miralem Zupcevic",
+        "nm": 958237,
+        "roles": [
+          {
+            "char": "Stjepan Seburic Lubura"
+          }
+        ]
+      },
+      {
+        "name": "Dragan Jovicic",
+        "nm": 431351,
+        "roles": [
+          {
+            "char": "Ranko"
+          }
+        ]
+      },
+      {
+        "name": "Slobodan Aligrudic",
+        "nm": 19609,
+        "roles": [
+          {
+            "char": "Cica Rogulja"
+          }
+        ]
+      },
+      {
+        "name": "Bogdan Diklic",
+        "nm": 226699,
+        "roles": [
+          {
+            "char": "Krnjo"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Ejdus",
+        "nm": 252222,
+        "roles": [
+          {
+            "char": "Jokohama"
+          }
+        ]
+      },
+      {
+        "name": "Radko Polic",
+        "nm": 689091,
+        "roles": [
+          {
+            "char": "Kardinal"
+          }
+        ]
+      },
+      {
+        "name": "Velimir 'Bata' Zivojinovic",
+        "nm": 957372,
+        "roles": [
+          {
+            "char": "Ivan Vrebac",
+            "as Bata Zivojinovic": true
+          }
+        ]
+      },
+      {
+        "name": "Miodrag Krivokapic",
+        "nm": 471771,
+        "roles": [
+          {
+            "char": "Doktor"
+          }
+        ]
+      },
+      {
+        "name": "Vlado Kerosevic",
+        "nm": 449614,
+        "roles": [
+          {
+            "char": "Maks"
+          }
+        ]
+      },
+      {
+        "name": "Radoslava Marinkovic",
+        "nm": 547721,
+        "roles": [
+          {
+            "char": "Nada"
+          }
+        ]
+      },
+      {
+        "name": "Zaim Muzaferija",
+        "nm": 616225,
+        "roles": [
+          {
+            "char": "Starac II"
+          }
+        ]
+      },
+      {
+        "name": "Mihajlo-Bata Paskaljevic",
+        "nm": 664608,
+        "roles": [
+          {
+            "char": "Starac I"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Kazna",
+    "tt": 1353054,
+    "air_date": "1985-05-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Slobodan Aligrudic",
+        "nm": 19609,
+        "roles": [
+          {
+            "char": "Cica Rogulja"
+          }
+        ]
+      },
+      {
+        "name": "Miralem Zupcevic",
+        "nm": 958237,
+        "roles": [
+          {
+            "char": "Stjepan Seburic Lubura",
+            "as Miralem Zubcevic": true
+          }
+        ]
+      },
+      {
+        "name": "Bogdan Diklic",
+        "nm": 226699,
+        "roles": [
+          {
+            "char": "Krnjo"
+          }
+        ]
+      },
+      {
+        "name": "Predrag Ejdus",
+        "nm": 252222,
+        "roles": [
+          {
+            "char": "Jokohama"
+          }
+        ]
+      },
+      {
+        "name": "Velimir 'Bata' Zivojinovic",
+        "nm": 957372,
+        "roles": [
+          {
+            "char": "Ivan Vrebac",
+            "as Bata Zivojinovic": true
+          }
+        ]
+      },
+      {
+        "name": "Miodrag Krivokapic",
+        "nm": 471771,
+        "roles": [
+          {
+            "char": "Doktor"
+          }
+        ]
+      },
+      {
+        "name": "Boro Begovic",
+        "nm": 66806,
+        "roles": [
+          {
+            "char": "Stipe Silver"
+          }
+        ]
+      },
+      {
+        "name": "Rade Colovic",
+        "nm": 1053918,
+        "roles": [
+          {
+            "char": "Kapula"
+          }
+        ]
+      },
+      {
+        "name": "Jasmin Geljo",
+        "nm": 312334,
+        "roles": [
+          {
+            "char": "Bili"
+          }
+        ]
+      },
+      {
+        "name": "Ivo Gregurevic",
+        "nm": 340005,
+        "roles": [
+          {
+            "char": "Stimer"
+          }
+        ]
+      },
+      {
+        "name": "Biljana Jeftanic",
+        "nm": 1671366,
+        "roles": [
+          {
+            "char": "Prevodilac"
+          }
+        ]
+      },
+      {
+        "name": "Dragan Jovicic",
+        "nm": 431351,
+        "roles": [
+          {
+            "char": "Ranko"
+          }
+        ]
+      },
+      {
+        "name": "Vlado Kerosevic",
+        "nm": 449614,
+        "roles": [
+          {
+            "char": "Maks"
+          }
+        ]
+      },
+      {
+        "name": "Miodrag Krstovic",
+        "nm": 472431,
+        "roles": [
+          {
+            "char": "Porucnik Banjac"
+          }
+        ]
+      },
+      {
+        "name": "Branko Licen",
+        "nm": 508972,
+        "roles": [
+          {
+            "char": "Dusan"
+          }
+        ]
+      },
+      {
+        "name": "Zinaid Memisevic",
+        "nm": 578610,
+        "roles": [
+          {
+            "char": "Lisko"
+          }
+        ]
+      },
+      {
+        "name": "Dragan Milivojevic",
+        "nm": 587524,
+        "roles": [
+          {
+            "char": "Sivo"
+          }
+        ]
+      },
+      {
+        "name": "Mladen Nelevic",
+        "nm": 625003,
+        "roles": [
+          {
+            "char": "Fil"
+          }
+        ]
+      },
+      {
+        "name": "Edo Perocevic",
+        "nm": 674390,
+        "roles": [
+          {
+            "char": "Jokas"
+          }
+        ]
+      },
+      {
+        "name": "Ramiz Sekic",
+        "nm": 782844,
+        "roles": [
+          {
+            "char": "Barisa"
+          }
+        ]
+      },
+      {
+        "name": "Vlajko Sparavalo",
+        "nm": 816915,
+        "roles": [
+          {
+            "char": "Ante Lilicek"
+          }
+        ]
+      },
+      {
+        "name": "Nebojsa Veljovic",
+        "nm": 1063101,
+        "roles": [
+          {
+            "char": "Radio vezist"
+          }
+        ]
+      },
+      {
+        "name": "Zvonko Zrncic",
+        "nm": 958119,
+        "roles": [
+          {
+            "char": "Pukovnik Bozo"
+          }
+        ]
+      }
+    ]
+  }
+]

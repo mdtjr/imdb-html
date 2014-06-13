@@ -1,0 +1,9691 @@
+[
+  {
+    "se": "S01E01",
+    "title": "S.N.A.F.U.",
+    "tt": 603801,
+    "air_date": "1991-09-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Ron Soble",
+        "nm": 811824,
+        "roles": [
+          {
+            "char": "Mr. Howell"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Arnold Johnson",
+        "nm": 424523,
+        "roles": [
+          {
+            "char": "Jeb Pulliam"
+          }
+        ]
+      },
+      {
+        "name": "Armand Asselin",
+        "nm": 39793,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "John Gowans",
+        "nm": 332944,
+        "roles": [
+          {
+            "char": "Mr. Horvath",
+            "as John D. Gowans": true
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Dean Hallo",
+        "nm": 356698,
+        "roles": [
+          {
+            "char": "Obnoxious sailor"
+          }
+        ]
+      },
+      {
+        "name": "Beth Taylor",
+        "nm": 852036,
+        "roles": [
+          {
+            "char": "Lush"
+          }
+        ]
+      },
+      {
+        "name": "Karon Wright",
+        "nm": 942552,
+        "roles": [
+          {
+            "char": "Mrs. Horvath"
+          }
+        ]
+      },
+      {
+        "name": "Kurt Andon",
+        "nm": 27964,
+        "roles": [
+          {
+            "char": "Employee"
+          }
+        ]
+      },
+      {
+        "name": "Leesa Bryte",
+        "nm": 117480,
+        "roles": [
+          {
+            "char": "USO Volunteer #2"
+          }
+        ]
+      },
+      {
+        "name": "Adam Consolo",
+        "nm": 175955,
+        "roles": [
+          {
+            "char": "Telegram boy"
+          }
+        ]
+      },
+      {
+        "name": "Vernetta R. Jenkins",
+        "nm": 420996,
+        "roles": [
+          {
+            "char": "Girlfriend"
+          }
+        ]
+      },
+      {
+        "name": "Jack Kandel",
+        "nm": 437193,
+        "roles": [
+          {
+            "char": "Cab driver"
+          }
+        ]
+      },
+      {
+        "name": "Irvin Mosley Jr.",
+        "nm": 608816,
+        "roles": [
+          {
+            "char": "Neighbor #2"
+          }
+        ]
+      },
+      {
+        "name": "Ted Noose",
+        "nm": 634810,
+        "roles": [
+          {
+            "char": "USO Volunteer #1"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Ricard",
+        "nm": 723058,
+        "roles": [
+          {
+            "char": "Neighbor #1"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Tarr",
+        "nm": 1621817,
+        "roles": [
+          {
+            "char": "Grocery Boy"
+          }
+        ]
+      },
+      {
+        "name": "Greg Albany",
+        "nm": 1620441,
+        "roles": [
+          {
+            "char": "Sailor #3",
+            "as Greg Albanese": true
+          }
+        ]
+      },
+      {
+        "name": "Layla Bias Galloway",
+        "nm": 303190,
+        "roles": [
+          {
+            "char": "Red Cross Volunteer"
+          }
+        ]
+      },
+      {
+        "name": "Rob Garrison",
+        "nm": 308459,
+        "roles": [
+          {
+            "char": "Sailor #2"
+          }
+        ]
+      },
+      {
+        "name": "Rick Marzan",
+        "nm": 555771,
+        "roles": [
+          {
+            "char": "Sailor #1"
+          }
+        ]
+      },
+      {
+        "name": "David Schroeder",
+        "nm": 775462,
+        "roles": [
+          {
+            "char": "Personnel Manager #1"
+          }
+        ]
+      },
+      {
+        "name": "Troy Martin",
+        "nm": 1750963,
+        "roles": [
+          {
+            "char": "USMC",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Take My Hand",
+    "tt": 603809,
+    "air_date": "1992-07-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Jay Bell",
+        "nm": 68265,
+        "roles": [
+          {
+            "char": "Funeral director"
+          }
+        ]
+      },
+      {
+        "name": "Dean Norris",
+        "nm": 606487,
+        "roles": [
+          {
+            "char": "Second co-worker"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "First co-worker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Bedsprings",
+    "tt": 823033,
+    "air_date": "1991-10-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Clarence Felder",
+        "nm": 270948,
+        "roles": [
+          {
+            "char": "First cop"
+          }
+        ]
+      },
+      {
+        "name": "Michael Potter",
+        "nm": 693324,
+        "roles": [
+          {
+            "char": "Second cop"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Bellin",
+        "nm": 68989,
+        "roles": [
+          {
+            "char": "Second Personnel Manager"
+          }
+        ]
+      },
+      {
+        "name": "James F. Dean",
+        "nm": 212804,
+        "roles": [
+          {
+            "char": "Third Personnel Manager"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Schroeder",
+        "nm": 775462,
+        "roles": [
+          {
+            "char": "First personnel manager"
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Short",
+        "nm": 795114,
+        "roles": [
+          {
+            "char": "Miss Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Irvin Mosley Jr.",
+        "nm": 608816,
+        "roles": [
+          {
+            "char": "Mr. Lampley"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Ricard",
+        "nm": 723058,
+        "roles": [
+          {
+            "char": "Mrs. Wheeler"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Troyer",
+        "nm": 2310387,
+        "roles": [
+          {
+            "char": "Job applicant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "So All Alone",
+    "tt": 603804,
+    "air_date": "1991-10-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Michael Phenicie",
+        "nm": 309605,
+        "roles": [
+          {
+            "char": "Arnold",
+            "as Michael Gates-Phenicie": true
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Jerry Doyle",
+        "nm": 236381,
+        "roles": [
+          {
+            "char": "Stan",
+            "ch": 92782
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Short",
+        "nm": 795114,
+        "roles": [
+          {
+            "char": "Miss Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      },
+      {
+        "name": "Randy Harrington",
+        "nm": 364344,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Patriots",
+    "tt": 603800,
+    "air_date": "1991-10-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Sherry Rooney",
+        "nm": 740356,
+        "roles": [
+          {
+            "char": "Mrs. Mulvanetty"
+          }
+        ]
+      },
+      {
+        "name": "Lee Weaver",
+        "nm": 915901,
+        "roles": [
+          {
+            "char": "Reverend Harrington"
+          }
+        ]
+      },
+      {
+        "name": "David L. Crowley",
+        "nm": 189719,
+        "roles": [
+          {
+            "char": "Agent Scott",
+            "as David Crowley": true
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Holier Than Thou, Too",
+    "tt": 824987,
+    "air_date": "1991-10-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Fred Pinkard",
+        "nm": 684339,
+        "roles": [
+          {
+            "char": "Jonas"
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Short",
+        "nm": 795114,
+        "roles": [
+          {
+            "char": "Miss Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      },
+      {
+        "name": "Randy Harrington",
+        "nm": 364344,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Melissa Rosen",
+        "nm": 2321920,
+        "roles": [
+          {
+            "char": "Trick-or-Treater"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Rutherford",
+        "nm": 751990,
+        "roles": [
+          {
+            "char": "Trick-or-Treater"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Toledo",
+    "tt": 828218,
+    "air_date": "1991-11-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis",
+            "1991-1992": true
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570,
+            "1991-1992": true
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Tony Carreiro",
+        "nm": 140150,
+        "roles": [
+          {
+            "char": "Ben"
+          }
+        ]
+      },
+      {
+        "name": "Francis X. McCarthy",
+        "nm": 565133,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Dorothy Dells",
+        "nm": 217525,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "David James Alexander",
+        "nm": 18363,
+        "roles": [
+          {
+            "char": "Mr. Brownlee"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Kids",
+    "tt": 830744,
+    "air_date": "1991-11-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis",
+            "1991-1992": true
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570,
+            "1991-1992": true
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Faison",
+        "nm": 265673,
+        "roles": [
+          {
+            "char": "Lawyer"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Ryan MacDonald",
+        "nm": 531915,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Floyd Foster Jr.",
+        "nm": 287662,
+        "roles": [
+          {
+            "char": "Choir member"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      },
+      {
+        "name": "Adam Hendershott",
+        "nm": 376307,
+        "roles": [
+          {
+            "char": "Vincent"
+          }
+        ]
+      },
+      {
+        "name": "Dominick Trapani",
+        "nm": 2326864,
+        "roles": [
+          {
+            "char": "Ricky"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Man, This Joint Is Jumping",
+    "tt": 603796,
+    "air_date": "1991-11-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Itzin",
+        "nm": 411857,
+        "roles": [
+          {
+            "char": "Allan Carmichael"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Nancy Linari",
+        "nm": 511051,
+        "roles": [
+          {
+            "char": "Miss Grogan"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Thornton",
+        "nm": 861502,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Taunie Vrenon",
+        "nm": 904067,
+        "roles": [
+          {
+            "char": "Young Woman"
+          }
+        ]
+      },
+      {
+        "name": "Dee Hengstler",
+        "nm": 377005,
+        "roles": [
+          {
+            "char": "Salesperson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Splitting Hairs",
+    "tt": 603807,
+    "air_date": "1991-12-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165,
+            "as John Di Santi": true
+          }
+        ]
+      },
+      {
+        "name": "Nigel Gibbs",
+        "nm": 316708,
+        "roles": [
+          {
+            "char": "Joe",
+            "ch": 92783
+          }
+        ]
+      },
+      {
+        "name": "Charles Fowlkes",
+        "nm": 288844,
+        "roles": [
+          {
+            "char": "Royal",
+            "as Charles B. Fowlkes": true
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      },
+      {
+        "name": "Randy Harrington",
+        "nm": 364344,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Kimble Jemison",
+        "nm": 420647,
+        "roles": [
+          {
+            "char": "Job Applicant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Szabo's Travels",
+    "tt": 603808,
+    "air_date": "1991-12-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Larry D. Mann",
+        "nm": 542847,
+        "roles": [
+          {
+            "char": "Eddie"
+          }
+        ]
+      },
+      {
+        "name": "Jim Antonio",
+        "nm": 31386,
+        "roles": [
+          {
+            "char": "Priest"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Charles Dumas",
+        "nm": 241431,
+        "roles": [
+          {
+            "char": "Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Wil Albert",
+        "nm": 16607,
+        "roles": [
+          {
+            "char": "Director"
+          }
+        ]
+      },
+      {
+        "name": "James O'Connell",
+        "nm": 640083,
+        "roles": [
+          {
+            "char": "Bus Driver"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Roberts",
+        "nm": 731473,
+        "roles": [
+          {
+            "char": "Estreanda"
+          }
+        ]
+      },
+      {
+        "name": "Michael Griswold",
+        "nm": 342649,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "R. Leo Schreiber",
+        "nm": 775267,
+        "roles": [
+          {
+            "char": "Director of photography"
+          }
+        ]
+      },
+      {
+        "name": "John Drayman",
+        "nm": 237278,
+        "roles": [
+          {
+            "char": "Assistant Director"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Sinners Reconciled",
+    "tt": 603803,
+    "air_date": "1991-12-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Fran Ryan",
+        "nm": 752539,
+        "roles": [
+          {
+            "char": "Sister Theophane"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "William Cort",
+        "nm": 181186,
+        "roles": [
+          {
+            "char": "Dr. Peterson"
+          }
+        ]
+      },
+      {
+        "name": "Anne Gee Byrd",
+        "nm": 125988,
+        "roles": [
+          {
+            "char": "Mrs. Cuffman"
+          }
+        ]
+      },
+      {
+        "name": "Milton James",
+        "nm": 55742,
+        "roles": [
+          {
+            "char": "Desk Manager"
+          }
+        ]
+      },
+      {
+        "name": "Kate Randolph Burns",
+        "nm": 122736,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Frank Rogue",
+        "nm": 1620924,
+        "roles": [
+          {
+            "char": "Orderly"
+          }
+        ]
+      },
+      {
+        "name": "Ed McCready",
+        "nm": 566962,
+        "roles": [
+          {
+            "char": "Cab Driver"
+          }
+        ]
+      },
+      {
+        "name": "Cathy Susan Pyles",
+        "nm": 701517,
+        "roles": [
+          {
+            "char": "Customer"
+          }
+        ]
+      },
+      {
+        "name": "Jon Paul Steuer",
+        "nm": 828125,
+        "roles": [
+          {
+            "char": "Young Mike"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "All These Things Will I Give Thee",
+    "tt": 603783,
+    "air_date": "1992-01-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Courtenay McWhinney",
+        "nm": 574756,
+        "roles": [
+          {
+            "char": "Miss Ralston"
+          }
+        ]
+      },
+      {
+        "name": "Charles Fowlkes",
+        "nm": 288844,
+        "roles": [
+          {
+            "char": "Royal"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      },
+      {
+        "name": "Randy Harrington",
+        "nm": 364344,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "David Stenstrom",
+        "nm": 826691,
+        "roles": [
+          {
+            "char": "NLRB Representative"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Lench",
+        "nm": 501738,
+        "roles": [
+          {
+            "char": "Carl"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Heston",
+        "nm": 381700,
+        "roles": [
+          {
+            "char": "Worker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "When It Rains, It Pours",
+    "tt": 603813,
+    "air_date": "1992-01-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "John Christy Ewing",
+        "nm": 263975,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Robert Duncan McNeill",
+        "nm": 536,
+        "roles": [
+          {
+            "char": "Bill Caswell",
+            "ch": 139873
+          }
+        ]
+      },
+      {
+        "name": "Janet Rotblatt",
+        "nm": 744725,
+        "roles": [
+          {
+            "char": "Patient"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Terry",
+        "nm": 856016,
+        "roles": [
+          {
+            "char": "Father Dreher"
+          }
+        ]
+      },
+      {
+        "name": "Virginia Bingham",
+        "nm": 82959,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Frank Rogue",
+        "nm": 1620924,
+        "roles": [
+          {
+            "char": "Orderly"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "That's the Way the Cookie Crumbles",
+    "tt": 603810,
+    "air_date": "1992-01-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Robert Phalen",
+        "nm": 679606,
+        "roles": [
+          {
+            "char": "Loan Officer"
+          }
+        ]
+      },
+      {
+        "name": "Gerry Gibson",
+        "nm": 316977,
+        "roles": [
+          {
+            "char": "Father confessor"
+          }
+        ]
+      },
+      {
+        "name": "Eric Welch",
+        "nm": 919546,
+        "roles": [
+          {
+            "char": "Ralph"
+          }
+        ]
+      },
+      {
+        "name": "Eamonn Roche",
+        "nm": 733926,
+        "roles": [
+          {
+            "char": "Eddie"
+          }
+        ]
+      },
+      {
+        "name": "Robert Duncan McNeill",
+        "nm": 536,
+        "roles": [
+          {
+            "char": "Bill Caswell",
+            "ch": 139873
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Terry",
+        "nm": 856016,
+        "roles": [
+          {
+            "char": "Father Dreher"
+          }
+        ]
+      },
+      {
+        "name": "Dan Campbell",
+        "nm": 132354,
+        "roles": [
+          {
+            "char": "Frank"
+          }
+        ]
+      },
+      {
+        "name": "David Allyn",
+        "nm": 21674,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Carol Hickey",
+        "nm": 382608,
+        "roles": [
+          {
+            "char": "Customer"
+          }
+        ]
+      },
+      {
+        "name": "Joey Simmrin",
+        "nm": 799937,
+        "roles": [
+          {
+            "char": "Boy"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Bad Connection",
+    "tt": 603786,
+    "air_date": "1992-02-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Blake",
+        "nm": 86553,
+        "roles": [
+          {
+            "char": "Jay Tweed",
+            "ch": 249221
+          }
+        ]
+      },
+      {
+        "name": "Jason Beghe",
+        "nm": 892,
+        "roles": [
+          {
+            "char": "Paul"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Robert Duncan McNeill",
+        "nm": 536,
+        "roles": [
+          {
+            "char": "Bill Caswell",
+            "ch": 139873
+          }
+        ]
+      },
+      {
+        "name": "Robert Balderson",
+        "nm": 49719,
+        "roles": [
+          {
+            "char": "Announcer"
+          }
+        ]
+      },
+      {
+        "name": "Ryal Haakenson",
+        "nm": 3422607,
+        "roles": [
+          {
+            "char": "Man passing near Radio Station"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Getting to First Base",
+    "tt": 603792,
+    "air_date": "1992-02-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Coach Zelnick",
+            "ch": 71569
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Blake",
+        "nm": 86553,
+        "roles": [
+          {
+            "char": "Jay Tweed",
+            "ch": 249221
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Robert Duncan McNeill",
+        "nm": 536,
+        "roles": [
+          {
+            "char": "Bill Caswell",
+            "ch": 139873
+          }
+        ]
+      },
+      {
+        "name": "Cam Brainard",
+        "nm": 104036,
+        "roles": [
+          {
+            "char": "Peach"
+          }
+        ]
+      },
+      {
+        "name": "Charles Fowlkes",
+        "nm": 288844,
+        "roles": [
+          {
+            "char": "Royal"
+          }
+        ]
+      },
+      {
+        "name": "Fred Pinkard",
+        "nm": 684339,
+        "roles": [
+          {
+            "char": "Jonas"
+          }
+        ]
+      },
+      {
+        "name": "Randy Harrington",
+        "nm": 364344,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Erickson Eisley",
+        "nm": 252114,
+        "roles": [
+          {
+            "char": "Private Miles",
+            "as Jonathan Eisley": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "No Man Loyal and Neutral",
+    "tt": 603797,
+    "air_date": "1992-03-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Fred Pinkard",
+        "nm": 684339,
+        "roles": [
+          {
+            "char": "Jonas"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "David Clover",
+        "nm": 167254,
+        "roles": [
+          {
+            "char": "Older Man"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alison Cuffe",
+        "nm": 191248,
+        "roles": [
+          {
+            "char": "Pesky"
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Coach Zelnick",
+            "ch": 71569
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Asley Hayes",
+        "nm": 370895,
+        "roles": [
+          {
+            "char": "Perky",
+            "as Ashley Hayes": true
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Jack Kandel",
+        "nm": 437193,
+        "roles": [
+          {
+            "char": "First reporter"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Kopache",
+        "nm": 465664,
+        "roles": [
+          {
+            "char": "Reporter #2"
+          }
+        ]
+      },
+      {
+        "name": "Charles Fowlkes",
+        "nm": 288844,
+        "roles": [
+          {
+            "char": "Royal"
+          }
+        ]
+      },
+      {
+        "name": "William Newman",
+        "nm": 628309,
+        "roles": [
+          {
+            "char": "Mechanic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "First Sign of Spring",
+    "tt": 603791,
+    "air_date": "1992-03-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Wilson",
+        "nm": 932971,
+        "roles": [
+          {
+            "char": "Sarah Brewer"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Steve Kahan",
+        "nm": 434676,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "John Christy Ewing",
+        "nm": 263975,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Thom Adcox-Hernandez",
+        "nm": 11609,
+        "roles": [
+          {
+            "char": "Wounded Soldier"
+          }
+        ]
+      },
+      {
+        "name": "Richard Hoyt-Miller",
+        "nm": 398490,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Terrence Beasor",
+        "nm": 64065,
+        "roles": [
+          {
+            "char": "Second Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Dalton",
+        "nm": 198311,
+        "roles": [
+          {
+            "char": "First Mourner"
+          }
+        ]
+      },
+      {
+        "name": "Leigh Curran",
+        "nm": 192850,
+        "roles": [
+          {
+            "char": "Second Mourner"
+          }
+        ]
+      },
+      {
+        "name": "Eve Brent",
+        "nm": 107573,
+        "roles": [
+          {
+            "char": "Third Mourner"
+          }
+        ]
+      },
+      {
+        "name": "David Parmenter",
+        "nm": 663129,
+        "roles": [
+          {
+            "char": "Fourth Mourner",
+            "as David Permenter": true
+          }
+        ]
+      },
+      {
+        "name": "James Gallery",
+        "nm": 302800,
+        "roles": [
+          {
+            "char": "Fifth Mourner"
+          }
+        ]
+      },
+      {
+        "name": "Constance Pfeifer",
+        "nm": 679373,
+        "roles": [
+          {
+            "char": "First Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Mary Margaret Lewis",
+        "nm": 507531,
+        "roles": [
+          {
+            "char": "Second Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Donaldson",
+        "nm": 232144,
+        "roles": [
+          {
+            "char": "Sixth Mourner"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "At Your Age",
+    "tt": 603785,
+    "air_date": "1992-03-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Lela Rochon",
+        "nm": 5375,
+        "roles": [
+          {
+            "char": "Mary Louise"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Terry",
+        "nm": 856016,
+        "roles": [
+          {
+            "char": "Father Dreher"
+          }
+        ]
+      },
+      {
+        "name": "Kriss Turner",
+        "nm": 877702,
+        "roles": [
+          {
+            "char": "Deirdre"
+          }
+        ]
+      },
+      {
+        "name": "Rozlyn Sorrell",
+        "nm": 815164,
+        "roles": [
+          {
+            "char": "Vela"
+          }
+        ]
+      },
+      {
+        "name": "Kymberly Newberry",
+        "nm": 627637,
+        "roles": [
+          {
+            "char": "Elizabeth",
+            "as Kimberly S. Newberry": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Obstinacy or Constancy?",
+    "tt": 603798,
+    "air_date": "1992-03-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Charles Fowlkes",
+        "nm": 288844,
+        "roles": [
+          {
+            "char": "Royal"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Coach Zelnick",
+            "ch": 71569
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Blake",
+        "nm": 86553,
+        "roles": [
+          {
+            "char": "Jay Tweed",
+            "ch": 249221
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "John Furlong",
+        "nm": 298952,
+        "roles": [
+          {
+            "char": "National Labor Representative",
+            "ch": 172511
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "If You Want It Done Right...",
+    "tt": 603793,
+    "air_date": "1992-04-01",
+    "description": "The strike is on. The town is split, so are families. Will they come to a resolution?",
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      },
+      {
+        "name": "Stephen James Carver",
+        "nm": 142586,
+        "roles": [
+          {
+            "char": "Striker Fritz"
+          }
+        ]
+      },
+      {
+        "name": "John Walter Davis",
+        "nm": 204897,
+        "roles": [
+          {
+            "char": "Striker Emmett"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Doyle",
+        "nm": 236381,
+        "roles": [
+          {
+            "char": "Stan",
+            "ch": 92782
+          }
+        ]
+      },
+      {
+        "name": "Charles Fowlkes",
+        "nm": 288844,
+        "roles": [
+          {
+            "char": "Royal"
+          }
+        ]
+      },
+      {
+        "name": "Richard Hoyt-Miller",
+        "nm": 398490,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Matt Kanen",
+        "nm": 437551,
+        "roles": [
+          {
+            "char": "Departing Worker"
+          }
+        ]
+      },
+      {
+        "name": "Scott Lincoln",
+        "nm": 511138,
+        "roles": [
+          {
+            "char": "Striker Meyer"
+          }
+        ]
+      },
+      {
+        "name": "Denis Mandel",
+        "nm": 541636,
+        "roles": [
+          {
+            "char": "Striker Ted"
+          }
+        ]
+      },
+      {
+        "name": "Randy Mulkey",
+        "nm": 611894,
+        "roles": [
+          {
+            "char": "Striker Phil"
+          }
+        ]
+      },
+      {
+        "name": "James R. Parkes",
+        "nm": 662731,
+        "roles": [
+          {
+            "char": "Security Officer"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth White",
+        "nm": 925064,
+        "roles": [
+          {
+            "char": "Sheriff Radzimski"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "Spanish Moss",
+    "tt": 603806,
+    "air_date": "1992-04-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Coach Zelnick",
+            "ch": 71569
+          }
+        ]
+      },
+      {
+        "name": "Tony Carreiro",
+        "nm": 140150,
+        "roles": [
+          {
+            "char": "Ben Mahoney"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Terry",
+        "nm": 856016,
+        "roles": [
+          {
+            "char": "Father Dreher"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "Songs Unsung Are Sweetest",
+    "tt": 603805,
+    "air_date": "1992-04-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Newsom",
+        "nm": 628392,
+        "roles": [
+          {
+            "char": "Lt. Hank Metcalf",
+            "ch": 71570
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Coach Zelnick",
+            "ch": 71569
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Gerry Gibson",
+        "nm": 316977,
+        "roles": [
+          {
+            "char": "Father Confessor"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Terry",
+        "nm": 856016,
+        "roles": [
+          {
+            "char": "Father Dreher"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "By Popular Demand",
+    "tt": 603787,
+    "air_date": "1992-09-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Coach Zelnick",
+            "ch": 71569
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Fred Sanders",
+        "nm": 761553,
+        "roles": [
+          {
+            "char": "Bruce Christianson"
+          }
+        ]
+      },
+      {
+        "name": "Bill Shick",
+        "nm": 793127,
+        "roles": [
+          {
+            "char": "Photographer"
+          }
+        ]
+      },
+      {
+        "name": "Ted Kairys",
+        "nm": 435114,
+        "roles": [
+          {
+            "char": "Bernie Pfarpfenbarger"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "The Lemo Tomato Juice Hour",
+    "tt": 763177,
+    "air_date": "1992-09-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Jack Dodson",
+        "nm": 230284,
+        "roles": [
+          {
+            "char": "Mr. Melon"
+          }
+        ]
+      },
+      {
+        "name": "Perrey Reeves",
+        "nm": 716275,
+        "roles": [
+          {
+            "char": "Perrette Davis"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Sid Conrad",
+        "nm": 175725,
+        "roles": [
+          {
+            "char": "Newspaper Man"
+          }
+        ]
+      },
+      {
+        "name": "Lela Ivey",
+        "nm": 412388,
+        "roles": [
+          {
+            "char": "Miss Wescott"
+          }
+        ]
+      },
+      {
+        "name": "Richard Portnow",
+        "nm": 692466,
+        "roles": [
+          {
+            "char": "Actor"
+          },
+          {
+            "char": "Announcer"
+          }
+        ]
+      },
+      {
+        "name": "Wayne Tippit",
+        "nm": 864133,
+        "roles": [
+          {
+            "char": "Walter Lemo"
+          }
+        ]
+      },
+      {
+        "name": "Terry Wills",
+        "nm": 932717,
+        "roles": [
+          {
+            "char": "Producer"
+          }
+        ]
+      },
+      {
+        "name": "Tom Simmons",
+        "nm": 799919,
+        "roles": [
+          {
+            "char": "Homeless Worker"
+          }
+        ]
+      },
+      {
+        "name": "Todd Merrill",
+        "nm": 581336,
+        "roles": [
+          {
+            "char": "Aaron"
+          }
+        ]
+      },
+      {
+        "name": "David Rose",
+        "nm": 741329,
+        "roles": [
+          {
+            "char": "Richard"
+          }
+        ]
+      },
+      {
+        "name": "Peter Trencher",
+        "nm": 872063,
+        "roles": [
+          {
+            "char": "Jim",
+            "ch": 146718
+          }
+        ]
+      },
+      {
+        "name": "Susan Edwards",
+        "nm": 250386,
+        "roles": [
+          {
+            "char": "Actress"
+          }
+        ]
+      },
+      {
+        "name": "Larry Coven",
+        "nm": 184414,
+        "roles": [
+          {
+            "char": "Co-Worker"
+          }
+        ]
+      },
+      {
+        "name": "Lew Sleeman",
+        "nm": 684966,
+        "roles": [
+          {
+            "char": "Engineer",
+            "as Lewis Alfred Pipes": true
+          }
+        ]
+      },
+      {
+        "name": "Ryan McWhorter",
+        "nm": 574778,
+        "roles": [
+          {
+            "char": "Boy"
+          }
+        ]
+      },
+      {
+        "name": "Bonnie Snyder",
+        "nm": 811415,
+        "roles": [
+          {
+            "char": "First Customer"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Kenworthy",
+        "nm": 448950,
+        "roles": [
+          {
+            "char": "Second Customer"
+          }
+        ]
+      },
+      {
+        "name": "Martin Tucker",
+        "nm": 875936,
+        "roles": [
+          {
+            "char": "Third Customer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Can't Say No",
+    "tt": 603789,
+    "air_date": "1992-10-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      },
+      {
+        "name": "Judy Jean Berns",
+        "nm": 76957,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Randall Bosley",
+        "nm": 98011,
+        "roles": [
+          {
+            "char": "Factory Worker"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Bulot",
+        "nm": 120239,
+        "roles": [
+          {
+            "char": "Sales Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Jack Dodson",
+        "nm": 230284,
+        "roles": [
+          {
+            "char": "Mr. Melon"
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Coach Zelnick",
+            "ch": 71569
+          }
+        ]
+      },
+      {
+        "name": "Randy Harrington",
+        "nm": 364344,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Ken Herman",
+        "nm": 1177083,
+        "roles": [
+          {
+            "char": "Co-worker"
+          }
+        ]
+      },
+      {
+        "name": "Howard Honig",
+        "nm": 393310,
+        "roles": [
+          {
+            "char": "Manager"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Mabray",
+        "nm": 531107,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Stack Pierce",
+        "nm": 682474,
+        "roles": [
+          {
+            "char": "Club Owner"
+          }
+        ]
+      },
+      {
+        "name": "Perrey Reeves",
+        "nm": 716275,
+        "roles": [
+          {
+            "char": "Perrette Davis"
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Short",
+        "nm": 795114,
+        "roles": [
+          {
+            "char": "Miss Watkins"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Appleknocker to Wed Tomatohawker",
+    "tt": 603784,
+    "air_date": "1992-10-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Sterling Macer Jr.",
+        "nm": 532160,
+        "roles": [
+          {
+            "char": "Cpl. Robert Davis"
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Perrey Reeves",
+        "nm": 716275,
+        "roles": [
+          {
+            "char": "Perrette Davis"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Bill Applebaum",
+        "nm": 32326,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ron Pearson",
+        "nm": 669374,
+        "roles": [
+          {
+            "char": "Jerry"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Terry",
+        "nm": 856016,
+        "roles": [
+          {
+            "char": "Father Dreher"
+          }
+        ]
+      },
+      {
+        "name": "John Lacy",
+        "nm": 480381,
+        "roles": [
+          {
+            "char": "Jim",
+            "ch": 146718
+          }
+        ]
+      },
+      {
+        "name": "Jay Roberts",
+        "nm": 730791,
+        "roles": [
+          {
+            "char": "Billy"
+          }
+        ]
+      },
+      {
+        "name": "John Wyler",
+        "nm": 943741,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lou Genevrino",
+        "nm": 312816,
+        "roles": [
+          {
+            "char": "Studio Announcer"
+          }
+        ]
+      },
+      {
+        "name": "Robert Barry",
+        "nm": 58139,
+        "roles": [
+          {
+            "char": "Supplier"
+          }
+        ]
+      },
+      {
+        "name": "Big Daddy Wayne",
+        "nm": 915518,
+        "roles": [
+          {
+            "char": "Customer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "A Nickel Plate Romance",
+    "tt": 603782,
+    "air_date": "1992-10-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Arthur Schillhab",
+            "ch": 69999
+          }
+        ]
+      },
+      {
+        "name": "William G. Schilling",
+        "nm": 771717,
+        "roles": [
+          {
+            "char": "Joe",
+            "ch": 92783
+          }
+        ]
+      },
+      {
+        "name": "Ron Pearson",
+        "nm": 669374,
+        "roles": [
+          {
+            "char": "Teammate"
+          }
+        ]
+      },
+      {
+        "name": "Elek Hartman",
+        "nm": 366945,
+        "roles": [
+          {
+            "char": "Conductor"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Butto",
+        "nm": 125403,
+        "roles": [
+          {
+            "char": "Fuller Brush Man"
+          }
+        ]
+      },
+      {
+        "name": "Mary Kircher",
+        "nm": 1269020,
+        "roles": [
+          {
+            "char": "Baseball Fan Groupie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "When the Stars Begin to Fall",
+    "tt": 603814,
+    "air_date": "1992-10-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Lela Ivey",
+        "nm": 412388,
+        "roles": [
+          {
+            "char": "Mrs. Wescott"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Al Pugliese",
+        "nm": 700094,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "John Mahon",
+        "nm": 537089,
+        "roles": [
+          {
+            "char": "Bus Driver"
+          }
+        ]
+      },
+      {
+        "name": "Steve Carlisle",
+        "nm": 137652,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ernie Vincent",
+        "nm": 898630,
+        "roles": [
+          {
+            "char": "Manager"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      },
+      {
+        "name": "Ryal Haakenson",
+        "nm": 3422607,
+        "roles": [
+          {
+            "char": "Train Passenger"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "The Traveling Lemo All-Stars",
+    "tt": 603812,
+    "air_date": "1992-11-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Arthur Schillab",
+            "ch": 69999
+          }
+        ]
+      },
+      {
+        "name": "Lela Ivey",
+        "nm": 412388,
+        "roles": [
+          {
+            "char": "Miss Wescott"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Jack Dodson",
+        "nm": 230284,
+        "roles": [
+          {
+            "char": "Mr. Melon"
+          }
+        ]
+      },
+      {
+        "name": "Tim Hutchinson",
+        "nm": 404408,
+        "roles": [
+          {
+            "char": "Porter #1"
+          }
+        ]
+      },
+      {
+        "name": "René Le Vant",
+        "nm": 494660,
+        "roles": [
+          {
+            "char": "Porter #2"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Leigh Warren",
+        "nm": 912875,
+        "roles": [
+          {
+            "char": "First Candidate"
+          }
+        ]
+      },
+      {
+        "name": "Jody Lee Olhava",
+        "nm": 1086239,
+        "roles": [
+          {
+            "char": "Second Candidate"
+          }
+        ]
+      },
+      {
+        "name": "Mil Nicholson",
+        "nm": 629891,
+        "roles": [
+          {
+            "char": "Third Candidate"
+          }
+        ]
+      },
+      {
+        "name": "Charles Hutchins",
+        "nm": 404260,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "First Comes Love, Then Comes Marriage",
+    "tt": 603790,
+    "air_date": "1992-12-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Arthur Schillhab",
+            "ch": 69999
+          }
+        ]
+      },
+      {
+        "name": "Jack Dodson",
+        "nm": 230284,
+        "roles": [
+          {
+            "char": "Mr. Melon"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Terry",
+        "nm": 856016,
+        "roles": [
+          {
+            "char": "Father Dreher"
+          }
+        ]
+      },
+      {
+        "name": "Biff Yeager",
+        "nm": 947010,
+        "roles": [
+          {
+            "char": "Buyer"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Nisbet",
+        "nm": 632604,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Ward C. Boland",
+        "nm": 92697,
+        "roles": [
+          {
+            "char": "Ball Player #2"
+          }
+        ]
+      },
+      {
+        "name": "Tony Nittoli",
+        "nm": 633043,
+        "roles": [
+          {
+            "char": "Ball Player #3"
+          }
+        ]
+      },
+      {
+        "name": "Jim Hanks",
+        "nm": 360028,
+        "roles": [
+          {
+            "char": "Ball Player #4"
+          }
+        ]
+      },
+      {
+        "name": "John Lacy",
+        "nm": 480381,
+        "roles": [
+          {
+            "char": "Jim",
+            "ch": 146718
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Life Is Short",
+    "tt": 603794,
+    "air_date": "1992-12-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Noah Keen",
+        "nm": 444607,
+        "roles": [
+          {
+            "char": "Dr. McGee"
+          }
+        ]
+      },
+      {
+        "name": "John Wesley",
+        "nm": 921746,
+        "roles": [
+          {
+            "char": "Johnny"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Joseph G. Medalis",
+        "nm": 575393,
+        "roles": [
+          {
+            "char": "Dr. McGee"
+          }
+        ]
+      },
+      {
+        "name": "John Petlock",
+        "nm": 677717,
+        "roles": [
+          {
+            "char": "Mr. Cooke"
+          }
+        ]
+      },
+      {
+        "name": "Laurel Adams",
+        "nm": 11136,
+        "roles": [
+          {
+            "char": "Lisa Levier"
+          }
+        ]
+      },
+      {
+        "name": "Oceana Marr",
+        "nm": 550016,
+        "roles": [
+          {
+            "char": "Nun"
+          }
+        ]
+      },
+      {
+        "name": "Joy Claussen",
+        "nm": 165363,
+        "roles": [
+          {
+            "char": "Mrs. Hilbrich"
+          }
+        ]
+      },
+      {
+        "name": "Grant Owens",
+        "nm": 654372,
+        "roles": [
+          {
+            "char": "Mr. Hilbrich"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Signed, Crazy in Love",
+    "tt": 603802,
+    "air_date": "1993-03-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Short",
+        "nm": 795114,
+        "roles": [
+          {
+            "char": "Miss Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Michael Dempsey",
+        "nm": 218749,
+        "roles": [
+          {
+            "char": "Installer"
+          }
+        ]
+      },
+      {
+        "name": "Joe Ochman",
+        "nm": 643703,
+        "roles": [
+          {
+            "char": "George"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Crear",
+        "nm": 187140,
+        "roles": [
+          {
+            "char": "Cabbie",
+            "as Johnnie Crear": true
+          }
+        ]
+      },
+      {
+        "name": "Jon Huffman",
+        "nm": 400277,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Susan Brecht",
+        "nm": 106526,
+        "roles": [
+          {
+            "char": "First Customer"
+          }
+        ]
+      },
+      {
+        "name": "Noreen Reardon",
+        "nm": 714133,
+        "roles": [
+          {
+            "char": "Second Customer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "On the Rebound",
+    "tt": 603799,
+    "air_date": "1993-03-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Arthur Schillhab",
+            "ch": 69999
+          }
+        ]
+      },
+      {
+        "name": "Lela Ivey",
+        "nm": 412388,
+        "roles": [
+          {
+            "char": "Miss Wescott"
+          }
+        ]
+      },
+      {
+        "name": "Jack Dodson",
+        "nm": 230284,
+        "roles": [
+          {
+            "char": "Mr. Melon"
+          }
+        ]
+      },
+      {
+        "name": "Paul Du Pratt",
+        "nm": 238942,
+        "roles": [
+          {
+            "char": "Soda Jerk",
+            "ch": 112249
+          }
+        ]
+      },
+      {
+        "name": "Kelly McMahan",
+        "nm": 572977,
+        "roles": [
+          {
+            "char": "Audience Member"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "The Lacemakers",
+    "tt": 603811,
+    "air_date": "1993-04-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Noah Keen",
+        "nm": 444607,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Lilyan Chauvin",
+        "nm": 154412,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lew Horn",
+        "nm": 394875,
+        "roles": [
+          {
+            "char": "Pharmacist"
+          }
+        ]
+      },
+      {
+        "name": "Lelia Goldoni",
+        "nm": 325959,
+        "roles": [
+          {
+            "char": "Older Woman"
+          }
+        ]
+      },
+      {
+        "name": "Vera Lockwood",
+        "nm": 517011,
+        "roles": [
+          {
+            "char": "Violinist"
+          }
+        ]
+      },
+      {
+        "name": "Erik Holland",
+        "nm": 390683,
+        "roles": [
+          {
+            "char": "Nazi Officer"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Faraldo",
+        "nm": 267066,
+        "roles": [
+          {
+            "char": "Kapo"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Belcher",
+        "nm": 6970,
+        "roles": [
+          {
+            "char": "Customer #2"
+          }
+        ]
+      },
+      {
+        "name": "Bebe Drake",
+        "nm": 236858,
+        "roles": [
+          {
+            "char": "Customer #1",
+            "as Bebe Drake Massey": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Kerman",
+        "nm": 449402,
+        "roles": [
+          {
+            "char": "Darryl"
+          }
+        ]
+      },
+      {
+        "name": "Randy Harrington",
+        "nm": 364344,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Katharine Roche'-Sudar",
+        "nm": 3244893,
+        "roles": [
+          {
+            "char": "Emma Sloan"
+          }
+        ]
+      },
+      {
+        "name": "Lara Roche'-Sudar",
+        "nm": 3242609,
+        "roles": [
+          {
+            "char": "Emma Sloan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "Like Being There When You're Not",
+    "tt": 603795,
+    "air_date": "1993-03-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Arthur Schillhab",
+            "ch": 69999
+          }
+        ]
+      },
+      {
+        "name": "William G. Schilling",
+        "nm": 771717,
+        "roles": [
+          {
+            "char": "Joe",
+            "ch": 92783
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Lela Ivey",
+        "nm": 412388,
+        "roles": [
+          {
+            "char": "Miss Wescott"
+          }
+        ]
+      },
+      {
+        "name": "Chris Weatherhead",
+        "nm": 915743,
+        "roles": [
+          {
+            "char": "Victoria Bridges"
+          }
+        ]
+      },
+      {
+        "name": "John Milford",
+        "nm": 587333,
+        "roles": [
+          {
+            "char": "Jim Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Joseph G. Medalis",
+        "nm": 575393,
+        "roles": [
+          {
+            "char": "Bar Owner"
+          }
+        ]
+      },
+      {
+        "name": "Jack Dodson",
+        "nm": 230284,
+        "roles": [
+          {
+            "char": "Mr. Melon"
+          }
+        ]
+      },
+      {
+        "name": "Vinny Argiro",
+        "nm": 34509,
+        "roles": [
+          {
+            "char": "Nadolski"
+          }
+        ]
+      },
+      {
+        "name": "Keith Mills",
+        "nm": 590075,
+        "roles": [
+          {
+            "char": "Engineer"
+          }
+        ]
+      },
+      {
+        "name": "Ken Kerman",
+        "nm": 449402,
+        "roles": [
+          {
+            "char": "Dave"
+          }
+        ]
+      },
+      {
+        "name": "Randy Harrington",
+        "nm": 364344,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Charles Fick",
+        "nm": 275676,
+        "roles": [
+          {
+            "char": "Coach"
+          }
+        ]
+      },
+      {
+        "name": "Howard S. Miller",
+        "nm": 588484,
+        "roles": [
+          {
+            "char": "First Italian Chef"
+          }
+        ]
+      },
+      {
+        "name": "Sav Farrow",
+        "nm": 268529,
+        "roles": [
+          {
+            "char": "Second Italian Chef"
+          }
+        ]
+      },
+      {
+        "name": "Jared Seide",
+        "nm": 782341,
+        "roles": [
+          {
+            "char": "Third Italian Chef"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "Who, What, Where, When, Why, and How",
+    "tt": 603815,
+    "air_date": "1993-03-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "William G. Schilling",
+        "nm": 771717,
+        "roles": [
+          {
+            "char": "Barzizza"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Kelly Jean Peters",
+        "nm": 676541,
+        "roles": [
+          {
+            "char": "Clara Nadolski"
+          }
+        ]
+      },
+      {
+        "name": "Jane A. Johnston",
+        "nm": 426675,
+        "roles": [
+          {
+            "char": "Jeweler"
+          }
+        ]
+      },
+      {
+        "name": "Sam Behrens",
+        "nm": 67079,
+        "roles": [
+          {
+            "char": "Phil Havel",
+            "ch": 65359
+          }
+        ]
+      },
+      {
+        "name": "Jack Knight",
+        "nm": 460936,
+        "roles": [
+          {
+            "char": "Nadolski"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Hauck",
+        "nm": 369184,
+        "roles": [
+          {
+            "char": "Chulack"
+          }
+        ]
+      },
+      {
+        "name": "Gary Bolen",
+        "nm": 92866,
+        "roles": [
+          {
+            "char": "Ackerman"
+          }
+        ]
+      },
+      {
+        "name": "George Nejame",
+        "nm": 624917,
+        "roles": [
+          {
+            "char": "Jerry"
+          }
+        ]
+      },
+      {
+        "name": "Richmond Harrison",
+        "nm": 365841,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E15",
+    "title": "Garfield Slept Here",
+    "tt": 815402,
+    "air_date": "1993-03-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Larry Cedar",
+        "nm": 147738,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Jean Peters",
+        "nm": 676541,
+        "roles": [
+          {
+            "char": "Clara Nadolski"
+          }
+        ]
+      },
+      {
+        "name": "Sam Behrens",
+        "nm": 67079,
+        "roles": [
+          {
+            "char": "Phil Havel",
+            "ch": 65359
+          }
+        ]
+      },
+      {
+        "name": "Jack Knight",
+        "nm": 460936,
+        "roles": [
+          {
+            "char": "Nadolski"
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Short",
+        "nm": 795114,
+        "roles": [
+          {
+            "char": "Miss Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Dave Adams",
+        "nm": 10878,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Charles Fowlkes",
+        "nm": 288844,
+        "roles": [
+          {
+            "char": "Royal"
+          }
+        ]
+      },
+      {
+        "name": "Richmond Harrison",
+        "nm": 365841,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Lee Kelly",
+        "nm": 446329,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E16",
+    "title": "By Word or Act",
+    "tt": 603788,
+    "air_date": "1993-04-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Rutherford",
+        "nm": 5393,
+        "roles": [
+          {
+            "char": "Judy Owen"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Phillip R. Allen",
+        "nm": 20912,
+        "roles": [
+          {
+            "char": "Smith"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "John Furlong",
+        "nm": 298952,
+        "roles": [
+          {
+            "char": "Union Official",
+            "ch": 172511
+          }
+        ]
+      },
+      {
+        "name": "Sam Behrens",
+        "nm": 67079,
+        "roles": [
+          {
+            "char": "Phil"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Terry",
+        "nm": 856016,
+        "roles": [
+          {
+            "char": "Farther Dreher"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Lovett",
+        "nm": 522681,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kevin Scott Allen",
+        "nm": 20730,
+        "roles": [
+          {
+            "char": "Ed",
+            "ch": 146719
+          }
+        ]
+      },
+      {
+        "name": "Ken Kerman",
+        "nm": 449402,
+        "roles": [
+          {
+            "char": "Bill"
+          }
+        ]
+      },
+      {
+        "name": "Randy Harrington",
+        "nm": 364344,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Charles Fowlkes",
+        "nm": 288844,
+        "roles": [
+          {
+            "char": "Royal",
+            "as Charles B. Fowlkes": true
+          }
+        ]
+      },
+      {
+        "name": "Lori Harmon",
+        "nm": 425670,
+        "roles": [
+          {
+            "char": "Sheila"
+          }
+        ]
+      },
+      {
+        "name": "Gary Hollis",
+        "nm": 391189,
+        "roles": [
+          {
+            "char": "Police officer"
+          }
+        ]
+      },
+      {
+        "name": "Stanley Kamel",
+        "nm": 436528,
+        "roles": [
+          {
+            "char": "Mr. Smith"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E17",
+    "title": "Shabbat Shalom",
+    "tt": 818154,
+    "air_date": "1993-04-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Arthur Schillhab",
+            "ch": 69999
+          }
+        ]
+      },
+      {
+        "name": "John Wesley",
+        "nm": 921746,
+        "roles": [
+          {
+            "char": "Johnny"
+          }
+        ]
+      },
+      {
+        "name": "John DiSanti",
+        "nm": 228277,
+        "roles": [
+          {
+            "char": "Sam Schenkkan",
+            "ch": 187165
+          }
+        ]
+      },
+      {
+        "name": "Montrose Hagins",
+        "nm": 353705,
+        "roles": [
+          {
+            "char": "Grandmother Davis"
+          }
+        ]
+      },
+      {
+        "name": "Al Pugliese",
+        "nm": 700094,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "Will MacMillan",
+        "nm": 534032,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Pat Crawford Brown",
+        "nm": 114390,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Carole Androsky",
+        "nm": 29100,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rod Britt",
+        "nm": 110072,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nick Toth",
+        "nm": 869354,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ken Kerman",
+        "nm": 449402,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sam Kuglen",
+        "nm": 474000,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E18",
+    "title": "All Good Things",
+    "tt": 818375,
+    "air_date": "1993-04-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kyle Chandler",
+        "nm": 151419,
+        "roles": [
+          {
+            "char": "Jeff Metcalf",
+            "ch": 65358
+          }
+        ]
+      },
+      {
+        "name": "Sammi Davis",
+        "nm": 205423,
+        "roles": [
+          {
+            "char": "Caroline Hailey",
+            "as Sammi Davis-Voss": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Jenkins",
+        "nm": 420898,
+        "roles": [
+          {
+            "char": "Mike Sloan, Sr.",
+            "ch": 139872
+          }
+        ]
+      },
+      {
+        "name": "Mimi Kennedy",
+        "nm": 448252,
+        "roles": [
+          {
+            "char": "Ruth Sloan",
+            "ch": 302736
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Ginger Szabo",
+            "ch": 138360
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Sgt. Charlie Hailey",
+            "ch": 92779
+          }
+        ]
+      },
+      {
+        "name": "Wendy Phillips",
+        "nm": 680881,
+        "roles": [
+          {
+            "char": "Anne Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Giuliana Santini",
+        "nm": 763728,
+        "roles": [
+          {
+            "char": "Gina Sloan"
+          }
+        ]
+      },
+      {
+        "name": "John Slattery",
+        "nm": 805476,
+        "roles": [
+          {
+            "char": "Al Kahn",
+            "ch": 69997
+          }
+        ]
+      },
+      {
+        "name": "Jessica Steen",
+        "nm": 824763,
+        "roles": [
+          {
+            "char": "Linda Metcalf",
+            "ch": 292175
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Abe Davis"
+          }
+        ]
+      },
+      {
+        "name": "Hattie Winston",
+        "nm": 935589,
+        "roles": [
+          {
+            "char": "Gloria Davis"
+          }
+        ]
+      },
+      {
+        "name": "Brian McNamara",
+        "nm": 573658,
+        "roles": [
+          {
+            "char": "Arthur Schillhab",
+            "ch": 69999
+          }
+        ]
+      },
+      {
+        "name": "Lela Ivey",
+        "nm": 412388,
+        "roles": [
+          {
+            "char": "Miss Wescott"
+          }
+        ]
+      },
+      {
+        "name": "Mark Hutter",
+        "nm": 404579,
+        "roles": [
+          {
+            "char": "Donald Sadler"
+          }
+        ]
+      },
+      {
+        "name": "Wil Shriner",
+        "nm": 795407,
+        "roles": [
+          {
+            "char": "Announcer"
+          }
+        ]
+      },
+      {
+        "name": "Joseph G. Medalis",
+        "nm": 575393,
+        "roles": [
+          {
+            "char": "Owner"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Johnson",
+        "nm": 424523,
+        "roles": [
+          {
+            "char": "Jeb Pulliam"
+          }
+        ]
+      },
+      {
+        "name": "Raymond Singer",
+        "nm": 802027,
+        "roles": [
+          {
+            "char": "Rabbi Bernard"
+          }
+        ]
+      },
+      {
+        "name": "S. Marc Jordan",
+        "nm": 430172,
+        "roles": [
+          {
+            "char": "Rabbi Martin"
+          }
+        ]
+      },
+      {
+        "name": "Jack Dodson",
+        "nm": 230284,
+        "roles": [
+          {
+            "char": "Mr. Melon"
+          }
+        ]
+      },
+      {
+        "name": "James Gammon",
+        "nm": 304000,
+        "roles": [
+          {
+            "char": "Coach Zelnick",
+            "ch": 71569
+          }
+        ]
+      },
+      {
+        "name": "Sam Behrens",
+        "nm": 67079,
+        "roles": [
+          {
+            "char": "Phli Havel",
+            "ch": 65359
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Terry",
+        "nm": 856016,
+        "roles": [
+          {
+            "char": "Father Dreher"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Zale",
+        "nm": 952402,
+        "roles": [
+          {
+            "char": "Rabbi Lefkowitz"
+          }
+        ]
+      },
+      {
+        "name": "Michael Leopard",
+        "nm": 503138,
+        "roles": [
+          {
+            "char": "Regular"
+          }
+        ]
+      },
+      {
+        "name": "Brent Corman",
+        "nm": 180012,
+        "roles": [
+          {
+            "char": "First boy"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Roth",
+        "nm": 2309524,
+        "roles": [
+          {
+            "char": "Second boy"
+          }
+        ]
+      }
+    ]
+  }
+]

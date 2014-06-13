@@ -1,0 +1,884 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 1987359,
+    "air_date": "1993-12-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Colin Friels",
+        "nm": 295506,
+        "roles": [
+          {
+            "char": "Sly",
+            "ch": 387647
+          }
+        ]
+      },
+      {
+        "name": "Ben Elton",
+        "nm": 255780,
+        "roles": [
+          {
+            "char": "CD",
+            "ch": 389793
+          }
+        ]
+      },
+      {
+        "name": "Derrick O'Connor",
+        "nm": 640299,
+        "roles": [
+          {
+            "char": "Zimmerman",
+            "ch": 183844
+          }
+        ]
+      },
+      {
+        "name": "Jacqueline McKenzie",
+        "nm": 571537,
+        "roles": [
+          {
+            "char": "Rachel"
+          }
+        ]
+      },
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Chrissie"
+          }
+        ]
+      },
+      {
+        "name": "Bill Wallis",
+        "nm": 909245,
+        "roles": [
+          {
+            "char": "Walter"
+          }
+        ]
+      },
+      {
+        "name": "Fiona Press",
+        "nm": 696216,
+        "roles": [
+          {
+            "char": "Karen"
+          }
+        ]
+      },
+      {
+        "name": "Bill Hunter",
+        "nm": 402730,
+        "roles": [
+          {
+            "char": "Ocker Tyron",
+            "ch": 387646
+          }
+        ]
+      },
+      {
+        "name": "Colette Mann",
+        "nm": 542692,
+        "roles": [
+          {
+            "char": "Dixie"
+          }
+        ]
+      },
+      {
+        "name": "Gwen Plumb",
+        "nm": 687574,
+        "roles": [
+          {
+            "char": "Mrs. Tyron"
+          }
+        ]
+      },
+      {
+        "name": "John Neville",
+        "nm": 627453,
+        "roles": [
+          {
+            "char": "De Quincy",
+            "ch": 387645
+          }
+        ]
+      },
+      {
+        "name": "Bruce Alexander",
+        "nm": 2463641,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Todd Worden",
+        "nm": 941407,
+        "roles": [
+          {
+            "char": "L.A. Driver"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Venables",
+        "nm": 892876,
+        "roles": [
+          {
+            "char": "Slampacker",
+            "ch": 389792
+          }
+        ]
+      },
+      {
+        "name": "John Alansu",
+        "nm": 15989,
+        "roles": [
+          {
+            "char": "Nagasyu"
+          }
+        ]
+      },
+      {
+        "name": "Fred Steele",
+        "nm": 824542,
+        "roles": [
+          {
+            "char": "Maitre d'"
+          }
+        ]
+      },
+      {
+        "name": "John Clarke",
+        "nm": 164819,
+        "roles": [
+          {
+            "char": "Magistrate"
+          }
+        ]
+      },
+      {
+        "name": "Anne Scott-Pendlebury",
+        "nm": 779957,
+        "roles": [
+          {
+            "char": "Sly's Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Papademetriou",
+        "nm": 660164,
+        "roles": [
+          {
+            "char": "Aristos Tyron",
+            "ch": 387644
+          }
+        ]
+      },
+      {
+        "name": "Gus Mercurio",
+        "nm": 580517,
+        "roles": [
+          {
+            "char": "Larry",
+            "ch": 387643
+          }
+        ]
+      },
+      {
+        "name": "Peter Hardy",
+        "nm": 362728,
+        "roles": [
+          {
+            "char": "Lifesaver"
+          }
+        ]
+      },
+      {
+        "name": "Colwyn Roberts",
+        "nm": 730958,
+        "roles": [
+          {
+            "char": "Warden"
+          }
+        ]
+      },
+      {
+        "name": "David Argue",
+        "nm": 34541,
+        "roles": [
+          {
+            "char": "Gordon Gordon"
+          }
+        ]
+      },
+      {
+        "name": "Paul Chubb",
+        "nm": 160945,
+        "roles": [
+          {
+            "char": "Mayor"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Henry",
+        "nm": 377731,
+        "roles": [
+          {
+            "char": "Mrs. Culboon"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Lewis",
+        "nm": 507617,
+        "roles": [
+          {
+            "char": "Person"
+          }
+        ]
+      },
+      {
+        "name": "Leigh Russell",
+        "nm": 751285,
+        "roles": [
+          {
+            "char": "Cafe Poseur"
+          }
+        ]
+      },
+      {
+        "name": "Karen Davitt",
+        "nm": 205775,
+        "roles": [
+          {
+            "char": "Girl in Cafe"
+          }
+        ]
+      },
+      {
+        "name": "Louise Watson",
+        "nm": 914777,
+        "roles": [
+          {
+            "char": "Girl in Cafe"
+          }
+        ]
+      },
+      {
+        "name": "Anna Gare",
+        "nm": 307172,
+        "roles": [
+          {
+            "char": "Girl in Cafe"
+          }
+        ]
+      },
+      {
+        "name": "Randall Berger",
+        "nm": 74327,
+        "roles": [
+          {
+            "char": "Milton",
+            "ch": 387641
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 1987360,
+    "air_date": "1993-12-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Colin Friels",
+        "nm": 295506,
+        "roles": [
+          {
+            "char": "Sly",
+            "ch": 387647
+          }
+        ]
+      },
+      {
+        "name": "Ben Elton",
+        "nm": 255780,
+        "roles": [
+          {
+            "char": "CD",
+            "ch": 389793
+          }
+        ]
+      },
+      {
+        "name": "Derrick O'Connor",
+        "nm": 640299,
+        "roles": [
+          {
+            "char": "Zimmerman",
+            "ch": 183844
+          }
+        ]
+      },
+      {
+        "name": "Jacqueline McKenzie",
+        "nm": 571537,
+        "roles": [
+          {
+            "char": "Rachel"
+          }
+        ]
+      },
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Chrissie"
+          }
+        ]
+      },
+      {
+        "name": "Bill Wallis",
+        "nm": 909245,
+        "roles": [
+          {
+            "char": "Walter"
+          }
+        ]
+      },
+      {
+        "name": "Fiona Press",
+        "nm": 696216,
+        "roles": [
+          {
+            "char": "Karen"
+          }
+        ]
+      },
+      {
+        "name": "Bill Hunter",
+        "nm": 402730,
+        "roles": [
+          {
+            "char": "Ocker Tyron",
+            "ch": 387646
+          }
+        ]
+      },
+      {
+        "name": "Colette Mann",
+        "nm": 542692,
+        "roles": [
+          {
+            "char": "Dixie"
+          }
+        ]
+      },
+      {
+        "name": "Gwen Plumb",
+        "nm": 687574,
+        "roles": [
+          {
+            "char": "Mrs. Tyron"
+          }
+        ]
+      },
+      {
+        "name": "John Neville",
+        "nm": 627453,
+        "roles": [
+          {
+            "char": "De Quincy",
+            "ch": 387645
+          }
+        ]
+      },
+      {
+        "name": "Reg Evans",
+        "nm": 263149,
+        "roles": [
+          {
+            "char": "Marina Keeper"
+          }
+        ]
+      },
+      {
+        "name": "Dorothy Slayney",
+        "nm": 4585242,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Venables",
+        "nm": 892876,
+        "roles": [
+          {
+            "char": "Slampacker",
+            "ch": 389792
+          }
+        ]
+      },
+      {
+        "name": "Joe Dolce",
+        "nm": 230890,
+        "roles": [
+          {
+            "char": "New York Cop"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Shaw",
+        "nm": 4585533,
+        "roles": [
+          {
+            "char": "Jacquie"
+          }
+        ]
+      },
+      {
+        "name": "Anna Field",
+        "nm": 3615170,
+        "roles": [
+          {
+            "char": "New York Journalist"
+          }
+        ]
+      },
+      {
+        "name": "Gus Mercurio",
+        "nm": 580517,
+        "roles": [
+          {
+            "char": "Larry",
+            "ch": 387643
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Bock",
+        "nm": 90638,
+        "roles": [
+          {
+            "char": "Sasha"
+          }
+        ]
+      },
+      {
+        "name": "Randall Berger",
+        "nm": 74327,
+        "roles": [
+          {
+            "char": "Milton",
+            "ch": 387641
+          }
+        ]
+      },
+      {
+        "name": "Dennis Schultz",
+        "nm": 776231,
+        "roles": [
+          {
+            "char": "Muskey"
+          }
+        ]
+      },
+      {
+        "name": "Brian Davidson",
+        "nm": 4585549,
+        "roles": [
+          {
+            "char": "Toole"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Papademetriou",
+        "nm": 660164,
+        "roles": [
+          {
+            "char": "Aristos Tyron",
+            "ch": 387644
+          }
+        ]
+      },
+      {
+        "name": "Eileen Colocott",
+        "nm": 172945,
+        "roles": [
+          {
+            "char": "Lady at Airport"
+          }
+        ]
+      },
+      {
+        "name": "Marshall Napier",
+        "nm": 621031,
+        "roles": [
+          {
+            "char": "Private Detective",
+            "ch": 387642
+          }
+        ]
+      },
+      {
+        "name": "Don Bridges",
+        "nm": 108725,
+        "roles": [
+          {
+            "char": "Fight Referee"
+          }
+        ]
+      },
+      {
+        "name": "Big Hal Sutherland",
+        "nm": 4585638,
+        "roles": [
+          {
+            "char": "Truckie"
+          }
+        ]
+      },
+      {
+        "name": "Sally Anne Upton",
+        "nm": 881527,
+        "roles": [
+          {
+            "char": "Barmaid"
+          }
+        ]
+      },
+      {
+        "name": "Paul Chubb",
+        "nm": 160945,
+        "roles": [
+          {
+            "char": "Mayor"
+          }
+        ]
+      },
+      {
+        "name": "David Ashton",
+        "nm": 2283835,
+        "roles": [
+          {
+            "char": "Man on plane"
+          }
+        ]
+      },
+      {
+        "name": "John Bishop",
+        "nm": 84093,
+        "roles": [
+          {
+            "char": "Foreman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Episode #1.3",
+    "tt": 1987361,
+    "air_date": "1993-12-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Colin Friels",
+        "nm": 295506,
+        "roles": [
+          {
+            "char": "Sly Morgan"
+          }
+        ]
+      },
+      {
+        "name": "Ben Elton",
+        "nm": 255780,
+        "roles": [
+          {
+            "char": "CD",
+            "ch": 389793
+          }
+        ]
+      },
+      {
+        "name": "Derrick O'Connor",
+        "nm": 640299,
+        "roles": [
+          {
+            "char": "Zimmerman",
+            "ch": 183844
+          }
+        ]
+      },
+      {
+        "name": "Jacqueline McKenzie",
+        "nm": 571537,
+        "roles": [
+          {
+            "char": "Rachel"
+          }
+        ]
+      },
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Chrissie"
+          }
+        ]
+      },
+      {
+        "name": "Bill Wallis",
+        "nm": 909245,
+        "roles": [
+          {
+            "char": "Walter"
+          }
+        ]
+      },
+      {
+        "name": "Fiona Press",
+        "nm": 696216,
+        "roles": [
+          {
+            "char": "Karen"
+          }
+        ]
+      },
+      {
+        "name": "Bill Hunter",
+        "nm": 402730,
+        "roles": [
+          {
+            "char": "Ocker Tyron",
+            "ch": 387646
+          }
+        ]
+      },
+      {
+        "name": "Colette Mann",
+        "nm": 542692,
+        "roles": [
+          {
+            "char": "Dixie"
+          }
+        ]
+      },
+      {
+        "name": "Gwen Plumb",
+        "nm": 687574,
+        "roles": [
+          {
+            "char": "Mrs. Tyron"
+          }
+        ]
+      },
+      {
+        "name": "John Neville",
+        "nm": 627453,
+        "roles": [
+          {
+            "char": "De Quincy",
+            "ch": 387645
+          }
+        ]
+      },
+      {
+        "name": "Barbara Henry",
+        "nm": 377731,
+        "roles": [
+          {
+            "char": "Mrs. Culboon"
+          }
+        ]
+      },
+      {
+        "name": "James Hagan",
+        "nm": 1484901,
+        "roles": [
+          {
+            "char": "Du Pont"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Papademetriou",
+        "nm": 660164,
+        "roles": [
+          {
+            "char": "Aristos Tyron",
+            "ch": 387644
+          }
+        ]
+      },
+      {
+        "name": "John Bishop",
+        "nm": 84093,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Marshall Napier",
+        "nm": 621031,
+        "roles": [
+          {
+            "char": "Private Detective",
+            "ch": 387642
+          }
+        ]
+      },
+      {
+        "name": "Ed McShortall",
+        "nm": 574556,
+        "roles": [
+          {
+            "char": "Stark Guard",
+            "as Eddie McShortall": true
+          }
+        ]
+      },
+      {
+        "name": "Tom Coltraine",
+        "nm": 173324,
+        "roles": [
+          {
+            "char": "Stark Guard"
+          }
+        ]
+      },
+      {
+        "name": "George Novak",
+        "nm": 636844,
+        "roles": [
+          {
+            "char": "Stark Guard"
+          }
+        ]
+      },
+      {
+        "name": "George Vidalis",
+        "nm": 896432,
+        "roles": [
+          {
+            "char": "Stark Guard"
+          }
+        ]
+      },
+      {
+        "name": "Zev Eleftheriou",
+        "nm": 253209,
+        "roles": [
+          {
+            "char": "Stark Guard"
+          }
+        ]
+      },
+      {
+        "name": "John Alansu",
+        "nm": 15989,
+        "roles": [
+          {
+            "char": "Nagasyu"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Williams",
+        "nm": 931210,
+        "roles": [
+          {
+            "char": "TV Producer"
+          }
+        ]
+      },
+      {
+        "name": "Michael Veitch",
+        "nm": 892112,
+        "roles": [
+          {
+            "char": "TV Presenter"
+          }
+        ]
+      },
+      {
+        "name": "Alex del Porto",
+        "nm": 4585610,
+        "roles": [
+          {
+            "char": "De Quincys Aide"
+          }
+        ]
+      },
+      {
+        "name": "Helen Kent",
+        "nm": 3837004,
+        "roles": [
+          {
+            "char": "Suki"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Venables",
+        "nm": 892876,
+        "roles": [
+          {
+            "char": "Slampacker",
+            "ch": 389792
+          }
+        ]
+      },
+      {
+        "name": "George Whaley",
+        "nm": 923505,
+        "roles": [
+          {
+            "char": "Australian Politician"
+          }
+        ]
+      },
+      {
+        "name": "Michael Edward-Stevens",
+        "nm": 249768,
+        "roles": [
+          {
+            "char": "US Military Officer"
+          }
+        ]
+      },
+      {
+        "name": "George Mikell",
+        "nm": 586393,
+        "roles": [
+          {
+            "char": "Nato Military Officer"
+          }
+        ]
+      }
+    ]
+  }
+]

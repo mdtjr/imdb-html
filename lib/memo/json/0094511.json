@@ -1,0 +1,4982 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Killer",
+    "tt": 649400,
+    "air_date": "1988-10-23",
+    "description": "Jim Phelps decides to return to the agent business in order to find the person responsible for the murder of his friend and agent protégé Tom Copperfield. Putting together a whole new team of agents to help him achieve his objective, the trail leads to a hit man going by the name of Matthew Drake and a powerful underworld leader known only as \"Scorpio\".",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Matthew Drake"
+          }
+        ]
+      },
+      {
+        "name": "Reginald Gilliam",
+        "nm": 319119,
+        "roles": [
+          {
+            "char": "Fisherman, The",
+            "as Reg Gilliam": true
+          }
+        ]
+      },
+      {
+        "name": "Ted Hamilton",
+        "nm": 358186,
+        "roles": [
+          {
+            "char": "Alfred Chambers"
+          }
+        ]
+      },
+      {
+        "name": "Virginia Hey",
+        "nm": 382162,
+        "roles": [
+          {
+            "char": "Danielle"
+          }
+        ]
+      },
+      {
+        "name": "Steve Kuhn",
+        "nm": 452015,
+        "roles": [
+          {
+            "char": "Policeman, The"
+          }
+        ]
+      },
+      {
+        "name": "Vince Martin",
+        "nm": 553179,
+        "roles": [
+          {
+            "char": "Tom Copperfield"
+          }
+        ]
+      },
+      {
+        "name": "Patrick McCarville",
+        "nm": 565448,
+        "roles": [
+          {
+            "char": "Priest, The"
+          }
+        ]
+      },
+      {
+        "name": "William Riley",
+        "nm": 727197,
+        "roles": [
+          {
+            "char": "Doorman, The"
+          }
+        ]
+      },
+      {
+        "name": "Indra Jane Singh",
+        "nm": 2196240,
+        "roles": [
+          {
+            "char": "Young Girl"
+          }
+        ]
+      },
+      {
+        "name": "Paul Smith",
+        "nm": 809533,
+        "roles": [
+          {
+            "char": "Tim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The System",
+    "tt": 649407,
+    "air_date": "1988-10-30",
+    "description": "Jim Phelps and his team of agents get the mission to find the evidence and testimony necessary to put notorious crime ringleader Bob Connors, who have managed to escape justice for more than 10 years, in prison for good. The only person who knows enough about Connor's business dealings to provide this testimony is however a man who will never talk - Frank Marley. Apart from being Connors's close friend and protégé, Marley is according to reports secretly being groomed to take over Connor's business empire when he eventually retires. The team decide to move in on Marley in order to try to wreck his friendship with Connors, and thus loosen Marley's tongue.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Cadagan",
+        "nm": 1622592,
+        "roles": [
+          {
+            "char": "Cashier"
+          }
+        ]
+      },
+      {
+        "name": "Craig Cronin",
+        "nm": 188751,
+        "roles": [
+          {
+            "char": "Webber"
+          }
+        ]
+      },
+      {
+        "name": "Gus Mercurio",
+        "nm": 580517,
+        "roles": [
+          {
+            "char": "Bob Connors"
+          }
+        ]
+      },
+      {
+        "name": "Jaye Paul",
+        "nm": 1344124,
+        "roles": [
+          {
+            "char": "Carl"
+          }
+        ]
+      },
+      {
+        "name": "John F. Regan",
+        "nm": 716427,
+        "roles": [
+          {
+            "char": "Chuck"
+          }
+        ]
+      },
+      {
+        "name": "James Sloyan",
+        "nm": 806277,
+        "roles": [
+          {
+            "char": "Frank Marley"
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Traynor",
+        "nm": 871525,
+        "roles": [
+          {
+            "char": "Webber's Wife"
+          }
+        ]
+      },
+      {
+        "name": "Roger Ward",
+        "nm": 911818,
+        "roles": [
+          {
+            "char": "Wilson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Holograms",
+    "tt": 649383,
+    "air_date": "1988-11-06",
+    "description": "Jim Phelps and his team of agents get the mission to extradite Colonel Gregory Usher to the United States legal system. A self-declared president in his country recognised for their large production of processed cocaine, Colonel Usher has been sought after for some time, wanted for his extensive world-wide drug trafficking.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Gerard Kennedy",
+        "nm": 448047,
+        "roles": [
+          {
+            "char": "Colonel Gregory Usher",
+            "ch": 2331
+          }
+        ]
+      },
+      {
+        "name": "William Zappa",
+        "nm": 953265,
+        "roles": [
+          {
+            "char": "Duvall"
+          }
+        ]
+      },
+      {
+        "name": "Gavin Harrison",
+        "nm": 365596,
+        "roles": [
+          {
+            "char": "Kieron"
+          }
+        ]
+      },
+      {
+        "name": "Stanley Walsh",
+        "nm": 909862,
+        "roles": [
+          {
+            "char": "Busker"
+          }
+        ]
+      },
+      {
+        "name": "John Allen",
+        "nm": 20677,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Bryon Williams",
+        "nm": 930189,
+        "roles": [
+          {
+            "char": "U.S. Marshall"
+          }
+        ]
+      },
+      {
+        "name": "Simon Burvill-Holmes",
+        "nm": 123807,
+        "roles": [
+          {
+            "char": "Crewmember"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Condemned",
+    "tt": 649390,
+    "air_date": "1988-11-20",
+    "description": "Jim Phelps and his team of agents get the mission to free and clear the name of a retired American IMF-agent falsely imprisoned of murder in Istanbul. Now impending execution in Turkey, the former agent in question appears to have been set up by a crooked policeman named Captain Hamidou, who have built his whole career in the police force with corruption, murder and bribery. By making a quick arrest in this murder case, Hamidou earned himself a hefty promotion. An extra twist in the case turns out to be that the agent in need of rescue happens to be Jim's old colleague, and Grant's father, Barney Collier...",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Carew",
+        "nm": 1622598,
+        "roles": [
+          {
+            "char": "Police Officer"
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Cork",
+        "nm": 179901,
+        "roles": [
+          {
+            "char": "Sailboard Instructor"
+          }
+        ]
+      },
+      {
+        "name": "Steve Jacobs",
+        "nm": 414646,
+        "roles": [
+          {
+            "char": "Stanton",
+            "as Steven Jacobs": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Knapman",
+        "nm": 1567216,
+        "roles": [
+          {
+            "char": "Hangman"
+          }
+        ]
+      },
+      {
+        "name": "Anna Maria Monticelli",
+        "nm": 600027,
+        "roles": [
+          {
+            "char": "Lydia"
+          }
+        ]
+      },
+      {
+        "name": "Greg Morris",
+        "nm": 606569,
+        "roles": [
+          {
+            "char": "Barney Collier",
+            "ch": 2324
+          }
+        ]
+      },
+      {
+        "name": "Errol O'Neill",
+        "nm": 642155,
+        "roles": [
+          {
+            "char": "Sirlak"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Wright",
+        "nm": 942180,
+        "roles": [
+          {
+            "char": "Captain Hamidou"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "The Legacy",
+    "tt": 649401,
+    "air_date": "1988-11-27",
+    "description": "Before Hitler took his own life in 1945, he hid away a huge amount of pure gold, robbed from the churches and castles of Europe. Hitler saw the gold as a legacy to the next generation of Nazis, whom he hoped, with the aid of the gold, could accomplish in the future what he had failed to do. He entrusted only four of his closest officers with the secret of the whereabouts of the gold. Over the years, these officers passed on the secret to their sons, and they, in their turn, passed it on to theirs. More than 40 year after the war, the grandsons - four people who grew up on different continents and thus have never met - are ready to collect the gold and with it unleash a wave of terrorism with the ultimate goal to bring the Nazi movement back into power. Jim Phelps and his team of agents are however close behind the four grandsons, on a mission to make sure that the old dream of Hitler's will never come true.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shane Briant",
+        "nm": 108470,
+        "roles": [
+          {
+            "char": "Alfred Kubler"
+          }
+        ]
+      },
+      {
+        "name": "Arron Wayne Cull",
+        "nm": 3172,
+        "roles": [
+          {
+            "char": "Erich Wolfe",
+            "as Wayne Cull": true
+          }
+        ]
+      },
+      {
+        "name": "Raymond Duparc",
+        "nm": 243148,
+        "roles": [
+          {
+            "char": "Sommelier",
+            "as Ray Duparc": true
+          }
+        ]
+      },
+      {
+        "name": "Steven Grives",
+        "nm": 342708,
+        "roles": [
+          {
+            "char": "Maximillian Brucker"
+          }
+        ]
+      },
+      {
+        "name": "Adolf Hitler",
+        "nm": 386944,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Ivar Kants",
+        "nm": 437997,
+        "roles": [
+          {
+            "char": "Von Schau"
+          }
+        ]
+      },
+      {
+        "name": "Chuck McKinney",
+        "nm": 571860,
+        "roles": [
+          {
+            "char": "Attendant"
+          }
+        ]
+      },
+      {
+        "name": "Judson Scott",
+        "nm": 779401,
+        "roles": [
+          {
+            "char": "Ernst Graff"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "The Wall",
+    "tt": 649408,
+    "air_date": "1988-12-11",
+    "description": "Jim Phelps and his team of agents get the mission to destroy the black market operation of Doctor Gerstner, who, in 1980s divided Berlin, runs a secret service helping people in East Germany to escape to the western side in return for large amounts of money. The really devious part of his service, however, is that the people whom he agrees to help across never reaches the west, seeing as his business partner, German intelligence man Colonel Batz, always has soldiers ready and waiting to arrest the escapees on the other side. Over the years, Gerstner and Batz have made a hefty sum of money on their business, and moreover put hundreds of men, women and children in prison or to the soldier's guns. In order to increase the hostile atmosphere between East and West Germany, so that The Berlin Wall can stay up and their business further thrive, Gerstner and Batz have also recently expanded their operation into kidnapping. They hope that their abduction of Ilse Bruck, and the blackmailing of her father, a key West German trade negotiator, will impede any friendly talks between the East and West, and ultimately lead to The Berlin Wall remaining in its place for a long time yet to come.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Adam",
+        "nm": 1580858,
+        "roles": [
+          {
+            "char": "Mr. Bruck"
+          }
+        ]
+      },
+      {
+        "name": "Alan Cassell",
+        "nm": 144058,
+        "roles": [
+          {
+            "char": "Dr. Wolfgang Gerstner"
+          }
+        ]
+      },
+      {
+        "name": "Peter Curtin",
+        "nm": 193217,
+        "roles": [
+          {
+            "char": "Colonel Joseph Batz"
+          }
+        ]
+      },
+      {
+        "name": "Carstin Eisenschmidt",
+        "nm": 1567135,
+        "roles": [
+          {
+            "char": "TV Broadcaster"
+          }
+        ]
+      },
+      {
+        "name": "Melinda Fiddling",
+        "nm": 1567146,
+        "roles": [
+          {
+            "char": "Klein Daughter"
+          }
+        ]
+      },
+      {
+        "name": "Kerry Fountain",
+        "nm": 1622647,
+        "roles": [
+          {
+            "char": "Klein Mother"
+          }
+        ]
+      },
+      {
+        "name": "Bill French",
+        "nm": 294047,
+        "roles": [
+          {
+            "char": "Kirov"
+          }
+        ]
+      },
+      {
+        "name": "Anya Molina",
+        "nm": 596646,
+        "roles": [
+          {
+            "char": "Ilse Bruck"
+          }
+        ]
+      },
+      {
+        "name": "Richard Piper",
+        "nm": 684927,
+        "roles": [
+          {
+            "char": "First Guard"
+          }
+        ]
+      },
+      {
+        "name": "Peter Scheidel",
+        "nm": 1622775,
+        "roles": [
+          {
+            "char": "Klein Father"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Passport Officer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "The Cattle King",
+    "tt": 649389,
+    "air_date": "1988-12-18",
+    "description": "Jim Phelps and his team of agents get the mission to put Douglas Matthews - Australian cattle breeder, investor, and international arms dealer to terrorists - out of business. The IMF-team are however not alone in wanting to destroy Matthews. So are a group of Australian aborigines; infuriated by the fact that Matthews has killed their people and desecrated their lands in the process of his arms dealing.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "David Bradshaw",
+        "nm": 103479,
+        "roles": [
+          {
+            "char": "Douglas Matthews"
+          }
+        ]
+      },
+      {
+        "name": "Pat Galvin",
+        "nm": 1581143,
+        "roles": [
+          {
+            "char": "Carlton"
+          }
+        ]
+      },
+      {
+        "name": "Jane Gelhaar",
+        "nm": 5311778,
+        "roles": [
+          {
+            "char": "Tour Guide"
+          }
+        ]
+      },
+      {
+        "name": "Maurice Hughes",
+        "nm": 400797,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Warren Owens",
+        "nm": 654481,
+        "roles": [
+          {
+            "char": "Mulwarra"
+          }
+        ]
+      },
+      {
+        "name": "Sal Sharah",
+        "nm": 788699,
+        "roles": [
+          {
+            "char": "Terrorist"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "The Pawn",
+    "tt": 649403,
+    "air_date": "1989-01-15",
+    "description": "After the death of his wife and the murder of his son, Professor Gregor Antonov, a European chess master and key scientist in an important Soviet defense project, has become increasingly disillusioned with his work in the Cold War arms race. Disheartened, he has thoughts of defecting to the west, where he will live a quiet life together with his 15-year-old daughter Sasha, his only remaining family member. Soviet officials are however well aware of Antonov's hopes, and thus the security around him is rigorous. Jim Phelps and his team of agents are assigned to the mission of smuggling Antonov and his daughter out of the Soviet Union and to safety in the west. The perfect opportunity to do this appears to be during a chess tournament in Czechoslovakia, where the chess master Antonov is due to participate.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "David Brown",
+        "nm": 113357,
+        "roles": [
+          {
+            "char": "Yuri"
+          }
+        ]
+      },
+      {
+        "name": "Simon Burvill-Holmes",
+        "nm": 123807,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Brian Cahill",
+        "nm": 128643,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Donna Cameron",
+        "nm": 131553,
+        "roles": [
+          {
+            "char": "Woman"
+          }
+        ]
+      },
+      {
+        "name": "Allen Harvey",
+        "nm": 367419,
+        "roles": [
+          {
+            "char": "The Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Phillip Hinton",
+        "nm": 386015,
+        "roles": [
+          {
+            "char": "Rultka"
+          }
+        ]
+      },
+      {
+        "name": "Brian Hinzlewood",
+        "nm": 386094,
+        "roles": [
+          {
+            "char": "Krensky"
+          }
+        ]
+      },
+      {
+        "name": "Bryan Marshall",
+        "nm": 550789,
+        "roles": [
+          {
+            "char": "Gregor Antonov"
+          }
+        ]
+      },
+      {
+        "name": "Ainsley McWhirter",
+        "nm": 1567260,
+        "roles": [
+          {
+            "char": "Sasha"
+          }
+        ]
+      },
+      {
+        "name": "Justin Monjo",
+        "nm": 542493,
+        "roles": [
+          {
+            "char": "Bakunin"
+          }
+        ]
+      },
+      {
+        "name": "Max Phipps",
+        "nm": 681041,
+        "roles": [
+          {
+            "char": "Rudensky"
+          }
+        ]
+      },
+      {
+        "name": "Tim Reuther",
+        "nm": 720716,
+        "roles": [
+          {
+            "char": "Chessboard Attendant"
+          }
+        ]
+      },
+      {
+        "name": "Rowena Wallace",
+        "nm": 908845,
+        "roles": [
+          {
+            "char": "Major Natalia Zorbuskaya"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "The Haunting",
+    "tt": 649399,
+    "air_date": "1989-01-28",
+    "description": "While studying at Honolulu University, the Princess Jehan, the daughter of a rich eastern European oil baron, mysteriously disappears. Although her body is never found, all signs point to murder, and a very violent death. Though failing to produce any evidence, the police are convinced that the Princess's murderer is Champ Foster, a man from a wealthy and influential Hawaiian family. They moreover believe that he is responsible for at least half a dozen other murders around the USA, but his family's money and influence has literally enabled Mr. Foster to get away with murder for years. Jim Phelps and his team of agents get the mission to find out whether or not Champ Foster really did kill the Princess Jehan, and if so, to find that crucial piece of evidence.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "David Barnes",
+        "nm": 55561,
+        "roles": [
+          {
+            "char": "Otto"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Hodge",
+        "nm": 388084,
+        "roles": [
+          {
+            "char": "Commodore Anderson"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Lockwood",
+        "nm": 516980,
+        "roles": [
+          {
+            "char": "Rita"
+          }
+        ]
+      },
+      {
+        "name": "Miguel Martin",
+        "nm": 1565451,
+        "roles": [
+          {
+            "char": "Mario"
+          }
+        ]
+      },
+      {
+        "name": "Janis Paige",
+        "nm": 656712,
+        "roles": [
+          {
+            "char": "Victoria Foster"
+          }
+        ]
+      },
+      {
+        "name": "Richard Pedicini",
+        "nm": 670019,
+        "roles": [
+          {
+            "char": "Fatman",
+            "as Richard-George Pedicini": true
+          }
+        ]
+      },
+      {
+        "name": "Bradwin Saylor",
+        "nm": 1567321,
+        "roles": [
+          {
+            "char": "Hawaiian Boy"
+          }
+        ]
+      },
+      {
+        "name": "Parker Stevenson",
+        "nm": 829017,
+        "roles": [
+          {
+            "char": "Champ Foster",
+            "ch": 2321
+          }
+        ]
+      },
+      {
+        "name": "Dawn Sutton",
+        "nm": 1581697,
+        "roles": [
+          {
+            "char": "Princess Jehan"
+          }
+        ]
+      },
+      {
+        "name": "Lyn Treadgold",
+        "nm": 871558,
+        "roles": [
+          {
+            "char": "Women at Dance"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Wilkin",
+        "nm": 1622799,
+        "roles": [
+          {
+            "char": "Princess' Father"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Brandon Wong",
+        "nm": 938931,
+        "roles": [
+          {
+            "char": "Tu",
+            "as Anthony Wong": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "The Lions",
+    "tt": 649402,
+    "air_date": "1989-02-04",
+    "description": "As the King of the country of Bajan-Du suddenly passes away, it is expected that his young son, Prince Mikos, should continue his father's work and take his father's place on the throne. However, according to Bajan-Du tradition, no one can be king of the country without first passing \"the ceremony of the golden lions\" - a ceremony the late King's brother Ki is determined to fix so that the Prince can have no possibility of solving it. Moreover, he wants the Prince to die trying to find the answer to the puzzle. Ki, who next in line to the throne, hopes to thereafter rule Bajan-Du single-handedly and put an immediate stop to all the modernisations and western influences his late brother was so determined to bring into their ancient country. Jim Phelps and his team of agents get the mission to save the life of Prince Mikos, and ruin all of Ki's plans.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Angerson",
+        "nm": 29801,
+        "roles": [
+          {
+            "char": "Prince Miklos"
+          }
+        ]
+      },
+      {
+        "name": "Diane Craig",
+        "nm": 185835,
+        "roles": [
+          {
+            "char": "Lady Michelle Faulkner"
+          }
+        ]
+      },
+      {
+        "name": "Linda Cunningham",
+        "nm": 192378,
+        "roles": [
+          {
+            "char": "Attendant"
+          }
+        ]
+      },
+      {
+        "name": "Jack Ng",
+        "nm": 1565462,
+        "roles": [
+          {
+            "char": "Ki's Guard"
+          }
+        ]
+      },
+      {
+        "name": "John O'Brien",
+        "nm": 639621,
+        "roles": [
+          {
+            "char": "Jaru"
+          }
+        ]
+      },
+      {
+        "name": "James Shigeta",
+        "nm": 793363,
+        "roles": [
+          {
+            "char": "Ki"
+          }
+        ]
+      },
+      {
+        "name": "Terry Woo",
+        "nm": 939496,
+        "roles": [
+          {
+            "char": "Older Priest"
+          }
+        ]
+      },
+      {
+        "name": "Francis Yin",
+        "nm": 948036,
+        "roles": [
+          {
+            "char": "High Priest"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "The Greek",
+    "tt": 649397,
+    "air_date": "1989-02-11",
+    "description": "Jim Phelps and his team of agents are assigned to the mission of breaking up an international drugs distribution network run by Socrates Colonnades. Moreover, they must bring a definite halt to Colonnades's way of acquiring the drugs which he distributes in the first place. This Colonnades achieves by robbing relief organisations of medial supplies destined for third world countries.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Cesare Danova",
+        "nm": 200488,
+        "roles": [
+          {
+            "char": "Socrates Colonnades"
+          }
+        ]
+      },
+      {
+        "name": "Terry Gill",
+        "nm": 318743,
+        "roles": [
+          {
+            "char": "Patterson"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Hammond",
+        "nm": 358749,
+        "roles": [
+          {
+            "char": "Woodward"
+          }
+        ]
+      },
+      {
+        "name": "Jim Manser",
+        "nm": 1622714,
+        "roles": [
+          {
+            "char": "Brewery Master"
+          }
+        ]
+      },
+      {
+        "name": "Simon Palomares",
+        "nm": 658699,
+        "roles": [
+          {
+            "char": "Sailor"
+          }
+        ]
+      },
+      {
+        "name": "Dina Panozzo",
+        "nm": 659730,
+        "roles": [
+          {
+            "char": "Serena"
+          }
+        ]
+      },
+      {
+        "name": "Terry Reddell",
+        "nm": 1622754,
+        "roles": [
+          {
+            "char": "Boat Captain"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Spano",
+        "nm": 816877,
+        "roles": [
+          {
+            "char": "Alvarado"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "The Fortune",
+    "tt": 649393,
+    "air_date": "1989-02-18",
+    "description": "As dictator Luis Berezan began to get increasingly weakened by old age and illness, the people in his country of Alcante finally saw it fit to start a long-awaited revolution against his regime. Luis Berezan and his wife Emilia fled the country - not without first, however, emptying Alcante's treasury - and sought asylum in the United States. In the US, they live a life in luxury, while the people in the bankrupt country they left behind starve. Jim Phelps and his team of agents get the assignment to locate and steal back the money originally stolen by the Berezans, with the purpose of returning it to the people of Alcante.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Terry Markwell",
+        "nm": 549046,
+        "roles": [
+          {
+            "char": "Casey Randall",
+            "ch": 2330
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitzi Gaynor",
+        "nm": 310989,
+        "roles": [
+          {
+            "char": "Patsy Blair",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "BarBara Luna",
+        "nm": 526008,
+        "roles": [
+          {
+            "char": "Emilia Berezan",
+            "as Barbara Luna": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Murdock",
+        "nm": 1565459,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Jamie O'Connor",
+        "nm": 1565463,
+        "roles": [
+          {
+            "char": "Mono Rail Attendant"
+          }
+        ]
+      },
+      {
+        "name": "Michael Pate",
+        "nm": 665327,
+        "roles": [
+          {
+            "char": "Luis Berezan"
+          }
+        ]
+      },
+      {
+        "name": "Noel Trevarthen",
+        "nm": 871729,
+        "roles": [
+          {
+            "char": "Mr. Crothers"
+          }
+        ]
+      },
+      {
+        "name": "Richard Williams",
+        "nm": 1565478,
+        "roles": [
+          {
+            "char": "Anchorman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "The Fixer",
+    "tt": 649392,
+    "air_date": "1989-02-25",
+    "description": "His long-spanning career as a successful Washington columnist and broadcaster has provided Arthur Six with a lot of sensitive information about important people the world of politics, law and business. This information Six then likes to use for blackmail purposes, leading him to control a number of men and women in very high positions. His main adversary at the moment is Senator Tom Oxenford, who wants Six indicted by a grand jury for being involved in a blackmail conspiracy against the American government. Jim Phelps and his team of agents are assigned to making certain that Six really is indicted by the jury, and moreover to find and erase his secret records of blackmail information.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Calvin",
+        "nm": 130890,
+        "roles": [
+          {
+            "char": "Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Terence Donovan",
+        "nm": 233065,
+        "roles": [
+          {
+            "char": "Senator Tom Oxenford"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Ingersent",
+        "nm": 408768,
+        "roles": [
+          {
+            "char": "Judge Vossberg"
+          }
+        ]
+      },
+      {
+        "name": "Peter Marshall",
+        "nm": 551103,
+        "roles": [
+          {
+            "char": "Male Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Roger Newcombe",
+        "nm": 627765,
+        "roles": [
+          {
+            "char": "TV Announcer"
+          }
+        ]
+      },
+      {
+        "name": "Paul Paye",
+        "nm": 1622742,
+        "roles": [
+          {
+            "char": "News Vendor"
+          }
+        ]
+      },
+      {
+        "name": "Richard Romanus",
+        "nm": 739087,
+        "roles": [
+          {
+            "char": "Arthur Six"
+          }
+        ]
+      },
+      {
+        "name": "Alison Venning",
+        "nm": 1567363,
+        "roles": [
+          {
+            "char": "Female Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Spy",
+    "tt": 649385,
+    "air_date": "1989-03-18",
+    "description": "Jim Phelps and his team of agents are sent on a mission to locate and destroy a hidden chemical plant, where rumours report that a former spy and MI6 agent has illegally begun to manufacture his own chemical weapons.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Francine Bell",
+        "nm": 68206,
+        "roles": [
+          {
+            "char": "Heather"
+          }
+        ]
+      },
+      {
+        "name": "Shane Briant",
+        "nm": 108470,
+        "roles": [
+          {
+            "char": "Dr. Yuri Nikolai"
+          }
+        ]
+      },
+      {
+        "name": "Raymond Chan",
+        "nm": 151076,
+        "roles": [
+          {
+            "char": "Trap"
+          }
+        ]
+      },
+      {
+        "name": "Mary Cheng",
+        "nm": 155600,
+        "roles": [
+          {
+            "char": "Chinese Woman"
+          }
+        ]
+      },
+      {
+        "name": "Tim Hughes",
+        "nm": 400962,
+        "roles": [
+          {
+            "char": "John Christie"
+          }
+        ]
+      },
+      {
+        "name": "Leroy Loggins",
+        "nm": 1567231,
+        "roles": [
+          {
+            "char": "Terrorist"
+          }
+        ]
+      },
+      {
+        "name": "Lee Rice",
+        "nm": 723491,
+        "roles": [
+          {
+            "char": "Carl",
+            "as Lee A. Rice II": true
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Sweet",
+        "nm": 842271,
+        "roles": [
+          {
+            "char": "Crosby"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "The Devils",
+    "tt": 649391,
+    "air_date": "1989-03-25",
+    "description": "Soon after having stayed as guests at the English country estate of Lord Holman, third Baron of Saffron Cobden and member of the English House of Lords, two western diplomats have committed suicide. Another diplomat, and also a frequent guest of Lord Holman's, has been admitted to an institution of the mentally insane. At the same time, the bodies of three young girls have been found stabbed to death in a river close to Holman's estate. Jim Phelps and his team of agents get the mission to investigate these mysterious events; to find out if there is any connection between the dead girls and the suicides, and in addition to discover what Lord Holman and his guests really get up to at the country manor.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Robin Bowering",
+        "nm": 101013,
+        "roles": [
+          {
+            "char": "Dunston"
+          }
+        ]
+      },
+      {
+        "name": "Kylie Fitzpatrick",
+        "nm": 1581112,
+        "roles": [
+          {
+            "char": "Girl"
+          }
+        ]
+      },
+      {
+        "name": "Murray Foy",
+        "nm": 1622648,
+        "roles": [
+          {
+            "char": "Russell"
+          }
+        ]
+      },
+      {
+        "name": "Ron Graham",
+        "nm": 334277,
+        "roles": [
+          {
+            "char": "Challis"
+          }
+        ]
+      },
+      {
+        "name": "George Haywood",
+        "nm": 1565439,
+        "roles": [
+          {
+            "char": "Fisherman"
+          }
+        ]
+      },
+      {
+        "name": "Bea Howe",
+        "nm": 397779,
+        "roles": [
+          {
+            "char": "Doctor",
+            "as Beatrice Howe": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Lamb",
+        "nm": 483012,
+        "roles": [
+          {
+            "char": "Lucy"
+          }
+        ]
+      },
+      {
+        "name": "Paul Mason",
+        "nm": 556897,
+        "roles": [
+          {
+            "char": "Fordley"
+          }
+        ]
+      },
+      {
+        "name": "Russell Newman",
+        "nm": 628253,
+        "roles": [
+          {
+            "char": "Egerton"
+          }
+        ]
+      },
+      {
+        "name": "Betty Richer",
+        "nm": 1622762,
+        "roles": [
+          {
+            "char": "Cook"
+          }
+        ]
+      },
+      {
+        "name": "John Stanton",
+        "nm": 822765,
+        "roles": [
+          {
+            "char": "Lord Holman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "The Plague",
+    "tt": 649404,
+    "air_date": "1989-04-08",
+    "description": "Jim Phelps and his team of agents are assigned to the mission of finding and neutralising a dangerous stolen bacteria called Xerxes, which, when exposed to, will rapidly assist in aging all of the vital organs of the human being. The bacteria is believed to have been stolen by Catherine Balzac, who, apart from running a Parisian night club, traffics in black-market intelligence.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Maud Adams",
+        "nm": 726,
+        "roles": [
+          {
+            "char": "Catherine Balzac"
+          }
+        ]
+      },
+      {
+        "name": "Gary Day",
+        "nm": 206404,
+        "roles": [
+          {
+            "char": "Laroux"
+          }
+        ]
+      },
+      {
+        "name": "Bryon Williams",
+        "nm": 930189,
+        "roles": [
+          {
+            "char": "General Dupuis"
+          }
+        ]
+      },
+      {
+        "name": "Megan Shapcott",
+        "nm": 788424,
+        "roles": [
+          {
+            "char": "Dolphin Trainer"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Lowley",
+        "nm": 1622710,
+        "roles": [
+          {
+            "char": "Professor Lotte"
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Reprisal",
+    "tt": 649384,
+    "air_date": "1989-04-15",
+    "description": "When former IMF-agent Laura Ann Wilson is murdered, Jim Phelps's fingerprints are found at the scene of the crime, making him the police's prime suspect in the case. Knowing however that Phelps was in Thailand at the time of the murder working on a case, the IMF-secretary realises that Phelps must have been framed by someone. Jim identifies his former agent colleague Russell Acker as the only person who could possibly be responsible. After having been in a serious car accident 14 years ago, Acker lost his mind and started murdering beautiful women. Jim Phelps, Laura Ann Wilson, and two other female agents eventually put him away for life in a mental institution. Acker saw being caught by his own colleagues as the definitive betrayal and he must now finally have found a way of getting his own back from inside his high security prison for the mentally insane.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ann Brisk",
+        "nm": 109840,
+        "roles": [
+          {
+            "char": "Pianist"
+          }
+        ]
+      },
+      {
+        "name": "Chelsea Brown",
+        "nm": 113238,
+        "roles": [
+          {
+            "char": "Laura Ann Wilson"
+          }
+        ]
+      },
+      {
+        "name": "David Cameron",
+        "nm": 131540,
+        "roles": [
+          {
+            "char": "Russell Acker"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Cotterill",
+        "nm": 182995,
+        "roles": [
+          {
+            "char": "Dr. Vincent"
+          }
+        ]
+      },
+      {
+        "name": "Lynda Day George",
+        "nm": 313519,
+        "roles": [
+          {
+            "char": "Lisa Casey",
+            "ch": 2322
+          }
+        ]
+      },
+      {
+        "name": "Paula Goodman",
+        "nm": 329196,
+        "roles": [
+          {
+            "char": "Marilyn"
+          }
+        ]
+      },
+      {
+        "name": "Marshall Napier",
+        "nm": 621031,
+        "roles": [
+          {
+            "char": "Talbot"
+          }
+        ]
+      },
+      {
+        "name": "Christina Ongley",
+        "nm": 648689,
+        "roles": [
+          {
+            "char": "Female Newsreader"
+          }
+        ]
+      },
+      {
+        "name": "Peter Rollo",
+        "nm": 738483,
+        "roles": [
+          {
+            "char": "Pawn Broker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Submarine",
+    "tt": 649386,
+    "air_date": "1989-04-29",
+    "description": "The American submarine USS Concorde is dramatically lost at sea and the few surviving crew members report that the submarine was blown apart by a torpedo containing a sophisticated computer virus. This virus killed the submarine's computer system, leading to the underwater ship being impossible to control. Jim Phelps and his team of agents get the mission to find the virus program which sunk the Concorde, so that an antidote program can be created. They moreover have to find the virus's creators, and put them out of the virus creating business for good.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Mitch Ryan",
+        "nm": 752751,
+        "roles": [
+          {
+            "char": "Admiral Edgar Sheppard",
+            "as Mitchell Ryan": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Captain O'Neill"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Hardy",
+        "nm": 362682,
+        "roles": [
+          {
+            "char": "Etienne Reynard"
+          }
+        ]
+      },
+      {
+        "name": "Noel Sheridan",
+        "nm": 1686221,
+        "roles": [
+          {
+            "char": "Computer Operator"
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Cork",
+        "nm": 179901,
+        "roles": [
+          {
+            "char": "Radio Operator"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Booth",
+        "nm": 95638,
+        "roles": [
+          {
+            "char": "Navigator"
+          }
+        ]
+      },
+      {
+        "name": "John Eyeson-Annan",
+        "nm": 1567145,
+        "roles": [
+          {
+            "char": "African Arms Dealer"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Croll",
+        "nm": 1581024,
+        "roles": [
+          {
+            "char": "Senior Customs Officer"
+          }
+        ]
+      },
+      {
+        "name": "David E. Woodley",
+        "nm": 940346,
+        "roles": [
+          {
+            "char": "Pilot",
+            "as David Woodley": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Bayou",
+    "tt": 649376,
+    "air_date": "1989-05-06",
+    "description": "Jim Phelps and his team of agents are assigned to finding out what has happened to more than 100 young girls who have mysteriously disappeared from the American town of New Orleans. The police in New Orleans are convinced that the girls have fallen victims to Jake Morgan, a jazz club owner who they also believe is responsible for an extensive white slavery business that kidnaps young girls and sells them as slaves to countries in Africa and Asia. If Morgan really is guilty of these accusations, it is up to the IMF-team to find the evidence and hopefully also a complete records of all the girls that have been sold through the organisation. If records can be found, the girls in question can be tracked, and hopefully also ultimately saved from slavery.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Darren Dubb",
+        "nm": 6156790,
+        "roles": [
+          {
+            "char": "Assistant Director"
+          }
+        ]
+      },
+      {
+        "name": "Emma Harrison",
+        "nm": 365577,
+        "roles": [
+          {
+            "char": "Slave Girl"
+          }
+        ]
+      },
+      {
+        "name": "Paula Kelly",
+        "nm": 446780,
+        "roles": [
+          {
+            "char": "Pepper Leveau"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Spencer",
+        "nm": 817908,
+        "roles": [
+          {
+            "char": "Diane Martin"
+          }
+        ]
+      },
+      {
+        "name": "Frank Thring",
+        "nm": 861930,
+        "roles": [
+          {
+            "char": "Jake Morgan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "The Golden Serpent: Part 1",
+    "tt": 649395,
+    "air_date": "1989-09-21",
+    "description": "Jim Phelps and his team of agents get the mission to destroy a South East Asian drug smuggling organisation known as \"The Golden Serpent\", and to moreover locate their business dealing records. The identity of the organisation's leader has always remained a mystery. The thing that is known, however, is that another team of IMF-agents recently moving in on one of the organisation's key people, Prince Selimun of Benarli, have just had their mission blown and their leader murdered.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Greg Morris",
+        "nm": 606569,
+        "roles": [
+          {
+            "char": "Barney Collier",
+            "ch": 2324
+          }
+        ]
+      },
+      {
+        "name": "Patrick Bishop",
+        "nm": 84161,
+        "roles": [
+          {
+            "char": "Prince Selimun"
+          }
+        ]
+      },
+      {
+        "name": "Rod Mullinar",
+        "nm": 612367,
+        "roles": [
+          {
+            "char": "Conrad Drago"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Brown",
+        "nm": 112954,
+        "roles": [
+          {
+            "char": "Baal"
+          }
+        ]
+      },
+      {
+        "name": "Nadja Kostich",
+        "nm": 467455,
+        "roles": [
+          {
+            "char": "Big Blonde"
+          }
+        ]
+      },
+      {
+        "name": "Max Fairchild",
+        "nm": 265523,
+        "roles": [
+          {
+            "char": "Burrows"
+          }
+        ]
+      },
+      {
+        "name": "Tim Bell",
+        "nm": 68547,
+        "roles": [
+          {
+            "char": "I.M. Agent"
+          }
+        ]
+      },
+      {
+        "name": "David Letch",
+        "nm": 504601,
+        "roles": [
+          {
+            "char": "Lee"
+          }
+        ]
+      },
+      {
+        "name": "Sharon Tyrell",
+        "nm": 879069,
+        "roles": [
+          {
+            "char": "Ranger"
+          }
+        ]
+      },
+      {
+        "name": "Leong Lim",
+        "nm": 510568,
+        "roles": [
+          {
+            "char": "Supervisor"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Ball",
+        "nm": 50482,
+        "roles": [
+          {
+            "char": "Presenter"
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "The Golden Serpent: Part 2",
+    "tt": 649396,
+    "air_date": "1989-09-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Greg Morris",
+        "nm": 606569,
+        "roles": [
+          {
+            "char": "Barney Collier",
+            "ch": 2324
+          }
+        ]
+      },
+      {
+        "name": "Patrick Bishop",
+        "nm": 84161,
+        "roles": [
+          {
+            "char": "Prince Selimun"
+          }
+        ]
+      },
+      {
+        "name": "Rod Mullinar",
+        "nm": 612367,
+        "roles": [
+          {
+            "char": "Conrad Drago"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Brown",
+        "nm": 112954,
+        "roles": [
+          {
+            "char": "Baal"
+          }
+        ]
+      },
+      {
+        "name": "Nadja Kostich",
+        "nm": 467455,
+        "roles": [
+          {
+            "char": "Big Blonde"
+          }
+        ]
+      },
+      {
+        "name": "Max Fairchild",
+        "nm": 265523,
+        "roles": [
+          {
+            "char": "Burrows"
+          }
+        ]
+      },
+      {
+        "name": "Tim Bell",
+        "nm": 68547,
+        "roles": [
+          {
+            "char": "I.M. Agent"
+          }
+        ]
+      },
+      {
+        "name": "Michael Long",
+        "nm": 519109,
+        "roles": [
+          {
+            "char": "Captain"
+          }
+        ]
+      },
+      {
+        "name": "John Lee",
+        "nm": 497557,
+        "roles": [
+          {
+            "char": "Harris"
+          }
+        ]
+      },
+      {
+        "name": "David Letch",
+        "nm": 504601,
+        "roles": [
+          {
+            "char": "Lee"
+          }
+        ]
+      },
+      {
+        "name": "Sharon Tyrell",
+        "nm": 879069,
+        "roles": [
+          {
+            "char": "Ranger"
+          }
+        ]
+      },
+      {
+        "name": "Leong Lim",
+        "nm": 510568,
+        "roles": [
+          {
+            "char": "Supervisor"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Ball",
+        "nm": 50482,
+        "roles": [
+          {
+            "char": "Presenter"
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "The Princess",
+    "tt": 649405,
+    "air_date": "1989-10-05",
+    "description": "Following that Prince Arkadi, ruler of the small principality of Valance, met, fell in love with, and finally married, Elaine Murchison, the daughter of an American ambassador, the Prince began being increasingly exposed to western ways, values, and ideas. As a result of his new wife and her American lifestyle, he began modernising and democratising his country, none of which pleased Gregor Caron, an anti-American and leader of a group known as \"The Valance Red Garde\". It is believed that Caron now plans to have the Princess Elaine murdered in order to stop all her western influence on her husband. Jim Phelps and his team of agents get the mission to stop this murder from ever taking place, something which however turns out to be more difficult than they first imagined. Not only is Valance just about to host an important film festival, where huge crowds and public appearances from both the Prince and Princess would make her a very easy target, but Caron also appears to have hired a hit man to do the job for him. The elusive hit man in question is to the world only known by his code name of \"Coyote.\"",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Robert Coleby",
+        "nm": 170347,
+        "roles": [
+          {
+            "char": "Grigor Caron"
+          }
+        ]
+      },
+      {
+        "name": "Dale Stevens",
+        "nm": 828337,
+        "roles": [
+          {
+            "char": "Coyote"
+          }
+        ]
+      },
+      {
+        "name": "Zlatko Kasumovic",
+        "nm": 441046,
+        "roles": [
+          {
+            "char": "Pavel"
+          }
+        ]
+      },
+      {
+        "name": "Robin Harrison",
+        "nm": 365844,
+        "roles": [
+          {
+            "char": "Karel"
+          }
+        ]
+      },
+      {
+        "name": "Tottie Goldsmith",
+        "nm": 326135,
+        "roles": [
+          {
+            "char": "Princess Elaine",
+            "as Totti Goldsmith": true
+          }
+        ]
+      },
+      {
+        "name": "John Orcsik",
+        "nm": 649469,
+        "roles": [
+          {
+            "char": "Prince Arkadi"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Gilmour",
+        "nm": 319587,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Steve Millichamp",
+        "nm": 589648,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Command Performance",
+    "tt": 649379,
+    "air_date": "1989-10-12",
+    "description": "Self-declared Defence Minister Ivan Savitch, operating in a Baltic country without the consent of its democratically elected Prime Minister, is responsible for the death or imprisonment of more than one hundred dissidents. Savitch has however recently learned that someone has kept records of his atrocities over the years and hidden them away in an ancient relic, the Cross of St. Bonaface, which since then has been stolen from his county's National Museum. Savitch is convinced that the man behind the theft is Father Thomas Vallis, a priest who has openly criticised Savitch and his methods. Despite no evidence to confirm this theory, Savitch has imprisoned Vallis in the notorious prison of \"The Tower\". There he will remain until he either talks or dies. Jim Phelps and his team of agents are assigned to the mission of freeing Father Vallis from the high security prison. In addition, they must find the hidden records of all of Savitch's crimes - records which will undoubtedly put Ivan Savitch away for a long time.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Bell",
+        "nm": 68431,
+        "roles": [
+          {
+            "char": "Braun"
+          }
+        ]
+      },
+      {
+        "name": "Charles Dance",
+        "nm": 199145,
+        "roles": [
+          {
+            "char": "Prime Minister",
+            "ch": 5813
+          }
+        ]
+      },
+      {
+        "name": "Reg Evans",
+        "nm": 263149,
+        "roles": [
+          {
+            "char": "Ashton"
+          }
+        ]
+      },
+      {
+        "name": "Sydney Jackson",
+        "nm": 414070,
+        "roles": [
+          {
+            "char": "Ringmaster"
+          }
+        ]
+      },
+      {
+        "name": "Ivar Kants",
+        "nm": 437997,
+        "roles": [
+          {
+            "char": "Father Thomas Vallis"
+          }
+        ]
+      },
+      {
+        "name": "Grigor Taylor",
+        "nm": 852437,
+        "roles": [
+          {
+            "char": "Defense Minster Ivan Savitch"
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Lt. Muler"
+          }
+        ]
+      },
+      {
+        "name": "Ruth Yaffe",
+        "nm": 944868,
+        "roles": [
+          {
+            "char": "Flower Lady"
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Countdown",
+    "tt": 649380,
+    "air_date": "1989-10-26",
+    "description": "In the Asian country of Kangji, the military leader Xang Kai plans to obliterate the entire government by detonating a nuclear bomb in the capital's city center. His strategy is to after that blame the attack on the United States and take control of his country, emerging as the undisputed leader. To set up the bomb, he has taken help from the beautiful female terrorist Sun Li, who has agreed to help on condition that her religious leader \"The Holy One\" may return to Kangji under Xang Kai's rule. \"The Holy One\" has for a long time lived in exile outside the country borders. Jim Phelps and his team of agents get the mission to locate and defuse the nuclear bomb, thus stopping all of Xang Kai's devious plans.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Julie Ow",
+        "nm": 654051,
+        "roles": [
+          {
+            "char": "Su Lin"
+          }
+        ]
+      },
+      {
+        "name": "Cary-Hiroyuki Tagawa",
+        "nm": 846480,
+        "roles": [
+          {
+            "char": "Vang Kai"
+          }
+        ]
+      },
+      {
+        "name": "John O'Brien",
+        "nm": 639621,
+        "roles": [
+          {
+            "char": "Major Chung"
+          }
+        ]
+      },
+      {
+        "name": "Darren Yap",
+        "nm": 946313,
+        "roles": [
+          {
+            "char": "Quon"
+          }
+        ]
+      },
+      {
+        "name": "Terry Woo",
+        "nm": 939496,
+        "roles": [
+          {
+            "char": "Monk",
+            "as Terence Woo": true
+          }
+        ]
+      },
+      {
+        "name": "Takao Nakazawi",
+        "nm": 1567272,
+        "roles": [
+          {
+            "char": "Old Man"
+          }
+        ]
+      },
+      {
+        "name": "Rob Burton",
+        "nm": 1565424,
+        "roles": [
+          {
+            "char": "Mime Artist"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Mah",
+        "nm": 536693,
+        "roles": [
+          {
+            "char": "Warlord"
+          }
+        ]
+      },
+      {
+        "name": "Fred Lee",
+        "nm": 497283,
+        "roles": [
+          {
+            "char": "Soldier"
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "War Games",
+    "tt": 649409,
+    "air_date": "1989-11-02",
+    "description": "Since General Eli Szabos took over the armed forces in the country of Sardavia, he has expanded the country's army immeasurable, and in addition much more than what is politically necessary. Intelligence believe that Szabos is really planning an invasion of the neighbouring country of Bukarine, well-known for its rich oil fields, and that he also has secretly been buying missiles and other weapons to assist him in doing so. Jim Phelps and his team of agents get the mission to prevent General Szabos's invasion of Bukarine and to expose his evil plans to the world.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Kevin Miles",
+        "nm": 587173,
+        "roles": [
+          {
+            "char": "General Eli Szabo"
+          }
+        ]
+      },
+      {
+        "name": "Lewis Fiander",
+        "nm": 275595,
+        "roles": [
+          {
+            "char": "Colonel Garva"
+          }
+        ]
+      },
+      {
+        "name": "Nickolai Grigorovitch",
+        "nm": 1567168,
+        "roles": [
+          {
+            "char": "Politburo Chief"
+          }
+        ]
+      },
+      {
+        "name": "Alex Menglet",
+        "nm": 579595,
+        "roles": [
+          {
+            "char": "Lt. Udo"
+          }
+        ]
+      },
+      {
+        "name": "James Patrick",
+        "nm": 665862,
+        "roles": [
+          {
+            "char": "Capt. Souchek"
+          }
+        ]
+      },
+      {
+        "name": "Phillip Dean",
+        "nm": 212910,
+        "roles": [
+          {
+            "char": "Chauffeur"
+          }
+        ]
+      },
+      {
+        "name": "Sean Myers",
+        "nm": 616853,
+        "roles": [
+          {
+            "char": "Hotel Manager"
+          }
+        ]
+      },
+      {
+        "name": "Pip Mushin",
+        "nm": 4522,
+        "roles": [
+          {
+            "char": "Journalist",
+            "as Phillip Mushin": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Target Earth",
+    "tt": 649387,
+    "air_date": "1989-11-09",
+    "description": "First pilot Daniel Bergerac was scheduled to command and operate the space vessel Frontier One, owned by the private Eurospace consortium, as it made its premiere voyage into space. Bergerac has now, however, mysteriously disappeared and intelligence believe that his vanishing has been a result of foul play. The space vessel Frontier One was designed to clear cosmic debris by laser and to assist in the building of an important space lab. In the wrong hands, it could become a deadly weapon for terrorists. Jim Phelps and his team of agents are assigned to the mission to infiltrate the Eurospace consortium at their base in Australia, discover what really happened to pilot Daniel Bergerac, and to make sure that the Frontier One will not be used for any evil purposes.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Baird",
+        "nm": 47871,
+        "roles": [
+          {
+            "char": "Newscaster",
+            "as Geoff Baird": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Cordner",
+        "nm": 179605,
+        "roles": [
+          {
+            "char": "Bergerac"
+          }
+        ]
+      },
+      {
+        "name": "Eli Danker",
+        "nm": 200294,
+        "roles": [
+          {
+            "char": "Robard"
+          }
+        ]
+      },
+      {
+        "name": "Gosia Dobrowolska",
+        "nm": 229838,
+        "roles": [
+          {
+            "char": "Alina"
+          }
+        ]
+      },
+      {
+        "name": "Lewis Fitz-Gerald",
+        "nm": 280143,
+        "roles": [
+          {
+            "char": "Rhine"
+          }
+        ]
+      },
+      {
+        "name": "Giordano Gangl",
+        "nm": 304337,
+        "roles": [
+          {
+            "char": "Sovolev"
+          }
+        ]
+      },
+      {
+        "name": "Alex Pinder",
+        "nm": 683935,
+        "roles": [
+          {
+            "char": "Voss"
+          }
+        ]
+      },
+      {
+        "name": "David Ravenswood",
+        "nm": 712399,
+        "roles": [
+          {
+            "char": "General Ransom"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Royal",
+        "nm": 747249,
+        "roles": [
+          {
+            "char": "Librarian"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "The Fuehrer's Children",
+    "tt": 649394,
+    "air_date": "1989-11-16",
+    "description": "Jim Phelps and his team of agents are assigned to the mission of stopping Richard Kestner, a fanatical and violent neo-Nazi, from overthrowing the American government in favour of a new era of terror reign of the old Nazi movement.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Bell",
+        "nm": 68292,
+        "roles": [
+          {
+            "char": "Vogel"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Black",
+        "nm": 85445,
+        "roles": [
+          {
+            "char": "Eva Kester"
+          }
+        ]
+      },
+      {
+        "name": "Rainey Carah",
+        "nm": 135912,
+        "roles": [
+          {
+            "char": "Horseback Rider"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Cassidy",
+        "nm": 1567110,
+        "roles": [
+          {
+            "char": "Alex"
+          }
+        ]
+      },
+      {
+        "name": "Chris Hallam",
+        "nm": 356260,
+        "roles": [
+          {
+            "char": "Pembroke"
+          }
+        ]
+      },
+      {
+        "name": "Adolf Hitler",
+        "nm": 386944,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Graham Houghton",
+        "nm": 1567193,
+        "roles": [
+          {
+            "char": "Peter"
+          }
+        ]
+      },
+      {
+        "name": "Albert Salmi",
+        "nm": 758692,
+        "roles": [
+          {
+            "char": "Richard Kester"
+          }
+        ]
+      },
+      {
+        "name": "Ross Thompson",
+        "nm": 860665,
+        "roles": [
+          {
+            "char": "Fruger"
+          }
+        ]
+      },
+      {
+        "name": "James Wright",
+        "nm": 942469,
+        "roles": [
+          {
+            "char": "Capt. Marks"
+          }
+        ]
+      },
+      {
+        "name": "John F. Kennedy",
+        "nm": 448123,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Robert F. Kennedy",
+        "nm": 448305,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Luther King",
+        "nm": 455052,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Banshee",
+    "tt": 649375,
+    "air_date": "1989-11-30",
+    "description": "In the Northern Irish town of BallyNaGragh, hotel owner Brian McCarron operates as a successful arms dealer. His success is mainly due to the fact that McCarron continually likes to provoke further violence in the ongoing Northern Irish conflict by secretly performing his own acts of atrocity, and then blaming them on both the respective sides, thus creating a better market for his weapon enterprise. Jim Phelps and his team of agents are assigned to the mission of putting Brian McCarron out of business, to bring him to justice, and to get the different fighting parties in BallyNaGragh to start friendly peace negotiations.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Peter Adams",
+        "nm": 11263,
+        "roles": [
+          {
+            "char": "Brian McCarron"
+          }
+        ]
+      },
+      {
+        "name": "Rob Steele",
+        "nm": 824651,
+        "roles": [
+          {
+            "char": "O'Rourke"
+          }
+        ]
+      },
+      {
+        "name": "Chris Gregory",
+        "nm": 339770,
+        "roles": [
+          {
+            "char": "Kearney"
+          }
+        ]
+      },
+      {
+        "name": "Geoff Paine",
+        "nm": 656834,
+        "roles": [
+          {
+            "char": "Skelton"
+          }
+        ]
+      },
+      {
+        "name": "Libby Purvis",
+        "nm": 701029,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Jack Perry",
+        "nm": 675104,
+        "roles": [
+          {
+            "char": "Farmer"
+          }
+        ]
+      },
+      {
+        "name": "Randall Berger",
+        "nm": 74327,
+        "roles": [
+          {
+            "char": "Train Operator"
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "For Art's Sake",
+    "tt": 649382,
+    "air_date": "1989-12-14",
+    "description": "Manhattan hotel owner Daniel Travers is believed by intelligence to run an extensive side-line operation collecting and dealing in stolen art. The latest acquisition to his alleged stolen art collection is assumed to be a valuable Montoya painting on loan to the Manhattan Art Museum from the country of San Marcos. The painting having recently been stolen from the art museum, this has been established as a catastrophe for the United States, and for which the US will be forever blamed and hated by the people of San Marcos. Jim Phelps and his team of agents get the mission to locate Travers's private collection of stolen art, to return the Montoya painting to the people of San Marcos, and to bring Travers to justice once and for all.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Alex Cord",
+        "nm": 179376,
+        "roles": [
+          {
+            "char": "Travers"
+          }
+        ]
+      },
+      {
+        "name": "David Bradshaw",
+        "nm": 103479,
+        "roles": [
+          {
+            "char": "Minister Ocha"
+          }
+        ]
+      },
+      {
+        "name": "William Ten Eyck",
+        "nm": 854836,
+        "roles": [
+          {
+            "char": "Danmeer",
+            "as Bill Ten Eyck": true
+          }
+        ]
+      },
+      {
+        "name": "Shelsea Brown",
+        "nm": 6186204,
+        "roles": [
+          {
+            "char": "Ballet Teacher"
+          }
+        ]
+      },
+      {
+        "name": "Claudio Parente",
+        "nm": 6186205,
+        "roles": [
+          {
+            "char": "Adjutant"
+          }
+        ]
+      },
+      {
+        "name": "Chris Lee",
+        "nm": 6186206,
+        "roles": [
+          {
+            "char": "New York Cop"
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Deadly Harvest",
+    "tt": 649381,
+    "air_date": "1990-01-06",
+    "description": "Yousef K, Minister of Science and Development in the country of Orambaq, is hoping to make his country rich and powerful by using his scientist friend Jared's development of a dangerous genetic virus. The virus being set to destroy the entire countries' wheat harvest for more than 20 years to come, K intends to force governments around the world to abide to his rules and demands by threatening to unleash the virus onto the wheat fields of the United States. Jim Phelps and his team of agents are sent to Orambaq with the mission to destroy this genetic virus before it can be unleashed, and to wreck Yousef K's project at its base.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tracey Callander",
+        "nm": 130310,
+        "roles": [
+          {
+            "char": "Laurel Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Ritchie Singer",
+        "nm": 802032,
+        "roles": [
+          {
+            "char": "Jouseff K."
+          }
+        ]
+      },
+      {
+        "name": "Leo Taylor",
+        "nm": 852765,
+        "roles": [
+          {
+            "char": "General Hakim"
+          }
+        ]
+      },
+      {
+        "name": "George Vidalis",
+        "nm": 896432,
+        "roles": [
+          {
+            "char": "Mukhta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "Cargo Cult",
+    "tt": 649377,
+    "air_date": "1990-01-13",
+    "description": "Jim Phelps and his team of agents get the mission to discover who or what is behind the recent deaths of hundreds of people in the pacific island state of New Belgium. Appearing as the dead people in question have been poisoned with cyanide, it could very likely have something to do with the new findings of gold in New Belgium and the illegal gold mining operation run by Michael Otagi.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ian Rawlings",
+        "nm": 712608,
+        "roles": [
+          {
+            "char": "Gibbs"
+          }
+        ]
+      },
+      {
+        "name": "Lani John Tupu",
+        "nm": 876818,
+        "roles": [
+          {
+            "char": "Otagi"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Wright",
+        "nm": 942180,
+        "roles": [
+          {
+            "char": "Regehr"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "The Assassin",
+    "tt": 649388,
+    "air_date": "1990-01-20",
+    "description": "Several important people in very high positions around the world have during the latest year been assassinated by someone very close to them - such as for instance their personal advisor or private secretary. In every case, the assassin died soon after having performed the deed - not surviving long enough to be interrogated or to disclose any motive. The only apparent thing that the assassins had in common is that they all at one time or another had been patients at an exclusive stress clinic for the rich and famous, run by Dr Philip Westerly. Seeing as Dr Westerly has also been spotted on video footage taken at the scene before several of the murders took place, it is believed that Westerly is the key to the assassinations and the method with which they were performed. Jim Phelps and his team of agents are assigned to the mission of infiltrating the stress clinic; to discover how Dr Westerly sets up his assassinations, and to put him out of the murdering business for good.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Curtin",
+        "nm": 193217,
+        "roles": [
+          {
+            "char": "Dr. Philip Westerly"
+          }
+        ]
+      },
+      {
+        "name": "Paul Dawber",
+        "nm": 205897,
+        "roles": [
+          {
+            "char": "Male Nurse"
+          }
+        ]
+      },
+      {
+        "name": "John Higginson",
+        "nm": 383523,
+        "roles": [
+          {
+            "char": "The Aide"
+          }
+        ]
+      },
+      {
+        "name": "Colin Vancao",
+        "nm": 888490,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "The Gunslinger",
+    "tt": 649398,
+    "air_date": "1990-02-03",
+    "description": "FBI-agent Abel Russell, investigating the alleged possibility of American support to foreign terrorists, disappeared as he followed a trail leading to the tourist resort of Pontiac. Pontiac, a recreated gold mining town from 19th century America, is run by former US congressman Ian McClintock, who, through retired from political life, remains an influential figure in US politics. American intelligence now believe that McClintock may be using Pontiac as a cover for selling weapons to foreign terrorists. However, his influence and political connections makes it impossible for both the police and the FBI to investigate this notion further. Jim Phelps and his team of agents get the mission to go undercover in Pontiac; to discover if McClintock really is dealing arms to terrorists, if he is responsible for the disappearance of Abel Russell, and, if he is guilty, bring him to justice.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Carter"
+          }
+        ]
+      },
+      {
+        "name": "D.J. Foster",
+        "nm": 287744,
+        "roles": [
+          {
+            "char": "Russell"
+          }
+        ]
+      },
+      {
+        "name": "Michael Greene",
+        "nm": 338867,
+        "roles": [
+          {
+            "char": "Ian McClintock"
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hulme",
+        "nm": 401513,
+        "roles": [
+          {
+            "char": "Photographer"
+          }
+        ]
+      },
+      {
+        "name": "Tony Rickards",
+        "nm": 725456,
+        "roles": [
+          {
+            "char": "Mel"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Ward",
+        "nm": 911774,
+        "roles": [
+          {
+            "char": "Slade"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E15",
+    "title": "Church Bells in Bogota",
+    "tt": 649378,
+    "air_date": "1990-02-10",
+    "description": "In Colombia, influential drug lords have over recent years gained more and more power and more or less unleashed their own private war on the country's government. Drug baron Esteban Magdalena is responsible for the latest deed in a long campaign of terror - the murder of Judge Juan Silvero - hoping that the Colombian government will be so intimidated by his massive rule of terror that they will hand over power. Hiding away in his Colombian high security mansion, Magdalena has long been wanted in several different countries, among them the United States, for his extensive drug trafficking around the world. Jim Phelps and his team of agents get the mission to extradite Magdalena to the US, so that he can stand trial.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Long",
+        "nm": 519109,
+        "roles": [
+          {
+            "char": "Sanchez"
+          }
+        ]
+      },
+      {
+        "name": "Henri Szeps",
+        "nm": 844002,
+        "roles": [
+          {
+            "char": "Esteban Magdelena"
+          }
+        ]
+      },
+      {
+        "name": "Tony Xauet",
+        "nm": 944370,
+        "roles": [
+          {
+            "char": "Luis Magdalena"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E16",
+    "title": "The Sands of Seth",
+    "tt": 649406,
+    "air_date": "1990-02-24",
+    "description": "During the last few months, several high officials in the Egyptian government have been found murdered by a brutal form of strangulation. It is believed that Horus Selim, director of the prestigious Museum of the Ancients in Egypt, is somehow involved with the killings. Selim firmly believes that Egypt should try its hardest to return to its glorious and powerful past when ruled by Pharaohs, and has long criticised any government policies trying to start negotiations and alliances with other countries. Jim Phelps and his team of agents are sent to Egypt on a mission to determine whether or not Selim really did have something to do with these murders, and to make the killings stop before they interfere with impending peace talks in the Middle East.",
+    "cast": [
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Jim Phelps",
+            "ch": 2299
+          }
+        ]
+      },
+      {
+        "name": "Thaao Penghlis",
+        "nm": 671837,
+        "roles": [
+          {
+            "char": "Nicholas Black",
+            "ch": 2328
+          }
+        ]
+      },
+      {
+        "name": "Antony Hamilton",
+        "nm": 357737,
+        "roles": [
+          {
+            "char": "Max Harte",
+            "ch": 2329,
+            "as Tony Hamilton": true
+          }
+        ]
+      },
+      {
+        "name": "Phil Morris",
+        "nm": 606862,
+        "roles": [
+          {
+            "char": "Grant Collier",
+            "ch": 2319
+          }
+        ]
+      },
+      {
+        "name": "Jane Badler",
+        "nm": 826,
+        "roles": [
+          {
+            "char": "Shannon Reed",
+            "ch": 2317
+          }
+        ]
+      },
+      {
+        "name": "Bob Johnson",
+        "nm": 424614,
+        "roles": [
+          {
+            "char": "Voice on Disc",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Carman",
+        "nm": 138327,
+        "roles": [
+          {
+            "char": "Serapis"
+          }
+        ]
+      },
+      {
+        "name": "Tim Elliott",
+        "nm": 254338,
+        "roles": [
+          {
+            "char": "Horace Selim"
+          }
+        ]
+      },
+      {
+        "name": "Denzil Howson",
+        "nm": 398270,
+        "roles": [
+          {
+            "char": "Farthay"
+          }
+        ]
+      },
+      {
+        "name": "Gerard Kennedy",
+        "nm": 448047,
+        "roles": [
+          {
+            "char": "Karnak"
+          }
+        ]
+      }
+    ]
+  }
+]

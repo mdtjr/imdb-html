@@ -1,0 +1,1228 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Fire Down Below",
+    "tt": 594742,
+    "air_date": "1990-03-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Mahoney",
+        "nm": 1498,
+        "roles": [
+          {
+            "char": "Chief Patrick Meacham",
+            "ch": 285592
+          }
+        ]
+      },
+      {
+        "name": "Tom Bresnahan",
+        "nm": 107763,
+        "roles": [
+          {
+            "char": "Jimmy Ryan",
+            "ch": 285591
+          }
+        ]
+      },
+      {
+        "name": "David Caruso",
+        "nm": 325,
+        "roles": [
+          {
+            "char": "Off. Frank Sordoni",
+            "ch": 285590
+          }
+        ]
+      },
+      {
+        "name": "Lance Edwards",
+        "nm": 250153,
+        "roles": [
+          {
+            "char": "Mike Pappas",
+            "ch": 325328
+          }
+        ]
+      },
+      {
+        "name": "Kim Flowers",
+        "nm": 283200,
+        "roles": [
+          {
+            "char": "Suki Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Monaghan",
+        "nm": 597493,
+        "roles": [
+          {
+            "char": "Jean Ballantry"
+          }
+        ]
+      },
+      {
+        "name": "Wesley Snipes",
+        "nm": 648,
+        "roles": [
+          {
+            "char": "Off. Lou Barton"
+          }
+        ]
+      },
+      {
+        "name": "Joe Urla",
+        "nm": 881991,
+        "roles": [
+          {
+            "char": "Off. Larry Alba",
+            "ch": 325327
+          }
+        ]
+      },
+      {
+        "name": "Fionnula Flanagan",
+        "nm": 1217,
+        "roles": [
+          {
+            "char": "Kathleen Meacham"
+          }
+        ]
+      },
+      {
+        "name": "Neal Benari",
+        "nm": 70009,
+        "roles": [
+          {
+            "char": "Stan",
+            "as Neal Ben-Ari": true
+          }
+        ]
+      },
+      {
+        "name": "Jack Bittner",
+        "nm": 84567,
+        "roles": [
+          {
+            "char": "Old Man"
+          }
+        ]
+      },
+      {
+        "name": "Charles Blackwell",
+        "nm": 85881,
+        "roles": [
+          {
+            "char": "Deputy Mayor"
+          }
+        ]
+      },
+      {
+        "name": "John Brady",
+        "nm": 103650,
+        "roles": [
+          {
+            "char": "Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Tom Brennan",
+        "nm": 107419,
+        "roles": [
+          {
+            "char": "Commissioner O'Neal"
+          }
+        ]
+      },
+      {
+        "name": "Judson Camp",
+        "nm": 131998,
+        "roles": [
+          {
+            "char": "Dark Glasses"
+          }
+        ]
+      },
+      {
+        "name": "Rory Cochrane",
+        "nm": 168262,
+        "roles": [
+          {
+            "char": "Second Kid"
+          }
+        ]
+      },
+      {
+        "name": "Peter Crombie",
+        "nm": 188598,
+        "roles": [
+          {
+            "char": "Mr. Perry"
+          }
+        ]
+      },
+      {
+        "name": "Margaret Devine",
+        "nm": 222645,
+        "roles": [
+          {
+            "char": "Tanya"
+          }
+        ]
+      },
+      {
+        "name": "Frank Elmore",
+        "nm": 255455,
+        "roles": [
+          {
+            "char": "Roger Palomino"
+          }
+        ]
+      },
+      {
+        "name": "Greg Germann",
+        "nm": 314524,
+        "roles": [
+          {
+            "char": "Lacy"
+          }
+        ]
+      },
+      {
+        "name": "Fanni Green",
+        "nm": 337839,
+        "roles": [
+          {
+            "char": "Woman"
+          }
+        ]
+      },
+      {
+        "name": "Yvette Hawkins",
+        "nm": 370256,
+        "roles": [
+          {
+            "char": "Edwards"
+          }
+        ]
+      },
+      {
+        "name": "David Leary",
+        "nm": 495251,
+        "roles": [
+          {
+            "char": "Fire Inspector Wright"
+          }
+        ]
+      },
+      {
+        "name": "Kay Tong Lim",
+        "nm": 510558,
+        "roles": [
+          {
+            "char": "Danny Tran"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Marrero",
+        "nm": 550131,
+        "roles": [
+          {
+            "char": "Man With Crutch"
+          }
+        ]
+      },
+      {
+        "name": "Malachy McCourt",
+        "nm": 566663,
+        "roles": [
+          {
+            "char": "Gretser"
+          }
+        ]
+      },
+      {
+        "name": "James McDaniel",
+        "nm": 5206,
+        "roles": [
+          {
+            "char": "Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Denise Mickelbury",
+        "nm": 585297,
+        "roles": [
+          {
+            "char": "Macy"
+          }
+        ]
+      },
+      {
+        "name": "Michael P. Moran",
+        "nm": 602930,
+        "roles": [
+          {
+            "char": "Captain Cragie"
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Terrance"
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Root"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Pastore",
+        "nm": 665114,
+        "roles": [
+          {
+            "char": "Fireman"
+          }
+        ]
+      },
+      {
+        "name": "Joe Pentangelo",
+        "nm": 672350,
+        "roles": [
+          {
+            "char": "Trucker"
+          }
+        ]
+      },
+      {
+        "name": "Don Peoples",
+        "nm": 672460,
+        "roles": [
+          {
+            "char": "Van Speed"
+          }
+        ]
+      },
+      {
+        "name": "John Ramsey",
+        "nm": 709013,
+        "roles": [
+          {
+            "char": "Bentinck"
+          }
+        ]
+      },
+      {
+        "name": "James Rebhorn",
+        "nm": 714310,
+        "roles": [
+          {
+            "char": "Perry"
+          }
+        ]
+      },
+      {
+        "name": "J. Smith-Cameron",
+        "nm": 810397,
+        "roles": [
+          {
+            "char": "Mrs. Perry"
+          }
+        ]
+      },
+      {
+        "name": "John Spencer",
+        "nm": 817983,
+        "roles": [
+          {
+            "char": "Valery"
+          }
+        ]
+      },
+      {
+        "name": "Brad Sullivan",
+        "nm": 837976,
+        "roles": [
+          {
+            "char": "Daly"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Tessiero",
+        "nm": 856387,
+        "roles": [
+          {
+            "char": "Fireman"
+          }
+        ]
+      },
+      {
+        "name": "Margaret Thomson",
+        "nm": 861044,
+        "roles": [
+          {
+            "char": "Woman #1"
+          }
+        ]
+      },
+      {
+        "name": "David E. Weinberg",
+        "nm": 918108,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Wolfert",
+        "nm": 938186,
+        "roles": [
+          {
+            "char": "Fireman"
+          }
+        ]
+      },
+      {
+        "name": "Jose Ynoa",
+        "nm": 948257,
+        "roles": [
+          {
+            "char": "Kid"
+          }
+        ]
+      },
+      {
+        "name": "William Youmans",
+        "nm": 949208,
+        "roles": [
+          {
+            "char": "The Bomber"
+          }
+        ]
+      },
+      {
+        "name": "Cinti Laird",
+        "nm": 2706839,
+        "roles": [
+          {
+            "char": "Emergency Medical Technician",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Are You There, Alpha Centauri?",
+    "tt": 594741,
+    "air_date": "1990-03-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Mahoney",
+        "nm": 1498,
+        "roles": [
+          {
+            "char": "Chief Patrick Meacham",
+            "ch": 285592
+          }
+        ]
+      },
+      {
+        "name": "Tom Bresnahan",
+        "nm": 107763,
+        "roles": [
+          {
+            "char": "Jimmy Ryan",
+            "ch": 285591
+          }
+        ]
+      },
+      {
+        "name": "David Caruso",
+        "nm": 325,
+        "roles": [
+          {
+            "char": "Off. Frank Sordoni",
+            "ch": 285590
+          }
+        ]
+      },
+      {
+        "name": "Lance Edwards",
+        "nm": 250153,
+        "roles": [
+          {
+            "char": "Mike Pappas",
+            "ch": 325328
+          }
+        ]
+      },
+      {
+        "name": "Kim Flowers",
+        "nm": 283200,
+        "roles": [
+          {
+            "char": "Suki Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Monaghan",
+        "nm": 597493,
+        "roles": [
+          {
+            "char": "Jean Ballantry"
+          }
+        ]
+      },
+      {
+        "name": "Wesley Snipes",
+        "nm": 648,
+        "roles": [
+          {
+            "char": "Off. Lou Barton"
+          }
+        ]
+      },
+      {
+        "name": "Joe Urla",
+        "nm": 881991,
+        "roles": [
+          {
+            "char": "Off. Larry Alba",
+            "ch": 325327
+          }
+        ]
+      },
+      {
+        "name": "Fionnula Flanagan",
+        "nm": 1217,
+        "roles": [
+          {
+            "char": "Kathleen Meacham"
+          }
+        ]
+      },
+      {
+        "name": "Neal Benari",
+        "nm": 70009,
+        "roles": [
+          {
+            "char": "Stan Plover",
+            "as Neal Ben-Ari": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Buell",
+        "nm": 119144,
+        "roles": [
+          {
+            "char": "Fuller"
+          }
+        ]
+      },
+      {
+        "name": "Nora Cole",
+        "nm": 170721,
+        "roles": [
+          {
+            "char": "Homeless Woman"
+          }
+        ]
+      },
+      {
+        "name": "John Henry Cox",
+        "nm": 185099,
+        "roles": [
+          {
+            "char": "Policeman #1"
+          }
+        ]
+      },
+      {
+        "name": "Tony Devon",
+        "nm": 222881,
+        "roles": [
+          {
+            "char": "Lt. Daniels"
+          }
+        ]
+      },
+      {
+        "name": "John Henry Kurtz",
+        "nm": 476035,
+        "roles": [
+          {
+            "char": "Calwin"
+          }
+        ]
+      },
+      {
+        "name": "Joan Levy",
+        "nm": 506473,
+        "roles": [
+          {
+            "char": "Judith"
+          }
+        ]
+      },
+      {
+        "name": "Aida Linares",
+        "nm": 511004,
+        "roles": [
+          {
+            "char": "Elsie"
+          }
+        ]
+      },
+      {
+        "name": "Peter McRobbie",
+        "nm": 574513,
+        "roles": [
+          {
+            "char": "Dr. Sanford"
+          }
+        ]
+      },
+      {
+        "name": "Denise Mickelbury",
+        "nm": 585297,
+        "roles": [
+          {
+            "char": "Betty Macy"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Neill",
+        "nm": 642259,
+        "roles": [
+          {
+            "char": "Cabot"
+          }
+        ]
+      },
+      {
+        "name": "Anne Pitoniak",
+        "nm": 685771,
+        "roles": [
+          {
+            "char": "Mrs. McKee"
+          }
+        ]
+      },
+      {
+        "name": "Christina Ricci",
+        "nm": 207,
+        "roles": [
+          {
+            "char": "Olivia"
+          }
+        ]
+      },
+      {
+        "name": "Roger Rignack",
+        "nm": 726773,
+        "roles": [
+          {
+            "char": "Policeman #2"
+          }
+        ]
+      },
+      {
+        "name": "John Spencer",
+        "nm": 817983,
+        "roles": [
+          {
+            "char": "Valery"
+          }
+        ]
+      },
+      {
+        "name": "Ray Virta",
+        "nm": 899442,
+        "roles": [
+          {
+            "char": "Paramedic"
+          }
+        ]
+      },
+      {
+        "name": "F.X. Vitolo",
+        "nm": 900067,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Daniel von Bargen",
+        "nm": 901926,
+        "roles": [
+          {
+            "char": "Whitehall",
+            "as Daniel Von Bargen": true
+          }
+        ]
+      },
+      {
+        "name": "Ann Yen",
+        "nm": 947441,
+        "roles": [
+          {
+            "char": "Marilyn Li"
+          }
+        ]
+      },
+      {
+        "name": "Richard Ziman",
+        "nm": 956538,
+        "roles": [
+          {
+            "char": "Toobie"
+          }
+        ]
+      },
+      {
+        "name": "Tim Douglas",
+        "nm": 1290188,
+        "roles": [
+          {
+            "char": "Principle",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Cinti Laird",
+        "nm": 2706839,
+        "roles": [
+          {
+            "char": "Emergency Medical Technician",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "The Children's Hour",
+    "tt": 863538,
+    "air_date": "1990-03-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Mahoney",
+        "nm": 1498,
+        "roles": [
+          {
+            "char": "Chief Patrick Meacham",
+            "ch": 285592
+          }
+        ]
+      },
+      {
+        "name": "Tom Bresnahan",
+        "nm": 107763,
+        "roles": [
+          {
+            "char": "Jimmy Ryan",
+            "ch": 285591
+          }
+        ]
+      },
+      {
+        "name": "David Caruso",
+        "nm": 325,
+        "roles": [
+          {
+            "char": "Off. Frank Sordoni",
+            "ch": 285590
+          }
+        ]
+      },
+      {
+        "name": "Lance Edwards",
+        "nm": 250153,
+        "roles": [
+          {
+            "char": "Mike Pappas",
+            "ch": 325328
+          }
+        ]
+      },
+      {
+        "name": "Kim Flowers",
+        "nm": 283200,
+        "roles": [
+          {
+            "char": "Suki Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Monaghan",
+        "nm": 597493,
+        "roles": [
+          {
+            "char": "Jean Ballantry"
+          }
+        ]
+      },
+      {
+        "name": "Wesley Snipes",
+        "nm": 648,
+        "roles": [
+          {
+            "char": "Off. Lou Barton"
+          }
+        ]
+      },
+      {
+        "name": "Joe Urla",
+        "nm": 881991,
+        "roles": [
+          {
+            "char": "Off. Larry Alba",
+            "ch": 325327
+          }
+        ]
+      },
+      {
+        "name": "Fionnula Flanagan",
+        "nm": 1217,
+        "roles": [
+          {
+            "char": "Kathleen Meacham"
+          }
+        ]
+      },
+      {
+        "name": "Eugene Byrd",
+        "nm": 126021,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tiger Haynes",
+        "nm": 371561,
+        "roles": [
+          {
+            "char": "Pony Boy"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Mailer",
+        "nm": 537554,
+        "roles": [
+          {
+            "char": "Rolfe"
+          }
+        ]
+      },
+      {
+        "name": "Sharrieff Pugh",
+        "nm": 700061,
+        "roles": [
+          {
+            "char": "Eugene"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Steam Heat",
+    "tt": 1662024,
+    "air_date": "1990-03-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Mahoney",
+        "nm": 1498,
+        "roles": [
+          {
+            "char": "Chief Patrick Meacham",
+            "ch": 285592
+          }
+        ]
+      },
+      {
+        "name": "Tom Bresnahan",
+        "nm": 107763,
+        "roles": [
+          {
+            "char": "Jimmy Ryan",
+            "ch": 285591
+          }
+        ]
+      },
+      {
+        "name": "David Caruso",
+        "nm": 325,
+        "roles": [
+          {
+            "char": "Off. Frank Sordoni",
+            "ch": 285590
+          }
+        ]
+      },
+      {
+        "name": "Lance Edwards",
+        "nm": 250153,
+        "roles": [
+          {
+            "char": "Mike Pappas",
+            "ch": 325328
+          }
+        ]
+      },
+      {
+        "name": "Kim Flowers",
+        "nm": 283200,
+        "roles": [
+          {
+            "char": "Suki Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Monaghan",
+        "nm": 597493,
+        "roles": [
+          {
+            "char": "Jean Ballantry"
+          }
+        ]
+      },
+      {
+        "name": "Wesley Snipes",
+        "nm": 648,
+        "roles": [
+          {
+            "char": "Off. Lou Barton"
+          }
+        ]
+      },
+      {
+        "name": "Joe Urla",
+        "nm": 881991,
+        "roles": [
+          {
+            "char": "Off. Larry Alba",
+            "ch": 325327
+          }
+        ]
+      },
+      {
+        "name": "Fionnula Flanagan",
+        "nm": 1217,
+        "roles": [
+          {
+            "char": "Kathleen Meacham"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Rowland Doroff",
+        "nm": 233956,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lisa Emery",
+        "nm": 256318,
+        "roles": [
+          {
+            "char": "Corinne Butler"
+          }
+        ]
+      },
+      {
+        "name": "Richard Muenz",
+        "nm": 611139,
+        "roles": [
+          {
+            "char": "Paul Butler"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "To Everything, There Is a Season",
+    "tt": 1662171,
+    "air_date": "1990-03-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Mahoney",
+        "nm": 1498,
+        "roles": [
+          {
+            "char": "Chief Patrick Meacham",
+            "ch": 285592
+          }
+        ]
+      },
+      {
+        "name": "Tom Bresnahan",
+        "nm": 107763,
+        "roles": [
+          {
+            "char": "Jimmy Ryan",
+            "ch": 285591
+          }
+        ]
+      },
+      {
+        "name": "David Caruso",
+        "nm": 325,
+        "roles": [
+          {
+            "char": "Off. Frank Sordoni",
+            "ch": 285590
+          }
+        ]
+      },
+      {
+        "name": "Lance Edwards",
+        "nm": 250153,
+        "roles": [
+          {
+            "char": "Mike Pappas",
+            "ch": 325328
+          }
+        ]
+      },
+      {
+        "name": "Kim Flowers",
+        "nm": 283200,
+        "roles": [
+          {
+            "char": "Suki Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Monaghan",
+        "nm": 597493,
+        "roles": [
+          {
+            "char": "Jean Ballantry"
+          }
+        ]
+      },
+      {
+        "name": "Wesley Snipes",
+        "nm": 648,
+        "roles": [
+          {
+            "char": "Off. Lou Barton"
+          }
+        ]
+      },
+      {
+        "name": "Joe Urla",
+        "nm": 881991,
+        "roles": [
+          {
+            "char": "Off. Larry Alba",
+            "ch": 325327
+          }
+        ]
+      },
+      {
+        "name": "Fionnula Flanagan",
+        "nm": 1217,
+        "roles": [
+          {
+            "char": "Kathleen Meacham"
+          }
+        ]
+      },
+      {
+        "name": "Jessie Keosian",
+        "nm": 449086,
+        "roles": [
+          {
+            "char": "Rose"
+          }
+        ]
+      },
+      {
+        "name": "Leib Lensky",
+        "nm": 502229,
+        "roles": [
+          {
+            "char": "Leopold"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Undue Force",
+    "tt": 594743,
+    "air_date": "1990-04-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Mahoney",
+        "nm": 1498,
+        "roles": [
+          {
+            "char": "Chief Patrick Meacham",
+            "ch": 285592
+          }
+        ]
+      },
+      {
+        "name": "Tom Bresnahan",
+        "nm": 107763,
+        "roles": [
+          {
+            "char": "Jimmy Ryan",
+            "ch": 285591
+          }
+        ]
+      },
+      {
+        "name": "David Caruso",
+        "nm": 325,
+        "roles": [
+          {
+            "char": "Off. Frank Sordoni",
+            "ch": 285590
+          }
+        ]
+      },
+      {
+        "name": "Lance Edwards",
+        "nm": 250153,
+        "roles": [
+          {
+            "char": "Mike Pappas",
+            "ch": 325328
+          }
+        ]
+      },
+      {
+        "name": "Kim Flowers",
+        "nm": 283200,
+        "roles": [
+          {
+            "char": "Suki Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Marjorie Monaghan",
+        "nm": 597493,
+        "roles": [
+          {
+            "char": "Jean Ballantry"
+          }
+        ]
+      },
+      {
+        "name": "Wesley Snipes",
+        "nm": 648,
+        "roles": [
+          {
+            "char": "Off. Lou Barton"
+          }
+        ]
+      },
+      {
+        "name": "Joe Urla",
+        "nm": 881991,
+        "roles": [
+          {
+            "char": "Off. Larry Alba",
+            "ch": 325327
+          }
+        ]
+      },
+      {
+        "name": "Fionnula Flanagan",
+        "nm": 1217,
+        "roles": [
+          {
+            "char": "Kathleen Meacham"
+          }
+        ]
+      },
+      {
+        "name": "Vince Cupone",
+        "nm": 135356,
+        "roles": [
+          {
+            "char": "Cop Killer",
+            "as Vinny Capone": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Goteri",
+        "nm": 331772,
+        "roles": [
+          {
+            "char": "Security Guard"
+          }
+        ]
+      },
+      {
+        "name": "Harry O'Reilly",
+        "nm": 642449,
+        "roles": [
+          {
+            "char": "Lute"
+          }
+        ]
+      },
+      {
+        "name": "Don Peoples",
+        "nm": 672460,
+        "roles": [
+          {
+            "char": "Van Speed"
+          }
+        ]
+      },
+      {
+        "name": "William Youmans",
+        "nm": 949208,
+        "roles": [
+
+        ]
+      }
+    ]
+  }
+]

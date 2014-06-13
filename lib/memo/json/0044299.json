@@ -1,0 +1,66 @@
+[
+  {
+    "se": "S??E??",
+    "title": "Episode dated 2 June 1956",
+    "tt": 2432848,
+    "air_date": "1956-06-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Glenn Boyington",
+        "nm": 5305000,
+        "roles": [
+          {
+            "char": "Himself - Guest"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S??E??",
+    "title": "Episode dated 23 March 1957",
+    "tt": 1382163,
+    "air_date": "1957-03-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Vic Damone",
+        "nm": 198954,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Mason Gross",
+        "nm": 343359,
+        "roles": [
+          {
+            "char": "Himself",
+            "as Dr. Mason Gross": true
+          }
+        ]
+      },
+      {
+        "name": "Sam Levenson",
+        "nm": 505273,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      },
+      {
+        "name": "Ed McMahon",
+        "nm": 573012,
+        "roles": [
+          {
+            "char": "Himself - On Screen Announcer"
+          }
+        ]
+      }
+    ]
+  }
+]

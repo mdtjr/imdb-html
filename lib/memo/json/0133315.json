@@ -1,0 +1,2285 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Decoy",
+    "tt": 694291,
+    "air_date": "1989-09-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "Robert Arden",
+        "nm": 34013,
+        "roles": [
+          {
+            "char": "Clinton Dike"
+          }
+        ]
+      },
+      {
+        "name": "Lynsey Baxter",
+        "nm": 62785,
+        "roles": [
+          {
+            "char": "Juliet Isted"
+          }
+        ]
+      },
+      {
+        "name": "Derrick Branche",
+        "nm": 104382,
+        "roles": [
+          {
+            "char": "Antonio Cuesto"
+          }
+        ]
+      },
+      {
+        "name": "Peter Brayham",
+        "nm": 106278,
+        "roles": [
+          {
+            "char": "Peter Peebles"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Brown",
+        "nm": 113095,
+        "roles": [
+          {
+            "char": "Det. Insp. Craven"
+          }
+        ]
+      },
+      {
+        "name": "Jose Dominguez",
+        "nm": 2425489,
+        "roles": [
+          {
+            "char": "Moroccan"
+          }
+        ]
+      },
+      {
+        "name": "John Golightly",
+        "nm": 326494,
+        "roles": [
+          {
+            "char": "Biggadike"
+          }
+        ]
+      },
+      {
+        "name": "Corinne Jaber",
+        "nm": 412976,
+        "roles": [
+          {
+            "char": "Pilar Galdos"
+          }
+        ]
+      },
+      {
+        "name": "Stratford Johns",
+        "nm": 424368,
+        "roles": [
+          {
+            "char": "Sir Bernard Kyle"
+          }
+        ]
+      },
+      {
+        "name": "Vanessa Knox-Mawer",
+        "nm": 461689,
+        "roles": [
+          {
+            "char": "Belinda"
+          }
+        ]
+      },
+      {
+        "name": "Samantha Leverett",
+        "nm": 2426899,
+        "roles": [
+          {
+            "char": "Spanish girl"
+          }
+        ]
+      },
+      {
+        "name": "Steven O'Donnell",
+        "nm": 640838,
+        "roles": [
+          {
+            "char": "Digby",
+            "as Steve O'Donnell": true
+          }
+        ]
+      },
+      {
+        "name": "Christopher Simon",
+        "nm": 800097,
+        "roles": [
+          {
+            "char": "Hussein"
+          }
+        ]
+      },
+      {
+        "name": "Belinda Sinclair",
+        "nm": 801574,
+        "roles": [
+          {
+            "char": "Sarah Curson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Infidels",
+    "tt": 694293,
+    "air_date": "1989-09-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "Dicken Ashworth",
+        "nm": 39319,
+        "roles": [
+          {
+            "char": "German hippy"
+          }
+        ]
+      },
+      {
+        "name": "Paul Bhattacharjee",
+        "nm": 80335,
+        "roles": [
+          {
+            "char": "Prince Jahwad"
+          }
+        ]
+      },
+      {
+        "name": "Paul Brooke",
+        "nm": 111727,
+        "roles": [
+          {
+            "char": "Charles Lighthill"
+          }
+        ]
+      },
+      {
+        "name": "Nadio Fortune",
+        "nm": 287439,
+        "roles": [
+          {
+            "char": "Bodyguard"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Gressieux",
+        "nm": 340370,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Hutchings",
+        "nm": 404232,
+        "roles": [
+          {
+            "char": "James Silverdale"
+          }
+        ]
+      },
+      {
+        "name": "Nina Marc",
+        "nm": 545057,
+        "roles": [
+          {
+            "char": "Saracen secretary"
+          }
+        ]
+      },
+      {
+        "name": "Zia Mohyeddin",
+        "nm": 596109,
+        "roles": [
+          {
+            "char": "Tariq"
+          }
+        ]
+      },
+      {
+        "name": "Henry Moxon",
+        "nm": 610317,
+        "roles": [
+          {
+            "char": "Major-domo"
+          }
+        ]
+      },
+      {
+        "name": "Katy Newell",
+        "nm": 627814,
+        "roles": [
+          {
+            "char": "Cathy"
+          }
+        ]
+      },
+      {
+        "name": "Aftab Sachak",
+        "nm": 755072,
+        "roles": [
+          {
+            "char": "Mahmoud"
+          }
+        ]
+      },
+      {
+        "name": "Nadim Sawalha",
+        "nm": 768022,
+        "roles": [
+          {
+            "char": "Sheikh Sayid Al Kebir"
+          }
+        ]
+      },
+      {
+        "name": "Karl Seth",
+        "nm": 786015,
+        "roles": [
+          {
+            "char": "Youth"
+          }
+        ]
+      },
+      {
+        "name": "Colin Stinton",
+        "nm": 830479,
+        "roles": [
+          {
+            "char": "Lou Grady"
+          }
+        ]
+      },
+      {
+        "name": "Mark Tandy",
+        "nm": 849214,
+        "roles": [
+          {
+            "char": "Miles Gordon"
+          }
+        ]
+      },
+      {
+        "name": "Bridget Turner",
+        "nm": 877436,
+        "roles": [
+          {
+            "char": "Louise Silverdale"
+          }
+        ]
+      },
+      {
+        "name": "Arturo Venegas",
+        "nm": 892992,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Rita Wolf",
+        "nm": 937917,
+        "roles": [
+          {
+            "char": "Princess Rania"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Proof of Death",
+    "tt": 694296,
+    "air_date": "1989-09-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "Francesca Brill",
+        "nm": 109330,
+        "roles": [
+          {
+            "char": "Wendy Sinclair"
+          }
+        ]
+      },
+      {
+        "name": "Norman Chancer",
+        "nm": 151259,
+        "roles": [
+          {
+            "char": "Straker"
+          }
+        ]
+      },
+      {
+        "name": "Sara Clee",
+        "nm": 165920,
+        "roles": [
+          {
+            "char": "Betty Gould"
+          }
+        ]
+      },
+      {
+        "name": "Michael D'Cruze",
+        "nm": 640575,
+        "roles": [
+          {
+            "char": "Zuviria"
+          }
+        ]
+      },
+      {
+        "name": "Nick Dunning",
+        "nm": 242954,
+        "roles": [
+          {
+            "char": "Adam Sinclair"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Farrell",
+        "nm": 268297,
+        "roles": [
+          {
+            "char": "Jonathan Sinclair"
+          }
+        ]
+      },
+      {
+        "name": "Nelson Fernandez",
+        "nm": 273027,
+        "roles": [
+          {
+            "char": "Menard"
+          }
+        ]
+      },
+      {
+        "name": "Mick Ford",
+        "nm": 285795,
+        "roles": [
+          {
+            "char": "Graham Bishop"
+          }
+        ]
+      },
+      {
+        "name": "Roberta Fox",
+        "nm": 289225,
+        "roles": [
+          {
+            "char": "Julia"
+          }
+        ]
+      },
+      {
+        "name": "Andy Lucas",
+        "nm": 524075,
+        "roles": [
+          {
+            "char": "Colonel Marquez Perez"
+          }
+        ]
+      },
+      {
+        "name": "Alfred Molina",
+        "nm": 547,
+        "roles": [
+          {
+            "char": "Jose Morazan"
+          }
+        ]
+      },
+      {
+        "name": "Francisco Morales",
+        "nm": 602610,
+        "roles": [
+          {
+            "char": "Intertel guide"
+          }
+        ]
+      },
+      {
+        "name": "Michael James Reed",
+        "nm": 715594,
+        "roles": [
+          {
+            "char": "Gruber"
+          }
+        ]
+      },
+      {
+        "name": "Samantha Shamplina",
+        "nm": 2422113,
+        "roles": [
+          {
+            "char": "Sally Gould"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Stratt",
+        "nm": 833609,
+        "roles": [
+          {
+            "char": "Clive Gould"
+          }
+        ]
+      },
+      {
+        "name": "Petronilla Whitfield",
+        "nm": 925950,
+        "roles": [
+          {
+            "char": "Female bodyguard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Robbers",
+    "tt": 886186,
+    "air_date": "1989-09-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Into Africa",
+    "tt": 694294,
+    "air_date": "1989-09-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "James Cosmo",
+        "nm": 181920,
+        "roles": [
+          {
+            "char": "Miekera"
+          }
+        ]
+      },
+      {
+        "name": "Ewen Cummins",
+        "nm": 192000,
+        "roles": [
+          {
+            "char": "Pedro"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Eichhorn",
+        "nm": 2059,
+        "roles": [
+          {
+            "char": "Delphine Grant"
+          }
+        ]
+      },
+      {
+        "name": "Alphonsia Emmanuel",
+        "nm": 256456,
+        "roles": [
+          {
+            "char": "Mrs. Oriko"
+          }
+        ]
+      },
+      {
+        "name": "Geff Francis",
+        "nm": 290162,
+        "roles": [
+          {
+            "char": "Bandu"
+          }
+        ]
+      },
+      {
+        "name": "Robbie Gee",
+        "nm": 311563,
+        "roles": [
+          {
+            "char": "Fanzu"
+          }
+        ]
+      },
+      {
+        "name": "Dave Holland",
+        "nm": 390649,
+        "roles": [
+          {
+            "char": "Peter Ives"
+          }
+        ]
+      },
+      {
+        "name": "Eugene Lipinski",
+        "nm": 513468,
+        "roles": [
+          {
+            "char": "Barskov"
+          }
+        ]
+      },
+      {
+        "name": "Andy Serkis",
+        "nm": 785227,
+        "roles": [
+          {
+            "char": "Dudin"
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Terris",
+        "nm": 855906,
+        "roles": [
+          {
+            "char": "De Silva"
+          }
+        ]
+      },
+      {
+        "name": "William Vanderpuye",
+        "nm": 888841,
+        "roles": [
+          {
+            "char": "Commandante"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Starcross",
+    "tt": 694299,
+    "air_date": "1989-10-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Drury",
+        "nm": 238644,
+        "roles": [
+          {
+            "char": "Bernard McGrath"
+          }
+        ]
+      },
+      {
+        "name": "Zohra El Harrack",
+        "nm": 252671,
+        "roles": [
+          {
+            "char": "Arab girl"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Fairley",
+        "nm": 265610,
+        "roles": [
+          {
+            "char": "Maeve"
+          }
+        ]
+      },
+      {
+        "name": "Suzanna Hamilton",
+        "nm": 358180,
+        "roles": [
+          {
+            "char": "Dr. Carmel McGrath"
+          }
+        ]
+      },
+      {
+        "name": "Martin Harvey",
+        "nm": 367631,
+        "roles": [
+          {
+            "char": "Dominic Barber"
+          }
+        ]
+      },
+      {
+        "name": "Tom Hickey",
+        "nm": 382675,
+        "roles": [
+          {
+            "char": "Monsignor O'Halloran"
+          }
+        ]
+      },
+      {
+        "name": "Yannis Lazarides",
+        "nm": 2352593,
+        "roles": [
+          {
+            "char": "Bodyguard"
+          }
+        ]
+      },
+      {
+        "name": "Marc Murphy",
+        "nm": 2421137,
+        "roles": [
+          {
+            "char": "Young Daniel"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Hagan",
+        "nm": 641149,
+        "roles": [
+          {
+            "char": "Declan Toomey"
+          }
+        ]
+      },
+      {
+        "name": "Gerard O'Hare",
+        "nm": 641358,
+        "roles": [
+          {
+            "char": "Liam Fogarty"
+          }
+        ]
+      },
+      {
+        "name": "John Rees",
+        "nm": 715919,
+        "roles": [
+          {
+            "char": "Poacher"
+          }
+        ]
+      },
+      {
+        "name": "Linus Roache",
+        "nm": 730070,
+        "roles": [
+          {
+            "char": "Daniel McAvaddy"
+          }
+        ]
+      },
+      {
+        "name": "Maggie Shevlin",
+        "nm": 792953,
+        "roles": [
+          {
+            "char": "Breda Toomey"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Walsh",
+        "nm": 2423410,
+        "roles": [
+          {
+            "char": "SAS Man"
+          }
+        ]
+      },
+      {
+        "name": "Wendy Williams",
+        "nm": 931923,
+        "roles": [
+          {
+            "char": "Dominic's grandmother"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Tooth and Claw",
+    "tt": 694301,
+    "air_date": "1989-10-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Barlow",
+        "nm": 55256,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "James Coombes",
+        "nm": 177703,
+        "roles": [
+          {
+            "char": "Vassal"
+          }
+        ]
+      },
+      {
+        "name": "Leo Dolan",
+        "nm": 230812,
+        "roles": [
+          {
+            "char": "Telecom driver"
+          }
+        ]
+      },
+      {
+        "name": "Alastair Duncan",
+        "nm": 241885,
+        "roles": [
+          {
+            "char": "Simon Bleasdale",
+            "as Neil Duncan": true
+          }
+        ]
+      },
+      {
+        "name": "Lynette Dundas",
+        "nm": 2423084,
+        "roles": [
+          {
+            "char": "Jennifer Gazebee"
+          }
+        ]
+      },
+      {
+        "name": "David Hargreaves",
+        "nm": 362961,
+        "roles": [
+          {
+            "char": "Dr. Cloister"
+          }
+        ]
+      },
+      {
+        "name": "Chris Humphreys",
+        "nm": 401977,
+        "roles": [
+          {
+            "char": "Bonallack"
+          }
+        ]
+      },
+      {
+        "name": "Nina Marc",
+        "nm": 545057,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "Allan Mitchell",
+        "nm": 593113,
+        "roles": [
+          {
+            "char": "President"
+          }
+        ]
+      },
+      {
+        "name": "Lee Montague",
+        "nm": 598777,
+        "roles": [
+          {
+            "char": "Professor O'Neill"
+          }
+        ]
+      },
+      {
+        "name": "Gerard Murphy",
+        "nm": 614283,
+        "roles": [
+          {
+            "char": "Features editor"
+          }
+        ]
+      },
+      {
+        "name": "Robert Oates",
+        "nm": 643098,
+        "roles": [
+          {
+            "char": "Security man"
+          }
+        ]
+      },
+      {
+        "name": "Martin Phillips",
+        "nm": 680626,
+        "roles": [
+          {
+            "char": "Gary"
+          }
+        ]
+      },
+      {
+        "name": "Paul Raffield",
+        "nm": 706293,
+        "roles": [
+          {
+            "char": "Tony"
+          }
+        ]
+      },
+      {
+        "name": "Sukie Smith",
+        "nm": 810058,
+        "roles": [
+          {
+            "char": "Gillian"
+          }
+        ]
+      },
+      {
+        "name": "David Sterne",
+        "nm": 827664,
+        "roles": [
+          {
+            "char": "Detective Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Vickery Turner",
+        "nm": 877929,
+        "roles": [
+          {
+            "char": "Betsy O'Neill"
+          }
+        ]
+      },
+      {
+        "name": "Richard Walker",
+        "nm": 908140,
+        "roles": [
+          {
+            "char": "Terry Nesbitt"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Wynter",
+        "nm": 944078,
+        "roles": [
+          {
+            "char": "Editorial assistant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Crossfire",
+    "tt": 694290,
+    "air_date": "1989-10-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "Tariq Alibai",
+        "nm": 19541,
+        "roles": [
+          {
+            "char": "Arab Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Peter Caffrey",
+        "nm": 128460,
+        "roles": [
+          {
+            "char": "Izatt"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Carlton",
+        "nm": 138232,
+        "roles": [
+          {
+            "char": "Carmichael"
+          }
+        ]
+      },
+      {
+        "name": "Lyndam Gregory",
+        "nm": 339884,
+        "roles": [
+          {
+            "char": "Ajlan's friend"
+          }
+        ]
+      },
+      {
+        "name": "Brian Hall",
+        "nm": 355363,
+        "roles": [
+          {
+            "char": "Harris"
+          }
+        ]
+      },
+      {
+        "name": "Annie Hayes",
+        "nm": 370891,
+        "roles": [
+          {
+            "char": "Kitty Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Lou Hirsch",
+        "nm": 386516,
+        "roles": [
+          {
+            "char": "Steve"
+          }
+        ]
+      },
+      {
+        "name": "Stefan Kalipha",
+        "nm": 435875,
+        "roles": [
+          {
+            "char": "Rahman"
+          }
+        ]
+      },
+      {
+        "name": "Steve McFadden",
+        "nm": 568711,
+        "roles": [
+          {
+            "char": "Nash"
+          }
+        ]
+      },
+      {
+        "name": "Akim Mogaji",
+        "nm": 595692,
+        "roles": [
+          {
+            "char": "Ajlan"
+          }
+        ]
+      },
+      {
+        "name": "Derek Newark",
+        "nm": 627610,
+        "roles": [
+          {
+            "char": "Metcalf"
+          }
+        ]
+      },
+      {
+        "name": "Alan Polonsky",
+        "nm": 689797,
+        "roles": [
+          {
+            "char": "Barman"
+          }
+        ]
+      },
+      {
+        "name": "Dinesh Shukia",
+        "nm": 795646,
+        "roles": [
+          {
+            "char": "Ajlan's friend"
+          }
+        ]
+      },
+      {
+        "name": "Ozzie Stevens",
+        "nm": 828670,
+        "roles": [
+          {
+            "char": "Thug"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Ratline",
+    "tt": 694297,
+    "air_date": "1989-10-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "David Barrass",
+        "nm": 56708,
+        "roles": [
+          {
+            "char": "Mayotz"
+          }
+        ]
+      },
+      {
+        "name": "Andrzej Borkowski",
+        "nm": 96945,
+        "roles": [
+          {
+            "char": "Jacek"
+          }
+        ]
+      },
+      {
+        "name": "Tomasz Borkowy",
+        "nm": 96905,
+        "roles": [
+          {
+            "char": "Jan Naughi",
+            "as Tomek Bork": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Culver",
+        "nm": 191741,
+        "roles": [
+          {
+            "char": "Sir Anthony"
+          }
+        ]
+      },
+      {
+        "name": "Martin Harvey",
+        "nm": 367631,
+        "roles": [
+          {
+            "char": "Dominic Barber"
+          }
+        ]
+      },
+      {
+        "name": "Barrie Houghton",
+        "nm": 396439,
+        "roles": [
+          {
+            "char": "Marek",
+            "as Barry Houghton": true
+          }
+        ]
+      },
+      {
+        "name": "Joe Montana",
+        "nm": 598922,
+        "roles": [
+          {
+            "char": "Adam"
+          }
+        ]
+      },
+      {
+        "name": "Bill Moody",
+        "nm": 600449,
+        "roles": [
+          {
+            "char": "Kowalski"
+          }
+        ]
+      },
+      {
+        "name": "Michael Mulkerrin",
+        "nm": 1682892,
+        "roles": [
+          {
+            "char": "Watcher 4D"
+          }
+        ]
+      },
+      {
+        "name": "Martin Stone",
+        "nm": 832038,
+        "roles": [
+          {
+            "char": "Watcher 4A"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Three Blind Mice",
+    "tt": 694300,
+    "air_date": "1989-11-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "Paul Antony-Barber",
+        "nm": 31524,
+        "roles": [
+          {
+            "char": "Lydekker"
+          }
+        ]
+      },
+      {
+        "name": "Clare Byam-Shaw",
+        "nm": 125682,
+        "roles": [
+          {
+            "char": "Rosie"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Day",
+        "nm": 206530,
+        "roles": [
+          {
+            "char": "Terence Swift"
+          }
+        ]
+      },
+      {
+        "name": "James Grout",
+        "nm": 343942,
+        "roles": [
+          {
+            "char": "Donald Bowker"
+          }
+        ]
+      },
+      {
+        "name": "Mike Hayward",
+        "nm": 371781,
+        "roles": [
+          {
+            "char": "Det. Insp. Powys"
+          }
+        ]
+      },
+      {
+        "name": "Hakeem Kae-Kazim",
+        "nm": 434444,
+        "roles": [
+          {
+            "char": "Bazantsi"
+          }
+        ]
+      },
+      {
+        "name": "Gary Kielty",
+        "nm": 1527923,
+        "roles": [
+          {
+            "char": "Carl"
+          }
+        ]
+      },
+      {
+        "name": "Louis Mahoney",
+        "nm": 537158,
+        "roles": [
+          {
+            "char": "Magubane"
+          }
+        ]
+      },
+      {
+        "name": "Al Matthews",
+        "nm": 559922,
+        "roles": [
+          {
+            "char": "Dube"
+          }
+        ]
+      },
+      {
+        "name": "Cyril Nri",
+        "nm": 637666,
+        "roles": [
+          {
+            "char": "Desmond"
+          }
+        ]
+      },
+      {
+        "name": "Elsa O'Toole",
+        "nm": 642847,
+        "roles": [
+          {
+            "char": "Elizabeth"
+          }
+        ]
+      },
+      {
+        "name": "Ken Parry",
+        "nm": 663669,
+        "roles": [
+          {
+            "char": "Madame Noelle"
+          }
+        ]
+      },
+      {
+        "name": "Richard Ridings",
+        "nm": 725956,
+        "roles": [
+          {
+            "char": "Bulmer"
+          }
+        ]
+      },
+      {
+        "name": "Edward Wiley",
+        "nm": 928830,
+        "roles": [
+          {
+            "char": "Bruno Dietz"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Next Year in Jerusalem",
+    "tt": 694295,
+    "air_date": "1989-11-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Chater",
+        "nm": 154021,
+        "roles": [
+          {
+            "char": "Alan Ross"
+          }
+        ]
+      },
+      {
+        "name": "Neil Dudgeon",
+        "nm": 240072,
+        "roles": [
+          {
+            "char": "Jimmy"
+          }
+        ]
+      },
+      {
+        "name": "John Gabriel",
+        "nm": 300237,
+        "roles": [
+          {
+            "char": "Samuel Lisky"
+          }
+        ]
+      },
+      {
+        "name": "Mary Henry",
+        "nm": 377931,
+        "roles": [
+          {
+            "char": "Woman in cafe"
+          }
+        ]
+      },
+      {
+        "name": "Robert Hudson",
+        "nm": 399952,
+        "roles": [
+          {
+            "char": "Don"
+          }
+        ]
+      },
+      {
+        "name": "Vanessa Knox-Mawer",
+        "nm": 461689,
+        "roles": [
+          {
+            "char": "Belinda"
+          }
+        ]
+      },
+      {
+        "name": "Philip Locke",
+        "nm": 516784,
+        "roles": [
+          {
+            "char": "Richard Stellman"
+          }
+        ]
+      },
+      {
+        "name": "Philip McGough",
+        "nm": 569531,
+        "roles": [
+          {
+            "char": "Charles Harland"
+          }
+        ]
+      },
+      {
+        "name": "David Ryall",
+        "nm": 752379,
+        "roles": [
+          {
+            "char": "Aaron Frankel"
+          }
+        ]
+      },
+      {
+        "name": "Chris Samsworth",
+        "nm": 1422736,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "James Snell",
+        "nm": 811042,
+        "roles": [
+          {
+            "char": "Unknown man"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Spear",
+        "nm": 817287,
+        "roles": [
+          {
+            "char": "Man in cafe"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Walsh",
+        "nm": 2423410,
+        "roles": [
+          {
+            "char": "Electrician"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Whybrow",
+        "nm": 926645,
+        "roles": [
+          {
+            "char": "Taxi driver"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Girls' Talk",
+    "tt": 694292,
+    "air_date": "1989-11-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Benjamin",
+        "nm": 71290,
+        "roles": [
+          {
+            "char": "Charles Saunders"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Clulow",
+        "nm": 167324,
+        "roles": [
+          {
+            "char": "Saunders' secretary"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Douek",
+        "nm": 234784,
+        "roles": [
+          {
+            "char": "Arnold T Krantz III"
+          }
+        ]
+      },
+      {
+        "name": "Clive Francis",
+        "nm": 290117,
+        "roles": [
+          {
+            "char": "Dr. Robert Barkstone"
+          }
+        ]
+      },
+      {
+        "name": "Dagmar Franz",
+        "nm": 2421120,
+        "roles": [
+          {
+            "char": "Lecturer"
+          }
+        ]
+      },
+      {
+        "name": "Pippa Guard",
+        "nm": 345305,
+        "roles": [
+          {
+            "char": "Veronica Mills"
+          }
+        ]
+      },
+      {
+        "name": "Wolf Kahler",
+        "nm": 434759,
+        "roles": [
+          {
+            "char": "Herr Bauer"
+          }
+        ]
+      },
+      {
+        "name": "Ahmed Khalil",
+        "nm": 451089,
+        "roles": [
+          {
+            "char": "Bassam"
+          }
+        ]
+      },
+      {
+        "name": "Anna Korwin",
+        "nm": 466821,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Mostyn"
+          }
+        ]
+      },
+      {
+        "name": "Lindsey Lomax",
+        "nm": 518265,
+        "roles": [
+          {
+            "char": "Cosmetics girl"
+          }
+        ]
+      },
+      {
+        "name": "Nasser Memarzia",
+        "nm": 578596,
+        "roles": [
+          {
+            "char": "Al Beja Two"
+          }
+        ]
+      },
+      {
+        "name": "Avi Nassa",
+        "nm": 621931,
+        "roles": [
+          {
+            "char": "Al Beja One"
+          }
+        ]
+      },
+      {
+        "name": "Terence Plummer",
+        "nm": 687658,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Oscar Quitak",
+        "nm": 704457,
+        "roles": [
+          {
+            "char": "Warren Carlisle"
+          }
+        ]
+      },
+      {
+        "name": "Alix Refaie",
+        "nm": 716326,
+        "roles": [
+          {
+            "char": "Sadiq Kebir"
+          }
+        ]
+      },
+      {
+        "name": "Jacqueline Roth",
+        "nm": 1942167,
+        "roles": [
+          {
+            "char": "Al Beja woman"
+          }
+        ]
+      },
+      {
+        "name": "Michael Sheard",
+        "nm": 790410,
+        "roles": [
+          {
+            "char": "Dr. Alex Hamilton"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Reaper",
+    "tt": 694298,
+    "air_date": "1989-11-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christian Burgess",
+        "nm": 121267,
+        "roles": [
+          {
+            "char": "David Barber"
+          }
+        ]
+      },
+      {
+        "name": "Patrick James Clarke",
+        "nm": 164937,
+        "roles": [
+          {
+            "char": "Tom Duffy"
+          }
+        ]
+      },
+      {
+        "name": "Michael Byrne",
+        "nm": 126250,
+        "roles": [
+          {
+            "char": "Col. Patrick Ansell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett",
+        "nm": 71838,
+        "roles": [
+          {
+            "char": "Nugent",
+            "ch": 126265
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Lacey",
+        "nm": 479925,
+        "roles": [
+          {
+            "char": "Alice"
+          }
+        ]
+      },
+      {
+        "name": "Joe Ansted",
+        "nm": 2421724,
+        "roles": [
+          {
+            "char": "Trainee"
+          }
+        ]
+      },
+      {
+        "name": "Jolyon Baker",
+        "nm": 48604,
+        "roles": [
+          {
+            "char": "Oliver Thurleigh"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Climie",
+        "nm": 1045053,
+        "roles": [
+          {
+            "char": "Hostage"
+          }
+        ]
+      },
+      {
+        "name": "Jimmi Harkishin",
+        "nm": 363167,
+        "roles": [
+          {
+            "char": "Hazzom"
+          }
+        ]
+      },
+      {
+        "name": "Martin Harvey",
+        "nm": 367631,
+        "roles": [
+          {
+            "char": "Dominic Barber"
+          }
+        ]
+      },
+      {
+        "name": "Terence Harvey",
+        "nm": 367731,
+        "roles": [
+          {
+            "char": "Police Inspector"
+          }
+        ]
+      },
+      {
+        "name": "Ashok Kumar",
+        "nm": 1362566,
+        "roles": [
+          {
+            "char": "Trainee"
+          }
+        ]
+      },
+      {
+        "name": "Lesley Nightingale",
+        "nm": 631467,
+        "roles": [
+          {
+            "char": "Gloria Roberts"
+          }
+        ]
+      },
+      {
+        "name": "Lucy Speed",
+        "nm": 817527,
+        "roles": [
+          {
+            "char": "Vicky Thurleigh"
+          }
+        ]
+      },
+      {
+        "name": "Janet Steel",
+        "nm": 824422,
+        "roles": [
+          {
+            "char": "Lyla"
+          }
+        ]
+      },
+      {
+        "name": "Denise Stephenson",
+        "nm": 827229,
+        "roles": [
+          {
+            "char": "Penelope Thurleigh"
+          }
+        ]
+      },
+      {
+        "name": "Marc Zuber",
+        "nm": 958250,
+        "roles": [
+          {
+            "char": "Tarik Fathy"
+          }
+        ]
+      }
+    ]
+  }
+]

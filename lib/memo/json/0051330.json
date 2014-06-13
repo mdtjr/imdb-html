@@ -1,0 +1,145 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 3670666,
+    "air_date": "1958-12-29",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E1000",
+    "title": "Episode #1.1000",
+    "tt": 3670650,
+    "air_date": "1962-12-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Connell",
+        "nm": 174995,
+        "roles": [
+          {
+            "char": "Dr. David Malone"
+          }
+        ]
+      },
+      {
+        "name": "Nicolas Coster",
+        "nm": 182661,
+        "roles": [
+          {
+            "char": "Dr. Matt Steele #3",
+            "1962-1963": true
+          }
+        ]
+      },
+      {
+        "name": "Augusta Dabney",
+        "nm": 196419,
+        "roles": [
+          {
+            "char": "Tracy Malone #2",
+            "1959-1963": true
+          }
+        ]
+      },
+      {
+        "name": "Michael H. Ingram",
+        "nm": 409011,
+        "roles": [
+          {
+            "char": "Dr. Stefan Koda",
+            "1959": true
+          }
+        ]
+      },
+      {
+        "name": "Judson Laire",
+        "nm": 481997,
+        "roles": [
+          {
+            "char": "Emory Bannister",
+            "1959-1963": true
+          }
+        ]
+      },
+      {
+        "name": "Lesley Woods",
+        "nm": 940683,
+        "roles": [
+          {
+            "char": "Claire Bannister Steele",
+            "1959-1963": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E1072",
+    "title": "Episode #1.1072",
+    "tt": 3670736,
+    "air_date": "1963-03-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Connell",
+        "nm": 174995,
+        "roles": [
+          {
+            "char": "Dr. David Malone"
+          }
+        ]
+      },
+      {
+        "name": "Augusta Dabney",
+        "nm": 196419,
+        "roles": [
+          {
+            "char": "Tracy Malone #2",
+            "1959-1963": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Hardy",
+        "nm": 1023044,
+        "roles": [
+          {
+            "char": "Jill Malone #3",
+            "1962-1963": true
+          }
+        ]
+      },
+      {
+        "name": "Michael H. Ingram",
+        "nm": 409011,
+        "roles": [
+          {
+            "char": "Dr. Stefan Koda",
+            "1959": true
+          }
+        ]
+      },
+      {
+        "name": "Judson Laire",
+        "nm": 481997,
+        "roles": [
+          {
+            "char": "Emory Bannister",
+            "1959-1963": true
+          }
+        ]
+      },
+      {
+        "name": "William Prince",
+        "nm": 697733,
+        "roles": [
+          {
+            "char": "Dr. Jerry Malone"
+          }
+        ]
+      }
+    ]
+  }
+]

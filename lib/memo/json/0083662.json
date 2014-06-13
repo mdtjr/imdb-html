@@ -1,0 +1,908 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Unsere Fahne flattert uns voran",
+    "tt": 2207899,
+    "air_date": "1982-07-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Marlies Engel",
+        "nm": 257120,
+        "roles": [
+          {
+            "char": "Susanne Keller"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Becker",
+        "nm": 65572,
+        "roles": [
+          {
+            "char": "Ernst Keller",
+            "ch": 293840
+          }
+        ]
+      },
+      {
+        "name": "Gila von Weitershausen",
+        "nm": 903212,
+        "roles": [
+          {
+            "char": "Ruth Mönkmann"
+          }
+        ]
+      },
+      {
+        "name": "Karlheinz Lemken",
+        "nm": 501377,
+        "roles": [
+          {
+            "char": "Erwin Mönkmann",
+            "ch": 301513
+          }
+        ]
+      },
+      {
+        "name": "Leslie Malton",
+        "nm": 540804,
+        "roles": [
+          {
+            "char": "Renate Keller"
+          }
+        ]
+      },
+      {
+        "name": "Gedeon Burkhard",
+        "nm": 121972,
+        "roles": [
+          {
+            "char": "Hartmut Keller"
+          }
+        ]
+      },
+      {
+        "name": "Steven Higgs",
+        "nm": 2485203,
+        "roles": [
+          {
+            "char": "Hans Mönkmann"
+          }
+        ]
+      },
+      {
+        "name": "Elisabeth Endriss",
+        "nm": 256903,
+        "roles": [
+          {
+            "char": "Frau Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "Siegfried Kernen",
+        "nm": 449528,
+        "roles": [
+          {
+            "char": "Herr Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "Werner Handrick",
+        "nm": 2150634,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gunther Malzacher",
+        "nm": 540953,
+        "roles": [
+          {
+            "char": "Rudolf Gruber"
+          }
+        ]
+      },
+      {
+        "name": "Günter Meisner",
+        "nm": 577070,
+        "roles": [
+          {
+            "char": "Schneider",
+            "as Günther J. Meissner": true
+          }
+        ]
+      },
+      {
+        "name": "Craig Reid",
+        "nm": 2504208,
+        "roles": [
+          {
+            "char": "Theo Gruber"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Reid",
+        "nm": 2510437,
+        "roles": [
+          {
+            "char": "Friewi Kröbel"
+          }
+        ]
+      },
+      {
+        "name": "David Weidner",
+        "nm": 1646077,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Daniel Neikirk",
+        "nm": 2504985,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Robert Oliver",
+        "nm": 2507799,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Daniel Petrow",
+        "nm": 2504811,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Claus Fuchs",
+        "nm": 297187,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Michael Habeck",
+        "nm": 352138,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Horst Richter",
+        "nm": 725271,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kai Taschner",
+        "nm": 850844,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Frank Schaff",
+        "nm": 769801,
+        "roles": [
+          {
+            "char": "Hans Mönkmann - age 10",
+            "voice: German version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Unsere Fahne ist die neue Zeit",
+    "tt": 2207901,
+    "air_date": "1982-07-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Marlies Engel",
+        "nm": 257120,
+        "roles": [
+          {
+            "char": "Susanne Keller"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Becker",
+        "nm": 65572,
+        "roles": [
+          {
+            "char": "Ernst Keller",
+            "ch": 293840
+          }
+        ]
+      },
+      {
+        "name": "Gila von Weitershausen",
+        "nm": 903212,
+        "roles": [
+          {
+            "char": "Ruth Mönkmann"
+          }
+        ]
+      },
+      {
+        "name": "Karlheinz Lemken",
+        "nm": 501377,
+        "roles": [
+          {
+            "char": "Erwin Mönkmann",
+            "ch": 301513
+          }
+        ]
+      },
+      {
+        "name": "Leslie Malton",
+        "nm": 540804,
+        "roles": [
+          {
+            "char": "Renate Keller"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Frank",
+        "nm": 290974,
+        "roles": [
+          {
+            "char": "Hartmut Keller"
+          }
+        ]
+      },
+      {
+        "name": "Steffen Rübling",
+        "nm": 2506770,
+        "roles": [
+          {
+            "char": "Hans Mönkmann",
+            "as Steven Rübling": true
+          }
+        ]
+      },
+      {
+        "name": "Elisabeth Endriss",
+        "nm": 256903,
+        "roles": [
+          {
+            "char": "Frau Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "Siegfried Kernen",
+        "nm": 449528,
+        "roles": [
+          {
+            "char": "Herr Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "Gunther Malzacher",
+        "nm": 540953,
+        "roles": [
+          {
+            "char": "Rudolf Gruber"
+          }
+        ]
+      },
+      {
+        "name": "Ulrich von Dobschütz",
+        "nm": 902187,
+        "roles": [
+          {
+            "char": "Jungbannführer Fischer",
+            "ch": 301541
+          }
+        ]
+      },
+      {
+        "name": "Bernd Fischerauer",
+        "nm": 279177,
+        "roles": [
+          {
+            "char": "Dr. Zeissler"
+          }
+        ]
+      },
+      {
+        "name": "Franz Rudnick",
+        "nm": 748865,
+        "roles": [
+          {
+            "char": "Dr. Bodenheim"
+          }
+        ]
+      },
+      {
+        "name": "Christa Dubbert",
+        "nm": 2508321,
+        "roles": [
+          {
+            "char": "Frau Kröbel"
+          }
+        ]
+      },
+      {
+        "name": "Elisabeth von Molo",
+        "nm": 597194,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Matt Bader",
+        "nm": 46049,
+        "roles": [
+          {
+            "char": "Theo Gruber"
+          }
+        ]
+      },
+      {
+        "name": "Jakob Fruchtmann",
+        "nm": 2509530,
+        "roles": [
+          {
+            "char": "Franz Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "John Jeffries",
+        "nm": 2507883,
+        "roles": [
+          {
+            "char": "Robert Schienz"
+          }
+        ]
+      },
+      {
+        "name": "Armin Lubberger",
+        "nm": 2508062,
+        "roles": [
+          {
+            "char": "Fritz Krauss"
+          }
+        ]
+      },
+      {
+        "name": "Annegret Schmidt",
+        "nm": 2504365,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jochen Schmidt",
+        "nm": 2509432,
+        "roles": [
+          {
+            "char": "Linus Reger"
+          }
+        ]
+      },
+      {
+        "name": "Aljoscha Walser",
+        "nm": 2508081,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Knut Wettke",
+        "nm": 2506821,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Andrea Wiegner",
+        "nm": 2505973,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Oliver Rohrbeck",
+        "nm": 737591,
+        "roles": [
+          {
+            "char": "Hartmut Keller",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Und die Fahne führt uns in die Ewigkeit",
+    "tt": 2207897,
+    "air_date": "1982-07-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Marlies Engel",
+        "nm": 257120,
+        "roles": [
+          {
+            "char": "Susanne Keller"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Becker",
+        "nm": 65572,
+        "roles": [
+          {
+            "char": "Ernst Keller",
+            "ch": 293840
+          }
+        ]
+      },
+      {
+        "name": "Gila von Weitershausen",
+        "nm": 903212,
+        "roles": [
+          {
+            "char": "Ruth Mönkmann"
+          }
+        ]
+      },
+      {
+        "name": "Karlheinz Lemken",
+        "nm": 501377,
+        "roles": [
+          {
+            "char": "Erwin Mönkmann",
+            "ch": 301513
+          }
+        ]
+      },
+      {
+        "name": "Leslie Malton",
+        "nm": 540804,
+        "roles": [
+          {
+            "char": "Renate Keller"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Frank",
+        "nm": 290974,
+        "roles": [
+          {
+            "char": "Hartmut Keller"
+          }
+        ]
+      },
+      {
+        "name": "Steven Rübling",
+        "nm": 4881327,
+        "roles": [
+          {
+            "char": "Hans Mönkmann"
+          }
+        ]
+      },
+      {
+        "name": "Elisabeth Endriss",
+        "nm": 256903,
+        "roles": [
+          {
+            "char": "Frau Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "Siegfried Kernen",
+        "nm": 449528,
+        "roles": [
+          {
+            "char": "Herr Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "Sven-Eric Bechtolf",
+        "nm": 65049,
+        "roles": [
+          {
+            "char": "Günther Mönkmann"
+          }
+        ]
+      },
+      {
+        "name": "Ulrich von Dobschütz",
+        "nm": 902187,
+        "roles": [
+          {
+            "char": "Jungbannführer Fischer",
+            "ch": 301541
+          }
+        ]
+      },
+      {
+        "name": "Gunther Malzacher",
+        "nm": 540953,
+        "roles": [
+          {
+            "char": "Rudolf Gruber"
+          }
+        ]
+      },
+      {
+        "name": "Erich Will",
+        "nm": 929542,
+        "roles": [
+          {
+            "char": "Polizist Schuch"
+          }
+        ]
+      },
+      {
+        "name": "Franz Rudnick",
+        "nm": 748865,
+        "roles": [
+          {
+            "char": "Dr. Bodenheim"
+          }
+        ]
+      },
+      {
+        "name": "Bernd Fischerauer",
+        "nm": 279177,
+        "roles": [
+          {
+            "char": "Dr. Zeissler"
+          }
+        ]
+      },
+      {
+        "name": "Matt Bader",
+        "nm": 46049,
+        "roles": [
+          {
+            "char": "Theo Gruber"
+          }
+        ]
+      },
+      {
+        "name": "Jakob Fruchtmann",
+        "nm": 2509530,
+        "roles": [
+          {
+            "char": "Franz Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "John Jeffries",
+        "nm": 2507883,
+        "roles": [
+          {
+            "char": "Robert Schienz"
+          }
+        ]
+      },
+      {
+        "name": "Armin Lubberger",
+        "nm": 2508062,
+        "roles": [
+          {
+            "char": "Fritz Krauss"
+          }
+        ]
+      },
+      {
+        "name": "Gabriele Metzker",
+        "nm": 2511350,
+        "roles": [
+          {
+            "char": "Lizzie"
+          }
+        ]
+      },
+      {
+        "name": "Annegret Schmidt",
+        "nm": 2504365,
+        "roles": [
+          {
+            "char": "Hella Mönkmann"
+          }
+        ]
+      },
+      {
+        "name": "Jochen Schmidt",
+        "nm": 2509432,
+        "roles": [
+          {
+            "char": "Linus Reger"
+          }
+        ]
+      },
+      {
+        "name": "Aljoscha Walser",
+        "nm": 2508081,
+        "roles": [
+          {
+            "char": "Friewi Kröbel"
+          }
+        ]
+      },
+      {
+        "name": "Knut Wettke",
+        "nm": 2506821,
+        "roles": [
+          {
+            "char": "Fähnleinführer"
+          }
+        ]
+      },
+      {
+        "name": "Andrea Wiegner",
+        "nm": 2505973,
+        "roles": [
+          {
+            "char": "Elke Kröbel"
+          }
+        ]
+      },
+      {
+        "name": "Oliver Rohrbeck",
+        "nm": 737591,
+        "roles": [
+          {
+            "char": "Hartmut Keller",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Denn die Fahne ist mehr als der Tod",
+    "tt": 2207895,
+    "air_date": "1982-08-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Marlies Engel",
+        "nm": 257120,
+        "roles": [
+          {
+            "char": "Susanne Keller"
+          }
+        ]
+      },
+      {
+        "name": "Rolf Becker",
+        "nm": 65572,
+        "roles": [
+          {
+            "char": "Ernst Keller",
+            "ch": 293840
+          }
+        ]
+      },
+      {
+        "name": "Gila von Weitershausen",
+        "nm": 903212,
+        "roles": [
+          {
+            "char": "Ruth Mönkmann"
+          }
+        ]
+      },
+      {
+        "name": "Karlheinz Lemken",
+        "nm": 501377,
+        "roles": [
+          {
+            "char": "Erwin Mönkmann",
+            "ch": 301513
+          }
+        ]
+      },
+      {
+        "name": "Leslie Malton",
+        "nm": 540804,
+        "roles": [
+          {
+            "char": "Renate Keller"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Frank",
+        "nm": 290974,
+        "roles": [
+          {
+            "char": "Hartmut Keller"
+          }
+        ]
+      },
+      {
+        "name": "Steven Rübling",
+        "nm": 4881327,
+        "roles": [
+          {
+            "char": "Hans Mönkmann"
+          }
+        ]
+      },
+      {
+        "name": "Elisabeth Endriss",
+        "nm": 256903,
+        "roles": [
+          {
+            "char": "Frau Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "Siegfried Kernen",
+        "nm": 449528,
+        "roles": [
+          {
+            "char": "Herr Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "Sven-Eric Bechtolf",
+        "nm": 65049,
+        "roles": [
+          {
+            "char": "Günther Mönkmann"
+          }
+        ]
+      },
+      {
+        "name": "Ulrich von Dobschütz",
+        "nm": 902187,
+        "roles": [
+          {
+            "char": "Jungbannführer Fischer",
+            "ch": 301541
+          }
+        ]
+      },
+      {
+        "name": "Gunther Malzacher",
+        "nm": 540953,
+        "roles": [
+          {
+            "char": "Rudolf Gruber"
+          }
+        ]
+      },
+      {
+        "name": "Kyra Mladeck",
+        "nm": 594809,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Franz Rudnick",
+        "nm": 748865,
+        "roles": [
+          {
+            "char": "Dr. Bodenheim"
+          }
+        ]
+      },
+      {
+        "name": "Bernd Fischerauer",
+        "nm": 279177,
+        "roles": [
+          {
+            "char": "Dr. Zeissler"
+          }
+        ]
+      },
+      {
+        "name": "Matt Bader",
+        "nm": 46049,
+        "roles": [
+          {
+            "char": "Theo Gruber"
+          }
+        ]
+      },
+      {
+        "name": "Jakob Fruchtmann",
+        "nm": 2509530,
+        "roles": [
+          {
+            "char": "Franz Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "John Jeffries",
+        "nm": 2507883,
+        "roles": [
+          {
+            "char": "Robert Schienz"
+          }
+        ]
+      },
+      {
+        "name": "Armin Lubberger",
+        "nm": 2508062,
+        "roles": [
+          {
+            "char": "Fritz Krauss"
+          }
+        ]
+      },
+      {
+        "name": "Annegret Schmidt",
+        "nm": 2504365,
+        "roles": [
+          {
+            "char": "Hella Mönkmann"
+          }
+        ]
+      },
+      {
+        "name": "Jochen Schmidt",
+        "nm": 2509432,
+        "roles": [
+          {
+            "char": "Linus Reger"
+          }
+        ]
+      },
+      {
+        "name": "Knut Wettke",
+        "nm": 2506821,
+        "roles": [
+          {
+            "char": "Fähnleinführer"
+          }
+        ]
+      },
+      {
+        "name": "Heinz Petruo",
+        "nm": 678404,
+        "roles": [
+          {
+            "char": "Narrator, End Sequence",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Oliver Rohrbeck",
+        "nm": 737591,
+        "roles": [
+          {
+            "char": "Hartmut Keller",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  }
+]

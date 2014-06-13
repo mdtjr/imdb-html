@@ -1,0 +1,963 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Edith",
+    "tt": 596374,
+    "air_date": "1985-10-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jennifer Saunders",
+        "nm": 766837,
+        "roles": [
+          {
+            "char": "The Fuddle Family"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Edmondson",
+        "nm": 249528,
+        "roles": [
+          {
+            "char": "Guy Fuddle",
+            "ch": 122837
+          }
+        ]
+      },
+      {
+        "name": "Dawn French",
+        "nm": 294067,
+        "roles": [
+          {
+            "char": "Cook"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Fry",
+        "nm": 410,
+        "roles": [
+          {
+            "char": "Dr. De Quincy",
+            "ch": 65174
+          }
+        ]
+      },
+      {
+        "name": "Helen Lederer",
+        "nm": 496478,
+        "roles": [
+          {
+            "char": "Flossie"
+          }
+        ]
+      },
+      {
+        "name": "Jim Broadbent",
+        "nm": 980,
+        "roles": [
+          {
+            "char": "Dalcroix",
+            "ch": 105840
+          }
+        ]
+      },
+      {
+        "name": "Martin Sadofski",
+        "nm": 1567310,
+        "roles": [
+          {
+            "char": "Hack"
+          }
+        ]
+      },
+      {
+        "name": "Hugh Laurie",
+        "nm": 491402,
+        "roles": [
+          {
+            "char": "Jim",
+            "ch": 105841
+          }
+        ]
+      },
+      {
+        "name": "Francesca Ryan",
+        "nm": 752540,
+        "roles": [
+          {
+            "char": "Press Aide"
+          }
+        ]
+      },
+      {
+        "name": "Michael Sheard",
+        "nm": 790410,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Una Stubbs",
+        "nm": 835939,
+        "roles": [
+          {
+            "char": "Mother Superior"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Cassie",
+    "tt": 596373,
+    "air_date": "1985-10-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jennifer Saunders",
+        "nm": 766837,
+        "roles": [
+          {
+            "char": "Granny Fuddle"
+          },
+          {
+            "char": "Cassie"
+          },
+          {
+            "char": "Madeleine"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Edmondson",
+        "nm": 249528,
+        "roles": [
+          {
+            "char": "Guy Fuddle",
+            "ch": 122837
+          }
+        ]
+      },
+      {
+        "name": "Dawn French",
+        "nm": 294067,
+        "roles": [
+          {
+            "char": "Cook"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Fry",
+        "nm": 410,
+        "roles": [
+          {
+            "char": "Dr. De Quincy",
+            "ch": 65174
+          }
+        ]
+      },
+      {
+        "name": "Helen Lederer",
+        "nm": 496478,
+        "roles": [
+          {
+            "char": "Flossie"
+          }
+        ]
+      },
+      {
+        "name": "Mark Arden",
+        "nm": 33999,
+        "roles": [
+          {
+            "char": "Steve"
+          }
+        ]
+      },
+      {
+        "name": "Christine Armstrong",
+        "nm": 1567077,
+        "roles": [
+          {
+            "char": "Woman in Precinct"
+          }
+        ]
+      },
+      {
+        "name": "Vernon Nesbeth",
+        "nm": 1544499,
+        "roles": [
+          {
+            "char": "Man in Precinct"
+          }
+        ]
+      },
+      {
+        "name": "Helen Atkinson-Wood",
+        "nm": 40814,
+        "roles": [
+          {
+            "char": "Sandy"
+          }
+        ]
+      },
+      {
+        "name": "Chris Barrie",
+        "nm": 57368,
+        "roles": [
+          {
+            "char": "Sammy",
+            "as Christopher Barrie": true
+          }
+        ]
+      },
+      {
+        "name": "Jim Broadbent",
+        "nm": 980,
+        "roles": [
+          {
+            "char": "Dalcroix",
+            "ch": 105840
+          }
+        ]
+      },
+      {
+        "name": "Claude Close",
+        "nm": 167080,
+        "roles": [
+          {
+            "char": "Garage Boss"
+          }
+        ]
+      },
+      {
+        "name": "Colin Meredith",
+        "nm": 580570,
+        "roles": [
+          {
+            "char": "Fan in Studio"
+          }
+        ]
+      },
+      {
+        "name": "Andy de la Tour",
+        "nm": 209426,
+        "roles": [
+          {
+            "char": "General"
+          }
+        ]
+      },
+      {
+        "name": "Christine Edmunds",
+        "nm": 249584,
+        "roles": [
+          {
+            "char": "Maxine"
+          }
+        ]
+      },
+      {
+        "name": "Lenny Henry",
+        "nm": 377901,
+        "roles": [
+          {
+            "char": "Hollywood Hobo"
+          }
+        ]
+      },
+      {
+        "name": "John Lees",
+        "nm": 498727,
+        "roles": [
+          {
+            "char": "Harry the stagehand"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Ryan",
+        "nm": 752474,
+        "roles": [
+          {
+            "char": "Mell"
+          }
+        ]
+      },
+      {
+        "name": "John Sessions",
+        "nm": 785938,
+        "roles": [
+          {
+            "char": "Dean"
+          }
+        ]
+      },
+      {
+        "name": "Steve Steen",
+        "nm": 824797,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Harriet Thorpe",
+        "nm": 861664,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Ruby Wax",
+        "nm": 915375,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Tom Wilkinson",
+        "nm": 929489,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Madeleine",
+    "tt": 596376,
+    "air_date": "1985-10-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jennifer Saunders",
+        "nm": 766837,
+        "roles": [
+          {
+            "char": "Madeleine"
+          },
+          {
+            "char": "Granny Fuddle"
+          },
+          {
+            "char": "Joyce"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Edmondson",
+        "nm": 249528,
+        "roles": [
+          {
+            "char": "Guy Fuddle",
+            "ch": 122837
+          }
+        ]
+      },
+      {
+        "name": "Dawn French",
+        "nm": 294067,
+        "roles": [
+          {
+            "char": "Cook"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Fry",
+        "nm": 410,
+        "roles": [
+          {
+            "char": "Dr. De Quincy",
+            "ch": 65174
+          }
+        ]
+      },
+      {
+        "name": "Helen Lederer",
+        "nm": 496478,
+        "roles": [
+          {
+            "char": "Flossie"
+          }
+        ]
+      },
+      {
+        "name": "Jim Broadbent",
+        "nm": 980,
+        "roles": [
+          {
+            "char": "Dalcroix",
+            "ch": 105840
+          }
+        ]
+      },
+      {
+        "name": "Christine Edmunds",
+        "nm": 249584,
+        "roles": [
+          {
+            "char": "Village matron"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Jefferson",
+        "nm": 420221,
+        "roles": [
+          {
+            "char": "Village Matron"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Fell",
+        "nm": 271403,
+        "roles": [
+          {
+            "char": "Grandpere"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Frost",
+        "nm": 296571,
+        "roles": [
+          {
+            "char": "Village Gendarme"
+          }
+        ]
+      },
+      {
+        "name": "Gareth Hale",
+        "nm": 354907,
+        "roles": [
+          {
+            "char": "Village Man"
+          }
+        ]
+      },
+      {
+        "name": "Norman Pace",
+        "nm": 655154,
+        "roles": [
+          {
+            "char": "Village Man"
+          }
+        ]
+      },
+      {
+        "name": "Judy Hawkins",
+        "nm": 1502321,
+        "roles": [
+          {
+            "char": "Paulette"
+          }
+        ]
+      },
+      {
+        "name": "Ceri Jackson",
+        "nm": 413346,
+        "roles": [
+          {
+            "char": "Sister Ophelia"
+          }
+        ]
+      },
+      {
+        "name": "Norman Lovett",
+        "nm": 522686,
+        "roles": [
+          {
+            "char": "Liverpool Ticket Man"
+          }
+        ]
+      },
+      {
+        "name": "Peter MacQueen",
+        "nm": 534267,
+        "roles": [
+          {
+            "char": "Paul"
+          }
+        ]
+      },
+      {
+        "name": "Rik Mayall",
+        "nm": 562201,
+        "roles": [
+          {
+            "char": "Priest"
+          }
+        ]
+      },
+      {
+        "name": "Nigel Planer",
+        "nm": 686539,
+        "roles": [
+          {
+            "char": "Barman"
+          }
+        ]
+      },
+      {
+        "name": "Lia Williams",
+        "nm": 931165,
+        "roles": [
+          {
+            "char": "Josephine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Joyce",
+    "tt": 596375,
+    "air_date": "1985-11-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jennifer Saunders",
+        "nm": 766837,
+        "roles": [
+          {
+            "char": "Joyce"
+          },
+          {
+            "char": "Roxanne"
+          },
+          {
+            "char": "Granny Fuddle"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Edmondson",
+        "nm": 249528,
+        "roles": [
+          {
+            "char": "Guy Fuddle",
+            "ch": 122837
+          }
+        ]
+      },
+      {
+        "name": "Dawn French",
+        "nm": 294067,
+        "roles": [
+          {
+            "char": "Cook"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Fry",
+        "nm": 410,
+        "roles": [
+          {
+            "char": "Dr. De Quincy",
+            "ch": 65174
+          }
+        ]
+      },
+      {
+        "name": "Josephine Antosz",
+        "nm": 31536,
+        "roles": [
+          {
+            "char": "Hospital Patient"
+          }
+        ]
+      },
+      {
+        "name": "Vikki Chambers",
+        "nm": 1441065,
+        "roles": [
+          {
+            "char": "Sister Prudence"
+          }
+        ]
+      },
+      {
+        "name": "Mary Chester",
+        "nm": 156332,
+        "roles": [
+          {
+            "char": "Shopkeeper"
+          }
+        ]
+      },
+      {
+        "name": "Ceri Jackson",
+        "nm": 413346,
+        "roles": [
+          {
+            "char": "Sister Ophelia"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Smith",
+        "nm": 807364,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Una Stubbs",
+        "nm": 835939,
+        "roles": [
+          {
+            "char": "Mother Superior"
+          }
+        ]
+      },
+      {
+        "name": "Sara Sugarman",
+        "nm": 837406,
+        "roles": [
+          {
+            "char": "Novice Mary"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Symonds",
+        "nm": 843355,
+        "roles": [
+          {
+            "char": "Hospital Sister"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Thomas",
+        "nm": 859495,
+        "roles": [
+          {
+            "char": "Novice Catherine"
+          }
+        ]
+      },
+      {
+        "name": "Claudette Williams",
+        "nm": 1186617,
+        "roles": [
+          {
+            "char": "Jill"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Roxanne",
+    "tt": 596378,
+    "air_date": "1985-11-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jennifer Saunders",
+        "nm": 766837,
+        "roles": [
+          {
+            "char": "Roxanne"
+          },
+          {
+            "char": "Granny Fuddle"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Edmondson",
+        "nm": 249528,
+        "roles": [
+          {
+            "char": "Guy Fuddle",
+            "ch": 122837
+          }
+        ]
+      },
+      {
+        "name": "Dawn French",
+        "nm": 294067,
+        "roles": [
+          {
+            "char": "Cook"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Fry",
+        "nm": 410,
+        "roles": [
+          {
+            "char": "Dr. De Quincy",
+            "ch": 65174
+          }
+        ]
+      },
+      {
+        "name": "Helen Lederer",
+        "nm": 496478,
+        "roles": [
+          {
+            "char": "Flossie"
+          }
+        ]
+      },
+      {
+        "name": "Ben Elton",
+        "nm": 255780,
+        "roles": [
+          {
+            "char": "Roland"
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Glaister",
+        "nm": 321699,
+        "roles": [
+          {
+            "char": "Warder"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Melville",
+        "nm": 578501,
+        "roles": [
+          {
+            "char": "Warder"
+          }
+        ]
+      },
+      {
+        "name": "Carole Hayman",
+        "nm": 371339,
+        "roles": [
+          {
+            "char": "Prison Governor"
+          }
+        ]
+      },
+      {
+        "name": "Carol Hawkins",
+        "nm": 370090,
+        "roles": [
+          {
+            "char": "Television PA"
+          }
+        ]
+      },
+      {
+        "name": "Polly Highton",
+        "nm": 383617,
+        "roles": [
+          {
+            "char": "Ada"
+          }
+        ]
+      },
+      {
+        "name": "Chris Langham",
+        "nm": 486413,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Chris Larner",
+        "nm": 488369,
+        "roles": [
+          {
+            "char": "TV Sound Recordist"
+          }
+        ]
+      },
+      {
+        "name": "Lance Percival",
+        "nm": 672886,
+        "roles": [
+          {
+            "char": "Colonel Soddem"
+          }
+        ]
+      },
+      {
+        "name": "Kieran Prendiville",
+        "nm": 695984,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sandi Toksvig",
+        "nm": 865785,
+        "roles": [
+          {
+            "char": "Joyce Nightstick"
+          }
+        ]
+      },
+      {
+        "name": "Lou Wakefield",
+        "nm": 906791,
+        "roles": [
+          {
+            "char": "Dianah"
+          }
+        ]
+      },
+      {
+        "name": "Claudette Williams",
+        "nm": 1186617,
+        "roles": [
+          {
+            "char": "Jill"
+          }
+        ]
+      },
+      {
+        "name": "Keith Chegwin",
+        "nm": 154961,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Reunion",
+    "tt": 596377,
+    "air_date": "1985-11-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jennifer Saunders",
+        "nm": 766837,
+        "roles": [
+          {
+            "char": "Granny Fuddle"
+          },
+          {
+            "char": "Cassie"
+          },
+          {
+            "char": "Madeleine"
+          },
+          {
+            "char": "Joyce"
+          },
+          {
+            "char": "Roxanne"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Edmondson",
+        "nm": 249528,
+        "roles": [
+          {
+            "char": "Guy Fuddle",
+            "ch": 122837
+          }
+        ]
+      },
+      {
+        "name": "Dawn French",
+        "nm": 294067,
+        "roles": [
+          {
+            "char": "Cook"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Fry",
+        "nm": 410,
+        "roles": [
+          {
+            "char": "Dr. De Quincy",
+            "ch": 65174
+          }
+        ]
+      },
+      {
+        "name": "Helen Lederer",
+        "nm": 496478,
+        "roles": [
+          {
+            "char": "Flossie"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Huckstep",
+        "nm": 399622,
+        "roles": [
+          {
+            "char": "Cabbie"
+          }
+        ]
+      },
+      {
+        "name": "Hugh Laurie",
+        "nm": 491402,
+        "roles": [
+          {
+            "char": "Jim",
+            "ch": 105841
+          }
+        ]
+      },
+      {
+        "name": "Martin Reeve",
+        "nm": 716122,
+        "roles": [
+          {
+            "char": "Delivery Man"
+          }
+        ]
+      },
+      {
+        "name": "Colin Skeaping",
+        "nm": 803943,
+        "roles": [
+          {
+            "char": "Delivery Man"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,985 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 1643543,
+    "air_date": "1993-11-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "George Foreman",
+        "nm": 286040,
+        "roles": [
+          {
+            "char": "George Foster"
+          }
+        ]
+      },
+      {
+        "name": "Crystal Cooke",
+        "nm": 177458,
+        "roles": [
+          {
+            "char": "Vanessa",
+            "as LaCrystal Cooke": true
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Gilliard Jr.",
+        "nm": 319142,
+        "roles": [
+          {
+            "char": "Lathan Basmore",
+            "as Larry Gilliard": true
+          }
+        ]
+      },
+      {
+        "name": "Anne Haney",
+        "nm": 359774,
+        "roles": [
+          {
+            "char": "Juanita"
+          }
+        ]
+      },
+      {
+        "name": "Pablo Irlando",
+        "nm": 410036,
+        "roles": [
+          {
+            "char": "Mauricio Butler"
+          }
+        ]
+      },
+      {
+        "name": "Tony T. Johnson",
+        "nm": 426362,
+        "roles": [
+          {
+            "char": "'Bubba' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Cleandre Norman",
+        "nm": 635467,
+        "roles": [
+          {
+            "char": "Daniel Hickok"
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Lee Ralph",
+        "nm": 5336,
+        "roles": [
+          {
+            "char": "Maggie Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Robinson",
+        "nm": 732836,
+        "roles": [
+          {
+            "char": "'Vee' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Doniell Spencer",
+        "nm": 817927,
+        "roles": [
+          {
+            "char": "Shasta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "2 Hip 2 Work",
+    "tt": 1643538,
+    "air_date": "1993-11-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Crystal Cooke",
+        "nm": 177458,
+        "roles": [
+          {
+            "char": "Vanessa",
+            "as LaCrystal Cooke": true
+          }
+        ]
+      },
+      {
+        "name": "George Foreman",
+        "nm": 286040,
+        "roles": [
+          {
+            "char": "George Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Gilliard Jr.",
+        "nm": 319142,
+        "roles": [
+          {
+            "char": "Lathan Basmore",
+            "as Larry Gilliard": true
+          }
+        ]
+      },
+      {
+        "name": "Anne Haney",
+        "nm": 359774,
+        "roles": [
+          {
+            "char": "Juanita"
+          }
+        ]
+      },
+      {
+        "name": "Pablo Irlando",
+        "nm": 410036,
+        "roles": [
+          {
+            "char": "Mauricio Butler"
+          }
+        ]
+      },
+      {
+        "name": "Tony T. Johnson",
+        "nm": 426362,
+        "roles": [
+          {
+            "char": "'Bubba' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Cleandre Norman",
+        "nm": 635467,
+        "roles": [
+          {
+            "char": "Daniel Hickok"
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Lee Ralph",
+        "nm": 5336,
+        "roles": [
+          {
+            "char": "Maggie Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Robinson",
+        "nm": 732836,
+        "roles": [
+          {
+            "char": "'Vee' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Doniell Spencer",
+        "nm": 817927,
+        "roles": [
+          {
+            "char": "Shasta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Requiem for a Lightweight",
+    "tt": 1643545,
+    "air_date": "1993-11-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Crystal Cooke",
+        "nm": 177458,
+        "roles": [
+          {
+            "char": "Vanessa",
+            "as LaCrystal Cooke": true
+          }
+        ]
+      },
+      {
+        "name": "George Foreman",
+        "nm": 286040,
+        "roles": [
+          {
+            "char": "George Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Gilliard Jr.",
+        "nm": 319142,
+        "roles": [
+          {
+            "char": "Lathan Basmore",
+            "as Larry Gilliard": true
+          }
+        ]
+      },
+      {
+        "name": "Anne Haney",
+        "nm": 359774,
+        "roles": [
+          {
+            "char": "Juanita"
+          }
+        ]
+      },
+      {
+        "name": "Pablo Irlando",
+        "nm": 410036,
+        "roles": [
+          {
+            "char": "Mauricio Butler"
+          }
+        ]
+      },
+      {
+        "name": "Tony T. Johnson",
+        "nm": 426362,
+        "roles": [
+          {
+            "char": "'Bubba' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Cleandre Norman",
+        "nm": 635467,
+        "roles": [
+          {
+            "char": "Daniel Hickok"
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Lee Ralph",
+        "nm": 5336,
+        "roles": [
+          {
+            "char": "Maggie Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Robinson",
+        "nm": 732836,
+        "roles": [
+          {
+            "char": "'Vee' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Doniell Spencer",
+        "nm": 817927,
+        "roles": [
+          {
+            "char": "Shasta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "One Joe at a Time",
+    "tt": 1643542,
+    "air_date": "1993-11-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Connolly",
+        "nm": 175294,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Crystal Cooke",
+        "nm": 177458,
+        "roles": [
+          {
+            "char": "Vanessa",
+            "as LaCrystal Cooke": true
+          }
+        ]
+      },
+      {
+        "name": "Troy Evans",
+        "nm": 263283,
+        "roles": [
+          {
+            "char": "Joe",
+            "ch": 241457
+          }
+        ]
+      },
+      {
+        "name": "George Foreman",
+        "nm": 286040,
+        "roles": [
+          {
+            "char": "George Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Gilliard Jr.",
+        "nm": 319142,
+        "roles": [
+          {
+            "char": "Lathan Basmore",
+            "as Larry Gilliard": true
+          }
+        ]
+      },
+      {
+        "name": "Anne Haney",
+        "nm": 359774,
+        "roles": [
+          {
+            "char": "Juanita"
+          }
+        ]
+      },
+      {
+        "name": "Pablo Irlando",
+        "nm": 410036,
+        "roles": [
+          {
+            "char": "Mauricio Butler"
+          }
+        ]
+      },
+      {
+        "name": "Tony T. Johnson",
+        "nm": 426362,
+        "roles": [
+          {
+            "char": "'Bubba' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Cleandre Norman",
+        "nm": 635467,
+        "roles": [
+          {
+            "char": "Daniel Hickok"
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Lee Ralph",
+        "nm": 5336,
+        "roles": [
+          {
+            "char": "Maggie Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Robinson",
+        "nm": 732836,
+        "roles": [
+          {
+            "char": "'Vee' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Doniell Spencer",
+        "nm": 817927,
+        "roles": [
+          {
+            "char": "Shasta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Nobody Up There Likes Me",
+    "tt": 1643541,
+    "air_date": "1993-12-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Crystal Cooke",
+        "nm": 177458,
+        "roles": [
+          {
+            "char": "Vanessa",
+            "as LaCrystal Cooke": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Eiding",
+        "nm": 251646,
+        "roles": [
+          {
+            "char": "Wally"
+          }
+        ]
+      },
+      {
+        "name": "George Foreman",
+        "nm": 286040,
+        "roles": [
+          {
+            "char": "George Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Gilliard Jr.",
+        "nm": 319142,
+        "roles": [
+          {
+            "char": "Lathan Basmore",
+            "as Larry Gilliard": true
+          }
+        ]
+      },
+      {
+        "name": "Anne Haney",
+        "nm": 359774,
+        "roles": [
+          {
+            "char": "Juanita"
+          }
+        ]
+      },
+      {
+        "name": "Pablo Irlando",
+        "nm": 410036,
+        "roles": [
+          {
+            "char": "Mauricio Butler"
+          }
+        ]
+      },
+      {
+        "name": "Tony T. Johnson",
+        "nm": 426362,
+        "roles": [
+          {
+            "char": "'Bubba' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Cleandre Norman",
+        "nm": 635467,
+        "roles": [
+          {
+            "char": "Daniel Hickok"
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Lee Ralph",
+        "nm": 5336,
+        "roles": [
+          {
+            "char": "Maggie Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Robinson",
+        "nm": 732836,
+        "roles": [
+          {
+            "char": "'Vee' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Doniell Spencer",
+        "nm": 817927,
+        "roles": [
+          {
+            "char": "Shasta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Society Girl",
+    "tt": 1643546,
+    "air_date": "1993-12-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Crystal Cooke",
+        "nm": 177458,
+        "roles": [
+          {
+            "char": "Vanessa",
+            "as LaCrystal Cooke": true
+          }
+        ]
+      },
+      {
+        "name": "George Foreman",
+        "nm": 286040,
+        "roles": [
+          {
+            "char": "George Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Gilliard Jr.",
+        "nm": 319142,
+        "roles": [
+          {
+            "char": "Lathan Basmore",
+            "as Larry Gilliard": true
+          }
+        ]
+      },
+      {
+        "name": "Anne Haney",
+        "nm": 359774,
+        "roles": [
+          {
+            "char": "Juanita"
+          }
+        ]
+      },
+      {
+        "name": "Pablo Irlando",
+        "nm": 410036,
+        "roles": [
+          {
+            "char": "Mauricio Butler"
+          }
+        ]
+      },
+      {
+        "name": "Tony T. Johnson",
+        "nm": 426362,
+        "roles": [
+          {
+            "char": "'Bubba' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Cleandre Norman",
+        "nm": 635467,
+        "roles": [
+          {
+            "char": "Daniel Hickok"
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Lee Ralph",
+        "nm": 5336,
+        "roles": [
+          {
+            "char": "Maggie Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Robinson",
+        "nm": 732836,
+        "roles": [
+          {
+            "char": "'Vee' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Doniell Spencer",
+        "nm": 817927,
+        "roles": [
+          {
+            "char": "Shasta"
+          }
+        ]
+      },
+      {
+        "name": "Dan Tullis Jr.",
+        "nm": 876387,
+        "roles": [
+          {
+            "char": "Mr. Jasso"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Homeboy Is Where the Heart Is",
+    "tt": 1643539,
+    "air_date": "1994-01-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Crystal Cooke",
+        "nm": 177458,
+        "roles": [
+          {
+            "char": "Vanessa",
+            "as LaCrystal Cooke": true
+          }
+        ]
+      },
+      {
+        "name": "Troy Evans",
+        "nm": 263283,
+        "roles": [
+          {
+            "char": "Joe",
+            "ch": 241457
+          }
+        ]
+      },
+      {
+        "name": "George Foreman",
+        "nm": 286040,
+        "roles": [
+          {
+            "char": "George Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Gilliard Jr.",
+        "nm": 319142,
+        "roles": [
+          {
+            "char": "Lathan Basmore",
+            "as Larry Gilliard": true
+          }
+        ]
+      },
+      {
+        "name": "Anne Haney",
+        "nm": 359774,
+        "roles": [
+          {
+            "char": "Juanita"
+          }
+        ]
+      },
+      {
+        "name": "Pablo Irlando",
+        "nm": 410036,
+        "roles": [
+          {
+            "char": "Mauricio Butler"
+          }
+        ]
+      },
+      {
+        "name": "Tony T. Johnson",
+        "nm": 426362,
+        "roles": [
+          {
+            "char": "'Bubba' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Mother Love",
+        "nm": 522389,
+        "roles": [
+          {
+            "char": "Marian"
+          }
+        ]
+      },
+      {
+        "name": "Cleandre Norman",
+        "nm": 635467,
+        "roles": [
+          {
+            "char": "Daniel Hickok"
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Lee Ralph",
+        "nm": 5336,
+        "roles": [
+          {
+            "char": "Maggie Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Robinson",
+        "nm": 732836,
+        "roles": [
+          {
+            "char": "'Vee' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Doniell Spencer",
+        "nm": 817927,
+        "roles": [
+          {
+            "char": "Shasta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Rapmasta Shasta",
+    "tt": 1643544,
+    "air_date": "1994-01-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Crystal Cooke",
+        "nm": 177458,
+        "roles": [
+          {
+            "char": "Vanessa",
+            "as LaCrystal Cooke": true
+          }
+        ]
+      },
+      {
+        "name": "George Foreman",
+        "nm": 286040,
+        "roles": [
+          {
+            "char": "George Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Gilliard Jr.",
+        "nm": 319142,
+        "roles": [
+          {
+            "char": "Lathan Basmore",
+            "as Larry Gilliard": true
+          }
+        ]
+      },
+      {
+        "name": "Anne Haney",
+        "nm": 359774,
+        "roles": [
+          {
+            "char": "Juanita"
+          }
+        ]
+      },
+      {
+        "name": "Pablo Irlando",
+        "nm": 410036,
+        "roles": [
+          {
+            "char": "Mauricio Butler"
+          }
+        ]
+      },
+      {
+        "name": "Tony T. Johnson",
+        "nm": 426362,
+        "roles": [
+          {
+            "char": "'Bubba' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Cathryn Michon",
+        "nm": 585243,
+        "roles": [
+          {
+            "char": "Jessica"
+          }
+        ]
+      },
+      {
+        "name": "Cleandre Norman",
+        "nm": 635467,
+        "roles": [
+          {
+            "char": "Daniel Hickok"
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Lee Ralph",
+        "nm": 5336,
+        "roles": [
+          {
+            "char": "Maggie Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Robinson",
+        "nm": 732836,
+        "roles": [
+          {
+            "char": "'Vee' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Doniell Spencer",
+        "nm": 817927,
+        "roles": [
+          {
+            "char": "Shasta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Man of the Year",
+    "tt": 1643540,
+    "air_date": "1994-01-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Crystal Cooke",
+        "nm": 177458,
+        "roles": [
+          {
+            "char": "Vanessa",
+            "as LaCrystal Cooke": true
+          }
+        ]
+      },
+      {
+        "name": "George Foreman",
+        "nm": 286040,
+        "roles": [
+          {
+            "char": "George Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Gilliard Jr.",
+        "nm": 319142,
+        "roles": [
+          {
+            "char": "Lathan Basmore",
+            "as Larry Gilliard": true
+          }
+        ]
+      },
+      {
+        "name": "Anne Haney",
+        "nm": 359774,
+        "roles": [
+          {
+            "char": "Juanita"
+          }
+        ]
+      },
+      {
+        "name": "Pablo Irlando",
+        "nm": 410036,
+        "roles": [
+          {
+            "char": "Mauricio Butler"
+          }
+        ]
+      },
+      {
+        "name": "Tony T. Johnson",
+        "nm": 426362,
+        "roles": [
+          {
+            "char": "'Bubba' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Ralph P. Martin",
+        "nm": 552924,
+        "roles": [
+          {
+            "char": "Little Man"
+          }
+        ]
+      },
+      {
+        "name": "Cleandre Norman",
+        "nm": 635467,
+        "roles": [
+          {
+            "char": "Daniel Hickok"
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Lee Ralph",
+        "nm": 5336,
+        "roles": [
+          {
+            "char": "Maggie Foster"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Robinson",
+        "nm": 732836,
+        "roles": [
+          {
+            "char": "'Vee' Foster"
+          }
+        ]
+      },
+      {
+        "name": "Doniell Spencer",
+        "nm": 817927,
+        "roles": [
+          {
+            "char": "Shasta"
+          }
+        ]
+      }
+    ]
+  }
+]

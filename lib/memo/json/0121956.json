@@ -1,0 +1,6167 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Starting with a Bang",
+    "tt": 709660,
+    "air_date": "1997-08-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Bell",
+        "nm": 68431,
+        "roles": [
+          {
+            "char": "Provis"
+          }
+        ]
+      },
+      {
+        "name": "Doug Bowles",
+        "nm": 101231,
+        "roles": [
+          {
+            "char": "Des Mavic"
+          }
+        ]
+      },
+      {
+        "name": "Don Bridges",
+        "nm": 108725,
+        "roles": [
+          {
+            "char": "Reg Sweetman",
+            "ch": 153908
+          }
+        ]
+      },
+      {
+        "name": "Mickey Camilleri",
+        "nm": 131810,
+        "roles": [
+          {
+            "char": "Lisa's Mother"
+          }
+        ]
+      },
+      {
+        "name": "Greg Carroll",
+        "nm": 140827,
+        "roles": [
+          {
+            "char": "Mr. Lee",
+            "as Gregory Carroll": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Cronin",
+        "nm": 188797,
+        "roles": [
+          {
+            "char": "Ted Ames"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Curry",
+        "nm": 193135,
+        "roles": [
+          {
+            "char": "Vin Parry"
+          }
+        ]
+      },
+      {
+        "name": "Alan Dale",
+        "nm": 197638,
+        "roles": [
+          {
+            "char": "Atty. Gen. Dudley Mills",
+            "ch": 68938
+          }
+        ]
+      },
+      {
+        "name": "Anni Finsterer",
+        "nm": 278354,
+        "roles": [
+          {
+            "char": "Daria Bond"
+          }
+        ]
+      },
+      {
+        "name": "Paul Glen",
+        "nm": 322522,
+        "roles": [
+          {
+            "char": "Senior Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "William Gluth",
+        "nm": 323305,
+        "roles": [
+          {
+            "char": "Ian Turley"
+          }
+        ]
+      },
+      {
+        "name": "Robert Grubb",
+        "nm": 344188,
+        "roles": [
+          {
+            "char": "Hugh Ferrari",
+            "ch": 93260
+          }
+        ]
+      },
+      {
+        "name": "Peter Hosking",
+        "nm": 396008,
+        "roles": [
+          {
+            "char": "Phil Daly",
+            "ch": 93259
+          }
+        ]
+      },
+      {
+        "name": "Martin Jacobs",
+        "nm": 414544,
+        "roles": [
+          {
+            "char": "Atty. Gen. Frank Kelso"
+          }
+        ]
+      },
+      {
+        "name": "Chris Milne",
+        "nm": 590331,
+        "roles": [
+          {
+            "char": "Bryce Hall",
+            "as Christopher Milne": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Moss",
+        "nm": 609069,
+        "roles": [
+          {
+            "char": "Gascoyne",
+            "ch": 93258
+          }
+        ]
+      },
+      {
+        "name": "Neil Pigot",
+        "nm": 683103,
+        "roles": [
+          {
+            "char": "Senior Constable"
+          }
+        ]
+      },
+      {
+        "name": "Jerome Pride",
+        "nm": 697255,
+        "roles": [
+          {
+            "char": "Roly Fox"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Wilhelmina Stracke",
+        "nm": 833085,
+        "roles": [
+          {
+            "char": "Marion Chubb"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Summers",
+        "nm": 838739,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "David Tredinnick",
+        "nm": 871666,
+        "roles": [
+          {
+            "char": "Max",
+            "ch": 375731
+          }
+        ]
+      },
+      {
+        "name": "Steven Vidler",
+        "nm": 896509,
+        "roles": [
+          {
+            "char": "Salmon"
+          }
+        ]
+      },
+      {
+        "name": "Terrie Waddell",
+        "nm": 905331,
+        "roles": [
+          {
+            "char": "Feldman"
+          }
+        ]
+      },
+      {
+        "name": "Mark Wilson",
+        "nm": 933819,
+        "roles": [
+          {
+            "char": "Jaz Helm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "A Bit of Asthma",
+    "tt": 709640,
+    "air_date": "1997-08-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Szumai Anderson",
+        "nm": 27489,
+        "roles": [
+          {
+            "char": "Pedestrian"
+          }
+        ]
+      },
+      {
+        "name": "John Arnold",
+        "nm": 36510,
+        "roles": [
+          {
+            "char": "Dr. Ross"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Botica",
+        "nm": 98549,
+        "roles": [
+          {
+            "char": "Liz Mason"
+          }
+        ]
+      },
+      {
+        "name": "Don Bridges",
+        "nm": 108725,
+        "roles": [
+          {
+            "char": "Reg Sweetman",
+            "ch": 153908
+          }
+        ]
+      },
+      {
+        "name": "Alan Dale",
+        "nm": 197638,
+        "roles": [
+          {
+            "char": "Atty. Gen. Dudley Mills",
+            "ch": 68938
+          }
+        ]
+      },
+      {
+        "name": "Robert Grubb",
+        "nm": 344188,
+        "roles": [
+          {
+            "char": "Hugh Ferrari",
+            "ch": 93260
+          }
+        ]
+      },
+      {
+        "name": "Clarissa House",
+        "nm": 396639,
+        "roles": [
+          {
+            "char": "Beth Dale"
+          }
+        ]
+      },
+      {
+        "name": "Bradley Hulme",
+        "nm": 401513,
+        "roles": [
+          {
+            "char": "Wayne Hansen"
+          }
+        ]
+      },
+      {
+        "name": "Martin Jacobs",
+        "nm": 414544,
+        "roles": [
+          {
+            "char": "Atty. Gen. Frank Kelso"
+          }
+        ]
+      },
+      {
+        "name": "Richard Moss",
+        "nm": 609069,
+        "roles": [
+          {
+            "char": "Gascoyne",
+            "ch": 93258
+          }
+        ]
+      },
+      {
+        "name": "Alfred Nicdao",
+        "nm": 1176217,
+        "roles": [
+          {
+            "char": "Trevor Li",
+            "ch": 375730
+          }
+        ]
+      },
+      {
+        "name": "Alex Pinder",
+        "nm": 683935,
+        "roles": [
+          {
+            "char": "Dr. Singh"
+          }
+        ]
+      },
+      {
+        "name": "David Reyne",
+        "nm": 721547,
+        "roles": [
+          {
+            "char": "Brian Dale"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Marie-Louise Walker",
+        "nm": 908005,
+        "roles": [
+          {
+            "char": "Dr. Egan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "The Price of Success",
+    "tt": 709663,
+    "air_date": "1997-08-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Tim Bell",
+        "nm": 68547,
+        "roles": [
+          {
+            "char": "Dr John Kendall"
+          }
+        ]
+      },
+      {
+        "name": "Nathan Bocskay",
+        "nm": 1561405,
+        "roles": [
+          {
+            "char": "Dusan Cesnic"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Botica",
+        "nm": 98549,
+        "roles": [
+          {
+            "char": "Liz Mason"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Chapman",
+        "nm": 152327,
+        "roles": [
+          {
+            "char": "Marco Cesnic"
+          }
+        ]
+      },
+      {
+        "name": "Cristin Daniel",
+        "nm": 199602,
+        "roles": [
+          {
+            "char": "Spiteris"
+          }
+        ]
+      },
+      {
+        "name": "Paul Dawber",
+        "nm": 205897,
+        "roles": [
+          {
+            "char": "Lazarvic"
+          }
+        ]
+      },
+      {
+        "name": "Alan Docker",
+        "nm": 1826984,
+        "roles": [
+          {
+            "char": "Awards Venue Manager"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Eyre",
+        "nm": 264231,
+        "roles": [
+          {
+            "char": "Glenn Hillcote"
+          }
+        ]
+      },
+      {
+        "name": "Leo Faust",
+        "nm": 269261,
+        "roles": [
+          {
+            "char": "Constable 2"
+          }
+        ]
+      },
+      {
+        "name": "Robert Grubb",
+        "nm": 344188,
+        "roles": [
+          {
+            "char": "Hugh Ferrari",
+            "ch": 93260
+          }
+        ]
+      },
+      {
+        "name": "Daniel Haritos",
+        "nm": 1268729,
+        "roles": [
+          {
+            "char": "Harley"
+          }
+        ]
+      },
+      {
+        "name": "Bridget Haylock",
+        "nm": 371333,
+        "roles": [
+          {
+            "char": "Constable 1"
+          }
+        ]
+      },
+      {
+        "name": "Barry James",
+        "nm": 2962589,
+        "roles": [
+          {
+            "char": "Len Bishop"
+          }
+        ]
+      },
+      {
+        "name": "Ben Knight",
+        "nm": 1812998,
+        "roles": [
+          {
+            "char": "Gang Member",
+            "as Benjamin Kermode": true
+          }
+        ]
+      },
+      {
+        "name": "Nadja Kostich",
+        "nm": 467455,
+        "roles": [
+          {
+            "char": "Janet Wells"
+          }
+        ]
+      },
+      {
+        "name": "Barry Main",
+        "nm": 537670,
+        "roles": [
+          {
+            "char": "Kevin Roberts"
+          }
+        ]
+      },
+      {
+        "name": "Michael Muntz",
+        "nm": 613328,
+        "roles": [
+          {
+            "char": "David Fawkes"
+          }
+        ]
+      },
+      {
+        "name": "Bob Ruggiero",
+        "nm": 749459,
+        "roles": [
+          {
+            "char": "Charlie Cesnic",
+            "as Robert Ruggiero": true
+          }
+        ]
+      },
+      {
+        "name": "Michelle Rupena",
+        "nm": 2755291,
+        "roles": [
+          {
+            "char": "Leonard Smith"
+          }
+        ]
+      },
+      {
+        "name": "Jim Russell",
+        "nm": 751231,
+        "roles": [
+          {
+            "char": "Local CI"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Kymara Stowers",
+        "nm": 832976,
+        "roles": [
+          {
+            "char": "Angela O'Connor"
+          }
+        ]
+      },
+      {
+        "name": "Helen Tripp",
+        "nm": 1556695,
+        "roles": [
+          {
+            "char": "Yvonne Wells"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Coming to Grief",
+    "tt": 709646,
+    "air_date": "1997-09-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "John Bishop",
+        "nm": 84093,
+        "roles": [
+          {
+            "char": "Dean"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Botica",
+        "nm": 98549,
+        "roles": [
+          {
+            "char": "Liz Mason"
+          }
+        ]
+      },
+      {
+        "name": "Ann Burbrook",
+        "nm": 120775,
+        "roles": [
+          {
+            "char": "Michelle Evans"
+          }
+        ]
+      },
+      {
+        "name": "Renai Caruso",
+        "nm": 1561426,
+        "roles": [
+          {
+            "char": "Jo Zammit"
+          }
+        ]
+      },
+      {
+        "name": "Alan Dale",
+        "nm": 197638,
+        "roles": [
+          {
+            "char": "Atty. Gen. Dudley Mills",
+            "ch": 68938
+          }
+        ]
+      },
+      {
+        "name": "Peter Hosking",
+        "nm": 396008,
+        "roles": [
+          {
+            "char": "Phil Daly",
+            "ch": 93259
+          }
+        ]
+      },
+      {
+        "name": "Martin Jacobs",
+        "nm": 414544,
+        "roles": [
+          {
+            "char": "Atty. Gen. Frank Kelso"
+          }
+        ]
+      },
+      {
+        "name": "Barry Laing",
+        "nm": 1622702,
+        "roles": [
+          {
+            "char": "Glen Tobias"
+          }
+        ]
+      },
+      {
+        "name": "David Lithgow",
+        "nm": 1561623,
+        "roles": [
+          {
+            "char": "Athol Green"
+          }
+        ]
+      },
+      {
+        "name": "Osvaldo Maione",
+        "nm": 537812,
+        "roles": [
+          {
+            "char": "Tucci"
+          }
+        ]
+      },
+      {
+        "name": "Richard Moss",
+        "nm": 609069,
+        "roles": [
+          {
+            "char": "Gascoyne",
+            "ch": 93258
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Malley",
+        "nm": 641768,
+        "roles": [
+          {
+            "char": "Adrian Hicks"
+          }
+        ]
+      },
+      {
+        "name": "Geoff Parry",
+        "nm": 663649,
+        "roles": [
+          {
+            "char": "Eric Goodman"
+          }
+        ]
+      },
+      {
+        "name": "Jerome Pride",
+        "nm": 697255,
+        "roles": [
+          {
+            "char": "Roly Fox"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Shayne Willey",
+        "nm": 1561876,
+        "roles": [
+          {
+            "char": "Billy Davidson"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Woods",
+        "nm": 1423126,
+        "roles": [
+          {
+            "char": "Linda Rowan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Final Approach",
+    "tt": 709651,
+    "air_date": "1997-09-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Kate Atkinson",
+        "nm": 40753,
+        "roles": [
+          {
+            "char": "Ilana Summers"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Botica",
+        "nm": 98549,
+        "roles": [
+          {
+            "char": "Liz Mason"
+          }
+        ]
+      },
+      {
+        "name": "Chris Connelly",
+        "nm": 175057,
+        "roles": [
+          {
+            "char": "Dick Ingram",
+            "ch": 117683
+          }
+        ]
+      },
+      {
+        "name": "Victoria Eagger",
+        "nm": 247082,
+        "roles": [
+          {
+            "char": "Lynette McKechnie"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Engelman",
+        "nm": 257252,
+        "roles": [
+          {
+            "char": "Jason Bergman"
+          }
+        ]
+      },
+      {
+        "name": "Max Fairchild",
+        "nm": 265523,
+        "roles": [
+          {
+            "char": "Jack Sweeney"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Fenton",
+        "nm": 272088,
+        "roles": [
+          {
+            "char": "Rodney Summers"
+          }
+        ]
+      },
+      {
+        "name": "Alan Hopgood",
+        "nm": 394086,
+        "roles": [
+          {
+            "char": "Keith Summers"
+          }
+        ]
+      },
+      {
+        "name": "Tom Hutchins",
+        "nm": 404296,
+        "roles": [
+          {
+            "char": "Young Buck"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Media"
+          }
+        ]
+      },
+      {
+        "name": "Ian Pearce",
+        "nm": 668938,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "John Powell",
+        "nm": 694175,
+        "roles": [
+          {
+            "char": "Howard Tootell"
+          }
+        ]
+      },
+      {
+        "name": "John Power",
+        "nm": 1558622,
+        "roles": [
+          {
+            "char": "Howard Tootel"
+          }
+        ]
+      },
+      {
+        "name": "Damien Pree",
+        "nm": 695768,
+        "roles": [
+          {
+            "char": "Local Constable"
+          }
+        ]
+      },
+      {
+        "name": "Megan Rees",
+        "nm": 715938,
+        "roles": [
+          {
+            "char": "Catherine Muscot"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Sandy",
+        "nm": 1489930,
+        "roles": [
+          {
+            "char": "Nurse Barton",
+            "as Libby Sandy": true
+          }
+        ]
+      },
+      {
+        "name": "Sullivan Stapleton",
+        "nm": 822982,
+        "roles": [
+          {
+            "char": "Darren Pyke"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Tim Sullivan",
+        "nm": 838372,
+        "roles": [
+          {
+            "char": "Ron Croft",
+            "as Timothy Sullivan": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Shortcut to Death",
+    "tt": 709659,
+    "air_date": "1997-09-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Botica",
+        "nm": 98549,
+        "roles": [
+          {
+            "char": "Liz Mason"
+          }
+        ]
+      },
+      {
+        "name": "Don Bridges",
+        "nm": 108725,
+        "roles": [
+          {
+            "char": "Reg Sweetman",
+            "ch": 153908
+          }
+        ]
+      },
+      {
+        "name": "Dennis Coard",
+        "nm": 167594,
+        "roles": [
+          {
+            "char": "Ron Sheldrick"
+          }
+        ]
+      },
+      {
+        "name": "Adriano Cortese",
+        "nm": 181276,
+        "roles": [
+          {
+            "char": "Joe Mezzasalma"
+          }
+        ]
+      },
+      {
+        "name": "Laurie Dobson",
+        "nm": 229916,
+        "roles": [
+          {
+            "char": "Jack Trimble"
+          }
+        ]
+      },
+      {
+        "name": "Merridy Eastman",
+        "nm": 247660,
+        "roles": [
+          {
+            "char": "Rae Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Steady Eddy",
+        "nm": 248914,
+        "roles": [
+          {
+            "char": "Michael Trigg"
+          }
+        ]
+      },
+      {
+        "name": "Ernie Gray",
+        "nm": 336613,
+        "roles": [
+          {
+            "char": "Dr. Ron Wickens"
+          }
+        ]
+      },
+      {
+        "name": "Peter Hardy",
+        "nm": 362728,
+        "roles": [
+          {
+            "char": "Gary Turrell"
+          }
+        ]
+      },
+      {
+        "name": "Sue Jones",
+        "nm": 429299,
+        "roles": [
+          {
+            "char": "Valerie Lowe"
+          }
+        ]
+      },
+      {
+        "name": "Louise Miller",
+        "nm": 588857,
+        "roles": [
+          {
+            "char": "Carer"
+          }
+        ]
+      },
+      {
+        "name": "Alfred Nicdao",
+        "nm": 1176217,
+        "roles": [
+          {
+            "char": "Trevor Li",
+            "ch": 375730
+          }
+        ]
+      },
+      {
+        "name": "Irini Pappas",
+        "nm": 2003863,
+        "roles": [
+          {
+            "char": "Helen Corso"
+          }
+        ]
+      },
+      {
+        "name": "Mark Pegler",
+        "nm": 670414,
+        "roles": [
+          {
+            "char": "Micheal Dureau"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Andrea Swifte",
+        "nm": 973856,
+        "roles": [
+          {
+            "char": "Christine Hallas"
+          }
+        ]
+      },
+      {
+        "name": "Sergio Tell",
+        "nm": 1496344,
+        "roles": [
+          {
+            "char": "Alex Corso"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Partings",
+    "tt": 709657,
+    "air_date": "1997-09-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Jasper Bagg",
+        "nm": 46591,
+        "roles": [
+          {
+            "char": "Tony"
+          }
+        ]
+      },
+      {
+        "name": "Heather Bolton",
+        "nm": 93398,
+        "roles": [
+          {
+            "char": "Helen Balantyne"
+          }
+        ]
+      },
+      {
+        "name": "Don Bridges",
+        "nm": 108725,
+        "roles": [
+          {
+            "char": "Reg Sweetman",
+            "ch": 153908
+          }
+        ]
+      },
+      {
+        "name": "Natasha Herbert",
+        "nm": 378599,
+        "roles": [
+          {
+            "char": "Hellen Warren"
+          }
+        ]
+      },
+      {
+        "name": "John Higginson",
+        "nm": 383523,
+        "roles": [
+          {
+            "char": "Gordon Barnier"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Hughes",
+        "nm": 400487,
+        "roles": [
+          {
+            "char": "Dr. Simmonds"
+          }
+        ]
+      },
+      {
+        "name": "Gerald Lepkowski",
+        "nm": 503319,
+        "roles": [
+          {
+            "char": "Dave Warren"
+          }
+        ]
+      },
+      {
+        "name": "Alfred Nicdao",
+        "nm": 1176217,
+        "roles": [
+          {
+            "char": "Trevor Li",
+            "ch": 375730
+          }
+        ]
+      },
+      {
+        "name": "Jenny Seedsman",
+        "nm": 781491,
+        "roles": [
+          {
+            "char": "Peggy Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Christopher Uhlman",
+        "nm": 880236,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "A Question of Experience",
+    "tt": 709641,
+    "air_date": "1997-10-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "John Atkinson",
+        "nm": 40744,
+        "roles": [
+          {
+            "char": "Dylan McQuarrie"
+          }
+        ]
+      },
+      {
+        "name": "Don Bridges",
+        "nm": 108725,
+        "roles": [
+          {
+            "char": "Reg Sweetman",
+            "ch": 153908
+          }
+        ]
+      },
+      {
+        "name": "Anita Hegh",
+        "nm": 373780,
+        "roles": [
+          {
+            "char": "Jody Zelco"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Jarman-Walker",
+        "nm": 418762,
+        "roles": [
+          {
+            "char": "Betsy Trainor"
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Johns",
+        "nm": 1650927,
+        "roles": [
+          {
+            "char": "Mrs Parsons"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lyons",
+        "nm": 529035,
+        "roles": [
+          {
+            "char": "Sam Trainer"
+          }
+        ]
+      },
+      {
+        "name": "Alex Menglet",
+        "nm": 579595,
+        "roles": [
+          {
+            "char": "Jim Vandenburg"
+          }
+        ]
+      },
+      {
+        "name": "Alfred Nicdao",
+        "nm": 1176217,
+        "roles": [
+          {
+            "char": "Trevor Li",
+            "ch": 375730
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stevenson",
+        "nm": 828900,
+        "roles": [
+          {
+            "char": "Sgt. Dreyfus"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Wilhelmina Stracke",
+        "nm": 833085,
+        "roles": [
+          {
+            "char": "Marion Chubb"
+          }
+        ]
+      },
+      {
+        "name": "Phil Sumner",
+        "nm": 838892,
+        "roles": [
+          {
+            "char": "Philip Dale"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Ulfan",
+        "nm": 1581739,
+        "roles": [
+          {
+            "char": "Boris"
+          }
+        ]
+      },
+      {
+        "name": "Casey-Lee Walker",
+        "nm": 1652418,
+        "roles": [
+          {
+            "char": "Emma Parsons"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Truth and Circumstances",
+    "tt": 709665,
+    "air_date": "1997-10-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Blackman",
+        "nm": 85726,
+        "roles": [
+          {
+            "char": "Det. Sgt. David Hubbard",
+            "ch": 300621
+          }
+        ]
+      },
+      {
+        "name": "Don Bridges",
+        "nm": 108725,
+        "roles": [
+          {
+            "char": "Reg Sweetman",
+            "ch": 153908
+          }
+        ]
+      },
+      {
+        "name": "Diana Glenn",
+        "nm": 322591,
+        "roles": [
+          {
+            "char": "Gillian Gardener"
+          }
+        ]
+      },
+      {
+        "name": "Martin Jacobs",
+        "nm": 414544,
+        "roles": [
+          {
+            "char": "Atty. Gen. Frank Kelso"
+          }
+        ]
+      },
+      {
+        "name": "Steve Jacobs",
+        "nm": 414646,
+        "roles": [
+          {
+            "char": "Chief Inspector Karl Devon"
+          }
+        ]
+      },
+      {
+        "name": "Sapidah Kian",
+        "nm": 452084,
+        "roles": [
+          {
+            "char": "Farah Khan"
+          }
+        ]
+      },
+      {
+        "name": "Dino Marnika",
+        "nm": 549445,
+        "roles": [
+          {
+            "char": "Alex Tarsus"
+          }
+        ]
+      },
+      {
+        "name": "Richard Moss",
+        "nm": 609069,
+        "roles": [
+          {
+            "char": "Gascoyne",
+            "ch": 93258
+          }
+        ]
+      },
+      {
+        "name": "John O'May",
+        "nm": 641832,
+        "roles": [
+          {
+            "char": "Marcus Brophy"
+          }
+        ]
+      },
+      {
+        "name": "John Penman",
+        "nm": 671941,
+        "roles": [
+          {
+            "char": "Nelson"
+          }
+        ]
+      },
+      {
+        "name": "Marianne Steele",
+        "nm": 2348753,
+        "roles": [
+          {
+            "char": "Sandra Baines"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Ramez Tabit",
+        "nm": 1561819,
+        "roles": [
+          {
+            "char": "Hassan Khan"
+          }
+        ]
+      },
+      {
+        "name": "Philip Ward",
+        "nm": 1622790,
+        "roles": [
+          {
+            "char": "Greg Gardener"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Whittaker",
+        "nm": 1072455,
+        "roles": [
+          {
+            "char": "Malcolm Faircross"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Conflict of Interest",
+    "tt": 709647,
+    "air_date": "1997-10-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Warwick Begg",
+        "nm": 66723,
+        "roles": [
+          {
+            "char": "Mr Arnold"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Blackman",
+        "nm": 85726,
+        "roles": [
+          {
+            "char": "Det. Sgt. David Hubbard",
+            "ch": 300621
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Bock",
+        "nm": 90638,
+        "roles": [
+          {
+            "char": "Constable Helen White"
+          }
+        ]
+      },
+      {
+        "name": "Jonathon Brooks",
+        "nm": 112071,
+        "roles": [
+          {
+            "char": "Andrew Demos"
+          }
+        ]
+      },
+      {
+        "name": "Alan Dale",
+        "nm": 197638,
+        "roles": [
+          {
+            "char": "Atty. Gen. Dudley Mills",
+            "ch": 68938
+          }
+        ]
+      },
+      {
+        "name": "Peter Farago",
+        "nm": 1622641,
+        "roles": [
+          {
+            "char": "Det. C.I. Stanfield"
+          }
+        ]
+      },
+      {
+        "name": "Martin Jacobs",
+        "nm": 414544,
+        "roles": [
+          {
+            "char": "Atty. Gen. Frank Kelso"
+          }
+        ]
+      },
+      {
+        "name": "Steve Jacobs",
+        "nm": 414646,
+        "roles": [
+          {
+            "char": "Chief Inspector Karl Devon"
+          }
+        ]
+      },
+      {
+        "name": "Heather MacQuire",
+        "nm": 1949081,
+        "roles": [
+          {
+            "char": "Mrs Arnold"
+          }
+        ]
+      },
+      {
+        "name": "Dino Marnika",
+        "nm": 549445,
+        "roles": [
+          {
+            "char": "Alex Tarsus"
+          }
+        ]
+      },
+      {
+        "name": "Richard Moss",
+        "nm": 609069,
+        "roles": [
+          {
+            "char": "Gascoyne",
+            "ch": 93258
+          }
+        ]
+      },
+      {
+        "name": "Eric Mueck",
+        "nm": 610966,
+        "roles": [
+          {
+            "char": "Sgt. Grace"
+          }
+        ]
+      },
+      {
+        "name": "Christen O'Leary",
+        "nm": 1432181,
+        "roles": [
+          {
+            "char": "Madeline Gilchrist"
+          }
+        ]
+      },
+      {
+        "name": "John O'May",
+        "nm": 641832,
+        "roles": [
+          {
+            "char": "Marcus Brophy"
+          }
+        ]
+      },
+      {
+        "name": "James Ryan",
+        "nm": 752589,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Dance 'Till You Drop",
+    "tt": 709648,
+    "air_date": "1997-10-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Lance Anderson",
+        "nm": 27050,
+        "roles": [
+          {
+            "char": "Farmer"
+          }
+        ]
+      },
+      {
+        "name": "Margie Bainbridge",
+        "nm": 1975234,
+        "roles": [
+          {
+            "char": "Woman"
+          }
+        ]
+      },
+      {
+        "name": "Sally Cooper",
+        "nm": 178363,
+        "roles": [
+          {
+            "char": "Jean Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Lee Turkel"
+          }
+        ]
+      },
+      {
+        "name": "Roy Edmunds",
+        "nm": 249600,
+        "roles": [
+          {
+            "char": "Gordon Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "Darryl Emmerson",
+        "nm": 256507,
+        "roles": [
+          {
+            "char": "Gustav Mensch"
+          }
+        ]
+      },
+      {
+        "name": "Petra Glieson",
+        "nm": 1561526,
+        "roles": [
+          {
+            "char": "Sally Landells"
+          }
+        ]
+      },
+      {
+        "name": "Kane McNay",
+        "nm": 573809,
+        "roles": [
+          {
+            "char": "Dale Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "Leigh Morgan",
+        "nm": 1830782,
+        "roles": [
+          {
+            "char": "Sandra Roe"
+          }
+        ]
+      },
+      {
+        "name": "Stewart Morritt",
+        "nm": 607425,
+        "roles": [
+          {
+            "char": "Guy Gandolf"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Nugent",
+        "nm": 637777,
+        "roles": [
+          {
+            "char": "Tim Roe"
+          }
+        ]
+      },
+      {
+        "name": "Matt Robertson",
+        "nm": 1161947,
+        "roles": [
+          {
+            "char": "Mica 2"
+          }
+        ]
+      },
+      {
+        "name": "Rodney Sharp",
+        "nm": 789148,
+        "roles": [
+          {
+            "char": "Gavin Rose"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Wilhelmina Stracke",
+        "nm": 833085,
+        "roles": [
+          {
+            "char": "Marion Chubb"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "'Till Death Do Us Part",
+    "tt": 709639,
+    "air_date": "1997-10-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Addie",
+        "nm": 11664,
+        "roles": [
+          {
+            "char": "Sheila Hume"
+          }
+        ]
+      },
+      {
+        "name": "Keith Agius",
+        "nm": 13075,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Janet Andrewartha",
+        "nm": 28548,
+        "roles": [
+          {
+            "char": "Eileen Hardy"
+          }
+        ]
+      },
+      {
+        "name": "Gemma Bishop",
+        "nm": 1157245,
+        "roles": [
+          {
+            "char": "Megan Bennett"
+          }
+        ]
+      },
+      {
+        "name": "Alan Dale",
+        "nm": 197638,
+        "roles": [
+          {
+            "char": "Atty. Gen. Dudley Mills",
+            "ch": 68938
+          }
+        ]
+      },
+      {
+        "name": "Daniel Daperis",
+        "nm": 200839,
+        "roles": [
+          {
+            "char": "Alex Bennett"
+          }
+        ]
+      },
+      {
+        "name": "Neil Foley",
+        "nm": 284206,
+        "roles": [
+          {
+            "char": "Colin Fowler"
+          }
+        ]
+      },
+      {
+        "name": "Bob Hornery",
+        "nm": 395140,
+        "roles": [
+          {
+            "char": "Paddy O'Donahue"
+          }
+        ]
+      },
+      {
+        "name": "Martin Jacobs",
+        "nm": 414544,
+        "roles": [
+          {
+            "char": "Atty. Gen. Frank Kelso"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Vicky Bennett"
+          }
+        ]
+      },
+      {
+        "name": "Robert Menzies",
+        "nm": 580005,
+        "roles": [
+          {
+            "char": "Terry Bennett"
+          }
+        ]
+      },
+      {
+        "name": "Genevieve Morris",
+        "nm": 606547,
+        "roles": [
+          {
+            "char": "Helen Lawler"
+          }
+        ]
+      },
+      {
+        "name": "Jack Perry",
+        "nm": 675104,
+        "roles": [
+          {
+            "char": "Jock Hume"
+          }
+        ]
+      },
+      {
+        "name": "Grant Ryan",
+        "nm": 752563,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Blood Sport",
+    "tt": 709644,
+    "air_date": "1997-11-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Blakely",
+        "nm": 86800,
+        "roles": [
+          {
+            "char": "Lisbeth Christi"
+          }
+        ]
+      },
+      {
+        "name": "Sheridan Compagnino",
+        "nm": 173926,
+        "roles": [
+          {
+            "char": "Cindy McCracken"
+          }
+        ]
+      },
+      {
+        "name": "Chris Connelly",
+        "nm": 175057,
+        "roles": [
+          {
+            "char": "Ingram",
+            "ch": 117683
+          }
+        ]
+      },
+      {
+        "name": "Rhondda Findleton",
+        "nm": 277556,
+        "roles": [
+          {
+            "char": "Anne Wilmont"
+          }
+        ]
+      },
+      {
+        "name": "Robert Forza",
+        "nm": 1246370,
+        "roles": [
+          {
+            "char": "Con Kailis"
+          }
+        ]
+      },
+      {
+        "name": "Trevor Geary",
+        "nm": 1622658,
+        "roles": [
+          {
+            "char": "Shane Remington"
+          }
+        ]
+      },
+      {
+        "name": "Robert Hughes",
+        "nm": 400891,
+        "roles": [
+          {
+            "char": "Dr. Nelson Grey"
+          }
+        ]
+      },
+      {
+        "name": "Tim Hughes",
+        "nm": 400962,
+        "roles": [
+          {
+            "char": "Noel McCracken"
+          }
+        ]
+      },
+      {
+        "name": "Martin Jacobs",
+        "nm": 414544,
+        "roles": [
+          {
+            "char": "Atty. Gen. Frank Kelso"
+          }
+        ]
+      },
+      {
+        "name": "Renaud Jadin",
+        "nm": 1237975,
+        "roles": [
+          {
+            "char": "Todd Thurstan"
+          }
+        ]
+      },
+      {
+        "name": "Peter Leiss",
+        "nm": 500576,
+        "roles": [
+          {
+            "char": "Dr Peter Wilmott"
+          }
+        ]
+      },
+      {
+        "name": "Alex Papps",
+        "nm": 660654,
+        "roles": [
+          {
+            "char": "Dr. Hamish Campbell"
+          }
+        ]
+      },
+      {
+        "name": "Howard Stanley",
+        "nm": 822496,
+        "roles": [
+          {
+            "char": "Dr. Mark Vidor"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Bitter Harvest",
+    "tt": 709643,
+    "air_date": "1997-11-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Tracey Callander",
+        "nm": 130310,
+        "roles": [
+          {
+            "char": "Jenny Davis"
+          }
+        ]
+      },
+      {
+        "name": "Jim Daly",
+        "nm": 197852,
+        "roles": [
+          {
+            "char": "Daryl Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Stewart Faichney",
+        "nm": 265314,
+        "roles": [
+          {
+            "char": "Don Simmons"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Harrington",
+        "nm": 364305,
+        "roles": [
+          {
+            "char": "Bill Higgins"
+          }
+        ]
+      },
+      {
+        "name": "Valentina Levkowicz",
+        "nm": 506264,
+        "roles": [
+          {
+            "char": "Marg Simmons"
+          }
+        ]
+      },
+      {
+        "name": "Geoff Paine",
+        "nm": 656834,
+        "roles": [
+          {
+            "char": "Barry Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Pledger",
+        "nm": 687109,
+        "roles": [
+          {
+            "char": "Mick Ryan"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Days of Reckoning",
+    "tt": 709649,
+    "air_date": "1998-08-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Hugo Armstrong",
+        "nm": 35730,
+        "roles": [
+          {
+            "char": "Max",
+            "ch": 375731
+          }
+        ]
+      },
+      {
+        "name": "Michala Banas",
+        "nm": 51558,
+        "roles": [
+          {
+            "char": "Zoe Martin"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Barht",
+        "nm": 1153074,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "Peter Barron",
+        "nm": 57705,
+        "roles": [
+          {
+            "char": "Mark Carson"
+          }
+        ]
+      },
+      {
+        "name": "Chris Bidlo",
+        "nm": 81208,
+        "roles": [
+          {
+            "char": "Bubba"
+          }
+        ]
+      },
+      {
+        "name": "Alan Brough",
+        "nm": 112643,
+        "roles": [
+          {
+            "char": "Kenny Maguire"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Alan Dale",
+        "nm": 197638,
+        "roles": [
+          {
+            "char": "Atty. Gen. Dudley Mills",
+            "ch": 68938
+          }
+        ]
+      },
+      {
+        "name": "Karen Davitt",
+        "nm": 205775,
+        "roles": [
+          {
+            "char": "Sandy Flynn"
+          }
+        ]
+      },
+      {
+        "name": "Simon Donaldson",
+        "nm": 232157,
+        "roles": [
+          {
+            "char": "AIS Offsider"
+          }
+        ]
+      },
+      {
+        "name": "Paul Hampton",
+        "nm": 2033367,
+        "roles": [
+          {
+            "char": "Jack Hobson"
+          }
+        ]
+      },
+      {
+        "name": "Sophie Heathcote",
+        "nm": 372730,
+        "roles": [
+          {
+            "char": "Helen Farmer"
+          }
+        ]
+      },
+      {
+        "name": "Johanna Kerrigan",
+        "nm": 1641899,
+        "roles": [
+          {
+            "char": "Roz Volger"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Maher",
+        "nm": 2125712,
+        "roles": [
+          {
+            "char": "Young Intern"
+          }
+        ]
+      },
+      {
+        "name": "Robert Morgan",
+        "nm": 604989,
+        "roles": [
+          {
+            "char": "Eddie Scullin",
+            "ch": 374558
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Angus Smallwood",
+        "nm": 1798057,
+        "roles": [
+          {
+            "char": "Jim Tazie"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Richard Sutherland",
+        "nm": 840161,
+        "roles": [
+          {
+            "char": "Terry Gallagher"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Ray Scullin",
+            "ch": 93261
+          }
+        ]
+      },
+      {
+        "name": "Cam Van Steel",
+        "nm": 888032,
+        "roles": [
+          {
+            "char": "Proprietor"
+          }
+        ]
+      },
+      {
+        "name": "Chris Waters",
+        "nm": 914054,
+        "roles": [
+          {
+            "char": "Alistair Steele",
+            "ch": 374557
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Days of Reckoning II",
+    "tt": 709650,
+    "air_date": "1998-08-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Hugo Armstrong",
+        "nm": 35730,
+        "roles": [
+          {
+            "char": "Max",
+            "ch": 375731
+          }
+        ]
+      },
+      {
+        "name": "Michala Banas",
+        "nm": 51558,
+        "roles": [
+          {
+            "char": "Zoe Martin"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Barht",
+        "nm": 1153074,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "Peter Barron",
+        "nm": 57705,
+        "roles": [
+          {
+            "char": "Mark Carson"
+          }
+        ]
+      },
+      {
+        "name": "Chris Bidlo",
+        "nm": 81208,
+        "roles": [
+          {
+            "char": "Bubba"
+          }
+        ]
+      },
+      {
+        "name": "Alan Brough",
+        "nm": 112643,
+        "roles": [
+          {
+            "char": "Kenny Maguire"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Alan Dale",
+        "nm": 197638,
+        "roles": [
+          {
+            "char": "Atty. Gen. Dudley Mills",
+            "ch": 68938
+          }
+        ]
+      },
+      {
+        "name": "Karen Davitt",
+        "nm": 205775,
+        "roles": [
+          {
+            "char": "Sandy Flynn"
+          }
+        ]
+      },
+      {
+        "name": "Simon Donaldson",
+        "nm": 232157,
+        "roles": [
+          {
+            "char": "AIS Offsider"
+          }
+        ]
+      },
+      {
+        "name": "Paul Hampton",
+        "nm": 2033367,
+        "roles": [
+          {
+            "char": "Jack Hobson"
+          }
+        ]
+      },
+      {
+        "name": "Sophie Heathcote",
+        "nm": 372730,
+        "roles": [
+          {
+            "char": "Helen Farmer"
+          }
+        ]
+      },
+      {
+        "name": "Johanna Kerrigan",
+        "nm": 1641899,
+        "roles": [
+          {
+            "char": "Roz Volger"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Maher",
+        "nm": 2125712,
+        "roles": [
+          {
+            "char": "Young Intern"
+          }
+        ]
+      },
+      {
+        "name": "Robert Morgan",
+        "nm": 604989,
+        "roles": [
+          {
+            "char": "Eddie Scullin",
+            "ch": 374558
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Angus Smallwood",
+        "nm": 1798057,
+        "roles": [
+          {
+            "char": "Jim Tazie"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stollery",
+        "nm": 831563,
+        "roles": [
+          {
+            "char": "Sgt. Dermot McLeod",
+            "ch": 68924
+          }
+        ]
+      },
+      {
+        "name": "Richard Sutherland",
+        "nm": 840161,
+        "roles": [
+          {
+            "char": "Terry Gallagher"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Ray Scullin",
+            "ch": 93261
+          }
+        ]
+      },
+      {
+        "name": "Cam Van Steel",
+        "nm": 888032,
+        "roles": [
+          {
+            "char": "Proprietor"
+          }
+        ]
+      },
+      {
+        "name": "Chris Waters",
+        "nm": 914054,
+        "roles": [
+          {
+            "char": "Alistair Steele",
+            "ch": 374557
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Shaking the Tree",
+    "tt": 709658,
+    "air_date": "1998-08-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Barht",
+        "nm": 1153074,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "Zoe Bertram",
+        "nm": 78342,
+        "roles": [
+          {
+            "char": "Michelle Powell"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Jane Conroy",
+        "nm": 175825,
+        "roles": [
+          {
+            "char": "Aggie Meredith"
+          }
+        ]
+      },
+      {
+        "name": "William Gluth",
+        "nm": 323305,
+        "roles": [
+          {
+            "char": "Simon Morton"
+          }
+        ]
+      },
+      {
+        "name": "Reg Gorman",
+        "nm": 331116,
+        "roles": [
+          {
+            "char": "Charles Shaw"
+          }
+        ]
+      },
+      {
+        "name": "Tony Horton",
+        "nm": 1380336,
+        "roles": [
+          {
+            "char": "Homicide Detective"
+          }
+        ]
+      },
+      {
+        "name": "Kara Kyne",
+        "nm": 1617761,
+        "roles": [
+          {
+            "char": "Fiona Crane"
+          }
+        ]
+      },
+      {
+        "name": "Frank Magree",
+        "nm": 536485,
+        "roles": [
+          {
+            "char": "Stuart Webster"
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Judith Roberts",
+        "nm": 731288,
+        "roles": [
+          {
+            "char": "Rose Shaw"
+          }
+        ]
+      },
+      {
+        "name": "Greg Saunders",
+        "nm": 766811,
+        "roles": [
+          {
+            "char": "Kevin Powell"
+          }
+        ]
+      },
+      {
+        "name": "Peter Stefanou",
+        "nm": 825026,
+        "roles": [
+          {
+            "char": "John"
+          }
+        ]
+      },
+      {
+        "name": "Wilhelmina Stracke",
+        "nm": 833085,
+        "roles": [
+          {
+            "char": "Marion Chubb"
+          }
+        ]
+      },
+      {
+        "name": "Madeleine Swain",
+        "nm": 1813718,
+        "roles": [
+          {
+            "char": "Lang"
+          }
+        ]
+      },
+      {
+        "name": "Glenda Walsh",
+        "nm": 909653,
+        "roles": [
+          {
+            "char": "Barrister"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "The Gift of Life",
+    "tt": 709662,
+    "air_date": "1998-09-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Barht",
+        "nm": 1153074,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "Katy Brinson",
+        "nm": 109690,
+        "roles": [
+          {
+            "char": "Joyce Pearson"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Nell Feeney",
+        "nm": 270358,
+        "roles": [
+          {
+            "char": "Sally Allbright"
+          }
+        ]
+      },
+      {
+        "name": "Hannah Greenwood",
+        "nm": 339333,
+        "roles": [
+          {
+            "char": "Natasha Rostov"
+          }
+        ]
+      },
+      {
+        "name": "Michael Harrison",
+        "nm": 1230761,
+        "roles": [
+          {
+            "char": "Timmy Allbright"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Heenan",
+        "nm": 1051278,
+        "roles": [
+          {
+            "char": "Lara Rostov"
+          }
+        ]
+      },
+      {
+        "name": "Kim Hope",
+        "nm": 394007,
+        "roles": [
+          {
+            "char": "Caroline Spink"
+          }
+        ]
+      },
+      {
+        "name": "Terry Kenwrick",
+        "nm": 448964,
+        "roles": [
+          {
+            "char": "Dr. Joel McKay"
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Jim Russell",
+        "nm": 751231,
+        "roles": [
+          {
+            "char": "Garth Allbright"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Schepisi",
+        "nm": 770959,
+        "roles": [
+          {
+            "char": "Dr. Ann Gerome"
+          }
+        ]
+      },
+      {
+        "name": "Darryl Spencer",
+        "nm": 1813678,
+        "roles": [
+          {
+            "char": "Max Nelson"
+          }
+        ]
+      },
+      {
+        "name": "Wilhelmina Stracke",
+        "nm": 833085,
+        "roles": [
+          {
+            "char": "Marion Chubb"
+          }
+        ]
+      },
+      {
+        "name": "Brett Tucker",
+        "nm": 875810,
+        "roles": [
+          {
+            "char": "Miles Penfield"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Sunday in the Country",
+    "tt": 709661,
+    "air_date": "1998-09-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Jane Allsop",
+        "nm": 21627,
+        "roles": [
+          {
+            "char": "Kirsty Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Barht",
+        "nm": 1153074,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "Humphrey Bower",
+        "nm": 100968,
+        "roles": [
+          {
+            "char": "Lindsay O'Connor"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Matthew Dyktynski",
+        "nm": 245876,
+        "roles": [
+          {
+            "char": "Ewan McGregor"
+          }
+        ]
+      },
+      {
+        "name": "Peter Flaherty",
+        "nm": 1790271,
+        "roles": [
+          {
+            "char": "Drinker"
+          }
+        ]
+      },
+      {
+        "name": "Fletcher Humphrys",
+        "nm": 402102,
+        "roles": [
+          {
+            "char": "Mick Taranto"
+          }
+        ]
+      },
+      {
+        "name": "Rebecca McCauley",
+        "nm": 531350,
+        "roles": [
+          {
+            "char": "Rachel Downie"
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Munks",
+        "nm": 612948,
+        "roles": [
+          {
+            "char": "Heather O'Connor"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Spano",
+        "nm": 816877,
+        "roles": [
+          {
+            "char": "Dr. Derek Rowan"
+          }
+        ]
+      },
+      {
+        "name": "Sullivan Stapleton",
+        "nm": 822982,
+        "roles": [
+          {
+            "char": "'Bullbar' Benson"
+          }
+        ]
+      },
+      {
+        "name": "Wilhelmina Stracke",
+        "nm": 833085,
+        "roles": [
+          {
+            "char": "Marion Chubb"
+          }
+        ]
+      },
+      {
+        "name": "Catherine Wilkin",
+        "nm": 929227,
+        "roles": [
+          {
+            "char": "Olwen Parsons"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "Body of Evidence",
+    "tt": 709645,
+    "air_date": "1998-09-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Elise McCredie",
+        "nm": 566982,
+        "roles": [
+          {
+            "char": "Sharon Riley"
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Blackburne",
+        "nm": 85653,
+        "roles": [
+          {
+            "char": "Jack Valdez"
+          }
+        ]
+      },
+      {
+        "name": "Bill Charles",
+        "nm": 152982,
+        "roles": [
+          {
+            "char": "Harry Campbell"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Becky Mason"
+          }
+        ]
+      },
+      {
+        "name": "Odette Joannidis",
+        "nm": 423326,
+        "roles": [
+          {
+            "char": "Sandra Mason"
+          }
+        ]
+      },
+      {
+        "name": "Nathan King",
+        "nm": 455094,
+        "roles": [
+          {
+            "char": "Ian Mason"
+          }
+        ]
+      },
+      {
+        "name": "Tammy McCarthy",
+        "nm": 565331,
+        "roles": [
+          {
+            "char": "Laura Valdez"
+          }
+        ]
+      },
+      {
+        "name": "Peter McCauley",
+        "nm": 565518,
+        "roles": [
+          {
+            "char": "Sgt. Ted Harris"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Nugent",
+        "nm": 637777,
+        "roles": [
+          {
+            "char": "Shane Hopkins"
+          }
+        ]
+      },
+      {
+        "name": "Martin Rice",
+        "nm": 2091406,
+        "roles": [
+          {
+            "char": "Assistant Pool Manager"
+          }
+        ]
+      },
+      {
+        "name": "Danny Ritterman",
+        "nm": 1813520,
+        "roles": [
+          {
+            "char": "Nick Olsen"
+          }
+        ]
+      },
+      {
+        "name": "Christie Sistrunk",
+        "nm": 1062952,
+        "roles": [
+          {
+            "char": "Jillian Kinnear"
+          }
+        ]
+      },
+      {
+        "name": "Alison Whyte",
+        "nm": 926661,
+        "roles": [
+          {
+            "char": "Jessica Geddes"
+          }
+        ]
+      },
+      {
+        "name": "Richard E. Young",
+        "nm": 949989,
+        "roles": [
+          {
+            "char": "Barry Kowitz"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "On Thin Ice",
+    "tt": 709655,
+    "air_date": "1998-09-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Keith Agius",
+        "nm": 13075,
+        "roles": [
+          {
+            "char": "Bruce Noon"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Barht",
+        "nm": 1153074,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "Troy Beckwith",
+        "nm": 65892,
+        "roles": [
+          {
+            "char": "Constable John Pascoe"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Susie Edmonds",
+        "nm": 249522,
+        "roles": [
+          {
+            "char": "Barbara Bassett"
+          }
+        ]
+      },
+      {
+        "name": "Peter Hosking",
+        "nm": 396008,
+        "roles": [
+          {
+            "char": "Assistant Commissioner Phil Daly",
+            "ch": 93259
+          }
+        ]
+      },
+      {
+        "name": "John Howard",
+        "nm": 397398,
+        "roles": [
+          {
+            "char": "Sgt. Steve Coombs"
+          }
+        ]
+      },
+      {
+        "name": "Dawn Klingberg",
+        "nm": 459729,
+        "roles": [
+          {
+            "char": "Gwen Smith"
+          }
+        ]
+      },
+      {
+        "name": "Rick McMahon",
+        "nm": 3149109,
+        "roles": [
+          {
+            "char": "Cat 2"
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Reg Roordink",
+        "nm": 740389,
+        "roles": [
+          {
+            "char": "Trevor Smith"
+          }
+        ]
+      },
+      {
+        "name": "Broderick Smith",
+        "nm": 1306604,
+        "roles": [
+          {
+            "char": "Gordon Bassett"
+          }
+        ]
+      },
+      {
+        "name": "Catherine Sutherland",
+        "nm": 840059,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Maria Theodorakis",
+        "nm": 857472,
+        "roles": [
+          {
+            "char": "Constable Mandy Blackwood"
+          }
+        ]
+      },
+      {
+        "name": "Ben Thomas",
+        "nm": 858517,
+        "roles": [
+          {
+            "char": "Alex Bassett"
+          }
+        ]
+      },
+      {
+        "name": "Jane Thornton",
+        "nm": 166636,
+        "roles": [
+          {
+            "char": "Cat 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "One Careless Moment",
+    "tt": 709656,
+    "air_date": "1998-10-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Maureen Andrew",
+        "nm": 28528,
+        "roles": [
+          {
+            "char": "June Fielding"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Barht",
+        "nm": 1153074,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "Vivianne Benton",
+        "nm": 72978,
+        "roles": [
+          {
+            "char": "Mrs Tessler"
+          }
+        ]
+      },
+      {
+        "name": "Don Bridges",
+        "nm": 108725,
+        "roles": [
+          {
+            "char": "Reg Sweetman",
+            "ch": 153908
+          }
+        ]
+      },
+      {
+        "name": "Joan Brockenshire",
+        "nm": 110663,
+        "roles": [
+          {
+            "char": "Sandra Ash"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Erik Donnison",
+        "nm": 232835,
+        "roles": [
+          {
+            "char": "Mr Tessler"
+          }
+        ]
+      },
+      {
+        "name": "Tommy Dysart",
+        "nm": 246005,
+        "roles": [
+          {
+            "char": "Robert Ash"
+          }
+        ]
+      },
+      {
+        "name": "Roy Edmunds",
+        "nm": 249600,
+        "roles": [
+          {
+            "char": "Lex Condylios"
+          }
+        ]
+      },
+      {
+        "name": "Callie Gray",
+        "nm": 336494,
+        "roles": [
+          {
+            "char": "Emma Rushton"
+          }
+        ]
+      },
+      {
+        "name": "Tracey Hannigan",
+        "nm": 1571652,
+        "roles": [
+          {
+            "char": "Mary Dempster"
+          }
+        ]
+      },
+      {
+        "name": "Verity Higgins",
+        "nm": 1566492,
+        "roles": [
+          {
+            "char": "Anne Molloy"
+          }
+        ]
+      },
+      {
+        "name": "Abbe Holmes",
+        "nm": 391736,
+        "roles": [
+          {
+            "char": "Pamela Rushton"
+          }
+        ]
+      },
+      {
+        "name": "Melissa Jayne",
+        "nm": 419752,
+        "roles": [
+          {
+            "char": "Maddy Tessler"
+          }
+        ]
+      },
+      {
+        "name": "Shelly Krape",
+        "nm": 1886006,
+        "roles": [
+          {
+            "char": "Karen Green"
+          }
+        ]
+      },
+      {
+        "name": "Tony Ladiges",
+        "nm": 2119368,
+        "roles": [
+          {
+            "char": "Scott Dempster"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lawton",
+        "nm": 1866882,
+        "roles": [
+          {
+            "char": "Marcus Tessler"
+          }
+        ]
+      },
+      {
+        "name": "Peter Maver",
+        "nm": 561369,
+        "roles": [
+          {
+            "char": "Ted Molloy"
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Russell",
+        "nm": 1556647,
+        "roles": [
+          {
+            "char": "Jacques DuPrez"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Summers",
+        "nm": 838739,
+        "roles": [
+          {
+            "char": "Sam Curtis"
+          }
+        ]
+      },
+      {
+        "name": "George Vidalis",
+        "nm": 896432,
+        "roles": [
+          {
+            "char": "Brian Dempster"
+          }
+        ]
+      },
+      {
+        "name": "Norman Yemm",
+        "nm": 947436,
+        "roles": [
+          {
+            "char": "Norman George"
+          }
+        ]
+      },
+      {
+        "name": "Duncan Young",
+        "nm": 1414228,
+        "roles": [
+          {
+            "char": "Martin Cross"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Three's a Crowd",
+    "tt": 709664,
+    "air_date": "1998-10-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Elspeth Ballantyne",
+        "nm": 50555,
+        "roles": [
+          {
+            "char": "Pat Thompson"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Barht",
+        "nm": 1153074,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "John Brumpton",
+        "nm": 115979,
+        "roles": [
+          {
+            "char": "Clint the Hirer"
+          }
+        ]
+      },
+      {
+        "name": "Tanya Burne",
+        "nm": 122289,
+        "roles": [
+          {
+            "char": "Flatmate"
+          }
+        ]
+      },
+      {
+        "name": "Debra Byrne",
+        "nm": 126160,
+        "roles": [
+          {
+            "char": "Tracy Dabovich"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Lara Cox",
+        "nm": 185123,
+        "roles": [
+          {
+            "char": "Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Max Garner Gore",
+        "nm": 330758,
+        "roles": [
+          {
+            "char": "Hayden Dabovich"
+          }
+        ]
+      },
+      {
+        "name": "Kate Gorman",
+        "nm": 331092,
+        "roles": [
+          {
+            "char": "Miranda Gillingham"
+          }
+        ]
+      },
+      {
+        "name": "Kick Gurry",
+        "nm": 348748,
+        "roles": [
+          {
+            "char": "Josh Dabovich"
+          }
+        ]
+      },
+      {
+        "name": "Daryl Pellizzer",
+        "nm": 671224,
+        "roles": [
+          {
+            "char": "Sgt. Finch"
+          }
+        ]
+      },
+      {
+        "name": "Neil Pollock",
+        "nm": 689688,
+        "roles": [
+          {
+            "char": "Brian Thompson"
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Jenny Seedsman",
+        "nm": 781491,
+        "roles": [
+          {
+            "char": "Helen Gillingham"
+          }
+        ]
+      },
+      {
+        "name": "Nick Waters",
+        "nm": 914151,
+        "roles": [
+          {
+            "char": "James Gillingham"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Assumptions",
+    "tt": 709642,
+    "air_date": "1998-11-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Barht",
+        "nm": 1153074,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Jane Conroy",
+        "nm": 175825,
+        "roles": [
+          {
+            "char": "Aggie Meredith"
+          }
+        ]
+      },
+      {
+        "name": "Ferdinand Hoang",
+        "nm": 1152693,
+        "roles": [
+          {
+            "char": "Phat Nguyen"
+          }
+        ]
+      },
+      {
+        "name": "Trent Huen",
+        "nm": 400063,
+        "roles": [
+          {
+            "char": "Thanh Nguyen"
+          }
+        ]
+      },
+      {
+        "name": "Steve Jodrell",
+        "nm": 423532,
+        "roles": [
+          {
+            "char": "Gus Naylor"
+          }
+        ]
+      },
+      {
+        "name": "Kim Nguyen",
+        "nm": 629039,
+        "roles": [
+          {
+            "char": "Jenny Vuong"
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Greg Stone",
+        "nm": 831898,
+        "roles": [
+          {
+            "char": "Frank Johnson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Into the Fire",
+    "tt": 709653,
+    "air_date": "1998-11-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Hannes Berger",
+        "nm": 74192,
+        "roles": [
+          {
+            "char": "Kurt Geiling"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Andrew Curry",
+        "nm": 193040,
+        "roles": [
+          {
+            "char": "Dean Andrews"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Curry",
+        "nm": 193046,
+        "roles": [
+          {
+            "char": "Nigel Arrowsmith"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Elliott",
+        "nm": 1382394,
+        "roles": [
+          {
+            "char": "Dr. Townsend"
+          }
+        ]
+      },
+      {
+        "name": "Annika Glac",
+        "nm": 321564,
+        "roles": [
+          {
+            "char": "Anna Nilsson"
+          }
+        ]
+      },
+      {
+        "name": "Harold Hopkins",
+        "nm": 394176,
+        "roles": [
+          {
+            "char": "Max Capilano"
+          }
+        ]
+      },
+      {
+        "name": "Kristof Kaczmarek",
+        "nm": 434226,
+        "roles": [
+          {
+            "char": "Gunter Geiling"
+          }
+        ]
+      },
+      {
+        "name": "Laz Korland",
+        "nm": 1913883,
+        "roles": [
+          {
+            "char": "Jim"
+          }
+        ]
+      },
+      {
+        "name": "Lily Ng",
+        "nm": 628800,
+        "roles": [
+          {
+            "char": "Lily"
+          }
+        ]
+      },
+      {
+        "name": "Alyce Platt",
+        "nm": 686842,
+        "roles": [
+          {
+            "char": "Veronica"
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Jon Sculley",
+        "nm": 2115738,
+        "roles": [
+          {
+            "char": "Fire Commander"
+          }
+        ]
+      },
+      {
+        "name": "Angela Stapleton",
+        "nm": 822938,
+        "roles": [
+          {
+            "char": "Bridget Kelly"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "Flying Solo",
+    "tt": 709652,
+    "air_date": "1998-11-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Claire Ferrari"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Barht",
+        "nm": 1153074,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Breuls",
+        "nm": 108068,
+        "roles": [
+          {
+            "char": "David Randell"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Geoff Gaskill",
+        "nm": 1581148,
+        "roles": [
+          {
+            "char": "Roy Featherstone"
+          }
+        ]
+      },
+      {
+        "name": "Richard Grieve",
+        "nm": 341043,
+        "roles": [
+          {
+            "char": "Luke Keppel"
+          }
+        ]
+      },
+      {
+        "name": "Josephine Keen",
+        "nm": 444590,
+        "roles": [
+          {
+            "char": "Crisp"
+          }
+        ]
+      },
+      {
+        "name": "Margot Knight",
+        "nm": 461006,
+        "roles": [
+          {
+            "char": "Trish Randall"
+          }
+        ]
+      },
+      {
+        "name": "Tony Nikolakopoulos",
+        "nm": 631815,
+        "roles": [
+          {
+            "char": "Theo Stavros"
+          }
+        ]
+      },
+      {
+        "name": "Roger Oakley",
+        "nm": 643035,
+        "roles": [
+          {
+            "char": "Barry Randall"
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Sean Scully",
+        "nm": 780297,
+        "roles": [
+          {
+            "char": "Father Frank Driscoll"
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Cheryl Norton"
+          }
+        ]
+      },
+      {
+        "name": "Amy Walsh",
+        "nm": 1791335,
+        "roles": [
+          {
+            "char": "Sophie Pierce"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "Officers & Gentlemen",
+    "tt": 709654,
+    "air_date": "1998-11-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Don Bridges",
+        "nm": 108725,
+        "roles": [
+          {
+            "char": "Reg Sweetman",
+            "ch": 153908
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Stephen Curry",
+        "nm": 193135,
+        "roles": [
+          {
+            "char": "Steve Capelli"
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Davis",
+        "nm": 1471057,
+        "roles": [
+          {
+            "char": "Moody"
+          }
+        ]
+      },
+      {
+        "name": "Peter Docker",
+        "nm": 229994,
+        "roles": [
+          {
+            "char": "Eugene Connolly"
+          }
+        ]
+      },
+      {
+        "name": "Luke Elliot",
+        "nm": 254275,
+        "roles": [
+          {
+            "char": "Glen Bailey"
+          }
+        ]
+      },
+      {
+        "name": "David Gaedicke",
+        "nm": 2294218,
+        "roles": [
+          {
+            "char": "Uniformed Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Hardy",
+        "nm": 362682,
+        "roles": [
+          {
+            "char": "Steve Capelli"
+          }
+        ]
+      },
+      {
+        "name": "Trudy Hellier",
+        "nm": 375437,
+        "roles": [
+          {
+            "char": "Dale Richards"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Morsley",
+        "nm": 607715,
+        "roles": [
+          {
+            "char": "Ben Stevens"
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Amy Walsh",
+        "nm": 1791335,
+        "roles": [
+          {
+            "char": "Sophie Pierce"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "Watershed",
+    "tt": 709666,
+    "air_date": "1998-11-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wendy Hughes",
+        "nm": 400998,
+        "roles": [
+          {
+            "char": "State Coroner Kate Ferrari",
+            "ch": 171144
+          }
+        ]
+      },
+      {
+        "name": "Bob Baines",
+        "nm": 47772,
+        "roles": [
+          {
+            "char": "Deputy Coroner Clive Trimble",
+            "ch": 262486
+          }
+        ]
+      },
+      {
+        "name": "Elaine Smith",
+        "nm": 808107,
+        "roles": [
+          {
+            "char": "Dr. Julie Travers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Carrafa",
+        "nm": 139949,
+        "roles": [
+          {
+            "char": "George Cardillo",
+            "ch": 68922
+          }
+        ]
+      },
+      {
+        "name": "Christopher Gabardi",
+        "nm": 299942,
+        "roles": [
+          {
+            "char": "Senior Const. Daniel Ferris",
+            "ch": 300622
+          }
+        ]
+      },
+      {
+        "name": "Kristian Pithie",
+        "nm": 685695,
+        "roles": [
+          {
+            "char": "Paul Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Barht",
+        "nm": 1153074,
+        "roles": [
+          {
+            "char": "Paula"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Clarke",
+        "nm": 164647,
+        "roles": [
+          {
+            "char": "Colin Docker",
+            "ch": 68923
+          }
+        ]
+      },
+      {
+        "name": "Alan Dale",
+        "nm": 197638,
+        "roles": [
+          {
+            "char": "Atty. Gen. Dudley Mills",
+            "ch": 68938
+          }
+        ]
+      },
+      {
+        "name": "Gary Files",
+        "nm": 276872,
+        "roles": [
+          {
+            "char": "Lionel Morley"
+          }
+        ]
+      },
+      {
+        "name": "Frank Gallacher",
+        "nm": 302314,
+        "roles": [
+          {
+            "char": "Vic Riordan"
+          }
+        ]
+      },
+      {
+        "name": "Susana Guest",
+        "nm": 1812803,
+        "roles": [
+          {
+            "char": "Colette"
+          }
+        ]
+      },
+      {
+        "name": "David Hoflin",
+        "nm": 389333,
+        "roles": [
+          {
+            "char": "Andy Riordan"
+          }
+        ]
+      },
+      {
+        "name": "Jim Koutsoukos",
+        "nm": 1238103,
+        "roles": [
+          {
+            "char": "Security Guard"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Moloney",
+        "nm": 2576586,
+        "roles": [
+          {
+            "char": "Firie"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Morsley",
+        "nm": 607715,
+        "roles": [
+          {
+            "char": "Ben Stevens"
+          }
+        ]
+      },
+      {
+        "name": "David Ross Paterson",
+        "nm": 665485,
+        "roles": [
+          {
+            "char": "Station Officer Robertson",
+            "as David Paterson": true
+          }
+        ]
+      },
+      {
+        "name": "James Reyne",
+        "nm": 721549,
+        "roles": [
+          {
+            "char": "Liam Pearce"
+          }
+        ]
+      },
+      {
+        "name": "Dasi Ruz",
+        "nm": 752288,
+        "roles": [
+          {
+            "char": "Siobhan Kearns",
+            "as Ingrid Ruz": true
+          }
+        ]
+      },
+      {
+        "name": "David Tredinnick",
+        "nm": 871666,
+        "roles": [
+          {
+            "char": "Station Officer"
+          }
+        ]
+      },
+      {
+        "name": "Amy Walsh",
+        "nm": 1791335,
+        "roles": [
+          {
+            "char": "Sophie Pierce"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,5895 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Awakening",
+    "tt": 533094,
+    "air_date": "1979-08-16",
+    "description": "In 1987, a space phenomenon sends NASA astronaut William \"Buck\" Rogers and his space shuttle off course and freezes his life support systems for 500 years. Buck is awakened in 2491 by the evil Draconians on their way to Earth to sign a peace treaty. However, Buck must convince the Earth Defense Directorate that the Draconians, led by the alluring Princess Ardala and her henchman Kane, are actually planning to conquer Earth instead.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Pamela Hensley",
+        "nm": 2135,
+        "roles": [
+          {
+            "char": "Princess Ardala",
+            "ch": 145822
+          }
+        ]
+      },
+      {
+        "name": "Henry Silva",
+        "nm": 798328,
+        "roles": [
+          {
+            "char": "Kane",
+            "ch": 145823
+          }
+        ]
+      },
+      {
+        "name": "Duke Butler",
+        "nm": 124899,
+        "roles": [
+          {
+            "char": "Tigerman"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Caroline Smith",
+        "nm": 807617,
+        "roles": [
+          {
+            "char": "Young Woman"
+          }
+        ]
+      },
+      {
+        "name": "John Dewey Carter",
+        "nm": 141725,
+        "roles": [
+          {
+            "char": "Supervisor",
+            "as John Dewey-Carter": true
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Epper",
+        "nm": 258353,
+        "roles": [
+          {
+            "char": "Drunk",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Vic Perrin",
+        "nm": 674775,
+        "roles": [
+          {
+            "char": "Draconia PA Announcer",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Planet of the Slave Girls",
+    "tt": 533107,
+    "air_date": "1979-09-27",
+    "description": "Evil and charismatic mutant Kaleel poisons Earth's food supply in order to weaken the planet's defenses and launch an attack on our world. Buck Rogers, Wilma Deering, and Major Duke Denton travel to the planet Vistula so they can thwart Keleel's dastardly plans before it's too late.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William 'Buck' Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "David Groh",
+        "nm": 342958,
+        "roles": [
+          {
+            "char": "Major Duke Danton"
+          }
+        ]
+      },
+      {
+        "name": "Roddy McDowall",
+        "nm": 1522,
+        "roles": [
+          {
+            "char": "Governor Saroyan",
+            "as Roddy McDowell": true
+          }
+        ]
+      },
+      {
+        "name": "Brianne Leary",
+        "nm": 495244,
+        "roles": [
+          {
+            "char": "Ryma"
+          }
+        ]
+      },
+      {
+        "name": "Macdonald Carey",
+        "nm": 136994,
+        "roles": [
+          {
+            "char": "Dr. Mallory"
+          }
+        ]
+      },
+      {
+        "name": "Karen Carlson",
+        "nm": 137948,
+        "roles": [
+          {
+            "char": "Stella Warden"
+          }
+        ]
+      },
+      {
+        "name": "Michael Mullins",
+        "nm": 612423,
+        "roles": [
+          {
+            "char": "Regis Saroyan"
+          }
+        ]
+      },
+      {
+        "name": "Buster Crabbe",
+        "nm": 185568,
+        "roles": [
+          {
+            "char": "Brigadier Gordon",
+            "ch": 14679
+          }
+        ]
+      },
+      {
+        "name": "Jack Palance",
+        "nm": 1588,
+        "roles": [
+          {
+            "char": "Kaleel"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Dowdell",
+        "nm": 235703,
+        "roles": [
+          {
+            "char": "Galen"
+          }
+        ]
+      },
+      {
+        "name": "Sheila Wills",
+        "nm": 223179,
+        "roles": [
+          {
+            "char": "Major Fields",
+            "as Sheila DeWindt": true
+          }
+        ]
+      },
+      {
+        "name": "Don Marshall",
+        "nm": 550849,
+        "roles": [
+          {
+            "char": "Julio"
+          }
+        ]
+      },
+      {
+        "name": "Diane Markoff",
+        "nm": 548585,
+        "roles": [
+          {
+            "char": "Female Pilot"
+          }
+        ]
+      },
+      {
+        "name": "June Whitley Taylor",
+        "nm": 926046,
+        "roles": [
+          {
+            "char": "Woman"
+          }
+        ]
+      },
+      {
+        "name": "Borah Silver",
+        "nm": 798657,
+        "roles": [
+          {
+            "char": "Husband"
+          }
+        ]
+      },
+      {
+        "name": "Michael Masters",
+        "nm": 557698,
+        "roles": [
+          {
+            "char": "Worker"
+          }
+        ]
+      },
+      {
+        "name": "Don Maxwell",
+        "nm": 561688,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Nathaniel Brian Wine",
+        "nm": 2214001,
+        "roles": [
+          {
+            "char": "Technician",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tim Robbins",
+        "nm": 209,
+        "roles": [
+          {
+            "char": "Slave",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Vegas in Space",
+    "tt": 533125,
+    "air_date": "1979-10-04",
+    "description": "Buck works with Major Marla Landers to infiltrate Sinaloa, the gambling capital of the galaxy, in order to rescue a young woman who has been abducted by criminals who want the corporate secrets she possesses. But Buck meets the beautiful Tangie, another damsel in distress, and must take on her boss, the sinister Morgan Velosi, who runs Sinaloa.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Richard Lynch",
+        "nm": 528433,
+        "roles": [
+          {
+            "char": "Morgan Velosi"
+          }
+        ]
+      },
+      {
+        "name": "Ana Alicia",
+        "nm": 19578,
+        "roles": [
+          {
+            "char": "Falina Redding"
+          }
+        ]
+      },
+      {
+        "name": "Juanin Clay",
+        "nm": 165536,
+        "roles": [
+          {
+            "char": "Major Marla Landers"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Susan Shoop",
+        "nm": 794870,
+        "roles": [
+          {
+            "char": "Tangie"
+          }
+        ]
+      },
+      {
+        "name": "James Luisi",
+        "nm": 525403,
+        "roles": [
+          {
+            "char": "Hood"
+          }
+        ]
+      },
+      {
+        "name": "Cesar Romero",
+        "nm": 3110,
+        "roles": [
+          {
+            "char": "Amos Armat"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Morphus"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Alice Frost",
+        "nm": 296470,
+        "roles": [
+          {
+            "char": "Rita"
+          }
+        ]
+      },
+      {
+        "name": "Ted Chapman",
+        "nm": 152537,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Olan Soule",
+        "nm": 815825,
+        "roles": [
+          {
+            "char": "Sinaloa Gaming Computer",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Plot to Kill a City: Part 1",
+    "tt": 533118,
+    "air_date": "1979-10-11",
+    "description": "After one of their number gets killed by an Earth Defense Directorate agent, an elite group of lethal assassins known as the Legion of Death vow revenge and devise a plan to destroy New Chicago. Buck Rogers infiltrates the gang by posing as killer-for-hire Raphael Argus.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Victor Argo",
+        "nm": 34519,
+        "roles": [
+          {
+            "char": "Argus"
+          }
+        ]
+      },
+      {
+        "name": "Sena Ayn Black",
+        "nm": 85507,
+        "roles": [
+          {
+            "char": "Woman",
+            "as Sena Black": true
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nancy DeCarl",
+        "nm": 1049328,
+        "roles": [
+          {
+            "char": "Sherese"
+          }
+        ]
+      },
+      {
+        "name": "John Furlong",
+        "nm": 298952,
+        "roles": [
+          {
+            "char": "1st Cop"
+          }
+        ]
+      },
+      {
+        "name": "Seamon Glass",
+        "nm": 322005,
+        "roles": [
+          {
+            "char": "Pirate"
+          }
+        ]
+      },
+      {
+        "name": "Frank Gorshin",
+        "nm": 331319,
+        "roles": [
+          {
+            "char": "Seton Kellogg",
+            "ch": 101286
+          }
+        ]
+      },
+      {
+        "name": "Anthony James",
+        "nm": 416279,
+        "roles": [
+          {
+            "char": "Varek"
+          }
+        ]
+      },
+      {
+        "name": "Markie Post",
+        "nm": 692850,
+        "roles": [
+          {
+            "char": "Joella Cameron"
+          }
+        ]
+      },
+      {
+        "name": "John Quade",
+        "nm": 702723,
+        "roles": [
+          {
+            "char": "Jolen Quince"
+          }
+        ]
+      },
+      {
+        "name": "Richard Reed",
+        "nm": 715644,
+        "roles": [
+          {
+            "char": "1st Rowdy"
+          }
+        ]
+      },
+      {
+        "name": "Mitch Reta",
+        "nm": 2217172,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "James Sloyan",
+        "nm": 806277,
+        "roles": [
+          {
+            "char": "Barney"
+          }
+        ]
+      },
+      {
+        "name": "Robert Tessier",
+        "nm": 856377,
+        "roles": [
+          {
+            "char": "Marcos"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "The Plot to Kill a City: Part 2",
+    "tt": 533119,
+    "air_date": "1979-10-18",
+    "description": "The Legion of Death discover Buck Rogers' true identity, but he manages to avoid being killed by the nefarious gang of deadly assassins. But can Rogers stop the Legion of Death from destroying New Chicago?",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Frank Gorshin",
+        "nm": 331319,
+        "roles": [
+          {
+            "char": "Seton Kellogg",
+            "ch": 101286
+          }
+        ]
+      },
+      {
+        "name": "John Quade",
+        "nm": 702723,
+        "roles": [
+          {
+            "char": "Jolen Quince"
+          }
+        ]
+      },
+      {
+        "name": "Anthony James",
+        "nm": 416279,
+        "roles": [
+          {
+            "char": "Varek"
+          }
+        ]
+      },
+      {
+        "name": "James McEachin",
+        "nm": 533013,
+        "roles": [
+          {
+            "char": "Richard Selvan"
+          }
+        ]
+      },
+      {
+        "name": "Nancy DeCarl",
+        "nm": 1049328,
+        "roles": [
+          {
+            "char": "Sherese"
+          }
+        ]
+      },
+      {
+        "name": "Markie Post",
+        "nm": 692850,
+        "roles": [
+          {
+            "char": "Joella Cameron"
+          }
+        ]
+      },
+      {
+        "name": "Robert Tessier",
+        "nm": 856377,
+        "roles": [
+          {
+            "char": "Marcos"
+          }
+        ]
+      },
+      {
+        "name": "James Sloyan",
+        "nm": 806277,
+        "roles": [
+          {
+            "char": "Barney"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Victor Argo",
+        "nm": 34519,
+        "roles": [
+          {
+            "char": "Argus"
+          }
+        ]
+      },
+      {
+        "name": "Whitney Rydbeck",
+        "nm": 753044,
+        "roles": [
+          {
+            "char": "Hartsteen"
+          }
+        ]
+      },
+      {
+        "name": "Gwenn Mitchell",
+        "nm": 593380,
+        "roles": [
+          {
+            "char": "Ticket Clerk",
+            "as Gwen Mitchell": true
+          }
+        ]
+      },
+      {
+        "name": "Nonice Williams",
+        "nm": 2227930,
+        "roles": [
+          {
+            "char": "Katrina"
+          }
+        ]
+      },
+      {
+        "name": "John Furlong",
+        "nm": 298952,
+        "roles": [
+          {
+            "char": "1st Cop"
+          }
+        ]
+      },
+      {
+        "name": "Mitch Reta",
+        "nm": 2217172,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Richard Reed",
+        "nm": 715644,
+        "roles": [
+          {
+            "char": "1st Rowdy"
+          }
+        ]
+      },
+      {
+        "name": "Seamon Glass",
+        "nm": 322005,
+        "roles": [
+          {
+            "char": "Pirate"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Return of the Fighting 69th",
+    "tt": 533108,
+    "air_date": "1979-10-25",
+    "description": "A squadron of elderly space fighter pilots led by Major Noah Cooper who were forced to retire by Wilma Deering are brought back into active service so they can lead an attack on the fortified base of the vengeful Commander Corliss and his equally bitter cohort Roxanne Trent. The two disfigured criminals are planning on dropping nerve gas on Earth.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Major Noah Cooper"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Allen",
+        "nm": 20490,
+        "roles": [
+          {
+            "char": "Roxanne Trent"
+          }
+        ]
+      },
+      {
+        "name": "Robert Quarry",
+        "nm": 67146,
+        "roles": [
+          {
+            "char": "Commander Corliss"
+          }
+        ]
+      },
+      {
+        "name": "Woody Strode",
+        "nm": 834754,
+        "roles": [
+          {
+            "char": "Sergeant 'Big Red' MacMurthy"
+          }
+        ]
+      },
+      {
+        "name": "Eddie Firestone",
+        "nm": 278646,
+        "roles": [
+          {
+            "char": "Corporal M.K. Schultz"
+          }
+        ]
+      },
+      {
+        "name": "K.T. Stevens",
+        "nm": 828523,
+        "roles": [
+          {
+            "char": "Lieutenant Harriet Twain"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Katherine Wiberg",
+        "nm": 1528709,
+        "roles": [
+          {
+            "char": "Alicia"
+          }
+        ]
+      },
+      {
+        "name": "Robert Hardy",
+        "nm": 362735,
+        "roles": [
+          {
+            "char": "Clayton"
+          }
+        ]
+      },
+      {
+        "name": "Duncan McKenzie",
+        "nm": 2223661,
+        "roles": [
+          {
+            "char": "Westlake"
+          }
+        ]
+      },
+      {
+        "name": "Clifford Turknett",
+        "nm": 877214,
+        "roles": [
+          {
+            "char": "War Technician"
+          }
+        ]
+      },
+      {
+        "name": "Dan Sturkie",
+        "nm": 836387,
+        "roles": [
+          {
+            "char": "Eli Twain"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Unchained Woman",
+    "tt": 533124,
+    "air_date": "1979-11-01",
+    "description": "Buck Rogers takes the place of a convict so he can spring Jen Burton out of jail. The young woman had taken the blame for crimes committed by her boyfriend, Malary Pantera , and the Directorate wants her to testify against him. However, she still loves Pantera and refuses to cooperate. Further more, they have to cross a desert on foot to make it to the nearest spaceport and are being followed by a malfunctioning mechanical prison guard.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Jamie Lee Curtis",
+        "nm": 130,
+        "roles": [
+          {
+            "char": "Jen Burton"
+          }
+        ]
+      },
+      {
+        "name": "Michael DeLano",
+        "nm": 216399,
+        "roles": [
+          {
+            "char": "Malary Pantera",
+            "as Michael Delano": true
+          }
+        ]
+      },
+      {
+        "name": "Bert Rosario",
+        "nm": 741034,
+        "roles": [
+          {
+            "char": "Sergio Sanwiler"
+          }
+        ]
+      },
+      {
+        "name": "Tara Buckman",
+        "nm": 118723,
+        "roles": [
+          {
+            "char": "Majel"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Walter Hunter",
+        "nm": 1648205,
+        "roles": [
+          {
+            "char": "Hugo"
+          }
+        ]
+      },
+      {
+        "name": "Robert Cornthwaite",
+        "nm": 180452,
+        "roles": [
+          {
+            "char": "Warwick"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Ades",
+        "nm": 11937,
+        "roles": [
+          {
+            "char": "Gymon",
+            "as Danny Ades": true
+          }
+        ]
+      },
+      {
+        "name": "Jim B. Smith",
+        "nm": 808729,
+        "roles": [
+          {
+            "char": "Shuttle Captain"
+          }
+        ]
+      },
+      {
+        "name": "Charles Walker",
+        "nm": 907605,
+        "roles": [
+          {
+            "char": "Lt. Zimmerman"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Planet of the Amazon Women",
+    "tt": 533106,
+    "air_date": "1979-11-08",
+    "description": "The Earth is negotiating with the planet Ruatha to maintain its right to mine Barberite on the Ruathan held planet Madrea. While Buck is flying to keep the space between the planets clear he is lured to the planet Zantia by a phony distress call from two beautiful women. Zantia was once at war with Ruatha and is a planet almost entirely devoid of men. Buck is auctioned off and mated with the Prime Minister's daughter who is at odds with her mother. Buck must escape Zantia while finding a way to smooth the negotiations with the troublesome Ruathan diplomat.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Ann Dusenberry",
+        "nm": 244619,
+        "roles": [
+          {
+            "char": "Ariela"
+          }
+        ]
+      },
+      {
+        "name": "Jay Robinson",
+        "nm": 732717,
+        "roles": [
+          {
+            "char": "Cassius Thorne"
+          }
+        ]
+      },
+      {
+        "name": "Anne Jeffreys",
+        "nm": 420331,
+        "roles": [
+          {
+            "char": "Prime Minister"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Antoinette Stella",
+        "nm": 826291,
+        "roles": [
+          {
+            "char": "Jayel"
+          }
+        ]
+      },
+      {
+        "name": "Wendy Oates",
+        "nm": 643106,
+        "roles": [
+          {
+            "char": "Renna"
+          }
+        ]
+      },
+      {
+        "name": "Liberty Godshall",
+        "nm": 324211,
+        "roles": [
+          {
+            "char": "Nyree"
+          }
+        ]
+      },
+      {
+        "name": "Darrell Zwerling",
+        "nm": 959022,
+        "roles": [
+          {
+            "char": "Macon"
+          }
+        ]
+      },
+      {
+        "name": "Teddi Siddall",
+        "nm": 796493,
+        "roles": [
+          {
+            "char": "Linea"
+          }
+        ]
+      },
+      {
+        "name": "Wally K. Berns",
+        "nm": 76976,
+        "roles": [
+          {
+            "char": "Pilot"
+          }
+        ]
+      },
+      {
+        "name": "James Faracci",
+        "nm": 266986,
+        "roles": [
+          {
+            "char": "Karsh",
+            "as James Fraracci": true
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ron Gans",
+        "nm": 304532,
+        "roles": [
+          {
+            "char": "Mr. DeBronin",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sean Garrison",
+        "nm": 308466,
+        "roles": [
+          {
+            "char": "Flight Controller",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Cosmic Whiz Kid",
+    "tt": 533097,
+    "air_date": "1979-11-15",
+    "description": "The President of the planet Genesia is kidnapped and held for ransom. He is no ordinary President...he is a child genius from the 20th century named Hieronymous Fox. His kidnapper is Roderick Zale whose specialty is political abduction. The President's bodyguard , Lt. Dia Cyrton, appeals to Earth for help in rescuing him but officially Earth cannot help. When her request is denied she enlists Buck to her cause who is only too eager to meet someone from his own time.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Gary Coleman",
+        "nm": 171041,
+        "roles": [
+          {
+            "char": "Hieronymous Fox",
+            "ch": 203127
+          }
+        ]
+      },
+      {
+        "name": "Ray Walston",
+        "nm": 1827,
+        "roles": [
+          {
+            "char": "Roderick Zale"
+          }
+        ]
+      },
+      {
+        "name": "Melody Rogers",
+        "nm": 737083,
+        "roles": [
+          {
+            "char": "Lt. Dia Cyrton"
+          }
+        ]
+      },
+      {
+        "name": "Albert Popwell",
+        "nm": 691620,
+        "roles": [
+          {
+            "char": "Koren"
+          }
+        ]
+      },
+      {
+        "name": "Earl Boen",
+        "nm": 91286,
+        "roles": [
+          {
+            "char": "Selmar"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lester Fletcher",
+        "nm": 282059,
+        "roles": [
+          {
+            "char": "M.D. Toman"
+          }
+        ]
+      },
+      {
+        "name": "Tobar Mayo",
+        "nm": 562919,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Tony Epper",
+        "nm": 258353,
+        "roles": [
+          {
+            "char": "Drunk"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Escape from Wedded Bliss",
+    "tt": 533099,
+    "air_date": "1979-11-29",
+    "description": "Princess Ardala returns to Earth with a deadly space weapon that can destroy the planet city by city. She tells the Defense Directorate that she will proceed unless Buck Rogers is turned over to her so that she can marry him. Dr. Huer initially refuses but when things look bleak, Buck goes along to Ardala's ship to prepare for the wedding. However, with some assistance from an old Draconian defector, Buck tries to destroy Ardala's weapon before he becomes her groom.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Pamela Hensley",
+        "nm": 2135,
+        "roles": [
+          {
+            "char": "Princess Ardala",
+            "ch": 145822
+          }
+        ]
+      },
+      {
+        "name": "Michael Ansara",
+        "nm": 30516,
+        "roles": [
+          {
+            "char": "Kane",
+            "ch": 145823
+          }
+        ]
+      },
+      {
+        "name": "Alfred Ryder",
+        "nm": 753086,
+        "roles": [
+          {
+            "char": "Garedon"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "H.B. Haggerty",
+        "nm": 353637,
+        "roles": [
+          {
+            "char": "Tigerman"
+          }
+        ]
+      },
+      {
+        "name": "Elaine Nista",
+        "nm": 2622685,
+        "roles": [
+          {
+            "char": "Disco Skater"
+          }
+        ]
+      },
+      {
+        "name": "Tracy Miller",
+        "nm": 2620325,
+        "roles": [
+          {
+            "char": "Disco Skater"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Morris",
+        "nm": 2618440,
+        "roles": [
+          {
+            "char": "Disco Skater"
+          }
+        ]
+      },
+      {
+        "name": "Gary Stang",
+        "nm": 2622973,
+        "roles": [
+          {
+            "char": "Disco Skater"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Cruise Ship to the Stars",
+    "tt": 533098,
+    "air_date": "1979-12-27",
+    "description": "It's abduction and genetic piracy on the \"high seas\" of deep space when Buck, Wilma, and Twiki board the luxury space-liner \"Lyran Queen\" to protect Miss Cosmos, a genetically perfect beauty queen who is the kidnap target of a mysterious woman with awesome superpowers.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Leigh McCloskey",
+        "nm": 565907,
+        "roles": [
+          {
+            "char": "Jalor Davin"
+          }
+        ]
+      },
+      {
+        "name": "Trisha Noble",
+        "nm": 633682,
+        "roles": [
+          {
+            "char": "Sabrina"
+          }
+        ]
+      },
+      {
+        "name": "Brett Halsey",
+        "nm": 357020,
+        "roles": [
+          {
+            "char": "Cruise Ship Captain"
+          }
+        ]
+      },
+      {
+        "name": "Kimberly Beck",
+        "nm": 65206,
+        "roles": [
+          {
+            "char": "Alison"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patty Maloney",
+        "nm": 540593,
+        "roles": [
+          {
+            "char": "Tina"
+          }
+        ]
+      },
+      {
+        "name": "Timothy O'Hagan",
+        "nm": 641152,
+        "roles": [
+          {
+            "char": "Young Man"
+          }
+        ]
+      },
+      {
+        "name": "Dorothy Stratten",
+        "nm": 833617,
+        "roles": [
+          {
+            "char": "Miss Cosmos",
+            "as Dorothy R. Stratten": true
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Space Vampire",
+    "tt": 533111,
+    "air_date": "1980-01-03",
+    "description": "Theta Station gets put under quarantine after a space shuttle full of dead crew members crashes into it. The source of said deaths is energy-draining space vampire the Vorvon, who plans on making Wilma Deering his next victim. However, only Buck Rogers is convinced that the Vorvon exists.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stone",
+        "nm": 831791,
+        "roles": [
+          {
+            "char": "Space Station Commander Royko"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Hormann",
+        "nm": 394778,
+        "roles": [
+          {
+            "char": "Vorvon"
+          }
+        ]
+      },
+      {
+        "name": "Lincoln Kilpatrick",
+        "nm": 453299,
+        "roles": [
+          {
+            "char": "Dr. Ecbar"
+          }
+        ]
+      },
+      {
+        "name": "Patty Maloney",
+        "nm": 540593,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "David Moses",
+        "nm": 608566,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Phil Hoover",
+        "nm": 393918,
+        "roles": [
+          {
+            "char": "Helson"
+          }
+        ]
+      },
+      {
+        "name": "Jeannie Fitzsimmons",
+        "nm": 280625,
+        "roles": [
+          {
+            "char": "The Captain"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Happy Birthday, Buck",
+    "tt": 533102,
+    "air_date": "1980-01-10",
+    "description": "The bitter and vindictive Cornell Traeger escapes from a remote planet that he's been imprisoned on for fifteen years. Traeger blames Dr. Elias Huer for what happened to him and plans to get revenge on him. Traeger uses courier Raylyn Merritt and Psych Med Dr. Delora Bayliss to achieve this nefarious goal. Meanwhile, Buck Rogers feels homesick for the 20th century on the eve of his 534th birthday.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Morgan Brittany",
+        "nm": 110115,
+        "roles": [
+          {
+            "char": "Raylyn Merritt"
+          }
+        ]
+      },
+      {
+        "name": "Tamara Dobson",
+        "nm": 229939,
+        "roles": [
+          {
+            "char": "Dr. Delora Bayliss"
+          }
+        ]
+      },
+      {
+        "name": "Peter MacLean",
+        "nm": 533806,
+        "roles": [
+          {
+            "char": "Col. Cornell Traeger",
+            "as Peter Mac Lean": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chip Johnson",
+        "nm": 424766,
+        "roles": [
+          {
+            "char": "Carew"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Wright",
+        "nm": 942257,
+        "roles": [
+          {
+            "char": "Rorvik"
+          }
+        ]
+      },
+      {
+        "name": "Eric Mason",
+        "nm": 1766116,
+        "roles": [
+          {
+            "char": "Lt. Garth"
+          }
+        ]
+      },
+      {
+        "name": "Abraham Alvarez",
+        "nm": 23225,
+        "roles": [
+          {
+            "char": "Security Agent",
+            "as Abe Alvarez": true
+          }
+        ]
+      },
+      {
+        "name": "Harry Gold",
+        "nm": 324985,
+        "roles": [
+          {
+            "char": "Alien Squadron Leader"
+          }
+        ]
+      },
+      {
+        "name": "Tom Gagen",
+        "nm": 1620601,
+        "roles": [
+          {
+            "char": "Niles"
+          }
+        ]
+      },
+      {
+        "name": "Clay Alexander",
+        "nm": 2227484,
+        "roles": [
+          {
+            "char": "Marsden"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Woodbeck",
+        "nm": 940154,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Gina Gallego",
+        "nm": 302704,
+        "roles": [
+          {
+            "char": "Woman"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "A Blast for Buck",
+    "tt": 533091,
+    "air_date": "1980-01-17",
+    "description": "A satellite enters earth orbit. It transmits a message intended for Buck, and a warning of a possible attack. Buck and his friends try to figure out who might have sent the satellite to prevent the attack.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Gary Coleman",
+        "nm": 171041,
+        "roles": [
+          {
+            "char": "Hieronymous Fox",
+            "ch": 203127
+          }
+        ]
+      },
+      {
+        "name": "Patty Maloney",
+        "nm": 540593,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ana Alicia",
+        "nm": 19578,
+        "roles": [
+          {
+            "char": "Falina Redding",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Allen",
+        "nm": 20490,
+        "roles": [
+          {
+            "char": "Roxanne Trent",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Ansara",
+        "nm": 30516,
+        "roles": [
+          {
+            "char": "Kane",
+            "ch": 145823,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Victor Argo",
+        "nm": 34519,
+        "roles": [
+          {
+            "char": "Argus",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Kimberly Beck",
+        "nm": 65206,
+        "roles": [
+          {
+            "char": "Allison Michaels",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Buckman",
+        "nm": 118723,
+        "roles": [
+          {
+            "char": "Majel",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Karen Carlson",
+        "nm": 137948,
+        "roles": [
+          {
+            "char": "Stella Warden",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Juanin Clay",
+        "nm": 165536,
+        "roles": [
+          {
+            "char": "Major Marla Landers",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Buster Crabbe",
+        "nm": 185568,
+        "roles": [
+          {
+            "char": "Brigadier Gordon",
+            "ch": 14679,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Jamie Lee Curtis",
+        "nm": 130,
+        "roles": [
+          {
+            "char": "Jen Burton",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Nancy DeCarl",
+        "nm": 1049328,
+        "roles": [
+          {
+            "char": "Sherese",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Michael DeLano",
+        "nm": 216399,
+        "roles": [
+          {
+            "char": "Malary Pantera",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Dowdell",
+        "nm": 235703,
+        "roles": [
+          {
+            "char": "Galen",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Ann Dusenberry",
+        "nm": 244619,
+        "roles": [
+          {
+            "char": "Ariela",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Eddie Firestone",
+        "nm": 278646,
+        "roles": [
+          {
+            "char": "Corporal M.K. Schultz",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Lester Fletcher",
+        "nm": 282059,
+        "roles": [
+          {
+            "char": "M.D. Toman",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Sean Garrison",
+        "nm": 308466,
+        "roles": [
+          {
+            "char": "Flight Controller",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Frank Gorshin",
+        "nm": 331319,
+        "roles": [
+          {
+            "char": "Seton Kellogg",
+            "ch": 101286,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Graves",
+        "nm": 336335,
+        "roles": [
+          {
+            "char": "Major Noah Cooper",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "H.B. Haggerty",
+        "nm": 353637,
+        "roles": [
+          {
+            "char": "Tigerman",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Pamela Hensley",
+        "nm": 2135,
+        "roles": [
+          {
+            "char": "Princess Ardala",
+            "ch": 145822,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Walter Hunter",
+        "nm": 1648205,
+        "roles": [
+          {
+            "char": "Hugo",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Anthony James",
+        "nm": 416279,
+        "roles": [
+          {
+            "char": "Varek",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Lynch",
+        "nm": 528433,
+        "roles": [
+          {
+            "char": "Velosi",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Leigh McCloskey",
+        "nm": 565907,
+        "roles": [
+          {
+            "char": "Jay",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Trisha Noble",
+        "nm": 633682,
+        "roles": [
+          {
+            "char": "Sabrina",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Jack Palance",
+        "nm": 1588,
+        "roles": [
+          {
+            "char": "Kaleel",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Albert Popwell",
+        "nm": 691620,
+        "roles": [
+          {
+            "char": "Koren",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "John Quade",
+        "nm": 702723,
+        "roles": [
+          {
+            "char": "Jolen Quince",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Quarry",
+        "nm": 67146,
+        "roles": [
+          {
+            "char": "Commander Corliss",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Jay Robinson",
+        "nm": 732717,
+        "roles": [
+          {
+            "char": "Cassius Thorne",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Melody Rogers",
+        "nm": 737083,
+        "roles": [
+          {
+            "char": "Lt. Dia Cyrton",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Pamela Susan Shoop",
+        "nm": 794870,
+        "roles": [
+          {
+            "char": "Tangie",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Teddi Siddall",
+        "nm": 796493,
+        "roles": [
+          {
+            "char": "Linea",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "K.T. Stevens",
+        "nm": 828523,
+        "roles": [
+          {
+            "char": "Harriett Twain",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Dorothy Stratten",
+        "nm": 833617,
+        "roles": [
+          {
+            "char": "Miss Cosmos",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Woody Strode",
+        "nm": 834754,
+        "roles": [
+          {
+            "char": "Big Red",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Sturkie",
+        "nm": 836387,
+        "roles": [
+          {
+            "char": "Eli Twain",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Ray Walston",
+        "nm": 1827,
+        "roles": [
+          {
+            "char": "Roderick Zale",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Katherine Wiberg",
+        "nm": 1528709,
+        "roles": [
+          {
+            "char": "Alicia",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Sheila Wills",
+        "nm": 223179,
+        "roles": [
+          {
+            "char": "Major Fields",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Joseph Wiseman",
+        "nm": 936476,
+        "roles": [
+          {
+            "char": "Morphus",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Ardala Returns",
+    "tt": 533093,
+    "air_date": "1980-01-24",
+    "description": "Kane has perfected a new design for the Hatchet Fighters of the Draconian Realm, but in testing the empire's best pilots cannot control their ships, invariably resulting in their destruction. Ardala, determined to launch attacks on Earth, orders the capture of Buck Rogers, the one pilot in the galaxy who can possibly control Kane's new Hatchet Fighters. Using a dramatic ruse, Ardala succeeds in capturing Buck and Twiki, and prepares Buck for the debut of the Zygots, robot duplicates of himself. Strapping Buck into a bulky space suit, the Draconians record all of his abilities and transfer the data into the Zygot prototype, who is a near-perfect clone of Buck except for his mangling of some of Buck's 20th century parlance and his excessively happy personality. The prototype nonetheless succeeds in infiltrating Earth, but when the ruse is discovered, Ardala has three more Zygot models ready to fly Hatchet Fighters in an attack on a major Earth city, and when they engage the Intercept Squadron they slaughter Earth Starfighters as if they weren't even armed spacecraft - until help arrives in the form of a fourth Hatchet Fighter......",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Pamela Hensley",
+        "nm": 2135,
+        "roles": [
+          {
+            "char": "Princess Ardala",
+            "ch": 145822
+          }
+        ]
+      },
+      {
+        "name": "Michael Ansara",
+        "nm": 30516,
+        "roles": [
+          {
+            "char": "Kane",
+            "ch": 145823
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "H.B. Haggerty",
+        "nm": 353637,
+        "roles": [
+          {
+            "char": "Tigerman"
+          }
+        ]
+      },
+      {
+        "name": "James Emery",
+        "nm": 256302,
+        "roles": [
+          {
+            "char": "Pilot"
+          }
+        ]
+      },
+      {
+        "name": "Betty A. Bridges",
+        "nm": 108712,
+        "roles": [
+          {
+            "char": "Technician",
+            "as Betty Bridges": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Minor",
+        "nm": 591567,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nick Dimitri",
+        "nm": 227313,
+        "roles": [
+          {
+            "char": "Guard",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Twiki Is Missing",
+    "tt": 533123,
+    "air_date": "1980-01-31",
+    "description": "Evil space mine owner Kurt Belzack abducts Twiki so he can investigate the diminutive drone's unique circuitry and make cheap duplicates of Twiki to work in his mine. It's up to Buck Rogers to save Twiki. Meanwhile, Wilma Deering has her hands full with a huge floating chunk of frozen oxygen that could destroy most of the Earth's population if it veers off course.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Anne-Marie Martin",
+        "nm": 551926,
+        "roles": [
+          {
+            "char": "Stella",
+            "as Eddie Benton": true
+          }
+        ]
+      },
+      {
+        "name": "John P. Ryan",
+        "nm": 752636,
+        "roles": [
+          {
+            "char": "Kurt Belzack"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "David Darlow",
+        "nm": 201436,
+        "roles": [
+          {
+            "char": "Pinchas"
+          }
+        ]
+      },
+      {
+        "name": "Bebe Louie",
+        "nm": 521814,
+        "roles": [
+          {
+            "char": "Clare",
+            "as Janet Bebe Louie": true
+          }
+        ]
+      },
+      {
+        "name": "Eugenia Wright",
+        "nm": 942386,
+        "roles": [
+          {
+            "char": "Dawn"
+          }
+        ]
+      },
+      {
+        "name": "Ken Letner",
+        "nm": 504707,
+        "roles": [
+          {
+            "char": "Oto Anad"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Olympiad",
+    "tt": 533105,
+    "air_date": "1980-02-07",
+    "description": "Buck attends a new version of the Olympics. He meets Lara one of the athletes who tells him that she is involved with Jorex an athlete from a planet that's ruled by a dictator who has Jorex under his thumb. She's asking for Buck's help so that Jorex can defect to Earth. Buck calls Wilma and Huer who agree to help. They decide to consult another refugee from Jorex's planet. He tells them that the dictator will do whatever he has to keep him from escaping eve kill him. However Allerick, the man in charge of Jorex learns of the plan and abducts Lara.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Nicolas Coster",
+        "nm": 182661,
+        "roles": [
+          {
+            "char": "Allerick"
+          }
+        ]
+      },
+      {
+        "name": "Judith Chapman",
+        "nm": 152420,
+        "roles": [
+          {
+            "char": "Lara Teasian"
+          }
+        ]
+      },
+      {
+        "name": "Barney McFadden",
+        "nm": 568653,
+        "roles": [
+          {
+            "char": "Jorex Leet"
+          }
+        ]
+      },
+      {
+        "name": "Paul Mantee",
+        "nm": 544045,
+        "roles": [
+          {
+            "char": "Karl"
+          }
+        ]
+      },
+      {
+        "name": "Elgin Baylor",
+        "nm": 1345606,
+        "roles": [
+          {
+            "char": "Olympian"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Davis",
+        "nm": 204183,
+        "roles": [
+          {
+            "char": "Olympian"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Henderson",
+        "nm": 1232688,
+        "roles": [
+          {
+            "char": "Olympian",
+            "as Thomas 'Hollywood' Henderson": true
+          }
+        ]
+      },
+      {
+        "name": "Carlos Palomino",
+        "nm": 658735,
+        "roles": [
+          {
+            "char": "Olympian"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Quarry",
+        "nm": 1620897,
+        "roles": [
+          {
+            "char": "Quarod"
+          }
+        ]
+      },
+      {
+        "name": "Bob Seagren",
+        "nm": 780479,
+        "roles": [
+          {
+            "char": "Rand Sorgon"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Coufos",
+        "nm": 183310,
+        "roles": [
+          {
+            "char": "Zogan"
+          }
+        ]
+      },
+      {
+        "name": "John A. Zee",
+        "nm": 954173,
+        "roles": [
+          {
+            "char": "Satrap",
+            "as John Zee": true
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "A Dream of Jennifer",
+    "tt": 533092,
+    "air_date": "1980-02-14",
+    "description": "Buck is haunted by the sight of a woman, who looks like his 20th century girlfriend, alive on present day Earth. Buck follows the young girl, but she continues to give him the slip until he catches her in the resort town of City-on-the-Sea. The stranger, named Leila, reveals that it is no coincidence that she looks like Buck's long-lost girl friend: her appearance has been purposely altered by an alien named Reev so that she could serve as a lure. With Buck captured by the aliens, Reev demands that Buck stop a shipment of arms to a planet his people have plans to conquer. Buck gets Wilma to detonate a warhead to fool Reev into thinking the shipment is destroyed. Reev orders his men to kill Buck, but Leila steps in front of Buck to take the laser blast. Buck defeats the aliens, but loses Leila, and his lost love again, as she tearfully dies in his arms.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Paul Koslo",
+        "nm": 467178,
+        "roles": [
+          {
+            "char": "Commander Reeve"
+          }
+        ]
+      },
+      {
+        "name": "Gino Conforti",
+        "nm": 174581,
+        "roles": [
+          {
+            "char": "Sylvie"
+          }
+        ]
+      },
+      {
+        "name": "Mary Woronov",
+        "nm": 1862,
+        "roles": [
+          {
+            "char": "Nola"
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Jennifer"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jessie Lawrence Ferguson",
+        "nm": 272481,
+        "roles": [
+          {
+            "char": "Lt. Rekoff"
+          }
+        ]
+      },
+      {
+        "name": "Cameron Young",
+        "nm": 949351,
+        "roles": [
+          {
+            "char": "Toby Kaplin"
+          }
+        ]
+      },
+      {
+        "name": "Shawn Michaels",
+        "nm": 584497,
+        "roles": [
+          {
+            "char": "Supervisor"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Haysbert",
+        "nm": 371660,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Marsha Mercant",
+        "nm": 580189,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Mitchel Evans",
+        "nm": 263079,
+        "roles": [
+          {
+            "char": "Mime",
+            "as Mitchell Young-Evans": true
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Space Rockers",
+    "tt": 533110,
+    "air_date": "1980-02-21",
+    "description": "Evil rock music impresario Lars Mangros puts hypnotic signals in the music done by his best-selling band Andromeda that incites young fans to riot and rebel against authority. Andromeda are going to perform their first big concert which will be broadcast on a global basis. It's up to Buck Rogers and Twiki to thwart Mangros' dastardly plot to warp the minds of the youth all over the universe during said concert.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Jerry Orbach",
+        "nm": 1583,
+        "roles": [
+          {
+            "char": "Lars Mangros"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Frangione",
+        "nm": 290783,
+        "roles": [
+          {
+            "char": "Karana"
+          }
+        ]
+      },
+      {
+        "name": "Judy Landers",
+        "nm": 484641,
+        "roles": [
+          {
+            "char": "Joanna"
+          }
+        ]
+      },
+      {
+        "name": "Richard Moll",
+        "nm": 596959,
+        "roles": [
+          {
+            "char": "Yarat"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jesse D. Goins",
+        "nm": 324795,
+        "roles": [
+          {
+            "char": "Rambeau",
+            "as Jesse Goins": true
+          }
+        ]
+      },
+      {
+        "name": "Leonard Lightfoot",
+        "nm": 509980,
+        "roles": [
+          {
+            "char": "Cirus"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Harlan",
+        "nm": 363216,
+        "roles": [
+          {
+            "char": "Mark"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Leake",
+        "nm": 495022,
+        "roles": [
+          {
+            "char": "Elaine"
+          }
+        ]
+      },
+      {
+        "name": "Mitch Reta",
+        "nm": 2217172,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Joe Taggart",
+        "nm": 846514,
+        "roles": [
+          {
+            "char": "Security Man",
+            "as Joseph Taggart": true
+          }
+        ]
+      },
+      {
+        "name": "Paul LeClair",
+        "nm": 496158,
+        "roles": [
+          {
+            "char": "Tarkas"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Buck's Duel to the Death",
+    "tt": 533096,
+    "air_date": "1980-03-20",
+    "description": "Buck and Twiki are lured to another planet where they are enlisted to fight an evil alien warlord called \"The Traybor\" (played \"B\" movie bad guy William Smith), who has built a harem of young women-most recently the daughter of the Darius, the leader of the planet. In addition to Smith's trademark muscles, \"The Traybor\" is wired to direct a surge of electricity toward his opponent. Buck learns from Darius of a legend than a 500 year old man will one day appear and defeat \"The Traybor\".",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "William Smith",
+        "nm": 810342,
+        "roles": [
+          {
+            "char": "The Trebor"
+          }
+        ]
+      },
+      {
+        "name": "Keith Andes",
+        "nm": 27882,
+        "roles": [
+          {
+            "char": "Darius"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Stack",
+        "nm": 821029,
+        "roles": [
+          {
+            "char": "Vionne"
+          }
+        ]
+      },
+      {
+        "name": "Edward Power",
+        "nm": 694398,
+        "roles": [
+          {
+            "char": "Neil"
+          }
+        ]
+      },
+      {
+        "name": "Fred Sadoff",
+        "nm": 755589,
+        "roles": [
+          {
+            "char": "Kelan"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Lussier",
+        "nm": 523832,
+        "roles": [
+          {
+            "char": "Dr. Albert"
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Blackmore",
+        "nm": 85812,
+        "roles": [
+          {
+            "char": "Greta"
+          }
+        ]
+      },
+      {
+        "name": "Heidi Bohay",
+        "nm": 92000,
+        "roles": [
+          {
+            "char": "Maya"
+          }
+        ]
+      },
+      {
+        "name": "Francisco Lagueruela",
+        "nm": 481444,
+        "roles": [
+          {
+            "char": "Karem"
+          }
+        ]
+      },
+      {
+        "name": "Douglas R. Bruce",
+        "nm": 2223050,
+        "roles": [
+          {
+            "char": "Young Officer"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Flight of the War Witch",
+    "tt": 533100,
+    "air_date": "1980-03-27",
+    "description": "After a mysterious probe lands on Earth, Buck and Twiki travel through a vortex to another universe where the peaceful inhabitants of the planet Pendar are under attack from the ruthless war witch Zarina. Buck has to form an uneasy alliance with Draconian Princess Ardala, who has followed him through the vortex, in order to defeat Zarina.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Connor",
+        "nm": 640539,
+        "roles": [
+          {
+            "char": "Dr. Elias Huer",
+            "ch": 78248
+          }
+        ]
+      },
+      {
+        "name": "Pamela Hensley",
+        "nm": 2135,
+        "roles": [
+          {
+            "char": "Princess Ardala",
+            "ch": 145822
+          }
+        ]
+      },
+      {
+        "name": "Kelley Miles",
+        "nm": 587171,
+        "roles": [
+          {
+            "char": "Chandar"
+          }
+        ]
+      },
+      {
+        "name": "Donald Petrie",
+        "nm": 677953,
+        "roles": [
+          {
+            "char": "Kodus"
+          }
+        ]
+      },
+      {
+        "name": "Sid Haig",
+        "nm": 354085,
+        "roles": [
+          {
+            "char": "Spirot"
+          }
+        ]
+      },
+      {
+        "name": "Michael Ansara",
+        "nm": 30516,
+        "roles": [
+          {
+            "char": "Kane",
+            "ch": 145823
+          }
+        ]
+      },
+      {
+        "name": "Julie Newmar",
+        "nm": 628325,
+        "roles": [
+          {
+            "char": "Zarina"
+          }
+        ]
+      },
+      {
+        "name": "Vera Miles",
+        "nm": 587256,
+        "roles": [
+          {
+            "char": "Tora"
+          }
+        ]
+      },
+      {
+        "name": "Sam Jaffe",
+        "nm": 415488,
+        "roles": [
+          {
+            "char": "Council Leader"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Carroll",
+        "nm": 141019,
+        "roles": [
+          {
+            "char": "Pantherman"
+          }
+        ]
+      },
+      {
+        "name": "Brent Davis",
+        "nm": 204274,
+        "roles": [
+          {
+            "char": "Goneril"
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dr. Theopolis",
+            "ch": 94968,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Ward",
+        "nm": 911680,
+        "roles": [
+          {
+            "char": "1st Council Member"
+          }
+        ]
+      },
+      {
+        "name": "Don Maxwell",
+        "nm": 561688,
+        "roles": [
+          {
+            "char": "Draconian Soldier"
+          }
+        ]
+      },
+      {
+        "name": "Gary Adler",
+        "nm": 2227959,
+        "roles": [
+          {
+            "char": "1st Security Guard"
+          }
+        ]
+      },
+      {
+        "name": "William Conrad",
+        "nm": 2016,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Time of the Hawk",
+    "tt": 533121,
+    "air_date": "1981-01-15",
+    "description": "Buck Rogers, Wilma Deering, and Twiki embark on a journey through the universe as members of the spaceship Searcher, which is on a mission to find the lost tribes of Earth who fled the planet in the wake of a devastating nuclear holocaust. Meanwhile, proud and vengeful half-man, half-bird being Hawk declares war on mankind after his people are slaughtered by humans. It's up to Buck to find and capture Hawk.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Thom Christopher",
+        "nm": 160630,
+        "roles": [
+          {
+            "char": "Hawk",
+            "ch": 101287
+          }
+        ]
+      },
+      {
+        "name": "Jay Garner",
+        "nm": 307717,
+        "roles": [
+          {
+            "char": "Admiral Asimov"
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Dr. Goodfellow",
+            "ch": 101288
+          }
+        ]
+      },
+      {
+        "name": "BarBara Luna",
+        "nm": 526008,
+        "roles": [
+          {
+            "char": "Koori",
+            "as Barbara Luna": true
+          }
+        ]
+      },
+      {
+        "name": "Lance LeGault",
+        "nm": 499223,
+        "roles": [
+          {
+            "char": "Flagg",
+            "as Lance Le Gault": true
+          }
+        ]
+      },
+      {
+        "name": "David Opatoshu",
+        "nm": 649055,
+        "roles": [
+          {
+            "char": "Llamajuna",
+            "ch": 83924
+          }
+        ]
+      },
+      {
+        "name": "Sid Haig",
+        "nm": 354085,
+        "roles": [
+          {
+            "char": "Pratt"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth O'Brien",
+        "nm": 639650,
+        "roles": [
+          {
+            "char": "Captain"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Dennis Haysbert",
+        "nm": 371660,
+        "roles": [
+          {
+            "char": "Communication-Probe Officer"
+          }
+        ]
+      },
+      {
+        "name": "Lavelle Roby",
+        "nm": 733513,
+        "roles": [
+          {
+            "char": "Thromis"
+          }
+        ]
+      },
+      {
+        "name": "Michael Fox",
+        "nm": 289147,
+        "roles": [
+          {
+            "char": "High Judge"
+          }
+        ]
+      },
+      {
+        "name": "Andre Harvey",
+        "nm": 1648183,
+        "roles": [
+          {
+            "char": "Thordis"
+          }
+        ]
+      },
+      {
+        "name": "Chris O'Connor",
+        "nm": 2225158,
+        "roles": [
+          {
+            "char": "Young Lieutenant",
+            "as J. Christopher O'Connor": true
+          }
+        ]
+      },
+      {
+        "name": "Tim O'Keefe",
+        "nm": 2271826,
+        "roles": [
+          {
+            "char": "Bailiff"
+          }
+        ]
+      },
+      {
+        "name": "Ken Chandler",
+        "nm": 151415,
+        "roles": [
+          {
+            "char": "Court Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Susan McIver",
+        "nm": 570861,
+        "roles": [
+          {
+            "char": "Simmons"
+          }
+        ]
+      },
+      {
+        "name": "Jeff David",
+        "nm": 202940,
+        "roles": [
+          {
+            "char": "Crichton",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Elyea",
+        "nm": 255944,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Journey to Oasis",
+    "tt": 533103,
+    "air_date": "1981-01-22",
+    "description": "Earth and the rival planet Zykaria are on the cusp of war. Zykarian Ambassador Duvoe travels by a shuttle piloted by Buck Rogers to a peace conference in the city of Oasis on the otherwise desolate planet of R-4. Things go awry when the shuttle gets hit by a sudden radiation storm and Buck is forced to land on the harsh desert surface of R-4 that's populated by a savage tribe of primitive mutants.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William 'Buck' Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Thom Christopher",
+        "nm": 160630,
+        "roles": [
+          {
+            "char": "Hawk",
+            "ch": 101287
+          }
+        ]
+      },
+      {
+        "name": "Jay Garner",
+        "nm": 307717,
+        "roles": [
+          {
+            "char": "Admiral Asimov"
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Dr. Goodfellow",
+            "ch": 101288
+          }
+        ]
+      },
+      {
+        "name": "Mark Lenard",
+        "nm": 501697,
+        "roles": [
+          {
+            "char": "Ambassador Duvoe"
+          }
+        ]
+      },
+      {
+        "name": "Len Birman",
+        "nm": 83640,
+        "roles": [
+          {
+            "char": "Admiral Zite"
+          }
+        ]
+      },
+      {
+        "name": "Paul Carr",
+        "nm": 139824,
+        "roles": [
+          {
+            "char": "Lt. Devlin",
+            "ch": 127524
+          }
+        ]
+      },
+      {
+        "name": "Donn Whyte",
+        "nm": 926666,
+        "roles": [
+          {
+            "char": "Zykarian Jr."
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Odee-x"
+          },
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Michael Stroka",
+        "nm": 834852,
+        "roles": [
+          {
+            "char": "Rolla"
+          }
+        ]
+      },
+      {
+        "name": "Alex Hyde-White",
+        "nm": 405033,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Jeff David",
+        "nm": 202940,
+        "roles": [
+          {
+            "char": "Crichton",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Elyea",
+        "nm": 255944,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ron Gans",
+        "nm": 304532,
+        "roles": [
+          {
+            "char": "Ezarhaaden",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "The Guardians",
+    "tt": 533116,
+    "air_date": "1981-01-29",
+    "description": "Buck and Hawk discover an old man dying on a uncharted planet while searching for evidence of human settlements. He says it was destiny that brought him to this time and destiny that brought him to that planet. He entrusts Buck with a green jade box and tells him to take it to the next guardian. It's a legendary box and strange things start to happened to those who touch the box. Horrific future visions, but Asimov wants to get to his R and R, so he throws the box on the back burner. But they soon realize is if they don't take the box right away, that the time shifts may destroy them all.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Thom Christopher",
+        "nm": 160630,
+        "roles": [
+          {
+            "char": "Hawk",
+            "ch": 101287
+          }
+        ]
+      },
+      {
+        "name": "Jay Garner",
+        "nm": 307717,
+        "roles": [
+          {
+            "char": "Admiral Asimov"
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Dr. Goodfellow",
+            "ch": 101288
+          }
+        ]
+      },
+      {
+        "name": "Harry Townes",
+        "nm": 870038,
+        "roles": [
+          {
+            "char": "The Guardian"
+          }
+        ]
+      },
+      {
+        "name": "Rosemary DeCamp",
+        "nm": 213619,
+        "roles": [
+          {
+            "char": "Buck's Mother",
+            "as Rosemary De Camp": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Carr",
+        "nm": 139824,
+        "roles": [
+          {
+            "char": "Lt. Devlin",
+            "ch": 127524
+          }
+        ]
+      },
+      {
+        "name": "BarBara Luna",
+        "nm": 526008,
+        "roles": [
+          {
+            "char": "Koori",
+            "as Barbara Luna": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Shawn Stevens",
+        "nm": 828778,
+        "roles": [
+          {
+            "char": "Boy"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Haysbert",
+        "nm": 371660,
+        "roles": [
+          {
+            "char": "Helmsman"
+          }
+        ]
+      },
+      {
+        "name": "Vic Perrin",
+        "nm": 674775,
+        "roles": [
+          {
+            "char": "1st Guardian"
+          }
+        ]
+      },
+      {
+        "name": "Howard Culver",
+        "nm": 191732,
+        "roles": [
+          {
+            "char": "Mailman"
+          }
+        ]
+      },
+      {
+        "name": "Jeff David",
+        "nm": 202940,
+        "roles": [
+          {
+            "char": "Crichton",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Elyea",
+        "nm": 255944,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Mark of the Saurian",
+    "tt": 533104,
+    "air_date": "1981-02-05",
+    "description": "While sick in bed with Cignus Fever Buck starts seeing Ambassador Cabot and his party have a strange aura around them. Ambassador Cabot is responsible for bringing peace with the lizard people known as the Saurians with the Delta Defense Grid which destroys all ships without a proper code. The Aura that Buck is seeing is connected to the fact that Ambassador Cabot and his party are not who they claim to be but Saurians in disguise. Buck's unique condition allows him to see the aura around the illusion. But now the Searcher is on a deadly course which is all part of a plan to take over the Delta Defense Grid but only Buck suspect something is amiss.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Thom Christopher",
+        "nm": 160630,
+        "roles": [
+          {
+            "char": "Hawk",
+            "ch": 101287
+          }
+        ]
+      },
+      {
+        "name": "Jay Garner",
+        "nm": 307717,
+        "roles": [
+          {
+            "char": "Admiral Asimov"
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Dr. Goodfellow",
+            "ch": 101288
+          }
+        ]
+      },
+      {
+        "name": "Linden Chiles",
+        "nm": 157607,
+        "roles": [
+          {
+            "char": "Ambassador Cabot"
+          }
+        ]
+      },
+      {
+        "name": "Vernon Weddle",
+        "nm": 917136,
+        "roles": [
+          {
+            "char": "Dr. Moray"
+          }
+        ]
+      },
+      {
+        "name": "Kim Hamilton",
+        "nm": 358001,
+        "roles": [
+          {
+            "char": "Nurse Paulton"
+          }
+        ]
+      },
+      {
+        "name": "Paul Carr",
+        "nm": 139824,
+        "roles": [
+          {
+            "char": "Lt. Devlin",
+            "ch": 127524
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Stacy Keach Sr.",
+        "nm": 443762,
+        "roles": [
+          {
+            "char": "Senior Officer"
+          }
+        ]
+      },
+      {
+        "name": "Barry Cahill",
+        "nm": 128638,
+        "roles": [
+          {
+            "char": "Major Elif"
+          }
+        ]
+      },
+      {
+        "name": "Alex Hyde-White",
+        "nm": 405033,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Alan Hunt",
+        "nm": 402330,
+        "roles": [
+          {
+            "char": "Wing Man",
+            "as Allan Hunt": true
+          }
+        ]
+      },
+      {
+        "name": "Frank Parker",
+        "nm": 662243,
+        "roles": [
+          {
+            "char": "Captain"
+          }
+        ]
+      },
+      {
+        "name": "Andrea Pike",
+        "nm": 683196,
+        "roles": [
+          {
+            "char": "Crew Member"
+          }
+        ]
+      },
+      {
+        "name": "Jeff David",
+        "nm": 202940,
+        "roles": [
+          {
+            "char": "Crichton",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bob Elyea",
+        "nm": 255944,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "The Golden Man",
+    "tt": 533115,
+    "air_date": "1981-02-19",
+    "description": "While traveling through an asteroid field, Buck Rogers and crew come across a life pod. Inside is a young golden-skinned boy, Vellus, who displays the unusual ability to alter the nature of metals. When the Searcher becomes hopelessly stuck on an asteroid, Vellus suggests that his friend Relkos, whose life pod landed on a nearby planet, is more powerful that he and could lighten the ship enough to free it from the asteroid. Buck and Vellus head down to the planet, unaware that it is a penal colony full of unruly prisoners. They discover that the criminals are also after Relkos's metal-altering powers, hoping he can lighten a crashed vessel enough for them to escape.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Thom Christopher",
+        "nm": 160630,
+        "roles": [
+          {
+            "char": "Hawk",
+            "ch": 101287
+          }
+        ]
+      },
+      {
+        "name": "Jay Garner",
+        "nm": 307717,
+        "roles": [
+          {
+            "char": "Admiral Asimov"
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Dr. Goodfellow",
+            "ch": 101288
+          }
+        ]
+      },
+      {
+        "name": "David Hollander",
+        "nm": 390873,
+        "roles": [
+          {
+            "char": "Velis"
+          }
+        ]
+      },
+      {
+        "name": "Anthony James",
+        "nm": 416279,
+        "roles": [
+          {
+            "char": "Mr. Graf"
+          }
+        ]
+      },
+      {
+        "name": "Bruce M. Fischer",
+        "nm": 278842,
+        "roles": [
+          {
+            "char": "Loran"
+          }
+        ]
+      },
+      {
+        "name": "Russell Wiggins",
+        "nm": 927805,
+        "roles": [
+          {
+            "char": "Relcos"
+          }
+        ]
+      },
+      {
+        "name": "Paul Carr",
+        "nm": 139824,
+        "roles": [
+          {
+            "char": "Lt. Devlin",
+            "ch": 127524
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Diana Chesney",
+        "nm": 156243,
+        "roles": [
+          {
+            "char": "Hag"
+          }
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "nm": 942738,
+        "roles": [
+          {
+            "char": "Onlooker #1"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Eisner",
+        "nm": 2111586,
+        "roles": [
+          {
+            "char": "Onlooker #2"
+          }
+        ]
+      },
+      {
+        "name": "Roger Rose",
+        "nm": 741648,
+        "roles": [
+          {
+            "char": "Marcos"
+          }
+        ]
+      },
+      {
+        "name": "Michael Masters",
+        "nm": 557698,
+        "roles": [
+          {
+            "char": "Jailer"
+          }
+        ]
+      },
+      {
+        "name": "Bob Elyea",
+        "nm": 255944,
+        "roles": [
+          {
+            "char": "Alphie"
+          }
+        ]
+      },
+      {
+        "name": "Jeff David",
+        "nm": 202940,
+        "roles": [
+          {
+            "char": "Crichton",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "The Crystals",
+    "tt": 533113,
+    "air_date": "1981-03-05",
+    "description": "Buck Rogers visits the planet Phibocetes with a landing party, hoping to gather some thurbidian crystals to power the Searcher. Though the planet is believed to be uninhabited, the landing party soon comes across a \"mummy\" that mysteriously comes to life and wanders off into the bushes. Buck soon meets another life form - a young girl - who has no memory of who she is or where she came from. The crew is puzzled when blood samples from the girl match that of the creature and assume the girl will eventually become one of the mummy-like beings. Both life forms also seem strangely affected by the thurbidian crystals, and it's not long before the \"mummy\" makes off with their entire supply.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Thom Christopher",
+        "nm": 160630,
+        "roles": [
+          {
+            "char": "Hawk",
+            "ch": 101287
+          }
+        ]
+      },
+      {
+        "name": "Jay Garner",
+        "nm": 307717,
+        "roles": [
+          {
+            "char": "Admiral Asimov"
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Dr. Goodfellow",
+            "ch": 101288
+          }
+        ]
+      },
+      {
+        "name": "Amanda Wyss",
+        "nm": 944143,
+        "roles": [
+          {
+            "char": "Laura"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sandy Champion",
+        "nm": 150731,
+        "roles": [
+          {
+            "char": "Chief Petty Officer Hall",
+            "as Sandy-Alexander Champion": true
+          }
+        ]
+      },
+      {
+        "name": "Alex Hyde-White",
+        "nm": 405033,
+        "roles": [
+          {
+            "char": "Lt. Martin"
+          }
+        ]
+      },
+      {
+        "name": "James R. Parkes",
+        "nm": 662731,
+        "roles": [
+          {
+            "char": "Kovick",
+            "as James Parkes": true
+          }
+        ]
+      },
+      {
+        "name": "Gary Bolen",
+        "nm": 92866,
+        "roles": [
+          {
+            "char": "Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Leigh C. Kim",
+        "nm": 453595,
+        "roles": [
+          {
+            "char": "Petrie"
+          }
+        ]
+      },
+      {
+        "name": "Hubie Kerns Jr.",
+        "nm": 3822,
+        "roles": [
+          {
+            "char": "Mummy Monster"
+          }
+        ]
+      },
+      {
+        "name": "Jeff David",
+        "nm": 202940,
+        "roles": [
+          {
+            "char": "Crichton",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "The Satyr",
+    "tt": 533120,
+    "air_date": "1981-03-12",
+    "description": "Buck Rogers and Twiki visit the planet Arcadus, hoping to discover one of the lost colonies of Earth. However, they find only two survivors - Cyra Samos and her young son Delph - who have been living in terror of a half-goat, half-human \"satyr\" named Pangor. Cyra seems reluctant to talk about the satyr, and repeatedly refuses Buck's offers to relocate. When Pangor attacks Buck's ship, he and Twiki are grounded temporarily. And after being bitten by the creature during a struggle, Buck begins turning into a satyr himself. His only hope is to leave the planet as soon as possible.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Thom Christopher",
+        "nm": 160630,
+        "roles": [
+          {
+            "char": "Hawk",
+            "ch": 101287
+          }
+        ]
+      },
+      {
+        "name": "Jay Garner",
+        "nm": 307717,
+        "roles": [
+          {
+            "char": "Admiral Asimov"
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Dr. Goodfellow",
+            "ch": 101288
+          }
+        ]
+      },
+      {
+        "name": "Anne E. Curry",
+        "nm": 193044,
+        "roles": [
+          {
+            "char": "Cyra Samos"
+          }
+        ]
+      },
+      {
+        "name": "David S. Cass Sr.",
+        "nm": 3180,
+        "roles": [
+          {
+            "char": "Major Jason Samos",
+            "as Dave Cass": true
+          },
+          {
+            "char": "Pangor",
+            "as Dave Cass": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Lane",
+        "nm": 1325957,
+        "roles": [
+          {
+            "char": "Delph",
+            "as Bobby P. Lane": true
+          }
+        ]
+      },
+      {
+        "name": "Dennis Freeman",
+        "nm": 293364,
+        "roles": [
+          {
+            "char": "Midshipman"
+          }
+        ]
+      },
+      {
+        "name": "Jeff David",
+        "nm": 202940,
+        "roles": [
+          {
+            "char": "Crichton",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Shgoratchx!",
+    "tt": 420373,
+    "air_date": "1981-03-19",
+    "description": "Buck and Hawk are ordered to explore an old derelict spaceship, where they find a hold full of solar bombs and a crew of seven dwarfs. The crew are transferred to the Searcher, and it is decided to take the derelict to a safe location to detonate the bombs before they can explode on their own. Buck turns the seven uniformed men over to Wilma, who has her hands full when she discovers the little aliens have never seen a woman before.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Thom Christopher",
+        "nm": 160630,
+        "roles": [
+          {
+            "char": "Hawk",
+            "ch": 101287
+          }
+        ]
+      },
+      {
+        "name": "Jay Garner",
+        "nm": 307717,
+        "roles": [
+          {
+            "char": "Admiral Asimov"
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Dr. Goodfellow",
+            "ch": 101288
+          }
+        ]
+      },
+      {
+        "name": "Tommy Madden",
+        "nm": 534650,
+        "roles": [
+          {
+            "char": "General Xenos"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Alex Hyde-White",
+        "nm": 405033,
+        "roles": [
+          {
+            "char": "Ensign Moore"
+          }
+        ]
+      },
+      {
+        "name": "John Edward Allen",
+        "nm": 20632,
+        "roles": [
+          {
+            "char": "General Zoman"
+          }
+        ]
+      },
+      {
+        "name": "Tony Cox",
+        "nm": 185272,
+        "roles": [
+          {
+            "char": "Private Zedht"
+          }
+        ]
+      },
+      {
+        "name": "Billy Curtis",
+        "nm": 193260,
+        "roles": [
+          {
+            "char": "General Yoomak"
+          }
+        ]
+      },
+      {
+        "name": "Harry Monty",
+        "nm": 600355,
+        "roles": [
+          {
+            "char": "General Sothoz"
+          }
+        ]
+      },
+      {
+        "name": "Spencer Russell",
+        "nm": 2223381,
+        "roles": [
+          {
+            "char": "General Towtuk"
+          }
+        ]
+      },
+      {
+        "name": "Charles Secor",
+        "nm": 2223669,
+        "roles": [
+          {
+            "char": "General Kuzan"
+          }
+        ]
+      },
+      {
+        "name": "Jeff David",
+        "nm": 202940,
+        "roles": [
+          {
+            "char": "Crichton",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "The Hand of the Goral",
+    "tt": 533117,
+    "air_date": "1981-03-26",
+    "description": "May contain spoilers - While exploring Deeth, the \"Planet of Death,\" Buck Rogers, Hawk, and Wilma come across a stranded crash victim. His wrecked ship mysteriously disappears after he is rescued - the first in a long line of strange happenings. Buck and Hawk must contend with a duplicate of their ship, the Searcher, as well as find a way to release the real Searcher from a snare beam. Their search for the beam's source takes them back to the planet's surface, where they meet an old man who identifies himself as the \"Hand of the Goral.\" He informs them that they have a final test to pass - if they succeed, they will reap the rewards, but if they fail, the Searcher and all aboard will be destroyed.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Thom Christopher",
+        "nm": 160630,
+        "roles": [
+          {
+            "char": "Hawk",
+            "ch": 101287
+          }
+        ]
+      },
+      {
+        "name": "Jay Garner",
+        "nm": 307717,
+        "roles": [
+          {
+            "char": "Admiral Asimov"
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Dr. Goodfellow",
+            "ch": 101288
+          }
+        ]
+      },
+      {
+        "name": "John Fujioka",
+        "nm": 297801,
+        "roles": [
+          {
+            "char": "Hand of Goral"
+          }
+        ]
+      },
+      {
+        "name": "William Bryant",
+        "nm": 117252,
+        "roles": [
+          {
+            "char": "Cowan"
+          }
+        ]
+      },
+      {
+        "name": "Peter Kastner",
+        "nm": 441004,
+        "roles": [
+          {
+            "char": "Reardon"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Dennis Haysbert",
+        "nm": 371660,
+        "roles": [
+          {
+            "char": "Lt. Parsons"
+          }
+        ]
+      },
+      {
+        "name": "Michael Horsley",
+        "nm": 395449,
+        "roles": [
+          {
+            "char": "Yeoman James"
+          }
+        ]
+      },
+      {
+        "name": "Jeff David",
+        "nm": 202940,
+        "roles": [
+          {
+            "char": "Crichton",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Testimony of a Traitor",
+    "tt": 533112,
+    "air_date": "1981-04-09",
+    "description": "The crew returns to Earth. Buck is put on trial for helping a group that may have had a hand in the nuclear war that devastated Earth in the 20th Century.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Thom Christopher",
+        "nm": 160630,
+        "roles": [
+          {
+            "char": "Hawk",
+            "ch": 101287
+          }
+        ]
+      },
+      {
+        "name": "Jay Garner",
+        "nm": 307717,
+        "roles": [
+          {
+            "char": "Admiral Asimov"
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Dr. Goodfellow",
+            "ch": 101288
+          }
+        ]
+      },
+      {
+        "name": "Ramon Bieri",
+        "nm": 81560,
+        "roles": [
+          {
+            "char": "Commissioner Bergstrom"
+          }
+        ]
+      },
+      {
+        "name": "William Sylvester",
+        "nm": 843213,
+        "roles": [
+          {
+            "char": "Lt. Gen. Preston Myers"
+          }
+        ]
+      },
+      {
+        "name": "David Hooks",
+        "nm": 393656,
+        "roles": [
+          {
+            "char": "General Arnheim"
+          }
+        ]
+      },
+      {
+        "name": "Walter Brooke",
+        "nm": 111754,
+        "roles": [
+          {
+            "char": "U.S. President",
+            "ch": 136686
+          }
+        ]
+      },
+      {
+        "name": "John Milford",
+        "nm": 587333,
+        "roles": [
+          {
+            "char": "Air Force General"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "John O'Connell",
+        "nm": 640096,
+        "roles": [
+          {
+            "char": "Major Peterson"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Bellin",
+        "nm": 68989,
+        "roles": [
+          {
+            "char": "Crawford"
+          }
+        ]
+      },
+      {
+        "name": "Buck Young",
+        "nm": 949344,
+        "roles": [
+          {
+            "char": "Brigadier General Biles"
+          }
+        ]
+      },
+      {
+        "name": "Carl Reindel",
+        "nm": 717947,
+        "roles": [
+          {
+            "char": "Air Force Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Eric Lawrence",
+        "nm": 492750,
+        "roles": [
+          {
+            "char": "Young Marine"
+          }
+        ]
+      },
+      {
+        "name": "James Emery",
+        "nm": 256302,
+        "roles": [
+          {
+            "char": "Marine Pilot",
+            "as Jim Emery": true
+          }
+        ]
+      },
+      {
+        "name": "Dean Brooks",
+        "nm": 111953,
+        "roles": [
+          {
+            "char": "Marine Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Bill Andes",
+        "nm": 27877,
+        "roles": [
+          {
+            "char": "Colonel Turner",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jeff David",
+        "nm": 202940,
+        "roles": [
+          {
+            "char": "Crichton",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "The Dorian Secret",
+    "tt": 533114,
+    "air_date": "1981-04-16",
+    "description": "Buck and Hawk transport refugees of a planetary disaster to a new home. Buck allows a fugitive woman named Asteria Eleefa to board the Searcher. Eleefa is a member of a harsh mutant race called the Dorians, who hide their faces behind decorated masks. Ruthless Dorian leader Koldar claims that Eleefa is a murderess and hence demands that Eleefa be handed over to him. When Buck refuses to oblige Koldar's demand, Koldar decides to turn up the temperature on the Searcher.",
+    "cast": [
+      {
+        "name": "Gil Gerard",
+        "nm": 1266,
+        "roles": [
+          {
+            "char": "Capt. William \"Buck\" Rogers",
+            "ch": 34535
+          }
+        ]
+      },
+      {
+        "name": "Erin Gray",
+        "nm": 1292,
+        "roles": [
+          {
+            "char": "Col. Wilma Deering",
+            "ch": 34536
+          }
+        ]
+      },
+      {
+        "name": "Thom Christopher",
+        "nm": 160630,
+        "roles": [
+          {
+            "char": "Hawk",
+            "ch": 101287
+          }
+        ]
+      },
+      {
+        "name": "Jay Garner",
+        "nm": 307717,
+        "roles": [
+          {
+            "char": "Admiral Asimov"
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Dr. Goodfellow",
+            "ch": 101288
+          }
+        ]
+      },
+      {
+        "name": "Keith Atkinson",
+        "nm": 40757,
+        "roles": [
+          {
+            "char": "Joham"
+          }
+        ]
+      },
+      {
+        "name": "Lachelle Chamberlain",
+        "nm": 150183,
+        "roles": [
+          {
+            "char": "Darel"
+          }
+        ]
+      },
+      {
+        "name": "William Kirby Cullen",
+        "nm": 191535,
+        "roles": [
+          {
+            "char": "Demeter"
+          }
+        ]
+      },
+      {
+        "name": "Walker Edmiston",
+        "nm": 249456,
+        "roles": [
+          {
+            "char": "Koldar"
+          }
+        ]
+      },
+      {
+        "name": "Devon Ericson",
+        "nm": 259142,
+        "roles": [
+          {
+            "char": "Asteria Eleefa"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Haysbert",
+        "nm": 371660,
+        "roles": [
+          {
+            "char": "Ensign"
+          }
+        ]
+      },
+      {
+        "name": "Michele Marsh",
+        "nm": 550626,
+        "roles": [
+          {
+            "char": "Cleis"
+          }
+        ]
+      },
+      {
+        "name": "Denny Miller",
+        "nm": 588225,
+        "roles": [
+          {
+            "char": "Saurus"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Nisbet",
+        "nm": 632604,
+        "roles": [
+          {
+            "char": "Rand"
+          }
+        ]
+      },
+      {
+        "name": "Eldon Quick",
+        "nm": 703442,
+        "roles": [
+          {
+            "char": "Chronos"
+          }
+        ]
+      },
+      {
+        "name": "Brady Rubin",
+        "nm": 1067307,
+        "roles": [
+          {
+            "char": "Syla"
+          }
+        ]
+      },
+      {
+        "name": "Jackie Russell",
+        "nm": 751208,
+        "roles": [
+          {
+            "char": "Kally"
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965
+          }
+        ]
+      },
+      {
+        "name": "Mel Blanc",
+        "nm": 305,
+        "roles": [
+          {
+            "char": "Twiki",
+            "ch": 94965,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jeff David",
+        "nm": 202940,
+        "roles": [
+          {
+            "char": "Crichton",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  }
+]

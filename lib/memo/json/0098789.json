@@ -1,0 +1,6913 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 1279622,
+    "air_date": "1990-03-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete Brigman"
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Deputy D.A. Eugene Rogan"
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Lise Cutter",
+        "nm": 194006,
+        "roles": [
+          {
+            "char": "Andrea Kanin"
+          }
+        ]
+      },
+      {
+        "name": "Charles S. Dutton",
+        "nm": 1165,
+        "roles": [
+          {
+            "char": "Mr. Walters",
+            "as Charles Dutton": true
+          }
+        ]
+      },
+      {
+        "name": "James Handy",
+        "nm": 359695,
+        "roles": [
+          {
+            "char": "Defense Attorney"
+          }
+        ]
+      },
+      {
+        "name": "Eugene Clark",
+        "nm": 163925,
+        "roles": [
+          {
+            "char": "Rev. Marcus Calvin"
+          }
+        ]
+      },
+      {
+        "name": "Gerry Bamman",
+        "nm": 51482,
+        "roles": [
+          {
+            "char": "Judge Bayard Parkins"
+          }
+        ]
+      },
+      {
+        "name": "Olivia Virgil White",
+        "nm": 363932,
+        "roles": [
+          {
+            "char": "Mrs. Howard",
+            "as Olivia Virgil Harper": true
+          }
+        ]
+      },
+      {
+        "name": "Gregory Millar",
+        "nm": 587670,
+        "roles": [
+          {
+            "char": "Sugar"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Overbey",
+        "nm": 653821,
+        "roles": [
+          {
+            "char": "Cheryl Coster"
+          }
+        ]
+      },
+      {
+        "name": "Michael Cullen",
+        "nm": 191506,
+        "roles": [
+          {
+            "char": "Detective Dekom"
+          }
+        ]
+      },
+      {
+        "name": "Sam Gray",
+        "nm": 336935,
+        "roles": [
+          {
+            "char": "Dr. Hough"
+          }
+        ]
+      },
+      {
+        "name": "Susan Wilder",
+        "nm": 928640,
+        "roles": [
+          {
+            "char": "Diane Polson"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Adams",
+        "nm": 11095,
+        "roles": [
+          {
+            "char": "Keane"
+          }
+        ]
+      },
+      {
+        "name": "Rick Applegate",
+        "nm": 32400,
+        "roles": [
+          {
+            "char": "Public Defender #1"
+          }
+        ]
+      },
+      {
+        "name": "Don Brockett",
+        "nm": 110667,
+        "roles": [
+          {
+            "char": "Court Clerk #1"
+          }
+        ]
+      },
+      {
+        "name": "William Cameron",
+        "nm": 131752,
+        "roles": [
+          {
+            "char": "Public Defender Weiser"
+          }
+        ]
+      },
+      {
+        "name": "Gualberto Carhuassla",
+        "nm": 3550313,
+        "roles": [
+          {
+            "char": "Gomez"
+          }
+        ]
+      },
+      {
+        "name": "Glenn Colerider",
+        "nm": 171275,
+        "roles": [
+          {
+            "char": "Judge #1"
+          }
+        ]
+      },
+      {
+        "name": "Bob Copeland",
+        "nm": 3535074,
+        "roles": [
+          {
+            "char": "Toilet Public Defender"
+          }
+        ]
+      },
+      {
+        "name": "Bill Dalzell",
+        "nm": 198532,
+        "roles": [
+          {
+            "char": "Bailiff #1",
+            "as Bill Dalzell III": true
+          }
+        ]
+      },
+      {
+        "name": "Curt DeBor",
+        "nm": 213494,
+        "roles": [
+          {
+            "char": "Attorney Fryman"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Frazen-Cohen",
+        "nm": 292484,
+        "roles": [
+          {
+            "char": "Judge Baruch"
+          }
+        ]
+      },
+      {
+        "name": "Greg Germann",
+        "nm": 314524,
+        "roles": [
+          {
+            "char": "Merkle"
+          }
+        ]
+      },
+      {
+        "name": "Keith Grumet",
+        "nm": 2637032,
+        "roles": [
+          {
+            "char": "Defendant"
+          }
+        ]
+      },
+      {
+        "name": "Bob Herron",
+        "nm": 380787,
+        "roles": [
+          {
+            "char": "Solarz",
+            "as Bobby Herron": true
+          }
+        ]
+      },
+      {
+        "name": "Jeff Howell",
+        "nm": 397989,
+        "roles": [
+          {
+            "char": "Young ADA #1",
+            "as Jeffrey Howell": true
+          }
+        ]
+      },
+      {
+        "name": "Gregory Kenney",
+        "nm": 3551217,
+        "roles": [
+          {
+            "char": "Bailiff #2"
+          }
+        ]
+      },
+      {
+        "name": "Robert M. Koch",
+        "nm": 462400,
+        "roles": [
+          {
+            "char": "Court Clerk #2",
+            "as Robert Koch": true
+          }
+        ]
+      },
+      {
+        "name": "Dawn Lambing",
+        "nm": 483387,
+        "roles": [
+          {
+            "char": "Vicki"
+          }
+        ]
+      },
+      {
+        "name": "Sam Lane",
+        "nm": 3550870,
+        "roles": [
+          {
+            "char": "Court Clerk #3"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Levitin",
+        "nm": 506176,
+        "roles": [
+          {
+            "char": "Leonard Stark"
+          }
+        ]
+      },
+      {
+        "name": "Don Marshall",
+        "nm": 3550308,
+        "roles": [
+          {
+            "char": "Businessman"
+          }
+        ]
+      },
+      {
+        "name": "S. Epatha Merkerson",
+        "nm": 580924,
+        "roles": [
+          {
+            "char": "Mrs. Walters"
+          }
+        ]
+      },
+      {
+        "name": "Larry John Meyers",
+        "nm": 583579,
+        "roles": [
+          {
+            "char": "Jury Forman",
+            "as Larry Jon Meyers": true
+          }
+        ]
+      },
+      {
+        "name": "Zachary Mott",
+        "nm": 609446,
+        "roles": [
+          {
+            "char": "Young ADA #2"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Pierre Nutini",
+        "nm": 638318,
+        "roles": [
+          {
+            "char": "Bailiff Lopez"
+          }
+        ]
+      },
+      {
+        "name": "Bingo O'Malley",
+        "nm": 641703,
+        "roles": [
+          {
+            "char": "Old Time Attorney"
+          }
+        ]
+      },
+      {
+        "name": "Melanie Shulman",
+        "nm": 3535114,
+        "roles": [
+          {
+            "char": "Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Nichole Smith",
+        "nm": 1139618,
+        "roles": [
+          {
+            "char": "Cate's Little Girl"
+          }
+        ]
+      },
+      {
+        "name": "Rohn Thomas",
+        "nm": 859459,
+        "roles": [
+          {
+            "char": "Jack Jurgens"
+          }
+        ]
+      },
+      {
+        "name": "Bob Tracey",
+        "nm": 870430,
+        "roles": [
+          {
+            "char": "Judge Harrison"
+          }
+        ]
+      },
+      {
+        "name": "Mel Winkler",
+        "nm": 935255,
+        "roles": [
+          {
+            "char": "Judge Jones"
+          }
+        ]
+      },
+      {
+        "name": "Steven Anderson",
+        "nm": 1706790,
+        "roles": [
+          {
+            "char": "Messenger",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Thomas Carter",
+        "nm": 141961,
+        "roles": [
+          {
+            "char": "Cpl. Robert McBain",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Face'",
+        "nm": 1652611,
+        "roles": [
+          {
+            "char": "Gang Member",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "John W. Iwanonkiw",
+        "nm": 2738436,
+        "roles": [
+          {
+            "char": "Juror",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Mike Schaeffer",
+        "nm": 2168499,
+        "roles": [
+          {
+            "char": "Party Guest",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Balancing Act",
+    "tt": 1279132,
+    "air_date": "1990-03-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Beah Richards",
+        "nm": 723968,
+        "roles": [
+          {
+            "char": "Mrs. Davis"
+          }
+        ]
+      },
+      {
+        "name": "Vanessa Bell Calloway",
+        "nm": 68599,
+        "roles": [
+          {
+            "char": "Delia Wayne"
+          }
+        ]
+      },
+      {
+        "name": "George Murdock",
+        "nm": 613787,
+        "roles": [
+          {
+            "char": "Judge Ernest Franklin",
+            "ch": 294974
+          }
+        ]
+      },
+      {
+        "name": "Alan Blumenfeld",
+        "nm": 89781,
+        "roles": [
+          {
+            "char": "Mr. Peterson",
+            "ch": 255226
+          }
+        ]
+      },
+      {
+        "name": "David Byrd",
+        "nm": 126007,
+        "roles": [
+          {
+            "char": "Scheduling Judge"
+          }
+        ]
+      },
+      {
+        "name": "Warren J. Kemmerling",
+        "nm": 447230,
+        "roles": [
+          {
+            "char": "Judge Gilbert Lowry",
+            "as Warren Kemmerling": true
+          }
+        ]
+      },
+      {
+        "name": "Rae Allen",
+        "nm": 20922,
+        "roles": [
+          {
+            "char": "Judge Cynthia Russell",
+            "ch": 357227
+          }
+        ]
+      },
+      {
+        "name": "Glenn Plummer",
+        "nm": 687625,
+        "roles": [
+          {
+            "char": "Jake Burns"
+          }
+        ]
+      },
+      {
+        "name": "Joe Renteria",
+        "nm": 719860,
+        "roles": [
+          {
+            "char": "Phillipe Esteban"
+          }
+        ]
+      },
+      {
+        "name": "Peter D. Greene",
+        "nm": 338889,
+        "roles": [
+          {
+            "char": "DeLuca"
+          }
+        ]
+      },
+      {
+        "name": "Shelly Lipkin",
+        "nm": 513490,
+        "roles": [
+          {
+            "char": "Lewis Bates"
+          }
+        ]
+      },
+      {
+        "name": "Frank Dent",
+        "nm": 219759,
+        "roles": [
+          {
+            "char": "Mr. Douglas"
+          }
+        ]
+      },
+      {
+        "name": "Sally-Jane Heit",
+        "nm": 374729,
+        "roles": [
+          {
+            "char": "Mrs. Lytton",
+            "as Sally Jane Heit": true
+          }
+        ]
+      },
+      {
+        "name": "Barbara Niven",
+        "nm": 18271,
+        "roles": [
+          {
+            "char": "Maggie Sue",
+            "as Barbara Lee Alexander": true
+          }
+        ]
+      },
+      {
+        "name": "Fred Pinkard",
+        "nm": 684339,
+        "roles": [
+          {
+            "char": "Jay"
+          }
+        ]
+      },
+      {
+        "name": "Mark Sugar",
+        "nm": 3145681,
+        "roles": [
+          {
+            "char": "Harvey Lowenstein"
+          }
+        ]
+      },
+      {
+        "name": "DeForest Covan",
+        "nm": 184369,
+        "roles": [
+          {
+            "char": "Man in Crowd"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "A Sucker's Bet",
+    "tt": 1279131,
+    "air_date": "1990-04-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Gerald S. O'Loughlin",
+        "nm": 641663,
+        "roles": [
+          {
+            "char": "Mr. Bauer",
+            "ch": 336122
+          }
+        ]
+      },
+      {
+        "name": "Vanessa Bell Calloway",
+        "nm": 68599,
+        "roles": [
+          {
+            "char": "Delia Wayne"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Ransom",
+        "nm": 710408,
+        "roles": [
+          {
+            "char": "Lydell Jackson",
+            "as Kenny Ransom": true
+          }
+        ]
+      },
+      {
+        "name": "David Alan Grier",
+        "nm": 4979,
+        "roles": [
+          {
+            "char": "Stone"
+          }
+        ]
+      },
+      {
+        "name": "Allan Rich",
+        "nm": 723590,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Steve Eastin",
+        "nm": 247611,
+        "roles": [
+          {
+            "char": "Detective Dankowski",
+            "ch": 164274
+          }
+        ]
+      },
+      {
+        "name": "Larry D. Mann",
+        "nm": 542847,
+        "roles": [
+          {
+            "char": "Judge Richard Shelton"
+          }
+        ]
+      },
+      {
+        "name": "Michael Colyar",
+        "nm": 173485,
+        "roles": [
+          {
+            "char": "Eddie Washington"
+          }
+        ]
+      },
+      {
+        "name": "Ernest Sarracino",
+        "nm": 765512,
+        "roles": [
+          {
+            "char": "Mr. Robles"
+          }
+        ]
+      },
+      {
+        "name": "Tony Rizzoli",
+        "nm": 729941,
+        "roles": [
+          {
+            "char": "Carl Foster"
+          }
+        ]
+      },
+      {
+        "name": "Denise Mitchell",
+        "nm": 3552432,
+        "roles": [
+          {
+            "char": "Esther"
+          }
+        ]
+      },
+      {
+        "name": "Lee Dupree",
+        "nm": 243419,
+        "roles": [
+          {
+            "char": "Homeless Father",
+            "as Lee DuPree": true
+          }
+        ]
+      },
+      {
+        "name": "Colleen Dion",
+        "nm": 227905,
+        "roles": [
+          {
+            "char": "Hostess"
+          }
+        ]
+      },
+      {
+        "name": "Edgar Small",
+        "nm": 806446,
+        "roles": [
+          {
+            "char": "Court Clerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Art of the Possible",
+    "tt": 1279133,
+    "air_date": "1990-04-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Sylvia Sidney",
+        "nm": 796662,
+        "roles": [
+          {
+            "char": "Mrs. Rogan",
+            "ch": 357221
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Tambor",
+        "nm": 1787,
+        "roles": [
+          {
+            "char": "Harry Beeker",
+            "ch": 357196
+          }
+        ]
+      },
+      {
+        "name": "Laura Harrington",
+        "nm": 364307,
+        "roles": [
+          {
+            "char": "Paula Jenkins",
+            "ch": 357223
+          }
+        ]
+      },
+      {
+        "name": "Leslie Easterbrook",
+        "nm": 247579,
+        "roles": [
+          {
+            "char": "Charlene West",
+            "ch": 357224
+          }
+        ]
+      },
+      {
+        "name": "Allan Miller",
+        "nm": 587863,
+        "roles": [
+          {
+            "char": "Judge Raymond Dean",
+            "ch": 357225
+          }
+        ]
+      },
+      {
+        "name": "Richard Fancy",
+        "nm": 266697,
+        "roles": [
+          {
+            "char": "Mr. Howsen",
+            "ch": 357226
+          }
+        ]
+      },
+      {
+        "name": "Rae Allen",
+        "nm": 20922,
+        "roles": [
+          {
+            "char": "Judge Cynthia Russell",
+            "ch": 357227
+          }
+        ]
+      },
+      {
+        "name": "Stephen Burleigh",
+        "nm": 122114,
+        "roles": [
+          {
+            "char": "Lew Jenkins",
+            "ch": 357228
+          }
+        ]
+      },
+      {
+        "name": "Colm Meaney",
+        "nm": 538,
+        "roles": [
+          {
+            "char": "Nucchi",
+            "ch": 357229
+          }
+        ]
+      },
+      {
+        "name": "Weldon Bleiler",
+        "nm": 88201,
+        "roles": [
+          {
+            "char": "Joe Piro",
+            "ch": 357230
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Brissette",
+        "nm": 109890,
+        "roles": [
+          {
+            "char": "Katie Rogan",
+            "ch": 357231
+          }
+        ]
+      },
+      {
+        "name": "Michael Faustino",
+        "nm": 269285,
+        "roles": [
+          {
+            "char": "Brian Rogan",
+            "ch": 357232
+          }
+        ]
+      },
+      {
+        "name": "Eloy Casados",
+        "nm": 142746,
+        "roles": [
+          {
+            "char": "Jury Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Kate Romero",
+        "nm": 739479,
+        "roles": [
+          {
+            "char": "Mother of Victim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Start of the Fire",
+    "tt": 1202946,
+    "air_date": "1990-04-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Vanessa Bell Calloway",
+        "nm": 68599,
+        "roles": [
+          {
+            "char": "Delia"
+          }
+        ]
+      },
+      {
+        "name": "David Groh",
+        "nm": 342958,
+        "roles": [
+          {
+            "char": "Bill Rapkin"
+          }
+        ]
+      },
+      {
+        "name": "Richard Foronjy",
+        "nm": 286561,
+        "roles": [
+          {
+            "char": "Detective Owens"
+          }
+        ]
+      },
+      {
+        "name": "Keith Amos",
+        "nm": 25313,
+        "roles": [
+          {
+            "char": "Isaiah Webb"
+          }
+        ]
+      },
+      {
+        "name": "Tom Hodges",
+        "nm": 388218,
+        "roles": [
+          {
+            "char": "Mark"
+          }
+        ]
+      },
+      {
+        "name": "Robert Lesser",
+        "nm": 504342,
+        "roles": [
+          {
+            "char": "Marty Ballard"
+          }
+        ]
+      },
+      {
+        "name": "Frank Piazza",
+        "nm": 681326,
+        "roles": [
+          {
+            "char": "Detective Glanzman"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Alyn Woods",
+        "nm": 940504,
+        "roles": [
+          {
+            "char": "Lisa Cummings"
+          },
+          {
+            "char": "Heidi Peckle"
+          }
+        ]
+      },
+      {
+        "name": "Edmund L. Shaff",
+        "nm": 787283,
+        "roles": [
+          {
+            "char": "Alan Rivers"
+          }
+        ]
+      },
+      {
+        "name": "Aurelia Sweeney",
+        "nm": 1711310,
+        "roles": [
+          {
+            "char": "Mrs. Webb"
+          }
+        ]
+      },
+      {
+        "name": "Bennett Liss",
+        "nm": 514158,
+        "roles": [
+          {
+            "char": "Second Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Jenkins",
+        "nm": 2955440,
+        "roles": [
+          {
+            "char": "Third Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Elliot Berk",
+        "nm": 75265,
+        "roles": [
+          {
+            "char": "First Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Jack Gallagher",
+        "nm": 1349130,
+        "roles": [
+          {
+            "char": "Fourth Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Bean",
+        "nm": 1101416,
+        "roles": [
+          {
+            "char": "Paramedic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Promises to Keep",
+    "tt": 1224784,
+    "air_date": "1990-04-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Moses Gunn",
+        "nm": 348214,
+        "roles": [
+          {
+            "char": "Robert Marshal James"
+          }
+        ]
+      },
+      {
+        "name": "Vanessa Bell Calloway",
+        "nm": 68599,
+        "roles": [
+          {
+            "char": "Delia Wayne"
+          }
+        ]
+      },
+      {
+        "name": "Steve Eastin",
+        "nm": 247611,
+        "roles": [
+          {
+            "char": "Detective Dankowski",
+            "ch": 164274
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Mace",
+        "nm": 532068,
+        "roles": [
+          {
+            "char": "Spiro - Forensics Scientist"
+          }
+        ]
+      },
+      {
+        "name": "Richardson Morse",
+        "nm": 607665,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Clifton Powell",
+        "nm": 694066,
+        "roles": [
+          {
+            "char": "Mugger"
+          }
+        ]
+      },
+      {
+        "name": "Jessie Lawrence Ferguson",
+        "nm": 272481,
+        "roles": [
+          {
+            "char": "Minister"
+          }
+        ]
+      },
+      {
+        "name": "Jeris Poindexter",
+        "nm": 688432,
+        "roles": [
+          {
+            "char": "Number Two",
+            "as Jeris Lee Poindexter": true
+          }
+        ]
+      },
+      {
+        "name": "Jean Speegle Howard",
+        "nm": 397362,
+        "roles": [
+          {
+            "char": "Rose Heckl"
+          }
+        ]
+      },
+      {
+        "name": "Denise Mitchell",
+        "nm": 3552432,
+        "roles": [
+          {
+            "char": "Esther"
+          }
+        ]
+      },
+      {
+        "name": "Ann Weldon",
+        "nm": 919710,
+        "roles": [
+          {
+            "char": "Delia's Mother"
+          }
+        ]
+      },
+      {
+        "name": "Paula Bellamy-Franklin",
+        "nm": 68719,
+        "roles": [
+          {
+            "char": "Delia's Aunt"
+          }
+        ]
+      },
+      {
+        "name": "Lorraine Davies",
+        "nm": 203825,
+        "roles": [
+          {
+            "char": "Lisa"
+          }
+        ]
+      },
+      {
+        "name": "Al Troup",
+        "nm": 3555720,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "The Price of Justice",
+    "tt": 1224787,
+    "air_date": "1990-05-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Richard Libertini",
+        "nm": 508844,
+        "roles": [
+          {
+            "char": "Defense Attorney Hilgard"
+          }
+        ]
+      },
+      {
+        "name": "Louis Giambalvo",
+        "nm": 316080,
+        "roles": [
+          {
+            "char": "Paul Massari"
+          }
+        ]
+      },
+      {
+        "name": "Anthony LaPaglia",
+        "nm": 1439,
+        "roles": [
+          {
+            "char": "George Griffin",
+            "as Anthony M. LaPaglia": true
+          }
+        ]
+      },
+      {
+        "name": "Dana Gladstone",
+        "nm": 321630,
+        "roles": [
+          {
+            "char": "Judge"
+          }
+        ]
+      },
+      {
+        "name": "Alice Hirson",
+        "nm": 386676,
+        "roles": [
+          {
+            "char": "Mrs. Williams"
+          }
+        ]
+      },
+      {
+        "name": "Samm-Art Williams",
+        "nm": 931638,
+        "roles": [
+          {
+            "char": "Judge Alvin MacArthur"
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Brissette",
+        "nm": 109890,
+        "roles": [
+          {
+            "char": "Katie Rogan",
+            "ch": 357231
+          }
+        ]
+      },
+      {
+        "name": "Jayne Brook",
+        "nm": 111632,
+        "roles": [
+          {
+            "char": "Bonnie Ehlman"
+          }
+        ]
+      },
+      {
+        "name": "Michael Faustino",
+        "nm": 269285,
+        "roles": [
+          {
+            "char": "Brian Rogan",
+            "ch": 357232
+          }
+        ]
+      },
+      {
+        "name": "Rance Howard",
+        "nm": 397555,
+        "roles": [
+          {
+            "char": "Mr. Williams"
+          }
+        ]
+      },
+      {
+        "name": "John Mahon",
+        "nm": 537089,
+        "roles": [
+          {
+            "char": "Detective Stassen"
+          }
+        ]
+      },
+      {
+        "name": "Jack McGee",
+        "nm": 569079,
+        "roles": [
+          {
+            "char": "Blatt"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth McGregor",
+        "nm": 532342,
+        "roles": [
+          {
+            "char": "Richard Lubow",
+            "as Kenneth McGregor": true
+          }
+        ]
+      },
+      {
+        "name": "B.J. Ward",
+        "nm": 911389,
+        "roles": [
+          {
+            "char": "Marian Cleve"
+          }
+        ]
+      },
+      {
+        "name": "Milt Tarver",
+        "nm": 850785,
+        "roles": [
+          {
+            "char": "Dr. Tomlin"
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Allport",
+        "nm": 21595,
+        "roles": [
+          {
+            "char": "Newswoman"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Howell",
+        "nm": 397989,
+        "roles": [
+          {
+            "char": "Young ADA",
+            "as Jeff Howell": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Alan Itskovich",
+        "nm": 3555272,
+        "roles": [
+          {
+            "char": "Anthony"
+          }
+        ]
+      },
+      {
+        "name": "Theresa Karanik",
+        "nm": 438900,
+        "roles": [
+          {
+            "char": "Anthony's Mother"
+          }
+        ]
+      },
+      {
+        "name": "Darlene Kardon",
+        "nm": 439093,
+        "roles": [
+          {
+            "char": "Anthony's Grandmother"
+          }
+        ]
+      },
+      {
+        "name": "Bennett Liss",
+        "nm": 514158,
+        "roles": [
+          {
+            "char": "Press"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Parsons",
+        "nm": 663844,
+        "roles": [
+          {
+            "char": "P.A."
+          }
+        ]
+      },
+      {
+        "name": "Randy Pybas",
+        "nm": 3555274,
+        "roles": [
+          {
+            "char": "Public Defender"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Goodbye, Judge Green",
+    "tt": 1058641,
+    "air_date": "1990-05-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Steven Hill",
+        "nm": 384696,
+        "roles": [
+          {
+            "char": "Judge Stephen Green"
+          }
+        ]
+      },
+      {
+        "name": "Danny Nucci",
+        "nm": 1572,
+        "roles": [
+          {
+            "char": "Ramon Escobar"
+          }
+        ]
+      },
+      {
+        "name": "Angela Bassett",
+        "nm": 291,
+        "roles": [
+          {
+            "char": "Janet Fields"
+          }
+        ]
+      },
+      {
+        "name": "Silvana Gallardo",
+        "nm": 302637,
+        "roles": [
+          {
+            "char": "Estella"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Millar",
+        "nm": 587670,
+        "roles": [
+          {
+            "char": "Sugar"
+          }
+        ]
+      },
+      {
+        "name": "James Eckhouse",
+        "nm": 248698,
+        "roles": [
+          {
+            "char": "Defense Attorney"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Rhodes",
+        "nm": 722451,
+        "roles": [
+          {
+            "char": "Judge Billings"
+          }
+        ]
+      },
+      {
+        "name": "Pierre Epstein",
+        "nm": 258527,
+        "roles": [
+          {
+            "char": "Judge Burrell"
+          }
+        ]
+      },
+      {
+        "name": "Frank Piazza",
+        "nm": 681326,
+        "roles": [
+          {
+            "char": "Detective Glanzman"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Mendel",
+        "nm": 578833,
+        "roles": [
+          {
+            "char": "Judge Mahoney"
+          }
+        ]
+      },
+      {
+        "name": "Lillian Garrett",
+        "nm": 308164,
+        "roles": [
+          {
+            "char": "Lori Benitez"
+          }
+        ]
+      },
+      {
+        "name": "Nada Despotovich",
+        "nm": 221631,
+        "roles": [
+          {
+            "char": "Debbie"
+          }
+        ]
+      },
+      {
+        "name": "Sachi Parker",
+        "nm": 662599,
+        "roles": [
+          {
+            "char": "Tracy Baker"
+          }
+        ]
+      },
+      {
+        "name": "Valerie Bickford",
+        "nm": 81050,
+        "roles": [
+          {
+            "char": "Ignacio"
+          }
+        ]
+      },
+      {
+        "name": "Erik Kilpatrick",
+        "nm": 453291,
+        "roles": [
+          {
+            "char": "Abel Carson"
+          }
+        ]
+      },
+      {
+        "name": "Tony Genaro",
+        "nm": 312629,
+        "roles": [
+          {
+            "char": "Green's Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Tomas Trujillo",
+        "nm": 874247,
+        "roles": [
+          {
+            "char": "Carlos Escobar"
+          }
+        ]
+      },
+      {
+        "name": "Shawn Michaels",
+        "nm": 584497,
+        "roles": [
+          {
+            "char": "Mahoney's Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Armand Asselin",
+        "nm": 39793,
+        "roles": [
+          {
+            "char": "Jury Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Jean-Pierre Nutini",
+        "nm": 638318,
+        "roles": [
+          {
+            "char": "Bobby Lopez",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "False Images",
+    "tt": 1202945,
+    "air_date": "1990-05-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Robert Desiderio",
+        "nm": 221241,
+        "roles": [
+          {
+            "char": "Frank Devito",
+            "ch": 88171
+          }
+        ]
+      },
+      {
+        "name": "Dan Hedaya",
+        "nm": 445,
+        "roles": [
+          {
+            "char": "Detective Perry",
+            "ch": 88172
+          }
+        ]
+      },
+      {
+        "name": "Norman Parker",
+        "nm": 6559,
+        "roles": [
+          {
+            "char": "Judge Bennett",
+            "ch": 304211
+          }
+        ]
+      },
+      {
+        "name": "Gregory Millar",
+        "nm": 587670,
+        "roles": [
+          {
+            "char": "Sugar"
+          }
+        ]
+      },
+      {
+        "name": "H. Richard Greene",
+        "nm": 338768,
+        "roles": [
+          {
+            "char": "Mr. North"
+          }
+        ]
+      },
+      {
+        "name": "Julie Osburn",
+        "nm": 651783,
+        "roles": [
+          {
+            "char": "Barbara Gottlieb"
+          }
+        ]
+      },
+      {
+        "name": "Juliet Sorci",
+        "nm": 814762,
+        "roles": [
+          {
+            "char": "Susan Dabich",
+            "as Juliet Sorcey": true
+          }
+        ]
+      },
+      {
+        "name": "Margot Rose",
+        "nm": 741558,
+        "roles": [
+          {
+            "char": "Chris' Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Randy Oglesby",
+        "nm": 644750,
+        "roles": [
+          {
+            "char": "Lawson"
+          }
+        ]
+      },
+      {
+        "name": "Chris Weatherhead",
+        "nm": 915743,
+        "roles": [
+          {
+            "char": "Carol Dabich"
+          }
+        ]
+      },
+      {
+        "name": "Jimmie F. Skaggs",
+        "nm": 803765,
+        "roles": [
+          {
+            "char": "William Simpko"
+          }
+        ]
+      },
+      {
+        "name": "Martin Azarow",
+        "nm": 44133,
+        "roles": [
+          {
+            "char": "Arty"
+          }
+        ]
+      },
+      {
+        "name": "R.J. Arterburn",
+        "nm": 37691,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Katherine Cortez",
+        "nm": 181374,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Sugar Blues",
+    "tt": 1224786,
+    "air_date": "1990-05-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Robert Desiderio",
+        "nm": 221241,
+        "roles": [
+          {
+            "char": "Frank DeVito",
+            "ch": 88171
+          }
+        ]
+      },
+      {
+        "name": "Norman Parker",
+        "nm": 6559,
+        "roles": [
+          {
+            "char": "Judge Bennett",
+            "ch": 304211
+          }
+        ]
+      },
+      {
+        "name": "Michael Rooker",
+        "nm": 740264,
+        "roles": [
+          {
+            "char": "Wallace 'Wally' Dalton"
+          }
+        ]
+      },
+      {
+        "name": "William De Acutis",
+        "nm": 206846,
+        "roles": [
+          {
+            "char": "James Miller",
+            "as William DeAcutis": true
+          },
+          {
+            "char": "Princess",
+            "as William DeAcutis": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Burton",
+        "nm": 123748,
+        "roles": [
+          {
+            "char": "Mr. Ford"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Millar",
+        "nm": 587670,
+        "roles": [
+          {
+            "char": "Sugar"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Rhodes",
+        "nm": 722451,
+        "roles": [
+          {
+            "char": "Justice Billings"
+          }
+        ]
+      },
+      {
+        "name": "Margot Rose",
+        "nm": 741558,
+        "roles": [
+          {
+            "char": "Debbie"
+          }
+        ]
+      },
+      {
+        "name": "Marlene Warfield",
+        "nm": 912200,
+        "roles": [
+          {
+            "char": "Judge Evelyn Kass"
+          }
+        ]
+      },
+      {
+        "name": "Julie Osburn",
+        "nm": 651783,
+        "roles": [
+          {
+            "char": "Barbara Gottlieb"
+          }
+        ]
+      },
+      {
+        "name": "Frances Bay",
+        "nm": 62844,
+        "roles": [
+          {
+            "char": "Florence Evans"
+          }
+        ]
+      },
+      {
+        "name": "David L. Crowley",
+        "nm": 189719,
+        "roles": [
+          {
+            "char": "Phil Fitzgerald",
+            "as David Crowley": true
+          }
+        ]
+      },
+      {
+        "name": "Jeff Perry",
+        "nm": 675114,
+        "roles": [
+          {
+            "char": "ADA Warren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Curses",
+    "tt": 572517,
+    "air_date": "1990-06-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Sydney Walsh",
+        "nm": 909878,
+        "roles": [
+          {
+            "char": "Lynn Purcel"
+          }
+        ]
+      },
+      {
+        "name": "Reni Santoni",
+        "nm": 763858,
+        "roles": [
+          {
+            "char": "Glen Newland"
+          }
+        ]
+      },
+      {
+        "name": "Basil Hoffman",
+        "nm": 388819,
+        "roles": [
+          {
+            "char": "Curtis Cardwell"
+          }
+        ]
+      },
+      {
+        "name": "Allan Rich",
+        "nm": 723590,
+        "roles": [
+          {
+            "char": "Judge Alexander Varella"
+          }
+        ]
+      },
+      {
+        "name": "Brent David Fraser",
+        "nm": 292082,
+        "roles": [
+          {
+            "char": "Robert Kinnare",
+            "ch": 179822,
+            "as Brent Fraser": true
+          }
+        ]
+      },
+      {
+        "name": "Larry D. Mann",
+        "nm": 542847,
+        "roles": [
+          {
+            "char": "Judge Richard Shelton"
+          }
+        ]
+      },
+      {
+        "name": "Castulo Guerra",
+        "nm": 346003,
+        "roles": [
+          {
+            "char": "King Anton"
+          }
+        ]
+      },
+      {
+        "name": "Martine Beswick",
+        "nm": 936,
+        "roles": [
+          {
+            "char": "Queen Maria Romani",
+            "as Martine Beswicke": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Redd",
+        "nm": 714673,
+        "roles": [
+          {
+            "char": "Bonnie Cooper"
+          }
+        ]
+      },
+      {
+        "name": "Maria Strova",
+        "nm": 835211,
+        "roles": [
+          {
+            "char": "Jane Gonzales"
+          }
+        ]
+      },
+      {
+        "name": "Robert Cornthwaite",
+        "nm": 180452,
+        "roles": [
+          {
+            "char": "Abe Wooly"
+          }
+        ]
+      },
+      {
+        "name": "Michael Faustino",
+        "nm": 269285,
+        "roles": [
+          {
+            "char": "Brian Rogan",
+            "ch": 357232
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Brissette",
+        "nm": 109890,
+        "roles": [
+          {
+            "char": "Katie Rogan",
+            "ch": 357231
+          }
+        ]
+      },
+      {
+        "name": "Vince Howard",
+        "nm": 397660,
+        "roles": [
+          {
+            "char": "George Mattford",
+            "as Vincent Howard": true
+          }
+        ]
+      },
+      {
+        "name": "Daniel Zacapa",
+        "nm": 669254,
+        "roles": [
+          {
+            "char": "Foreman",
+            "as Garrett Pearson": true
+          }
+        ]
+      },
+      {
+        "name": "Benita Marti",
+        "nm": 28131,
+        "roles": [
+          {
+            "char": "Miss Cardoza",
+            "as Benita Andre": true
+          }
+        ]
+      },
+      {
+        "name": "Dalton Cathey",
+        "nm": 146141,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Cop's Story",
+    "tt": 1058640,
+    "air_date": "1990-06-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Sydney Walsh",
+        "nm": 909878,
+        "roles": [
+          {
+            "char": "Peggy"
+          }
+        ]
+      },
+      {
+        "name": "John Laughlin",
+        "nm": 490855,
+        "roles": [
+          {
+            "char": "Boyce",
+            "ch": 176286
+          }
+        ]
+      },
+      {
+        "name": "Holly Fields",
+        "nm": 276253,
+        "roles": [
+          {
+            "char": "Finny"
+          }
+        ]
+      },
+      {
+        "name": "Steve Eastin",
+        "nm": 247611,
+        "roles": [
+          {
+            "char": "Detective Dankowski",
+            "ch": 164274
+          }
+        ]
+      },
+      {
+        "name": "Andy Romano",
+        "nm": 738850,
+        "roles": [
+          {
+            "char": "Capt. Jim Webster"
+          }
+        ]
+      },
+      {
+        "name": "Alan Blumenfeld",
+        "nm": 89781,
+        "roles": [
+          {
+            "char": "Mr. Peterson",
+            "ch": 255226
+          }
+        ]
+      },
+      {
+        "name": "Angela Paton",
+        "nm": 665708,
+        "roles": [
+          {
+            "char": "Mrs. King"
+          }
+        ]
+      },
+      {
+        "name": "Kamala Lopez",
+        "nm": 520234,
+        "roles": [
+          {
+            "char": "Brenda"
+          }
+        ]
+      },
+      {
+        "name": "Joan Stuart Morris",
+        "nm": 606651,
+        "roles": [
+          {
+            "char": "Kim Thomas",
+            "as Joan Stuart-Morris": true
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Brissette",
+        "nm": 109890,
+        "roles": [
+          {
+            "char": "Katie Rogan",
+            "ch": 357231
+          }
+        ]
+      },
+      {
+        "name": "Terry Alexander",
+        "nm": 18777,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Jack Kehler",
+        "nm": 444940,
+        "roles": [
+          {
+            "char": "Rodney Kickel"
+          }
+        ]
+      },
+      {
+        "name": "John Hostetter",
+        "nm": 396183,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Ed Trotta",
+        "nm": 873668,
+        "roles": [
+          {
+            "char": "Cop in Alley"
+          }
+        ]
+      },
+      {
+        "name": "John FitzGibbon",
+        "nm": 1296005,
+        "roles": [
+          {
+            "char": "Man in Bar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Separate Lives",
+    "tt": 1224785,
+    "air_date": "1990-06-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "John Laughlin",
+        "nm": 490855,
+        "roles": [
+          {
+            "char": "Boyce",
+            "ch": 176286
+          }
+        ]
+      },
+      {
+        "name": "Jason Bernard",
+        "nm": 76251,
+        "roles": [
+          {
+            "char": "Judge Thaddeus Jones"
+          }
+        ]
+      },
+      {
+        "name": "Mary Ann Pascal",
+        "nm": 664289,
+        "roles": [
+          {
+            "char": "Joy"
+          }
+        ]
+      },
+      {
+        "name": "Holly Fields",
+        "nm": 276253,
+        "roles": [
+          {
+            "char": "Finny"
+          }
+        ]
+      },
+      {
+        "name": "Steve Eastin",
+        "nm": 247611,
+        "roles": [
+          {
+            "char": "Detective Dankowski",
+            "ch": 164274
+          }
+        ]
+      },
+      {
+        "name": "Pamela Dunlap",
+        "nm": 242405,
+        "roles": [
+          {
+            "char": "Finny's Social Worker"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Mikal Ford",
+        "nm": 285901,
+        "roles": [
+          {
+            "char": "Ernie Pearl",
+            "as Thomas Ford": true
+          }
+        ]
+      },
+      {
+        "name": "Ron Orbach",
+        "nm": 649386,
+        "roles": [
+          {
+            "char": "Ogden Taverner"
+          }
+        ]
+      },
+      {
+        "name": "Michael Faustino",
+        "nm": 269285,
+        "roles": [
+          {
+            "char": "Brian Rogan",
+            "ch": 357232
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Brissette",
+        "nm": 109890,
+        "roles": [
+          {
+            "char": "Katie Rogan",
+            "ch": 357231
+          }
+        ]
+      },
+      {
+        "name": "Stuart Mabray",
+        "nm": 531107,
+        "roles": [
+          {
+            "char": "Lewis Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Kopache",
+        "nm": 465664,
+        "roles": [
+          {
+            "char": "Leonard Smith"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Bellin",
+        "nm": 68989,
+        "roles": [
+          {
+            "char": "Father O'Melven"
+          }
+        ]
+      },
+      {
+        "name": "Edgar Small",
+        "nm": 806446,
+        "roles": [
+          {
+            "char": "Court Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Joahn Webb",
+        "nm": 1859871,
+        "roles": [
+          {
+            "char": "Rogan's Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Rich Goldman",
+        "nm": 3542251,
+        "roles": [
+          {
+            "char": "Defendant"
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Epper",
+        "nm": 258352,
+        "roles": [
+          {
+            "char": "Matron"
+          }
+        ]
+      },
+      {
+        "name": "Scott West",
+        "nm": 3542596,
+        "roles": [
+          {
+            "char": "Corridor ADA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Sleeping with the Enemy",
+    "tt": 572522,
+    "air_date": "1991-01-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Carrie Hamilton",
+        "nm": 357774,
+        "roles": [
+          {
+            "char": "Jillian Weeks"
+          }
+        ]
+      },
+      {
+        "name": "David Paymer",
+        "nm": 1601,
+        "roles": [
+          {
+            "char": "Stuey"
+          }
+        ]
+      },
+      {
+        "name": "Dori Brenner",
+        "nm": 107467,
+        "roles": [
+          {
+            "char": "Mary Ann"
+          }
+        ]
+      },
+      {
+        "name": "Linden Ashby",
+        "nm": 798,
+        "roles": [
+          {
+            "char": "Charles Bercik"
+          }
+        ]
+      },
+      {
+        "name": "Floyd Levine",
+        "nm": 505801,
+        "roles": [
+          {
+            "char": "Dr. Yung"
+          }
+        ]
+      },
+      {
+        "name": "John C. Moskoff",
+        "nm": 608758,
+        "roles": [
+          {
+            "char": "Judge Jamison"
+          }
+        ]
+      },
+      {
+        "name": "Anne Gee Byrd",
+        "nm": 125988,
+        "roles": [
+          {
+            "char": "Karen"
+          }
+        ]
+      },
+      {
+        "name": "Oz Tortora",
+        "nm": 869036,
+        "roles": [
+          {
+            "char": "Public Health Officer"
+          }
+        ]
+      },
+      {
+        "name": "John Welsh",
+        "nm": 920557,
+        "roles": [
+          {
+            "char": "Ed Bercik"
+          }
+        ]
+      },
+      {
+        "name": "Charles Dougherty",
+        "nm": 234821,
+        "roles": [
+          {
+            "char": "Advocate No. 1"
+          }
+        ]
+      },
+      {
+        "name": "Lavelle Roby",
+        "nm": 733513,
+        "roles": [
+          {
+            "char": "Judge Myers"
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Burr",
+        "nm": 123015,
+        "roles": [
+          {
+            "char": "Detective Kozek"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Craig",
+        "nm": 185775,
+        "roles": [
+          {
+            "char": "Wolfman"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Martin",
+        "nm": 553036,
+        "roles": [
+          {
+            "char": "Advocate No. 2"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Hieu",
+        "nm": 383226,
+        "roles": [
+          {
+            "char": "Vietnamese Man"
+          }
+        ]
+      },
+      {
+        "name": "Fred Pinkard",
+        "nm": 684339,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Lee Mary Weilnau",
+        "nm": 918057,
+        "roles": [
+          {
+            "char": "Vietnamese Woman"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Parsons",
+        "nm": 663844,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Cecilie A. Stuart",
+        "nm": 835664,
+        "roles": [
+          {
+            "char": "Dancer",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Vincent Tumeo",
+        "nm": 876592,
+        "roles": [
+          {
+            "char": "Dancer",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "End Game",
+    "tt": 572520,
+    "air_date": "1991-01-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Stanley Tucci",
+        "nm": 1804,
+        "roles": [
+          {
+            "char": "Detective Frank Mirelli",
+            "ch": 68067
+          }
+        ]
+      },
+      {
+        "name": "Scott Marlowe",
+        "nm": 549325,
+        "roles": [
+          {
+            "char": "Mr. Weiss"
+          }
+        ]
+      },
+      {
+        "name": "David Harris",
+        "nm": 364593,
+        "roles": [
+          {
+            "char": "Antoine Adams"
+          }
+        ]
+      },
+      {
+        "name": "LaVerne Anderson",
+        "nm": 27065,
+        "roles": [
+          {
+            "char": "Didi Wills"
+          }
+        ]
+      },
+      {
+        "name": "Bill Morey",
+        "nm": 604376,
+        "roles": [
+          {
+            "char": "Judge Forrest Williams"
+          }
+        ]
+      },
+      {
+        "name": "William Utay",
+        "nm": 882491,
+        "roles": [
+          {
+            "char": "Dr. Hayes"
+          }
+        ]
+      },
+      {
+        "name": "Margaret Muse",
+        "nm": 615624,
+        "roles": [
+          {
+            "char": "Co-Op Woman"
+          }
+        ]
+      },
+      {
+        "name": "Jack Murdock",
+        "nm": 613789,
+        "roles": [
+          {
+            "char": "Spider"
+          }
+        ]
+      },
+      {
+        "name": "Judy Kain",
+        "nm": 435071,
+        "roles": [
+          {
+            "char": "Real Estate Woman"
+          }
+        ]
+      },
+      {
+        "name": "Brett Stimely",
+        "nm": 830373,
+        "roles": [
+          {
+            "char": "Porter Stevenson"
+          }
+        ]
+      },
+      {
+        "name": "James Newell",
+        "nm": 627804,
+        "roles": [
+          {
+            "char": "Noble"
+          }
+        ]
+      },
+      {
+        "name": "Heather Lee",
+        "nm": 2293,
+        "roles": [
+          {
+            "char": "Grace"
+          }
+        ]
+      },
+      {
+        "name": "Torri Whitehead",
+        "nm": 925734,
+        "roles": [
+          {
+            "char": "Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Roger La Page",
+        "nm": 478782,
+        "roles": [
+          {
+            "char": "Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Nigel Miguel",
+        "nm": 586070,
+        "roles": [
+          {
+            "char": "Reggie",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Courting Disaster",
+    "tt": 572516,
+    "air_date": "1991-01-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Michael Durrell",
+        "nm": 244359,
+        "roles": [
+          {
+            "char": "Jason Prentiss"
+          }
+        ]
+      },
+      {
+        "name": "Tricia O'Neil",
+        "nm": 642078,
+        "roles": [
+          {
+            "char": "Sara"
+          }
+        ]
+      },
+      {
+        "name": "Carrie Snodgress",
+        "nm": 811202,
+        "roles": [
+          {
+            "char": "Marla Prentiss"
+          }
+        ]
+      },
+      {
+        "name": "Will MacMillan",
+        "nm": 534032,
+        "roles": [
+          {
+            "char": "Judge Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Brigitte Bako",
+        "nm": 49190,
+        "roles": [
+          {
+            "char": "Georgine Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Jacqueline Scott",
+        "nm": 779261,
+        "roles": [
+          {
+            "char": "Judge Naisbett"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Kepros",
+        "nm": 449162,
+        "roles": [
+          {
+            "char": "Dr. Telander"
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Brissette",
+        "nm": 109890,
+        "roles": [
+          {
+            "char": "Katie Rogan",
+            "ch": 357231
+          }
+        ]
+      },
+      {
+        "name": "Lynn Whitfield",
+        "nm": 5551,
+        "roles": [
+          {
+            "char": "Maggie Mayfield"
+          }
+        ]
+      },
+      {
+        "name": "Judith Jones",
+        "nm": 428475,
+        "roles": [
+          {
+            "char": "Elizabeth"
+          }
+        ]
+      },
+      {
+        "name": "Richard Brestoff",
+        "nm": 107832,
+        "roles": [
+          {
+            "char": "Steinman"
+          }
+        ]
+      },
+      {
+        "name": "Susan Powell",
+        "nm": 694327,
+        "roles": [
+          {
+            "char": "Claire"
+          }
+        ]
+      },
+      {
+        "name": "Lahmard J. Tate",
+        "nm": 851159,
+        "roles": [
+          {
+            "char": "Rene",
+            "as Lahmard Tate": true
+          }
+        ]
+      },
+      {
+        "name": "Duke Stroud",
+        "nm": 835146,
+        "roles": [
+          {
+            "char": "Farraday"
+          }
+        ]
+      },
+      {
+        "name": "Lamont Bentley",
+        "nm": 72840,
+        "roles": [
+          {
+            "char": "Childs"
+          }
+        ]
+      },
+      {
+        "name": "Yvette Freeman",
+        "nm": 293623,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "In Confidence",
+    "tt": 1108993,
+    "air_date": "1991-02-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Dan Hedaya",
+        "nm": 445,
+        "roles": [
+          {
+            "char": "Detective Al Perry",
+            "ch": 88172
+          }
+        ]
+      },
+      {
+        "name": "Neil Giuntoli",
+        "nm": 321358,
+        "roles": [
+          {
+            "char": "Jack Landos"
+          }
+        ]
+      },
+      {
+        "name": "Donna Bullock",
+        "nm": 120141,
+        "roles": [
+          {
+            "char": "Jana Carlton"
+          }
+        ]
+      },
+      {
+        "name": "Allan Rich",
+        "nm": 723590,
+        "roles": [
+          {
+            "char": "Judge Alexander Varella"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Whitfield",
+        "nm": 5551,
+        "roles": [
+          {
+            "char": "Maggie Mayfield"
+          }
+        ]
+      },
+      {
+        "name": "Charles Walker",
+        "nm": 907605,
+        "roles": [
+          {
+            "char": "Accosta"
+          }
+        ]
+      },
+      {
+        "name": "Flo Di Re",
+        "nm": 224241,
+        "roles": [
+          {
+            "char": "Dr. Weiss"
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Brissette",
+        "nm": 109890,
+        "roles": [
+          {
+            "char": "Katie Rogan",
+            "ch": 357231
+          }
+        ]
+      },
+      {
+        "name": "Jack Jozefson",
+        "nm": 431672,
+        "roles": [
+          {
+            "char": "Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Allen Garfield",
+        "nm": 307255,
+        "roles": [
+          {
+            "char": "Sam",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Do No Harm",
+    "tt": 572518,
+    "air_date": "1991-02-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Stanley Tucci",
+        "nm": 1804,
+        "roles": [
+          {
+            "char": "Detective Frank Mirelli",
+            "ch": 68067
+          }
+        ]
+      },
+      {
+        "name": "Joan McMurtrey",
+        "nm": 573494,
+        "roles": [
+          {
+            "char": "Mrs. Curtis"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Elliott",
+        "nm": 254634,
+        "roles": [
+          {
+            "char": "Dr. Strathmore"
+          }
+        ]
+      },
+      {
+        "name": "Wayne Tippit",
+        "nm": 864133,
+        "roles": [
+          {
+            "char": "Paul Hauge"
+          }
+        ]
+      },
+      {
+        "name": "Caroline Williams",
+        "nm": 930226,
+        "roles": [
+          {
+            "char": "Roberta"
+          }
+        ]
+      },
+      {
+        "name": "Bonnie Burroughs",
+        "nm": 123182,
+        "roles": [
+          {
+            "char": "Carla Siditski"
+          }
+        ]
+      },
+      {
+        "name": "Liz Sheridan",
+        "nm": 792210,
+        "roles": [
+          {
+            "char": "Judge Constance Adler"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Craig",
+        "nm": 185775,
+        "roles": [
+          {
+            "char": "Wolfman"
+          }
+        ]
+      },
+      {
+        "name": "Lee Lawson",
+        "nm": 493270,
+        "roles": [
+          {
+            "char": "Mary Beth"
+          }
+        ]
+      },
+      {
+        "name": "Susan Merson",
+        "nm": 581518,
+        "roles": [
+          {
+            "char": "Catherine Abbott"
+          }
+        ]
+      },
+      {
+        "name": "Ryan MacDonald",
+        "nm": 531915,
+        "roles": [
+          {
+            "char": "Judge Keller"
+          }
+        ]
+      },
+      {
+        "name": "Jimm Giannini",
+        "nm": 316288,
+        "roles": [
+          {
+            "char": "Delvecchio"
+          }
+        ]
+      },
+      {
+        "name": "Doug Franklin",
+        "nm": 291406,
+        "roles": [
+          {
+            "char": "Puncione"
+          }
+        ]
+      },
+      {
+        "name": "Lada Boder",
+        "nm": 90900,
+        "roles": [
+          {
+            "char": "Little Eva"
+          }
+        ]
+      },
+      {
+        "name": "Gregory J. Barnett",
+        "nm": 55897,
+        "roles": [
+          {
+            "char": "Makela"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Koth",
+        "nm": 467671,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Brian Markinson",
+        "nm": 548498,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "The Big Game and Other Crimes",
+    "tt": 572523,
+    "air_date": "1991-03-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Colleen Flynn",
+        "nm": 283425,
+        "roles": [
+          {
+            "char": "Kerry Lynn"
+          }
+        ]
+      },
+      {
+        "name": "Lee de Broux",
+        "nm": 207616,
+        "roles": [
+          {
+            "char": "Alex McCaw",
+            "as Lee DeBroux": true
+          }
+        ]
+      },
+      {
+        "name": "Jeff McCarthy",
+        "nm": 565159,
+        "roles": [
+          {
+            "char": "Shattuck"
+          }
+        ]
+      },
+      {
+        "name": "Robin Strand",
+        "nm": 833274,
+        "roles": [
+          {
+            "char": "Ellis Bernstein",
+            "ch": 88170
+          }
+        ]
+      },
+      {
+        "name": "L. Scott Caldwell",
+        "nm": 129749,
+        "roles": [
+          {
+            "char": "Mrs. Ida Bolton"
+          }
+        ]
+      },
+      {
+        "name": "Lois De Banzie",
+        "nm": 207221,
+        "roles": [
+          {
+            "char": "Mrs. McCaw",
+            "as Lois de Banzie": true
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Rhodes",
+        "nm": 722451,
+        "roles": [
+          {
+            "char": "Judge Billings"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Tierney",
+        "nm": 862937,
+        "roles": [
+          {
+            "char": "Harold Barrett"
+          }
+        ]
+      },
+      {
+        "name": "Don Stark",
+        "nm": 823155,
+        "roles": [
+          {
+            "char": "Sgt. Samuelson"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Whitfield",
+        "nm": 5551,
+        "roles": [
+          {
+            "char": "Maggie Mayfield"
+          }
+        ]
+      },
+      {
+        "name": "Wren T. Brown",
+        "nm": 114931,
+        "roles": [
+          {
+            "char": "P.D. Reid"
+          }
+        ]
+      },
+      {
+        "name": "William Marquez",
+        "nm": 549884,
+        "roles": [
+          {
+            "char": "Judge Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Nigel Miguel",
+        "nm": 586070,
+        "roles": [
+          {
+            "char": "Reggie"
+          }
+        ]
+      },
+      {
+        "name": "J. David Krassner",
+        "nm": 469979,
+        "roles": [
+          {
+            "char": "Director"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Koth",
+        "nm": 467671,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Part of the Plan",
+    "tt": 1108994,
+    "air_date": "1991-03-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Colleen Flynn",
+        "nm": 283425,
+        "roles": [
+          {
+            "char": "Kerry Lynn"
+          }
+        ]
+      },
+      {
+        "name": "Richard Gilliland",
+        "nm": 319231,
+        "roles": [
+          {
+            "char": "Robert Geller"
+          }
+        ]
+      },
+      {
+        "name": "Michael D. Roberts",
+        "nm": 731426,
+        "roles": [
+          {
+            "char": "Dr. David Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Paul Regina",
+        "nm": 716618,
+        "roles": [
+          {
+            "char": "Mr. Lieberthal"
+          }
+        ]
+      },
+      {
+        "name": "Larry D. Mann",
+        "nm": 542847,
+        "roles": [
+          {
+            "char": "Judge C.E. Boyd"
+          }
+        ]
+      },
+      {
+        "name": "George Murdock",
+        "nm": 613787,
+        "roles": [
+          {
+            "char": "Judge Ernest Franklin",
+            "ch": 294974
+          }
+        ]
+      },
+      {
+        "name": "Erica Yohn",
+        "nm": 948361,
+        "roles": [
+          {
+            "char": "Pauline Bauer"
+          }
+        ]
+      },
+      {
+        "name": "Gerald S. O'Loughlin",
+        "nm": 641663,
+        "roles": [
+          {
+            "char": "Ted Bauer",
+            "ch": 336122
+          }
+        ]
+      },
+      {
+        "name": "Paul Drake",
+        "nm": 236985,
+        "roles": [
+          {
+            "char": "Cantoli"
+          }
+        ]
+      },
+      {
+        "name": "Helaine Hunter",
+        "nm": 3985202,
+        "roles": [
+          {
+            "char": "Dee Dee Blue"
+          }
+        ]
+      },
+      {
+        "name": "D. Paul Thomas",
+        "nm": 858663,
+        "roles": [
+          {
+            "char": "Dr. Strauss"
+          }
+        ]
+      },
+      {
+        "name": "Denny Salvaryn",
+        "nm": 759313,
+        "roles": [
+          {
+            "char": "Minister"
+          }
+        ]
+      },
+      {
+        "name": "John Gowan",
+        "nm": 332927,
+        "roles": [
+          {
+            "char": "Maitre D'"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Hodges",
+        "nm": 3989343,
+        "roles": [
+          {
+            "char": "Lady Juror"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Who Speaks for the Children?",
+    "tt": 572526,
+    "air_date": "1991-03-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Stanley Tucci",
+        "nm": 1804,
+        "roles": [
+          {
+            "char": "Detective Frank Mirelli",
+            "ch": 68067
+          }
+        ]
+      },
+      {
+        "name": "Beverly Todd",
+        "nm": 865119,
+        "roles": [
+          {
+            "char": "April Gibbons"
+          }
+        ]
+      },
+      {
+        "name": "Melora Hardin",
+        "nm": 2124,
+        "roles": [
+          {
+            "char": "Doris Walsh"
+          }
+        ]
+      },
+      {
+        "name": "Roxann Dawson",
+        "nm": 206259,
+        "roles": [
+          {
+            "char": "Maria",
+            "as Roxann Biggs": true
+          }
+        ]
+      },
+      {
+        "name": "Brian Markinson",
+        "nm": 548498,
+        "roles": [
+          {
+            "char": "Dr. Christopher Ruttenberg"
+          }
+        ]
+      },
+      {
+        "name": "Charles Levin",
+        "nm": 505570,
+        "roles": [
+          {
+            "char": "Mr. Palchevich"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Carberry",
+        "nm": 136100,
+        "roles": [
+          {
+            "char": "Det. Cursio"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Dark",
+        "nm": 201291,
+        "roles": [
+          {
+            "char": "Mr. Carbone"
+          }
+        ]
+      },
+      {
+        "name": "Brian Seeman",
+        "nm": 781631,
+        "roles": [
+          {
+            "char": "James",
+            "as Brian Seemann": true
+          }
+        ]
+      },
+      {
+        "name": "John F. O'Donohue",
+        "nm": 640887,
+        "roles": [
+          {
+            "char": "Rover"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Mendel",
+        "nm": 578833,
+        "roles": [
+          {
+            "char": "Judge Barron"
+          }
+        ]
+      },
+      {
+        "name": "Robert Levine",
+        "nm": 505938,
+        "roles": [
+          {
+            "char": "Justin"
+          }
+        ]
+      },
+      {
+        "name": "Roger Nolan",
+        "nm": 634353,
+        "roles": [
+          {
+            "char": "Howard"
+          }
+        ]
+      },
+      {
+        "name": "Edgar Small",
+        "nm": 806446,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Kaylan Romero",
+        "nm": 739481,
+        "roles": [
+          {
+            "char": "Javiersito"
+          }
+        ]
+      },
+      {
+        "name": "Joe Farago",
+        "nm": 267016,
+        "roles": [
+          {
+            "char": "Spence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Do the Wrong Thing",
+    "tt": 572519,
+    "air_date": "1991-03-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Douglas Roberts",
+        "nm": 731044,
+        "roles": [
+          {
+            "char": "Jesus of Nazareth",
+            "ch": 6201
+          }
+        ]
+      },
+      {
+        "name": "Meg Wittner",
+        "nm": 935974,
+        "roles": [
+          {
+            "char": "Sandra Hindell"
+          }
+        ]
+      },
+      {
+        "name": "Mario Roccuzzo",
+        "nm": 733714,
+        "roles": [
+          {
+            "char": "George"
+          }
+        ]
+      },
+      {
+        "name": "Mariangela Pino",
+        "nm": 684488,
+        "roles": [
+          {
+            "char": "Lorene"
+          }
+        ]
+      },
+      {
+        "name": "Sue Giosa",
+        "nm": 320448,
+        "roles": [
+          {
+            "char": "Finestra"
+          }
+        ]
+      },
+      {
+        "name": "Philip Baker Hall",
+        "nm": 1311,
+        "roles": [
+          {
+            "char": "Judge S.E. Cleveland"
+          }
+        ]
+      },
+      {
+        "name": "George Coe",
+        "nm": 168642,
+        "roles": [
+          {
+            "char": "Colin Baker",
+            "ch": 127425
+          }
+        ]
+      },
+      {
+        "name": "Alan Blumenfeld",
+        "nm": 89781,
+        "roles": [
+          {
+            "char": "Peterson"
+          }
+        ]
+      },
+      {
+        "name": "Jeff McCarthy",
+        "nm": 565159,
+        "roles": [
+          {
+            "char": "Ellis Bernstein",
+            "ch": 88170
+          }
+        ]
+      },
+      {
+        "name": "Linda Miller",
+        "nm": 588817,
+        "roles": [
+          {
+            "char": "Judith",
+            "as Linda G. Miller": true
+          }
+        ]
+      },
+      {
+        "name": "Rick Grassi",
+        "nm": 335917,
+        "roles": [
+          {
+            "char": "Savino"
+          }
+        ]
+      },
+      {
+        "name": "Janis Flax",
+        "nm": 281345,
+        "roles": [
+          {
+            "char": "Claire Bach"
+          }
+        ]
+      },
+      {
+        "name": "Richard Zavaglia",
+        "nm": 953737,
+        "roles": [
+          {
+            "char": "Dawkins"
+          }
+        ]
+      },
+      {
+        "name": "Eric Kohner",
+        "nm": 463428,
+        "roles": [
+          {
+            "char": "Bussio"
+          }
+        ]
+      },
+      {
+        "name": "Laurence Haddon",
+        "nm": 352736,
+        "roles": [
+          {
+            "char": "Coucilman Persky"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Without Prejudice",
+    "tt": 1108992,
+    "air_date": "1991-04-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "John Cothran",
+        "nm": 182824,
+        "roles": [
+          {
+            "char": "Jameel Kimball",
+            "as John Cothran Jr.": true
+          }
+        ]
+      },
+      {
+        "name": "Kim Miyori",
+        "nm": 594540,
+        "roles": [
+          {
+            "char": "Unah Yung"
+          }
+        ]
+      },
+      {
+        "name": "Meg Wittner",
+        "nm": 935974,
+        "roles": [
+          {
+            "char": "Sandra Hindell"
+          }
+        ]
+      },
+      {
+        "name": "Mariangela Pino",
+        "nm": 684488,
+        "roles": [
+          {
+            "char": "Lorene Bassler"
+          }
+        ]
+      },
+      {
+        "name": "Joe Marinelli",
+        "nm": 547584,
+        "roles": [
+          {
+            "char": "D'Alessio"
+          }
+        ]
+      },
+      {
+        "name": "Joel Polis",
+        "nm": 689177,
+        "roles": [
+          {
+            "char": "Mark"
+          }
+        ]
+      },
+      {
+        "name": "Lance Slaughter",
+        "nm": 805511,
+        "roles": [
+          {
+            "char": "Tyrone Reese"
+          }
+        ]
+      },
+      {
+        "name": "James O'Sullivan",
+        "nm": 642757,
+        "roles": [
+          {
+            "char": "Donald Holcombe",
+            "ch": 300890
+          }
+        ]
+      },
+      {
+        "name": "Jeff McCarthy",
+        "nm": 565159,
+        "roles": [
+          {
+            "char": "Ellis Bernstein",
+            "ch": 88170
+          }
+        ]
+      },
+      {
+        "name": "Chi Muoi Lo",
+        "nm": 516286,
+        "roles": [
+          {
+            "char": "Don Min Sung"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Whitfield",
+        "nm": 5551,
+        "roles": [
+          {
+            "char": "Maggie Mayfield"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Thomas O'Brien",
+        "nm": 639403,
+        "roles": [
+          {
+            "char": "Thornell Katz"
+          }
+        ]
+      },
+      {
+        "name": "Ryan Cutrona",
+        "nm": 193982,
+        "roles": [
+          {
+            "char": "Dunn"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Maki",
+        "nm": 538581,
+        "roles": [
+          {
+            "char": "John McKee",
+            "as Lawrence Scott Maki": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Cho Lee",
+        "nm": 496886,
+        "roles": [
+          {
+            "char": "Young Ti"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Ivan",
+        "nm": 2618272,
+        "roles": [
+          {
+            "char": "Joseph",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Opening Farewell",
+    "tt": 572521,
+    "air_date": "1991-06-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "Colleen Flynn",
+        "nm": 283425,
+        "roles": [
+          {
+            "char": "Kerry Lynn"
+          }
+        ]
+      },
+      {
+        "name": "George Coe",
+        "nm": 168642,
+        "roles": [
+          {
+            "char": "Colin Baker",
+            "ch": 127425
+          }
+        ]
+      },
+      {
+        "name": "Wanda De Jesus",
+        "nm": 208962,
+        "roles": [
+          {
+            "char": "Suzanne Garner"
+          }
+        ]
+      },
+      {
+        "name": "Meg Wittner",
+        "nm": 935974,
+        "roles": [
+          {
+            "char": "Sandra Hindell"
+          }
+        ]
+      },
+      {
+        "name": "James O'Sullivan",
+        "nm": 642757,
+        "roles": [
+          {
+            "char": "Donald Holcombe",
+            "ch": 300890
+          }
+        ]
+      },
+      {
+        "name": "Steve Eastin",
+        "nm": 247611,
+        "roles": [
+          {
+            "char": "Detective Dankowski",
+            "ch": 164274
+          }
+        ]
+      },
+      {
+        "name": "Mariangela Pino",
+        "nm": 684488,
+        "roles": [
+          {
+            "char": "Lorene Bassler"
+          }
+        ]
+      },
+      {
+        "name": "Clifton Powell",
+        "nm": 694066,
+        "roles": [
+          {
+            "char": "Jermaine Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Alan Toy",
+        "nm": 870257,
+        "roles": [
+          {
+            "char": "Joe"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Becker-Kennedy",
+        "nm": 65620,
+        "roles": [
+          {
+            "char": "Randa",
+            "as Nancy Becker Kennedy": true
+          }
+        ]
+      },
+      {
+        "name": "Lynn Whitfield",
+        "nm": 5551,
+        "roles": [
+          {
+            "char": "Maggie Mayfield"
+          }
+        ]
+      },
+      {
+        "name": "Eugene Williams",
+        "nm": 930568,
+        "roles": [
+          {
+            "char": "Willie"
+          }
+        ]
+      },
+      {
+        "name": "Thom Keane",
+        "nm": 443895,
+        "roles": [
+          {
+            "char": "Maitre D'"
+          }
+        ]
+      },
+      {
+        "name": "Burke Morgan",
+        "nm": 588022,
+        "roles": [
+          {
+            "char": "Reporter",
+            "as Carl T. Miller": true
+          }
+        ]
+      },
+      {
+        "name": "Fred Lerner",
+        "nm": 503610,
+        "roles": [
+          {
+            "char": "Officer #1"
+          }
+        ]
+      },
+      {
+        "name": "Kristen Wolff",
+        "nm": 3986558,
+        "roles": [
+          {
+            "char": "Caroline Bassler"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "What Color Are My Eyes?",
+    "tt": 572525,
+    "air_date": "1991-06-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "John Hancock",
+        "nm": 359379,
+        "roles": [
+          {
+            "char": "Detective Monroe"
+          }
+        ]
+      },
+      {
+        "name": "Cheryl Francis Harrington",
+        "nm": 364246,
+        "roles": [
+          {
+            "char": "Trisha Jackson"
+          }
+        ]
+      },
+      {
+        "name": "George Coe",
+        "nm": 168642,
+        "roles": [
+          {
+            "char": "Colin Baker",
+            "ch": 127425
+          }
+        ]
+      },
+      {
+        "name": "Jeff McCarthy",
+        "nm": 565159,
+        "roles": [
+          {
+            "char": "Ellis Bernstein",
+            "ch": 88170
+          }
+        ]
+      },
+      {
+        "name": "Steven Anderson",
+        "nm": 1706790,
+        "roles": [
+          {
+            "char": "George Kirmen"
+          }
+        ]
+      },
+      {
+        "name": "Cecily Adams",
+        "nm": 10820,
+        "roles": [
+          {
+            "char": "Cynthia"
+          }
+        ]
+      },
+      {
+        "name": "Tom Dahlgren",
+        "nm": 197080,
+        "roles": [
+          {
+            "char": "Judge Brown"
+          }
+        ]
+      },
+      {
+        "name": "Wink Martindale",
+        "nm": 553272,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Carol Bruce",
+        "nm": 115433,
+        "roles": [
+          {
+            "char": "Mrs. Thomason"
+          }
+        ]
+      },
+      {
+        "name": "Christina Carlisi",
+        "nm": 137583,
+        "roles": [
+          {
+            "char": "Andrea"
+          }
+        ]
+      },
+      {
+        "name": "Gayle Cohen",
+        "nm": 169389,
+        "roles": [
+          {
+            "char": "E.R. Physician"
+          }
+        ]
+      },
+      {
+        "name": "Catherine MacNeal",
+        "nm": 534088,
+        "roles": [
+          {
+            "char": "Defense Attorney"
+          }
+        ]
+      },
+      {
+        "name": "J. Downing",
+        "nm": 236104,
+        "roles": [
+          {
+            "char": "Producer"
+          }
+        ]
+      },
+      {
+        "name": "Charles R. Penland",
+        "nm": 671922,
+        "roles": [
+          {
+            "char": "Williams"
+          }
+        ]
+      },
+      {
+        "name": "Matt McKenzie",
+        "nm": 571578,
+        "roles": [
+          {
+            "char": "Attorney"
+          }
+        ]
+      },
+      {
+        "name": "Natasha Pearce",
+        "nm": 668991,
+        "roles": [
+          {
+            "char": "Vicki"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "The Devil His Due",
+    "tt": 572524,
+    "air_date": "1991-07-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "George DiCenzo",
+        "nm": 225191,
+        "roles": [
+          {
+            "char": "D.A. Arnold Bach",
+            "ch": 112575
+          }
+        ]
+      },
+      {
+        "name": "Debrah Farentino",
+        "nm": 1198,
+        "roles": [
+          {
+            "char": "Julie Janovich",
+            "ch": 357215
+          }
+        ]
+      },
+      {
+        "name": "Jane Kaczmarek",
+        "nm": 434223,
+        "roles": [
+          {
+            "char": "Linda Bauer",
+            "ch": 357216
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Jesse Rogan",
+            "ch": 357217
+          }
+        ]
+      },
+      {
+        "name": "Barry Miller",
+        "nm": 587944,
+        "roles": [
+          {
+            "char": "Pete 'Briggs' Brigman",
+            "ch": 357218
+          }
+        ]
+      },
+      {
+        "name": "Joe Morton",
+        "nm": 608012,
+        "roles": [
+          {
+            "char": "Mike James",
+            "ch": 357219
+          }
+        ]
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "nm": 572,
+        "roles": [
+          {
+            "char": "Jo Ann Harris",
+            "ch": 174947
+          }
+        ]
+      },
+      {
+        "name": "Cotter Smith",
+        "nm": 807767,
+        "roles": [
+          {
+            "char": "Dep. D.A. Eugene 'Gene' Rogan",
+            "ch": 77574
+          }
+        ]
+      },
+      {
+        "name": "Jon Tenney",
+        "nm": 855103,
+        "roles": [
+          {
+            "char": "Peter Bauer",
+            "ch": 88168
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Christopher Searls",
+            "ch": 77573
+          }
+        ]
+      },
+      {
+        "name": "James Handy",
+        "nm": 359695,
+        "roles": [
+          {
+            "char": "Djakonski"
+          }
+        ]
+      },
+      {
+        "name": "Chelcie Ross",
+        "nm": 743304,
+        "roles": [
+          {
+            "char": "Coach Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Starletta DuPois",
+        "nm": 210915,
+        "roles": [
+          {
+            "char": "Mrs. Niegel"
+          }
+        ]
+      },
+      {
+        "name": "George Coe",
+        "nm": 168642,
+        "roles": [
+          {
+            "char": "Colin Baker",
+            "ch": 127425
+          }
+        ]
+      },
+      {
+        "name": "Steven Anderson",
+        "nm": 27474,
+        "roles": [
+          {
+            "char": "George"
+          }
+        ]
+      },
+      {
+        "name": "Jan Munroe",
+        "nm": 613197,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Rhodes",
+        "nm": 722451,
+        "roles": [
+          {
+            "char": "Judge Billings"
+          }
+        ]
+      },
+      {
+        "name": "Nathan Davis",
+        "nm": 205213,
+        "roles": [
+          {
+            "char": "Judge Bromberg"
+          }
+        ]
+      },
+      {
+        "name": "Marco Rodríguez",
+        "nm": 735424,
+        "roles": [
+          {
+            "char": "Guido Escarega",
+            "as Marco Rodriguez": true
+          }
+        ]
+      },
+      {
+        "name": "Christine Avila",
+        "nm": 43144,
+        "roles": [
+          {
+            "char": "Mrs. Alvarez"
+          }
+        ]
+      },
+      {
+        "name": "William Marquez",
+        "nm": 549884,
+        "roles": [
+          {
+            "char": "Judge Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Greg Callahan",
+        "nm": 130198,
+        "roles": [
+          {
+            "char": "Moderator"
+          }
+        ]
+      },
+      {
+        "name": "Burton Collins",
+        "nm": 172188,
+        "roles": [
+          {
+            "char": "Greg Sterling"
+          }
+        ]
+      },
+      {
+        "name": "Tom Middleton",
+        "nm": 585578,
+        "roles": [
+          {
+            "char": "Court Officer"
+          }
+        ]
+      }
+    ]
+  }
+]

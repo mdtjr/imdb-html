@@ -1,0 +1,836 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 2252657,
+    "air_date": "1982-10-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ray Lonnen",
+        "nm": 519546,
+        "roles": [
+          {
+            "char": "Harry Brown"
+          }
+        ]
+      },
+      {
+        "name": "Benjamin Whitrow",
+        "nm": 926368,
+        "roles": [
+          {
+            "char": "Davidson"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Day",
+        "nm": 206530,
+        "roles": [
+          {
+            "char": "Bannen"
+          }
+        ]
+      },
+      {
+        "name": "Denys Hawthorne",
+        "nm": 370410,
+        "roles": [
+          {
+            "char": "Minister of Defence"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Russell",
+        "nm": 751154,
+        "roles": [
+          {
+            "char": "Home Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Edmund Kente",
+        "nm": 448888,
+        "roles": [
+          {
+            "char": "Private secretary"
+          }
+        ]
+      },
+      {
+        "name": "Robert Morris",
+        "nm": 606391,
+        "roles": [
+          {
+            "char": "The Right Hon. Henry Danby M.P."
+          }
+        ]
+      },
+      {
+        "name": "Brigid O'Hara",
+        "nm": 641227,
+        "roles": [
+          {
+            "char": "Mrs. Danby"
+          }
+        ]
+      },
+      {
+        "name": "Teresa Lee",
+        "nm": 1722097,
+        "roles": [
+          {
+            "char": "1st Daughter"
+          }
+        ]
+      },
+      {
+        "name": "Katy Durham-Matthews",
+        "nm": 244113,
+        "roles": [
+          {
+            "char": "2nd Daughter",
+            "as Katy Durham-Mathews": true
+          }
+        ]
+      },
+      {
+        "name": "Gary Waldhorn",
+        "nm": 907161,
+        "roles": [
+          {
+            "char": "Commissioner of Police"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Leesley",
+        "nm": 498764,
+        "roles": [
+          {
+            "char": "Asst. Commissioner"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Chater",
+        "nm": 154021,
+        "roles": [
+          {
+            "char": "Col. George Frost"
+          }
+        ]
+      },
+      {
+        "name": "Noel Johnson",
+        "nm": 425904,
+        "roles": [
+          {
+            "char": "Gen. Sir Jocelyn Fairbairn"
+          }
+        ]
+      },
+      {
+        "name": "Robert Boyd",
+        "nm": 101898,
+        "roles": [
+          {
+            "char": "Adjutant"
+          }
+        ]
+      },
+      {
+        "name": "Paul Butterworth",
+        "nm": 125348,
+        "roles": [
+          {
+            "char": "Royal Marine"
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Raeburn",
+        "nm": 706079,
+        "roles": [
+          {
+            "char": "Arms Instructor"
+          }
+        ]
+      },
+      {
+        "name": "Sean Caffrey",
+        "nm": 128461,
+        "roles": [
+          {
+            "char": "Insp. Howard Rennie"
+          }
+        ]
+      },
+      {
+        "name": "John Keyworth",
+        "nm": 450925,
+        "roles": [
+          {
+            "char": "Chief Constable"
+          }
+        ]
+      },
+      {
+        "name": "James Greene",
+        "nm": 338785,
+        "roles": [
+          {
+            "char": "Senior officer"
+          }
+        ]
+      },
+      {
+        "name": "Derek Thompson",
+        "nm": 860054,
+        "roles": [
+          {
+            "char": "Billy Downes"
+          }
+        ]
+      },
+      {
+        "name": "Maggie Shevlin",
+        "nm": 792953,
+        "roles": [
+          {
+            "char": "Mrs. Downes",
+            "as Margaret Shevlin": true
+          }
+        ]
+      },
+      {
+        "name": "Gil Brailey",
+        "nm": 104010,
+        "roles": [
+          {
+            "char": "Josephine Laverty"
+          }
+        ]
+      },
+      {
+        "name": "Linda Robson",
+        "nm": 733474,
+        "roles": [
+          {
+            "char": "Theresa McCorrigan"
+          }
+        ]
+      },
+      {
+        "name": "Charles Lawson",
+        "nm": 493176,
+        "roles": [
+          {
+            "char": "Seamus Duffryn"
+          }
+        ]
+      },
+      {
+        "name": "Tony Rohr",
+        "nm": 737575,
+        "roles": [
+          {
+            "char": "Brigade Commander"
+          }
+        ]
+      },
+      {
+        "name": "Sam Dale",
+        "nm": 197777,
+        "roles": [
+          {
+            "char": "Billy's Driver"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Begley",
+        "nm": 66770,
+        "roles": [
+          {
+            "char": "Mrs. Duncan"
+          }
+        ]
+      },
+      {
+        "name": "Rita Howard",
+        "nm": 397571,
+        "roles": [
+          {
+            "char": "Mrs. Duffryn"
+          }
+        ]
+      },
+      {
+        "name": "Ian Bleasdale",
+        "nm": 88067,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Lizzie Mickery",
+        "nm": 585319,
+        "roles": [
+          {
+            "char": "Neighbour",
+            "as Elizabeth Mickery": true
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Young",
+        "nm": 3097857,
+        "roles": [
+          {
+            "char": "Taxi driver"
+          }
+        ]
+      },
+      {
+        "name": "Dinah May",
+        "nm": 561927,
+        "roles": [
+          {
+            "char": "Air stewardess"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 2252659,
+    "air_date": "1982-10-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ray Lonnen",
+        "nm": 519546,
+        "roles": [
+          {
+            "char": "Harry Brown"
+          }
+        ]
+      },
+      {
+        "name": "Benjamin Whitrow",
+        "nm": 926368,
+        "roles": [
+          {
+            "char": "Davidson"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Day",
+        "nm": 206530,
+        "roles": [
+          {
+            "char": "Bannen"
+          }
+        ]
+      },
+      {
+        "name": "Denys Hawthorne",
+        "nm": 370410,
+        "roles": [
+          {
+            "char": "Minister of Defence"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Chater",
+        "nm": 154021,
+        "roles": [
+          {
+            "char": "Col. George Frost"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Abrahams",
+        "nm": 8992,
+        "roles": [
+          {
+            "char": "Capt. Arthur Fairclough",
+            "as Andy Abrahams": true
+          }
+        ]
+      },
+      {
+        "name": "Brian Southwood",
+        "nm": 816181,
+        "roles": [
+          {
+            "char": "Intelligence Officer"
+          }
+        ]
+      },
+      {
+        "name": "Ray Armstrong",
+        "nm": 35869,
+        "roles": [
+          {
+            "char": "Lt. Colonel"
+          }
+        ]
+      },
+      {
+        "name": "Simon Dutton",
+        "nm": 244954,
+        "roles": [
+          {
+            "char": "Lieutenant"
+          }
+        ]
+      },
+      {
+        "name": "William Ilkley",
+        "nm": 407753,
+        "roles": [
+          {
+            "char": "Lance Cpl. Llewellyn"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bruce",
+        "nm": 1635804,
+        "roles": [
+          {
+            "char": "Private Jones"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Mallatratt",
+        "nm": 539900,
+        "roles": [
+          {
+            "char": "Adjutant"
+          }
+        ]
+      },
+      {
+        "name": "Sean Caffrey",
+        "nm": 128461,
+        "roles": [
+          {
+            "char": "Insp. Howard Rennie"
+          }
+        ]
+      },
+      {
+        "name": "Derek Thompson",
+        "nm": 860054,
+        "roles": [
+          {
+            "char": "Billy Downes"
+          }
+        ]
+      },
+      {
+        "name": "Maggie Shevlin",
+        "nm": 792953,
+        "roles": [
+          {
+            "char": "Mrs. Downes",
+            "as Margaret Shevlin": true
+          }
+        ]
+      },
+      {
+        "name": "Gil Brailey",
+        "nm": 104010,
+        "roles": [
+          {
+            "char": "Josephine Laverty"
+          }
+        ]
+      },
+      {
+        "name": "Linda Robson",
+        "nm": 733474,
+        "roles": [
+          {
+            "char": "Theresa McCorrigan"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Whitehouse",
+        "nm": 925756,
+        "roles": [
+          {
+            "char": "Frankie"
+          }
+        ]
+      },
+      {
+        "name": "Charles Lawson",
+        "nm": 493176,
+        "roles": [
+          {
+            "char": "Seamus Duffryn"
+          }
+        ]
+      },
+      {
+        "name": "Tony Rohr",
+        "nm": 737575,
+        "roles": [
+          {
+            "char": "Brigade Commander"
+          }
+        ]
+      },
+      {
+        "name": "Sam Dale",
+        "nm": 197777,
+        "roles": [
+          {
+            "char": "Billy's Driver"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Begley",
+        "nm": 66770,
+        "roles": [
+          {
+            "char": "Mrs. Duncan"
+          }
+        ]
+      },
+      {
+        "name": "Rita Howard",
+        "nm": 397571,
+        "roles": [
+          {
+            "char": "Mrs. Duffryn"
+          }
+        ]
+      },
+      {
+        "name": "Rio Fanning",
+        "nm": 266838,
+        "roles": [
+          {
+            "char": "Scrapyard Owner"
+          }
+        ]
+      },
+      {
+        "name": "Kilian McKenna",
+        "nm": 571379,
+        "roles": [
+          {
+            "char": "Teenage Boy"
+          }
+        ]
+      },
+      {
+        "name": "Ian Bleasdale",
+        "nm": 88067,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Derek Halligan",
+        "nm": 356598,
+        "roles": [
+          {
+            "char": "Ballymurphy Man"
+          }
+        ]
+      },
+      {
+        "name": "John Keegan",
+        "nm": 444439,
+        "roles": [
+          {
+            "char": "Ardoyne Man"
+          }
+        ]
+      },
+      {
+        "name": "Cal Brunne",
+        "nm": 116340,
+        "roles": [
+          {
+            "char": "Andersonstown Man"
+          }
+        ]
+      },
+      {
+        "name": "Paddy Greene",
+        "nm": 338883,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Episode #1.3",
+    "tt": 2252661,
+    "air_date": "1982-10-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ray Lonnen",
+        "nm": 519546,
+        "roles": [
+          {
+            "char": "Harry Brown"
+          }
+        ]
+      },
+      {
+        "name": "Benjamin Whitrow",
+        "nm": 926368,
+        "roles": [
+          {
+            "char": "Davidson"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Day",
+        "nm": 206530,
+        "roles": [
+          {
+            "char": "Bannen"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Chater",
+        "nm": 154021,
+        "roles": [
+          {
+            "char": "Col. George Frost"
+          }
+        ]
+      },
+      {
+        "name": "Barry Andrews",
+        "nm": 28568,
+        "roles": [
+          {
+            "char": "Co. Commander"
+          }
+        ]
+      },
+      {
+        "name": "Ray Armstrong",
+        "nm": 35869,
+        "roles": [
+          {
+            "char": "Lt. Colonel"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Tomlin",
+        "nm": 866816,
+        "roles": [
+          {
+            "char": "Lieutenant"
+          }
+        ]
+      },
+      {
+        "name": "John Wild",
+        "nm": 928359,
+        "roles": [
+          {
+            "char": "1st Soldier"
+          }
+        ]
+      },
+      {
+        "name": "Nigel Collins",
+        "nm": 172575,
+        "roles": [
+          {
+            "char": "2nd Soldier"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Mallatratt",
+        "nm": 539900,
+        "roles": [
+          {
+            "char": "Adjutant"
+          }
+        ]
+      },
+      {
+        "name": "Sean Caffrey",
+        "nm": 128461,
+        "roles": [
+          {
+            "char": "Insp. Howard Rennie"
+          }
+        ]
+      },
+      {
+        "name": "Carole Nimmons",
+        "nm": 632374,
+        "roles": [
+          {
+            "char": "Mrs. Rennie"
+          }
+        ]
+      },
+      {
+        "name": "Derek Thompson",
+        "nm": 860054,
+        "roles": [
+          {
+            "char": "Billy Downes"
+          }
+        ]
+      },
+      {
+        "name": "Maggie Shevlin",
+        "nm": 792953,
+        "roles": [
+          {
+            "char": "Mrs. Downes",
+            "as Margaret Shevlin": true
+          }
+        ]
+      },
+      {
+        "name": "Gil Brailey",
+        "nm": 104010,
+        "roles": [
+          {
+            "char": "Josephine Laverty"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Whitehouse",
+        "nm": 925756,
+        "roles": [
+          {
+            "char": "Frankie"
+          }
+        ]
+      },
+      {
+        "name": "Charles Lawson",
+        "nm": 493176,
+        "roles": [
+          {
+            "char": "Seamus Duffryn"
+          }
+        ]
+      },
+      {
+        "name": "Carol Reeve",
+        "nm": 716104,
+        "roles": [
+          {
+            "char": "Mrs. Laverty"
+          }
+        ]
+      },
+      {
+        "name": "Tony Rohr",
+        "nm": 737575,
+        "roles": [
+          {
+            "char": "Brigade Commander"
+          }
+        ]
+      },
+      {
+        "name": "Sam Dale",
+        "nm": 197777,
+        "roles": [
+          {
+            "char": "Billy's Driver"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Begley",
+        "nm": 66770,
+        "roles": [
+          {
+            "char": "Mrs. Duncan"
+          }
+        ]
+      },
+      {
+        "name": "Rita Howard",
+        "nm": 397571,
+        "roles": [
+          {
+            "char": "Mrs. Duffreyn"
+          }
+        ]
+      },
+      {
+        "name": "Rio Fanning",
+        "nm": 266838,
+        "roles": [
+          {
+            "char": "Scrapyard Owner"
+          }
+        ]
+      },
+      {
+        "name": "Gareth Milne",
+        "nm": 590340,
+        "roles": [
+          {
+            "char": "Sales Rep."
+          }
+        ]
+      },
+      {
+        "name": "Anthony Havering",
+        "nm": 369804,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Young",
+        "nm": 3097857,
+        "roles": [
+          {
+            "char": "Brigade Officer"
+          }
+        ]
+      }
+    ]
+  }
+]

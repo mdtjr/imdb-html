@@ -1,0 +1,3367 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Episode #1.1",
+    "tt": 669205,
+    "air_date": "1984-09-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Paul Shenar",
+        "nm": 791502,
+        "roles": [
+          {
+            "char": "Jonathan Westfield"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Holland",
+        "nm": 390603,
+        "roles": [
+          {
+            "char": "Gareth"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Richman",
+        "nm": 725037,
+        "roles": [
+          {
+            "char": "Conrad"
+          }
+        ]
+      },
+      {
+        "name": "Jordan Christopher",
+        "nm": 160587,
+        "roles": [
+          {
+            "char": "Oliver"
+          }
+        ]
+      },
+      {
+        "name": "Peter Lownds",
+        "nm": 523273,
+        "roles": [
+          {
+            "char": "Marty Brickman"
+          }
+        ]
+      },
+      {
+        "name": "Hilary Beane",
+        "nm": 63821,
+        "roles": [
+          {
+            "char": "Mary Ann"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Short",
+        "nm": 795027,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ray Abruzzo",
+        "nm": 9410,
+        "roles": [
+          {
+            "char": "Lee Herbert"
+          }
+        ]
+      },
+      {
+        "name": "Peter Boyden",
+        "nm": 101972,
+        "roles": [
+          {
+            "char": "Mitch"
+          }
+        ]
+      },
+      {
+        "name": "Lee Nicholl",
+        "nm": 629450,
+        "roles": [
+          {
+            "char": "Aerobics Instructor"
+          }
+        ]
+      },
+      {
+        "name": "Erik Holland",
+        "nm": 390683,
+        "roles": [
+          {
+            "char": "Maitre d'"
+          }
+        ]
+      },
+      {
+        "name": "Kim Hamilton",
+        "nm": 358001,
+        "roles": [
+          {
+            "char": "Eleanor"
+          }
+        ]
+      },
+      {
+        "name": "Courtenay McWhinney",
+        "nm": 574756,
+        "roles": [
+          {
+            "char": "Janet"
+          }
+        ]
+      },
+      {
+        "name": "Julie Gordon",
+        "nm": 330353,
+        "roles": [
+          {
+            "char": "Jogger"
+          }
+        ]
+      },
+      {
+        "name": "Dale Weston",
+        "nm": 2419204,
+        "roles": [
+          {
+            "char": "Jogger"
+          }
+        ]
+      },
+      {
+        "name": "Dan Ziskie",
+        "nm": 957201,
+        "roles": [
+          {
+            "char": "Scotty",
+            "as Daniel Ziskie": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Goodman",
+        "nm": 329214,
+        "roles": [
+          {
+            "char": "Buyer"
+          }
+        ]
+      },
+      {
+        "name": "Susan Luck",
+        "nm": 524692,
+        "roles": [
+          {
+            "char": "Rosemary"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Huggins",
+        "nm": 400380,
+        "roles": [
+          {
+            "char": "Booker #1"
+          }
+        ]
+      },
+      {
+        "name": "Jan Miner",
+        "nm": 591149,
+        "roles": [
+          {
+            "char": "Booker #2"
+          }
+        ]
+      },
+      {
+        "name": "Eric Sinclair",
+        "nm": 801612,
+        "roles": [
+          {
+            "char": "Distinguished Man"
+          }
+        ]
+      },
+      {
+        "name": "Larry Goldman",
+        "nm": 1057334,
+        "roles": [
+          {
+            "char": "Nick"
+          }
+        ]
+      },
+      {
+        "name": "Wendie Malick",
+        "nm": 5176,
+        "roles": [
+          {
+            "char": "Taylor"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Episode #1.2",
+    "tt": 1017195,
+    "air_date": "1984-09-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Roscoe Born",
+        "nm": 97040,
+        "roles": [
+          {
+            "char": "Mark Bailey",
+            "ch": 112278
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Frakes",
+        "nm": 408,
+        "roles": [
+          {
+            "char": "Sandy Parris",
+            "ch": 66915
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "Dr. Van Adams",
+            "ch": 85200
+          }
+        ]
+      },
+      {
+        "name": "Craig Augustine",
+        "nm": 4038146,
+        "roles": [
+          {
+            "char": "Male Guest"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Blake",
+        "nm": 86553,
+        "roles": [
+          {
+            "char": "Steve",
+            "ch": 267085
+          }
+        ]
+      },
+      {
+        "name": "Tony Craig",
+        "nm": 2794453,
+        "roles": [
+          {
+            "char": "Maitre D'"
+          }
+        ]
+      },
+      {
+        "name": "Lorry Goldman",
+        "nm": 325836,
+        "roles": [
+          {
+            "char": "Nick Glen"
+          }
+        ]
+      },
+      {
+        "name": "Edward Power",
+        "nm": 694398,
+        "roles": [
+          {
+            "char": "Parnell"
+          }
+        ]
+      },
+      {
+        "name": "Amy Resnick",
+        "nm": 720306,
+        "roles": [
+          {
+            "char": "Jenna"
+          }
+        ]
+      },
+      {
+        "name": "Mark Schneider",
+        "nm": 773937,
+        "roles": [
+          {
+            "char": "Sammy"
+          }
+        ]
+      },
+      {
+        "name": "Michaele Vollbracht",
+        "nm": 1919002,
+        "roles": [
+          {
+            "char": "Himself",
+            "as Michael Vollbracht": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Ziskie",
+        "nm": 957201,
+        "roles": [
+          {
+            "char": "Scottie",
+            "ch": 318794,
+            "as Daniel Ziskie": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Episode #1.3",
+    "tt": 669210,
+    "air_date": "1984-10-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Roscoe Born",
+        "nm": 97040,
+        "roles": [
+          {
+            "char": "Mark Bailey",
+            "ch": 112278
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "Dr. Van Adams",
+            "ch": 85200
+          }
+        ]
+      },
+      {
+        "name": "John Reilly",
+        "nm": 717702,
+        "roles": [
+          {
+            "char": "Jake Larner",
+            "ch": 85201
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Frakes",
+        "nm": 408,
+        "roles": [
+          {
+            "char": "Sandy Parris",
+            "ch": 66915
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Blake",
+        "nm": 86553,
+        "roles": [
+          {
+            "char": "Steve",
+            "ch": 267085
+          }
+        ]
+      },
+      {
+        "name": "Allen Williams",
+        "nm": 930006,
+        "roles": [
+          {
+            "char": "Henshaw",
+            "ch": 252770
+          }
+        ]
+      },
+      {
+        "name": "Edward Power",
+        "nm": 694398,
+        "roles": [
+          {
+            "char": "Parnell"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Richman",
+        "nm": 725037,
+        "roles": [
+          {
+            "char": "Conrad"
+          }
+        ]
+      },
+      {
+        "name": "Joyce Gittlin",
+        "nm": 321255,
+        "roles": [
+          {
+            "char": "Gabby"
+          }
+        ]
+      },
+      {
+        "name": "Jesse D. Goins",
+        "nm": 324795,
+        "roles": [
+          {
+            "char": "Oliver"
+          }
+        ]
+      },
+      {
+        "name": "Richard Borg",
+        "nm": 96451,
+        "roles": [
+          {
+            "char": "Smith"
+          }
+        ]
+      },
+      {
+        "name": "Fred Ephraim",
+        "nm": 258276,
+        "roles": [
+          {
+            "char": "Wesson"
+          }
+        ]
+      },
+      {
+        "name": "Bill Cakmis",
+        "nm": 129174,
+        "roles": [
+          {
+            "char": "Masseur"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Rollins",
+        "nm": 738438,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "John Carlyle",
+        "nm": 138281,
+        "roles": [
+          {
+            "char": "Paul"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Episode #1.4",
+    "tt": 669211,
+    "air_date": "1984-10-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "Roscoe Born",
+        "nm": 97040,
+        "roles": [
+          {
+            "char": "Mark Bailey",
+            "ch": 112278
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Frakes",
+        "nm": 408,
+        "roles": [
+          {
+            "char": "Sandy Parris",
+            "ch": 66915
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "Dr. Van Adams",
+            "ch": 85200
+          }
+        ]
+      },
+      {
+        "name": "Earl Billings",
+        "nm": 82467,
+        "roles": [
+          {
+            "char": "Huston"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Blake",
+        "nm": 86553,
+        "roles": [
+          {
+            "char": "Steve",
+            "ch": 267085
+          }
+        ]
+      },
+      {
+        "name": "Richard Borg",
+        "nm": 96451,
+        "roles": [
+          {
+            "char": "Smith"
+          }
+        ]
+      },
+      {
+        "name": "Don Bowron",
+        "nm": 1705212,
+        "roles": [
+          {
+            "char": "Chris York"
+          }
+        ]
+      },
+      {
+        "name": "Maryedith Burrell",
+        "nm": 123078,
+        "roles": [
+          {
+            "char": "Polly Loftus",
+            "as Mary Edith Burrell": true
+          }
+        ]
+      },
+      {
+        "name": "Fred Ephraim",
+        "nm": 258276,
+        "roles": [
+          {
+            "char": "Wesson"
+          }
+        ]
+      },
+      {
+        "name": "Amy Resnick",
+        "nm": 720306,
+        "roles": [
+          {
+            "char": "Jenna"
+          }
+        ]
+      },
+      {
+        "name": "Mark Schneider",
+        "nm": 773937,
+        "roles": [
+          {
+            "char": "Sammy"
+          }
+        ]
+      },
+      {
+        "name": "Helene Udy",
+        "nm": 879891,
+        "roles": [
+          {
+            "char": "Angie"
+          }
+        ]
+      },
+      {
+        "name": "John Waite",
+        "nm": 906613,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Episode #1.5",
+    "tt": 669212,
+    "air_date": "1984-10-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "Roscoe Born",
+        "nm": 97040,
+        "roles": [
+          {
+            "char": "Mark Bailey",
+            "ch": 112278
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Frakes",
+        "nm": 408,
+        "roles": [
+          {
+            "char": "Sandy Parris",
+            "ch": 66915
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "Dr. Van Adams",
+            "ch": 85200
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Blake",
+        "nm": 86553,
+        "roles": [
+          {
+            "char": "Steve",
+            "ch": 267085
+          }
+        ]
+      },
+      {
+        "name": "Richard Borg",
+        "nm": 96451,
+        "roles": [
+          {
+            "char": "Smith"
+          }
+        ]
+      },
+      {
+        "name": "Don Bowron",
+        "nm": 1705212,
+        "roles": [
+          {
+            "char": "Chris York"
+          }
+        ]
+      },
+      {
+        "name": "Alan Childs",
+        "nm": 1453296,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Fred Ephraim",
+        "nm": 258276,
+        "roles": [
+          {
+            "char": "Wesson"
+          }
+        ]
+      },
+      {
+        "name": "Sue Giosa",
+        "nm": 320448,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Kahalil",
+        "nm": 3911568,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Steven Machat",
+        "nm": 532559,
+        "roles": [
+          {
+            "char": "Steven Elliot"
+          }
+        ]
+      },
+      {
+        "name": "Tom Mandel",
+        "nm": 541683,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Edward Power",
+        "nm": 694398,
+        "roles": [
+          {
+            "char": "Parnell"
+          }
+        ]
+      },
+      {
+        "name": "Amy Resnick",
+        "nm": 720306,
+        "roles": [
+          {
+            "char": "Jenna"
+          }
+        ]
+      },
+      {
+        "name": "Carmine Rojas",
+        "nm": 1455696,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Mark Schneider",
+        "nm": 773937,
+        "roles": [
+          {
+            "char": "Sammy"
+          }
+        ]
+      },
+      {
+        "name": "Christine Siebert",
+        "nm": 2619002,
+        "roles": [
+          {
+            "char": "Jerry"
+          }
+        ]
+      },
+      {
+        "name": "Earl Slick",
+        "nm": 1627906,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Rick Smith",
+        "nm": 1616251,
+        "roles": [
+          {
+            "char": "Manager"
+          }
+        ]
+      },
+      {
+        "name": "Bob Tzudiker",
+        "nm": 879318,
+        "roles": [
+          {
+            "char": "Bill"
+          }
+        ]
+      },
+      {
+        "name": "John Van Dreelen",
+        "nm": 886657,
+        "roles": [
+          {
+            "char": "Dr. Zwan"
+          }
+        ]
+      },
+      {
+        "name": "John Waite",
+        "nm": 906613,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Allen Williams",
+        "nm": 930006,
+        "roles": [
+          {
+            "char": "Henshaw",
+            "ch": 252770
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Episode #1.6",
+    "tt": 669213,
+    "air_date": "1984-10-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "Roscoe Born",
+        "nm": 97040,
+        "roles": [
+          {
+            "char": "Mark Bailey",
+            "ch": 112278
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Frakes",
+        "nm": 408,
+        "roles": [
+          {
+            "char": "Sandy Parris",
+            "ch": 66915
+          }
+        ]
+      },
+      {
+        "name": "Larry Linville",
+        "nm": 513271,
+        "roles": [
+          {
+            "char": "Grayson Carr",
+            "ch": 112277
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Bassey",
+        "nm": 60257,
+        "roles": [
+          {
+            "char": "Anna Crane"
+          }
+        ]
+      },
+      {
+        "name": "Richard Borg",
+        "nm": 96451,
+        "roles": [
+          {
+            "char": "Smith"
+          }
+        ]
+      },
+      {
+        "name": "Don Bowron",
+        "nm": 1705212,
+        "roles": [
+          {
+            "char": "Chris York"
+          }
+        ]
+      },
+      {
+        "name": "Eve Brent",
+        "nm": 107573,
+        "roles": [
+          {
+            "char": "Janet"
+          }
+        ]
+      },
+      {
+        "name": "Tony Craig",
+        "nm": 2794453,
+        "roles": [
+          {
+            "char": "Maitre D'"
+          }
+        ]
+      },
+      {
+        "name": "Fred Ephraim",
+        "nm": 258276,
+        "roles": [
+          {
+            "char": "Wesson"
+          }
+        ]
+      },
+      {
+        "name": "Sue Giosa",
+        "nm": 320448,
+        "roles": [
+          {
+            "char": "Marie"
+          }
+        ]
+      },
+      {
+        "name": "Joyce Gittlin",
+        "nm": 321255,
+        "roles": [
+          {
+            "char": "Gaby"
+          }
+        ]
+      },
+      {
+        "name": "Jesse D. Goins",
+        "nm": 324795,
+        "roles": [
+          {
+            "char": "Olivier"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Hayward",
+        "nm": 371719,
+        "roles": [
+          {
+            "char": "Kidnapper #1"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Lindsley",
+        "nm": 512422,
+        "roles": [
+          {
+            "char": "Kidnapper #2"
+          }
+        ]
+      },
+      {
+        "name": "Edward Power",
+        "nm": 694398,
+        "roles": [
+          {
+            "char": "Parnell"
+          }
+        ]
+      },
+      {
+        "name": "John Reilly",
+        "nm": 717702,
+        "roles": [
+          {
+            "char": "Jake Larner",
+            "ch": 85201
+          }
+        ]
+      },
+      {
+        "name": "Amy Resnick",
+        "nm": 720306,
+        "roles": [
+          {
+            "char": "Jenna"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Richman",
+        "nm": 725037,
+        "roles": [
+          {
+            "char": "Conrad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Episode #1.7",
+    "tt": 669214,
+    "air_date": "1984-11-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "Roscoe Born",
+        "nm": 97040,
+        "roles": [
+          {
+            "char": "Mark Bailey",
+            "ch": 112278
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Frakes",
+        "nm": 408,
+        "roles": [
+          {
+            "char": "Sandy Parris",
+            "ch": 66915
+          }
+        ]
+      },
+      {
+        "name": "Amy Resnick",
+        "nm": 720306,
+        "roles": [
+          {
+            "char": "Jenna"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Richman",
+        "nm": 725037,
+        "roles": [
+          {
+            "char": "Conrad"
+          }
+        ]
+      },
+      {
+        "name": "John Carlyle",
+        "nm": 138281,
+        "roles": [
+          {
+            "char": "Paul"
+          }
+        ]
+      },
+      {
+        "name": "Joyce Gittlin",
+        "nm": 321255,
+        "roles": [
+          {
+            "char": "Gaby"
+          }
+        ]
+      },
+      {
+        "name": "Anne Haney",
+        "nm": 359774,
+        "roles": [
+          {
+            "char": "Mrs. Landers"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Hayward",
+        "nm": 371719,
+        "roles": [
+          {
+            "char": "Kidnapper #1"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Lindsley",
+        "nm": 512422,
+        "roles": [
+          {
+            "char": "Kidnapper #2"
+          }
+        ]
+      },
+      {
+        "name": "Robert Metcalf",
+        "nm": 1694417,
+        "roles": [
+          {
+            "char": "Video Director"
+          }
+        ]
+      },
+      {
+        "name": "Edward Power",
+        "nm": 694398,
+        "roles": [
+          {
+            "char": "Parnell"
+          }
+        ]
+      },
+      {
+        "name": "William Prince",
+        "nm": 697733,
+        "roles": [
+          {
+            "char": "Godfather"
+          }
+        ]
+      },
+      {
+        "name": "John Waite",
+        "nm": 906613,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Episode #1.8",
+    "tt": 669215,
+    "air_date": "1984-11-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "Roscoe Born",
+        "nm": 97040,
+        "roles": [
+          {
+            "char": "Mark Bailey",
+            "ch": 112278
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "Dr. Van Adams",
+            "ch": 85200
+          }
+        ]
+      },
+      {
+        "name": "Larry Linville",
+        "nm": 513271,
+        "roles": [
+          {
+            "char": "Grayson Carr",
+            "ch": 112277
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Richman",
+        "nm": 725037,
+        "roles": [
+          {
+            "char": "Conrad"
+          }
+        ]
+      },
+      {
+        "name": "Don Bowron",
+        "nm": 1705212,
+        "roles": [
+          {
+            "char": "Chris York"
+          }
+        ]
+      },
+      {
+        "name": "Kathe Flinders",
+        "nm": 282340,
+        "roles": [
+          {
+            "char": "The nurse"
+          }
+        ]
+      },
+      {
+        "name": "Joyce Gittlin",
+        "nm": 321255,
+        "roles": [
+          {
+            "char": "Gaby"
+          }
+        ]
+      },
+      {
+        "name": "David Haskell",
+        "nm": 368127,
+        "roles": [
+          {
+            "char": "Gordie Klein"
+          }
+        ]
+      },
+      {
+        "name": "Paul Henry Itkin",
+        "nm": 411660,
+        "roles": [
+          {
+            "char": "Video director"
+          }
+        ]
+      },
+      {
+        "name": "Gunnar Magg",
+        "nm": 3602263,
+        "roles": [
+          {
+            "char": "Male model"
+          }
+        ]
+      },
+      {
+        "name": "John Reilly",
+        "nm": 717702,
+        "roles": [
+          {
+            "char": "Jake Larner",
+            "ch": 85201
+          }
+        ]
+      },
+      {
+        "name": "Derek Thompson",
+        "nm": 860054,
+        "roles": [
+          {
+            "char": "Male paramedic"
+          }
+        ]
+      },
+      {
+        "name": "Grace Zabriskie",
+        "nm": 951471,
+        "roles": [
+          {
+            "char": "Cathy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Episode #1.9",
+    "tt": 669216,
+    "air_date": "1984-11-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Hutton",
+        "nm": 1381,
+        "roles": [
+          {
+            "char": "Colette Ferrier"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Blake",
+        "nm": 86553,
+        "roles": [
+          {
+            "char": "Steve",
+            "ch": 267085
+          }
+        ]
+      },
+      {
+        "name": "Roscoe Born",
+        "nm": 97040,
+        "roles": [
+          {
+            "char": "Mark Bailey",
+            "ch": 112278
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Frakes",
+        "nm": 408,
+        "roles": [
+          {
+            "char": "Sandy Parris",
+            "ch": 66915
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Richman",
+        "nm": 725037,
+        "roles": [
+          {
+            "char": "Conrad"
+          }
+        ]
+      },
+      {
+        "name": "Don Bowron",
+        "nm": 1705212,
+        "roles": [
+          {
+            "char": "Chris York"
+          }
+        ]
+      },
+      {
+        "name": "Betty A. Bridges",
+        "nm": 108712,
+        "roles": [
+          {
+            "char": "Carol"
+          }
+        ]
+      },
+      {
+        "name": "Kimberly Foster",
+        "nm": 287920,
+        "roles": [
+          {
+            "char": "Casey",
+            "as Kim Foster": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Giosa",
+        "nm": 320448,
+        "roles": [
+          {
+            "char": "Marie"
+          }
+        ]
+      },
+      {
+        "name": "Joyce Gittlin",
+        "nm": 321255,
+        "roles": [
+          {
+            "char": "Gaby"
+          }
+        ]
+      },
+      {
+        "name": "Hanna Hertelendy",
+        "nm": 381000,
+        "roles": [
+          {
+            "char": "Ann Carter R.N."
+          }
+        ]
+      },
+      {
+        "name": "Paul Henry Itkin",
+        "nm": 411660,
+        "roles": [
+          {
+            "char": "Jeremy"
+          }
+        ]
+      },
+      {
+        "name": "Thom Mathews",
+        "nm": 558726,
+        "roles": [
+          {
+            "char": "Lewis Crosby"
+          }
+        ]
+      },
+      {
+        "name": "Mark Schneider",
+        "nm": 773937,
+        "roles": [
+          {
+            "char": "Sammy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Episode #1.10",
+    "tt": 669206,
+    "air_date": "1984-12-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Hutton",
+        "nm": 1381,
+        "roles": [
+          {
+            "char": "Colette Ferrier"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Frakes",
+        "nm": 408,
+        "roles": [
+          {
+            "char": "Sandy Parris",
+            "ch": 66915
+          }
+        ]
+      },
+      {
+        "name": "Larry Linville",
+        "nm": 513271,
+        "roles": [
+          {
+            "char": "Grayson Carr",
+            "ch": 112277
+          }
+        ]
+      },
+      {
+        "name": "Don Bowron",
+        "nm": 1705212,
+        "roles": [
+          {
+            "char": "Chris York"
+          }
+        ]
+      },
+      {
+        "name": "Katie Budge",
+        "nm": 118979,
+        "roles": [
+          {
+            "char": "Kim Johnson"
+          }
+        ]
+      },
+      {
+        "name": "John Carlyle",
+        "nm": 138281,
+        "roles": [
+          {
+            "char": "Paul"
+          }
+        ]
+      },
+      {
+        "name": "Kimberly Foster",
+        "nm": 287920,
+        "roles": [
+          {
+            "char": "Casey",
+            "as Kim Foster": true
+          }
+        ]
+      },
+      {
+        "name": "Sue Giosa",
+        "nm": 320448,
+        "roles": [
+          {
+            "char": "Marie"
+          }
+        ]
+      },
+      {
+        "name": "Joyce Gittlin",
+        "nm": 321255,
+        "roles": [
+          {
+            "char": "Gaby"
+          }
+        ]
+      },
+      {
+        "name": "Thom Mathews",
+        "nm": 558726,
+        "roles": [
+          {
+            "char": "Lewis Crosby"
+          }
+        ]
+      },
+      {
+        "name": "Alan Oppenheimer",
+        "nm": 649178,
+        "roles": [
+          {
+            "char": "Aaron Bell"
+          }
+        ]
+      },
+      {
+        "name": "John Reilly",
+        "nm": 717702,
+        "roles": [
+          {
+            "char": "Jake Larner",
+            "ch": 85201
+          }
+        ]
+      },
+      {
+        "name": "Amy Resnick",
+        "nm": 720306,
+        "roles": [
+          {
+            "char": "Jenna"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Richman",
+        "nm": 725037,
+        "roles": [
+          {
+            "char": "Conrad"
+          }
+        ]
+      },
+      {
+        "name": "Mark Schneider",
+        "nm": 773937,
+        "roles": [
+          {
+            "char": "Sammy"
+          }
+        ]
+      },
+      {
+        "name": "Tony Selznick",
+        "nm": 783685,
+        "roles": [
+          {
+            "char": "Dancer"
+          }
+        ]
+      },
+      {
+        "name": "Joey Sheck",
+        "nm": 790530,
+        "roles": [
+          {
+            "char": "Dancer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Episode #1.11",
+    "tt": 669207,
+    "air_date": "1984-12-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Hutton",
+        "nm": 1381,
+        "roles": [
+          {
+            "char": "Colette Ferrier"
+          }
+        ]
+      },
+      {
+        "name": "Roscoe Born",
+        "nm": 97040,
+        "roles": [
+          {
+            "char": "Mark Bailey",
+            "ch": 112278
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Frakes",
+        "nm": 408,
+        "roles": [
+          {
+            "char": "Sandy Parris",
+            "ch": 66915
+          }
+        ]
+      },
+      {
+        "name": "Larry Linville",
+        "nm": 513271,
+        "roles": [
+          {
+            "char": "Grayson Carr",
+            "ch": 112277
+          }
+        ]
+      },
+      {
+        "name": "Don Bowron",
+        "nm": 1705212,
+        "roles": [
+          {
+            "char": "Chris York"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Deason",
+        "nm": 3938786,
+        "roles": [
+          {
+            "char": "Tony"
+          }
+        ]
+      },
+      {
+        "name": "Joyce Gittlin",
+        "nm": 321255,
+        "roles": [
+          {
+            "char": "Gaby"
+          }
+        ]
+      },
+      {
+        "name": "Thom Mathews",
+        "nm": 558726,
+        "roles": [
+          {
+            "char": "Lewis Crosby"
+          }
+        ]
+      },
+      {
+        "name": "John Reilly",
+        "nm": 717702,
+        "roles": [
+          {
+            "char": "Jake Larner",
+            "ch": 85201
+          }
+        ]
+      },
+      {
+        "name": "Steven Reisch",
+        "nm": 718387,
+        "roles": [
+          {
+            "char": "Tom"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Richman",
+        "nm": 725037,
+        "roles": [
+          {
+            "char": "Conrad"
+          }
+        ]
+      },
+      {
+        "name": "Jamie Rose",
+        "nm": 741454,
+        "roles": [
+          {
+            "char": "Connor Crossland"
+          }
+        ]
+      },
+      {
+        "name": "Mark Schneider",
+        "nm": 773937,
+        "roles": [
+          {
+            "char": "Sammy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Episode #1.12",
+    "tt": 669208,
+    "air_date": "1984-12-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Hutton",
+        "nm": 1381,
+        "roles": [
+          {
+            "char": "Colette Ferrier"
+          }
+        ]
+      },
+      {
+        "name": "Roscoe Born",
+        "nm": 97040,
+        "roles": [
+          {
+            "char": "Mark Bailey",
+            "ch": 112278
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Frakes",
+        "nm": 408,
+        "roles": [
+          {
+            "char": "Sandy Parris",
+            "ch": 66915
+          }
+        ]
+      },
+      {
+        "name": "Larry Linville",
+        "nm": 513271,
+        "roles": [
+          {
+            "char": "Grayson Carr",
+            "ch": 112277
+          }
+        ]
+      },
+      {
+        "name": "Don Bowron",
+        "nm": 1705212,
+        "roles": [
+          {
+            "char": "Chris York"
+          }
+        ]
+      },
+      {
+        "name": "Michael Carven",
+        "nm": 142534,
+        "roles": [
+          {
+            "char": "Franco Parone"
+          }
+        ]
+      },
+      {
+        "name": "Thom Mathews",
+        "nm": 558726,
+        "roles": [
+          {
+            "char": "Lewis Crosby"
+          }
+        ]
+      },
+      {
+        "name": "Mariko Tse",
+        "nm": 874863,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Episode #1.13",
+    "tt": 669209,
+    "air_date": "1984-12-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Grant Harper",
+            "ch": 66917
+          }
+        ]
+      },
+      {
+        "name": "Dack Rambo",
+        "nm": 708105,
+        "roles": [
+          {
+            "char": "Wesley Harper",
+            "ch": 63318
+          }
+        ]
+      },
+      {
+        "name": "Mimi Rogers",
+        "nm": 211,
+        "roles": [
+          {
+            "char": "Blair Fenton-Harper"
+          }
+        ]
+      },
+      {
+        "name": "Richard Beymer",
+        "nm": 937,
+        "roles": [
+          {
+            "char": "David Fenton",
+            "ch": 66916
+          }
+        ]
+      },
+      {
+        "name": "Morgan Fairchild",
+        "nm": 392,
+        "roles": [
+          {
+            "char": "Racine",
+            "ch": 144953
+          }
+        ]
+      },
+      {
+        "name": "Nicollette Sheridan",
+        "nm": 1733,
+        "roles": [
+          {
+            "char": "Taryn Blake"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "nm": 882853,
+        "roles": [
+          {
+            "char": "Julia Blake"
+          }
+        ]
+      },
+      {
+        "name": "Terry Farrell",
+        "nm": 395,
+        "roles": [
+          {
+            "char": "Laurie Caswell"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Warren",
+        "nm": 912874,
+        "roles": [
+          {
+            "char": "Dinah Caswell"
+          }
+        ]
+      },
+      {
+        "name": "John Bennett Perry",
+        "nm": 675134,
+        "roles": [
+          {
+            "char": "Michael Caswell",
+            "ch": 79853
+          }
+        ]
+      },
+      {
+        "name": "Nancy Olson",
+        "nm": 647970,
+        "roles": [
+          {
+            "char": "Marjorie Harper"
+          }
+        ]
+      },
+      {
+        "name": "Anne Schedeen",
+        "nm": 770399,
+        "roles": [
+          {
+            "char": "Sara Frank"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Hutton",
+        "nm": 1381,
+        "roles": [
+          {
+            "char": "Colette Ferrier"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Frakes",
+        "nm": 408,
+        "roles": [
+          {
+            "char": "Sandy Parris",
+            "ch": 66915
+          }
+        ]
+      },
+      {
+        "name": "Larry Linville",
+        "nm": 513271,
+        "roles": [
+          {
+            "char": "Grayson Carr",
+            "ch": 112277
+          }
+        ]
+      },
+      {
+        "name": "Bucklind Beery",
+        "nm": 66554,
+        "roles": [
+          {
+            "char": "Security Guard"
+          }
+        ]
+      },
+      {
+        "name": "Roscoe Born",
+        "nm": 97040,
+        "roles": [
+          {
+            "char": "Mark Bailey",
+            "ch": 112278
+          }
+        ]
+      },
+      {
+        "name": "Don Bowron",
+        "nm": 1705212,
+        "roles": [
+          {
+            "char": "Chris York"
+          }
+        ]
+      },
+      {
+        "name": "Betty A. Bridges",
+        "nm": 108712,
+        "roles": [
+          {
+            "char": "Carol"
+          }
+        ]
+      },
+      {
+        "name": "Sue Giosa",
+        "nm": 320448,
+        "roles": [
+          {
+            "char": "Marie"
+          }
+        ]
+      },
+      {
+        "name": "Thom Mathews",
+        "nm": 558726,
+        "roles": [
+          {
+            "char": "Lewis Crosby"
+          }
+        ]
+      },
+      {
+        "name": "Daphne Reid",
+        "nm": 717227,
+        "roles": [
+          {
+            "char": "Nancy",
+            "as Daphne Maxwell": true
+          }
+        ]
+      }
+    ]
+  }
+]

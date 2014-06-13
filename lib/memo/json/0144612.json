@@ -1,0 +1,4255 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Majestic? Hoist Sails for the Journey!",
+    "tt": 1096661,
+    "air_date": "1997-04-04",
+    "description": "While looking for clues that could point to the Hellmaster's Jar, Lina finds herself at odds with a living suit of armor that seems to have a very familiar - and annoying - personality.",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masahiro Anzai",
+        "nm": 31720,
+        "roles": [
+          {
+            "char": "Philionel El Di Seyruun",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Doubtful? A Letter from Home!",
+    "tt": 1106612,
+    "air_date": "1997-04-11",
+    "description": "When Lina's crew lands in search of food, Filia gives Inverse a letter from her sister and reveals that the gang has been chosen for an important mission.",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Where'd That Arrogant Guy Go?",
+    "tt": 1106614,
+    "air_date": "1997-04-18",
+    "description": "In a land where the citizens are mystified by their amazing magic, Lina's gang encounters Xellos - and a powerful new enemy!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "On the Move! He's Out for Revenge?",
+    "tt": 1106613,
+    "air_date": "1997-04-25",
+    "description": "Valgaav is out for revenge, as well as Gourry's Sword of Light! When the villain retreats, Xellos warns that Inverse's magic might not be enough to stop him!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "A Wild Rumor! You Can't Have Smoke Without Fire?",
+    "tt": 1116629,
+    "air_date": "1997-05-02",
+    "description": "Filia encounters trouble in a town where her kind is not allowed. When Lina's gang rushes to help her, Xellos's insults unleash Filia's anger, and the whole town pays the price!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yukimasa Kishino",
+        "nm": 457238,
+        "roles": [
+          {
+            "char": "Judge",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Wandering Around? The Runaway Shrine Takes a Trip!",
+    "tt": 1125716,
+    "air_date": "1997-05-09",
+    "description": "As the gang nears the Fire Dragon temple, they find they can't use their magic! To get their powers back, Inverse unleashes the Dragon Slave - and as usual, does more harm than good.",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "A Peace Conference? This Is the Dragon Shrine?",
+    "tt": 1125697,
+    "air_date": "1997-05-16",
+    "description": "Lina's captured by a government inspector, arrested for the crime of being Lina! He's brought an entire battalion of soldiers - and a tank - but a furry, mysterious interloper might be the biggest threat.",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Be Careful! The Plan Has Begun!",
+    "tt": 1125699,
+    "air_date": "1997-05-23",
+    "description": "Almayce reveals his intentions for the Sword of Light. When Valgaav moves to attack, Filia unseals Lina's magic and a battle erupts!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Jôji Nakata",
+        "nm": 620381,
+        "roles": [
+          {
+            "char": "Chaos Dragon Garv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Continuous Fire! The Wind-Swept Shore of Battle!",
+    "tt": 1125700,
+    "air_date": "1997-05-30",
+    "description": "Lina's gang ends up in the middle of a war between two rival nations. Aiding one side in the long-standing conflict could be Inverse's only path to freedom.",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Ready for Exile! Isn't Two People's Love Eternal?",
+    "tt": 1125708,
+    "air_date": "1997-06-06",
+    "description": "Gravos uses his powerful sword against Lina and the gang, and Inverse must rely on the Dragon Slave. Suddenly, after the island is destroyed, a bridge appears between the two kingdoms!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "The Hurdle's Cleared? Jiras' Hidden Power!",
+    "tt": 1125712,
+    "air_date": "1997-06-13",
+    "description": "Within a dark castle, a shady guide causes Gourry to become separated from the gang. Possession of the Sword of Light is in the balance - will Jillas finally obtain the power he has sought?",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Selfless and Senseless! Pursuit Through the Labyrinth!",
+    "tt": 1125710,
+    "air_date": "1997-06-20",
+    "description": "With Jillas on the run, Lina's party must go their separate ways in a twisting labyrinth. They encounter Almayce, Xellos, and Filia, and learn shocking insight into Valgaav's intentions.",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "An Explosive Situation! The One Who Holds the Key!",
+    "tt": 1125698,
+    "air_date": "1997-06-27",
+    "description": "Gioconda's plan to start an arms race will soon come to fruition - unless Lina and her gang can bust out of their cell! Meanwhile, Pokota learns of Duclis's plan to avenge the people of Taforashia.",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Striding and Swaggering! Lamentation Without End!",
+    "tt": 1125711,
+    "air_date": "1997-07-04",
+    "description": "Valgaav is summoning Dark Star, forcing Lina to use her most powerful spells. As the gate between worlds closes, the scene is rocked by a giant explosion!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Disaster and Danger? This Place Is a Wonder Island!",
+    "tt": 1125701,
+    "air_date": "1997-07-11",
+    "description": "Lina wanders an unfamiliar land with a pig as her guide. She finds Zelgadis acting strangely and uses her magic to break free from the odd realm - only to discover that Filia might not want to leave!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Pandemonium! Terror of the Cursed Jar!",
+    "tt": 1125707,
+    "air_date": "1997-07-18",
+    "description": "Lina, Zelgadis, and Filia take to the sea to locate Gourry. They soon find themselves battling hordes of ghosts in exchange for the chance to claim a rare and powerful jar.",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xelloss",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Immediate Results? Love Is in the Tiny Differences!",
+    "tt": 1125704,
+    "air_date": "1997-07-25",
+    "description": "Amid sea monsters and cross-dressing, Amelia and Gourry get caught up in the romantic drama of fishy Layla and her human boyfriend.",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "ep 17": true
+          },
+          {
+            "char": "Kerel",
+            "ep 17": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "The Right Person in the Right Place! Amelia in the Village of Justice!",
+    "tt": 1125713,
+    "air_date": "1997-08-01",
+    "description": "Gourry and Amelia visit a land with a demon problem, and are tasked with confronting the creatures. Before the battle ends, they find that the \"demons\" are actually old familiar friends.",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yukimasa Kishino",
+        "nm": 457238,
+        "roles": [
+          {
+            "char": "Gen",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Three People, Three Ways! Where the Light Leads!",
+    "tt": 1125714,
+    "air_date": "1997-08-08",
+    "description": "Almayce unleashes a horde of monsters to locate the last weapon, and only Lina and the gang can stop their rampage! When they encounter Jillas, he holds a weapon as powerful as Lina's mightiest spell!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "A Hero's Advent? To Whom Does the Young Girl Pray?",
+    "tt": 1125696,
+    "air_date": "1997-08-15",
+    "description": "In a crumbling village, one of Almayce's underlings takes on Lina's crew - and somehow ends up becoming a hero to the townsfolk!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Savage and Unexplored! History Sealed Away!",
+    "tt": 1125709,
+    "air_date": "1997-08-22",
+    "description": "The history of the warring Dragons is revealed! Meanwhile, after Almayce attempts to keep Xellos from forming an alliance that could lead to Dark Star's emergence, the Golden Dragons appear!!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Eternal Death, Final Farewells! A Cry to the Fallen!",
+    "tt": 1125702,
+    "air_date": "1997-08-29",
+    "description": "Xellos takes Filia hostage! Lina tries to help, and attacks Almayce with the coveted ultimate weapon - but the powerful bow soon falls in the wrong hands!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Chafurin",
+        "nm": 149218,
+        "roles": [
+          {
+            "char": "Almeis",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "No Time for Arguing! Head for the Showdown!",
+    "tt": 1125705,
+    "air_date": "1997-09-05",
+    "description": "Lina vows to stop the chaos that is thinning the ranks of the Golden Dragons, and the crew heads for Valgaav's lair. They better hurry - Xellos has plans for the Dark Star!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Reiko Takagi",
+        "nm": 847074,
+        "roles": [
+          {
+            "char": "Palu",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "No Way to Guess! The Forbidden Gateway Is Opened!",
+    "tt": 1125706,
+    "air_date": "1997-09-12",
+    "description": "Dark Star emerges before the gate can be closed, and Lina and the crew attack with all they've got! Just as the powerful entity seems to be defeated, he escapes - and Valgaav appears!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yumi Tôma",
+        "nm": 879486,
+        "roles": [
+          {
+            "char": "Sylpheel Nels Lahda",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yumi Touma",
+        "nm": 2896277,
+        "roles": [
+          {
+            "char": "Sylpheel Nels Lahda",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E25",
+    "title": "He Who Emerges from Dark Star!",
+    "tt": 1125703,
+    "air_date": "1997-09-19",
+    "description": "Valgaav is unleashed! Filia and Jillas try to stop him, along with Lina's crew. As the powers of darkness reach unbelievable levels, Lina finds the Dragon Slave is worthless!",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E26",
+    "title": "Try Again! When All Returns to White!",
+    "tt": 1125715,
+    "air_date": "1997-09-26",
+    "description": "Just as it seems Valgaav cannot be defeated, Xellos and Filia give Lina the amazing magic power she needs to save the world.",
+    "cast": [
+      {
+        "name": "Megumi Hayashibara",
+        "nm": 370677,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yasunori Matsumoto",
+        "nm": 559567,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hikaru Midorikawa",
+        "nm": 585640,
+        "roles": [
+          {
+            "char": "Zelgadis Greywers",
+            "ch": 383687,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Masami Suzuki",
+        "nm": 840632,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Akira Ishida",
+        "nm": 410907,
+        "roles": [
+          {
+            "char": "Xellos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Houko Kuwashima",
+        "nm": 476678,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Wataru Takagi",
+        "nm": 847085,
+        "roles": [
+          {
+            "char": "Vargarv",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Yukitoshi Hori",
+        "nm": 394662,
+        "roles": [
+          {
+            "char": "Erulogos",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Hiroshi Yanaka",
+        "nm": 407527,
+        "roles": [
+          {
+            "char": "Sirius",
+            "voice: Japanese version": true
+          }
+        ]
+      },
+      {
+        "name": "Crispin Freeman",
+        "nm": 293342,
+        "roles": [
+          {
+            "char": "Zelgadis",
+            "ch": 383687,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Ortiz",
+        "nm": 651184,
+        "roles": [
+          {
+            "char": "Lina Inverse",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Rayow",
+        "nm": 712996,
+        "roles": [
+          {
+            "char": "Valgaav",
+            "voice: English version": true
+          },
+          {
+            "char": "Erulogos",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Tara Sands",
+        "nm": 419760,
+        "roles": [
+          {
+            "char": "Filia Ul Copt",
+            "ch": 334301,
+            "as Tara Jayne": true
+          }
+        ]
+      },
+      {
+        "name": "Eric Stuart",
+        "nm": 835688,
+        "roles": [
+          {
+            "char": "Gourry Gabriev",
+            "voice: English version": true
+          }
+        ]
+      },
+      {
+        "name": "Veronica Taylor",
+        "nm": 853301,
+        "roles": [
+          {
+            "char": "Amelia",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  }
+]

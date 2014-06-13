@@ -1,0 +1,4918 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Future of Law Enforcement: Part 1",
+    "tt": 687763,
+    "air_date": "1994-03-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Cliff De Young",
+        "nm": 2037,
+        "roles": [
+          {
+            "char": "Dr. Cray Z. Mollardo",
+            "ch": 114281,
+            "as Cliff DeYoung": true
+          }
+        ]
+      },
+      {
+        "name": "John Rubinstein",
+        "nm": 748270,
+        "roles": [
+          {
+            "char": "Chip Chayken",
+            "ch": 128753
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "as Jennifer Griffin": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Costigan",
+        "nm": 182692,
+        "roles": [
+          {
+            "char": "Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Dale",
+        "nm": 197714,
+        "roles": [
+          {
+            "char": "Fanny LaMour"
+          }
+        ]
+      },
+      {
+        "name": "James Kidnie",
+        "nm": 452308,
+        "roles": [
+          {
+            "char": "William Ray 'Pudface' Morgan",
+            "ch": 390216
+          }
+        ]
+      },
+      {
+        "name": "Chris Kennedy",
+        "nm": 447959,
+        "roles": [
+          {
+            "char": "Big Dog"
+          }
+        ]
+      },
+      {
+        "name": "Patrick McKenna",
+        "nm": 571405,
+        "roles": [
+          {
+            "char": "Umberto Ortega",
+            "ch": 114279
+          }
+        ]
+      },
+      {
+        "name": "Christopher Bondy",
+        "nm": 94188,
+        "roles": [
+          {
+            "char": "Fraker",
+            "as Chris Bondy": true
+          }
+        ]
+      },
+      {
+        "name": "James Millington",
+        "nm": 589767,
+        "roles": [
+          {
+            "char": "Mayor Friendly",
+            "as Jim Millington": true
+          }
+        ]
+      },
+      {
+        "name": "Neil Crone",
+        "nm": 188709,
+        "roles": [
+          {
+            "char": "Coroner"
+          }
+        ]
+      },
+      {
+        "name": "Vic Cummings",
+        "nm": 191978,
+        "roles": [
+          {
+            "char": "Charles Coffey"
+          }
+        ]
+      },
+      {
+        "name": "Henry Gomez",
+        "nm": 327017,
+        "roles": [
+          {
+            "char": "Old Hank"
+          }
+        ]
+      },
+      {
+        "name": "Micheal Donoghue",
+        "nm": 231895,
+        "roles": [
+          {
+            "char": "Warden"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Scarfe",
+        "nm": 769157,
+        "roles": [
+          {
+            "char": "Dogtown Boy #1",
+            "ch": 114283
+          }
+        ]
+      },
+      {
+        "name": "Jordan Hughes",
+        "nm": 400708,
+        "roles": [
+          {
+            "char": "Young Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      },
+      {
+        "name": "Patrick Gallagher",
+        "nm": 302466,
+        "roles": [
+          {
+            "char": "Security Guard",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Calvin Jung",
+        "nm": 432517,
+        "roles": [
+          {
+            "char": "Steve Minh",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Paul McCrane",
+        "nm": 5204,
+        "roles": [
+          {
+            "char": "Emil Antonowsky",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Kurtwood Smith",
+        "nm": 1748,
+        "roles": [
+          {
+            "char": "Clarence Boddicker",
+            "ch": 167943,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Ray Wise",
+        "nm": 936403,
+        "roles": [
+          {
+            "char": "Leon Nash",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Future of Law Enforcement: Part 2",
+    "tt": 687764,
+    "air_date": "1994-03-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Cliff De Young",
+        "nm": 2037,
+        "roles": [
+          {
+            "char": "Dr. Cray Z. Mollardo",
+            "ch": 114281,
+            "as Cliff DeYoung": true
+          }
+        ]
+      },
+      {
+        "name": "John Rubinstein",
+        "nm": 748270,
+        "roles": [
+          {
+            "char": "Chip Chayken",
+            "ch": 128753
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "as Jennifer Griffin": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Costigan",
+        "nm": 182692,
+        "roles": [
+          {
+            "char": "Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Dale",
+        "nm": 197714,
+        "roles": [
+          {
+            "char": "Fanny LaMour"
+          }
+        ]
+      },
+      {
+        "name": "James Kidnie",
+        "nm": 452308,
+        "roles": [
+          {
+            "char": "William Ray 'Pudface' Morgan",
+            "ch": 390216
+          }
+        ]
+      },
+      {
+        "name": "Chris Kennedy",
+        "nm": 447959,
+        "roles": [
+          {
+            "char": "Big Dog"
+          }
+        ]
+      },
+      {
+        "name": "Patrick McKenna",
+        "nm": 571405,
+        "roles": [
+          {
+            "char": "Umberto Ortega",
+            "ch": 114279
+          }
+        ]
+      },
+      {
+        "name": "Christopher Bondy",
+        "nm": 94188,
+        "roles": [
+          {
+            "char": "Fraker",
+            "as Chris Bondy": true
+          }
+        ]
+      },
+      {
+        "name": "James Millington",
+        "nm": 589767,
+        "roles": [
+          {
+            "char": "Mayor Friendly",
+            "as Jim Millington": true
+          }
+        ]
+      },
+      {
+        "name": "Neil Crone",
+        "nm": 188709,
+        "roles": [
+          {
+            "char": "Coroner"
+          }
+        ]
+      },
+      {
+        "name": "Vic Cummings",
+        "nm": 191978,
+        "roles": [
+          {
+            "char": "Charles Coffey"
+          }
+        ]
+      },
+      {
+        "name": "Henry Gomez",
+        "nm": 327017,
+        "roles": [
+          {
+            "char": "Old Hank"
+          }
+        ]
+      },
+      {
+        "name": "Micheal Donoghue",
+        "nm": 231895,
+        "roles": [
+          {
+            "char": "Warden",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Scarfe",
+        "nm": 769157,
+        "roles": [
+          {
+            "char": "Dogtown Boy #1",
+            "ch": 114283
+          }
+        ]
+      },
+      {
+        "name": "Jordan Hughes",
+        "nm": 400708,
+        "roles": [
+          {
+            "char": "Young Jimmy Murphy",
+            "ch": 974,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Gabriel Burrafato",
+        "nm": 4256456,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Prime Suspect",
+    "tt": 687758,
+    "air_date": "1994-03-21",
+    "description": "When a person is killed and the murder weapon is RoboCop's gun, he is arrested and placed on trial. He has an alibi which he refuses to divulge, so he's about to be deactivated.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Richard Comar",
+        "nm": 173544,
+        "roles": [
+          {
+            "char": "Mr. Smith"
+          }
+        ]
+      },
+      {
+        "name": "Richard Paul",
+        "nm": 89,
+        "roles": [
+          {
+            "char": "Reverend Bob Taker"
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "as Jennifer Griffin": true
+          }
+        ]
+      },
+      {
+        "name": "Chris Wiggins",
+        "nm": 927770,
+        "roles": [
+          {
+            "char": "Dr. Roger Yung"
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Debra McGrath",
+        "nm": 569784,
+        "roles": [
+          {
+            "char": "Bambi Taker"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Bondy",
+        "nm": 94188,
+        "roles": [
+          {
+            "char": "Fraker"
+          }
+        ]
+      },
+      {
+        "name": "Richard Waugh",
+        "nm": 915299,
+        "roles": [
+          {
+            "char": "Edward Foster",
+            "ch": 74078
+          }
+        ]
+      },
+      {
+        "name": "James Millington",
+        "nm": 589767,
+        "roles": [
+          {
+            "char": "Mayor Friendly",
+            "as Jim Millington": true
+          }
+        ]
+      },
+      {
+        "name": "Jordan Hughes",
+        "nm": 400708,
+        "roles": [
+          {
+            "char": "Young Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      },
+      {
+        "name": "Hrant Alianak",
+        "nm": 19528,
+        "roles": [
+          {
+            "char": "Stitch Molotov",
+            "ch": 109497
+          }
+        ]
+      },
+      {
+        "name": "Sam Malkin",
+        "nm": 539809,
+        "roles": [
+          {
+            "char": "Driver"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Trouble in Delta City",
+    "tt": 687767,
+    "air_date": "1994-03-28",
+    "description": "A new miracle drug gets rushed to the market by OCP, but more thorough testing reveals that it has powerful mind-altering properties. This causes many people in Delta City to have violent and psychotic outbursts, including none other than officer Madigan. RoboCop investigates to discover what the truth is behind the dangerous drug and to get it off the streets, as well as clear Madigan of any wrongdoing.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Tony Rosato",
+        "nm": 711014,
+        "roles": [
+          {
+            "char": "Kevin Frosh"
+          }
+        ]
+      },
+      {
+        "name": "Cliff De Young",
+        "nm": 2037,
+        "roles": [
+          {
+            "char": "Dr. Cray Z. Mollardo",
+            "ch": 114281,
+            "as Cliff de Young": true
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "as Jennifer Griffin": true
+          }
+        ]
+      },
+      {
+        "name": "James Kidnie",
+        "nm": 452308,
+        "roles": [
+          {
+            "char": "William Ray 'Pudface' Morgan",
+            "ch": 390216
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Murray Cruchley",
+        "nm": 189927,
+        "roles": [
+          {
+            "char": "Announcer"
+          }
+        ]
+      },
+      {
+        "name": "Wayne Best",
+        "nm": 79007,
+        "roles": [
+          {
+            "char": "Officer Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Graham Harley",
+        "nm": 363291,
+        "roles": [
+          {
+            "char": "Dr. Gene Julius"
+          }
+        ]
+      },
+      {
+        "name": "Catherine Swing",
+        "nm": 842707,
+        "roles": [
+          {
+            "char": "Martina Marx"
+          }
+        ]
+      },
+      {
+        "name": "Danilo Di Julio",
+        "nm": 1168909,
+        "roles": [
+          {
+            "char": "Detroit Police Officer",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Tina Su",
+        "nm": 836791,
+        "roles": [
+          {
+            "char": "Singing Girl",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Officer Missing",
+    "tt": 687757,
+    "air_date": "1994-04-04",
+    "description": "Feeling like the Chairman has been enjoying the spoils of OCP for too long, Robocop decides to take him on a tour of the rundown part of Old Detroit. There he witnesses first hand the chaos and destruction left in the wake of big business. To make matters worse, a bizarre band of pirates has been terrorizing the streets, and RoboCop gets attacked by them and starts malfunctioning. In order to escape this nightmare, the two must team up with the parents of a sick child who needs a heart transplant.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "nm": 935659,
+        "roles": [
+          {
+            "char": "Captain Ethan"
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "as Jennifer Griffin": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Blicker",
+        "nm": 88379,
+        "roles": [
+          {
+            "char": "Aubrey Fox",
+            "ch": 85293
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Patrick McKenna",
+        "nm": 571405,
+        "roles": [
+          {
+            "char": "Umberto Ortega",
+            "ch": 114279
+          }
+        ]
+      },
+      {
+        "name": "Ted Dykstra",
+        "nm": 245874,
+        "roles": [
+          {
+            "char": "Joe Avery",
+            "ch": 80214
+          }
+        ]
+      },
+      {
+        "name": "Jane Spidell",
+        "nm": 1267109,
+        "roles": [
+          {
+            "char": "Ami Avery"
+          }
+        ]
+      },
+      {
+        "name": "Dov Tiefenbach",
+        "nm": 862820,
+        "roles": [
+          {
+            "char": "Josh Avery",
+            "ch": 205841,
+            "as Dov Tiefenback": true
+          }
+        ]
+      },
+      {
+        "name": "Jackie Richardson",
+        "nm": 724592,
+        "roles": [
+          {
+            "char": "Bea"
+          }
+        ]
+      },
+      {
+        "name": "Dan MacDonald",
+        "nm": 531668,
+        "roles": [
+          {
+            "char": "Norton"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Miranda",
+        "nm": 647247,
+        "roles": [
+          {
+            "char": "Tyree",
+            "as Silvio Oliviero": true
+          }
+        ]
+      },
+      {
+        "name": "Jordan Hughes",
+        "nm": 400708,
+        "roles": [
+          {
+            "char": "Young Jimmy Murphy",
+            "ch": 974,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "What Money Can't Buy",
+    "tt": 687768,
+    "air_date": "1994-04-11",
+    "description": "A sickly boy who was rescued from the slums of Old Detroit desperately needs a lung transplant to stay alive. At the eleventh hour, his donor lungs are stolen by thieves who harvest organs and sell them on the black market for top dollar. It's up to RoboCop to shut down this illegal organ trafficking operation and recover the boy's donor organs in time to save his life.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Gregory Scott Cummins",
+        "nm": 192003,
+        "roles": [
+          {
+            "char": "Ardo Detriti"
+          }
+        ]
+      },
+      {
+        "name": "Ann Turkel",
+        "nm": 877183,
+        "roles": [
+          {
+            "char": "Louise"
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Jane Spidell",
+        "nm": 1267109,
+        "roles": [
+          {
+            "char": "Ami Avery"
+          }
+        ]
+      },
+      {
+        "name": "Ted Dykstra",
+        "nm": 245874,
+        "roles": [
+          {
+            "char": "Joe Avery",
+            "ch": 80214
+          }
+        ]
+      },
+      {
+        "name": "Dov Tiefenbach",
+        "nm": 862820,
+        "roles": [
+          {
+            "char": "Josh Avery",
+            "ch": 205841,
+            "as Dov Tienfenbach": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Blicker",
+        "nm": 88379,
+        "roles": [
+          {
+            "char": "Aubrey Fox",
+            "ch": 85293
+          }
+        ]
+      },
+      {
+        "name": "Michael Rhoades",
+        "nm": 722322,
+        "roles": [
+          {
+            "char": "Dave"
+          }
+        ]
+      },
+      {
+        "name": "Neil Munro",
+        "nm": 613154,
+        "roles": [
+          {
+            "char": "Dr. Marner"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Hunter",
+        "nm": 402742,
+        "roles": [
+          {
+            "char": "Tom",
+            "ch": 114284
+          }
+        ]
+      },
+      {
+        "name": "David Huband",
+        "nm": 399126,
+        "roles": [
+          {
+            "char": "Jerry",
+            "ch": 205840,
+            "as Dave Huband": true
+          }
+        ]
+      },
+      {
+        "name": "Judith Scott",
+        "nm": 779399,
+        "roles": [
+          {
+            "char": "Dr. Janet Bailey"
+          }
+        ]
+      },
+      {
+        "name": "Dennis O'Connor",
+        "nm": 640297,
+        "roles": [
+          {
+            "char": "Otto Gilbert"
+          }
+        ]
+      },
+      {
+        "name": "Mark Wilson",
+        "nm": 933817,
+        "roles": [
+          {
+            "char": "Vince"
+          }
+        ]
+      },
+      {
+        "name": "Jane Luk",
+        "nm": 525476,
+        "roles": [
+          {
+            "char": "Donna"
+          }
+        ]
+      },
+      {
+        "name": "R.D. Reid",
+        "nm": 717395,
+        "roles": [
+          {
+            "char": "Transient"
+          }
+        ]
+      },
+      {
+        "name": "Danilo Di Julio",
+        "nm": 1168909,
+        "roles": [
+          {
+            "char": "Detroit Police Officer",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa-Anne Mitrovic",
+        "nm": 2499144,
+        "roles": [
+          {
+            "char": "Toy store raid participant",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Ghosts of War",
+    "tt": 687750,
+    "air_date": "1994-04-18",
+    "description": "A band of mercenaries begins terrorizing Delta City, and RoboCop must put a stop to them before they carry out a terrorist attack. However, this is no ordinary band of thugs, as the members of this particular group fancy their own identities after their own childhood superheroes. This is done to cover the shame of the physical and psychological scars of war left upon the group, after being disemboweled by the military in the aftermath of a rather shady covert operation. RoboCop takes particular interest in this group, as he identifies one of the members as a close childhood friend of his.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Jon Cypher",
+        "nm": 194230,
+        "roles": [
+          {
+            "char": "General Eugene Omar"
+          }
+        ]
+      },
+      {
+        "name": "Roger E. Mosley",
+        "nm": 608853,
+        "roles": [
+          {
+            "char": "Frank Uno",
+            "as Roger Earl Mosley": true
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "John Bourgeois",
+        "nm": 99909,
+        "roles": [
+          {
+            "char": "Col. Albert Brox"
+          }
+        ]
+      },
+      {
+        "name": "Juan Chioran",
+        "nm": 158030,
+        "roles": [
+          {
+            "char": "Dr. Rimmer"
+          }
+        ]
+      },
+      {
+        "name": "Martin Julien",
+        "nm": 432271,
+        "roles": [
+          {
+            "char": "Lupus"
+          }
+        ]
+      },
+      {
+        "name": "Sugith Varughese",
+        "nm": 890268,
+        "roles": [
+          {
+            "char": "Megabyte Man",
+            "ch": 59360
+          }
+        ]
+      },
+      {
+        "name": "Jackie Richardson",
+        "nm": 724592,
+        "roles": [
+          {
+            "char": "Bea"
+          }
+        ]
+      },
+      {
+        "name": "Murray Furrow",
+        "nm": 299082,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Janet Lo",
+        "nm": 516305,
+        "roles": [
+          {
+            "char": "Joan of Arc",
+            "ch": 27188,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Zone Five",
+    "tt": 687770,
+    "air_date": "1994-04-25",
+    "description": "OCP appoints a vigilante group as new neighborhood watch team in order to solve an ongoing drug problem. They are too hasty in their decision, as it becomes clear that they are actually the drug pushers, and using the watch group as a cover for their operation. RoboCop feels he must step in and expose the operation, especially when he finds his son has been recruited by the group.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213,
+            "credit only": true
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Colomby",
+        "nm": 173082,
+        "roles": [
+          {
+            "char": "Albert Delorio"
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "as Jennifer Griffin": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Costigan",
+        "nm": 182692,
+        "roles": [
+          {
+            "char": "Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Richard Waugh",
+        "nm": 915299,
+        "roles": [
+          {
+            "char": "Edward Foster",
+            "ch": 74078
+          }
+        ]
+      },
+      {
+        "name": "Patrick McKenna",
+        "nm": 571405,
+        "roles": [
+          {
+            "char": "Umberto Ortega",
+            "ch": 114279
+          }
+        ]
+      },
+      {
+        "name": "Greg Spottiswood",
+        "nm": 819494,
+        "roles": [
+          {
+            "char": "Danny Boy"
+          }
+        ]
+      },
+      {
+        "name": "Don McKellar",
+        "nm": 1528,
+        "roles": [
+          {
+            "char": "Dr. Newlove"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Askwith",
+        "nm": 39494,
+        "roles": [
+          {
+            "char": "Freddy"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Beaton",
+        "nm": 64098,
+        "roles": [
+          {
+            "char": "Skinner"
+          }
+        ]
+      },
+      {
+        "name": "J.R. Zimmerman",
+        "nm": 956706,
+        "roles": [
+          {
+            "char": "Ed Mallory"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Atkin",
+        "nm": 40538,
+        "roles": [
+          {
+            "char": "Lawyer"
+          }
+        ]
+      },
+      {
+        "name": "Tony Nappo",
+        "nm": 621176,
+        "roles": [
+          {
+            "char": "Thug",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Provision 22",
+    "tt": 687759,
+    "air_date": "1994-05-06",
+    "description": "RoboCop is shocked when he learns his estranged wife and son are living on welfare. The two are also involved in a heated ongoing protest campaign against \"Provision 22\" which is a law that prevents welfare recipients from working. RoboCop steps in once his wife is arrested, as protesters of the law are subject to brainwashing once detained. After some investigation, RoboCop discovers that behind the legislation is a scandal to keep the middle class oppressed and make the fat cats at OCP more money. Not only must he expose this operation, but he also must prevent a terrorist bombing at a protest rally.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Sondra Currie",
+        "nm": 192997,
+        "roles": [
+          {
+            "char": "Janet Lewis"
+          }
+        ]
+      },
+      {
+        "name": "Geraint Wyn Davies",
+        "nm": 943870,
+        "roles": [
+          {
+            "char": "Martin",
+            "ch": 440099
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "as Jennifer Griffin": true
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Peter Costigan",
+        "nm": 182692,
+        "roles": [
+          {
+            "char": "Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Jackie Richardson",
+        "nm": 724592,
+        "roles": [
+          {
+            "char": "Bea"
+          }
+        ]
+      },
+      {
+        "name": "Jack Langedijk",
+        "nm": 486225,
+        "roles": [
+          {
+            "char": "Father Marks"
+          }
+        ]
+      },
+      {
+        "name": "Aidan Devine",
+        "nm": 222593,
+        "roles": [
+          {
+            "char": "Harry Flitch"
+          }
+        ]
+      },
+      {
+        "name": "Christine Reeves",
+        "nm": 716175,
+        "roles": [
+          {
+            "char": "Beth"
+          }
+        ]
+      },
+      {
+        "name": "Howard Jerome",
+        "nm": 422021,
+        "roles": [
+          {
+            "char": "Izzy Provo"
+          }
+        ]
+      },
+      {
+        "name": "Jordan Hughes",
+        "nm": 400708,
+        "roles": [
+          {
+            "char": "Young Jimmy Murphy",
+            "ch": 974,
+            "also archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Roy T. Anderson",
+        "nm": 27392,
+        "roles": [
+          {
+            "char": "Orderly #2",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Faces of Eve",
+    "tt": 687748,
+    "air_date": "1994-05-09",
+    "description": "A new miracle product from OCP offers consumers new identities via gene transplant therapy. Things go wrong quickly when Pudface Morgan and his gang become aware of this product, and use it to spring out of prison and commit a murder. Things get even worse when Pudface plans to plunge Delta City into chaos by using the Chairman's identity to sabotage OCP and the police department. RoboCop must put a stop to their evil plans, and becomes especially concerned when it becomes public knowledge that his son eyewitnessed the murder.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "David Hemblen",
+        "nm": 375959,
+        "roles": [
+          {
+            "char": "Dr. Apollinaire Monet"
+          }
+        ]
+      },
+      {
+        "name": "James Kidnie",
+        "nm": 452308,
+        "roles": [
+          {
+            "char": "William Ray 'Pudface' Morgan",
+            "ch": 390216
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "as Jennifer Griffin": true
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Peter Costigan",
+        "nm": 182692,
+        "roles": [
+          {
+            "char": "Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Wayne Robson",
+        "nm": 733500,
+        "roles": [
+          {
+            "char": "Shorty"
+          }
+        ]
+      },
+      {
+        "name": "Jason Blicker",
+        "nm": 88379,
+        "roles": [
+          {
+            "char": "Aubrey Fox",
+            "ch": 85293
+          }
+        ]
+      },
+      {
+        "name": "Donald Burda",
+        "nm": 120905,
+        "roles": [
+          {
+            "char": "Leo",
+            "ch": 114282
+          }
+        ]
+      },
+      {
+        "name": "Julian Richings",
+        "nm": 724995,
+        "roles": [
+          {
+            "char": "Dr. Proctor"
+          }
+        ]
+      },
+      {
+        "name": "Peter Messaline",
+        "nm": 581994,
+        "roles": [
+          {
+            "char": "Judge Hall"
+          }
+        ]
+      },
+      {
+        "name": "Richard Binsley",
+        "nm": 83109,
+        "roles": [
+          {
+            "char": "Marlboro Man"
+          }
+        ]
+      },
+      {
+        "name": "Garfield Andrews",
+        "nm": 28661,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Jordan Hughes",
+        "nm": 400708,
+        "roles": [
+          {
+            "char": "Young Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      },
+      {
+        "name": "Chantal Quesnelle",
+        "nm": 703336,
+        "roles": [
+          {
+            "char": "Female Shorty",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "When Justice Fails",
+    "tt": 687769,
+    "air_date": "1994-05-16",
+    "description": "RoboCop and Officer Madigan race to save the lives of four astronauts as they go head-to-head against a flamboyant corporate raider who values profits more than safety.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213,
+            "credit only": true
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Lori Hallier",
+        "nm": 356590,
+        "roles": [
+          {
+            "char": "Tori Tolin"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Ratchford",
+        "nm": 711595,
+        "roles": [
+          {
+            "char": "J. J. Biddle"
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Patrick McKenna",
+        "nm": 571405,
+        "roles": [
+          {
+            "char": "Umberto Ortega",
+            "ch": 114279
+          }
+        ]
+      },
+      {
+        "name": "Graham McPherson",
+        "nm": 574226,
+        "roles": [
+          {
+            "char": "Owen Merritt"
+          }
+        ]
+      },
+      {
+        "name": "Tony De Santis",
+        "nm": 211479,
+        "roles": [
+          {
+            "char": "Jack Dixon"
+          }
+        ]
+      },
+      {
+        "name": "Catherine Swing",
+        "nm": 842707,
+        "roles": [
+          {
+            "char": "Martina Marx"
+          }
+        ]
+      },
+      {
+        "name": "Michael Simpson",
+        "nm": 801113,
+        "roles": [
+          {
+            "char": "Eric Marley"
+          }
+        ]
+      },
+      {
+        "name": "Danilo Di Julio",
+        "nm": 1168909,
+        "roles": [
+          {
+            "char": "Detroit Police Officer",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "The Human Factor",
+    "tt": 687765,
+    "air_date": "1994-05-27",
+    "description": "RoboCop teams-up with his unsuspecting father, a retired police captain, to stop an insane bomber from unleashing a campaign of terror against OCP that could end in nuclear Armageddon.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213,
+            "credit only": true
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Milner",
+        "nm": 590398,
+        "roles": [
+          {
+            "char": "Russell Murphy",
+            "ch": 130070
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Robert Morelli",
+        "nm": 603763,
+        "roles": [
+          {
+            "char": "Felix Weber"
+          }
+        ]
+      },
+      {
+        "name": "Nigel Bennett",
+        "nm": 911,
+        "roles": [
+          {
+            "char": "Granger"
+          }
+        ]
+      },
+      {
+        "name": "Nonnie Griffin",
+        "nm": 341324,
+        "roles": [
+          {
+            "char": "Dorothy Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Gerry Quigley",
+        "nm": 703499,
+        "roles": [
+          {
+            "char": "Lempke"
+          }
+        ]
+      },
+      {
+        "name": "Tom Melissis",
+        "nm": 577823,
+        "roles": [
+          {
+            "char": "Arms Dealer"
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Robocop Stunt Double"
+          }
+        ]
+      },
+      {
+        "name": "Falconer Abraham",
+        "nm": 8938,
+        "roles": [
+          {
+            "char": "Guard",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Inside Crime",
+    "tt": 687753,
+    "air_date": "1994-07-01",
+    "description": "The hideous face of Pudface Morgan pulls in boffo ratings for OCP's new hit \"reality\" show which follows the exploits of criminals, but the disfigured maniac has plans to take on RoboCop live on prime time.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Marla Sucharetza",
+        "nm": 837051,
+        "roles": [
+          {
+            "char": "Rochelle Carney"
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "James Kidnie",
+        "nm": 452308,
+        "roles": [
+          {
+            "char": "William Ray 'Pudface' Morgan",
+            "ch": 390216
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Patrick McKenna",
+        "nm": 571405,
+        "roles": [
+          {
+            "char": "Umberto Ortega",
+            "ch": 114279
+          }
+        ]
+      },
+      {
+        "name": "Jason Blicker",
+        "nm": 88379,
+        "roles": [
+          {
+            "char": "Aubrey Fox",
+            "ch": 85293
+          }
+        ]
+      },
+      {
+        "name": "Wayne Robson",
+        "nm": 733500,
+        "roles": [
+          {
+            "char": "Shorty"
+          }
+        ]
+      },
+      {
+        "name": "Ian D. Clark",
+        "nm": 164019,
+        "roles": [
+          {
+            "char": "Brendan Forbes"
+          }
+        ]
+      },
+      {
+        "name": "Tim Progosh",
+        "nm": 698507,
+        "roles": [
+          {
+            "char": "Mack McAdam"
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Robocop Stunt Double"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Robocop vs. Commander Cash",
+    "tt": 687761,
+    "air_date": "1994-07-04",
+    "description": "Children are rioting and stealing all over the city as RoboCop faces his most formidable opponent, a nut case who believes he's a real live version of OCP's super hero, Commander Cash",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213,
+            "credit only": true
+          },
+          {
+            "char": "Neurobrain",
+            "ch": 390214,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Roddy Piper",
+        "nm": 684929,
+        "roles": [
+          {
+            "char": "Tex Jones"
+          },
+          {
+            "char": "Commander Cash"
+          }
+        ]
+      },
+      {
+        "name": "Barry Flatman",
+        "nm": 281284,
+        "roles": [
+          {
+            "char": "Simon Atwater"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Howard",
+        "nm": 397465,
+        "roles": [
+          {
+            "char": "Brittany",
+            "ch": 440096
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Catherine Swing",
+        "nm": 842707,
+        "roles": [
+          {
+            "char": "Martina Marx"
+          }
+        ]
+      },
+      {
+        "name": "Matt Cooke",
+        "nm": 177471,
+        "roles": [
+          {
+            "char": "Barry Lehman"
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Robocop Stunt Double"
+          }
+        ]
+      },
+      {
+        "name": "Keith Knight",
+        "nm": 460974,
+        "roles": [
+          {
+            "char": "Store Manager"
+          }
+        ]
+      },
+      {
+        "name": "Jordan Hughes",
+        "nm": 400708,
+        "roles": [
+          {
+            "char": "Young Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Illusions",
+    "tt": 687752,
+    "air_date": "1994-07-15",
+    "description": "RoboCop guards The Chairman of OCP against a mysterious assassin, while Madigan falls under the romantic spell of a handsome young magician who may be the killer.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213,
+            "credit only": true
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Cali Timmins",
+        "nm": 863677,
+        "roles": [
+          {
+            "char": "Tish Collier"
+          }
+        ]
+      },
+      {
+        "name": "Maurice Godin",
+        "nm": 324070,
+        "roles": [
+          {
+            "char": "Adam Roland"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Kash",
+        "nm": 440511,
+        "roles": [
+          {
+            "char": "Reggie Braga",
+            "ch": 80179
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Richard Waugh",
+        "nm": 915299,
+        "roles": [
+          {
+            "char": "Edward Foster",
+            "ch": 74078
+          }
+        ]
+      },
+      {
+        "name": "Andrew Lewarne",
+        "nm": 506758,
+        "roles": [
+          {
+            "char": "Magician"
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Robocop Stunt Double"
+          }
+        ]
+      },
+      {
+        "name": "Walter Alza",
+        "nm": 23666,
+        "roles": [
+          {
+            "char": "Lookout"
+          }
+        ]
+      },
+      {
+        "name": "Neil Crone",
+        "nm": 188709,
+        "roles": [
+          {
+            "char": "Schmidt"
+          }
+        ]
+      },
+      {
+        "name": "Allegra Fulton",
+        "nm": 298453,
+        "roles": [
+          {
+            "char": "Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Murray Cruchley",
+        "nm": 189927,
+        "roles": [
+          {
+            "char": "Motel Greeter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "The Tin Man",
+    "tt": 687766,
+    "air_date": "1994-07-22",
+    "description": "As armed Ice Cream trucks and Lunch Catering vans wage a gang war for control of illegal gambling and Gadget falls victim to Lotto-fever, the past haunts RoboCop when an ex-partner returns as a gang-busting vigilante.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Kim Coates",
+        "nm": 167649,
+        "roles": [
+          {
+            "char": "Tim Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Ron Lea",
+        "nm": 494784,
+        "roles": [
+          {
+            "char": "Trenton"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Kash",
+        "nm": 440511,
+        "roles": [
+          {
+            "char": "Reggie Braga",
+            "ch": 80179
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Hrant Alianak",
+        "nm": 19528,
+        "roles": [
+          {
+            "char": "Stitch Molotov",
+            "ch": 109497
+          }
+        ]
+      },
+      {
+        "name": "Patrick McKenna",
+        "nm": 571405,
+        "roles": [
+          {
+            "char": "Umberto Ortega",
+            "ch": 114279
+          }
+        ]
+      },
+      {
+        "name": "Damir Andrei",
+        "nm": 28319,
+        "roles": [
+          {
+            "char": "Delvecchio"
+          }
+        ]
+      },
+      {
+        "name": "Kenner Ames",
+        "nm": 24725,
+        "roles": [
+          {
+            "char": "Installer"
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Robocop Stunt Double"
+          }
+        ]
+      },
+      {
+        "name": "Greg Preece",
+        "nm": 1360568,
+        "roles": [
+          {
+            "char": "Gambler",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Sisters in Crime",
+    "tt": 687762,
+    "air_date": "1994-07-29",
+    "description": "When his sexist views anger feminists, The OCP Chairman is kidnapped by a band of shapely rebels and forced to do housework, while Chip Chayken and his sexy partner plan to rip-off OCP.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "John Rubinstein",
+        "nm": 748270,
+        "roles": [
+          {
+            "char": "Chip Chayken",
+            "ch": 128753
+          }
+        ]
+      },
+      {
+        "name": "Marla Sucharetza",
+        "nm": 837051,
+        "roles": [
+          {
+            "char": "Rochelle Carney"
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "as Jennifer Griffin": true
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Jason Blicker",
+        "nm": 88379,
+        "roles": [
+          {
+            "char": "Aubrey Fox",
+            "ch": 85293
+          }
+        ]
+      },
+      {
+        "name": "Patrick McKenna",
+        "nm": 571405,
+        "roles": [
+          {
+            "char": "Umberto Ortega",
+            "ch": 114279
+          }
+        ]
+      },
+      {
+        "name": "Colin Fox",
+        "nm": 288929,
+        "roles": [
+          {
+            "char": "Harold Hammersmith"
+          }
+        ]
+      },
+      {
+        "name": "Lenore Zann",
+        "nm": 953051,
+        "roles": [
+          {
+            "char": "Willa"
+          }
+        ]
+      },
+      {
+        "name": "Fiona Highet",
+        "nm": 383591,
+        "roles": [
+          {
+            "char": "Punk",
+            "ch": 947
+          }
+        ]
+      },
+      {
+        "name": "Brenda Robins",
+        "nm": 732280,
+        "roles": [
+          {
+            "char": "Sis"
+          }
+        ]
+      },
+      {
+        "name": "Krista Bridges",
+        "nm": 108765,
+        "roles": [
+          {
+            "char": "WOMB Woman"
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Robocop Stunt Double"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Heartbreakers",
+    "tt": 687751,
+    "air_date": "1994-08-05",
+    "description": "It's love at first \"byte\" when Lippencott enters Virtual Reality and falls for Diana Powers, while RoboCop is blackmailed into stealing a top secret weapon that can literally break hearts.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Stephen Shellen",
+        "nm": 791156,
+        "roles": [
+          {
+            "char": "Conrad Brock"
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "as Jennifer Griffin": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Costigan",
+        "nm": 182692,
+        "roles": [
+          {
+            "char": "Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      },
+      {
+        "name": "Alon Nashman",
+        "nm": 621834,
+        "roles": [
+          {
+            "char": "Elliot Jessup"
+          }
+        ]
+      },
+      {
+        "name": "Chris Leavins",
+        "nm": 495374,
+        "roles": [
+          {
+            "char": "Wilson Eberhart"
+          }
+        ]
+      },
+      {
+        "name": "Catherine Swing",
+        "nm": 842707,
+        "roles": [
+          {
+            "char": "Martina Marx"
+          }
+        ]
+      },
+      {
+        "name": "Reg Dreger",
+        "nm": 237389,
+        "roles": [
+          {
+            "char": "Officer Davis"
+          }
+        ]
+      },
+      {
+        "name": "Robert Hollinger",
+        "nm": 391114,
+        "roles": [
+          {
+            "char": "Officer King"
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Robocop Stunt Double"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Mother's Day",
+    "tt": 687755,
+    "air_date": "1994-09-12",
+    "description": "Gadget's caught in a custody fight and leaves Sergeant Parks to be reunited with her real mother. RoboCop suspects the woman is part of a plot by Russian crime boss Vlad \"Stitch\" Molotov and his sexy moll, Nadia.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213,
+            "credit only": true
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Camilla Scott",
+        "nm": 778926,
+        "roles": [
+          {
+            "char": "Sally Modesto"
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Dunsmore",
+        "nm": 243024,
+        "roles": [
+          {
+            "char": "Ms. Leachman"
+          }
+        ]
+      },
+      {
+        "name": "Jenn Griffin",
+        "nm": 1048171,
+        "roles": [
+          {
+            "char": "Nancy Murphy",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Wayne Robson",
+        "nm": 733500,
+        "roles": [
+          {
+            "char": "Shorty"
+          }
+        ]
+      },
+      {
+        "name": "Hrant Alianak",
+        "nm": 19528,
+        "roles": [
+          {
+            "char": "Stitch Molotov",
+            "ch": 109497
+          }
+        ]
+      },
+      {
+        "name": "Cintija Asperger",
+        "nm": 39171,
+        "roles": [
+          {
+            "char": "Nadia",
+            "as Cynthia Asperger": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Costigan",
+        "nm": 182692,
+        "roles": [
+          {
+            "char": "Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      },
+      {
+        "name": "Donald Burda",
+        "nm": 120905,
+        "roles": [
+          {
+            "char": "Leo",
+            "ch": 114282
+          }
+        ]
+      },
+      {
+        "name": "Sten Eirik",
+        "nm": 251901,
+        "roles": [
+          {
+            "char": "Rad"
+          }
+        ]
+      },
+      {
+        "name": "Cliff Saunders",
+        "nm": 766762,
+        "roles": [
+          {
+            "char": "Slob"
+          }
+        ]
+      },
+      {
+        "name": "Myron Healey",
+        "nm": 372271,
+        "roles": [
+          {
+            "char": "Mr. L-M",
+            "as Michael Healey": true
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Robocop Stunt Double"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Nano",
+    "tt": 687756,
+    "air_date": "1994-09-19",
+    "description": "While arresting a thief, who is suddenly run down by a runaway bus, Detective Madigan is seriously injured and paralyzed. Robocop investigates and uncovers a criminal using nanobots to override machinery and electronics.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215
+          }
+        ]
+      },
+      {
+        "name": "Victor A. Young",
+        "nm": 950142,
+        "roles": [
+          {
+            "char": "Dennis Finch"
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "William Colgate",
+        "nm": 171441,
+        "roles": [
+          {
+            "char": "Edward Feldston"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Hunter",
+        "nm": 402742,
+        "roles": [
+          {
+            "char": "Tom",
+            "ch": 114284
+          }
+        ]
+      },
+      {
+        "name": "David Huband",
+        "nm": 399126,
+        "roles": [
+          {
+            "char": "Jerry",
+            "ch": 205840
+          }
+        ]
+      },
+      {
+        "name": "Dean Gabourie",
+        "nm": 300151,
+        "roles": [
+          {
+            "char": "Cleveland"
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Robocop Stunt Double"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Corporate Raiders",
+    "tt": 687747,
+    "air_date": "1994-11-07",
+    "description": "The city's rocked by anti-corporate violence as RoboCop and Officer Madigan are assigned to bring in a charming ex-terrorist, but a corrupt union leader and his sultry secretary have other plans.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213,
+            "credit only": true
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Milner",
+        "nm": 590398,
+        "roles": [
+          {
+            "char": "Russell Murphy",
+            "ch": 130070
+          }
+        ]
+      },
+      {
+        "name": "Gwynyth Walsh",
+        "nm": 909657,
+        "roles": [
+          {
+            "char": "Tessa Stark"
+          }
+        ]
+      },
+      {
+        "name": "Peter Costigan",
+        "nm": 182692,
+        "roles": [
+          {
+            "char": "Jimmy Murphy",
+            "ch": 974
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Nonnie Griffin",
+        "nm": 341324,
+        "roles": [
+          {
+            "char": "Dorothy Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Richard Chevolleau",
+        "nm": 156739,
+        "roles": [
+          {
+            "char": "Justin"
+          }
+        ]
+      },
+      {
+        "name": "Ron Gabriel",
+        "nm": 300277,
+        "roles": [
+          {
+            "char": "Roger John Waldo"
+          }
+        ]
+      },
+      {
+        "name": "Murray Cruchley",
+        "nm": 189927,
+        "roles": [
+          {
+            "char": "Man in Lab Coat"
+          }
+        ]
+      },
+      {
+        "name": "Susan Hamann",
+        "nm": 357338,
+        "roles": [
+          {
+            "char": "Lois"
+          }
+        ]
+      },
+      {
+        "name": "Falconer Abraham",
+        "nm": 8938,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "J. Winston Carroll",
+        "nm": 140837,
+        "roles": [
+          {
+            "char": "Supervisor"
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Robocop Stunt Double"
+          }
+        ]
+      },
+      {
+        "name": "Daryl Jaye",
+        "nm": 1464046,
+        "roles": [
+          {
+            "char": "Big Business Buddy Student"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Midnight Minus One",
+    "tt": 687754,
+    "air_date": "1994-11-14",
+    "description": "RoboCop and Officer Madigan race the clock to prove a killer is innocent before he's executed in front of millions of viewers on a hit television show.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213,
+            "credit only": true
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Orth",
+        "nm": 650991,
+        "roles": [
+          {
+            "char": "Billy Sullvan"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Shamata",
+        "nm": 787825,
+        "roles": [
+          {
+            "char": "Richard Gless"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Kash",
+        "nm": 440511,
+        "roles": [
+          {
+            "char": "Reggie Braga",
+            "ch": 80179
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Patrick McKenna",
+        "nm": 571405,
+        "roles": [
+          {
+            "char": "Umberto Ortega",
+            "ch": 114279
+          }
+        ]
+      },
+      {
+        "name": "Hrant Alianak",
+        "nm": 19528,
+        "roles": [
+          {
+            "char": "Stitch Molotov",
+            "ch": 109497
+          }
+        ]
+      },
+      {
+        "name": "Robert King",
+        "nm": 455205,
+        "roles": [
+          {
+            "char": "Roy Macklin"
+          }
+        ]
+      },
+      {
+        "name": "Kathryn Greenwood",
+        "nm": 339352,
+        "roles": [
+          {
+            "char": "Director",
+            "as Kathryn Miller": true
+          }
+        ]
+      },
+      {
+        "name": "Sherry Miller",
+        "nm": 589334,
+        "roles": [
+          {
+            "char": "Dr. Audrey Frink"
+          }
+        ]
+      },
+      {
+        "name": "Lou Pitoscia",
+        "nm": 685774,
+        "roles": [
+          {
+            "char": "Rocco Carbone"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Bayne",
+        "nm": 63143,
+        "roles": [
+          {
+            "char": "Conaver"
+          }
+        ]
+      },
+      {
+        "name": "Ken Quinn",
+        "nm": 347405,
+        "roles": [
+          {
+            "char": "Robocop Stunt Double"
+          }
+        ]
+      },
+      {
+        "name": "Danilo Di Julio",
+        "nm": 1168909,
+        "roles": [
+          {
+            "char": "Detroit Police Officer",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "Public Enemies",
+    "tt": 687760,
+    "air_date": "1994-11-21",
+    "description": "RoboCop must save the President and First Gentleman from an assassiantion plot hatched by Dr. Mallardo, Chip Chayken, and Pudface Morgan.",
+    "cast": [
+      {
+        "name": "Richard Eden",
+        "nm": 249109,
+        "roles": [
+          {
+            "char": "Alex Murphy",
+            "ch": 955
+          },
+          {
+            "char": "Robocop",
+            "ch": 955
+          }
+        ]
+      },
+      {
+        "name": "Yvette Nipar",
+        "nm": 621046,
+        "roles": [
+          {
+            "char": "Detective Lisa Madigan",
+            "ch": 143211
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Sergeant Stanley Parks",
+            "ch": 965
+          }
+        ]
+      },
+      {
+        "name": "Andrea Roth",
+        "nm": 744776,
+        "roles": [
+          {
+            "char": "Diana Powers",
+            "ch": 390213,
+            "credit only": true
+          },
+          {
+            "char": "NeuroBrain",
+            "ch": 390214,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "OCP Chairman",
+            "ch": 962
+          }
+        ]
+      },
+      {
+        "name": "Sarah Campbell",
+        "nm": 132835,
+        "roles": [
+          {
+            "char": "Gadget",
+            "ch": 390215,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Cliff De Young",
+        "nm": 2037,
+        "roles": [
+          {
+            "char": "Dr. Cray Z. Mollardo",
+            "ch": 114281,
+            "as Cliff DeYoung": true
+          }
+        ]
+      },
+      {
+        "name": "John Rubinstein",
+        "nm": 748270,
+        "roles": [
+          {
+            "char": "Chip Chayken",
+            "ch": 128753
+          }
+        ]
+      },
+      {
+        "name": "Linda Sorensen",
+        "nm": 814857,
+        "roles": [
+          {
+            "char": "The President"
+          }
+        ]
+      },
+      {
+        "name": "David Keeley",
+        "nm": 444534,
+        "roles": [
+          {
+            "char": "McGrew"
+          }
+        ]
+      },
+      {
+        "name": "James Kidnie",
+        "nm": 452308,
+        "roles": [
+          {
+            "char": "Pudface Morgan",
+            "ch": 390216
+          }
+        ]
+      },
+      {
+        "name": "Ed Sahely",
+        "nm": 756308,
+        "roles": [
+          {
+            "char": "Charlie Lippencott",
+            "ch": 149450
+          }
+        ]
+      },
+      {
+        "name": "Richard Waugh",
+        "nm": 915299,
+        "roles": [
+          {
+            "char": "Foster"
+          }
+        ]
+      },
+      {
+        "name": "Dan Duran",
+        "nm": 243678,
+        "roles": [
+          {
+            "char": "Bo Harlan",
+            "ch": 149448
+          }
+        ]
+      },
+      {
+        "name": "Erica Ehm",
+        "nm": 251237,
+        "roles": [
+          {
+            "char": "Rocky Crenshaw",
+            "ch": 149449
+          }
+        ]
+      },
+      {
+        "name": "Wayne Robson",
+        "nm": 733500,
+        "roles": [
+          {
+            "char": "Shorty"
+          }
+        ]
+      },
+      {
+        "name": "Donald Burda",
+        "nm": 120905,
+        "roles": [
+          {
+            "char": "Leo",
+            "ch": 114282
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gray",
+        "nm": 336489,
+        "roles": [
+          {
+            "char": "First Gentleman"
+          }
+        ]
+      },
+      {
+        "name": "Catherine Swing",
+        "nm": 842707,
+        "roles": [
+          {
+            "char": "Martina Marx"
+          }
+        ]
+      }
+    ]
+  }
+]

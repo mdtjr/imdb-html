@@ -1,0 +1,5282 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Don't Forget to Turn Left",
+    "tt": 1423527,
+    "air_date": "1993-04-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Hewett",
+        "nm": 381974,
+        "roles": [
+          {
+            "char": "Mrs. Roland"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Jady"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "David Argue",
+        "nm": 34541,
+        "roles": [
+          {
+            "char": "Yorp"
+          }
+        ]
+      },
+      {
+        "name": "Richard Neal",
+        "nm": 623664,
+        "roles": [
+          {
+            "char": "Mr. Roland"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Diane Cilento",
+        "nm": 162284,
+        "roles": [
+          {
+            "char": "Authoritax"
+          },
+          {
+            "char": "Principa"
+          }
+        ]
+      },
+      {
+        "name": "Kristen Bentley",
+        "nm": 1453993,
+        "roles": [
+          {
+            "char": "Roobot",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Eloise Linton-Smith",
+        "nm": 1455057,
+        "roles": [
+          {
+            "char": "Organiser",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Exiles on Renmark Street",
+    "tt": 1423528,
+    "air_date": "1993-04-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Officer Jady"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Muro",
+        "nm": 1453368,
+        "roles": [
+          {
+            "char": "Yoshida",
+            "ch": 246610
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Next Item on the Schedule: School",
+    "tt": 1423530,
+    "air_date": "1994-07-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Officer Jady"
+          }
+        ]
+      },
+      {
+        "name": "Celeste Amenta",
+        "nm": 1121823,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "Robynne Bourne",
+        "nm": 100088,
+        "roles": [
+          {
+            "char": "Miss Harrow"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Marion Edward",
+        "nm": 249760,
+        "roles": [
+          {
+            "char": "Miss Brewster"
+          }
+        ]
+      },
+      {
+        "name": "Susan Ellis",
+        "nm": 255101,
+        "roles": [
+          {
+            "char": "Lynne"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas Hohenhaus"
+          }
+        ]
+      },
+      {
+        "name": "Jane Longhurst",
+        "nm": 1456965,
+        "roles": [
+          {
+            "char": "Ms Payne"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jady #2"
+          }
+        ]
+      },
+      {
+        "name": "Alex Menglet",
+        "nm": 579595,
+        "roles": [
+          {
+            "char": "Mr. Hohenhaus",
+            "ch": 246609
+          }
+        ]
+      },
+      {
+        "name": "Desiree Munro",
+        "nm": 1457002,
+        "roles": [
+          {
+            "char": "Melissa"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "First Day at School",
+    "tt": 1423529,
+    "air_date": "1994-07-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Jady"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jady 2"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "David Argue",
+        "nm": 34541,
+        "roles": [
+          {
+            "char": "Yorp"
+          }
+        ]
+      },
+      {
+        "name": "Marion Edward",
+        "nm": 249760,
+        "roles": [
+          {
+            "char": "Miss Brewster"
+          }
+        ]
+      },
+      {
+        "name": "Celeste Amenta",
+        "nm": 1121823,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "Robynne Bourne",
+        "nm": 100088,
+        "roles": [
+          {
+            "char": "Miss Harrow"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Michael Burkett",
+        "nm": 121952,
+        "roles": [
+          {
+            "char": "Technical Wizard"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Susan Ellis",
+        "nm": 255101,
+        "roles": [
+          {
+            "char": "Lynne"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Hewett",
+        "nm": 381974,
+        "roles": [
+          {
+            "char": "Mrs. Roland"
+          }
+        ]
+      },
+      {
+        "name": "Jaclyn Hewett",
+        "nm": 369968,
+        "roles": [
+          {
+            "char": "School girl"
+          }
+        ]
+      },
+      {
+        "name": "Jane Longhurst",
+        "nm": 1456965,
+        "roles": [
+          {
+            "char": "Ms Payne"
+          }
+        ]
+      },
+      {
+        "name": "Desiree Munro",
+        "nm": 1457002,
+        "roles": [
+          {
+            "char": "Melissa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Homesickness",
+    "tt": 1423495,
+    "air_date": "1994-07-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Celeste Amenta",
+        "nm": 1121823,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "David Argue",
+        "nm": 34541,
+        "roles": [
+          {
+            "char": "Yorp"
+          }
+        ]
+      },
+      {
+        "name": "Robynne Bourne",
+        "nm": 100088,
+        "roles": [
+          {
+            "char": "Miss Harrow"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Diane Cilento",
+        "nm": 162284,
+        "roles": [
+          {
+            "char": "Authoritax"
+          },
+          {
+            "char": "principa"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Marion Edward",
+        "nm": 249760,
+        "roles": [
+          {
+            "char": "Miss Brewster"
+          }
+        ]
+      },
+      {
+        "name": "Susan Ellis",
+        "nm": 255101,
+        "roles": [
+          {
+            "char": "Lynne"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Hewett",
+        "nm": 381974,
+        "roles": [
+          {
+            "char": "Mrs. Roland"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas Hohenhaus"
+          }
+        ]
+      },
+      {
+        "name": "Jane Longhurst",
+        "nm": 1456965,
+        "roles": [
+          {
+            "char": "Ms Payne"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jady #2"
+          }
+        ]
+      },
+      {
+        "name": "Brandon McLean",
+        "nm": 1456636,
+        "roles": [
+          {
+            "char": "Andrew Roland"
+          }
+        ]
+      },
+      {
+        "name": "Alex Menglet",
+        "nm": 579595,
+        "roles": [
+          {
+            "char": "Mr. Hohenhaus",
+            "ch": 246609
+          }
+        ]
+      },
+      {
+        "name": "Desiree Munro",
+        "nm": 1457002,
+        "roles": [
+          {
+            "char": "Melissa"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Michael J. Walsh",
+        "nm": 1456794,
+        "roles": [
+          {
+            "char": "Shane",
+            "as Michael Walsh": true
+          }
+        ]
+      },
+      {
+        "name": "David Walters",
+        "nm": 910206,
+        "roles": [
+          {
+            "char": "David Carruthers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "A Day at the Beach",
+    "tt": 1423525,
+    "air_date": "1994-07-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Hewett",
+        "nm": 381974,
+        "roles": [
+          {
+            "char": "Mrs. Roland"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Brandon McLean",
+        "nm": 1456636,
+        "roles": [
+          {
+            "char": "Andrew"
+          }
+        ]
+      },
+      {
+        "name": "Michael J. Walsh",
+        "nm": 1456794,
+        "roles": [
+          {
+            "char": "Shane",
+            "as Michael Walsh": true
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Muro",
+        "nm": 1453368,
+        "roles": [
+          {
+            "char": "Yoshida",
+            "ch": 246610
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jady #2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "A Visitor from Another Planet",
+    "tt": 1423526,
+    "air_date": "1994-07-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Hewett",
+        "nm": 381974,
+        "roles": [
+          {
+            "char": "Mrs. Roland"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Brandon McLean",
+        "nm": 1456636,
+        "roles": [
+          {
+            "char": "Andrew"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "David Argue",
+        "nm": 34541,
+        "roles": [
+          {
+            "char": "Yorp"
+          }
+        ]
+      },
+      {
+        "name": "Marion Edward",
+        "nm": 249760,
+        "roles": [
+          {
+            "char": "Miss Brewster"
+          }
+        ]
+      },
+      {
+        "name": "Jane Longhurst",
+        "nm": 1456965,
+        "roles": [
+          {
+            "char": "Ms. Payne"
+          }
+        ]
+      },
+      {
+        "name": "Alex Menglet",
+        "nm": 579595,
+        "roles": [
+          {
+            "char": "Mr. Hohenhaus",
+            "ch": 246609
+          }
+        ]
+      },
+      {
+        "name": "Desiree Munro",
+        "nm": 1457002,
+        "roles": [
+          {
+            "char": "Melissa"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michael J. Walsh",
+        "nm": 1456794,
+        "roles": [
+          {
+            "char": "Shane",
+            "as Michael Walsh": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "X Is Not Herself",
+    "tt": 1423538,
+    "air_date": "1994-08-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Brandon McLean",
+        "nm": 1456636,
+        "roles": [
+          {
+            "char": "Andrew"
+          }
+        ]
+      },
+      {
+        "name": "Michael J. Walsh",
+        "nm": 1456794,
+        "roles": [
+          {
+            "char": "Shane",
+            "as Michael Walsh": true
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Muro",
+        "nm": 1453368,
+        "roles": [
+          {
+            "char": "Yoshida",
+            "ch": 246610
+          }
+        ]
+      },
+      {
+        "name": "Celeste Amenta",
+        "nm": 1121823,
+        "roles": [
+          {
+            "char": "Sally"
+          }
+        ]
+      },
+      {
+        "name": "Susan Ellis",
+        "nm": 255101,
+        "roles": [
+          {
+            "char": "Lynne"
+          }
+        ]
+      },
+      {
+        "name": "Marion Edward",
+        "nm": 249760,
+        "roles": [
+          {
+            "char": "Miss Brewster"
+          }
+        ]
+      },
+      {
+        "name": "Alex Menglet",
+        "nm": 579595,
+        "roles": [
+          {
+            "char": "Mr. Hohenhaus",
+            "ch": 246609
+          }
+        ]
+      },
+      {
+        "name": "Julius Szappanos",
+        "nm": 843774,
+        "roles": [
+          {
+            "char": "Chef"
+          }
+        ]
+      },
+      {
+        "name": "Luigi Cengarle",
+        "nm": 148267,
+        "roles": [
+          {
+            "char": "Greengrocer"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Robynne Bourne",
+        "nm": 100088,
+        "roles": [
+          {
+            "char": "Miss Harrow",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas Hohenhaus",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "The Jackson Mutiny",
+    "tt": 1423498,
+    "air_date": "1994-08-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Jady"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jady 2"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "David Walters",
+        "nm": 910206,
+        "roles": [
+          {
+            "char": "David"
+          }
+        ]
+      },
+      {
+        "name": "Alex Menglet",
+        "nm": 579595,
+        "roles": [
+          {
+            "char": "Mr. Hohenhaus",
+            "ch": 246609
+          }
+        ]
+      },
+      {
+        "name": "Muro",
+        "nm": 1453368,
+        "roles": [
+          {
+            "char": "Yoshida",
+            "ch": 246610
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Diane Cilento",
+        "nm": 162284,
+        "roles": [
+          {
+            "char": "Authoritax"
+          },
+          {
+            "char": "Principa"
+          }
+        ]
+      },
+      {
+        "name": "Robynne Bourne",
+        "nm": 100088,
+        "roles": [
+          {
+            "char": "Miss Harrow",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Deir",
+        "nm": 1456465,
+        "roles": [
+          {
+            "char": "Dissident",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Colleen Hewett",
+        "nm": 381974,
+        "roles": [
+          {
+            "char": "Mrs. Roland",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Neal",
+        "nm": 623664,
+        "roles": [
+          {
+            "char": "Mr. Roland",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Grant Nouldery",
+        "nm": 1455378,
+        "roles": [
+          {
+            "char": "Dissident",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Smith",
+        "nm": 1413532,
+        "roles": [
+          {
+            "char": "Detainer",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "The Turning Point",
+    "tt": 1423500,
+    "air_date": "1994-08-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Hewett",
+        "nm": 381974,
+        "roles": [
+          {
+            "char": "Mrs. Roland"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Jady"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Robynne Bourne",
+        "nm": 100088,
+        "roles": [
+          {
+            "char": "Miss Harrow"
+          }
+        ]
+      },
+      {
+        "name": "Paul Deir",
+        "nm": 1456465,
+        "roles": [
+          {
+            "char": "Dissident"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Smith",
+        "nm": 1413532,
+        "roles": [
+          {
+            "char": "Detainer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Home Is Where the Heart Is",
+    "tt": 1423494,
+    "air_date": "1994-08-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Hewett",
+        "nm": 381974,
+        "roles": [
+          {
+            "char": "Mrs. Roland"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Jady"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jady 2"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "David Argue",
+        "nm": 34541,
+        "roles": [
+          {
+            "char": "Yorp"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Janelle Anderson",
+        "nm": 26868,
+        "roles": [
+          {
+            "char": "Freedom fighter",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Beresford",
+        "nm": 1453999,
+        "roles": [
+          {
+            "char": "Freedom Fighter",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "X: The Unknown Factor",
+    "tt": 1423537,
+    "air_date": "1994-09-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Robynne Bourne",
+        "nm": 100088,
+        "roles": [
+          {
+            "char": "Miss Harrow"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Cressey",
+        "nm": 187566,
+        "roles": [
+          {
+            "char": "Mrs. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Marion Edward",
+        "nm": 249760,
+        "roles": [
+          {
+            "char": "Miss Brewster"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Hewett",
+        "nm": 381974,
+        "roles": [
+          {
+            "char": "Mrs. Roland"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas Hohenhaus"
+          }
+        ]
+      },
+      {
+        "name": "Alex Menglet",
+        "nm": 579595,
+        "roles": [
+          {
+            "char": "Mr. Hohenhaus",
+            "ch": 246609
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Mr. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Desiree Munro",
+        "nm": 1457002,
+        "roles": [
+          {
+            "char": "Melissa"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Fun Is Dangerous",
+    "tt": 1423491,
+    "air_date": "1994-09-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Douglas Bennett",
+        "nm": 71727,
+        "roles": [
+          {
+            "char": "Newsreader 1",
+            "as Doug Bennett": true
+          }
+        ]
+      },
+      {
+        "name": "Robynne Bourne",
+        "nm": 100088,
+        "roles": [
+          {
+            "char": "Miss Harrow"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Margot Fenley",
+        "nm": 1456897,
+        "roles": [
+          {
+            "char": "Newsreader 2"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Marion Heathfield",
+        "nm": 372760,
+        "roles": [
+          {
+            "char": "Miss Bloom"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas Hohenhaus"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Marsden",
+        "nm": 1456625,
+        "roles": [
+          {
+            "char": "Sports doctor"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Qwrk Lands on His Feet",
+    "tt": 1423531,
+    "air_date": "1994-09-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Kevin Barber",
+        "nm": 53422,
+        "roles": [
+          {
+            "char": "Trevor"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Steven Haggar",
+        "nm": 1456535,
+        "roles": [
+          {
+            "char": "Ben"
+          }
+        ]
+      },
+      {
+        "name": "Marion Heathfield",
+        "nm": 372760,
+        "roles": [
+          {
+            "char": "Miss Bloom"
+          }
+        ]
+      },
+      {
+        "name": "David Hoflin",
+        "nm": 389333,
+        "roles": [
+          {
+            "char": "Bindy"
+          }
+        ]
+      },
+      {
+        "name": "Jane Longhurst",
+        "nm": 1456965,
+        "roles": [
+          {
+            "char": "Ms Payne"
+          }
+        ]
+      },
+      {
+        "name": "Alex Menglet",
+        "nm": 579595,
+        "roles": [
+          {
+            "char": "Mr. Hohenhaus",
+            "ch": 246609
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Hearing a Different Drummer",
+    "tt": 1423493,
+    "air_date": "1994-09-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Cressey",
+        "nm": 187566,
+        "roles": [
+          {
+            "char": "Mrs. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Mr. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Joah Murray",
+        "nm": 1457004,
+        "roles": [
+          {
+            "char": "Emilia"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "David Walters",
+        "nm": 910206,
+        "roles": [
+          {
+            "char": "David Carruthers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "The Root of All Evil",
+    "tt": 1423532,
+    "air_date": "1994-10-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Cressey",
+        "nm": 187566,
+        "roles": [
+          {
+            "char": "Mrs. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lidia Faranda",
+        "nm": 267085,
+        "roles": [
+          {
+            "char": "Postie"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Brian Hannan",
+        "nm": 360331,
+        "roles": [
+          {
+            "char": "Inspector"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas Hohenhaus"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "David Walters",
+        "nm": 910206,
+        "roles": [
+          {
+            "char": "David Carruthers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Strange Encounters",
+    "tt": 1423497,
+    "air_date": "1994-10-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Cressey",
+        "nm": 187566,
+        "roles": [
+          {
+            "char": "Mrs. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Korski",
+        "nm": 1456593,
+        "roles": [
+          {
+            "char": "Mick"
+          }
+        ]
+      },
+      {
+        "name": "Maurie Annese",
+        "nm": 30345,
+        "roles": [
+          {
+            "char": "Ace",
+            "as Maurice Annese": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Cordner",
+        "nm": 179605,
+        "roles": [
+          {
+            "char": "Headsman"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Understanding the Material World",
+    "tt": 1423501,
+    "air_date": "1994-10-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "David Walters",
+        "nm": 910206,
+        "roles": [
+          {
+            "char": "David",
+            "as Davud Walters": true
+          }
+        ]
+      },
+      {
+        "name": "Cendrine Souvairon",
+        "nm": 816222,
+        "roles": [
+          {
+            "char": "Fashion Buyers",
+            "as Cerdine Souvairan": true
+          }
+        ]
+      },
+      {
+        "name": "Donald Hirst",
+        "nm": 1456547,
+        "roles": [
+          {
+            "char": "Fashion Buyers"
+          }
+        ]
+      },
+      {
+        "name": "Magnus Clark",
+        "nm": 1456455,
+        "roles": [
+          {
+            "char": "Science Presenter"
+          }
+        ]
+      },
+      {
+        "name": "Neale Warrington",
+        "nm": 1456217,
+        "roles": [
+          {
+            "char": "Scientist"
+          }
+        ]
+      },
+      {
+        "name": "Andrew McCarthy",
+        "nm": 1453355,
+        "roles": [
+          {
+            "char": "White Haired Man"
+          }
+        ]
+      },
+      {
+        "name": "Karmen Raspovic",
+        "nm": 1455637,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Welcome to the Human Race",
+    "tt": 1423536,
+    "air_date": "1994-10-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Robynne Bourne",
+        "nm": 100088,
+        "roles": [
+          {
+            "char": "Miss Harrow"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Cressey",
+        "nm": 187566,
+        "roles": [
+          {
+            "char": "Mrs. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ashley Eccles",
+        "nm": 248320,
+        "roles": [
+          {
+            "char": "Diner"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Marion Heathfield",
+        "nm": 372760,
+        "roles": [
+          {
+            "char": "Miss Bloom"
+          }
+        ]
+      },
+      {
+        "name": "Geire Kami",
+        "nm": 989203,
+        "roles": [
+          {
+            "char": "School Girl",
+            "as Geire M. Faulkner": true
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas Hohenhaus"
+          }
+        ]
+      },
+      {
+        "name": "Brandon McLean",
+        "nm": 1456636,
+        "roles": [
+          {
+            "char": "Andrew Roland"
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Mr. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Philip Reilley",
+        "nm": 717631,
+        "roles": [
+          {
+            "char": "Fisherman",
+            "as Phillip Reilly": true
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Michael J. Walsh",
+        "nm": 1456794,
+        "roles": [
+          {
+            "char": "Shane",
+            "as Michael Walsh": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "We're Them Now",
+    "tt": 1423502,
+    "air_date": "1994-10-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Officer Jady"
+          }
+        ]
+      },
+      {
+        "name": "Jasper Bagg",
+        "nm": 46591,
+        "roles": [
+          {
+            "char": "Balladeer"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Diane Cilento",
+        "nm": 162284,
+        "roles": [
+          {
+            "char": "Authoritax"
+          },
+          {
+            "char": "principa"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Mr. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Mark Neal",
+        "nm": 623649,
+        "roles": [
+          {
+            "char": "Promoter"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Illegal Aliens",
+    "tt": 1423496,
+    "air_date": "1994-11-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Mr. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "Robynne Bourne",
+        "nm": 100088,
+        "roles": [
+          {
+            "char": "Miss Harrow"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Marion Heathfield",
+        "nm": 372760,
+        "roles": [
+          {
+            "char": "Miss Bloom"
+          }
+        ]
+      },
+      {
+        "name": "Peter Hosking",
+        "nm": 396008,
+        "roles": [
+          {
+            "char": "Dabney Digby"
+          }
+        ]
+      },
+      {
+        "name": "Kate Michalek",
+        "nm": 1317066,
+        "roles": [
+          {
+            "char": "Girl 1",
+            "as Kate Michalak": true
+          }
+        ]
+      },
+      {
+        "name": "Stacey Valkenburg",
+        "nm": 884809,
+        "roles": [
+          {
+            "char": "Girl 2",
+            "as Stacey Valkenberg": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Growing Up Quick",
+    "tt": 1423492,
+    "air_date": "1994-11-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Hewett",
+        "nm": 381974,
+        "roles": [
+          {
+            "char": "Mrs. Roland"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "David Walters",
+        "nm": 910206,
+        "roles": [
+          {
+            "char": "David",
+            "as Davud Walters": true
+          }
+        ]
+      },
+      {
+        "name": "Silas James",
+        "nm": 1456375,
+        "roles": [
+          {
+            "char": "Carl",
+            "as Silas Aiton": true
+          }
+        ]
+      },
+      {
+        "name": "Scott Duff",
+        "nm": 1456480,
+        "roles": [
+          {
+            "char": "Local Boy 1"
+          }
+        ]
+      },
+      {
+        "name": "Wayne Bentham",
+        "nm": 1453992,
+        "roles": [
+          {
+            "char": "Local Boy 2"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "The Writings on the Wall",
+    "tt": 1423533,
+    "air_date": "1994-11-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ashley Eccles",
+        "nm": 248320,
+        "roles": [
+          {
+            "char": "Diner"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Marion Heathfield",
+        "nm": 372760,
+        "roles": [
+          {
+            "char": "Miss Bloom"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas Hohenhaus"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "Crescendo",
+    "tt": 1423489,
+    "air_date": "1993-10-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Officer Jady"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Cressey",
+        "nm": 187566,
+        "roles": [
+          {
+            "char": "Mrs. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E25",
+    "title": "The Past Is Creeping Back",
+    "tt": 1423499,
+    "air_date": "1994-12-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Officer Jady"
+          }
+        ]
+      },
+      {
+        "name": "David Argue",
+        "nm": 34541,
+        "roles": [
+          {
+            "char": "Yorp"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Paul Deir",
+        "nm": 1456465,
+        "roles": [
+          {
+            "char": "Dissident"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Finn Greentree-Keane",
+        "nm": 339231,
+        "roles": [
+          {
+            "char": "Nedis"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Hewett",
+        "nm": 381974,
+        "roles": [
+          {
+            "char": "Mrs. Roland"
+          }
+        ]
+      },
+      {
+        "name": "Pia Morley",
+        "nm": 1455287,
+        "roles": [
+          {
+            "char": "Mabla"
+          }
+        ]
+      },
+      {
+        "name": "Grant Nouldery",
+        "nm": 1455378,
+        "roles": [
+          {
+            "char": "Dissident"
+          }
+        ]
+      },
+      {
+        "name": "Michael Smith",
+        "nm": 1413532,
+        "roles": [
+          {
+            "char": "Detainer"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E26",
+    "title": "Dark Night, Star Bright",
+    "tt": 1423490,
+    "air_date": "1994-12-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Officer Jady"
+          }
+        ]
+      },
+      {
+        "name": "David Argue",
+        "nm": 34541,
+        "roles": [
+          {
+            "char": "Yorp"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Cressey",
+        "nm": 187566,
+        "roles": [
+          {
+            "char": "Mrs. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Paul Deir",
+        "nm": 1456465,
+        "roles": [
+          {
+            "char": "Dissident"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Finn Greentree-Keane",
+        "nm": 339231,
+        "roles": [
+          {
+            "char": "Nedis"
+          }
+        ]
+      },
+      {
+        "name": "Alex Menglet",
+        "nm": 579595,
+        "roles": [
+          {
+            "char": "Mr. Hohenhaus",
+            "ch": 246609
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Mr. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Pia Morley",
+        "nm": 1455287,
+        "roles": [
+          {
+            "char": "Mabla"
+          }
+        ]
+      },
+      {
+        "name": "Desiree Munro",
+        "nm": 1457002,
+        "roles": [
+          {
+            "char": "Melissa"
+          }
+        ]
+      },
+      {
+        "name": "Grant Nouldery",
+        "nm": 1455378,
+        "roles": [
+          {
+            "char": "Dissident"
+          }
+        ]
+      },
+      {
+        "name": "Michael Smith",
+        "nm": 1413532,
+        "roles": [
+          {
+            "char": "Detainer"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "David Walters",
+        "nm": 910206,
+        "roles": [
+          {
+            "char": "David Carruthers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E27",
+    "title": "Trial by Lava",
+    "tt": 1423534,
+    "air_date": "1994-12-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Mr. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Cressey",
+        "nm": 187566,
+        "roles": [
+          {
+            "char": "Mrs. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Jady"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "David Argue",
+        "nm": 34541,
+        "roles": [
+          {
+            "char": "Yorp"
+          }
+        ]
+      },
+      {
+        "name": "Pia Morley",
+        "nm": 1455287,
+        "roles": [
+          {
+            "char": "Mabla"
+          }
+        ]
+      },
+      {
+        "name": "Finn Greentree-Keane",
+        "nm": 339231,
+        "roles": [
+          {
+            "char": "Nedis"
+          }
+        ]
+      },
+      {
+        "name": "Spencer McLaren",
+        "nm": 572243,
+        "roles": [
+          {
+            "char": "Law Enforcer"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Diane Cilento",
+        "nm": 162284,
+        "roles": [
+          {
+            "char": "Authoritax"
+          },
+          {
+            "char": "Principa"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Paul Deir",
+        "nm": 1456465,
+        "roles": [
+          {
+            "char": "Dissident",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Marion Heathfield",
+        "nm": 372760,
+        "roles": [
+          {
+            "char": "Miss Bloom",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Grant Nouldery",
+        "nm": 1455378,
+        "roles": [
+          {
+            "char": "Dissident",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Smith",
+        "nm": 1413532,
+        "roles": [
+          {
+            "char": "Detainer",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E28",
+    "title": "We Live on the Best One",
+    "tt": 1423535,
+    "air_date": "1994-12-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lauren Hewett",
+        "nm": 381983,
+        "roles": [
+          {
+            "char": "X",
+            "ch": 240320
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Walker",
+        "nm": 907835,
+        "roles": [
+          {
+            "char": "Qwrk",
+            "ch": 394757
+          }
+        ]
+      },
+      {
+        "name": "Silvia Seidel",
+        "nm": 782375,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664
+          }
+        ]
+      },
+      {
+        "name": "Bruce Myles",
+        "nm": 616982,
+        "roles": [
+          {
+            "char": "Father",
+            "ch": 297427
+          }
+        ]
+      },
+      {
+        "name": "Jan Friedl",
+        "nm": 295071,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Kellie Smythe",
+        "nm": 810833,
+        "roles": [
+          {
+            "char": "Jenny"
+          }
+        ]
+      },
+      {
+        "name": "Che Broadbent",
+        "nm": 110355,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Mr. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Cressey",
+        "nm": 187566,
+        "roles": [
+          {
+            "char": "Mrs. Froggat"
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Michelle"
+          }
+        ]
+      },
+      {
+        "name": "Katrina Lambert",
+        "nm": 483208,
+        "roles": [
+          {
+            "char": "Dallas"
+          }
+        ]
+      },
+      {
+        "name": "David Walters",
+        "nm": 910206,
+        "roles": [
+          {
+            "char": "David",
+            "as Davud Walters": true
+          }
+        ]
+      },
+      {
+        "name": "Bruce Spence",
+        "nm": 817748,
+        "roles": [
+          {
+            "char": "The Chief",
+            "ch": 248792
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gore",
+        "nm": 330765,
+        "roles": [
+          {
+            "char": "Hecla"
+          }
+        ]
+      },
+      {
+        "name": "Kerry Armstrong",
+        "nm": 35788,
+        "roles": [
+          {
+            "char": "Jady"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kelman",
+        "nm": 446987,
+        "roles": [
+          {
+            "char": "Lox"
+          }
+        ]
+      },
+      {
+        "name": "David Argue",
+        "nm": 34541,
+        "roles": [
+          {
+            "char": "Yorp"
+          }
+        ]
+      },
+      {
+        "name": "Pia Morley",
+        "nm": 1455287,
+        "roles": [
+          {
+            "char": "Mabla"
+          }
+        ]
+      },
+      {
+        "name": "Finn Greentree-Keane",
+        "nm": 339231,
+        "roles": [
+          {
+            "char": "Nedis"
+          }
+        ]
+      },
+      {
+        "name": "Spencer McLaren",
+        "nm": 572243,
+        "roles": [
+          {
+            "char": "Law Enforcer"
+          }
+        ]
+      },
+      {
+        "name": "Mitch Dean",
+        "nm": 5200321,
+        "roles": [
+          {
+            "char": "Car Buyer"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Bennett",
+        "nm": 71727,
+        "roles": [
+          {
+            "char": "Newsreader",
+            "as Doug Bennett": true
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Dovis",
+            "ch": 322664,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Diane Cilento",
+        "nm": 162284,
+        "roles": [
+          {
+            "char": "Authoritax"
+          },
+          {
+            "char": "Principa"
+          }
+        ]
+      },
+      {
+        "name": "Janelle Anderson",
+        "nm": 26868,
+        "roles": [
+          {
+            "char": "Freedom Fighter",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Kristen Bentley",
+        "nm": 1453993,
+        "roles": [
+          {
+            "char": "Roobot",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Beresford",
+        "nm": 1453999,
+        "roles": [
+          {
+            "char": "Freedom Fighter",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Victoria Caimirri",
+        "nm": 1454107,
+        "roles": [
+          {
+            "char": "Roobot",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Leanne Cherney",
+        "nm": 1454160,
+        "roles": [
+          {
+            "char": "Roobot",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Deir",
+        "nm": 1456465,
+        "roles": [
+          {
+            "char": "Dissident",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Claudia Dicosmo",
+        "nm": 1454297,
+        "roles": [
+          {
+            "char": "Roobot",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Louise Hill",
+        "nm": 1456923,
+        "roles": [
+          {
+            "char": "Roobot",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Kim Holgate",
+        "nm": 1454691,
+        "roles": [
+          {
+            "char": "Roobot",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Dianne Jenkins",
+        "nm": 1456932,
+        "roles": [
+          {
+            "char": "Roobot",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Eloise Linton-Smith",
+        "nm": 1455057,
+        "roles": [
+          {
+            "char": "Organiser",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Grant Nouldery",
+        "nm": 1455378,
+        "roles": [
+          {
+            "char": "Dissident",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Heidi Richardson",
+        "nm": 1455668,
+        "roles": [
+          {
+            "char": "Roobot",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Smith",
+        "nm": 1413532,
+        "roles": [
+          {
+            "char": "Detainer",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ward",
+        "nm": 1453471,
+        "roles": [
+          {
+            "char": "Roobot",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  }
+]

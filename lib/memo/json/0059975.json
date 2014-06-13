@@ -1,0 +1,133 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Big Blowout",
+    "tt": 3555564,
+    "air_date": "1966-09-10",
+    "description": "Hurricane Harry threatens to level the world's monuments unless he receives a million dollars.",
+    "cast": [
+      {
+        "name": "Chuck McCann",
+        "nm": 564841,
+        "roles": [
+          {
+            "char": "Hurricane Harry",
+            "voice": true
+          },
+          {
+            "char": "Number One",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bob McFadden",
+        "nm": 568657,
+        "roles": [
+          {
+            "char": "Cool McCool",
+            "ch": 124919,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Corbett",
+        "nm": 179136,
+        "roles": [
+          {
+            "char": "Bellows Belle",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Phantom of the Opera House",
+    "tt": 3555566,
+    "air_date": "1966-09-10",
+    "description": "Tom, Dick and Harry McCool try to nab the phantom of the opera.",
+    "cast": [
+      {
+        "name": "Chuck McCann",
+        "nm": 564841,
+        "roles": [
+          {
+            "char": "Tom McCool",
+            "voice": true
+          },
+          {
+            "char": "Dick McCool",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bob McFadden",
+        "nm": 568657,
+        "roles": [
+          {
+            "char": "Harry McCool",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Corbett",
+        "nm": 179136,
+        "roles": [
+          {
+            "char": "Opera Singer",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Fine Feathered Fiends",
+    "tt": 3555604,
+    "air_date": "1966-09-10",
+    "description": "House birds, parrots, and even the NBC peacock begin plundering the world's riches and delivering them to super-villain The Owl, so it's up to Cool McCool to stop his sinister crime spree.",
+    "cast": [
+      {
+        "name": "Chuck McCann",
+        "nm": 564841,
+        "roles": [
+          {
+            "char": "Number One",
+            "voice": true
+          },
+          {
+            "char": "The Owl",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bob McFadden",
+        "nm": 568657,
+        "roles": [
+          {
+            "char": "Cool McCool",
+            "ch": 124919,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Corbett",
+        "nm": 179136,
+        "roles": [
+          {
+            "char": "The Owl's Henchwoman",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  }
+]

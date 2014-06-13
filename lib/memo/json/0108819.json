@@ -1,0 +1,8650 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Malice Aforethought",
+    "tt": 614611,
+    "air_date": "1994-09-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertram",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Judge Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Alan Dale",
+        "nm": 197638,
+        "roles": [
+          {
+            "char": "Richard Issacs"
+          }
+        ]
+      },
+      {
+        "name": "Peter Hardy",
+        "nm": 362728,
+        "roles": [
+          {
+            "char": "Gavin Lindsay",
+            "ch": 75916
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Daniel Grossman",
+            "ch": 104391
+          }
+        ]
+      },
+      {
+        "name": "Valentina Levkowicz",
+        "nm": 506264,
+        "roles": [
+          {
+            "char": "Rose Lipski"
+          }
+        ]
+      },
+      {
+        "name": "Neil Melville",
+        "nm": 578498,
+        "roles": [
+          {
+            "char": "Sergeant Morris"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Eyre",
+        "nm": 264231,
+        "roles": [
+          {
+            "char": "Det. Sgt. Collins"
+          }
+        ]
+      },
+      {
+        "name": "Marcia Ferguson",
+        "nm": 272526,
+        "roles": [
+          {
+            "char": "Mrs. Boyce"
+          }
+        ]
+      },
+      {
+        "name": "Max Fairchild",
+        "nm": 265523,
+        "roles": [
+          {
+            "char": "Frank Hassett"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Hawkins",
+        "nm": 370080,
+        "roles": [
+          {
+            "char": "Justice Zamel"
+          }
+        ]
+      },
+      {
+        "name": "Alan Cassell",
+        "nm": 144058,
+        "roles": [
+          {
+            "char": "Chief Justice"
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Nique Needles",
+        "nm": 624141,
+        "roles": [
+          {
+            "char": "Darren Mack"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Eagger",
+        "nm": 247082,
+        "roles": [
+          {
+            "char": "Rhonda Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Crosby",
+        "nm": 189025,
+        "roles": [
+          {
+            "char": "Ken Hardy",
+            "as Mathew Crosby": true
+          }
+        ]
+      },
+      {
+        "name": "Jack Finsterer",
+        "nm": 278355,
+        "roles": [
+          {
+            "char": "Bronowski",
+            "ch": 291995
+          }
+        ]
+      },
+      {
+        "name": "Robin Dene",
+        "nm": 218961,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Robert Morgan",
+        "nm": 604989,
+        "roles": [
+          {
+            "char": "Bear"
+          }
+        ]
+      },
+      {
+        "name": "Jim Daly",
+        "nm": 197852,
+        "roles": [
+          {
+            "char": "Journo"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Barry",
+        "nm": 57958,
+        "roles": [
+          {
+            "char": "Toby"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Kim Trengove",
+        "nm": 872087,
+        "roles": [
+          {
+            "char": "Jules"
+          }
+        ]
+      },
+      {
+        "name": "Bernadette Ryan",
+        "nm": 752428,
+        "roles": [
+          {
+            "char": "Judy"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Alexander",
+        "nm": 2463641,
+        "roles": [
+          {
+            "char": "Estate Agent"
+          }
+        ]
+      },
+      {
+        "name": "David Le Page",
+        "nm": 494507,
+        "roles": [
+          {
+            "char": "Prison Liaison Detective"
+          }
+        ]
+      },
+      {
+        "name": "Scott Gooding",
+        "nm": 1382430,
+        "roles": [
+          {
+            "char": "13th Juror"
+          }
+        ]
+      },
+      {
+        "name": "Neville Stonehouse",
+        "nm": 832265,
+        "roles": [
+          {
+            "char": "Little Crook"
+          }
+        ]
+      },
+      {
+        "name": "Roy Edmunds",
+        "nm": 249600,
+        "roles": [
+          {
+            "char": "Rangemaster"
+          }
+        ]
+      },
+      {
+        "name": "Reece Adams",
+        "nm": 5971905,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Booth",
+        "nm": 95722,
+        "roles": [
+          {
+            "char": "Shopkeeper",
+            "as Jeff Booth": true
+          }
+        ]
+      },
+      {
+        "name": "Kathy Agalidis",
+        "nm": 5971906,
+        "roles": [
+          {
+            "char": "Woman"
+          }
+        ]
+      },
+      {
+        "name": "David Watson",
+        "nm": 1317873,
+        "roles": [
+          {
+            "char": "Wookie"
+          }
+        ]
+      },
+      {
+        "name": "Warwick Comber",
+        "nm": 173600,
+        "roles": [
+          {
+            "char": "Barrister 2"
+          }
+        ]
+      },
+      {
+        "name": "Maree Mulcahy",
+        "nm": 611681,
+        "roles": [
+          {
+            "char": "Jury Forewoman"
+          }
+        ]
+      },
+      {
+        "name": "Donald Hirst",
+        "nm": 1456547,
+        "roles": [
+          {
+            "char": "Tipstaff"
+          }
+        ]
+      },
+      {
+        "name": "Warwick Begg",
+        "nm": 66723,
+        "roles": [
+          {
+            "char": "S.O.G. Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Angela Campbell",
+        "nm": 132213,
+        "roles": [
+          {
+            "char": "Associate"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Graham",
+        "nm": 2310606,
+        "roles": [
+          {
+            "char": "Newsreader"
+          }
+        ]
+      },
+      {
+        "name": "Greg Glendinning",
+        "nm": 3445593,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Glyn Sampson",
+        "nm": 3661603,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Michael Bentham",
+        "nm": 2776498,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Luke Ingham",
+        "nm": 3592583,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Davin Taylor",
+        "nm": 852235,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tracey Mall",
+        "nm": 539845,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ian Delacey",
+        "nm": 5971907,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bob Mitchelson",
+        "nm": 593820,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Madeleine Swain",
+        "nm": 1813718,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Philip Reilley",
+        "nm": 717631,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nick Weekes",
+        "nm": 5971908,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Brad Wade",
+        "nm": 905394,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Craig McLaverty",
+        "nm": 572464,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Callan Young",
+        "nm": 4184270,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "James McRae",
+        "nm": 534290,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Not on the Merits",
+    "tt": 614613,
+    "air_date": "1994-09-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertram",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Judge Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Kemp",
+        "nm": 447251,
+        "roles": [
+          {
+            "char": "Jamie Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Victoria Eagger",
+        "nm": 247082,
+        "roles": [
+          {
+            "char": "Rhonda Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Nick Waters",
+        "nm": 914151,
+        "roles": [
+          {
+            "char": "Mr. Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Johns",
+        "nm": 1650927,
+        "roles": [
+          {
+            "char": "Mrs. Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Maude Davey",
+        "nm": 202739,
+        "roles": [
+          {
+            "char": "Leslie Keilor"
+          }
+        ]
+      },
+      {
+        "name": "Tasos Petousis",
+        "nm": 677734,
+        "roles": [
+          {
+            "char": "Con"
+          }
+        ]
+      },
+      {
+        "name": "Callan Young",
+        "nm": 4184270,
+        "roles": [
+          {
+            "char": "Scotty"
+          }
+        ]
+      },
+      {
+        "name": "Mark Oddie",
+        "nm": 643920,
+        "roles": [
+          {
+            "char": "Simms"
+          }
+        ]
+      },
+      {
+        "name": "Tom Coltraine",
+        "nm": 173324,
+        "roles": [
+          {
+            "char": "Fowler"
+          }
+        ]
+      },
+      {
+        "name": "John Davies",
+        "nm": 2432621,
+        "roles": [
+          {
+            "char": "Singleton",
+            "as John K. Davies": true
+          }
+        ]
+      },
+      {
+        "name": "Fiona Todd",
+        "nm": 865167,
+        "roles": [
+          {
+            "char": "Sue Rogers"
+          }
+        ]
+      },
+      {
+        "name": "Jasper Bagg",
+        "nm": 46591,
+        "roles": [
+          {
+            "char": "Tony"
+          }
+        ]
+      },
+      {
+        "name": "Charlie Powles",
+        "nm": 694660,
+        "roles": [
+          {
+            "char": "Constable Davidson"
+          }
+        ]
+      },
+      {
+        "name": "Heather Bolton",
+        "nm": 93398,
+        "roles": [
+          {
+            "char": "Dr. Carruthers"
+          }
+        ]
+      },
+      {
+        "name": "Karin Sutton",
+        "nm": 2091272,
+        "roles": [
+          {
+            "char": "Female Barrister"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Marsden",
+        "nm": 1456625,
+        "roles": [
+          {
+            "char": "Informant"
+          }
+        ]
+      },
+      {
+        "name": "Khym Mallyon",
+        "nm": 2162922,
+        "roles": [
+          {
+            "char": "Debbie"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Fleming",
+        "nm": 2468077,
+        "roles": [
+          {
+            "char": "Henderson"
+          }
+        ]
+      },
+      {
+        "name": "Robert Lowe",
+        "nm": 523032,
+        "roles": [
+          {
+            "char": "Ross"
+          }
+        ]
+      },
+      {
+        "name": "David Whiteley",
+        "nm": 2436874,
+        "roles": [
+          {
+            "char": "Court Security"
+          }
+        ]
+      },
+      {
+        "name": "Paul Teiwes",
+        "nm": 854080,
+        "roles": [
+          {
+            "char": "Spu Supervisor"
+          }
+        ]
+      },
+      {
+        "name": "Neil Fletcher",
+        "nm": 2089761,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Madeleine Swain",
+        "nm": 1813718,
+        "roles": [
+          {
+            "char": "Press #1"
+          }
+        ]
+      },
+      {
+        "name": "Tony Davis",
+        "nm": 1536695,
+        "roles": [
+          {
+            "char": "Press #2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "A Rare Crushing Reversal",
+    "tt": 614600,
+    "air_date": "1994-09-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertram",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Judge Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Grant Piro",
+        "nm": 685221,
+        "roles": [
+          {
+            "char": "Cassidy",
+            "ch": 263165
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Nique Needles",
+        "nm": 624141,
+        "roles": [
+          {
+            "char": "Darren Mack"
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Dino Marnika",
+        "nm": 549445,
+        "roles": [
+          {
+            "char": "Informant"
+          }
+        ]
+      },
+      {
+        "name": "Myles Collins",
+        "nm": 172561,
+        "roles": [
+          {
+            "char": "PSG 1"
+          }
+        ]
+      },
+      {
+        "name": "Jack Finsterer",
+        "nm": 278355,
+        "roles": [
+          {
+            "char": "Bronowski",
+            "ch": 291995
+          }
+        ]
+      },
+      {
+        "name": "Tasos Petousis",
+        "nm": 677734,
+        "roles": [
+          {
+            "char": "Con"
+          }
+        ]
+      },
+      {
+        "name": "Maryrose Cuskelly",
+        "nm": 193759,
+        "roles": [
+          {
+            "char": "Denise Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Chris Connelly",
+        "nm": 175057,
+        "roles": [
+          {
+            "char": "Joe"
+          }
+        ]
+      },
+      {
+        "name": "Chris Waters",
+        "nm": 914054,
+        "roles": [
+          {
+            "char": "Arnie Lewis"
+          }
+        ]
+      },
+      {
+        "name": "Jenny Seedsman",
+        "nm": 781491,
+        "roles": [
+          {
+            "char": "Magistrate"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Horton",
+        "nm": 3911160,
+        "roles": [
+          {
+            "char": "Dominic"
+          }
+        ]
+      },
+      {
+        "name": "Barry Friedlander",
+        "nm": 295095,
+        "roles": [
+          {
+            "char": "Defence Barrister"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Hopkins",
+        "nm": 394217,
+        "roles": [
+          {
+            "char": "Crim 1"
+          }
+        ]
+      },
+      {
+        "name": "Garry Ginivan",
+        "nm": 5971938,
+        "roles": [
+          {
+            "char": "Crim 2"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Morton",
+        "nm": 5971939,
+        "roles": [
+          {
+            "char": "Uniformed Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Chris Wilson",
+        "nm": 933177,
+        "roles": [
+          {
+            "char": "Soggie 1"
+          }
+        ]
+      },
+      {
+        "name": "Graham Jahne",
+        "nm": 415725,
+        "roles": [
+          {
+            "char": "Soggie 2"
+          }
+        ]
+      },
+      {
+        "name": "Marty Hammond",
+        "nm": 4188854,
+        "roles": [
+          {
+            "char": "Interstate Detective"
+          }
+        ]
+      },
+      {
+        "name": "Les Toth",
+        "nm": 869341,
+        "roles": [
+          {
+            "char": "TRS Detective",
+            "as Joszef Toth": true
+          }
+        ]
+      },
+      {
+        "name": "Kathy Bedford",
+        "nm": 1328896,
+        "roles": [
+          {
+            "char": "Court Policewoman"
+          }
+        ]
+      },
+      {
+        "name": "Michael Harrop",
+        "nm": 1013061,
+        "roles": [
+          {
+            "char": "Court Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Lance Anderson",
+        "nm": 27050,
+        "roles": [
+          {
+            "char": "PSG 2"
+          }
+        ]
+      },
+      {
+        "name": "George Novak",
+        "nm": 636844,
+        "roles": [
+          {
+            "char": "Detective 2"
+          }
+        ]
+      },
+      {
+        "name": "John Michell",
+        "nm": 2119962,
+        "roles": [
+          {
+            "char": "Instructing Solicitor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Judgement Amongst Short Men",
+    "tt": 614610,
+    "air_date": "1994-09-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertram",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Jane Menelaus",
+        "nm": 579448,
+        "roles": [
+          {
+            "char": "Jenny Hanson"
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Eagger",
+        "nm": 247082,
+        "roles": [
+          {
+            "char": "Rhonda Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Daniel Grossman",
+            "ch": 104391
+          }
+        ]
+      },
+      {
+        "name": "Valentina Levkowicz",
+        "nm": 506264,
+        "roles": [
+          {
+            "char": "Rose Lipski",
+            "as Val Levkowicz": true
+          }
+        ]
+      },
+      {
+        "name": "James Shaw",
+        "nm": 1302336,
+        "roles": [
+          {
+            "char": "Judge Wynn"
+          }
+        ]
+      },
+      {
+        "name": "Shane Lee",
+        "nm": 498232,
+        "roles": [
+          {
+            "char": "Scoop"
+          }
+        ]
+      },
+      {
+        "name": "Alyce Platt",
+        "nm": 686842,
+        "roles": [
+          {
+            "char": "Dianne Manoulis"
+          }
+        ]
+      },
+      {
+        "name": "Jasper Bagg",
+        "nm": 46591,
+        "roles": [
+          {
+            "char": "Tony"
+          }
+        ]
+      },
+      {
+        "name": "Charlie Powles",
+        "nm": 694660,
+        "roles": [
+          {
+            "char": "Phil Davidson"
+          }
+        ]
+      },
+      {
+        "name": "Richard Neal",
+        "nm": 623664,
+        "roles": [
+          {
+            "char": "Toby Cummings"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Hawkins",
+        "nm": 370080,
+        "roles": [
+          {
+            "char": "Justice Zamel"
+          }
+        ]
+      },
+      {
+        "name": "Peter Hardy",
+        "nm": 362728,
+        "roles": [
+          {
+            "char": "Gavin Lindsay",
+            "ch": 75916
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Baird",
+        "nm": 47871,
+        "roles": [
+          {
+            "char": "Chappell"
+          }
+        ]
+      },
+      {
+        "name": "Chris Hillier",
+        "nm": 1827034,
+        "roles": [
+          {
+            "char": "Man On Stairs"
+          }
+        ]
+      },
+      {
+        "name": "Angie Ling",
+        "nm": 5981863,
+        "roles": [
+          {
+            "char": "Victim"
+          }
+        ]
+      },
+      {
+        "name": "Robin Dene",
+        "nm": 218961,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Elwin Bradshaw",
+        "nm": 1569334,
+        "roles": [
+          {
+            "char": "Juror Peter"
+          }
+        ]
+      },
+      {
+        "name": "Peter Alchin",
+        "nm": 17226,
+        "roles": [
+          {
+            "char": "Detective",
+            "as Peter John Alchin": true
+          }
+        ]
+      },
+      {
+        "name": "John Fasham",
+        "nm": 5981864,
+        "roles": [
+          {
+            "char": "Reporter 1"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Amos",
+        "nm": 5981865,
+        "roles": [
+          {
+            "char": "Reporter 2"
+          }
+        ]
+      },
+      {
+        "name": "Michael Dalley",
+        "nm": 198080,
+        "roles": [
+          {
+            "char": "Reporter 3"
+          }
+        ]
+      },
+      {
+        "name": "Adam Turnbull",
+        "nm": 4068983,
+        "roles": [
+          {
+            "char": "Jury Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Valerie Lewis",
+        "nm": 1732523,
+        "roles": [
+          {
+            "char": "Wynn's Wife"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Reckless Indifference",
+    "tt": 614614,
+    "air_date": "1994-09-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertram",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Judge Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Frank Magree",
+        "nm": 536485,
+        "roles": [
+          {
+            "char": "Constable Waring"
+          }
+        ]
+      },
+      {
+        "name": "Ezra Bix",
+        "nm": 1309432,
+        "roles": [
+          {
+            "char": "Mark Noble"
+          }
+        ]
+      },
+      {
+        "name": "Johnathon Kernutt",
+        "nm": 449609,
+        "roles": [
+          {
+            "char": "Shane Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Maude Davey",
+        "nm": 202739,
+        "roles": [
+          {
+            "char": "Leslie Keilor"
+          }
+        ]
+      },
+      {
+        "name": "Rod Densley",
+        "nm": 219722,
+        "roles": [
+          {
+            "char": "Sgt. Beham"
+          }
+        ]
+      },
+      {
+        "name": "Fiona Todd",
+        "nm": 865167,
+        "roles": [
+          {
+            "char": "Margaret"
+          }
+        ]
+      },
+      {
+        "name": "Robert Essex",
+        "nm": 261404,
+        "roles": [
+          {
+            "char": "Ned Kelly",
+            "ch": 27945
+          }
+        ]
+      },
+      {
+        "name": "Chris Connelly",
+        "nm": 175057,
+        "roles": [
+          {
+            "char": "Tom"
+          }
+        ]
+      },
+      {
+        "name": "Michael Kuzilney",
+        "nm": 4178212,
+        "roles": [
+          {
+            "char": "Watch House Constable 1"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Baker",
+        "nm": 2973705,
+        "roles": [
+          {
+            "char": "Watch House Constable 2"
+          }
+        ]
+      },
+      {
+        "name": "Mark Brooker",
+        "nm": 111774,
+        "roles": [
+          {
+            "char": "Watch House Sgt"
+          }
+        ]
+      },
+      {
+        "name": "Debra-Elise Campbell",
+        "nm": 4196378,
+        "roles": [
+          {
+            "char": "Prostitute 1"
+          }
+        ]
+      },
+      {
+        "name": "Jane Gazzo",
+        "nm": 1531695,
+        "roles": [
+          {
+            "char": "Prostitute 2"
+          }
+        ]
+      },
+      {
+        "name": "David Bergin",
+        "nm": 74637,
+        "roles": [
+          {
+            "char": "Finlay"
+          }
+        ]
+      },
+      {
+        "name": "Drew Perry",
+        "nm": 4196503,
+        "roles": [
+          {
+            "char": "Informant"
+          }
+        ]
+      },
+      {
+        "name": "Sharna Keely",
+        "nm": 5981901,
+        "roles": [
+          {
+            "char": "Woman"
+          }
+        ]
+      },
+      {
+        "name": "Darren Andrew Mitchell",
+        "nm": 593256,
+        "roles": [
+          {
+            "char": "Skinner",
+            "as Darren Mitchell": true
+          }
+        ]
+      },
+      {
+        "name": "Eve Connelly",
+        "nm": 2502628,
+        "roles": [
+          {
+            "char": "Uniformed Policewoman 1"
+          }
+        ]
+      },
+      {
+        "name": "Szumai Anderson",
+        "nm": 27489,
+        "roles": [
+          {
+            "char": "Uniformed Policewoman 2"
+          }
+        ]
+      },
+      {
+        "name": "Alan James Davies",
+        "nm": 1648107,
+        "roles": [
+          {
+            "char": "Solicitor 1"
+          }
+        ]
+      },
+      {
+        "name": "Josephine Byrt",
+        "nm": 5981902,
+        "roles": [
+          {
+            "char": "Solicitor 2"
+          }
+        ]
+      },
+      {
+        "name": "Max Campbell",
+        "nm": 5981903,
+        "roles": [
+          {
+            "char": "Client 1"
+          }
+        ]
+      },
+      {
+        "name": "Craig Beeby",
+        "nm": 66275,
+        "roles": [
+          {
+            "char": "Client 2"
+          }
+        ]
+      },
+      {
+        "name": "Annie Fiume",
+        "nm": 5981904,
+        "roles": [
+          {
+            "char": "Bail Justice"
+          }
+        ]
+      },
+      {
+        "name": "Colin McKinnon",
+        "nm": 3854848,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Without Consent",
+    "tt": 614617,
+    "air_date": "1994-10-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertram",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Judge Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Robyn Butler",
+        "nm": 125114,
+        "roles": [
+          {
+            "char": "Helen Watson"
+          }
+        ]
+      },
+      {
+        "name": "Tamara Saulwick",
+        "nm": 766704,
+        "roles": [
+          {
+            "char": "Jane McGillis"
+          }
+        ]
+      },
+      {
+        "name": "Petra Glieson",
+        "nm": 1561526,
+        "roles": [
+          {
+            "char": "Caroline McGillis"
+          }
+        ]
+      },
+      {
+        "name": "Jane Longhurst",
+        "nm": 1456965,
+        "roles": [
+          {
+            "char": "Alex Lawrence"
+          }
+        ]
+      },
+      {
+        "name": "Erik Donnison",
+        "nm": 232835,
+        "roles": [
+          {
+            "char": "Uncle Andrew Ellis"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "James Lawson",
+        "nm": 1992839,
+        "roles": [
+          {
+            "char": "Douglas Rankin"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Kovski",
+        "nm": 468438,
+        "roles": [
+          {
+            "char": "Ferguson"
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirtsy Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Ingrid Ohlsson",
+        "nm": 4196562,
+        "roles": [
+          {
+            "char": "Christine"
+          }
+        ]
+      },
+      {
+        "name": "Peter Green",
+        "nm": 338237,
+        "roles": [
+          {
+            "char": "Magnus"
+          }
+        ]
+      },
+      {
+        "name": "John Davies",
+        "nm": 2432621,
+        "roles": [
+          {
+            "char": "Terry Singleton",
+            "as John K. Davies": true
+          }
+        ]
+      },
+      {
+        "name": "Cassandra Magrath",
+        "nm": 536476,
+        "roles": [
+          {
+            "char": "Young Jane"
+          }
+        ]
+      },
+      {
+        "name": "Catherine Buman",
+        "nm": 5981917,
+        "roles": [
+          {
+            "char": "Young Caroline"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Brookes",
+        "nm": 5981918,
+        "roles": [
+          {
+            "char": "Young Christine"
+          }
+        ]
+      },
+      {
+        "name": "Darryl Hukkins",
+        "nm": 4169475,
+        "roles": [
+          {
+            "char": "Journalist"
+          }
+        ]
+      },
+      {
+        "name": "Sally Kiel",
+        "nm": 2378632,
+        "roles": [
+          {
+            "char": "Kerry"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Faeller",
+        "nm": 5981919,
+        "roles": [
+          {
+            "char": "Dylan"
+          }
+        ]
+      },
+      {
+        "name": "Rachael Smart",
+        "nm": 4196367,
+        "roles": [
+          {
+            "char": "Jessica"
+          }
+        ]
+      },
+      {
+        "name": "Janet Johnstone",
+        "nm": 5981920,
+        "roles": [
+          {
+            "char": "Mrs. Ellis"
+          }
+        ]
+      },
+      {
+        "name": "Tasos Petousis",
+        "nm": 677734,
+        "roles": [
+          {
+            "char": "Con"
+          }
+        ]
+      },
+      {
+        "name": "Luke Ingham",
+        "nm": 3592583,
+        "roles": [
+          {
+            "char": "Glenda's Clerk"
+          }
+        ]
+      },
+      {
+        "name": "John Price",
+        "nm": 4516151,
+        "roles": [
+          {
+            "char": "Police Prosecutor"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Cutting",
+        "nm": 4922885,
+        "roles": [
+          {
+            "char": "Co-ordinator"
+          }
+        ]
+      },
+      {
+        "name": "Callan Young",
+        "nm": 4184270,
+        "roles": [
+          {
+            "char": "Scotty"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bentham",
+        "nm": 2776498,
+        "roles": [
+          {
+            "char": "Josh"
+          }
+        ]
+      },
+      {
+        "name": "Soula Alexander",
+        "nm": 1051218,
+        "roles": [
+          {
+            "char": "Clerk 2"
+          }
+        ]
+      },
+      {
+        "name": "Shane Cooper",
+        "nm": 178379,
+        "roles": [
+          {
+            "char": "Young Policeman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Fail to Appear",
+    "tt": 614606,
+    "air_date": "1994-10-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertram",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Judge Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Brandon Burke",
+        "nm": 121611,
+        "roles": [
+          {
+            "char": "Elias Khoshaba"
+          }
+        ]
+      },
+      {
+        "name": "Aidan Fennessy",
+        "nm": 271954,
+        "roles": [
+          {
+            "char": "Da Silva"
+          }
+        ]
+      },
+      {
+        "name": "John Paisley",
+        "nm": 656948,
+        "roles": [
+          {
+            "char": "Provis"
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "John Arnold",
+        "nm": 36510,
+        "roles": [
+          {
+            "char": "Reynolds"
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "David Bradshaw",
+        "nm": 103479,
+        "roles": [
+          {
+            "char": "Andrew 'Fluff' Saunders",
+            "ch": 245204
+          }
+        ]
+      },
+      {
+        "name": "David Pledger",
+        "nm": 687109,
+        "roles": [
+          {
+            "char": "Sgt Mahoney"
+          }
+        ]
+      },
+      {
+        "name": "Beverley Evans",
+        "nm": 262563,
+        "roles": [
+          {
+            "char": "Sandy"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Carter",
+        "nm": 141503,
+        "roles": [
+          {
+            "char": "Justice Short"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Graham",
+        "nm": 334053,
+        "roles": [
+          {
+            "char": "Bennett"
+          }
+        ]
+      },
+      {
+        "name": "Peter Green",
+        "nm": 338237,
+        "roles": [
+          {
+            "char": "Magnus"
+          }
+        ]
+      },
+      {
+        "name": "Chris Connelly",
+        "nm": 175057,
+        "roles": [
+          {
+            "char": "Chris"
+          }
+        ]
+      },
+      {
+        "name": "Paul Buckley",
+        "nm": 118672,
+        "roles": [
+          {
+            "char": "Detective"
+          }
+        ]
+      },
+      {
+        "name": "Guy Hooper",
+        "nm": 393745,
+        "roles": [
+          {
+            "char": "Detective 2"
+          }
+        ]
+      },
+      {
+        "name": "Stan Harrington",
+        "nm": 1156988,
+        "roles": [
+          {
+            "char": "Detective 3"
+          }
+        ]
+      },
+      {
+        "name": "Mark Brooker",
+        "nm": 111774,
+        "roles": [
+          {
+            "char": "Watch House Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Norbert Von Zum Hof",
+        "nm": 4205759,
+        "roles": [
+          {
+            "char": "Dobbs"
+          }
+        ]
+      },
+      {
+        "name": "Frank Kennedy",
+        "nm": 1300276,
+        "roles": [
+          {
+            "char": "Peel"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Horton",
+        "nm": 3911160,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Meredith Kerr",
+        "nm": 4206956,
+        "roles": [
+          {
+            "char": "Counsel"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Hassett",
+        "nm": 4206990,
+        "roles": [
+          {
+            "char": "Counsel 2"
+          }
+        ]
+      },
+      {
+        "name": "Alec Gilbert",
+        "nm": 1496209,
+        "roles": [
+          {
+            "char": "Khoshaba's Junior"
+          }
+        ]
+      },
+      {
+        "name": "Peter Robb",
+        "nm": 4206929,
+        "roles": [
+          {
+            "char": "Khoshaba's Client"
+          }
+        ]
+      },
+      {
+        "name": "Peter Maver",
+        "nm": 561369,
+        "roles": [
+          {
+            "char": "Short's Associate"
+          }
+        ]
+      },
+      {
+        "name": "Bill Charles",
+        "nm": 152982,
+        "roles": [
+          {
+            "char": "Tipstaff"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Humphries",
+        "nm": 2789043,
+        "roles": [
+          {
+            "char": "Instructing Solicitor"
+          }
+        ]
+      },
+      {
+        "name": "Helen Mitchell",
+        "nm": 4136354,
+        "roles": [
+          {
+            "char": "Policewoman"
+          }
+        ]
+      },
+      {
+        "name": "Leonie Fletcher",
+        "nm": 3525683,
+        "roles": [
+          {
+            "char": "DPP Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Linda Key",
+        "nm": 450753,
+        "roles": [
+          {
+            "char": "Legal Secretary",
+            "as Linda Keys": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "A Mischevious Offence",
+    "tt": 614599,
+    "air_date": "1994-10-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Judge Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Jack Finsterer",
+        "nm": 278355,
+        "roles": [
+          {
+            "char": "Bronowski",
+            "ch": 291995
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Welch",
+        "nm": 974758,
+        "roles": [
+          {
+            "char": "Terrie Wheeler"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Hedge",
+        "nm": 373235,
+        "roles": [
+          {
+            "char": "Clyde Martin"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Crosby",
+        "nm": 189025,
+        "roles": [
+          {
+            "char": "Ken Hardy"
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Daniel Grossman",
+            "ch": 104391
+          }
+        ]
+      },
+      {
+        "name": "Valentina Levkowicz",
+        "nm": 506264,
+        "roles": [
+          {
+            "char": "Rose Lipski"
+          }
+        ]
+      },
+      {
+        "name": "William Binks",
+        "nm": 83042,
+        "roles": [
+          {
+            "char": "Ex-trainer",
+            "as Bill Binks": true
+          }
+        ]
+      },
+      {
+        "name": "Roy Thompson",
+        "nm": 860670,
+        "roles": [
+          {
+            "char": "Steward"
+          }
+        ]
+      },
+      {
+        "name": "Ross Daniels",
+        "nm": 200077,
+        "roles": [
+          {
+            "char": "Punter"
+          }
+        ]
+      },
+      {
+        "name": "Zach Meyers",
+        "nm": 1830773,
+        "roles": [
+          {
+            "char": "Luke"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Jarman-Walker",
+        "nm": 418762,
+        "roles": [
+          {
+            "char": "Cath Darby"
+          }
+        ]
+      },
+      {
+        "name": "David Murray",
+        "nm": 1453371,
+        "roles": [
+          {
+            "char": "Carter"
+          }
+        ]
+      },
+      {
+        "name": "Robin Dene",
+        "nm": 218961,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Chris Milne",
+        "nm": 590331,
+        "roles": [
+          {
+            "char": "Alan Tyrrell"
+          }
+        ]
+      },
+      {
+        "name": "Colin James",
+        "nm": 5395960,
+        "roles": [
+          {
+            "char": "Detective"
+          }
+        ]
+      },
+      {
+        "name": "Ian Toyne",
+        "nm": 2143914,
+        "roles": [
+          {
+            "char": "Informant"
+          }
+        ]
+      },
+      {
+        "name": "Margot Fenley",
+        "nm": 1456897,
+        "roles": [
+          {
+            "char": "Legal Aid Solicitor"
+          }
+        ]
+      },
+      {
+        "name": "Mark Guerin",
+        "nm": 345936,
+        "roles": [
+          {
+            "char": "Owner"
+          }
+        ]
+      },
+      {
+        "name": "John Derek",
+        "nm": 1135,
+        "roles": [
+          {
+            "char": "Trainer"
+          }
+        ]
+      },
+      {
+        "name": "Chris Bilney",
+        "nm": 6001306,
+        "roles": [
+          {
+            "char": "Jockey"
+          }
+        ]
+      },
+      {
+        "name": "Robert Cooper",
+        "nm": 1008579,
+        "roles": [
+          {
+            "char": "Defence Barrister"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Crawford-Smith",
+        "nm": 186999,
+        "roles": [
+          {
+            "char": "Dog 1"
+          }
+        ]
+      },
+      {
+        "name": "John Cramer",
+        "nm": 3540996,
+        "roles": [
+          {
+            "char": "Dog 2"
+          }
+        ]
+      },
+      {
+        "name": "Wayne Comley",
+        "nm": 173853,
+        "roles": [
+          {
+            "char": "Barman"
+          }
+        ]
+      },
+      {
+        "name": "Soula Alexander",
+        "nm": 1051218,
+        "roles": [
+          {
+            "char": "Magistrate's Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Kym Parry",
+        "nm": 1932301,
+        "roles": [
+          {
+            "char": "Watch House Matron"
+          }
+        ]
+      },
+      {
+        "name": "Samantha Bond",
+        "nm": 4692908,
+        "roles": [
+          {
+            "char": "Female Journalist"
+          }
+        ]
+      },
+      {
+        "name": "George Novak",
+        "nm": 636844,
+        "roles": [
+          {
+            "char": "Tactical Response Squad"
+          }
+        ]
+      },
+      {
+        "name": "Russell Allan",
+        "nm": 20013,
+        "roles": [
+          {
+            "char": "Tactical Response Squad"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Raaen",
+        "nm": 704657,
+        "roles": [
+          {
+            "char": "Tactical Response Squad"
+          }
+        ]
+      },
+      {
+        "name": "Russell Frost",
+        "nm": 296564,
+        "roles": [
+          {
+            "char": "Tactical Response Squad"
+          }
+        ]
+      },
+      {
+        "name": "Chris Hargreaves",
+        "nm": 362958,
+        "roles": [
+          {
+            "char": "Tactical Response Squad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "A Familiar Utterance",
+    "tt": 614597,
+    "air_date": "1994-10-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertram",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "Michael Edward-Stevens",
+        "nm": 249768,
+        "roles": [
+          {
+            "char": "Logan"
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Judge Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Jane Menelaus",
+        "nm": 579448,
+        "roles": [
+          {
+            "char": "Jenny Hanson"
+          }
+        ]
+      },
+      {
+        "name": "Damien Foley",
+        "nm": 284119,
+        "roles": [
+          {
+            "char": "Finnie"
+          }
+        ]
+      },
+      {
+        "name": "David Cotter",
+        "nm": 182952,
+        "roles": [
+          {
+            "char": "Coops"
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "John Bishop",
+        "nm": 84093,
+        "roles": [
+          {
+            "char": "Richard Healy"
+          }
+        ]
+      },
+      {
+        "name": "Alan Levy",
+        "nm": 506317,
+        "roles": [
+          {
+            "char": "John Weigall"
+          }
+        ]
+      },
+      {
+        "name": "Barry Main",
+        "nm": 537670,
+        "roles": [
+          {
+            "char": "Dave Brett"
+          }
+        ]
+      },
+      {
+        "name": "Geoff Parry",
+        "nm": 663649,
+        "roles": [
+          {
+            "char": "Hurley"
+          }
+        ]
+      },
+      {
+        "name": "David Bradshaw",
+        "nm": 103479,
+        "roles": [
+          {
+            "char": "Andrew 'Fluff' Saunders",
+            "ch": 245204
+          }
+        ]
+      },
+      {
+        "name": "Louise Watson",
+        "nm": 914777,
+        "roles": [
+          {
+            "char": "Tania"
+          }
+        ]
+      },
+      {
+        "name": "Tasos Petousis",
+        "nm": 677734,
+        "roles": [
+          {
+            "char": "Con Gogos"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Laurie Dobson",
+        "nm": 229916,
+        "roles": [
+          {
+            "char": "Inspector"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Fred Barker",
+        "nm": 54885,
+        "roles": [
+          {
+            "char": "Raffle Ticket Man"
+          }
+        ]
+      },
+      {
+        "name": "Kate Agnew",
+        "nm": 13143,
+        "roles": [
+          {
+            "char": "Magistrate's Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Tania Roberts",
+        "nm": 1983577,
+        "roles": [
+          {
+            "char": "Vicky"
+          }
+        ]
+      },
+      {
+        "name": "Ian Pidd",
+        "nm": 1981478,
+        "roles": [
+          {
+            "char": "Detective"
+          }
+        ]
+      },
+      {
+        "name": "Fille Dusselee",
+        "nm": 244698,
+        "roles": [
+          {
+            "char": "Woman"
+          }
+        ]
+      },
+      {
+        "name": "Craig Gillespie",
+        "nm": 2767878,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Caroline Smart",
+        "nm": 806651,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Neville Stonehouse",
+        "nm": 832265,
+        "roles": [
+          {
+            "char": "Crook"
+          }
+        ]
+      },
+      {
+        "name": "Leonie Fletcher",
+        "nm": 3525683,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Without Prejudice",
+    "tt": 614618,
+    "air_date": "1994-11-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Grant Piro",
+        "nm": 685221,
+        "roles": [
+          {
+            "char": "Cassidy",
+            "ch": 263165
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Sheryl Munks",
+        "nm": 612948,
+        "roles": [
+          {
+            "char": "Simone"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Summers",
+        "nm": 838739,
+        "roles": [
+          {
+            "char": "Don",
+            "ch": 113277
+          }
+        ]
+      },
+      {
+        "name": "Jane Borghesi",
+        "nm": 96647,
+        "roles": [
+          {
+            "char": "Gail"
+          }
+        ]
+      },
+      {
+        "name": "Jon Concannon",
+        "nm": 174218,
+        "roles": [
+          {
+            "char": "Dave"
+          }
+        ]
+      },
+      {
+        "name": "John Atkinson",
+        "nm": 1669068,
+        "roles": [
+          {
+            "char": "Nick"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Lisa"
+          }
+        ]
+      },
+      {
+        "name": "Marion Heathfield",
+        "nm": 372760,
+        "roles": [
+          {
+            "char": "Betty"
+          }
+        ]
+      },
+      {
+        "name": "Nique Needles",
+        "nm": 624141,
+        "roles": [
+          {
+            "char": "Darren Mack"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Daniel Grossman",
+            "ch": 104391
+          }
+        ]
+      },
+      {
+        "name": "Valentina Levkowicz",
+        "nm": 506264,
+        "roles": [
+          {
+            "char": "Rose Lipski"
+          }
+        ]
+      },
+      {
+        "name": "Robin Dene",
+        "nm": 218961,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Trevor Major",
+        "nm": 538223,
+        "roles": [
+          {
+            "char": "Neville",
+            "ch": 372966
+          }
+        ]
+      },
+      {
+        "name": "John Dicks",
+        "nm": 225598,
+        "roles": [
+          {
+            "char": "Tom"
+          }
+        ]
+      },
+      {
+        "name": "Jack Finsterer",
+        "nm": 278355,
+        "roles": [
+          {
+            "char": "Bronowski",
+            "ch": 291995
+          }
+        ]
+      },
+      {
+        "name": "Clive Hearne",
+        "nm": 372482,
+        "roles": [
+          {
+            "char": "Jury Supervisor"
+          }
+        ]
+      },
+      {
+        "name": "Marian Sinclair",
+        "nm": 801676,
+        "roles": [
+          {
+            "char": "Jury Supervisor 2"
+          }
+        ]
+      },
+      {
+        "name": "Clarissa House",
+        "nm": 396639,
+        "roles": [
+          {
+            "char": "Judy"
+          }
+        ]
+      },
+      {
+        "name": "Ross Buchanan",
+        "nm": 118071,
+        "roles": [
+          {
+            "char": "Roberts"
+          }
+        ]
+      },
+      {
+        "name": "Androo Allen",
+        "nm": 3598896,
+        "roles": [
+          {
+            "char": "Jim"
+          }
+        ]
+      },
+      {
+        "name": "Pixie Jones",
+        "nm": 429043,
+        "roles": [
+          {
+            "char": "Solicitor"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Humphries",
+        "nm": 2789043,
+        "roles": [
+          {
+            "char": "Patterson"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Bayliss",
+        "nm": 63106,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "John O'Shannessy",
+        "nm": 6009320,
+        "roles": [
+          {
+            "char": "Policeman 2"
+          }
+        ]
+      },
+      {
+        "name": "David J. Berman",
+        "nm": 75748,
+        "roles": [
+          {
+            "char": "Mal's Offsider",
+            "as David Berman": true
+          }
+        ]
+      },
+      {
+        "name": "Trevor Welsh",
+        "nm": 920606,
+        "roles": [
+          {
+            "char": "Prison Van Driver"
+          }
+        ]
+      },
+      {
+        "name": "Christine Bridge",
+        "nm": 1736902,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Lolita Castaneda",
+        "nm": 6009321,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Colin Silver",
+        "nm": 6009322,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "John Dickens",
+        "nm": 5263703,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Sebastian Gunner",
+        "nm": 348293,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Lindsay Saddington",
+        "nm": 1727878,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Improper Influences",
+    "tt": 614608,
+    "air_date": "1994-11-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Daniel Grossman",
+            "ch": 104391
+          }
+        ]
+      },
+      {
+        "name": "Damien Foley",
+        "nm": 284119,
+        "roles": [
+          {
+            "char": "Finnie"
+          }
+        ]
+      },
+      {
+        "name": "Greg Fleet",
+        "nm": 281423,
+        "roles": [
+          {
+            "char": "Det Sgt Alvin"
+          }
+        ]
+      },
+      {
+        "name": "Pepe Trevor",
+        "nm": 872479,
+        "roles": [
+          {
+            "char": "Sandy"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty"
+          }
+        ]
+      },
+      {
+        "name": "Nique Needles",
+        "nm": 624141,
+        "roles": [
+          {
+            "char": "Darren Mack"
+          }
+        ]
+      },
+      {
+        "name": "Valentina Levkowicz",
+        "nm": 506264,
+        "roles": [
+          {
+            "char": "Rose Lipski"
+          }
+        ]
+      },
+      {
+        "name": "Robin Dene",
+        "nm": 218961,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Jack Finsterer",
+        "nm": 278355,
+        "roles": [
+          {
+            "char": "Bronowski",
+            "ch": 291995
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Humphries",
+        "nm": 2789043,
+        "roles": [
+          {
+            "char": "Patterson",
+            "as Steven Humphries": true
+          }
+        ]
+      },
+      {
+        "name": "Ross Buchanan",
+        "nm": 118071,
+        "roles": [
+          {
+            "char": "Roberts"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Bennett",
+        "nm": 71727,
+        "roles": [
+          {
+            "char": "Governor",
+            "as Doug Bennett": true
+          }
+        ]
+      },
+      {
+        "name": "Jon Concannon",
+        "nm": 174218,
+        "roles": [
+          {
+            "char": "Dave"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Summers",
+        "nm": 838739,
+        "roles": [
+          {
+            "char": "Don",
+            "ch": 113277
+          }
+        ]
+      },
+      {
+        "name": "Jane Borghesi",
+        "nm": 96647,
+        "roles": [
+          {
+            "char": "Gail"
+          }
+        ]
+      },
+      {
+        "name": "John Atkinson",
+        "nm": 1669068,
+        "roles": [
+          {
+            "char": "Nick"
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Lisa"
+          }
+        ]
+      },
+      {
+        "name": "Marion Heathfield",
+        "nm": 372760,
+        "roles": [
+          {
+            "char": "Betty"
+          }
+        ]
+      },
+      {
+        "name": "Susan Cooper",
+        "nm": 2906152,
+        "roles": [
+          {
+            "char": "Maeve"
+          }
+        ]
+      },
+      {
+        "name": "Ron Strickland",
+        "nm": 1635220,
+        "roles": [
+          {
+            "char": "Parking Officer"
+          }
+        ]
+      },
+      {
+        "name": "Susanne Dyring",
+        "nm": 4162386,
+        "roles": [
+          {
+            "char": "Grossman's Wife"
+          }
+        ]
+      },
+      {
+        "name": "Alison Tritt",
+        "nm": 6009405,
+        "roles": [
+          {
+            "char": "Female Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Christine Bridge",
+        "nm": 1736902,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Lolita Castaneda",
+        "nm": 6009321,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Colin Silver",
+        "nm": 6009322,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "John Dickens",
+        "nm": 5263703,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Sebastian Gunner",
+        "nm": 348293,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Lindsay Saddington",
+        "nm": 1727878,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Burden of Proof",
+    "tt": 614603,
+    "air_date": "1994-11-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Pepe Trevor",
+        "nm": 872479,
+        "roles": [
+          {
+            "char": "Sandy"
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Nique Needles",
+        "nm": 624141,
+        "roles": [
+          {
+            "char": "Darren Mack"
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Daniel Grossman",
+            "ch": 104391
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Jack Finsterer",
+        "nm": 278355,
+        "roles": [
+          {
+            "char": "Bronowski",
+            "ch": 291995
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Valentina Levkowicz",
+        "nm": 506264,
+        "roles": [
+          {
+            "char": "Rose Lipski"
+          }
+        ]
+      },
+      {
+        "name": "Robin Dene",
+        "nm": 218961,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Jon Concannon",
+        "nm": 174218,
+        "roles": [
+          {
+            "char": "Dave"
+          }
+        ]
+      },
+      {
+        "name": "Jane Borghesi",
+        "nm": 96647,
+        "roles": [
+          {
+            "char": "Gail"
+          }
+        ]
+      },
+      {
+        "name": "John Atkinson",
+        "nm": 1669068,
+        "roles": [
+          {
+            "char": "Nick"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Summers",
+        "nm": 838739,
+        "roles": [
+          {
+            "char": "Don",
+            "ch": 113277
+          }
+        ]
+      },
+      {
+        "name": "Asher Keddie",
+        "nm": 444291,
+        "roles": [
+          {
+            "char": "Lisa"
+          }
+        ]
+      },
+      {
+        "name": "Marion Heathfield",
+        "nm": 372760,
+        "roles": [
+          {
+            "char": "Betty"
+          }
+        ]
+      },
+      {
+        "name": "Lyn Semmler",
+        "nm": 783858,
+        "roles": [
+          {
+            "char": "Jane Kidd",
+            "as Lyn Semler": true
+          }
+        ]
+      },
+      {
+        "name": "Charlotte Haywood",
+        "nm": 371823,
+        "roles": [
+          {
+            "char": "Jessica Kidd"
+          }
+        ]
+      },
+      {
+        "name": "Chase Moore",
+        "nm": 3548934,
+        "roles": [
+          {
+            "char": "Eamon Kidd"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Graham",
+        "nm": 2310606,
+        "roles": [
+          {
+            "char": "TV Newsreader"
+          }
+        ]
+      },
+      {
+        "name": "Steve Adams",
+        "nm": 1088332,
+        "roles": [
+          {
+            "char": "Detective"
+          }
+        ]
+      },
+      {
+        "name": "Brett Anderson",
+        "nm": 26448,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Russell Frost",
+        "nm": 296564,
+        "roles": [
+          {
+            "char": "Pat Clancy"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Humphries",
+        "nm": 2789043,
+        "roles": [
+          {
+            "char": "Patterson",
+            "as Steven Humphries": true
+          }
+        ]
+      },
+      {
+        "name": "Ross Buchanan",
+        "nm": 118071,
+        "roles": [
+          {
+            "char": "Roberts"
+          }
+        ]
+      },
+      {
+        "name": "Christine Bridge",
+        "nm": 1736902,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Lolita Castaneda",
+        "nm": 6009321,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Colin Silver",
+        "nm": 6009322,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "John Dickens",
+        "nm": 5263703,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Sebastian Gunner",
+        "nm": 348293,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      },
+      {
+        "name": "Lindsay Saddington",
+        "nm": 1727878,
+        "roles": [
+          {
+            "char": "Juror"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "A Lawful Apprehension",
+    "tt": 614598,
+    "air_date": "1995-01-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Jane Menelaus",
+        "nm": 579448,
+        "roles": [
+          {
+            "char": "Jenny Hanson"
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Steven Vidler",
+        "nm": 896509,
+        "roles": [
+          {
+            "char": "Danny Wyatt",
+            "ch": 146760
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Jane Clifton",
+        "nm": 166745,
+        "roles": [
+          {
+            "char": "Phillipa Strong"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Jack Finsterer",
+        "nm": 278355,
+        "roles": [
+          {
+            "char": "Bronowski",
+            "ch": 291995
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty Nichols"
+          }
+        ]
+      },
+      {
+        "name": "David Bradshaw",
+        "nm": 103479,
+        "roles": [
+          {
+            "char": "Andrew 'Fluff' Saunders",
+            "ch": 245204
+          }
+        ]
+      },
+      {
+        "name": "Pepe Trevor",
+        "nm": 872479,
+        "roles": [
+          {
+            "char": "Sandy"
+          }
+        ]
+      },
+      {
+        "name": "Wade Beed",
+        "nm": 66363,
+        "roles": [
+          {
+            "char": "Neil"
+          }
+        ]
+      },
+      {
+        "name": "George Fairfax",
+        "nm": 265565,
+        "roles": [
+          {
+            "char": "Assistant Commissioner"
+          }
+        ]
+      },
+      {
+        "name": "Scott Dowling",
+        "nm": 4167399,
+        "roles": [
+          {
+            "char": "Stoney"
+          }
+        ]
+      },
+      {
+        "name": "Tasos Petousis",
+        "nm": 677734,
+        "roles": [
+          {
+            "char": "Con Gogos"
+          }
+        ]
+      },
+      {
+        "name": "Maude Davey",
+        "nm": 202739,
+        "roles": [
+          {
+            "char": "Leslie Keilor"
+          }
+        ]
+      },
+      {
+        "name": "Richard Moss",
+        "nm": 609069,
+        "roles": [
+          {
+            "char": "Jeff Goodwin"
+          }
+        ]
+      },
+      {
+        "name": "Trevor Major",
+        "nm": 538223,
+        "roles": [
+          {
+            "char": "Neville Tomlinson",
+            "ch": 372966
+          }
+        ]
+      },
+      {
+        "name": "Greg Francis",
+        "nm": 988764,
+        "roles": [
+          {
+            "char": "Morris"
+          }
+        ]
+      },
+      {
+        "name": "Peter Regan",
+        "nm": 716466,
+        "roles": [
+          {
+            "char": "Supreme Court Judge"
+          }
+        ]
+      },
+      {
+        "name": "Peter Roberts",
+        "nm": 1174664,
+        "roles": [
+          {
+            "char": "Detective"
+          }
+        ]
+      },
+      {
+        "name": "Shane Lee",
+        "nm": 498232,
+        "roles": [
+          {
+            "char": "Male Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Scott Meneilly",
+        "nm": 1827071,
+        "roles": [
+          {
+            "char": "Young Copper"
+          }
+        ]
+      },
+      {
+        "name": "Michael James",
+        "nm": 1882958,
+        "roles": [
+          {
+            "char": "Young Copper"
+          }
+        ]
+      },
+      {
+        "name": "Shauna McEwan",
+        "nm": 568615,
+        "roles": [
+          {
+            "char": "Dog"
+          }
+        ]
+      },
+      {
+        "name": "Terry Brittingham",
+        "nm": 110150,
+        "roles": [
+          {
+            "char": "Prison Liason Detective"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Simmons",
+        "nm": 2063475,
+        "roles": [
+          {
+            "char": "Judge's Associate"
+          }
+        ]
+      },
+      {
+        "name": "Bill Charles",
+        "nm": 152982,
+        "roles": [
+          {
+            "char": "Tipstaff"
+          }
+        ]
+      },
+      {
+        "name": "Trevor Wight",
+        "nm": 2767082,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Ian Swan",
+        "nm": 841583,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Seymour",
+        "nm": 3557769,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Tony Lynch",
+        "nm": 528481,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Guy Phillips",
+        "nm": 1226387,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Jason Blake",
+        "nm": 86582,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bentham",
+        "nm": 2776498,
+        "roles": [
+          {
+            "char": "Josh"
+          }
+        ]
+      },
+      {
+        "name": "Callan Young",
+        "nm": 4184270,
+        "roles": [
+          {
+            "char": "Scotty"
+          }
+        ]
+      },
+      {
+        "name": "Tracy Bourne",
+        "nm": 4177852,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Paul Farrell",
+        "nm": 5937241,
+        "roles": [
+          {
+            "char": "PSO"
+          }
+        ]
+      },
+      {
+        "name": "Sasha Close",
+        "nm": 167107,
+        "roles": [
+          {
+            "char": "Shelley"
+          }
+        ]
+      },
+      {
+        "name": "Simon Woodward",
+        "nm": 940992,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Vince D'Amico",
+        "nm": 195167,
+        "roles": [
+          {
+            "char": "Harry"
+          }
+        ]
+      },
+      {
+        "name": "George Ginis",
+        "nm": 1246386,
+        "roles": [
+          {
+            "char": "Prosecuting Barrister"
+          }
+        ]
+      },
+      {
+        "name": "Ken Weaver",
+        "nm": 915889,
+        "roles": [
+          {
+            "char": "Bert"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Sheridan",
+        "nm": 792239,
+        "roles": [
+          {
+            "char": "Defence Barrister"
+          }
+        ]
+      },
+      {
+        "name": "Leonie Fletcher",
+        "nm": 3525683,
+        "roles": [
+          {
+            "char": "Nancy"
+          }
+        ]
+      },
+      {
+        "name": "Chris Wilson",
+        "nm": 933177,
+        "roles": [
+          {
+            "char": "Prison Van Driver"
+          }
+        ]
+      },
+      {
+        "name": "George Novak",
+        "nm": 636844,
+        "roles": [
+          {
+            "char": "Prison Van Driver"
+          }
+        ]
+      },
+      {
+        "name": "Shane Alexander",
+        "nm": 1013069,
+        "roles": [
+          {
+            "char": "Synagogue Guest",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Suicide by Cop",
+    "tt": 614616,
+    "air_date": "1995-02-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertrum",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Frank Gallacher",
+        "nm": 302314,
+        "roles": [
+          {
+            "char": "Haines"
+          }
+        ]
+      },
+      {
+        "name": "Steven Vidler",
+        "nm": 896509,
+        "roles": [
+          {
+            "char": "Danny Wyatt",
+            "ch": 146760,
+            "as Steve Vidler": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Eagger",
+        "nm": 247082,
+        "roles": [
+          {
+            "char": "Rhonda Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Johnathon Kernutt",
+        "nm": 449609,
+        "roles": [
+          {
+            "char": "Shane Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Janet Andrewartha",
+        "nm": 28548,
+        "roles": [
+          {
+            "char": "Anna"
+          }
+        ]
+      },
+      {
+        "name": "David Bradshaw",
+        "nm": 103479,
+        "roles": [
+          {
+            "char": "Andrew 'Fluff' Saunders",
+            "ch": 245204
+          }
+        ]
+      },
+      {
+        "name": "Tasos Petousis",
+        "nm": 677734,
+        "roles": [
+          {
+            "char": "Con Gogos"
+          }
+        ]
+      },
+      {
+        "name": "Greg Stone",
+        "nm": 831898,
+        "roles": [
+          {
+            "char": "Ed Mann"
+          }
+        ]
+      },
+      {
+        "name": "Tibor Gyapjas",
+        "nm": 350405,
+        "roles": [
+          {
+            "char": "Ali"
+          }
+        ]
+      },
+      {
+        "name": "Maurie Annese",
+        "nm": 30345,
+        "roles": [
+          {
+            "char": "Bram"
+          }
+        ]
+      },
+      {
+        "name": "Shawn Unsworth",
+        "nm": 881348,
+        "roles": [
+          {
+            "char": "Jim"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Wain",
+        "nm": 4170640,
+        "roles": [
+          {
+            "char": "Simon Harcourt"
+          }
+        ]
+      },
+      {
+        "name": "Thea McLeod",
+        "nm": 1043398,
+        "roles": [
+          {
+            "char": "Nicole"
+          }
+        ]
+      },
+      {
+        "name": "Anushka Carter",
+        "nm": 2013919,
+        "roles": [
+          {
+            "char": "Natasha"
+          }
+        ]
+      },
+      {
+        "name": "Emily Buxton",
+        "nm": 4170270,
+        "roles": [
+          {
+            "char": "Mandy"
+          }
+        ]
+      },
+      {
+        "name": "Ian Scott",
+        "nm": 779246,
+        "roles": [
+          {
+            "char": "Moore"
+          }
+        ]
+      },
+      {
+        "name": "Geoff Parry",
+        "nm": 663649,
+        "roles": [
+          {
+            "char": "ID Inspector"
+          }
+        ]
+      },
+      {
+        "name": "Francis Greenslade",
+        "nm": 339166,
+        "roles": [
+          {
+            "char": "Lange"
+          }
+        ]
+      },
+      {
+        "name": "Shane Lee",
+        "nm": 498232,
+        "roles": [
+          {
+            "char": "Wayne"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Hopkins",
+        "nm": 394217,
+        "roles": [
+          {
+            "char": "Crim"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Mooney",
+        "nm": 600747,
+        "roles": [
+          {
+            "char": "Crim"
+          }
+        ]
+      },
+      {
+        "name": "Peter Roberts",
+        "nm": 1174664,
+        "roles": [
+          {
+            "char": "Detective"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Crawford-Smith",
+        "nm": 186999,
+        "roles": [
+          {
+            "char": "Detective"
+          }
+        ]
+      },
+      {
+        "name": "Darryl Hukkins",
+        "nm": 4169475,
+        "roles": [
+          {
+            "char": "Journalist"
+          }
+        ]
+      },
+      {
+        "name": "Samantha Bladon",
+        "nm": 86041,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Martin Hopkins",
+        "nm": 3509830,
+        "roles": [
+          {
+            "char": "Chaplain"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Graham",
+        "nm": 2310606,
+        "roles": [
+          {
+            "char": "Newsreader"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Royal",
+        "nm": 747249,
+        "roles": [
+          {
+            "char": "Denise Freeman"
+          }
+        ]
+      },
+      {
+        "name": "Abbe Holmes",
+        "nm": 391736,
+        "roles": [
+          {
+            "char": "Kathleen Rogers"
+          }
+        ]
+      },
+      {
+        "name": "Jenny Seedsman",
+        "nm": 781491,
+        "roles": [
+          {
+            "char": "Magistrate"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Horton",
+        "nm": 3911160,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Rob Jealous",
+        "nm": 1727425,
+        "roles": [
+          {
+            "char": "PSO"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bentham",
+        "nm": 2776498,
+        "roles": [
+          {
+            "char": "Josh"
+          }
+        ]
+      },
+      {
+        "name": "Callan Young",
+        "nm": 4184270,
+        "roles": [
+          {
+            "char": "Scotty"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Cantlon",
+        "nm": 4187371,
+        "roles": [
+          {
+            "char": "Kirtsy's Baby"
+          }
+        ]
+      },
+      {
+        "name": "Gina Hogan",
+        "nm": 389529,
+        "roles": [
+          {
+            "char": "Danny's Wife"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Intent to Permanently Deprive",
+    "tt": 614609,
+    "air_date": "1995-02-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Robert Wallace",
+        "nm": 908837,
+        "roles": [
+          {
+            "char": "Charlie Raffa"
+          }
+        ]
+      },
+      {
+        "name": "John Arnold",
+        "nm": 36510,
+        "roles": [
+          {
+            "char": "Reynolds"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Eagger",
+        "nm": 247082,
+        "roles": [
+          {
+            "char": "Rhonda Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Louis Dingemans",
+        "nm": 227638,
+        "roles": [
+          {
+            "char": "Cronin"
+          }
+        ]
+      },
+      {
+        "name": "Taya Straton",
+        "nm": 833603,
+        "roles": [
+          {
+            "char": "Sharon Clarke"
+          }
+        ]
+      },
+      {
+        "name": "Jim Daly",
+        "nm": 197852,
+        "roles": [
+          {
+            "char": "Butch"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Schlusser",
+        "nm": 772497,
+        "roles": [
+          {
+            "char": "Constable Newman"
+          }
+        ]
+      },
+      {
+        "name": "Rainer Maier",
+        "nm": 3678919,
+        "roles": [
+          {
+            "char": "Constable Lowe"
+          }
+        ]
+      },
+      {
+        "name": "Andrea Swifte",
+        "nm": 973856,
+        "roles": [
+          {
+            "char": "Julie"
+          }
+        ]
+      },
+      {
+        "name": "Maude Davey",
+        "nm": 202739,
+        "roles": [
+          {
+            "char": "Leslie Keilor"
+          }
+        ]
+      },
+      {
+        "name": "Fred Barker",
+        "nm": 54885,
+        "roles": [
+          {
+            "char": "Sgt Barker"
+          }
+        ]
+      },
+      {
+        "name": "Abbe Holmes",
+        "nm": 391736,
+        "roles": [
+          {
+            "char": "Kathleen Bates"
+          }
+        ]
+      },
+      {
+        "name": "Rex Callahan",
+        "nm": 130244,
+        "roles": [
+          {
+            "char": "Justice Greer"
+          }
+        ]
+      },
+      {
+        "name": "Tony Nikolakopoulos",
+        "nm": 631815,
+        "roles": [
+          {
+            "char": "Lou De Luca"
+          }
+        ]
+      },
+      {
+        "name": "Mark Padfield",
+        "nm": 4172563,
+        "roles": [
+          {
+            "char": "L.P. Officer"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Hicks",
+        "nm": 382796,
+        "roles": [
+          {
+            "char": "L.P. Officer"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Royal",
+        "nm": 747249,
+        "roles": [
+          {
+            "char": "Denise Freeman"
+          }
+        ]
+      },
+      {
+        "name": "David Whiteley",
+        "nm": 2436874,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hearn",
+        "nm": 5939333,
+        "roles": [
+          {
+            "char": "Policewoman"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Horton",
+        "nm": 3911160,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Jared Daperis",
+        "nm": 200840,
+        "roles": [
+          {
+            "char": "Pauli"
+          }
+        ]
+      },
+      {
+        "name": "Tee O'Neil",
+        "nm": 4690898,
+        "roles": [
+          {
+            "char": "Leanne De Luca"
+          }
+        ]
+      },
+      {
+        "name": "John Devlin",
+        "nm": 1547049,
+        "roles": [
+          {
+            "char": "Tipstaff"
+          }
+        ]
+      },
+      {
+        "name": "Angela Campbell",
+        "nm": 132213,
+        "roles": [
+          {
+            "char": "Judge's Associate"
+          }
+        ]
+      },
+      {
+        "name": "Harry Mullany",
+        "nm": 5939334,
+        "roles": [
+          {
+            "char": "Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Keogh",
+        "nm": 449054,
+        "roles": [
+          {
+            "char": "Journo"
+          }
+        ]
+      },
+      {
+        "name": "Madeleine Swain",
+        "nm": 1813718,
+        "roles": [
+          {
+            "char": "Journo"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Cantlon",
+        "nm": 4187371,
+        "roles": [
+          {
+            "char": "Kirsty's Baby"
+          }
+        ]
+      },
+      {
+        "name": "Kevin O'Dowd",
+        "nm": 5939335,
+        "roles": [
+          {
+            "char": "Guard",
+            "Fairlea": true
+          }
+        ]
+      },
+      {
+        "name": "Sioux Currie",
+        "nm": 1314014,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bentham",
+        "nm": 2776498,
+        "roles": [
+          {
+            "char": "Josh"
+          }
+        ]
+      },
+      {
+        "name": "Callan Young",
+        "nm": 4184270,
+        "roles": [
+          {
+            "char": "Scotty"
+          }
+        ]
+      },
+      {
+        "name": "George Novak",
+        "nm": 636844,
+        "roles": [
+          {
+            "char": "Prison Van Driver"
+          }
+        ]
+      },
+      {
+        "name": "Linda Ross",
+        "nm": 743615,
+        "roles": [
+          {
+            "char": "Abbott"
+          }
+        ]
+      },
+      {
+        "name": "Leonie Fletcher",
+        "nm": 3525683,
+        "roles": [
+          {
+            "char": "Nancy"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Graham",
+        "nm": 2310606,
+        "roles": [
+          {
+            "char": "Newsreader"
+          }
+        ]
+      },
+      {
+        "name": "Nathan King",
+        "nm": 455094,
+        "roles": [
+          {
+            "char": "Spokesperson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Right to Remain Silent",
+    "tt": 614615,
+    "air_date": "1995-02-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Daniel Grossman",
+            "ch": 104391
+          }
+        ]
+      },
+      {
+        "name": "Jeanette Cronin",
+        "nm": 188766,
+        "roles": [
+          {
+            "char": "Roz Breen"
+          }
+        ]
+      },
+      {
+        "name": "Paul Gleeson",
+        "nm": 322437,
+        "roles": [
+          {
+            "char": "Martin Little"
+          }
+        ]
+      },
+      {
+        "name": "Rob Carlton",
+        "nm": 138224,
+        "roles": [
+          {
+            "char": "Brett Hayes"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Chambers",
+        "nm": 150379,
+        "roles": [
+          {
+            "char": "Tara"
+          }
+        ]
+      },
+      {
+        "name": "Renee Unsworth",
+        "nm": 4175744,
+        "roles": [
+          {
+            "char": "Sheree"
+          }
+        ]
+      },
+      {
+        "name": "Vanessa Ready",
+        "nm": 713963,
+        "roles": [
+          {
+            "char": "Dorothy"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Bennett",
+        "nm": 71727,
+        "roles": [
+          {
+            "char": "Governor"
+          }
+        ]
+      },
+      {
+        "name": "Broderick Smith",
+        "nm": 1306604,
+        "roles": [
+          {
+            "char": "Mick"
+          }
+        ]
+      },
+      {
+        "name": "Norman Hancock",
+        "nm": 1553600,
+        "roles": [
+          {
+            "char": "Detective"
+          }
+        ]
+      },
+      {
+        "name": "Valentina Levkowicz",
+        "nm": 506264,
+        "roles": [
+          {
+            "char": "Rose Lipski"
+          }
+        ]
+      },
+      {
+        "name": "Robin Dene",
+        "nm": 218961,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Paul Glen",
+        "nm": 322522,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "John Weldon",
+        "nm": 919732,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Bill Kolivas",
+        "nm": 1360002,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Marita Wilcox",
+        "nm": 928248,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Penny Schlam",
+        "nm": 772089,
+        "roles": [
+          {
+            "char": "Drinker"
+          }
+        ]
+      },
+      {
+        "name": "Wally Dalton",
+        "nm": 2378504,
+        "roles": [
+          {
+            "char": "Man In Pub"
+          }
+        ]
+      },
+      {
+        "name": "Lance Anderson",
+        "nm": 27050,
+        "roles": [
+          {
+            "char": "Man In Pub"
+          }
+        ]
+      },
+      {
+        "name": "Rainey Carah",
+        "nm": 135912,
+        "roles": [
+          {
+            "char": "Protection Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Shirley Wallace",
+        "nm": 908866,
+        "roles": [
+          {
+            "char": "Protection Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Szumai Anderson",
+        "nm": 27489,
+        "roles": [
+          {
+            "char": "Protection Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Ian Mall",
+        "nm": 539840,
+        "roles": [
+          {
+            "char": "FOSTU Police"
+          }
+        ]
+      },
+      {
+        "name": "Graham Jahne",
+        "nm": 415725,
+        "roles": [
+          {
+            "char": "FOSTU Police"
+          }
+        ]
+      },
+      {
+        "name": "Trevor Welsh",
+        "nm": 920606,
+        "roles": [
+          {
+            "char": "FOSTU Police"
+          }
+        ]
+      },
+      {
+        "name": "Davin Taylor",
+        "nm": 852235,
+        "roles": [
+          {
+            "char": "FOSTU Police"
+          }
+        ]
+      },
+      {
+        "name": "Tracey Mall",
+        "nm": 539845,
+        "roles": [
+          {
+            "char": "Constable"
+          }
+        ]
+      },
+      {
+        "name": "Michael McCusker",
+        "nm": 5939402,
+        "roles": [
+          {
+            "char": "Tara's Baby"
+          }
+        ]
+      },
+      {
+        "name": "Leonie Fletcher",
+        "nm": 3525683,
+        "roles": [
+          {
+            "char": "Nancy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "My Learned Friend, Mr Hennessey",
+    "tt": 614612,
+    "air_date": "1995-02-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Simon Chilvers",
+        "nm": 157674,
+        "roles": [
+          {
+            "char": "Magistrate Shearer"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Tasos Petousis",
+        "nm": 677734,
+        "roles": [
+          {
+            "char": "Con Gogos"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Isgar",
+        "nm": 410841,
+        "roles": [
+          {
+            "char": "Meares"
+          }
+        ]
+      },
+      {
+        "name": "Glen Hogstrom",
+        "nm": 4176722,
+        "roles": [
+          {
+            "char": "Snr Constable Elliot"
+          }
+        ]
+      },
+      {
+        "name": "John Harvie Morris",
+        "nm": 2684656,
+        "roles": [
+          {
+            "char": "Snr Constable Baxter"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Pease",
+        "nm": 669451,
+        "roles": [
+          {
+            "char": "Cameron"
+          }
+        ]
+      },
+      {
+        "name": "Christine Stephen-Daly",
+        "nm": 826948,
+        "roles": [
+          {
+            "char": "Gilda"
+          }
+        ]
+      },
+      {
+        "name": "Emily Westmore",
+        "nm": 2232894,
+        "roles": [
+          {
+            "char": "Liz"
+          }
+        ]
+      },
+      {
+        "name": "Phil Sumner",
+        "nm": 838892,
+        "roles": [
+          {
+            "char": "Allenby"
+          }
+        ]
+      },
+      {
+        "name": "Daryl Pellizzer",
+        "nm": 671224,
+        "roles": [
+          {
+            "char": "Herlihy"
+          }
+        ]
+      },
+      {
+        "name": "Scott Meneilly",
+        "nm": 1827071,
+        "roles": [
+          {
+            "char": "Driver"
+          }
+        ]
+      },
+      {
+        "name": "Fabiola Pantea",
+        "nm": 659810,
+        "roles": [
+          {
+            "char": "Debra"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Williams",
+        "nm": 1270902,
+        "roles": [
+          {
+            "char": "Process Server"
+          }
+        ]
+      },
+      {
+        "name": "Gary Baad",
+        "nm": 2163691,
+        "roles": [
+          {
+            "char": "Peter Prisoner",
+            "as Gary Baade": true
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Sutherland",
+        "nm": 2821836,
+        "roles": [
+          {
+            "char": "Magistrate Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Leonie Fletcher",
+        "nm": 3525683,
+        "roles": [
+          {
+            "char": "Nancy"
+          }
+        ]
+      },
+      {
+        "name": "Fille Dusseljee",
+        "nm": 4591171,
+        "roles": [
+          {
+            "char": "Court Person"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Angus",
+        "nm": 2091677,
+        "roles": [
+          {
+            "char": "Brenchley"
+          }
+        ]
+      },
+      {
+        "name": "Michael Hargreaves",
+        "nm": 362977,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Hoogenboom",
+        "nm": 2338209,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Chris Bidlo",
+        "nm": 81208,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Kyne Sedgman",
+        "nm": 781283,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Colin Mitchell",
+        "nm": 3822775,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Mark Villa-Racho",
+        "nm": 5945089,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Rafik Fahmy",
+        "nm": 5945090,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Cavanagh",
+        "nm": 5945091,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "Confess and Avoid",
+    "tt": 897117,
+    "air_date": "1995-03-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Daniel Grossman",
+            "ch": 104391
+          }
+        ]
+      },
+      {
+        "name": "Jane Menelaus",
+        "nm": 579448,
+        "roles": [
+          {
+            "char": "Jenny Hanson"
+          }
+        ]
+      },
+      {
+        "name": "Tamsin West",
+        "nm": 922357,
+        "roles": [
+          {
+            "char": "Lisa Prior"
+          }
+        ]
+      },
+      {
+        "name": "Richard Sutherland",
+        "nm": 840161,
+        "roles": [
+          {
+            "char": "Ian Bisley"
+          }
+        ]
+      },
+      {
+        "name": "Valentina Levkowicz",
+        "nm": 506264,
+        "roles": [
+          {
+            "char": "Rose Lipski"
+          }
+        ]
+      },
+      {
+        "name": "Robin Dene",
+        "nm": 218961,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Twigden",
+        "nm": 878568,
+        "roles": [
+          {
+            "char": "Sgt Kristin Bevic"
+          }
+        ]
+      },
+      {
+        "name": "Colwyn Roberts",
+        "nm": 730958,
+        "roles": [
+          {
+            "char": "Barry Bisley"
+          }
+        ]
+      },
+      {
+        "name": "Carole Yelland",
+        "nm": 947378,
+        "roles": [
+          {
+            "char": "Lorna Bisley"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Wright",
+        "nm": 942180,
+        "roles": [
+          {
+            "char": "Alec Robbins"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Brenchley",
+        "nm": 1553426,
+        "roles": [
+          {
+            "char": "Mrs. Prior"
+          }
+        ]
+      },
+      {
+        "name": "Mark Cutler",
+        "nm": 193941,
+        "roles": [
+          {
+            "char": "Suart Salmon"
+          }
+        ]
+      },
+      {
+        "name": "Bradley Croft",
+        "nm": 188458,
+        "roles": [
+          {
+            "char": "Gary Shey"
+          }
+        ]
+      },
+      {
+        "name": "David Glazebrook",
+        "nm": 322217,
+        "roles": [
+          {
+            "char": "Steve"
+          }
+        ]
+      },
+      {
+        "name": "Brad Lindsay",
+        "nm": 512188,
+        "roles": [
+          {
+            "char": "Attendant"
+          }
+        ]
+      },
+      {
+        "name": "Les Toth",
+        "nm": 869341,
+        "roles": [
+          {
+            "char": "Prison Officer",
+            "as Leslie Toth": true
+          }
+        ]
+      },
+      {
+        "name": "Ian Salt",
+        "nm": 4182732,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Galati",
+        "nm": 1486630,
+        "roles": [
+          {
+            "char": "Girl"
+          }
+        ]
+      },
+      {
+        "name": "Tina Micallef",
+        "nm": 4165358,
+        "roles": [
+          {
+            "char": "Girl"
+          }
+        ]
+      },
+      {
+        "name": "James Scott",
+        "nm": 1134653,
+        "roles": [
+          {
+            "char": "Jury Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Marijke Mann",
+        "nm": 542874,
+        "roles": [
+          {
+            "char": "Mrs. Cody"
+          }
+        ]
+      },
+      {
+        "name": "Mark Silveira",
+        "nm": 798613,
+        "roles": [
+          {
+            "char": "Dr. Paros"
+          }
+        ]
+      },
+      {
+        "name": "Matilda White",
+        "nm": 1295495,
+        "roles": [
+          {
+            "char": "Judy Prior"
+          }
+        ]
+      },
+      {
+        "name": "Paul Karo",
+        "nm": 439857,
+        "roles": [
+          {
+            "char": "Mr. Hoy"
+          }
+        ]
+      },
+      {
+        "name": "Steve Lane",
+        "nm": 1269131,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Leonie Fletcher",
+        "nm": 3525683,
+        "roles": [
+          {
+            "char": "Nancy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "A Prima Facie Case",
+    "tt": 897116,
+    "air_date": "1995-03-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Jane Menelaus",
+        "nm": 579448,
+        "roles": [
+          {
+            "char": "Jenny Hanson"
+          }
+        ]
+      },
+      {
+        "name": "David Bradshaw",
+        "nm": 103479,
+        "roles": [
+          {
+            "char": "Andrew 'Fluff' Saunders",
+            "ch": 245204
+          }
+        ]
+      },
+      {
+        "name": "Steven Vidler",
+        "nm": 896509,
+        "roles": [
+          {
+            "char": "Danny Wyatt",
+            "ch": 146760,
+            "as Steve Vidler": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Leon Teague",
+        "nm": 853545,
+        "roles": [
+          {
+            "char": "Steve Hennessey",
+            "ch": 104393
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Jack Finsterer",
+        "nm": 278355,
+        "roles": [
+          {
+            "char": "Bronowski",
+            "ch": 291995
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Vince D'Amico",
+        "nm": 195167,
+        "roles": [
+          {
+            "char": "Harry"
+          }
+        ]
+      },
+      {
+        "name": "Sasha Close",
+        "nm": 167107,
+        "roles": [
+          {
+            "char": "Shelley"
+          }
+        ]
+      },
+      {
+        "name": "Simon Woodward",
+        "nm": 940992,
+        "roles": [
+          {
+            "char": "Max"
+          }
+        ]
+      },
+      {
+        "name": "Peter Green",
+        "nm": 338237,
+        "roles": [
+          {
+            "char": "Magnus"
+          }
+        ]
+      },
+      {
+        "name": "Iain Murton",
+        "nm": 615459,
+        "roles": [
+          {
+            "char": "Pathologist"
+          }
+        ]
+      },
+      {
+        "name": "Beverley Evans",
+        "nm": 262563,
+        "roles": [
+          {
+            "char": "Sandy Quinn"
+          }
+        ]
+      },
+      {
+        "name": "Megan Rees",
+        "nm": 715938,
+        "roles": [
+          {
+            "char": "Kirsten"
+          }
+        ]
+      },
+      {
+        "name": "Darren Mort",
+        "nm": 1813307,
+        "roles": [
+          {
+            "char": "Detective Miriklis"
+          }
+        ]
+      },
+      {
+        "name": "James Wardlaw",
+        "nm": 912033,
+        "roles": [
+          {
+            "char": "Tom Draffin"
+          }
+        ]
+      },
+      {
+        "name": "Fiona Todd",
+        "nm": 865167,
+        "roles": [
+          {
+            "char": "Margaret"
+          }
+        ]
+      },
+      {
+        "name": "Natalie Playford",
+        "nm": 2479680,
+        "roles": [
+          {
+            "char": "Ingrid"
+          }
+        ]
+      },
+      {
+        "name": "Shanyn Asmar",
+        "nm": 39554,
+        "roles": [
+          {
+            "char": "Annie"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Pickford",
+        "nm": 4177543,
+        "roles": [
+          {
+            "char": "Harold"
+          }
+        ]
+      },
+      {
+        "name": "Dawn Klingberg",
+        "nm": 459729,
+        "roles": [
+          {
+            "char": "Mrs. Snellan"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Dale",
+        "nm": 1035261,
+        "roles": [
+          {
+            "char": "Police Recruit"
+          }
+        ]
+      },
+      {
+        "name": "Brendon Wickham",
+        "nm": 4185863,
+        "roles": [
+          {
+            "char": "Police Recruit"
+          }
+        ]
+      },
+      {
+        "name": "Robert Haase",
+        "nm": 352068,
+        "roles": [
+          {
+            "char": "Police Recruit"
+          }
+        ]
+      },
+      {
+        "name": "James Woolcock",
+        "nm": 5946802,
+        "roles": [
+          {
+            "char": "Police Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Graham",
+        "nm": 2310606,
+        "roles": [
+          {
+            "char": "TV Journalist"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Demands with Menaces",
+    "tt": 614604,
+    "air_date": "1995-03-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Victoria Eagger",
+        "nm": 247082,
+        "roles": [
+          {
+            "char": "Rhonda Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Nique Needles",
+        "nm": 624141,
+        "roles": [
+          {
+            "char": "Darren Mack"
+          }
+        ]
+      },
+      {
+        "name": "Raj Sidhu",
+        "nm": 796589,
+        "roles": [
+          {
+            "char": "Zoglin"
+          }
+        ]
+      },
+      {
+        "name": "Steve Hardman",
+        "nm": 362470,
+        "roles": [
+          {
+            "char": "Elbow"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Jack Finsterer",
+        "nm": 278355,
+        "roles": [
+          {
+            "char": "Bronowski",
+            "ch": 291995
+          }
+        ]
+      },
+      {
+        "name": "Terry Brittingham",
+        "nm": 110150,
+        "roles": [
+          {
+            "char": "Prison Liason Officer"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Scully",
+        "nm": 780299,
+        "roles": [
+          {
+            "char": "Cruthers",
+            "as Stephen Sculley": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Bentham",
+        "nm": 2776498,
+        "roles": [
+          {
+            "char": "Josh"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Fuller",
+        "nm": 1370711,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Nathan King",
+        "nm": 455094,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "George Novak",
+        "nm": 636844,
+        "roles": [
+          {
+            "char": "Prison Van Driver"
+          }
+        ]
+      },
+      {
+        "name": "Richard Cordner",
+        "nm": 179605,
+        "roles": [
+          {
+            "char": "Emu 1"
+          }
+        ]
+      },
+      {
+        "name": "Chris Wilson",
+        "nm": 933177,
+        "roles": [
+          {
+            "char": "Emu 2"
+          }
+        ]
+      },
+      {
+        "name": "Ross Mueller",
+        "nm": 611105,
+        "roles": [
+          {
+            "char": "Prisoner on Phone"
+          }
+        ]
+      },
+      {
+        "name": "Madeleine Swain",
+        "nm": 1813718,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Soula Alexander",
+        "nm": 1051218,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Leonie Fletcher",
+        "nm": 3525683,
+        "roles": [
+          {
+            "char": "Nancy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Fit to Plead",
+    "tt": 614607,
+    "air_date": "1995-03-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertrum",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "David Ngoombujarra",
+        "nm": 628954,
+        "roles": [
+          {
+            "char": "Ray"
+          }
+        ]
+      },
+      {
+        "name": "Glenda Linscott",
+        "nm": 513140,
+        "roles": [
+          {
+            "char": "Kathy Tainsh"
+          }
+        ]
+      },
+      {
+        "name": "Nique Needles",
+        "nm": 624141,
+        "roles": [
+          {
+            "char": "Darren Mack"
+          }
+        ]
+      },
+      {
+        "name": "Alex Scott",
+        "nm": 778808,
+        "roles": [
+          {
+            "char": "Judge Dalgarno"
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Victoria Eagger",
+        "nm": 247082,
+        "roles": [
+          {
+            "char": "Rhonda Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Daniel Grossman",
+            "ch": 104391
+          }
+        ]
+      },
+      {
+        "name": "Leo Taylor",
+        "nm": 852765,
+        "roles": [
+          {
+            "char": "Senior Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Valentina Levkowicz",
+        "nm": 506264,
+        "roles": [
+          {
+            "char": "Rose Lipski"
+          }
+        ]
+      },
+      {
+        "name": "Robin Dene",
+        "nm": 218961,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Iva Tora",
+        "nm": 4185645,
+        "roles": [
+          {
+            "char": "June Crundall"
+          }
+        ]
+      },
+      {
+        "name": "Ernie Gray",
+        "nm": 336613,
+        "roles": [
+          {
+            "char": "Professor Manders"
+          }
+        ]
+      },
+      {
+        "name": "Alex Menglet",
+        "nm": 579595,
+        "roles": [
+          {
+            "char": "Doctor Rogers"
+          }
+        ]
+      },
+      {
+        "name": "Denzil Howson",
+        "nm": 398270,
+        "roles": [
+          {
+            "char": "Leo"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Evans",
+        "nm": 263275,
+        "roles": [
+          {
+            "char": "Cummins"
+          }
+        ]
+      },
+      {
+        "name": "Trevor Wight",
+        "nm": 2767082,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Rafferty",
+        "nm": 4178061,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Bayliss",
+        "nm": 63106,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Susan J. Arnold",
+        "nm": 36642,
+        "roles": [
+          {
+            "char": "Police Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "George Novak",
+        "nm": 636844,
+        "roles": [
+          {
+            "char": "Prison Van Driver"
+          }
+        ]
+      },
+      {
+        "name": "Stan Dryden",
+        "nm": 1507755,
+        "roles": [
+          {
+            "char": "Andy"
+          }
+        ]
+      },
+      {
+        "name": "Kyle Vander-Kuyp",
+        "nm": 4187488,
+        "roles": [
+          {
+            "char": "Attacked Inmate"
+          }
+        ]
+      },
+      {
+        "name": "Colin McKinnon",
+        "nm": 3854848,
+        "roles": [
+          {
+            "char": "Staff Member"
+          }
+        ]
+      },
+      {
+        "name": "Darren Smith",
+        "nm": 1792072,
+        "roles": [
+          {
+            "char": "Staff Member"
+          }
+        ]
+      },
+      {
+        "name": "Paul Silcock",
+        "nm": 5953844,
+        "roles": [
+          {
+            "char": "Paul Menoti"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Cox",
+        "nm": 185034,
+        "roles": [
+          {
+            "char": "Roberts"
+          }
+        ]
+      },
+      {
+        "name": "Doug Dew",
+        "nm": 223013,
+        "roles": [
+          {
+            "char": "Jury Foreman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Breach of Bond",
+    "tt": 614602,
+    "air_date": "1995-03-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertrum",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Ezra Bix",
+        "nm": 1309432,
+        "roles": [
+          {
+            "char": "Mark Noble"
+          }
+        ]
+      },
+      {
+        "name": "Johnathon Kernutt",
+        "nm": 449609,
+        "roles": [
+          {
+            "char": "Shane Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Maude Davey",
+        "nm": 202739,
+        "roles": [
+          {
+            "char": "Leslie Keilor"
+          }
+        ]
+      },
+      {
+        "name": "Tasos Petousis",
+        "nm": 677734,
+        "roles": [
+          {
+            "char": "Con Gogos"
+          }
+        ]
+      },
+      {
+        "name": "Dan Reaper",
+        "nm": 1772902,
+        "roles": [
+          {
+            "char": "Spiers"
+          }
+        ]
+      },
+      {
+        "name": "Martin Sharman",
+        "nm": 788943,
+        "roles": [
+          {
+            "char": "Chris"
+          }
+        ]
+      },
+      {
+        "name": "Debra Low",
+        "nm": 3868247,
+        "roles": [
+          {
+            "char": "Lindy"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Kilpatrick",
+        "nm": 453288,
+        "roles": [
+          {
+            "char": "Peach"
+          }
+        ]
+      },
+      {
+        "name": "Tania Bosak",
+        "nm": 97713,
+        "roles": [
+          {
+            "char": "Sophie Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Moira Claux",
+        "nm": 165374,
+        "roles": [
+          {
+            "char": "Helena Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Luigi Cengarle",
+        "nm": 148267,
+        "roles": [
+          {
+            "char": "Leo Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Adriana Frosi-Petersen",
+        "nm": 296453,
+        "roles": [
+          {
+            "char": "Mama Forzi"
+          }
+        ]
+      },
+      {
+        "name": "Mario Lenzi",
+        "nm": 502386,
+        "roles": [
+          {
+            "char": "Pap Forzi"
+          }
+        ]
+      },
+      {
+        "name": "Anita Smith",
+        "nm": 148509,
+        "roles": [
+          {
+            "char": "Renata Forzi",
+            "as Anita Cerdic": true
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Kadmos",
+        "nm": 4184380,
+        "roles": [
+          {
+            "char": "George Ionnides"
+          }
+        ]
+      },
+      {
+        "name": "Bob Halsall",
+        "nm": 357006,
+        "roles": [
+          {
+            "char": "Keith Norton"
+          }
+        ]
+      },
+      {
+        "name": "George Ginis",
+        "nm": 1246386,
+        "roles": [
+          {
+            "char": "Galanis"
+          }
+        ]
+      },
+      {
+        "name": "Jim Ewing",
+        "nm": 263971,
+        "roles": [
+          {
+            "char": "Senior Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Michael Kuzilney",
+        "nm": 4178212,
+        "roles": [
+          {
+            "char": "Constable 1"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Baker",
+        "nm": 2973705,
+        "roles": [
+          {
+            "char": "Constable 2"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Ricci",
+        "nm": 2114028,
+        "roles": [
+          {
+            "char": "Glenda's Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Richie Akers",
+        "nm": 15217,
+        "roles": [
+          {
+            "char": "Owner"
+          }
+        ]
+      },
+      {
+        "name": "Richard Moss",
+        "nm": 609069,
+        "roles": [
+          {
+            "char": "Magistrate"
+          }
+        ]
+      },
+      {
+        "name": "Michael Seymour",
+        "nm": 786855,
+        "roles": [
+          {
+            "char": "PSO"
+          }
+        ]
+      },
+      {
+        "name": "Tracy Bourne",
+        "nm": 4177852,
+        "roles": [
+          {
+            "char": "Magistrate's Clerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "An Unnatural Act",
+    "tt": 614601,
+    "air_date": "1995-04-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Tracy Mann",
+        "nm": 543006,
+        "roles": [
+          {
+            "char": "Tina Bertrum",
+            "ch": 240378
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Daniel Grossman",
+            "ch": 104391
+          }
+        ]
+      },
+      {
+        "name": "Jack Finsterer",
+        "nm": 278355,
+        "roles": [
+          {
+            "char": "Bronowski",
+            "ch": 291995
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Tasos Petousis",
+        "nm": 677734,
+        "roles": [
+          {
+            "char": "Con Gogos"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Pepe Trevor",
+        "nm": 872479,
+        "roles": [
+          {
+            "char": "Sandy"
+          }
+        ]
+      },
+      {
+        "name": "Rabbi Heilbrunn",
+        "nm": 4185106,
+        "roles": [
+          {
+            "char": "Rabbi"
+          }
+        ]
+      },
+      {
+        "name": "Gary Kliger",
+        "nm": 459462,
+        "roles": [
+          {
+            "char": "Simmons"
+          }
+        ]
+      },
+      {
+        "name": "George Prataris",
+        "nm": 695330,
+        "roles": [
+          {
+            "char": "Walter Grozka"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Rowland",
+        "nm": 746751,
+        "roles": [
+          {
+            "char": "Michelle Grozka"
+          }
+        ]
+      },
+      {
+        "name": "Leah de Niese",
+        "nm": 210545,
+        "roles": [
+          {
+            "char": "Evie"
+          }
+        ]
+      },
+      {
+        "name": "Jane Longhurst",
+        "nm": 1456965,
+        "roles": [
+          {
+            "char": "Alex Lawrence"
+          }
+        ]
+      },
+      {
+        "name": "Robert Morgan",
+        "nm": 604989,
+        "roles": [
+          {
+            "char": "Jackson"
+          }
+        ]
+      },
+      {
+        "name": "Ian De Lacy",
+        "nm": 209460,
+        "roles": [
+          {
+            "char": "Burbage"
+          }
+        ]
+      },
+      {
+        "name": "Beth Child",
+        "nm": 157452,
+        "roles": [
+          {
+            "char": "Janet Darnley"
+          }
+        ]
+      },
+      {
+        "name": "Sancia Robinson",
+        "nm": 733072,
+        "roles": [
+          {
+            "char": "Denise"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Carter",
+        "nm": 141503,
+        "roles": [
+          {
+            "char": "Justice Short"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Crowley",
+        "nm": 189710,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Tim Homewood",
+        "nm": 2822563,
+        "roles": [
+          {
+            "char": "Prison Officer 1"
+          }
+        ]
+      },
+      {
+        "name": "Robbie MacFarlane",
+        "nm": 532233,
+        "roles": [
+          {
+            "char": "Prison Officer 2"
+          }
+        ]
+      },
+      {
+        "name": "Damien Richardson",
+        "nm": 724483,
+        "roles": [
+          {
+            "char": "Gazza"
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Bock",
+        "nm": 90638,
+        "roles": [
+          {
+            "char": "TV Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Horton",
+        "nm": 3911160,
+        "roles": [
+          {
+            "char": "Dominic"
+          }
+        ]
+      },
+      {
+        "name": "Ian Lamm",
+        "nm": 4177665,
+        "roles": [
+          {
+            "char": "SAP Constable"
+          },
+          {
+            "char": "Driver"
+          }
+        ]
+      },
+      {
+        "name": "Russell Frost",
+        "nm": 296564,
+        "roles": [
+          {
+            "char": "Pat Clancy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "Mute by Visitation",
+    "tt": 897118,
+    "air_date": "1995-04-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Jane Menelaus",
+        "nm": 579448,
+        "roles": [
+          {
+            "char": "Jenny Hanson"
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Denis Moore",
+        "nm": 601114,
+        "roles": [
+          {
+            "char": "Daniel Grossman",
+            "ch": 104391
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Danni Wright",
+        "nm": 2402770,
+        "roles": [
+          {
+            "char": "Colleen Maitland"
+          }
+        ]
+      },
+      {
+        "name": "Anna Hruby",
+        "nm": 398663,
+        "roles": [
+          {
+            "char": "Madelaine Conner"
+          }
+        ]
+      },
+      {
+        "name": "Michael Canfield",
+        "nm": 1826964,
+        "roles": [
+          {
+            "char": "Tim Lester"
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Damien Richardson",
+        "nm": 724483,
+        "roles": [
+          {
+            "char": "Gazza"
+          }
+        ]
+      },
+      {
+        "name": "Jill Fernandez",
+        "nm": 4184321,
+        "roles": [
+          {
+            "char": "Interpreter"
+          }
+        ]
+      },
+      {
+        "name": "Robin Cuming",
+        "nm": 191799,
+        "roles": [
+          {
+            "char": "Boz"
+          }
+        ]
+      },
+      {
+        "name": "Richard Moss",
+        "nm": 609069,
+        "roles": [
+          {
+            "char": "Magistrate"
+          }
+        ]
+      },
+      {
+        "name": "Susan J. Arnold",
+        "nm": 36642,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Ellis Ebell",
+        "nm": 2241633,
+        "roles": [
+          {
+            "char": "Bail Justice"
+          }
+        ]
+      },
+      {
+        "name": "Ian Toyne",
+        "nm": 2143914,
+        "roles": [
+          {
+            "char": "Police Officer"
+          }
+        ]
+      },
+      {
+        "name": "David Adamson",
+        "nm": 11481,
+        "roles": [
+          {
+            "char": "Damian Lester"
+          }
+        ]
+      },
+      {
+        "name": "Annie Mangan",
+        "nm": 4187851,
+        "roles": [
+          {
+            "char": "Tim's Friend"
+          }
+        ]
+      },
+      {
+        "name": "Gavin Hately",
+        "nm": 4183771,
+        "roles": [
+          {
+            "char": "Tim's Friend"
+          }
+        ]
+      },
+      {
+        "name": "Vivianne Benton",
+        "nm": 72978,
+        "roles": [
+          {
+            "char": "Mrs. Lester"
+          }
+        ]
+      },
+      {
+        "name": "Noel Mason",
+        "nm": 3509310,
+        "roles": [
+          {
+            "char": "James"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Crowl",
+        "nm": 189702,
+        "roles": [
+          {
+            "char": "Jury Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Donald Hirst",
+        "nm": 1456547,
+        "roles": [
+          {
+            "char": "Vince"
+          }
+        ]
+      },
+      {
+        "name": "Leonie Fletcher",
+        "nm": 3525683,
+        "roles": [
+          {
+            "char": "DPP Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Regina Campbell",
+        "nm": 2714037,
+        "roles": [
+          {
+            "char": "Friend at Party"
+          }
+        ]
+      },
+      {
+        "name": "David Thomas",
+        "nm": 858701,
+        "roles": [
+          {
+            "char": "Friend at Party"
+          }
+        ]
+      },
+      {
+        "name": "Jessica McKenzie",
+        "nm": 571544,
+        "roles": [
+          {
+            "char": "Friend at Party"
+          }
+        ]
+      },
+      {
+        "name": "Belinda Hately",
+        "nm": 4186156,
+        "roles": [
+          {
+            "char": "Interpreter"
+          }
+        ]
+      },
+      {
+        "name": "Sally Stamm",
+        "nm": 4177686,
+        "roles": [
+          {
+            "char": "Interpreter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "Elements of Murder",
+    "tt": 614605,
+    "air_date": "1995-04-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Chris Haywood",
+        "nm": 371824,
+        "roles": [
+          {
+            "char": "Michael Kidd",
+            "ch": 75914
+          }
+        ]
+      },
+      {
+        "name": "Simon Westaway",
+        "nm": 922419,
+        "roles": [
+          {
+            "char": "Peter Faithful",
+            "ch": 104390
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Kewley",
+        "nm": 450714,
+        "roles": [
+          {
+            "char": "Vic Manoulis",
+            "ch": 75915
+          }
+        ]
+      },
+      {
+        "name": "Felix Nobis",
+        "nm": 633534,
+        "roles": [
+          {
+            "char": "Rob Griffin",
+            "ch": 291996
+          }
+        ]
+      },
+      {
+        "name": "Leverne McDonnell",
+        "nm": 568113,
+        "roles": [
+          {
+            "char": "Jan Murray"
+          }
+        ]
+      },
+      {
+        "name": "Pauline Terry-Beitz",
+        "nm": 856100,
+        "roles": [
+          {
+            "char": "Shirl Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Brett Swain",
+        "nm": 841467,
+        "roles": [
+          {
+            "char": "Mal Hennessey",
+            "ch": 104392
+          }
+        ]
+      },
+      {
+        "name": "Belinda McClory",
+        "nm": 565883,
+        "roles": [
+          {
+            "char": "Kirsty Nichols"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Eagger",
+        "nm": 247082,
+        "roles": [
+          {
+            "char": "Rhonda Hennessey"
+          }
+        ]
+      },
+      {
+        "name": "Louise Siversen",
+        "nm": 803380,
+        "roles": [
+          {
+            "char": "Glenda De Bono",
+            "ch": 333058
+          }
+        ]
+      },
+      {
+        "name": "Steven Vidler",
+        "nm": 896509,
+        "roles": [
+          {
+            "char": "Danny Wyatt",
+            "ch": 146760
+          }
+        ]
+      },
+      {
+        "name": "Christopher Lee",
+        "nm": 1162065,
+        "roles": [
+          {
+            "char": "Griffo"
+          }
+        ]
+      },
+      {
+        "name": "Pepe Trevor",
+        "nm": 872479,
+        "roles": [
+          {
+            "char": "Sandy"
+          }
+        ]
+      },
+      {
+        "name": "Damien Richardson",
+        "nm": 724483,
+        "roles": [
+          {
+            "char": "Gazza"
+          }
+        ]
+      },
+      {
+        "name": "Trevor Major",
+        "nm": 538223,
+        "roles": [
+          {
+            "char": "Neville Tomlinson",
+            "ch": 372966
+          }
+        ]
+      },
+      {
+        "name": "Greg Saunders",
+        "nm": 766811,
+        "roles": [
+          {
+            "char": "Warren"
+          }
+        ]
+      },
+      {
+        "name": "Russell Fletcher",
+        "nm": 282104,
+        "roles": [
+          {
+            "char": "PSG Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Peter Costigan",
+        "nm": 182692,
+        "roles": [
+          {
+            "char": "Drug Squad Detective"
+          }
+        ]
+      },
+      {
+        "name": "George Fairfax",
+        "nm": 265565,
+        "roles": [
+          {
+            "char": "Deputy Commissioner"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Barry",
+        "nm": 57958,
+        "roles": [
+          {
+            "char": "Toby",
+            "as Chris Barry": true
+          }
+        ]
+      },
+      {
+        "name": "Alan Levy",
+        "nm": 506317,
+        "roles": [
+          {
+            "char": "Weigall"
+          }
+        ]
+      },
+      {
+        "name": "James Patrick",
+        "nm": 665862,
+        "roles": [
+          {
+            "char": "Neil Winder"
+          }
+        ]
+      },
+      {
+        "name": "Richard Moss",
+        "nm": 609069,
+        "roles": [
+          {
+            "char": "Magistrate"
+          }
+        ]
+      },
+      {
+        "name": "Michael Kuzilney",
+        "nm": 4178212,
+        "roles": [
+          {
+            "char": "Watch House Constable"
+          }
+        ]
+      },
+      {
+        "name": "Jason Blake",
+        "nm": 86582,
+        "roles": [
+          {
+            "char": "Prison Officer"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Cantlon",
+        "nm": 4187371,
+        "roles": [
+          {
+            "char": "Little Mickey"
+          }
+        ]
+      },
+      {
+        "name": "Russell Frost",
+        "nm": 296564,
+        "roles": [
+          {
+            "char": "Pat Clancy"
+          }
+        ]
+      },
+      {
+        "name": "Chris Bidlo",
+        "nm": 81208,
+        "roles": [
+          {
+            "char": "Rocky"
+          }
+        ]
+      },
+      {
+        "name": "Leonie Fletcher",
+        "nm": 3525683,
+        "roles": [
+          {
+            "char": "Nancy"
+          }
+        ]
+      },
+      {
+        "name": "Chris Peters",
+        "nm": 676363,
+        "roles": [
+          {
+            "char": "Drug Squad Det. Sgt"
+          }
+        ]
+      },
+      {
+        "name": "Chris Wilson",
+        "nm": 933177,
+        "roles": [
+          {
+            "char": "Drug Squad Detective"
+          }
+        ]
+      },
+      {
+        "name": "George Novak",
+        "nm": 636844,
+        "roles": [
+          {
+            "char": "Drug Squad Detective"
+          }
+        ]
+      }
+    ]
+  }
+]

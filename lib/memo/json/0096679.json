@@ -1,0 +1,7288 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Page One",
+    "tt": 678023,
+    "air_date": "1989-01-16",
+    "description": "As the first edition of the Junior Gazette nears publication, Lynda, the Editor, and the rebellious Spike are thrown into contention over what story should be used for their front page.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Chrissie Stuart",
+            "ch": 81129
+          }
+        ]
+      },
+      {
+        "name": "Roger Sloman",
+        "nm": 806149,
+        "roles": [
+          {
+            "char": "Mr. Vader"
+          }
+        ]
+      },
+      {
+        "name": "Jim Dunk",
+        "nm": 242319,
+        "roles": [
+          {
+            "char": "Jack Slade"
+          }
+        ]
+      },
+      {
+        "name": "Simon Embleton",
+        "nm": 1835497,
+        "roles": [
+          {
+            "char": "Godfrey Hunter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Photo Finish",
+    "tt": 678024,
+    "air_date": "1989-01-23",
+    "description": "Spike has the lead story but Linda wants more. Colin gets a phone.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Chrissie Stuart",
+            "ch": 81129
+          }
+        ]
+      },
+      {
+        "name": "Peter Childs",
+        "nm": 157581,
+        "roles": [
+          {
+            "char": "Czar"
+          }
+        ]
+      },
+      {
+        "name": "Andy Cochrane",
+        "nm": 1836077,
+        "roles": [
+          {
+            "char": "Andy"
+          }
+        ]
+      },
+      {
+        "name": "Gary Bridges",
+        "nm": 1791216,
+        "roles": [
+          {
+            "char": "Terry"
+          }
+        ]
+      },
+      {
+        "name": "Sandra Voe",
+        "nm": 900806,
+        "roles": [
+          {
+            "char": "Amanda Swanson"
+          }
+        ]
+      },
+      {
+        "name": "Mike Hayward",
+        "nm": 371781,
+        "roles": [
+          {
+            "char": "Supermarket Manager"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "One Easy Lesson",
+    "tt": 678022,
+    "air_date": "1989-01-30",
+    "description": "Sarah tries to help the new teacher, not always successfully. Colin introduces the \"Ping\".",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Adrian Edmondson",
+        "nm": 249528,
+        "roles": [
+          {
+            "char": "Simon Knowles"
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Chrissie Stuart",
+            "ch": 81129
+          }
+        ]
+      },
+      {
+        "name": "Miranda Forbes",
+        "nm": 285384,
+        "roles": [
+          {
+            "char": "Miss Hessope",
+            "ch": 82252
+          }
+        ]
+      },
+      {
+        "name": "David Collings",
+        "nm": 172059,
+        "roles": [
+          {
+            "char": "Mr. Winters",
+            "ch": 50858
+          }
+        ]
+      },
+      {
+        "name": "Michelle Akers",
+        "nm": 1074423,
+        "roles": [
+          {
+            "char": "New Recruit"
+          }
+        ]
+      },
+      {
+        "name": "Ian Congdon",
+        "nm": 498505,
+        "roles": [
+          {
+            "char": "Graham"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Kipling",
+        "nm": 1527930,
+        "roles": [
+          {
+            "char": "Roy"
+          }
+        ]
+      },
+      {
+        "name": "Simon Davison",
+        "nm": 205756,
+        "roles": [
+          {
+            "char": "Boy in Class"
+          }
+        ]
+      },
+      {
+        "name": "Jenny Simpson",
+        "nm": 1813635,
+        "roles": [
+          {
+            "char": "Girl"
+          }
+        ]
+      },
+      {
+        "name": "Kemlesh Gupta",
+        "nm": 1835508,
+        "roles": [
+          {
+            "char": "Boy"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Ashforde",
+        "nm": 38942,
+        "roles": [
+          {
+            "char": "Member of News Team",
+            "ch": 144687,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Lee Macdonald",
+        "nm": 531828,
+        "roles": [
+          {
+            "char": "Boy in Class",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Deadline",
+    "tt": 678006,
+    "air_date": "1989-02-06",
+    "description": "A printer's strike. But they can print the Gazette early - if they can predict next week's news. Can Colin get the picture?",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Jim Sweeney",
+        "nm": 842132,
+        "roles": [
+          {
+            "char": "Tommy Anderson"
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Tristan Maguire",
+        "nm": 1813164,
+        "roles": [
+          {
+            "char": "Gary Morris"
+          }
+        ]
+      },
+      {
+        "name": "Helena McCarthy",
+        "nm": 565151,
+        "roles": [
+          {
+            "char": "Colin's Aunt"
+          }
+        ]
+      },
+      {
+        "name": "Alison Sterling",
+        "nm": 827477,
+        "roles": [
+          {
+            "char": "Mr. Sullivan's Date"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Ashforde",
+        "nm": 38942,
+        "roles": [
+          {
+            "char": "Member of News Team",
+            "ch": 144687,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "A Night in",
+    "tt": 764177,
+    "air_date": "1989-02-13",
+    "description": "Spike & Linda on the night shift. Spike cooks up a surprise, Linda feels awkward, Tiddler takes notes. Colin wants to impress but he should choose his wardrobe with care.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Interface",
+    "tt": 678016,
+    "air_date": "1989-02-20",
+    "description": "When someone begins to send in anonymous TV Reviews on the Gazette's brand new Computer with the use of Internet Technology, Lynda is determined to find out who the mystery writer is.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Andy Crowe",
+        "nm": 189602,
+        "roles": [
+          {
+            "char": "Billy Homer",
+            "ch": 82255
+          }
+        ]
+      },
+      {
+        "name": "Duncan Preston",
+        "nm": 696410,
+        "roles": [
+          {
+            "char": "Douglas Homer"
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Chrissie Stuart",
+            "ch": 81129
+          }
+        ]
+      },
+      {
+        "name": "Miranda Forbes",
+        "nm": 285384,
+        "roles": [
+          {
+            "char": "Miss Hessope",
+            "ch": 82252
+          }
+        ]
+      },
+      {
+        "name": "Jon Raymond",
+        "nm": 1624331,
+        "roles": [
+          {
+            "char": "Punk"
+          }
+        ]
+      },
+      {
+        "name": "Margo Boht",
+        "nm": 92189,
+        "roles": [
+          {
+            "char": "Old Lady"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Chater",
+        "nm": 1669829,
+        "roles": [
+          {
+            "char": "Large Boy"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Ashforde",
+        "nm": 38942,
+        "roles": [
+          {
+            "char": "Member of News Team",
+            "ch": 144687,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "How to Make a Killing",
+    "tt": 678013,
+    "air_date": "1989-02-27",
+    "description": "Kenny is determined to discover why a girl draws chalk outlines of a body outside the same block of flats once a month, believing it could be a good story for the Junior Gazette.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Sadie Frost",
+        "nm": 1244,
+        "roles": [
+          {
+            "char": "Jenny Eliot",
+            "ch": 82262
+          }
+        ]
+      },
+      {
+        "name": "Andy Crowe",
+        "nm": 189602,
+        "roles": [
+          {
+            "char": "Billy Homer",
+            "ch": 82255
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Chrissie Stuart",
+            "ch": 81129
+          }
+        ]
+      },
+      {
+        "name": "Maria McErlane",
+        "nm": 568522,
+        "roles": [
+          {
+            "char": "Maria - Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Clare Louise Hearndon",
+        "nm": 372518,
+        "roles": [
+          {
+            "char": "Laura",
+            "as Claire Hearnden": true
+          }
+        ]
+      },
+      {
+        "name": "Barry Foy",
+        "nm": 289379,
+        "roles": [
+          {
+            "char": "Kevo",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "How to Make a Killing: Part 2",
+    "tt": 678014,
+    "air_date": "1989-03-06",
+    "description": "Following Kenny's departure, Lynda is forced to appoint Spike as her new Assistant Editor. Meanwhile, Kenny continues to pursue the story, which leads him to a shocking discovery about the availability of solvents to minors.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Sadie Frost",
+        "nm": 1244,
+        "roles": [
+          {
+            "char": "Jenny Eliot",
+            "ch": 82262
+          }
+        ]
+      },
+      {
+        "name": "Andy Crowe",
+        "nm": 189602,
+        "roles": [
+          {
+            "char": "Billy Homer",
+            "ch": 82255
+          }
+        ]
+      },
+      {
+        "name": "Frank Ellis",
+        "nm": 7203,
+        "roles": [
+          {
+            "char": "Peter - Shopkeeper"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Ashforde",
+        "nm": 38942,
+        "roles": [
+          {
+            "char": "Member of News Team",
+            "ch": 144687,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Barry Foy",
+        "nm": 289379,
+        "roles": [
+          {
+            "char": "Kevo",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Rosie Marcel",
+        "nm": 545165,
+        "roles": [
+          {
+            "char": "Sophie",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Both Sides of the Paper",
+    "tt": 678002,
+    "air_date": "1989-03-13",
+    "description": "The Junior Gazette faces a crisis when an increasing number of people leave in the face of the looming mock exams, causing conflict between Sarah and Lynda.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Patrick Barlow",
+        "nm": 55271,
+        "roles": [
+          {
+            "char": "Phone Ranger"
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "David Collings",
+        "nm": 172059,
+        "roles": [
+          {
+            "char": "Mr. Winters",
+            "ch": 50858
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Church",
+        "nm": 161397,
+        "roles": [
+          {
+            "char": "Miss Trench",
+            "ch": 50859
+          }
+        ]
+      },
+      {
+        "name": "Sam Howard",
+        "nm": 397588,
+        "roles": [
+          {
+            "char": "Mr. Harvey"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Ashforde",
+        "nm": 38942,
+        "roles": [
+          {
+            "char": "Member of News Team",
+            "ch": 144687,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Barry Foy",
+        "nm": 289379,
+        "roles": [
+          {
+            "char": "Kevo",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Money, Love and Birdseed",
+    "tt": 678021,
+    "air_date": "1989-03-20",
+    "description": "Colin tries to rid the newsroom of an infestation of birds, Tiddler plays at match-maker between Lynda and Spike, whilst Sarah and Billy investigate the theft of £30 from the school judo club.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Ian Brimble",
+        "nm": 109407,
+        "roles": [
+          {
+            "char": "Mr. Prescott"
+          }
+        ]
+      },
+      {
+        "name": "Andy Crowe",
+        "nm": 189602,
+        "roles": [
+          {
+            "char": "Billy Homer",
+            "ch": 82255
+          }
+        ]
+      },
+      {
+        "name": "Warren Bryan",
+        "nm": 1812373,
+        "roles": [
+          {
+            "char": "Bobby Tweed"
+          }
+        ]
+      },
+      {
+        "name": "Horace Oliver",
+        "nm": 646860,
+        "roles": [
+          {
+            "char": "Keith Evans"
+          }
+        ]
+      },
+      {
+        "name": "Wayne Howard",
+        "nm": 1812895,
+        "roles": [
+          {
+            "char": "Ian Brown"
+          }
+        ]
+      },
+      {
+        "name": "Paul Varney",
+        "nm": 1476975,
+        "roles": [
+          {
+            "char": "Gerry Hardie"
+          }
+        ]
+      },
+      {
+        "name": "Penelope Nice",
+        "nm": 629297,
+        "roles": [
+          {
+            "char": "Lynda's Mother"
+          }
+        ]
+      },
+      {
+        "name": "Barry Foy",
+        "nm": 289379,
+        "roles": [
+          {
+            "char": "Kevo",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Monday - Tuesday",
+    "tt": 678020,
+    "air_date": "1989-04-03",
+    "description": "With the scene alternating between Monday and Tuesday, Lynda, Spike, Sarah and Kenny try to piece together what happened when a member of the Junior Gazette tried to blackmail Lynda, only for Lynda to stand up to him moments before tragedy occurred. In the meantime, Colin enlists Spike's help to successfully ask a girl out.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Alex Crockett",
+        "nm": 1812533,
+        "roles": [
+          {
+            "char": "David Jefford",
+            "ch": 82369
+          }
+        ]
+      },
+      {
+        "name": "Susie Lee Hayward",
+        "nm": 1836086,
+        "roles": [
+          {
+            "char": "Ethel Stuttgart",
+            "ch": 82370
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Chrissie Stuart",
+            "ch": 81129
+          }
+        ]
+      },
+      {
+        "name": "David Collings",
+        "nm": 172059,
+        "roles": [
+          {
+            "char": "Mr. Winters",
+            "ch": 50858
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Church",
+        "nm": 161397,
+        "roles": [
+          {
+            "char": "Miss Trench",
+            "ch": 50859
+          }
+        ]
+      },
+      {
+        "name": "Miranda Forbes",
+        "nm": 285384,
+        "roles": [
+          {
+            "char": "Miss Hessope",
+            "ch": 82252
+          }
+        ]
+      },
+      {
+        "name": "Barry Foy",
+        "nm": 289379,
+        "roles": [
+          {
+            "char": "Kevo",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Shouldn't I Be Taller?",
+    "tt": 678028,
+    "air_date": "1989-04-10",
+    "description": "Following on from \"Monday/Tuesday\", Colin and Kenny go head-to-head in a bid to be the new editor of the Junior Gazette, whilst Spike desperately searches for Lynda.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "nm": 187224,
+        "roles": [
+          {
+            "char": "Danny McColl",
+            "ch": 81110
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Andy Crowe",
+        "nm": 189602,
+        "roles": [
+          {
+            "char": "Billy Homer",
+            "ch": 82255
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Church",
+        "nm": 161397,
+        "roles": [
+          {
+            "char": "Miss Trench",
+            "ch": 50859
+          }
+        ]
+      },
+      {
+        "name": "Johanna Borman",
+        "nm": 1812341,
+        "roles": [
+          {
+            "char": "Sophie"
+          }
+        ]
+      },
+      {
+        "name": "Clare Louise Hearndon",
+        "nm": 372518,
+        "roles": [
+          {
+            "char": "Laura",
+            "as Claire Hearnden": true
+          }
+        ]
+      },
+      {
+        "name": "Penelope Nice",
+        "nm": 629297,
+        "roles": [
+          {
+            "char": "Lynda's Mother"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Ashforde",
+        "nm": 38942,
+        "roles": [
+          {
+            "char": "Member of News Team",
+            "ch": 144687,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Barry Foy",
+        "nm": 289379,
+        "roles": [
+          {
+            "char": "Kevo",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Breakfast at Czar's",
+    "tt": 678003,
+    "air_date": "1990-01-18",
+    "description": "When Lynda discovers that a Sports Centre she believed the Junior Gazette had saved from closure is actually closing, she decides to produce a whole new edition overnight. Meanwhile, Frazz experiences a remarkable amount of feedback on the accuracy of his horoscopes.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Chrissie Stuart",
+            "ch": 81129
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Siri Neal",
+        "nm": 623674,
+        "roles": [
+          {
+            "char": "Charlotte"
+          }
+        ]
+      },
+      {
+        "name": "Rosie Marcel",
+        "nm": 545165,
+        "roles": [
+          {
+            "char": "Sophie"
+          }
+        ]
+      },
+      {
+        "name": "Clare Louise Hearndon",
+        "nm": 372518,
+        "roles": [
+          {
+            "char": "Laura",
+            "as Claire Hearnden": true
+          }
+        ]
+      },
+      {
+        "name": "Raymond Sawyer",
+        "nm": 768205,
+        "roles": [
+          {
+            "char": "Peter Mayhew"
+          }
+        ]
+      },
+      {
+        "name": "Barry Foy",
+        "nm": 289379,
+        "roles": [
+          {
+            "char": "Kevo",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Picking Up the Pieces",
+    "tt": 678025,
+    "air_date": "1990-01-25",
+    "description": "Lynda tries to defend Spike when he is punished for beating up a sixth former, whilst Colin plans to use Frazz in a money-making scheme involving a Chess prodigy.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Abigail Docherty",
+        "nm": 1812595,
+        "roles": [
+          {
+            "char": "Suzy Norton",
+            "ch": 83022
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Janet Allen",
+        "nm": 20624,
+        "roles": [
+          {
+            "char": "Mrs. Phillips"
+          }
+        ]
+      },
+      {
+        "name": "Tessa Shaw",
+        "nm": 789998,
+        "roles": [
+          {
+            "char": "Librarian"
+          }
+        ]
+      },
+      {
+        "name": "Andre Thornton Grimes",
+        "nm": 342183,
+        "roles": [
+          {
+            "char": "Car Owner"
+          }
+        ]
+      },
+      {
+        "name": "Adriano Agostino",
+        "nm": 1812183,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Tony Annis",
+        "nm": 30413,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mark Baxter",
+        "nm": 1433624,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Michelle Gayle",
+        "nm": 310896,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Hamilton",
+        "nm": 358113,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Hodge",
+        "nm": 388074,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Anna Kipling",
+        "nm": 456011,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Peter Laxton",
+        "nm": 1527979,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Kevin Mathurin",
+        "nm": 1813205,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sonya May",
+        "nm": 1813213,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sophie Newton",
+        "nm": 1813339,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mathew Rose",
+        "nm": 1813543,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Barry Foy",
+        "nm": 289379,
+        "roles": [
+          {
+            "char": "Kevo",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Going Back to Jasper Street",
+    "tt": 678010,
+    "air_date": "1990-02-01",
+    "description": "Lynda is troubled when she sees a photograph of a small wooden figure that brings back memories for her concerning something that happened ten years ago. Meanwhile, Colin tries to win the heart of a girl who is obsessed with Spike.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Kate Williams",
+        "nm": 1791344,
+        "roles": [
+          {
+            "char": "Young Lynda"
+          }
+        ]
+      },
+      {
+        "name": "Simon Bright",
+        "nm": 109185,
+        "roles": [
+          {
+            "char": "Young Kenny"
+          }
+        ]
+      },
+      {
+        "name": "Julie Foy",
+        "nm": 289398,
+        "roles": [
+          {
+            "char": "Ruby Grogan"
+          }
+        ]
+      },
+      {
+        "name": "Penelope Nice",
+        "nm": 629297,
+        "roles": [
+          {
+            "char": "Mrs. Day",
+            "ch": 82684
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Steven Szczebiot",
+        "nm": 1813723,
+        "roles": [
+          {
+            "char": "Street Boy"
+          }
+        ]
+      },
+      {
+        "name": "Neil Kattenhorn",
+        "nm": 1812984,
+        "roles": [
+          {
+            "char": "Street Boy"
+          }
+        ]
+      },
+      {
+        "name": "Rose Hill",
+        "nm": 384641,
+        "roles": [
+          {
+            "char": "Mrs. Williams"
+          }
+        ]
+      },
+      {
+        "name": "Adriano Agostino",
+        "nm": 1812183,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Casey Anderson",
+        "nm": 1812206,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mark Baxter",
+        "nm": 1433624,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Simon Davidson",
+        "nm": 203496,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Michelle Gayle",
+        "nm": 310896,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Hamilton",
+        "nm": 358113,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Hodge",
+        "nm": 388074,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Anna Kipling",
+        "nm": 456011,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mitchell Knight",
+        "nm": 1813031,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Peter Laxton",
+        "nm": 1527979,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sonya May",
+        "nm": 1813213,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sophie Newton",
+        "nm": 1813339,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Ryan Romain",
+        "nm": 1813537,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Linda Wells",
+        "nm": 920314,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Barry Foy",
+        "nm": 289379,
+        "roles": [
+          {
+            "char": "Kevo",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "The Week and Pizza",
+    "tt": 678036,
+    "air_date": "1990-02-08",
+    "description": "Charting the progression of a typical week at the Junior Gazette, Tiddler and Spike interview a local author, Sam struggles to fire a member of her Graphics Department, and Colin looks for something with which to blackmail Lynda.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Rosie Marcel",
+        "nm": 545165,
+        "roles": [
+          {
+            "char": "Sophie"
+          }
+        ]
+      },
+      {
+        "name": "Clare Louise Hearndon",
+        "nm": 372518,
+        "roles": [
+          {
+            "char": "Laura",
+            "as Claire Hearnden": true
+          }
+        ]
+      },
+      {
+        "name": "Fay Masterson",
+        "nm": 557739,
+        "roles": [
+          {
+            "char": "Claire"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Hicks",
+        "nm": 382799,
+        "roles": [
+          {
+            "char": "Virginia Hume"
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Louisa Milwood-Haigh",
+        "nm": 590267,
+        "roles": [
+          {
+            "char": "Yvonne Morley",
+            "as Louisa Haigh": true
+          }
+        ]
+      },
+      {
+        "name": "Adriano Agostino",
+        "nm": 1812183,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mark Baxter",
+        "nm": 1433624,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Simon Davidson",
+        "nm": 203496,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Raffaello Degruttola",
+        "nm": 214860,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Hamilton",
+        "nm": 358113,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Anna Kipling",
+        "nm": 456011,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Dominic Kipling",
+        "nm": 1813018,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sonya May",
+        "nm": 1813213,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sophie Newton",
+        "nm": 1813339,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Bonnie Sullivan",
+        "nm": 837975,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Linda Wells",
+        "nm": 920314,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Love and the Junior Gazette",
+    "tt": 678019,
+    "air_date": "1990-02-15",
+    "description": "Lynda desperate searches for anyone other than Spike who will accompany her to an important cocktail party, Sarah is troubled when she starts dating an actor about whom she has recently written a scathing review, and a wrong number leads to Kenny developing feelings for a girl in Dublin.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Aisling Flitton",
+        "nm": 282456,
+        "roles": [
+          {
+            "char": "Dublin Girl"
+          }
+        ]
+      },
+      {
+        "name": "Altay Lawrence",
+        "nm": 974482,
+        "roles": [
+          {
+            "char": "Raymond Adams"
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Chrissie Stuart",
+            "ch": 81129
+          }
+        ]
+      },
+      {
+        "name": "Sarah Collins",
+        "nm": 1764065,
+        "roles": [
+          {
+            "char": "Shop Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Adriano Agostino",
+        "nm": 1812183,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mark Baxter",
+        "nm": 1433624,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Simon Davidson",
+        "nm": 203496,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Hamilton",
+        "nm": 358113,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Anna Kipling",
+        "nm": 456011,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Dominic Kipling",
+        "nm": 1813018,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mitchell Knight",
+        "nm": 1813031,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Peter Laxton",
+        "nm": 1527979,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sonya May",
+        "nm": 1813213,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sophie Newton",
+        "nm": 1813339,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Corinna Reardon",
+        "nm": 1524765,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Ryan Romain",
+        "nm": 1813537,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Linda Wells",
+        "nm": 920314,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "At Last a Dragon",
+    "tt": 678000,
+    "air_date": "1990-02-22",
+    "description": "Spike accompanies a very nervous Lynda to a cocktail party where she will be doing some career socialising. However, Spike spots someone who is looking to make a few deals of his own.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Rosie Marcel",
+        "nm": 545165,
+        "roles": [
+          {
+            "char": "Sophie"
+          }
+        ]
+      },
+      {
+        "name": "Clare Louise Hearndon",
+        "nm": 372518,
+        "roles": [
+          {
+            "char": "Laura",
+            "as Claire Hearnden": true
+          }
+        ]
+      },
+      {
+        "name": "John Ronane",
+        "nm": 739905,
+        "roles": [
+          {
+            "char": "Mr. Mayer"
+          }
+        ]
+      },
+      {
+        "name": "Nick Burnell",
+        "nm": 122300,
+        "roles": [
+          {
+            "char": "Mr. Adams"
+          }
+        ]
+      },
+      {
+        "name": "Peter Burton",
+        "nm": 78252,
+        "roles": [
+          {
+            "char": "Mr. Campbell"
+          }
+        ]
+      },
+      {
+        "name": "Kate Greenaway",
+        "nm": 1897606,
+        "roles": [
+          {
+            "char": "Mrs. Campbell"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Something Terrible",
+    "tt": 678029,
+    "air_date": "1990-03-01",
+    "description": "Colin's curiosity about an 11-year-old girl called Cindy, a young admirer of his, leads to a shocking discovery. Meanwhile, Lynda tries to keep her relationship with Spike a secret.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Gian Sammarco",
+        "nm": 759879,
+        "roles": [
+          {
+            "char": "Benjamin Drexil",
+            "ch": 82921
+          }
+        ]
+      },
+      {
+        "name": "Sean Gascoine",
+        "nm": 309063,
+        "roles": [
+          {
+            "char": "Malcolm Bullivant"
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Chrissie Stuart",
+            "ch": 81129
+          }
+        ]
+      },
+      {
+        "name": "Natasha Knight",
+        "nm": 461024,
+        "roles": [
+          {
+            "char": "Cindy Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Arthur Whybrow",
+        "nm": 926645,
+        "roles": [
+          {
+            "char": "Czar"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Penelope Nice",
+        "nm": 629297,
+        "roles": [
+          {
+            "char": "Mrs. Day",
+            "ch": 82684
+          }
+        ]
+      },
+      {
+        "name": "James Curran",
+        "nm": 192839,
+        "roles": [
+          {
+            "char": "Mr. Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Hodge",
+        "nm": 388074,
+        "roles": [
+          {
+            "char": "Kevin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Something Terrible: Part 2",
+    "tt": 678030,
+    "air_date": "1990-03-08",
+    "description": "Colin struggles to help Cindy when she remains reclusive, whilst everybody else believes Colin is just hustling them as usual.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Natasha Knight",
+        "nm": 461024,
+        "roles": [
+          {
+            "char": "Cindy Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Andy Crowe",
+        "nm": 189602,
+        "roles": [
+          {
+            "char": "Billy Homer",
+            "ch": 82255
+          }
+        ]
+      },
+      {
+        "name": "Hilda Braid",
+        "nm": 103996,
+        "roles": [
+          {
+            "char": "Miss McGuigan"
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Janette Legge",
+        "nm": 499321,
+        "roles": [
+          {
+            "char": "Mrs. Mathews"
+          }
+        ]
+      },
+      {
+        "name": "Sam Howard",
+        "nm": 397588,
+        "roles": [
+          {
+            "char": "Teacher"
+          }
+        ]
+      },
+      {
+        "name": "Miranda Forbes",
+        "nm": 285384,
+        "roles": [
+          {
+            "char": "Miss Hessope",
+            "ch": 82252
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Hodge",
+        "nm": 388074,
+        "roles": [
+          {
+            "char": "Kevin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Friends Like These",
+    "tt": 678009,
+    "air_date": "1990-03-15",
+    "description": "When the famously difficult musician Jason Wood finds himself stuck at a local train station, Lynda immediately knows that only Sarah can get the scoop. However, Sarah has decided to quit the Junior Gazette on the same day.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Suggs",
+        "nm": 574227,
+        "roles": [
+          {
+            "char": "Jason Wood",
+            "ch": 103400,
+            "as Graham 'Suggs' McPherson": true
+          }
+        ]
+      },
+      {
+        "name": "Andy Crowe",
+        "nm": 189602,
+        "roles": [
+          {
+            "char": "Billy Homer",
+            "ch": 82255
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Rosie Marcel",
+        "nm": 545165,
+        "roles": [
+          {
+            "char": "Sophie"
+          }
+        ]
+      },
+      {
+        "name": "Clare Louise Hearndon",
+        "nm": 372518,
+        "roles": [
+          {
+            "char": "Laura",
+            "as Claire Hearnden": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Hodge",
+        "nm": 388074,
+        "roles": [
+          {
+            "char": "Kevin"
+          }
+        ]
+      },
+      {
+        "name": "Sophie Newton",
+        "nm": 1813339,
+        "roles": [
+          {
+            "char": "Kate"
+          }
+        ]
+      },
+      {
+        "name": "Penelope Nice",
+        "nm": 629297,
+        "roles": [
+          {
+            "char": "Mrs. Day",
+            "ch": 82684
+          }
+        ]
+      },
+      {
+        "name": "Angela Bruce",
+        "nm": 115415,
+        "roles": [
+          {
+            "char": "Chrissie Stuart",
+            "ch": 81129
+          }
+        ]
+      },
+      {
+        "name": "Jim McManus",
+        "nm": 573143,
+        "roles": [
+          {
+            "char": "Station Master Dutton"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "The Rest of My Life",
+    "tt": 678035,
+    "air_date": "1990-03-22",
+    "description": "When the team at the Junior Gazette hear about a nearby gas explosion, Lynda is keen to grab as much news of the accident as possible in a bid to boost the popularity of the newspaper. However, she is unaware that Spike was involved in the accident as well, and that he is buried under the rubble with a fellow student who is buried deeper than he is.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Abigail Docherty",
+        "nm": 1812595,
+        "roles": [
+          {
+            "char": "Mary Brien",
+            "ch": 83024,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Hodge",
+        "nm": 388074,
+        "roles": [
+          {
+            "char": "Kevin"
+          }
+        ]
+      },
+      {
+        "name": "Andy Crowe",
+        "nm": 189602,
+        "roles": [
+          {
+            "char": "Billy Homer",
+            "ch": 82255
+          }
+        ]
+      },
+      {
+        "name": "Arin Alldridge",
+        "nm": 20164,
+        "roles": [
+          {
+            "char": "Man in Phone Box",
+            "as Colin Alldridge": true
+          }
+        ]
+      },
+      {
+        "name": "Jake Wood",
+        "nm": 939766,
+        "roles": [
+          {
+            "char": "Boy at Party"
+          }
+        ]
+      },
+      {
+        "name": "Carole Dance",
+        "nm": 1835490,
+        "roles": [
+          {
+            "char": "Mrs. Boyd",
+            "ch": 83023
+          }
+        ]
+      },
+      {
+        "name": "John Peters",
+        "nm": 676515,
+        "roles": [
+          {
+            "char": "T.V. Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Yesterday's News",
+    "tt": 678040,
+    "air_date": "1990-03-29",
+    "description": "Lynda challenges Spike to a reporting contest after he doubts her skills as a reporter. However, Spike's recent experience in the office block explosion appears to have affected him more than he lets on.",
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Andy Crowe",
+        "nm": 189602,
+        "roles": [
+          {
+            "char": "Billy Homer",
+            "ch": 82255
+          }
+        ]
+      },
+      {
+        "name": "Janie Booth",
+        "nm": 95719,
+        "roles": [
+          {
+            "char": "Beth Davenport"
+          }
+        ]
+      },
+      {
+        "name": "Maria McErlane",
+        "nm": 568522,
+        "roles": [
+          {
+            "char": "Waitress",
+            "as Marie McErlane": true
+          }
+        ]
+      },
+      {
+        "name": "Jackie Bucknall",
+        "nm": 1812376,
+        "roles": [
+          {
+            "char": "Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Robert McBain",
+        "nm": 564230,
+        "roles": [
+          {
+            "char": "Roderick Marsh"
+          }
+        ]
+      },
+      {
+        "name": "Adriano Agostino",
+        "nm": 1812183,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mark Baxter",
+        "nm": 1433624,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Raffaello Degruttola",
+        "nm": 214860,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Hamilton",
+        "nm": 358113,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Hodge",
+        "nm": 388074,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Anna Kipling",
+        "nm": 456011,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Daniel Kipling",
+        "nm": 1527930,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mitchell Knight",
+        "nm": 1813031,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sonya May",
+        "nm": 1813213,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sophie Newton",
+        "nm": 1813339,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Ryan Romain",
+        "nm": 1813537,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Darren Traynor",
+        "nm": 1835540,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Linda Wells",
+        "nm": 920314,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "Rock Solid",
+    "tt": 678026,
+    "air_date": "1990-04-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Lindy Layton",
+        "nm": 493620,
+        "roles": [
+          {
+            "char": "Cathy"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Hickling",
+        "nm": 382697,
+        "roles": [
+          {
+            "char": "Telegram Woman",
+            "as Liz Hickling": true
+          }
+        ]
+      },
+      {
+        "name": "John Savage",
+        "nm": 767317,
+        "roles": [
+          {
+            "char": "Little Boy"
+          }
+        ]
+      },
+      {
+        "name": "Charlotte Payne",
+        "nm": 668282,
+        "roles": [
+          {
+            "char": "Little Girl"
+          }
+        ]
+      },
+      {
+        "name": "Rosie Marcel",
+        "nm": 545165,
+        "roles": [
+          {
+            "char": "Sophie"
+          }
+        ]
+      },
+      {
+        "name": "Clare Louise Hearndon",
+        "nm": 372518,
+        "roles": [
+          {
+            "char": "Laura",
+            "as Claire Hearnden": true
+          }
+        ]
+      },
+      {
+        "name": "Jon Sloane",
+        "nm": 1813657,
+        "roles": [
+          {
+            "char": "Humphrey Burke"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Lennon",
+        "nm": 1177899,
+        "roles": [
+          {
+            "char": "Raymond Hoggart"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Livingston",
+        "nm": 515218,
+        "roles": [
+          {
+            "char": "Zedron",
+            "as Andrew Livingstone": true
+          }
+        ]
+      },
+      {
+        "name": "Penelope Nice",
+        "nm": 629297,
+        "roles": [
+          {
+            "char": "Mrs. Day",
+            "ch": 82684
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "The Big Finish?",
+    "tt": 678031,
+    "air_date": "1990-04-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "nm": 270,
+        "roles": [
+          {
+            "char": "Sam Black",
+            "ch": 82678
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Simon Schatzberger",
+        "nm": 770239,
+        "roles": [
+          {
+            "char": "Brian Magboy"
+          }
+        ]
+      },
+      {
+        "name": "Rosie Marcel",
+        "nm": 545165,
+        "roles": [
+          {
+            "char": "Sophie"
+          }
+        ]
+      },
+      {
+        "name": "Clare Louise Hearndon",
+        "nm": 372518,
+        "roles": [
+          {
+            "char": "Laura",
+            "as Claire Hearnden": true
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      },
+      {
+        "name": "Jon Sloane",
+        "nm": 1813657,
+        "roles": [
+          {
+            "char": "Humphrey Burke"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Lennon",
+        "nm": 1177899,
+        "roles": [
+          {
+            "char": "Raymond Hoggart"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Livingston",
+        "nm": 515218,
+        "roles": [
+          {
+            "char": "Zedron",
+            "as Andrew Livingstone": true
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Adriano Agostino",
+        "nm": 1812183,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Casey Anderson",
+        "nm": 1812206,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mark Baxter",
+        "nm": 1433624,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Peter Cunningham",
+        "nm": 1791227,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Simon Davidson",
+        "nm": 203496,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Raffaello Degruttola",
+        "nm": 214860,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Linda Frith",
+        "nm": 295954,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Hamilton",
+        "nm": 358113,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Anna Kipling",
+        "nm": 456011,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Dominic Kipling",
+        "nm": 1813018,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mitchell Knight",
+        "nm": 1813031,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Peter Laxton",
+        "nm": 1527979,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sonya May",
+        "nm": 1813213,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Sophie Newton",
+        "nm": 1813339,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Ryan Romain",
+        "nm": 1813537,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Joanne Varney",
+        "nm": 1835543,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Linda Wells",
+        "nm": 920314,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E01",
+    "title": "The Big Hello",
+    "tt": 678032,
+    "air_date": "1991-05-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Toni Barry",
+        "nm": 58180,
+        "roles": [
+          {
+            "char": "Zoe"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Paul Williamson",
+        "nm": 932121,
+        "roles": [
+          {
+            "char": "Gordon Coles"
+          }
+        ]
+      },
+      {
+        "name": "Simon Mattacks",
+        "nm": 559740,
+        "roles": [
+          {
+            "char": "Eric Folkestone"
+          }
+        ]
+      },
+      {
+        "name": "John Benson",
+        "nm": 72538,
+        "roles": [
+          {
+            "char": "David Campbell"
+          }
+        ]
+      },
+      {
+        "name": "Beresford Le Roy",
+        "nm": 494595,
+        "roles": [
+          {
+            "char": "Security Man",
+            "as Beresford Leroy": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Abbey",
+        "nm": 1837954,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Hodge",
+        "nm": 388074,
+        "roles": [
+          {
+            "char": "Kevin",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sophie Newton",
+        "nm": 1813339,
+        "roles": [
+          {
+            "char": "Kate",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E02",
+    "title": "Killer on the Line",
+    "tt": 678017,
+    "air_date": "1991-05-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Jake Wood",
+        "nm": 939766,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Richard Charles",
+        "nm": 153133,
+        "roles": [
+          {
+            "char": "David Banks"
+          }
+        ]
+      },
+      {
+        "name": "Razaaq Adoti",
+        "nm": 12398,
+        "roles": [
+          {
+            "char": "Constable",
+            "as Razaak Adoti": true
+          }
+        ]
+      },
+      {
+        "name": "Rick Kennedy",
+        "nm": 1577865,
+        "roles": [
+          {
+            "char": "Shopkeeper"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E03",
+    "title": "Chance Is a Fine Thing",
+    "tt": 678004,
+    "air_date": "1991-05-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Peter Stockbridge",
+        "nm": 830765,
+        "roles": [
+          {
+            "char": "Sean Phillips"
+          }
+        ]
+      },
+      {
+        "name": "Claire Forlani",
+        "nm": 1231,
+        "roles": [
+          {
+            "char": "Judy Wellman",
+            "ch": 83454
+          }
+        ]
+      },
+      {
+        "name": "Aisling Flitton",
+        "nm": 282456,
+        "roles": [
+          {
+            "char": "Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Tim Dutton",
+        "nm": 244957,
+        "roles": [
+          {
+            "char": "Clark Kent",
+            "ch": 118677
+          }
+        ]
+      },
+      {
+        "name": "Nigel Williams",
+        "nm": 931390,
+        "roles": [
+          {
+            "char": "Head Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Samantha Womack",
+        "nm": 418379,
+        "roles": [
+          {
+            "char": "Waitress",
+            "as Samantha Janus": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Davies",
+        "nm": 203822,
+        "roles": [
+          {
+            "char": "Janet"
+          }
+        ]
+      },
+      {
+        "name": "Carey Lee",
+        "nm": 5486483,
+        "roles": [
+          {
+            "char": "Lucy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E04",
+    "title": "The Last Word",
+    "tt": 678033,
+    "air_date": "1991-05-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Christien Anholt",
+        "nm": 30021,
+        "roles": [
+          {
+            "char": "Clown"
+          }
+        ]
+      },
+      {
+        "name": "Hugh Quarshie",
+        "nm": 702934,
+        "roles": [
+          {
+            "char": "Inspector Hibbert",
+            "as Huge Quarshie": true
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Sophie Newton",
+        "nm": 1813339,
+        "roles": [
+          {
+            "char": "Kate",
+            "as Sophy Newton": true
+          }
+        ]
+      },
+      {
+        "name": "Carl Rigg",
+        "nm": 726621,
+        "roles": [
+          {
+            "char": "Trevor Hambly"
+          }
+        ]
+      },
+      {
+        "name": "Mark Anstee",
+        "nm": 30689,
+        "roles": [
+          {
+            "char": "Male Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Emma Forbes",
+        "nm": 285328,
+        "roles": [
+          {
+            "char": "Female Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Sally McLaren",
+        "nm": 1837974,
+        "roles": [
+          {
+            "char": "TV Presenter"
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Bradley",
+        "nm": 103375,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Victoria Bradley",
+        "nm": 103427,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Louise Conran",
+        "nm": 1837543,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Isabel Diez",
+        "nm": 1837546,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Hamilton",
+        "nm": 358113,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Maggie Jones",
+        "nm": 428723,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Justine Prior",
+        "nm": 1837976,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Pamela Virgo",
+        "nm": 1837596,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Hannah Wyn Davies",
+        "nm": 1837962,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Nick Dutton",
+        "nm": 1513999,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Colin Hazelden",
+        "nm": 1837553,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Robbie Hearne",
+        "nm": 1837554,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Hodge",
+        "nm": 388074,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Mitchell Knight",
+        "nm": 1813031,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Tim Stringer",
+        "nm": 1837981,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Dennis Victory",
+        "nm": 1307758,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      },
+      {
+        "name": "Andy Wright",
+        "nm": 1831800,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E05",
+    "title": "The Last Word: Part 2",
+    "tt": 678034,
+    "air_date": "1991-06-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Christien Anholt",
+        "nm": 30021,
+        "roles": [
+          {
+            "char": "Donald Cooper"
+          }
+        ]
+      },
+      {
+        "name": "Hugh Quarshie",
+        "nm": 702934,
+        "roles": [
+          {
+            "char": "Inspector Hibbert",
+            "as Huge Quarshie": true
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Andy Crowe",
+        "nm": 189602,
+        "roles": [
+          {
+            "char": "Billy Homer",
+            "ch": 82255
+          }
+        ]
+      },
+      {
+        "name": "John Ashby",
+        "nm": 38737,
+        "roles": [
+          {
+            "char": "Security Guard"
+          }
+        ]
+      },
+      {
+        "name": "Hilda Braid",
+        "nm": 103996,
+        "roles": [
+          {
+            "char": "Miss McGuigan"
+          }
+        ]
+      },
+      {
+        "name": "Miranda Forbes",
+        "nm": 285384,
+        "roles": [
+          {
+            "char": "Miss Hessope",
+            "ch": 82252
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Hodge",
+        "nm": 388074,
+        "roles": [
+          {
+            "char": "Kevin"
+          }
+        ]
+      },
+      {
+        "name": "Sam Howard",
+        "nm": 397588,
+        "roles": [
+          {
+            "char": "Teacher"
+          }
+        ]
+      },
+      {
+        "name": "Natasha Knight",
+        "nm": 461024,
+        "roles": [
+          {
+            "char": "Cindy Watkins"
+          }
+        ]
+      },
+      {
+        "name": "Janette Legge",
+        "nm": 499321,
+        "roles": [
+          {
+            "char": "Mrs. Mathews"
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E06",
+    "title": "Holding On",
+    "tt": 678012,
+    "air_date": "1991-06-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Toni Barry",
+        "nm": 58180,
+        "roles": [
+          {
+            "char": "Zoe"
+          }
+        ]
+      },
+      {
+        "name": "Steven O'Donnell",
+        "nm": 640838,
+        "roles": [
+          {
+            "char": "Maringo",
+            "as Steve O'Donnell": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Mark Elliott",
+        "nm": 254585,
+        "roles": [
+          {
+            "char": "Alec Connell"
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Stevens",
+        "nm": 828701,
+        "roles": [
+          {
+            "char": "Moira Connell"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Louis Hilyer",
+        "nm": 1239465,
+        "roles": [
+          {
+            "char": "Shoe Man",
+            "as Louis Hillyer": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E01",
+    "title": "Bad News",
+    "tt": 678001,
+    "air_date": "1992-01-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Henry Naylor",
+        "nm": 623279,
+        "roles": [
+          {
+            "char": "Zack"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Allen",
+        "nm": 20728,
+        "roles": [
+          {
+            "char": "Bobby Campbell"
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Pertwee",
+        "nm": 675724,
+        "roles": [
+          {
+            "char": "Mrs. Campbell"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Heenahan",
+        "nm": 1837555,
+        "roles": [
+          {
+            "char": "Newscaster"
+          }
+        ]
+      },
+      {
+        "name": "Paul Raffield",
+        "nm": 706293,
+        "roles": [
+          {
+            "char": "Breakfast TV Man"
+          }
+        ]
+      },
+      {
+        "name": "Alwyne Taylor",
+        "nm": 851956,
+        "roles": [
+          {
+            "char": "Points of View Woman",
+            "as Alwynne Taylor": true
+          }
+        ]
+      },
+      {
+        "name": "Roger Leach",
+        "nm": 494860,
+        "roles": [
+          {
+            "char": "Pompous Man"
+          }
+        ]
+      },
+      {
+        "name": "Andy Parsons",
+        "nm": 663773,
+        "roles": [
+          {
+            "char": "Cool Cat",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Fulton",
+        "nm": 1837966,
+        "roles": [
+          {
+            "char": "Cool Cat Puppeteer"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Hodge",
+        "nm": 388074,
+        "roles": [
+          {
+            "char": "Kevin",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sophie Newton",
+        "nm": 1813339,
+        "roles": [
+          {
+            "char": "Kate",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E02",
+    "title": "UnXpected",
+    "tt": 678038,
+    "air_date": "1992-01-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Brian Glover",
+        "nm": 323093,
+        "roles": [
+          {
+            "char": "Dr. Threeways"
+          }
+        ]
+      },
+      {
+        "name": "Brian Mitchell",
+        "nm": 593177,
+        "roles": [
+          {
+            "char": "Dr. Gillespie"
+          }
+        ]
+      },
+      {
+        "name": "Michael Sheard",
+        "nm": 790410,
+        "roles": [
+          {
+            "char": "Dr. Clipstone"
+          }
+        ]
+      },
+      {
+        "name": "Eric Dodson",
+        "nm": 230282,
+        "roles": [
+          {
+            "char": "Sir Edward"
+          }
+        ]
+      },
+      {
+        "name": "Gillian Tompkins",
+        "nm": 970362,
+        "roles": [
+          {
+            "char": "Miss Madden"
+          }
+        ]
+      },
+      {
+        "name": "Michael Jayston",
+        "nm": 419785,
+        "roles": [
+          {
+            "char": "Colonel X",
+            "ch": 81130
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E03",
+    "title": "She's Got It Taped",
+    "tt": 678027,
+    "air_date": "1992-01-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Jay Simpson",
+        "nm": 801043,
+        "roles": [
+          {
+            "char": "Archie"
+          }
+        ]
+      },
+      {
+        "name": "B.J. Bingham",
+        "nm": 1225324,
+        "roles": [
+          {
+            "char": "Peter",
+            "as James Bingham": true
+          }
+        ]
+      },
+      {
+        "name": "Dave Atkins",
+        "nm": 40573,
+        "roles": [
+          {
+            "char": "Mr. Quail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E04",
+    "title": "Love and War",
+    "tt": 678018,
+    "air_date": "1992-01-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Kenneth MacDonald",
+        "nm": 531811,
+        "roles": [
+          {
+            "char": "Marvin Bixby"
+          }
+        ]
+      },
+      {
+        "name": "John Ashby",
+        "nm": 38737,
+        "roles": [
+          {
+            "char": "Security Guard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E05",
+    "title": "In the Picture",
+    "tt": 678015,
+    "air_date": "1992-02-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Steven Hartley",
+        "nm": 366889,
+        "roles": [
+          {
+            "char": "John Hartwood"
+          }
+        ]
+      },
+      {
+        "name": "Glenn McCrory",
+        "nm": 1478612,
+        "roles": [
+          {
+            "char": "Newton"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Claire Forlani",
+        "nm": 1231,
+        "roles": [
+          {
+            "char": "Judy Wellman",
+            "ch": 83454
+          }
+        ]
+      },
+      {
+        "name": "Sharon Duce",
+        "nm": 239756,
+        "roles": [
+          {
+            "char": "Katherine Hill",
+            "ch": 82723
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E06",
+    "title": "Day Dreams",
+    "tt": 678005,
+    "air_date": "1992-02-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          },
+          {
+            "char": "Young Katherine Hill",
+            "ch": 82723
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          },
+          {
+            "char": "Young James Thompson",
+            "ch": 82724
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Sharon Duce",
+        "nm": 239756,
+        "roles": [
+          {
+            "char": "Katherine Hill",
+            "ch": 82723
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Greg Cruttwell",
+        "nm": 190208,
+        "roles": [
+          {
+            "char": "Tony"
+          }
+        ]
+      },
+      {
+        "name": "Kevork Malikyan",
+        "nm": 539616,
+        "roles": [
+          {
+            "char": "Fahid"
+          }
+        ]
+      },
+      {
+        "name": "Andy Crowe",
+        "nm": 189602,
+        "roles": [
+          {
+            "char": "Billy Homer",
+            "ch": 82255
+          }
+        ]
+      },
+      {
+        "name": "Nick Stringer",
+        "nm": 834588,
+        "roles": [
+          {
+            "char": "Mr. Sullivan",
+            "ch": 82254
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E01",
+    "title": "Head and Heart",
+    "tt": 678011,
+    "air_date": "1993-04-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "David Collings",
+        "nm": 172059,
+        "roles": [
+          {
+            "char": "Mr. Winters",
+            "ch": 50858
+          }
+        ]
+      },
+      {
+        "name": "Natalie Roles",
+        "nm": 738174,
+        "roles": [
+          {
+            "char": "Janet"
+          }
+        ]
+      },
+      {
+        "name": "Miranda Forbes",
+        "nm": 285384,
+        "roles": [
+          {
+            "char": "Miss Hessope",
+            "ch": 82252
+          }
+        ]
+      },
+      {
+        "name": "Katie Puckrik",
+        "nm": 699852,
+        "roles": [
+          {
+            "char": "Interviewer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E02",
+    "title": "Friendly Fire",
+    "tt": 678008,
+    "air_date": "1993-04-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Paul Antony-Barber",
+        "nm": 31524,
+        "roles": [
+          {
+            "char": "Mr. Howard",
+            "ch": 86452,
+            "as Paul Anthony Barber": true
+          }
+        ]
+      },
+      {
+        "name": "David Collings",
+        "nm": 172059,
+        "roles": [
+          {
+            "char": "Mr. Winters",
+            "ch": 50858
+          }
+        ]
+      },
+      {
+        "name": "David Harewood",
+        "nm": 362873,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Clive Wood",
+        "nm": 939619,
+        "roles": [
+          {
+            "char": "Matt Kerr",
+            "ch": 82253
+          }
+        ]
+      },
+      {
+        "name": "Dennis Victory",
+        "nm": 1307758,
+        "roles": [
+          {
+            "char": "Member of The News Team",
+            "ch": 400599,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E03",
+    "title": "A Quarter to Midnight",
+    "tt": 677999,
+    "air_date": "1993-04-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Joanna Dukes",
+        "nm": 241236,
+        "roles": [
+          {
+            "char": "Tiddler",
+            "ch": 50857
+          }
+        ]
+      },
+      {
+        "name": "Alan Perrin",
+        "nm": 674719,
+        "roles": [
+          {
+            "char": "Crawford"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E04",
+    "title": "Food, Love and Insecurity",
+    "tt": 678007,
+    "air_date": "1993-05-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Lisa Coleman",
+        "nm": 171124,
+        "roles": [
+          {
+            "char": "Phillipa Prescott"
+          }
+        ]
+      },
+      {
+        "name": "Jilly Carter",
+        "nm": 1837540,
+        "roles": [
+          {
+            "char": "Newsreader"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey McGivern",
+        "nm": 569416,
+        "roles": [
+          {
+            "char": "Man in Restaurant",
+            "as Geoff McGuivern": true
+          }
+        ]
+      },
+      {
+        "name": "Jo Unwin",
+        "nm": 881388,
+        "roles": [
+          {
+            "char": "Woman in Restaurant"
+          }
+        ]
+      },
+      {
+        "name": "Steve Steen",
+        "nm": 824797,
+        "roles": [
+          {
+            "char": "Angelo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E05",
+    "title": "Windfall",
+    "tt": 678039,
+    "air_date": "1993-05-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Angela Curran",
+        "nm": 192805,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Cake",
+        "nm": 129160,
+        "roles": [
+          {
+            "char": "Ed"
+          }
+        ]
+      },
+      {
+        "name": "Sam Pasher",
+        "nm": 1837576,
+        "roles": [
+          {
+            "char": "TV Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Paul Jerricho",
+        "nm": 422056,
+        "roles": [
+          {
+            "char": "TV Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Jason Parker",
+        "nm": 1831783,
+        "roles": [
+          {
+            "char": "First Biker"
+          }
+        ]
+      },
+      {
+        "name": "John Alexander",
+        "nm": 18515,
+        "roles": [
+          {
+            "char": "Second Biker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E06",
+    "title": "There Are Crocodiles",
+    "tt": 678037,
+    "air_date": "1993-05-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Julia Sawalha",
+        "nm": 768018,
+        "roles": [
+          {
+            "char": "Lynda Day",
+            "ch": 50850
+          }
+        ]
+      },
+      {
+        "name": "Dexter Fletcher",
+        "nm": 2077,
+        "roles": [
+          {
+            "char": "Spike Thomson",
+            "ch": 50851
+          }
+        ]
+      },
+      {
+        "name": "Lucy Benjamin",
+        "nm": 71329,
+        "roles": [
+          {
+            "char": "Julie Craig",
+            "ch": 50856
+          }
+        ]
+      },
+      {
+        "name": "Kelda Holmes",
+        "nm": 391908,
+        "roles": [
+          {
+            "char": "Sarah Jackson",
+            "ch": 50854,
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Mmoloki Chrystie",
+        "nm": 160784,
+        "roles": [
+          {
+            "char": "Frazz Davis",
+            "ch": 50855
+          }
+        ]
+      },
+      {
+        "name": "Paul Reynolds",
+        "nm": 721900,
+        "roles": [
+          {
+            "char": "Colin Mathews",
+            "ch": 50853
+          }
+        ]
+      },
+      {
+        "name": "Alex Crockett",
+        "nm": 1812533,
+        "roles": [
+          {
+            "char": "David Jefford",
+            "ch": 82369
+          }
+        ]
+      },
+      {
+        "name": "Mark Sayers",
+        "nm": 768475,
+        "roles": [
+          {
+            "char": "Gary"
+          }
+        ]
+      },
+      {
+        "name": "Dean Williamson",
+        "nm": 932017,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Colin Wyatt",
+        "nm": 943530,
+        "roles": [
+          {
+            "char": "Photographer"
+          }
+        ]
+      },
+      {
+        "name": "Lee Ross",
+        "nm": 743605,
+        "roles": [
+          {
+            "char": "Kenny Phillips",
+            "ch": 50852,
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  }
+]

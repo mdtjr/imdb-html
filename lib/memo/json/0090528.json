@@ -1,0 +1,3585 @@
+[
+  {
+    "se": "S01E00",
+    "title": "Pilot",
+    "tt": 1789541,
+    "air_date": "1985-07-14",
+    "description": "An Assistant DA hires Ray after her coworker shows up with the intellect of a 6 year old just before they are supposed to go to trial in big case. Ray tracks the events back to an organized crime leader and infiltrates the compound to gather more information. While there, he is asked to assist the wife of the doctor running the operation for the crime lord.",
+    "cast": null
+  },
+  {
+    "se": "S01E01",
+    "title": "Ancient Eyes",
+    "tt": 710611,
+    "air_date": "1986-03-11",
+    "description": "Ray infiltrates an illegal migrant worker camp in order to look for the missing son of the housekeeper of a former client. The camp is run more like a prison than a worker camp.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Rachel Ticotin",
+        "nm": 1797,
+        "roles": [
+          {
+            "char": "Elena Ballesteros"
+          }
+        ]
+      },
+      {
+        "name": "J.E. Freeman",
+        "nm": 293422,
+        "roles": [
+          {
+            "char": "Flynn"
+          }
+        ]
+      },
+      {
+        "name": "Marco Rodríguez",
+        "nm": 735424,
+        "roles": [
+          {
+            "char": "Stan Singlefoot"
+          }
+        ]
+      },
+      {
+        "name": "Georgann Johnson",
+        "nm": 425133,
+        "roles": [
+          {
+            "char": "Nancy Galloway"
+          }
+        ]
+      },
+      {
+        "name": "Isela Vega",
+        "nm": 891835,
+        "roles": [
+          {
+            "char": "Isabel Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Richard Roat",
+        "nm": 730140,
+        "roles": [
+          {
+            "char": "Preston Galloway"
+          }
+        ]
+      },
+      {
+        "name": "Robert Curtin",
+        "nm": 193220,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Frank Doubleday",
+        "nm": 234664,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ritch Brinkley",
+        "nm": 109620,
+        "roles": [
+          {
+            "char": "Westcott"
+          }
+        ]
+      },
+      {
+        "name": "Gary Carlos Cervantes",
+        "nm": 148869,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "José Flores",
+        "nm": 2089492,
+        "roles": [
+          {
+            "char": "Manuel",
+            "as Joe Flores": true
+          }
+        ]
+      },
+      {
+        "name": "David Cadiente",
+        "nm": 128170,
+        "roles": [
+          {
+            "char": "Eduardo"
+          }
+        ]
+      },
+      {
+        "name": "Carl Kraines",
+        "nm": 469311,
+        "roles": [
+          {
+            "char": "Attendant"
+          }
+        ]
+      },
+      {
+        "name": "Linda Salcedo",
+        "nm": 757822,
+        "roles": [
+          {
+            "char": "Maria Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Michele Hart",
+        "nm": 1605025,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Rico Alaniz",
+        "nm": 15976,
+        "roles": [
+          {
+            "char": "Miguel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Ether",
+    "tt": 710620,
+    "air_date": "1986-03-25",
+    "description": "Ray poses as a visiting surgeon to find out why a hospital has such a high mortality rate for it's OR patients.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Ray Wise",
+        "nm": 936403,
+        "roles": [
+          {
+            "char": "Dr. John Whitaker"
+          }
+        ]
+      },
+      {
+        "name": "James Laurenson",
+        "nm": 491190,
+        "roles": [
+          {
+            "char": "Dr. Joel Forrester"
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Ann Clark",
+        "nm": 163753,
+        "roles": [
+          {
+            "char": "Dr. Cornell"
+          }
+        ]
+      },
+      {
+        "name": "Walter Barnes",
+        "nm": 55812,
+        "roles": [
+          {
+            "char": "Daniel Coleman"
+          }
+        ]
+      },
+      {
+        "name": "Joel Colodner",
+        "nm": 172947,
+        "roles": [
+          {
+            "char": "Dr. Alex Freeman"
+          }
+        ]
+      },
+      {
+        "name": "David Dunard",
+        "nm": 241784,
+        "roles": [
+          {
+            "char": "Phil"
+          }
+        ]
+      },
+      {
+        "name": "John Gowans",
+        "nm": 332944,
+        "roles": [
+          {
+            "char": "Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Joe Marinelli",
+        "nm": 547584,
+        "roles": [
+          {
+            "char": "Guard #1"
+          }
+        ]
+      },
+      {
+        "name": "Tommy Bush",
+        "nm": 59743,
+        "roles": [
+          {
+            "char": "Billy"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Anthony Henry",
+        "nm": 378005,
+        "roles": [
+          {
+            "char": "Anesthetist"
+          }
+        ]
+      },
+      {
+        "name": "Anita Jesse",
+        "nm": 422160,
+        "roles": [
+          {
+            "char": "Nurse #1"
+          }
+        ]
+      },
+      {
+        "name": "Diana McCannon",
+        "nm": 564933,
+        "roles": [
+          {
+            "char": "Nurse #2",
+            "as Diann McCannon": true
+          }
+        ]
+      },
+      {
+        "name": "Theresa Karanik",
+        "nm": 438900,
+        "roles": [
+          {
+            "char": "Cheryl"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Rafel",
+        "nm": 706176,
+        "roles": [
+          {
+            "char": "Nurse #3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Below the Line",
+    "tt": 710614,
+    "air_date": "1986-04-01",
+    "description": "Ray is hired by an elementary school teacher to find her husband. He infiltrates a marine research facility where the man had been working as a diver.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Kelbe Nugent",
+        "nm": 1484191,
+        "roles": [
+          {
+            "char": "Karen Marshall"
+          }
+        ]
+      },
+      {
+        "name": "James Wainwright",
+        "nm": 906535,
+        "roles": [
+          {
+            "char": "Henry Pollard"
+          }
+        ]
+      },
+      {
+        "name": "Steve Vinovich",
+        "nm": 899079,
+        "roles": [
+          {
+            "char": "Frank Gallagher"
+          }
+        ]
+      },
+      {
+        "name": "Lee Garlington",
+        "nm": 307600,
+        "roles": [
+          {
+            "char": "Anne, Commercial Producer"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Wettig",
+        "nm": 923210,
+        "roles": [
+          {
+            "char": "Annie Murray"
+          }
+        ]
+      },
+      {
+        "name": "John Macchia",
+        "nm": 531491,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Randy Holland",
+        "nm": 5435329,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "James McIntire",
+        "nm": 570613,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Randall Brady",
+        "nm": 103713,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tina Staley",
+        "nm": 4316346,
+        "roles": [
+          {
+            "char": "Barbara"
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Cushna",
+        "nm": 193727,
+        "roles": [
+          {
+            "char": "Lacie"
+          }
+        ]
+      },
+      {
+        "name": "Michael Blue",
+        "nm": 89521,
+        "roles": [
+          {
+            "char": "Sandy"
+          }
+        ]
+      },
+      {
+        "name": "La Shawn Henry",
+        "nm": 5536110,
+        "roles": [
+          {
+            "char": "Doug"
+          }
+        ]
+      },
+      {
+        "name": "Bill Kalmenson",
+        "nm": 436105,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Terry Burns",
+        "nm": 122893,
+        "roles": [
+          {
+            "char": "Radar Man"
+          }
+        ]
+      },
+      {
+        "name": "Terence Marinan",
+        "nm": 547535,
+        "roles": [
+          {
+            "char": "Security"
+          }
+        ]
+      },
+      {
+        "name": "Gene Whittington",
+        "nm": 926540,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "Mark-Paul Gosselaar",
+        "nm": 4971,
+        "roles": [
+          {
+            "char": "Eric Murray",
+            "as Mark-Paul Gosselear": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Olson",
+        "nm": 5536702,
+        "roles": [
+          {
+            "char": "Jamie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Sometimes You Gotta Sing the Blues",
+    "tt": 710627,
+    "air_date": "1986-04-08",
+    "description": "Ray is picked up by the police and brought to the Chief who tells him he knows about him and what he does. Instead of arresting him before, he chose to sit on it till he could use him and it appears the time is now. It seems the man's wife was killed and it appears they were not happily married so they're turning their attention towards him. He's hoping another cop who was with him when his wife was killed will back him up but the cop not only doesn't, he passes the lie detector test. So with a girl who's a friend of the Chief he tries to prove his innocence.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Kathleen Lloyd",
+        "nm": 516049,
+        "roles": [
+          {
+            "char": "Candice"
+          }
+        ]
+      },
+      {
+        "name": "James Handy",
+        "nm": 359695,
+        "roles": [
+          {
+            "char": "Chief Nelson Riskin",
+            "ch": 71033
+          }
+        ]
+      },
+      {
+        "name": "Tom Atkins",
+        "nm": 40662,
+        "roles": [
+          {
+            "char": "Donald Dixon"
+          }
+        ]
+      },
+      {
+        "name": "Kurtwood Smith",
+        "nm": 1748,
+        "roles": [
+          {
+            "char": "Sgt. Edward Fiddler"
+          }
+        ]
+      },
+      {
+        "name": "James Carroll",
+        "nm": 140843,
+        "roles": [
+          {
+            "char": "Dave Dearborn"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Dollaghan",
+        "nm": 231120,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ian Abercrombie",
+        "nm": 718,
+        "roles": [
+          {
+            "char": "Hair Salon Owner"
+          }
+        ]
+      },
+      {
+        "name": "Don Dubbins",
+        "nm": 239210,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Dallas Cole",
+        "nm": 170514,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ron Campbell",
+        "nm": 132821,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ben Rawnsley",
+        "nm": 712684,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Peter D. Greene",
+        "nm": 338889,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kurt Smildsin",
+        "nm": 806929,
+        "roles": [
+          {
+            "char": "Carl"
+          }
+        ]
+      },
+      {
+        "name": "Lew Saunders",
+        "nm": 766876,
+        "roles": [
+          {
+            "char": "Smitty"
+          }
+        ]
+      },
+      {
+        "name": "Ben Mittleman",
+        "nm": 594166,
+        "roles": [
+          {
+            "char": "Lou"
+          }
+        ]
+      },
+      {
+        "name": "Duane Tucker",
+        "nm": 875848,
+        "roles": [
+          {
+            "char": "Frank"
+          }
+        ]
+      },
+      {
+        "name": "Fred Morsell",
+        "nm": 607689,
+        "roles": [
+          {
+            "char": "Dr. Mike Meese"
+          }
+        ]
+      },
+      {
+        "name": "Joe Nesnow",
+        "nm": 626460,
+        "roles": [
+          {
+            "char": "Sherm"
+          }
+        ]
+      },
+      {
+        "name": "John Mahon",
+        "nm": 537089,
+        "roles": [
+          {
+            "char": "Desk Sgt."
+          }
+        ]
+      },
+      {
+        "name": "J.A. Montero",
+        "nm": 5435357,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "K.T. Sullivan",
+        "nm": 1049249,
+        "roles": [
+          {
+            "char": "Karen"
+          }
+        ]
+      },
+      {
+        "name": "Marty Schiff",
+        "nm": 771480,
+        "roles": [
+          {
+            "char": "John"
+          }
+        ]
+      },
+      {
+        "name": "Bill Marcus",
+        "nm": 546076,
+        "roles": [
+          {
+            "char": "Joe"
+          }
+        ]
+      },
+      {
+        "name": "Jack Slater",
+        "nm": 805381,
+        "roles": [
+          {
+            "char": "Lieutenant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Abnormal Psych",
+    "tt": 710610,
+    "air_date": "1986-04-15",
+    "description": "When a young woman tries to kill Ray, and then steps in front of a bus, his investigation leads him back to a University research program where several students have committed suicide. It turns out the program is being run by a man related to Ray's mysterious past.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Robert Vaughn",
+        "nm": 1816,
+        "roles": [
+          {
+            "char": "Nameless Master Villain"
+          }
+        ]
+      },
+      {
+        "name": "Scott Paulin",
+        "nm": 667182,
+        "roles": [
+          {
+            "char": "Prof. Brainard"
+          }
+        ]
+      },
+      {
+        "name": "James Handy",
+        "nm": 359695,
+        "roles": [
+          {
+            "char": "Chief Nelson Riskin",
+            "ch": 71033
+          }
+        ]
+      },
+      {
+        "name": "Lori Lethin",
+        "nm": 504681,
+        "roles": [
+          {
+            "char": "Lanie Harmon"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Ayame Thomson",
+        "nm": 861069,
+        "roles": [
+          {
+            "char": "Susan"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Meyering Jr.",
+        "nm": 583463,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kay Freeman",
+        "nm": 293468,
+        "roles": [
+          {
+            "char": "Debbie Sylvera"
+          }
+        ]
+      },
+      {
+        "name": "Jay Michael Fraley",
+        "nm": 1620594,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Julie Tesh",
+        "nm": 856263,
+        "roles": [
+          {
+            "char": "Female Student"
+          }
+        ]
+      },
+      {
+        "name": "Linda Montana",
+        "nm": 598928,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Ashton Root",
+        "nm": 5435535,
+        "roles": [
+          {
+            "char": "Jensen"
+          }
+        ]
+      },
+      {
+        "name": "Lauren Berman",
+        "nm": 5435601,
+        "roles": [
+          {
+            "char": "Female Student"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Orange Blossom",
+    "tt": 710625,
+    "air_date": "1986-04-29",
+    "description": "Ray is contacted by a doctor at a mental hospital about some strange occurrences. But, once he gets inside the hospital, he finds out the \"doctor\" is really a patient. However, there really are some nefarious activities that he uncovers.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Robyn Douglass",
+        "nm": 235228,
+        "roles": [
+          {
+            "char": "Assistant D.A. Daphne Delgado"
+          }
+        ]
+      },
+      {
+        "name": "Kate Charleson",
+        "nm": 153183,
+        "roles": [
+          {
+            "char": "Harriet Miller"
+          }
+        ]
+      },
+      {
+        "name": "Erica Yohn",
+        "nm": 948361,
+        "roles": [
+          {
+            "char": "Lead Russian Agent"
+          }
+        ]
+      },
+      {
+        "name": "Stewart Moss",
+        "nm": 609088,
+        "roles": [
+          {
+            "char": "Sheraton"
+          }
+        ]
+      },
+      {
+        "name": "Tony Longo",
+        "nm": 519440,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "J. Patrick McNamara",
+        "nm": 573688,
+        "roles": [
+          {
+            "char": "Dr. Hugo Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Mark Lowenthal",
+        "nm": 523172,
+        "roles": [
+          {
+            "char": "Catcroft"
+          }
+        ]
+      },
+      {
+        "name": "Granville Ames",
+        "nm": 24707,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Donegan Smith",
+        "nm": 807996,
+        "roles": [
+          {
+            "char": "Edward Cortanus"
+          }
+        ]
+      },
+      {
+        "name": "Viola Kates Stimpson",
+        "nm": 830390,
+        "roles": [
+          {
+            "char": "Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Philip Seibel",
+        "nm": 782280,
+        "roles": [
+          {
+            "char": "Talentakoff",
+            "as Lynn Seibel": true
+          }
+        ]
+      },
+      {
+        "name": "Al Pugliese",
+        "nm": 700094,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Eddie Lo Russo",
+        "nm": 516260,
+        "roles": [
+          {
+            "char": "Bar Owner",
+            "as Eddie LoRusso": true
+          }
+        ]
+      },
+      {
+        "name": "Carl Bressler",
+        "nm": 107808,
+        "roles": [
+          {
+            "char": "Kitchen Guard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Less Than the Eye Can See",
+    "tt": 710622,
+    "air_date": "1986-05-06",
+    "description": "An employee of WHO shows up at Ray's door, and promptly dies after telling Ray he's infected with smallpox. Ray's investigation leads him to a secret government research facility.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Raymond Singer",
+        "nm": 802027,
+        "roles": [
+          {
+            "char": "David Warren"
+          }
+        ]
+      },
+      {
+        "name": "Larry Keith",
+        "nm": 445263,
+        "roles": [
+          {
+            "char": "Senator Don Hartzler"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Tigar",
+        "nm": 863024,
+        "roles": [
+          {
+            "char": "J.P. McGill"
+          },
+          {
+            "char": "MT-132"
+          }
+        ]
+      },
+      {
+        "name": "Frank Dent",
+        "nm": 219759,
+        "roles": [
+          {
+            "char": "Dr. Vance"
+          }
+        ]
+      },
+      {
+        "name": "James Newell",
+        "nm": 627804,
+        "roles": [
+          {
+            "char": "Doolittle"
+          }
+        ]
+      },
+      {
+        "name": "John Welsh",
+        "nm": 920557,
+        "roles": [
+          {
+            "char": "Lawrence 'Larry' Thorson"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Joseph",
+        "nm": 3030481,
+        "roles": [
+          {
+            "char": "Suit Man"
+          }
+        ]
+      },
+      {
+        "name": "Sam Albanase",
+        "nm": 16257,
+        "roles": [
+          {
+            "char": "Guard #2"
+          }
+        ]
+      },
+      {
+        "name": "Richard Biggs",
+        "nm": 81863,
+        "roles": [
+          {
+            "char": "Cabin Guard"
+          }
+        ]
+      },
+      {
+        "name": "Thom Rachford",
+        "nm": 705105,
+        "roles": [
+          {
+            "char": "George"
+          }
+        ]
+      },
+      {
+        "name": "Nick Eldredge",
+        "nm": 253142,
+        "roles": [
+          {
+            "char": "Paul"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Pescia",
+        "nm": 675939,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Nathan Le Grand",
+        "nm": 494345,
+        "roles": [
+          {
+            "char": "Guardsman",
+            "as Nathan LeGrand": true
+          }
+        ]
+      },
+      {
+        "name": "Gary Bowen",
+        "nm": 5435593,
+        "roles": [
+          {
+            "char": "Kelter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "That Terrible Swift Sword",
+    "tt": 710628,
+    "air_date": "1986-05-13",
+    "description": "Ray is hired by Sister Allison of a traveling religious show to find a serial killer murdering prostitutes in the cities that the show stops at. Ray goes undercover as a preacher to find the culprit, but when he does it seems to profoundly affect him.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Barbara Williams",
+        "nm": 930062,
+        "roles": [
+          {
+            "char": "Sister Allison MacKenzie"
+          }
+        ]
+      },
+      {
+        "name": "Jim McKrell",
+        "nm": 572100,
+        "roles": [
+          {
+            "char": "Reverend Dixon",
+            "as James MacKrell": true
+          }
+        ]
+      },
+      {
+        "name": "David Froman",
+        "nm": 296313,
+        "roles": [
+          {
+            "char": "Lee Osborne"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Pankin",
+        "nm": 659573,
+        "roles": [
+          {
+            "char": "Morgan"
+          }
+        ]
+      },
+      {
+        "name": "John Lawlor",
+        "nm": 492552,
+        "roles": [
+          {
+            "char": "Dr. Jimmy Monroe"
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Det. Kennedy"
+          }
+        ]
+      },
+      {
+        "name": "James Hornbeck",
+        "nm": 394958,
+        "roles": [
+          {
+            "char": "Hunt"
+          }
+        ]
+      },
+      {
+        "name": "Bill Gratton",
+        "nm": 336029,
+        "roles": [
+          {
+            "char": "Paul Haywood"
+          }
+        ]
+      },
+      {
+        "name": "Robert Beecher",
+        "nm": 66331,
+        "roles": [
+          {
+            "char": "Rummy",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Conrad Hurtt",
+        "nm": 403767,
+        "roles": [
+          {
+            "char": "Police officer",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "The Greeter",
+    "tt": 710630,
+    "air_date": "1987-01-09",
+    "description": "A pharmaceutical chemist hires Ray to investigate some bogus drugs. When Ray arrives at the plant, not only is the chemist missing, no one in the company admits to having known him. With the help of a local Vietnam vet, Ray gets the information he needs about what's going on.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Steven Williams",
+        "nm": 931736,
+        "roles": [
+          {
+            "char": "Tommy Miller, The Greeter"
+          }
+        ]
+      },
+      {
+        "name": "Ann Wilkinson",
+        "nm": 929335,
+        "roles": [
+          {
+            "char": "Michelle 'Micky' Strickland"
+          }
+        ]
+      },
+      {
+        "name": "Vernon Weddle",
+        "nm": 917136,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "J.C. Quinn",
+        "nm": 703862,
+        "roles": [
+          {
+            "char": "Sheriff Martin"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Trent",
+        "nm": 872141,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Howard Siegel",
+        "nm": 796941,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "David Hemmings",
+        "nm": 376101,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gordon Signer",
+        "nm": 797506,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John Bluethner",
+        "nm": 89586,
+        "roles": [
+          {
+            "char": "Kevin Wade",
+            "as John Bluethener": true
+          }
+        ]
+      },
+      {
+        "name": "Rod Padmos",
+        "nm": 655812,
+        "roles": [
+          {
+            "char": "Whit Bissell"
+          }
+        ]
+      },
+      {
+        "name": "Dana Brooks",
+        "nm": 111935,
+        "roles": [
+          {
+            "char": "Mrs. Brokman"
+          }
+        ]
+      },
+      {
+        "name": "Frank Totino",
+        "nm": 869378,
+        "roles": [
+          {
+            "char": "Warren"
+          }
+        ]
+      },
+      {
+        "name": "Cara Fenning",
+        "nm": 3932938,
+        "roles": [
+          {
+            "char": "Martha Wade"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Ramsey",
+        "nm": 3933558,
+        "roles": [
+          {
+            "char": "Guard in Plant"
+          }
+        ]
+      },
+      {
+        "name": "Margaret Bard",
+        "nm": 54149,
+        "roles": [
+          {
+            "char": "Tina"
+          }
+        ]
+      },
+      {
+        "name": "Des Dejardins",
+        "nm": 3933602,
+        "roles": [
+          {
+            "char": "Guard in Shack"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Lowenda",
+        "nm": 3934958,
+        "roles": [
+          {
+            "char": "Boy #2"
+          }
+        ]
+      },
+      {
+        "name": "Joshua Calladine",
+        "nm": 3933949,
+        "roles": [
+          {
+            "char": "Boy #1"
+          }
+        ]
+      },
+      {
+        "name": "Steve Boyum",
+        "nm": 102434,
+        "roles": [
+          {
+            "char": "Guard on Truck"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Gemini",
+    "tt": 710621,
+    "air_date": "1987-01-16",
+    "description": "Someone from out of Ray's past is setting him up for murder. And the people he's helped before are either not helping him, or acting against him.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Marcia Strassman",
+        "nm": 833519,
+        "roles": [
+          {
+            "char": "Councilwoman Sondra Decker"
+          }
+        ]
+      },
+      {
+        "name": "Francis X. McCarthy",
+        "nm": 565133,
+        "roles": [
+          {
+            "char": "Detective",
+            "as Frank McCarthy": true
+          }
+        ]
+      },
+      {
+        "name": "Billy Hayes",
+        "nm": 370907,
+        "roles": [
+          {
+            "char": "Edward Benton",
+            "as William Hayes": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Rafel",
+        "nm": 706176,
+        "roles": [
+          {
+            "char": "Jenny Benton"
+          },
+          {
+            "char": "Barbara Samuel"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Rhodes",
+        "nm": 722378,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Margot Pinvidic",
+        "nm": 684749,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Garwin Sanford",
+        "nm": 762560,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Laurie Briscoe",
+        "nm": 109798,
+        "roles": [
+          {
+            "char": "Lynn Williams"
+          }
+        ]
+      },
+      {
+        "name": "Caroline Barclay",
+        "nm": 54026,
+        "roles": [
+          {
+            "char": "Kathy Sellers",
+            "as Caroline Barkly": true
+          }
+        ]
+      },
+      {
+        "name": "Dale Wilson",
+        "nm": 933232,
+        "roles": [
+          {
+            "char": "Jeff"
+          }
+        ]
+      },
+      {
+        "name": "William S. Taylor",
+        "nm": 853335,
+        "roles": [
+          {
+            "char": "Mr. Giles"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Yates",
+        "nm": 3682152,
+        "roles": [
+          {
+            "char": "Rosiland"
+          }
+        ]
+      },
+      {
+        "name": "Val Pearson",
+        "nm": 5535036,
+        "roles": [
+          {
+            "char": "TV Announcer"
+          }
+        ]
+      },
+      {
+        "name": "Susanna Portnoy",
+        "nm": 692474,
+        "roles": [
+          {
+            "char": "Airline Hostess"
+          }
+        ]
+      },
+      {
+        "name": "Peter Spear",
+        "nm": 5534494,
+        "roles": [
+          {
+            "char": "Transit Cop"
+          }
+        ]
+      },
+      {
+        "name": "Sandra Birch",
+        "nm": 5534471,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Paul Cowling",
+        "nm": 184843,
+        "roles": [
+          {
+            "char": "Uniform Cop"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Milton",
+        "nm": 5534743,
+        "roles": [
+          {
+            "char": "Nancy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Playback",
+    "tt": 710626,
+    "air_date": "1987-01-23",
+    "description": "A test of a new self-contained research station goes awry and all but one of the researchers ends up dead. Ray goes in with a new team, which includes the lone survivor, to try and determine what happened.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Eugene Roche",
+        "nm": 733929,
+        "roles": [
+          {
+            "char": "Capt. Tim Greenwood"
+          }
+        ]
+      },
+      {
+        "name": "Jack Blessing",
+        "nm": 88269,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Charles Boswell",
+        "nm": 98332,
+        "roles": [
+          {
+            "char": "Sam"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Hart Carroll",
+        "nm": 140906,
+        "roles": [
+          {
+            "char": "Deidre Sagler"
+          }
+        ]
+      },
+      {
+        "name": "Evan C. Kim",
+        "nm": 453447,
+        "roles": [
+          {
+            "char": "Hal Nelson",
+            "as Evan Kim": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Kuss",
+        "nm": 476369,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Charles Lucia",
+        "nm": 524547,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Maureen Malone",
+        "nm": 1648286,
+        "roles": [
+          {
+            "char": "Nancy"
+          }
+        ]
+      },
+      {
+        "name": "Julian Christopher",
+        "nm": 160589,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Christopher Youngren",
+        "nm": 5535664,
+        "roles": [
+          {
+            "char": "Ry Anderson"
+          }
+        ]
+      },
+      {
+        "name": "Howard Bent",
+        "nm": 5536447,
+        "roles": [
+          {
+            "char": "Rankin"
+          }
+        ]
+      },
+      {
+        "name": "Warren Smith",
+        "nm": 5536631,
+        "roles": [
+          {
+            "char": "Dr. Louie"
+          }
+        ]
+      },
+      {
+        "name": "Linda Mackay",
+        "nm": 533188,
+        "roles": [
+          {
+            "char": "Patricia Reiker",
+            "as Linda MacKay": true
+          }
+        ]
+      },
+      {
+        "name": "Bob O'Callaghan",
+        "nm": 5535737,
+        "roles": [
+          {
+            "char": "Forrest"
+          }
+        ]
+      },
+      {
+        "name": "Susan Laura Smith",
+        "nm": 3652955,
+        "roles": [
+          {
+            "char": "Futz"
+          }
+        ]
+      },
+      {
+        "name": "Garry Chalk",
+        "nm": 149942,
+        "roles": [
+          {
+            "char": "Simmons",
+            "as Gary Chalk": true
+          }
+        ]
+      },
+      {
+        "name": "Ty Haller",
+        "nm": 356436,
+        "roles": [
+          {
+            "char": "Dr. Lewis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Bring Me the Hand That Hit Me",
+    "tt": 710616,
+    "air_date": "1987-01-30",
+    "description": "A girl asks Ray to help her mentally handicapped brother whom she thinks is in trouble. It seems that he and the guy he hangs with robbed a mobster. And they thought what they got wouldn't be missed but not only does the man want what they took from him. He also wants the hand of the man who struck him.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Roberts Blossom",
+        "nm": 89348,
+        "roles": [
+          {
+            "char": "Uncle Pat 'The Cat' Morel"
+          }
+        ]
+      },
+      {
+        "name": "Tom O'Brien",
+        "nm": 639856,
+        "roles": [
+          {
+            "char": "Joey Lane"
+          }
+        ]
+      },
+      {
+        "name": "Lori Petty",
+        "nm": 1614,
+        "roles": [
+          {
+            "char": "Lisa Perlman"
+          }
+        ]
+      },
+      {
+        "name": "Gregg Henry",
+        "nm": 1344,
+        "roles": [
+          {
+            "char": "Wyatt Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Michael Vairo",
+        "nm": 2667385,
+        "roles": [
+          {
+            "char": "Mickey"
+          }
+        ]
+      },
+      {
+        "name": "Mark Acheson",
+        "nm": 9811,
+        "roles": [
+          {
+            "char": "Jilly"
+          }
+        ]
+      },
+      {
+        "name": "Alvin Sanders",
+        "nm": 761452,
+        "roles": [
+          {
+            "char": "Dave",
+            "as Alvin Lee Sanders": true
+          }
+        ]
+      },
+      {
+        "name": "Janet Judd",
+        "nm": 431844,
+        "roles": [
+          {
+            "char": "Jinny"
+          }
+        ]
+      },
+      {
+        "name": "Roberto Martín Márquez",
+        "nm": 549872,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Echoes",
+    "tt": 710619,
+    "air_date": "1987-02-06",
+    "description": "A sculptor that Ray helped in the past is once again being stalked, apparently by the very same man who is supposed to be dead. Ray is hired by the agent this time to safeguard the sculptor.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Samantha Eggar",
+        "nm": 2058,
+        "roles": [
+          {
+            "char": "Camilla Rousseau"
+          }
+        ]
+      },
+      {
+        "name": "Cliff Potts",
+        "nm": 693420,
+        "roles": [
+          {
+            "char": "Stephen"
+          }
+        ]
+      },
+      {
+        "name": "Robert Harper",
+        "nm": 363948,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Joseph Hacker",
+        "nm": 352420,
+        "roles": [
+          {
+            "char": "Banks"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Maher",
+        "nm": 536850,
+        "roles": [
+          {
+            "char": "Peter Van Hoat"
+          }
+        ]
+      },
+      {
+        "name": "Mark L. Taylor",
+        "nm": 852848,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Julianna McCarthy",
+        "nm": 565197,
+        "roles": [
+          {
+            "char": "Ruth Daniels"
+          }
+        ]
+      },
+      {
+        "name": "Walker Edmiston",
+        "nm": 249456,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Larry Musser",
+        "nm": 615858,
+        "roles": [
+          {
+            "char": "Det. LaRue"
+          }
+        ]
+      },
+      {
+        "name": "David Thompson",
+        "nm": 860036,
+        "roles": [
+          {
+            "char": "Howie"
+          }
+        ]
+      },
+      {
+        "name": "Tom Scholier",
+        "nm": 5536976,
+        "roles": [
+          {
+            "char": "Mover"
+          }
+        ]
+      },
+      {
+        "name": "Tony Totino",
+        "nm": 1060591,
+        "roles": [
+          {
+            "char": "Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Williamson",
+        "nm": 3654845,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Roger Untinen",
+        "nm": 5536837,
+        "roles": [
+          {
+            "char": "Uniform"
+          }
+        ]
+      },
+      {
+        "name": "Linda Kupecek",
+        "nm": 475435,
+        "roles": [
+          {
+            "char": "Pink"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "The First Time Is Forever",
+    "tt": 710629,
+    "air_date": "1987-02-20",
+    "description": "Ray turns down a journalist who shortly thereafter ends up dead. Recognizing he may have made a mistake Ray decides to look into things. As he investigates he keeps having hallucinations or flashbacks of killing people.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Raleigh Bond",
+        "nm": 94018,
+        "roles": [
+          {
+            "char": "Warren Medford"
+          }
+        ]
+      },
+      {
+        "name": "Margaret Michaels",
+        "nm": 584432,
+        "roles": [
+          {
+            "char": "Erica Townsend"
+          }
+        ]
+      },
+      {
+        "name": "John Carter",
+        "nm": 141715,
+        "roles": [
+          {
+            "char": "Jason McDaniels"
+          }
+        ]
+      },
+      {
+        "name": "Stanley Grover",
+        "nm": 344043,
+        "roles": [
+          {
+            "char": "Myles Townsend"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Altman",
+        "nm": 22901,
+        "roles": [
+          {
+            "char": "Jeff"
+          }
+        ]
+      },
+      {
+        "name": "William S. Taylor",
+        "nm": 853335,
+        "roles": [
+          {
+            "char": "FBI Agent",
+            "as William Taylor": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Muldoon",
+        "nm": 611746,
+        "roles": [
+          {
+            "char": "FBI Agent"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Nelson",
+        "nm": 625550,
+        "roles": [
+          {
+            "char": "Medford's Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Don MacKay",
+        "nm": 533154,
+        "roles": [
+          {
+            "char": "Wally"
+          }
+        ]
+      },
+      {
+        "name": "Dana Still",
+        "nm": 830222,
+        "roles": [
+          {
+            "char": "Senator Lewis"
+          }
+        ]
+      },
+      {
+        "name": "Ted Stidder",
+        "nm": 830028,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Jane McDougal",
+        "nm": 568209,
+        "roles": [
+          {
+            "char": "Anchorwoman"
+          }
+        ]
+      },
+      {
+        "name": "Max Riemer",
+        "nm": 5540193,
+        "roles": [
+          {
+            "char": "Jimbo"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Madalone",
+        "nm": 534480,
+        "roles": [
+          {
+            "char": "Brett"
+          }
+        ]
+      },
+      {
+        "name": "Bill Murdock",
+        "nm": 613781,
+        "roles": [
+          {
+            "char": "Newsman #1"
+          }
+        ]
+      },
+      {
+        "name": "Nathan Vanering",
+        "nm": 889029,
+        "roles": [
+          {
+            "char": "Dixon"
+          }
+        ]
+      },
+      {
+        "name": "Teryl Rothery",
+        "nm": 745186,
+        "roles": [
+          {
+            "char": "Mary"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Isaak",
+        "nm": 410599,
+        "roles": [
+          {
+            "char": "Toni",
+            "as Nancy Isaac": true
+          }
+        ]
+      },
+      {
+        "name": "Rob Morton",
+        "nm": 608080,
+        "roles": [
+          {
+            "char": "Donovan"
+          }
+        ]
+      },
+      {
+        "name": "Roger Allford",
+        "nm": 21321,
+        "roles": [
+          {
+            "char": "Priest",
+            "as Roger Alford": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Autumn",
+    "tt": 710613,
+    "air_date": "1987-02-27",
+    "description": "Ray gets hired by a beautiful blonde to look into the disappearance of her father. But things just aren't making sense. It appears as though a novelist is somehow setting situations up for him.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Bibi Osterwald",
+        "nm": 652410,
+        "roles": [
+          {
+            "char": "Audrey Brewster"
+          }
+        ]
+      },
+      {
+        "name": "Shannon Tweed",
+        "nm": 238,
+        "roles": [
+          {
+            "char": "Harmony Masters"
+          },
+          {
+            "char": "Janis Rubin"
+          }
+        ]
+      },
+      {
+        "name": "Louise Caire Clark",
+        "nm": 164227,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kit Fredericks",
+        "nm": 292858,
+        "roles": [
+          {
+            "char": "Noreen Perry"
+          },
+          {
+            "char": "Marla"
+          }
+        ]
+      },
+      {
+        "name": "Mary Jackson",
+        "nm": 413839,
+        "roles": [
+          {
+            "char": "Amelia Brewster"
+          }
+        ]
+      },
+      {
+        "name": "Maureen Thomas",
+        "nm": 5541616,
+        "roles": [
+          {
+            "char": "Debbie"
+          }
+        ]
+      },
+      {
+        "name": "Grant Lowe",
+        "nm": 522947,
+        "roles": [
+          {
+            "char": "Farmer"
+          }
+        ]
+      },
+      {
+        "name": "Erin Tettensor",
+        "nm": 5541734,
+        "roles": [
+          {
+            "char": "Jessica"
+          }
+        ]
+      },
+      {
+        "name": "Tammy Comstock",
+        "nm": 5541692,
+        "roles": [
+          {
+            "char": "Abigail"
+          }
+        ]
+      },
+      {
+        "name": "Brenda Larcen",
+        "nm": 5541684,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Paul Whitney",
+        "nm": 926336,
+        "roles": [
+          {
+            "char": "Capt. Jerome"
+          }
+        ]
+      },
+      {
+        "name": "Greg F. Rogers",
+        "nm": 2851443,
+        "roles": [
+          {
+            "char": "Director",
+            "as Greg Rogers": true
+          }
+        ]
+      },
+      {
+        "name": "Douglas Riske",
+        "nm": 728303,
+        "roles": [
+          {
+            "char": "Coroner",
+            "as Doug Riske": true
+          }
+        ]
+      },
+      {
+        "name": "Brian Gromoff",
+        "nm": 343038,
+        "roles": [
+          {
+            "char": "Frank Simmons"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "The Neniwa",
+    "tt": 710631,
+    "air_date": "1987-03-06",
+    "description": "Ray poses as a college anthropology instructor in order to investigate suspicious accidents occurring at a construction site on what may be an Indian burial ground. The site may be a sacred place to a local tribe, but the developer plans to go ahead with the project unless Ray can get the him to reconnect with his own heritage.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Nick Ramus",
+        "nm": 709142,
+        "roles": [
+          {
+            "char": "Alexander Bondy"
+          }
+        ]
+      },
+      {
+        "name": "Jenny Gago",
+        "nm": 301083,
+        "roles": [
+          {
+            "char": "Linda"
+          }
+        ]
+      },
+      {
+        "name": "Frank Salsedo",
+        "nm": 759004,
+        "roles": [
+          {
+            "char": "Chief Daniel Clearwater",
+            "as Frank Sotonoma Salsedo": true
+          }
+        ]
+      },
+      {
+        "name": "Craig Richard Nelson",
+        "nm": 625269,
+        "roles": [
+          {
+            "char": "Al Smith"
+          }
+        ]
+      },
+      {
+        "name": "John Wesley",
+        "nm": 921746,
+        "roles": [
+          {
+            "char": "Detective Washington"
+          }
+        ]
+      },
+      {
+        "name": "Robby Romero",
+        "nm": 739571,
+        "roles": [
+          {
+            "char": "Michael"
+          }
+        ]
+      },
+      {
+        "name": "Joe Gallagher",
+        "nm": 302407,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Heidi Sorenson",
+        "nm": 814888,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Moira Walley-Beckett",
+        "nm": 909124,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kelvin Bonneau",
+        "nm": 1374587,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Constantine",
+        "nm": 176059,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ken Camroux",
+        "nm": 133400,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Pamela Betzelt",
+        "nm": 5542330,
+        "roles": [
+          {
+            "char": "Kelly"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Corrie",
+        "nm": 180942,
+        "roles": [
+          {
+            "char": "Detective"
+          }
+        ]
+      },
+      {
+        "name": "Keith Doiron",
+        "nm": 5542257,
+        "roles": [
+          {
+            "char": "Truck Driver"
+          }
+        ]
+      },
+      {
+        "name": "Rod Jarvis",
+        "nm": 419114,
+        "roles": [
+          {
+            "char": "Uniform #2"
+          }
+        ]
+      },
+      {
+        "name": "Michael Lally",
+        "nm": 5543444,
+        "roles": [
+          {
+            "char": "Construction Worker"
+          }
+        ]
+      },
+      {
+        "name": "Tom Holley",
+        "nm": 4070271,
+        "roles": [
+          {
+            "char": "Construction Worker"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Gordon",
+        "nm": 5543272,
+        "roles": [
+          {
+            "char": "Foreman"
+          }
+        ]
+      },
+      {
+        "name": "Murray McRae",
+        "nm": 574454,
+        "roles": [
+          {
+            "char": "Hardhat #1"
+          }
+        ]
+      },
+      {
+        "name": "Heather Ward Siegel",
+        "nm": 796938,
+        "roles": [
+          {
+            "char": "Diane"
+          }
+        ]
+      },
+      {
+        "name": "Susanne Gillies Smith",
+        "nm": 5542681,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Wasserman",
+        "nm": 913682,
+        "roles": [
+          {
+            "char": "Head Marshall",
+            "as Gerry Wasserman": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "The Second Finest Man Who Ever Lived",
+    "tt": 710632,
+    "air_date": "1987-03-20",
+    "description": "Ray gets involved when a man he helped in the past dies under suspicious circumstances working at the docks. The man's developmentally challenged son agrees to take on his father's debt as Ray tries to work out what got the man killed.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Carmine Caridi",
+        "nm": 137142,
+        "roles": [
+          {
+            "char": "Cobb"
+          }
+        ]
+      },
+      {
+        "name": "Kabir Bedi",
+        "nm": 1934,
+        "roles": [
+          {
+            "char": "Dousseau"
+          }
+        ]
+      },
+      {
+        "name": "Mike Genovese",
+        "nm": 312973,
+        "roles": [
+          {
+            "char": "Hanson"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Christopher",
+        "nm": 160550,
+        "roles": [
+          {
+            "char": "Joshua Williams"
+          }
+        ]
+      },
+      {
+        "name": "David Petersen",
+        "nm": 676792,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lee Taylor",
+        "nm": 852757,
+        "roles": [
+          {
+            "char": "Cyrus Williams"
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Berry",
+        "nm": 77615,
+        "roles": [
+          {
+            "char": "Priest"
+          }
+        ]
+      },
+      {
+        "name": "Bill Buck",
+        "nm": 118325,
+        "roles": [
+          {
+            "char": "Ed"
+          }
+        ]
+      },
+      {
+        "name": "Garrison Christiohn",
+        "nm": 160421,
+        "roles": [
+          {
+            "char": "Sal",
+            "as Garison Chrisjohn": true
+          }
+        ]
+      },
+      {
+        "name": "Kevin McNulty",
+        "nm": 574081,
+        "roles": [
+          {
+            "char": "Peters",
+            "as Kevin McNaulty": true
+          }
+        ]
+      },
+      {
+        "name": "Steven Miller",
+        "nm": 589372,
+        "roles": [
+          {
+            "char": "Dan"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Walker",
+        "nm": 908022,
+        "roles": [
+          {
+            "char": "Captain Rabin",
+            "as Matt Walker": true
+          }
+        ]
+      },
+      {
+        "name": "Richard Side",
+        "nm": 796526,
+        "roles": [
+          {
+            "char": "Todd"
+          }
+        ]
+      },
+      {
+        "name": "Natino Bellantoni",
+        "nm": 68751,
+        "roles": [
+          {
+            "char": "Maître d'",
+            "as Natino Bellintoni": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Yunker",
+        "nm": 950975,
+        "roles": [
+          {
+            "char": "Winters"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Night Maneuvers",
+    "tt": 710623,
+    "air_date": "1987-03-27",
+    "description": "When a cadet at a military academy thinks he saw a crime, he tells some of the officers what happened. They check it out and can't find any evidence of what he said happened. He later contacts Ray who says he will look into. He then shows up as a new instructor.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Doug Savant",
+        "nm": 767443,
+        "roles": [
+          {
+            "char": "Cdt. Thomas O'Conner"
+          }
+        ]
+      },
+      {
+        "name": "George McDaniel",
+        "nm": 567404,
+        "roles": [
+          {
+            "char": "Sgt. Jeff Callahan"
+          }
+        ]
+      },
+      {
+        "name": "James A. Watson Jr.",
+        "nm": 914482,
+        "roles": [
+          {
+            "char": "Lt. Dave Fredrickson"
+          }
+        ]
+      },
+      {
+        "name": "Bill Calvert",
+        "nm": 130785,
+        "roles": [
+          {
+            "char": "Cdt. Tony Santini"
+          }
+        ]
+      },
+      {
+        "name": "Joe Higgins",
+        "nm": 383414,
+        "roles": [
+          {
+            "char": "Gen. Hart"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Darren",
+        "nm": 1648104,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Roman Podhora",
+        "nm": 687999,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stephen Walker",
+        "nm": 5544726,
+        "roles": [
+          {
+            "char": "Graham"
+          }
+        ]
+      },
+      {
+        "name": "Debra Karr",
+        "nm": 440062,
+        "roles": [
+          {
+            "char": "Cathy McDonald",
+            "as Debbie Karr": true
+          }
+        ]
+      },
+      {
+        "name": "Bruce McLeod",
+        "nm": 5545373,
+        "roles": [
+          {
+            "char": "Jordan"
+          }
+        ]
+      },
+      {
+        "name": "Peter Nicholas",
+        "nm": 5545170,
+        "roles": [
+          {
+            "char": "Pete Clemson"
+          }
+        ]
+      },
+      {
+        "name": "Greg Hayes",
+        "nm": 5544348,
+        "roles": [
+          {
+            "char": "Cadet in Bar"
+          }
+        ]
+      },
+      {
+        "name": "Jeramy Mathew",
+        "nm": 5544123,
+        "roles": [
+          {
+            "char": "Sentry"
+          }
+        ]
+      },
+      {
+        "name": "David Paul Hewitt White",
+        "nm": 1751602,
+        "roles": [
+          {
+            "char": "Naval Cadet",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Cry Wolf",
+    "tt": 710618,
+    "air_date": "1987-04-03",
+    "description": "Ray is hired by an actor who's been having attempts on his life. The actor seems to have rather overly dramatic grasp of reality.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Jeff Conaway",
+        "nm": 1063,
+        "roles": [
+          {
+            "char": "Ty Gardner"
+          }
+        ]
+      },
+      {
+        "name": "Renny Temple",
+        "nm": 854718,
+        "roles": [
+          {
+            "char": "Arnold Dodd"
+          }
+        ]
+      },
+      {
+        "name": "Thalmus Rasulala",
+        "nm": 711560,
+        "roles": [
+          {
+            "char": "FBI Agent Mutter"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Ruskin",
+        "nm": 750826,
+        "roles": [
+          {
+            "char": "Sam de Augusta"
+          }
+        ]
+      },
+      {
+        "name": "Tony Abatemarco",
+        "nm": 7762,
+        "roles": [
+          {
+            "char": "Mark Webber"
+          }
+        ]
+      },
+      {
+        "name": "Lindsay Bourne",
+        "nm": 100074,
+        "roles": [
+          {
+            "char": "Capt. Severs",
+            "as Linsay Bourne": true
+          }
+        ]
+      },
+      {
+        "name": "Tom Kuwahara",
+        "nm": 1813053,
+        "roles": [
+          {
+            "char": "Susu Machidomi"
+          }
+        ]
+      },
+      {
+        "name": "Howard Storey",
+        "nm": 832467,
+        "roles": [
+          {
+            "char": "Ross",
+            "as Howard Story": true
+          }
+        ]
+      },
+      {
+        "name": "Ian Black",
+        "nm": 85303,
+        "roles": [
+          {
+            "char": "Marty Finback"
+          }
+        ]
+      },
+      {
+        "name": "Lori Michele Harris",
+        "nm": 365023,
+        "roles": [
+          {
+            "char": "Dina Fairchild",
+            "as Lori Harris": true
+          }
+        ]
+      },
+      {
+        "name": "Sharon Anderson",
+        "nm": 27437,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Johnson",
+        "nm": 425700,
+        "roles": [
+          {
+            "char": "Peterson"
+          }
+        ]
+      },
+      {
+        "name": "Jana White",
+        "nm": 2651204,
+        "roles": [
+          {
+            "char": "Lois"
+          }
+        ]
+      },
+      {
+        "name": "Frank Totino",
+        "nm": 869378,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Bruce McInnes",
+        "nm": 570575,
+        "roles": [
+          {
+            "char": "Man #2"
+          }
+        ]
+      },
+      {
+        "name": "Jack Ackroyd",
+        "nm": 10101,
+        "roles": [
+          {
+            "char": "Tiger Paw"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "Blood Money",
+    "tt": 710615,
+    "air_date": "1987-04-10",
+    "description": "A Principal of an inner city school turns to Ray for help when a Fagin like criminal has his sights on three of his students who he thinks can do some good if they stay out of his clutches. So Ray goes as a teacher.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Felton Perry",
+        "nm": 675066,
+        "roles": [
+          {
+            "char": "Floyd Wilson"
+          }
+        ]
+      },
+      {
+        "name": "David Raynr",
+        "nm": 713527,
+        "roles": [
+          {
+            "char": "J.J. Evans"
+          }
+        ]
+      },
+      {
+        "name": "Miguel A. Núñez Jr.",
+        "nm": 639200,
+        "roles": [
+          {
+            "char": "Curtis Roberts",
+            "as Miguel Nunez": true
+          }
+        ]
+      },
+      {
+        "name": "De'voreaux White",
+        "nm": 924636,
+        "roles": [
+          {
+            "char": "Darvell Keyes",
+            "as Devoreaux White": true
+          }
+        ]
+      },
+      {
+        "name": "James Handy",
+        "nm": 359695,
+        "roles": [
+          {
+            "char": "Chief Nelson Riskin",
+            "ch": 71033
+          }
+        ]
+      },
+      {
+        "name": "John Amos",
+        "nm": 25309,
+        "roles": [
+          {
+            "char": "Roy Jeffries"
+          }
+        ]
+      },
+      {
+        "name": "Kareem Abdul-Jabbar",
+        "nm": 717,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Cindi Eyman",
+        "nm": 264176,
+        "roles": [
+          {
+            "char": "Patricia"
+          }
+        ]
+      },
+      {
+        "name": "Charles Siegel",
+        "nm": 796907,
+        "roles": [
+          {
+            "char": "Fred"
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "O'Dell"
+          }
+        ]
+      },
+      {
+        "name": "Gwyneth Harvey",
+        "nm": 367540,
+        "roles": [
+          {
+            "char": "Housekeeper"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "Anytime, Anywhere",
+    "tt": 710612,
+    "air_date": "1987-04-17",
+    "description": "Ray travels back to Vietnam to help retrieve a statue in return for a list of POWs still being held. During the transaction Ray is blinded and must learn to exist in a new world.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Stephen Chang",
+        "nm": 151822,
+        "roles": [
+          {
+            "char": "Scarface"
+          }
+        ]
+      },
+      {
+        "name": "Rosalind Chao",
+        "nm": 1034,
+        "roles": [
+          {
+            "char": "Colette Tran"
+          }
+        ]
+      },
+      {
+        "name": "John Fujioka",
+        "nm": 297801,
+        "roles": [
+          {
+            "char": "Grandfather Tran"
+          }
+        ]
+      },
+      {
+        "name": "James Hong",
+        "nm": 393222,
+        "roles": [
+          {
+            "char": "Man with Goatee"
+          }
+        ]
+      },
+      {
+        "name": "Clyde Kusatsu",
+        "nm": 476226,
+        "roles": [
+          {
+            "char": "Attending Surgeon"
+          }
+        ]
+      },
+      {
+        "name": "Tong Lung",
+        "nm": 453709,
+        "roles": [
+          {
+            "char": "Taxi Driver"
+          }
+        ]
+      },
+      {
+        "name": "James Pax",
+        "nm": 657070,
+        "roles": [
+          {
+            "char": "Captain"
+          }
+        ]
+      },
+      {
+        "name": "Leo Rossi",
+        "nm": 744235,
+        "roles": [
+          {
+            "char": "Johnny"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "Caper",
+    "tt": 710617,
+    "air_date": "1987-05-01",
+    "description": "Ray is asked to reunite a Soviet scientist with her father who escaped years before. Now, he's being smuggled in a container on a cruise ship as one thing after another goes wrong for Ray.",
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Judith Chapman",
+        "nm": 152420,
+        "roles": [
+          {
+            "char": "Carla"
+          }
+        ]
+      },
+      {
+        "name": "Todd Susman",
+        "nm": 839881,
+        "roles": [
+          {
+            "char": "Frankie Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Robert Swan",
+        "nm": 841568,
+        "roles": [
+          {
+            "char": "Captain Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Robert Mandan",
+        "nm": 541610,
+        "roles": [
+          {
+            "char": "Captain Redler"
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Armstrong",
+        "nm": 35811,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Merrilyn Gann",
+        "nm": 304422,
+        "roles": [
+          {
+            "char": "Susan"
+          }
+        ]
+      },
+      {
+        "name": "Trent Dolan",
+        "nm": 230855,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Doug Abrahams",
+        "nm": 9002,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bill Croft",
+        "nm": 188457,
+        "roles": [
+          {
+            "char": "Vladimir"
+          }
+        ]
+      },
+      {
+        "name": "Paul Batten",
+        "nm": 61356,
+        "roles": [
+          {
+            "char": "Eddie Tobin"
+          }
+        ]
+      },
+      {
+        "name": "Keith Martin Gordey",
+        "nm": 329888,
+        "roles": [
+          {
+            "char": "Yuri"
+          }
+        ]
+      },
+      {
+        "name": "John Donald",
+        "nm": 1478096,
+        "roles": [
+          {
+            "char": "Marshall"
+          }
+        ]
+      },
+      {
+        "name": "John Payne",
+        "nm": 668362,
+        "roles": [
+          {
+            "char": "Alex"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Barclay",
+        "nm": 54043,
+        "roles": [
+          {
+            "char": "Bride"
+          }
+        ]
+      },
+      {
+        "name": "Tracy Olsen",
+        "nm": 3745737,
+        "roles": [
+          {
+            "char": "Groom"
+          }
+        ]
+      },
+      {
+        "name": "Steven Bland",
+        "nm": 87388,
+        "roles": [
+          {
+            "char": "First Mate"
+          }
+        ]
+      },
+      {
+        "name": "Bill Yak",
+        "nm": 944999,
+        "roles": [
+          {
+            "char": "Sidney",
+            "as Bill Yack": true
+          }
+        ]
+      },
+      {
+        "name": "Beverley Elliott",
+        "nm": 254379,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E15",
+    "title": "One Way Ticket to the End of the Line",
+    "tt": 710624,
+    "air_date": "1987-05-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Nick Mancuso",
+        "nm": 541576,
+        "roles": [
+          {
+            "char": "Stingray",
+            "ch": 71032
+          }
+        ]
+      },
+      {
+        "name": "Barbara Williams",
+        "nm": 930062,
+        "roles": [
+          {
+            "char": "Ginny Mitchell",
+            "ch": 416221
+          }
+        ]
+      },
+      {
+        "name": "Robert Gray",
+        "nm": 336905,
+        "roles": [
+          {
+            "char": "Crenshaw"
+          }
+        ]
+      },
+      {
+        "name": "Cec Verrell",
+        "nm": 894842,
+        "roles": [
+          {
+            "char": "Barbara, DEA Agent"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Dirkson",
+        "nm": 228226,
+        "roles": [
+          {
+            "char": "Banjo"
+          }
+        ]
+      },
+      {
+        "name": "Lonny Chapman",
+        "nm": 152452,
+        "roles": [
+          {
+            "char": "Chuck Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "David Longworth",
+        "nm": 519519,
+        "roles": [
+          {
+            "char": "Artie Manning"
+          }
+        ]
+      },
+      {
+        "name": "Hagan Beggs",
+        "nm": 66732,
+        "roles": [
+          {
+            "char": "Richard Lovell",
+            "as Hagen Beggs": true
+          }
+        ]
+      },
+      {
+        "name": "Kim Kondrashoff",
+        "nm": 464940,
+        "roles": [
+          {
+            "char": "Tank"
+          }
+        ]
+      },
+      {
+        "name": "Campbell Lane",
+        "nm": 132655,
+        "roles": [
+          {
+            "char": "Terry Haslow",
+            "as Cam Lane": true
+          }
+        ]
+      },
+      {
+        "name": "John Curtis",
+        "nm": 193389,
+        "roles": [
+          {
+            "char": "Hicks"
+          }
+        ]
+      },
+      {
+        "name": "James Crescenzo",
+        "nm": 187447,
+        "roles": [
+          {
+            "char": "Eiger"
+          }
+        ]
+      },
+      {
+        "name": "Lon Katzman",
+        "nm": 441941,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      }
+    ]
+  }
+]

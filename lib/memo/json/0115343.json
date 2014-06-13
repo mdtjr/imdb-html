@@ -1,0 +1,2168 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Akumu no hana wo chirasu toki! Yami no joou fukkatsu",
+    "tt": 1035874,
+    "air_date": "1996-03-09",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E02",
+    "title": "Sataan no mezame! Seeraa 10 senshi shuuketsu",
+    "tt": 1035876,
+    "air_date": "1996-03-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Rica Fukami",
+        "nm": 297921,
+        "roles": [
+          {
+            "char": "Minako Aino",
+            "ch": 31723
+          }
+        ]
+      },
+      {
+        "name": "Tôru Furuya",
+        "nm": 299228,
+        "roles": [
+          {
+            "char": "Mamoru Chiba",
+            "ch": 28109
+          }
+        ]
+      },
+      {
+        "name": "Aya Hisakawa",
+        "nm": 386752,
+        "roles": [
+          {
+            "char": "Ami Mizuno",
+            "ch": 97248
+          }
+        ]
+      },
+      {
+        "name": "Masako Katsuki",
+        "nm": 441534,
+        "roles": [
+          {
+            "char": "Michiru Kaioh",
+            "ch": 97245
+          }
+        ]
+      },
+      {
+        "name": "Chiyoko Kawashima",
+        "nm": 442910,
+        "roles": [
+          {
+            "char": "Setsuna Meioh",
+            "ch": 48054
+          }
+        ]
+      },
+      {
+        "name": "Yûko Minaguchi",
+        "nm": 590888,
+        "roles": [
+          {
+            "char": "Hotaru Tomoe - Sailor Saturn",
+            "ch": 176901
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Usagi Tsukino",
+            "ch": 26867
+          }
+        ]
+      },
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Haruka Tenoh",
+            "ch": 173621
+          }
+        ]
+      },
+      {
+        "name": "Yoshiko Sakakibara",
+        "nm": 757058,
+        "roles": [
+          {
+            "char": "Nehelenia",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Emi Shinohara",
+        "nm": 793987,
+        "roles": [
+          {
+            "char": "Makoto Kino",
+            "ch": 54426
+          }
+        ]
+      },
+      {
+        "name": "Michie Tomizawa",
+        "nm": 593911,
+        "roles": [
+          {
+            "char": "Rei Hino",
+            "ch": 28878
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Noroi no makyou! Akumu ni torawareta mamoru",
+    "tt": 1035875,
+    "air_date": "1996-04-13",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E04",
+    "title": "Unmei no ichiya! Seeraa senshi no kunan",
+    "tt": 1035877,
+    "air_date": "1996-04-20",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E05",
+    "title": "Ai Yueni! Hateshinaki makai no tatakai",
+    "tt": 1047149,
+    "air_date": "1996-04-27",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E06",
+    "title": "Ai no muun pawaa! Akumu no owaru toki",
+    "tt": 1018988,
+    "air_date": "1996-05-04",
+    "description": "The Senshi finally defeat Queen Nehellenia.",
+    "cast": [
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Usagi Tsukino",
+            "ch": 26867,
+            "voice": true
+          },
+          {
+            "char": "Sailor Moon",
+            "ch": 26867,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aya Hisakawa",
+        "nm": 386752,
+        "roles": [
+          {
+            "char": "Ami Mizuno",
+            "ch": 97248,
+            "voice": true
+          },
+          {
+            "char": "Sailor Mercury",
+            "ch": 97248,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michie Tomizawa",
+        "nm": 593911,
+        "roles": [
+          {
+            "char": "Rei Hino",
+            "ch": 28878,
+            "voice": true
+          },
+          {
+            "char": "Sailor Mars",
+            "ch": 28878,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Emi Shinohara",
+        "nm": 793987,
+        "roles": [
+          {
+            "char": "Makoto Kino",
+            "ch": 54426,
+            "voice": true
+          },
+          {
+            "char": "Sailor Jupiter",
+            "ch": 54426,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rica Fukami",
+        "nm": 297921,
+        "roles": [
+          {
+            "char": "Minako Aino",
+            "ch": 31723,
+            "voice": true
+          },
+          {
+            "char": "Sailor Venus",
+            "ch": 31723,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kae Araki",
+        "nm": 32890,
+        "roles": [
+          {
+            "char": "ChibiUsa",
+            "ch": 176898,
+            "voice": true
+          },
+          {
+            "char": "Sailor Chibi Moon",
+            "ch": 35924,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Haruka Tenoh",
+            "ch": 173621,
+            "voice": true
+          },
+          {
+            "char": "Sailor Uranus",
+            "ch": 173621,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Masako Katsuki",
+        "nm": 441534,
+        "roles": [
+          {
+            "char": "Michiru Kaiou",
+            "ch": 97245,
+            "voice": true
+          },
+          {
+            "char": "Sailor Neptune",
+            "ch": 97245,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chiyoko Kawashima",
+        "nm": 442910,
+        "roles": [
+          {
+            "char": "Setsuna Meiou",
+            "ch": 48054,
+            "voice": true
+          },
+          {
+            "char": "Sailor Pluto",
+            "ch": 48054,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Minaguchi",
+        "nm": 590888,
+        "roles": [
+          {
+            "char": "Hotaru Tomae",
+            "ch": 176901,
+            "voice": true
+          },
+          {
+            "char": "Sailor Saturn",
+            "ch": 176901,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Keiko Han",
+        "nm": 359168,
+        "roles": [
+          {
+            "char": "Luna",
+            "ch": 28877,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yasuhiro Takato",
+        "nm": 847416,
+        "roles": [
+          {
+            "char": "Artemis",
+            "ch": 64093,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kumiko Nishihara",
+        "nm": 632681,
+        "roles": [
+          {
+            "char": "Diana",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tôru Furuya",
+        "nm": 299228,
+        "roles": [
+          {
+            "char": "Mamoru Chiba",
+            "ch": 28109,
+            "voice": true
+          },
+          {
+            "char": "Tuxedo Mask",
+            "ch": 28109,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuko Horie",
+        "nm": 394677,
+        "roles": [
+          {
+            "char": "Sailor Galaxia",
+            "ch": 176899,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yoshiko Sakakibara",
+        "nm": 757058,
+        "roles": [
+          {
+            "char": "Queen Nehellenia",
+            "ch": 288011,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Wakana Yamazaki",
+        "nm": 906722,
+        "roles": [
+          {
+            "char": "Young Nehellenia",
+            "ch": 288011,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Wakare to deai! Unmei no hoshiboshi no ruten",
+    "tt": 1018989,
+    "air_date": "1996-05-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Usagi Tsukino",
+            "ch": 26867,
+            "voice": true
+          },
+          {
+            "char": "Sailor Moon",
+            "ch": 26867,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aya Hisakawa",
+        "nm": 386752,
+        "roles": [
+          {
+            "char": "Ami Mizuno",
+            "ch": 97248,
+            "voice": true
+          },
+          {
+            "char": "Sailor Mercury",
+            "ch": 97248,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michie Tomizawa",
+        "nm": 593911,
+        "roles": [
+          {
+            "char": "Rei Hino",
+            "ch": 28878,
+            "voice": true
+          },
+          {
+            "char": "Sailor Mars",
+            "ch": 28878,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Emi Shinohara",
+        "nm": 793987,
+        "roles": [
+          {
+            "char": "Makoto Kino",
+            "ch": 54426,
+            "voice": true
+          },
+          {
+            "char": "Sailor Jupiter",
+            "ch": 54426,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rica Fukami",
+        "nm": 297921,
+        "roles": [
+          {
+            "char": "Minako Aino",
+            "ch": 31723,
+            "voice": true
+          },
+          {
+            "char": "Sailor Venus",
+            "ch": 31723,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shiho Niiyama",
+        "nm": 631577,
+        "roles": [
+          {
+            "char": "Kou Seiya",
+            "voice": true
+          },
+          {
+            "char": "Sailor Star Fighter",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Narumi Tsunoda",
+        "nm": 875424,
+        "roles": [
+          {
+            "char": "Kou Taiki",
+            "voice": true
+          },
+          {
+            "char": "Sailor Star Maker",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chika Sakamoto",
+        "nm": 757076,
+        "roles": [
+          {
+            "char": "Kou Yaten",
+            "voice": true
+          },
+          {
+            "char": "Sailor Star Healer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Keiko Han",
+        "nm": 359168,
+        "roles": [
+          {
+            "char": "Luna",
+            "ch": 28877,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yasuhiro Takato",
+        "nm": 847416,
+        "roles": [
+          {
+            "char": "Artemis",
+            "ch": 64093,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tôru Furuya",
+        "nm": 299228,
+        "roles": [
+          {
+            "char": "Mamoru Chiba",
+            "ch": 28109,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eriko Hara",
+        "nm": 361662,
+        "roles": [
+          {
+            "char": "Chuuko Nezu",
+            "voice": true
+          },
+          {
+            "char": "Sailor Iron Mouse",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Miki Itô",
+        "nm": 411879,
+        "roles": [
+          {
+            "char": "Alice Itsuki",
+            "voice": true
+          },
+          {
+            "char": "Sailor Buri",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Emi Uwagawa",
+        "nm": 882650,
+        "roles": [
+          {
+            "char": "Airpot Tannoy",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shôgo Sakamoto",
+        "nm": 2638603,
+        "roles": [
+          {
+            "char": "Director",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuko Horie",
+        "nm": 394677,
+        "roles": [
+          {
+            "char": "Sailor Galaxia",
+            "ch": 176899,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Gakuen ni fuku arashi! Tenkosei wa aidoru",
+    "tt": 3111146,
+    "air_date": "1996-05-18",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E09",
+    "title": "Aidoru wo mezase! Minako no yabo",
+    "tt": 3111394,
+    "air_date": "1996-05-25",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E10",
+    "title": "Faita no shotai! Shogeki no chohenshin",
+    "tt": 3111432,
+    "air_date": "1996-06-08",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E11",
+    "title": "Hoshi ni takusu yume to roman! Taiki no henshin",
+    "tt": 3112608,
+    "air_date": "1996-06-15",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E12",
+    "title": "Luna wa mita!? Aidoru yaten no sugao",
+    "tt": 1028635,
+    "air_date": "1996-06-22",
+    "description": "Yaten temporarily adopts Luna.",
+    "cast": [
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Usagi Tsukino",
+            "ch": 26867,
+            "voice": true
+          },
+          {
+            "char": "Sailor",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aya Hisakawa",
+        "nm": 386752,
+        "roles": [
+          {
+            "char": "Ami Mizuno",
+            "ch": 97248,
+            "voice": true
+          },
+          {
+            "char": "Sailor Mercury",
+            "ch": 97248,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michie Tomizawa",
+        "nm": 593911,
+        "roles": [
+          {
+            "char": "Rei Hino",
+            "ch": 28878,
+            "voice": true
+          },
+          {
+            "char": "Sailor Mars",
+            "ch": 28878,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Emi Shinohara",
+        "nm": 793987,
+        "roles": [
+          {
+            "char": "Makoto Kino",
+            "ch": 54426,
+            "voice": true
+          },
+          {
+            "char": "Sailor Jupiter",
+            "ch": 54426,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rica Fukami",
+        "nm": 297921,
+        "roles": [
+          {
+            "char": "Minako Aino",
+            "ch": 31723,
+            "voice": true
+          },
+          {
+            "char": "Sailor Venus",
+            "ch": 31723,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eriko Hara",
+        "nm": 361662,
+        "roles": [
+          {
+            "char": "Sailor Iron Mouse",
+            "voice": true
+          },
+          {
+            "char": "Chuuko Nezu",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nobuhiko Kazama",
+        "nm": 443560,
+        "roles": [
+          {
+            "char": "Trimmer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shiho Niiyama",
+        "nm": 631577,
+        "roles": [
+          {
+            "char": "Kou Seiya",
+            "voice": true
+          },
+          {
+            "char": "Sailor Star Fighter",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chika Sakamoto",
+        "nm": 757076,
+        "roles": [
+          {
+            "char": "Kou Yaten",
+            "voice": true
+          },
+          {
+            "char": "Sailor Star Healer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yumi Takada",
+        "nm": 2405918,
+        "roles": [
+          {
+            "char": "Noriko Okamachi",
+            "voice": true
+          },
+          {
+            "char": "Sailor Ojou",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Narumi Tsunoda",
+        "nm": 875424,
+        "roles": [
+          {
+            "char": "Kou Taiki",
+            "voice": true
+          },
+          {
+            "char": "Sailor Star Maker",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Makiko Ômoto",
+        "nm": 1659668,
+        "roles": [
+          {
+            "char": "Host",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Teki? Mikata? Sutaraitsu to sera senshi",
+    "tt": 3112650,
+    "air_date": "1996-06-29",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E14",
+    "title": "Yobiau hoshi no kagayaki! haruka-tachi sansen",
+    "tt": 3112666,
+    "air_date": "1996-07-13",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E15",
+    "title": "Seiya to Usagi no doki-doki deto",
+    "tt": 3112712,
+    "air_date": "1996-07-20",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E16",
+    "title": "Uchu kara no shinyaku! Seiren hirai",
+    "tt": 3112734,
+    "air_date": "1996-08-03",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E17",
+    "title": "Shiryo no sakebi? Kyofu kyampu no kaijin",
+    "tt": 3112750,
+    "air_date": "1996-08-10",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E18",
+    "title": "Futarikiri no yoru! Usagi no pinchi",
+    "tt": 1015553,
+    "air_date": "1996-08-17",
+    "description": "When Usagi is home alone, she invites Seiya over. The other Senshi and some surprise visitors show up as well!",
+    "cast": [
+      {
+        "name": "Rica Fukami",
+        "nm": 297921,
+        "roles": [
+          {
+            "char": "Minako Aino",
+            "ch": 31723
+          },
+          {
+            "char": "Sailor Venus",
+            "ch": 31723
+          }
+        ]
+      },
+      {
+        "name": "Keiko Han",
+        "nm": 359168,
+        "roles": [
+          {
+            "char": "Luna",
+            "ch": 28877
+          }
+        ]
+      },
+      {
+        "name": "Aya Hisakawa",
+        "nm": 386752,
+        "roles": [
+          {
+            "char": "Ami Mizuno",
+            "ch": 97248,
+            "voice": true
+          },
+          {
+            "char": "Sailor Mercury",
+            "ch": 97248,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kikuko Inoue",
+        "nm": 409291,
+        "roles": [
+          {
+            "char": "Reiko Aya"
+          },
+          {
+            "char": "Sailor Aluminum Seiren"
+          }
+        ]
+      },
+      {
+        "name": "Masako Katsuki",
+        "nm": 441534,
+        "roles": [
+          {
+            "char": "Michiru Kaiou",
+            "ch": 97245
+          },
+          {
+            "char": "Sailor Neptune",
+            "ch": 97245
+          }
+        ]
+      },
+      {
+        "name": "Hitoshi Masuda",
+        "nm": 2627455,
+        "roles": [
+          {
+            "char": "Monster"
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Usagi Tsukino",
+            "ch": 26867,
+            "voice": true
+          },
+          {
+            "char": "Sailor Moon",
+            "ch": 26867,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shiho Niiyama",
+        "nm": 631577,
+        "roles": [
+          {
+            "char": "Kou Seiya"
+          },
+          {
+            "char": "Sailor Star Fighter"
+          }
+        ]
+      },
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Haruka Tenou",
+            "ch": 173621
+          },
+          {
+            "char": "Sailor Uranus",
+            "ch": 173621
+          }
+        ]
+      },
+      {
+        "name": "Chika Sakamoto",
+        "nm": 757076,
+        "roles": [
+          {
+            "char": "Kou Yaten"
+          },
+          {
+            "char": "Sailor Star Healer"
+          }
+        ]
+      },
+      {
+        "name": "Emi Shinohara",
+        "nm": 793987,
+        "roles": [
+          {
+            "char": "Makoto Kino",
+            "ch": 54426
+          },
+          {
+            "char": "Sailor Jupiter",
+            "ch": 54426
+          }
+        ]
+      },
+      {
+        "name": "Chiharu Suzuka",
+        "nm": 840537,
+        "roles": [
+          {
+            "char": "Akane Karasuma"
+          },
+          {
+            "char": "Sailor Lead Crow"
+          }
+        ]
+      },
+      {
+        "name": "Yasuhiro Takato",
+        "nm": 847416,
+        "roles": [
+          {
+            "char": "Artemis",
+            "ch": 64093,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michie Tomizawa",
+        "nm": 593911,
+        "roles": [
+          {
+            "char": "Rei Hino",
+            "ch": 28878
+          },
+          {
+            "char": "Sailor Mars",
+            "ch": 28878
+          }
+        ]
+      },
+      {
+        "name": "Kôji Tsujitani",
+        "nm": 875335,
+        "roles": [
+          {
+            "char": "Jun Godai"
+          },
+          {
+            "char": "Sailor Sommelier"
+          }
+        ]
+      },
+      {
+        "name": "Narumi Tsunoda",
+        "nm": 875424,
+        "roles": [
+          {
+            "char": "Kou Taiki"
+          },
+          {
+            "char": "Sailor Star Maker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Taiki zessho! Shinjiru kokoro wo uta ni komete",
+    "tt": 3112804,
+    "air_date": "1996-08-31",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E20",
+    "title": "Chibichibi no nazo! Osawagase daitsuiseki",
+    "tt": 3112818,
+    "air_date": "1996-09-07",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E21",
+    "title": "Kagayaku hoshi no pawa! Chibichibi no henshin",
+    "tt": 3112848,
+    "air_date": "1996-09-14",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E22",
+    "title": "Kyofu e no Shotai! Usagi no yakan hiko",
+    "tt": 3340620,
+    "air_date": "1996-10-12",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E23",
+    "title": "Shimei to yuujou no hazama Seeraa senshi-tachi no tairitsu",
+    "tt": 1015254,
+    "air_date": "1996-10-16",
+    "description": "The Inner Senshi and the Starlights learn each others real identities, but distrust each other, Usagi and Seiya try to bring both groups together.",
+    "cast": [
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Usagi Tsukino - Eternal Sailor Moon",
+            "ch": 26867,
+            "voice": true
+          },
+          {
+            "char": "Chibi Chibi - Sailor Chibi Chibi Moon",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aya Hisakawa",
+        "nm": 386752,
+        "roles": [
+          {
+            "char": "Ami Mizuno - Sailor Mercury",
+            "ch": 97248,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michie Tomizawa",
+        "nm": 593911,
+        "roles": [
+          {
+            "char": "Rei Hino - Sailor Mars",
+            "ch": 28878,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Emi Shinohara",
+        "nm": 793987,
+        "roles": [
+          {
+            "char": "Makoto Kino - Sailor Jupiter",
+            "ch": 54426,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rica Fukami",
+        "nm": 297921,
+        "roles": [
+          {
+            "char": "Minako Aino - Sailor Venus",
+            "ch": 31723,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chiyoko Kawashima",
+        "nm": 442910,
+        "roles": [
+          {
+            "char": "Setsuna Meiou - Sailor Pluto",
+            "ch": 48054,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Haruka Tenou - Sailor Uranus",
+            "ch": 173621,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Masako Katsuki",
+        "nm": 441534,
+        "roles": [
+          {
+            "char": "Michiru Kaioh - Sailor Neptune",
+            "ch": 97245,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Minaguchi",
+        "nm": 590888,
+        "roles": [
+          {
+            "char": "Hotaru Tomoe - Sailor Saturn",
+            "ch": 176901,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shiho Niiyama",
+        "nm": 631577,
+        "roles": [
+          {
+            "char": "Kou Seiya - Sailor Star Fighter",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chika Sakamoto",
+        "nm": 757076,
+        "roles": [
+          {
+            "char": "Kou Yaten - Sailor Star Healer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Narumi Tsunoda",
+        "nm": 875424,
+        "roles": [
+          {
+            "char": "Kou Taiki - Sailor Star Maker",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "Akasareta shinjitsu seiya-tachi no kako",
+    "tt": 1015253,
+    "air_date": "1996-10-26",
+    "description": "Seiya and Usagi try to stay together after the Outer Senshi and the other two Starlights, forbid them from seeing each. The Starlights history is reveled.",
+    "cast": [
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Usagi Tsukino - Eternal Sailor Moon",
+            "ch": 26867,
+            "voice": true
+          },
+          {
+            "char": "Chibi Chibi - Sailor Chibi Chibi Moon",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aya Hisakawa",
+        "nm": 386752,
+        "roles": [
+          {
+            "char": "Ami Mizuno - Sailor Mercury",
+            "ch": 97248,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michie Tomizawa",
+        "nm": 593911,
+        "roles": [
+          {
+            "char": "Rei Hino - Sailor Mars",
+            "ch": 28878,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Emi Shinohara",
+        "nm": 793987,
+        "roles": [
+          {
+            "char": "Makoto Kino - Sailor Jupiter",
+            "ch": 54426,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rica Fukami",
+        "nm": 297921,
+        "roles": [
+          {
+            "char": "Minako Aino - Sailor Venus",
+            "ch": 31723,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chiyoko Kawashima",
+        "nm": 442910,
+        "roles": [
+          {
+            "char": "Setsuna Meiou - Sailor Pluto",
+            "ch": 48054,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Haruka Tenou - Sailor Uranus",
+            "ch": 173621,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Masako Katsuki",
+        "nm": 441534,
+        "roles": [
+          {
+            "char": "Michiru Kaioh - Sailor Neptune",
+            "ch": 97245,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yûko Minaguchi",
+        "nm": 590888,
+        "roles": [
+          {
+            "char": "Hotaru Tomoe - Sailor Saturn",
+            "ch": 176901,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shiho Niiyama",
+        "nm": 631577,
+        "roles": [
+          {
+            "char": "Kou Seiya - Sailor Star Fighter",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chika Sakamoto",
+        "nm": 757076,
+        "roles": [
+          {
+            "char": "Kou Yaten - Sailor Star Healer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Narumi Tsunoda",
+        "nm": 875424,
+        "roles": [
+          {
+            "char": "Kou Taiki - Sailor Star Maker",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuko Horie",
+        "nm": 394677,
+        "roles": [
+          {
+            "char": "Sailor Galaxia",
+            "ch": 176899,
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E25",
+    "title": "Hikari no chou ga mau toki! Atarashii nami no yokan",
+    "tt": 1047723,
+    "air_date": "1996-11-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Usagi Tsukino - Eternal Sailor Moon",
+            "ch": 26867,
+            "voice": true
+          },
+          {
+            "char": "Chibi Chibi - Sailor Chibi Chibi Moon",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aya Hisakawa",
+        "nm": 386752,
+        "roles": [
+          {
+            "char": "Ami Mizuno - Sailor Mercury",
+            "ch": 97248,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michie Tomizawa",
+        "nm": 593911,
+        "roles": [
+          {
+            "char": "Rei Hino - Sailor Mars",
+            "ch": 28878,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Emi Shinohara",
+        "nm": 793987,
+        "roles": [
+          {
+            "char": "Makoto Kino - Sailor Jupiter",
+            "ch": 54426,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rica Fukami",
+        "nm": 297921,
+        "roles": [
+          {
+            "char": "Minako Aino - Sailor Venus",
+            "ch": 31723,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Keiko Han",
+        "nm": 359168,
+        "roles": [
+          {
+            "char": "Luna",
+            "ch": 28877,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Akiko Hiramatsu",
+        "nm": 386235,
+        "roles": [
+          {
+            "char": "Reiko Kanagawa",
+            "voice": true
+          },
+          {
+            "char": "Sailor Gamer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuko Horie",
+        "nm": 394677,
+        "roles": [
+          {
+            "char": "Sailor Galaxia",
+            "ch": 176899,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Atsushi Kisaichi",
+        "nm": 457110,
+        "roles": [
+          {
+            "char": "Host",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yoshiyuki Kôno",
+        "nm": 1731973,
+        "roles": [
+          {
+            "char": "College Student",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shiho Niiyama",
+        "nm": 631577,
+        "roles": [
+          {
+            "char": "Kou Seiya - Sailor Star Fighter",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chika Sakamoto",
+        "nm": 757076,
+        "roles": [
+          {
+            "char": "Kou Yaten - Sailor Star Healer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chiharu Suzuka",
+        "nm": 840537,
+        "roles": [
+          {
+            "char": "Sailor Lead Crow - Akane Karasuma",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Narumi Tsunoda",
+        "nm": 875424,
+        "roles": [
+          {
+            "char": "Kou Taiki - Sailor Star Maker",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ikue Ôtani",
+        "nm": 649026,
+        "roles": [
+          {
+            "char": "Sailor Tin Nyanko - Suzu Nyanko",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E26",
+    "title": "Yume Icchokusen! Aidoru Minako Tanjo!?",
+    "tt": 3340614,
+    "air_date": "1996-11-16",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E27",
+    "title": "Ubawareta ginzuishou! Kakyuu princess Shutsugen",
+    "tt": 1025245,
+    "air_date": "1996-11-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Usagi Tsukino - Eternal Sailor Moon",
+            "ch": 26867,
+            "voice": true
+          },
+          {
+            "char": "Chibi Chibi - Sailor Chibi Chibi Moon",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aya Hisakawa",
+        "nm": 386752,
+        "roles": [
+          {
+            "char": "Ami Mizuno - Sailor Mercury",
+            "ch": 97248,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michie Tomizawa",
+        "nm": 593911,
+        "roles": [
+          {
+            "char": "Rei Hino - Sailor Mars",
+            "ch": 28878,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Emi Shinohara",
+        "nm": 793987,
+        "roles": [
+          {
+            "char": "Makoto Kino - Sailor Jupiter",
+            "ch": 54426,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rica Fukami",
+        "nm": 297921,
+        "roles": [
+          {
+            "char": "Minako Aino - Sailor Venus",
+            "ch": 31723,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuko Horie",
+        "nm": 394677,
+        "roles": [
+          {
+            "char": "Sailor Galaxia",
+            "ch": 176899,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shiho Niiyama",
+        "nm": 631577,
+        "roles": [
+          {
+            "char": "Kou Seiya - Sailor Star Fighter",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chika Sakamoto",
+        "nm": 757076,
+        "roles": [
+          {
+            "char": "Kou Yaten - Sailor Star Healer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chiharu Suzuka",
+        "nm": 840537,
+        "roles": [
+          {
+            "char": "Sailor Lead Crow - Akane Karasuma",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Narumi Tsunoda",
+        "nm": 875424,
+        "roles": [
+          {
+            "char": "Kou Taiki - Sailor Star Maker",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ikue Ôtani",
+        "nm": 649026,
+        "roles": [
+          {
+            "char": "Sailor Tin Nyanko - Suzu Nyanko",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E28",
+    "title": "Ginga no seisen. Seeraa uoozu densetsu",
+    "tt": 1029565,
+    "air_date": "1996-12-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Usagi Tsukino - Eternal Sailor Moon",
+            "ch": 26867,
+            "voice": true
+          },
+          {
+            "char": "Chibi Chibi - Sailor Chibi Chibi Moon",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aya Hisakawa",
+        "nm": 386752,
+        "roles": [
+          {
+            "char": "Ami Mizuno - Sailor Mercury",
+            "ch": 97248,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michie Tomizawa",
+        "nm": 593911,
+        "roles": [
+          {
+            "char": "Rei Hino - Sailor Mars",
+            "ch": 28878,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Emi Shinohara",
+        "nm": 793987,
+        "roles": [
+          {
+            "char": "Makoto Kino - Sailor Jupiter",
+            "ch": 54426,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rica Fukami",
+        "nm": 297921,
+        "roles": [
+          {
+            "char": "Minako Aino - Sailor Venus",
+            "ch": 31723,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Haruka Tenou - Sailor Uranus",
+            "ch": 173621,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Masako Katsuki",
+        "nm": 441534,
+        "roles": [
+          {
+            "char": "Michiru Kaioh - Sailor Neptune",
+            "ch": 97245,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tôru Furuya",
+        "nm": 299228,
+        "roles": [
+          {
+            "char": "Mamoru Chiba",
+            "ch": 28109,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shiho Niiyama",
+        "nm": 631577,
+        "roles": [
+          {
+            "char": "Kou Seiya - Sailor Star Fighter",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chika Sakamoto",
+        "nm": 757076,
+        "roles": [
+          {
+            "char": "Kou Yaten - Sailor Star Healer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Narumi Tsunoda",
+        "nm": 875424,
+        "roles": [
+          {
+            "char": "Kou Taiki - Sailor Star Maker",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuko Horie",
+        "nm": 394677,
+        "roles": [
+          {
+            "char": "Sailor Galaxia",
+            "ch": 176899,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ikue Ôtani",
+        "nm": 649026,
+        "roles": [
+          {
+            "char": "Sailor Tin Nyanko - Suzu Nyanko",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sakiko Tamagawa",
+        "nm": 848408,
+        "roles": [
+          {
+            "char": "The Kakyuu Princess",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E29",
+    "title": "Kakyu purinsesu shometsu! Gyarakushia korin",
+    "tt": 3116202,
+    "air_date": "1996-12-14",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E30",
+    "title": "Ginga horobirutoki! Seeraa senshi saigo no tatakai",
+    "tt": 2117035,
+    "air_date": "1997-01-11",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E31",
+    "title": "Ginga no shihaisha! Gyarakushia no kyoi",
+    "tt": 3116366,
+    "air_date": "1997-01-18",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E32",
+    "title": "Kieyuku hoshiboshi! Uranusu-tachi no saigo",
+    "tt": 3116400,
+    "air_date": "1997-01-25",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E33",
+    "title": "Kibo no Hikari! Ginga wo Kaketa saishu Kessen",
+    "tt": 3340624,
+    "air_date": "1997-02-01",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E34",
+    "title": "Usagi no ai! Gekkou ginga wo terasu",
+    "tt": 1149417,
+    "air_date": "1997-02-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Rica Fukami",
+        "nm": 297921,
+        "roles": [
+          {
+            "char": "Minako Aino",
+            "ch": 31723,
+            "voice": true
+          },
+          {
+            "char": "Sailor Venus",
+            "ch": 31723,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Tôru Furuya",
+        "nm": 299228,
+        "roles": [
+          {
+            "char": "Mamoru Chiba",
+            "ch": 28109,
+            "voice": true
+          },
+          {
+            "char": "Tuxedo Mask",
+            "ch": 28109,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Keiko Han",
+        "nm": 359168,
+        "roles": [
+          {
+            "char": "Luna",
+            "ch": 28877,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Aya Hisakawa",
+        "nm": 386752,
+        "roles": [
+          {
+            "char": "Ami Mizuno",
+            "ch": 97248,
+            "voice": true
+          },
+          {
+            "char": "Sailor Mercury",
+            "ch": 97248,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Mitsuko Horie",
+        "nm": 394677,
+        "roles": [
+          {
+            "char": "Sailor Galaxia",
+            "ch": 176899,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Masako Katsuki",
+        "nm": 441534,
+        "roles": [
+          {
+            "char": "Michiru Kaiou",
+            "ch": 97245,
+            "voice": true
+          },
+          {
+            "char": "Sailor Neptune",
+            "ch": 97245,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chiyoko Kawashima",
+        "nm": 442910,
+        "roles": [
+          {
+            "char": "Setsuna Meiou",
+            "ch": 48054,
+            "voice": true
+          },
+          {
+            "char": "Sailor Pluto",
+            "ch": 48054,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kotono Mitsuishi",
+        "nm": 594074,
+        "roles": [
+          {
+            "char": "Chibi-Chibi",
+            "voice": true
+          },
+          {
+            "char": "Sailor Chibi-Chibi Moon",
+            "ch": 176898,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Shiho Niiyama",
+        "nm": 631577,
+        "roles": [
+          {
+            "char": "Hotaru Tomoe",
+            "ch": 176901,
+            "voice": true
+          },
+          {
+            "char": "Sailor Saturn",
+            "ch": 176901,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Megumi Ogata",
+        "nm": 644527,
+        "roles": [
+          {
+            "char": "Haruka Tenoh",
+            "ch": 173621,
+            "voice": true
+          },
+          {
+            "char": "Sailor Uranus",
+            "ch": 173621,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Chika Sakamoto",
+        "nm": 757076,
+        "roles": [
+          {
+            "char": "Kou Yatan",
+            "voice": true
+          },
+          {
+            "char": "Sailor Star Healer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Emi Shinohara",
+        "nm": 793987,
+        "roles": [
+          {
+            "char": "Makoto Kino",
+            "ch": 54426,
+            "voice": true
+          },
+          {
+            "char": "Sailor Jupiter",
+            "ch": 54426,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Yasuhiro Takato",
+        "nm": 847416,
+        "roles": [
+          {
+            "char": "Artemis",
+            "ch": 64093,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Sakiko Tamagawa",
+        "nm": 848408,
+        "roles": [
+          {
+            "char": "The Kakyuu Princess",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Michie Tomizawa",
+        "nm": 593911,
+        "roles": [
+          {
+            "char": "Rei Hino",
+            "ch": 28878,
+            "voice": true
+          },
+          {
+            "char": "Sailor Mars",
+            "ch": 28878,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Narumi Tsunoda",
+        "nm": 875424,
+        "roles": [
+          {
+            "char": "Kou Taiki",
+            "voice": true
+          },
+          {
+            "char": "Sailor Star Maker",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  }
+]

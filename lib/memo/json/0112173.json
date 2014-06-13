@@ -1,0 +1,3981 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 706368,
+    "air_date": "1995-09-24",
+    "description": "When an Earth outpost 16 light-years away is destroyed by an unknown alien force, a group of young United States Marine Corps Space Aviators find themselves on the front lines of an intergalactic battle in an attempt to save their home planet.",
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Bill Hunter",
+        "nm": 402730,
+        "roles": [
+          {
+            "char": "Secretary General Chartwell",
+            "ch": 363095
+          }
+        ]
+      },
+      {
+        "name": "Colin Friels",
+        "nm": 295506,
+        "roles": [
+          {
+            "char": "Lt. Colonel Fouts",
+            "ch": 363096
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Kylen",
+            "ch": 150451
+          }
+        ]
+      },
+      {
+        "name": "Peter Kent",
+        "nm": 448830,
+        "roles": [
+          {
+            "char": "Mike 'Pags' Pagodin",
+            "ch": 363097
+          }
+        ]
+      },
+      {
+        "name": "Theresa Wong",
+        "nm": 939358,
+        "roles": [
+          {
+            "char": "Michelle Low",
+            "ch": 363098
+          }
+        ]
+      },
+      {
+        "name": "Anja Coleby",
+        "nm": 170864,
+        "roles": [
+          {
+            "char": "Bartley",
+            "ch": 363099
+          }
+        ]
+      },
+      {
+        "name": "Darrin Klimek",
+        "nm": 4107,
+        "roles": [
+          {
+            "char": "Carter"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Kirby",
+        "nm": 456130,
+        "roles": [
+          {
+            "char": "Lt. Stone",
+            "ch": 363101,
+            "as Chris Kirby": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Coleby",
+        "nm": 170347,
+        "roles": [
+          {
+            "char": "Colonial Governor Jonathan Overmeyer",
+            "ch": 363102
+          }
+        ]
+      },
+      {
+        "name": "Alan Dale",
+        "nm": 197638,
+        "roles": [
+          {
+            "char": "Colonial Governor Borman",
+            "ch": 363103
+          }
+        ]
+      },
+      {
+        "name": "Michael Edwards Stevens",
+        "nm": 828633,
+        "roles": [
+          {
+            "char": "Maxwell",
+            "ch": 363104,
+            "as Michael Edwards-Stevens": true
+          }
+        ]
+      },
+      {
+        "name": "Bartholomew John",
+        "nm": 424135,
+        "roles": [
+          {
+            "char": "Richard West",
+            "ch": 363105
+          }
+        ]
+      },
+      {
+        "name": "Gennie Nevinson",
+        "nm": 627523,
+        "roles": [
+          {
+            "char": "Anne West",
+            "ch": 363106
+          }
+        ]
+      },
+      {
+        "name": "Melissa Bullock",
+        "nm": 2964434,
+        "roles": [
+          {
+            "char": "Young Shane",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Ric Anderson",
+        "nm": 27322,
+        "roles": [
+          {
+            "char": "Slayton",
+            "ch": 363107
+          }
+        ]
+      },
+      {
+        "name": "Angus Grant",
+        "nm": 1178545,
+        "roles": [
+          {
+            "char": "Neil West",
+            "ch": 150452
+          }
+        ]
+      },
+      {
+        "name": "Colin Handley",
+        "nm": 359595,
+        "roles": [
+          {
+            "char": "Sgt. Vansen",
+            "ch": 363108
+          }
+        ]
+      },
+      {
+        "name": "Rebecca Riggs",
+        "nm": 4791330,
+        "roles": [
+          {
+            "char": "Mrs. Vansen",
+            "ch": 363109
+          }
+        ]
+      },
+      {
+        "name": "R. Lee Ermey",
+        "nm": 388,
+        "roles": [
+          {
+            "char": "Sergeant Major Bougus",
+            "ch": 363110,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Enrico Mammarella",
+        "nm": 541107,
+        "roles": [
+          {
+            "char": "Tecnician",
+            "ch": 363111,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Farthest Man from Home",
+    "tt": 706377,
+    "air_date": "1995-10-01",
+    "description": "When the USS Saratoga passes close to the planet, Vesta Colony, where the Earth colonist were attacked, West goes AWOL and flies down to the planet in hopes that his girlfriend, Kylen, somehow survived.",
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "French Stewart",
+        "nm": 829390,
+        "roles": [
+          {
+            "char": "Survivor"
+          }
+        ]
+      },
+      {
+        "name": "Michael Mantell",
+        "nm": 544067,
+        "roles": [
+          {
+            "char": "Howard Sewell",
+            "ch": 74839
+          }
+        ]
+      },
+      {
+        "name": "Linda Carlson",
+        "nm": 137969,
+        "roles": [
+          {
+            "char": "Theresa Ashford"
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Bokyun Chun",
+        "nm": 159017,
+        "roles": [
+          {
+            "char": "Yuko Kayaguest",
+            "as Bok Yun Chon": true
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "Thomas Mills",
+        "nm": 590204,
+        "roles": [
+          {
+            "char": "Capt. Joyner"
+          }
+        ]
+      },
+      {
+        "name": "Robert Crow",
+        "nm": 189550,
+        "roles": [
+          {
+            "char": "Controller",
+            "ch": 105418
+          }
+        ]
+      },
+      {
+        "name": "Tedd Taskey",
+        "nm": 850931,
+        "roles": [
+          {
+            "char": "Soldier"
+          }
+        ]
+      },
+      {
+        "name": "Leslie Pratt",
+        "nm": 1813466,
+        "roles": [
+          {
+            "char": "Squad Leader"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "The Dark Side of the Sun",
+    "tt": 706375,
+    "air_date": "1995-10-08",
+    "description": "Vansen wakes from a disturbing dream in which she sees her parents die to discover she is aboard the space carrier Saratoga. The squadron gets orders to protect a mining station against any Chig actions. As they arrive at the colony a laser battle erupts killing two of the squad. The rest withdraw as it becomes apparent the attackers are not Chigs but AI's infected with a computer virus that encourages independent action. A counter attack is mounted but most of the squad is captured. The AIs begin torturing the squad members trying to discover when a relief convoy is due. Hawkes, knowing the AIs devotion to gambling challenges the leader to a game of cards, with his life as the prize. Before the game is completed the remainder of the squad counters attacks and frees the team. The Space Marines prepare to make their last stand when Vansen attacks from behind and wipes out most of the AIs. Vansen then pursues the remaining AI's back to their ship then destroys it during liftoff. Later Vansen reflects on the mission and takes grim satisfaction from the outcome when she realizes she'd destroyed the two AIs responsible for the death of her family",
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Ashlyn Gere",
+        "nm": 570896,
+        "roles": [
+          {
+            "char": "Feliciti OH 519",
+            "as Kimberly Patton": true
+          }
+        ]
+      },
+      {
+        "name": "Susan Priver",
+        "nm": 698160,
+        "roles": [
+          {
+            "char": "Lt. Nelson"
+          }
+        ]
+      },
+      {
+        "name": "Paul Keeley",
+        "nm": 444539,
+        "roles": [
+          {
+            "char": "Justin EB 774",
+            "ch": 104274
+          }
+        ]
+      },
+      {
+        "name": "Iva Franks Singer",
+        "nm": 291655,
+        "roles": [
+          {
+            "char": "Sabrine EW 177",
+            "as Iva Franks": true
+          }
+        ]
+      },
+      {
+        "name": "Taylor Brooks",
+        "nm": 1151311,
+        "roles": [
+          {
+            "char": "Cooper",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Julie Michaels",
+        "nm": 584395,
+        "roles": [
+          {
+            "char": "Sillicate UC",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Mutiny",
+    "tt": 706365,
+    "air_date": "1995-10-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Tony Amendola",
+        "nm": 24593,
+        "roles": [
+          {
+            "char": "Captain Lewelyn"
+          }
+        ]
+      },
+      {
+        "name": "Calvin Levels",
+        "nm": 505226,
+        "roles": [
+          {
+            "char": "First Mate Potter"
+          }
+        ]
+      },
+      {
+        "name": "Tom Everett",
+        "nm": 263577,
+        "roles": [
+          {
+            "char": "C.P.O. Keats"
+          }
+        ]
+      },
+      {
+        "name": "Robert Louis Kempf",
+        "nm": 447445,
+        "roles": [
+          {
+            "char": "Sgt. Monk"
+          }
+        ]
+      },
+      {
+        "name": "Ping Wu",
+        "nm": 943156,
+        "roles": [
+          {
+            "char": "Ashby"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Michael Moore",
+        "nm": 601052,
+        "roles": [
+          {
+            "char": "Sorrel",
+            "as Christopher Michael-Moore": true
+          }
+        ]
+      },
+      {
+        "name": "William Forward",
+        "nm": 287480,
+        "roles": [
+          {
+            "char": "Mercer"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Howard",
+        "nm": 397375,
+        "roles": [
+          {
+            "char": "Harris"
+          }
+        ]
+      },
+      {
+        "name": "Steven Hack",
+        "nm": 1035461,
+        "roles": [
+          {
+            "char": "Harkin"
+          }
+        ]
+      },
+      {
+        "name": "Thom Barry",
+        "nm": 58175,
+        "roles": [
+          {
+            "char": "Chief Mechanic"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Dinkins",
+        "nm": 227757,
+        "roles": [
+          {
+            "char": "Triage Nurse"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Ray Butts",
+    "tt": 706370,
+    "air_date": "1995-10-22",
+    "description": "Legendary Marine Flyer Colonel Ray Butts 'Kick Butts' of Marine Special Operations Command team shows up and takes over command of the 58th wing for a special secret mission of redemption.",
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Steve Rankin",
+        "nm": 710292,
+        "roles": [
+          {
+            "char": "Lt. Col. Raymond Thomas Butts"
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "Lar Park-Lincoln",
+        "nm": 661983,
+        "roles": [
+          {
+            "char": "Bowman"
+          }
+        ]
+      },
+      {
+        "name": "John Voldstad",
+        "nm": 901390,
+        "roles": [
+          {
+            "char": "Sailor"
+          }
+        ]
+      },
+      {
+        "name": "David Prudhomme",
+        "nm": 3187036,
+        "roles": [
+          {
+            "char": "Cochran"
+          }
+        ]
+      },
+      {
+        "name": "John L. Bennett",
+        "nm": 1470069,
+        "roles": [
+          {
+            "char": "Master of Arms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Eyes",
+    "tt": 706362,
+    "air_date": "1995-11-05",
+    "description": "In an effort to get West to help with an assassination plot, the young marine is told that high ranking Earth officials knew about the aliens before the colonists were sent to Vesta Colony.",
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Harriet Sansom Harris",
+        "nm": 364748,
+        "roles": [
+          {
+            "char": "Ambassador Diane Hayden"
+          }
+        ]
+      },
+      {
+        "name": "George DelHoyo",
+        "nm": 215602,
+        "roles": [
+          {
+            "char": "Nicholas Chaput"
+          }
+        ]
+      },
+      {
+        "name": "John Verea",
+        "nm": 893948,
+        "roles": [
+          {
+            "char": "Lt. Richard Swirko"
+          }
+        ]
+      },
+      {
+        "name": "Ashlyn Gere",
+        "nm": 570896,
+        "roles": [
+          {
+            "char": "Feliciti OH 483",
+            "as Kimberly Patton": true
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "Daniel Stewart",
+        "nm": 829294,
+        "roles": [
+          {
+            "char": "Thompson"
+          }
+        ]
+      },
+      {
+        "name": "Josie DiVincenzo",
+        "nm": 228646,
+        "roles": [
+          {
+            "char": "Lt. Pisarek"
+          }
+        ]
+      },
+      {
+        "name": "James Lesure",
+        "nm": 504571,
+        "roles": [
+          {
+            "char": "Lt. Stone",
+            "ch": 363101
+          }
+        ]
+      },
+      {
+        "name": "Ken Takemoto",
+        "nm": 847543,
+        "roles": [
+          {
+            "char": "Kurasowa"
+          }
+        ]
+      },
+      {
+        "name": "Mark Lentry",
+        "nm": 1763130,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Michael Harney",
+        "nm": 363669,
+        "roles": [
+          {
+            "char": "Questioner"
+          }
+        ]
+      },
+      {
+        "name": "John L. Bennett",
+        "nm": 1470069,
+        "roles": [
+          {
+            "char": "Master of Arms"
+          }
+        ]
+      },
+      {
+        "name": "Robin Curtis",
+        "nm": 193495,
+        "roles": [
+          {
+            "char": "Andrea Wilkins"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "The Enemy",
+    "tt": 706376,
+    "air_date": "1995-11-12",
+    "description": "The members of the 58th turn on each other after they land on the planet Tartarus and encounter a Chig mind-altering weapon that wreaks havoc on the area of the brain that controls fear.",
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Bob Koherr",
+        "nm": 463199,
+        "roles": [
+          {
+            "char": "Crazy Marine"
+          }
+        ]
+      },
+      {
+        "name": "Danny Goldring",
+        "nm": 325975,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Hostile Visit",
+    "tt": 706363,
+    "air_date": "1995-11-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Michael Mantell",
+        "nm": 544067,
+        "roles": [
+          {
+            "char": "Howard Sewell",
+            "ch": 74839
+          }
+        ]
+      },
+      {
+        "name": "Melissa Bowen",
+        "nm": 1794641,
+        "roles": [
+          {
+            "char": "Lt. Stroud"
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "Sharon Washington",
+        "nm": 913531,
+        "roles": [
+          {
+            "char": "Crew Chief"
+          }
+        ]
+      },
+      {
+        "name": "Jim Anzide",
+        "nm": 1812215,
+        "roles": [
+          {
+            "char": "Krantz"
+          }
+        ]
+      },
+      {
+        "name": "Billy Mayo",
+        "nm": 562848,
+        "roles": [
+          {
+            "char": "Webb",
+            "ch": 255200
+          }
+        ]
+      },
+      {
+        "name": "Steven Jang",
+        "nm": 417540,
+        "roles": [
+          {
+            "char": "Connor"
+          }
+        ]
+      },
+      {
+        "name": "Susan V. Hansen",
+        "nm": 361087,
+        "roles": [
+          {
+            "char": "Gates",
+            "as Susan Vee": true
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "Klein"
+          }
+        ]
+      },
+      {
+        "name": "Randy Mulkey",
+        "nm": 611894,
+        "roles": [
+          {
+            "char": "Donne",
+            "ch": 127445
+          }
+        ]
+      },
+      {
+        "name": "Steve Lanza",
+        "nm": 487304,
+        "roles": [
+          {
+            "char": "Loading Bay Crewman"
+          }
+        ]
+      },
+      {
+        "name": "Dan Rice",
+        "nm": 723395,
+        "roles": [
+          {
+            "char": "M.P."
+          }
+        ]
+      },
+      {
+        "name": "Wiley M. Pickett",
+        "nm": 681919,
+        "roles": [
+          {
+            "char": "Marine #1",
+            "as Wiley Pickett": true
+          }
+        ]
+      },
+      {
+        "name": "John Carlos Frey",
+        "nm": 294587,
+        "roles": [
+          {
+            "char": "'Now' Marine"
+          }
+        ]
+      },
+      {
+        "name": "Garon Grigsby",
+        "nm": 341954,
+        "roles": [
+          {
+            "char": "Aerotech Engineer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Choice or Chance",
+    "tt": 706360,
+    "air_date": "1995-11-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Doug Hutchison",
+        "nm": 6535,
+        "roles": [
+          {
+            "char": "Elroy-El",
+            "ch": 94311
+          }
+        ]
+      },
+      {
+        "name": "Michael Mantell",
+        "nm": 544067,
+        "roles": [
+          {
+            "char": "Howard Sewell",
+            "ch": 74839
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Kylen",
+            "ch": 150451
+          }
+        ]
+      },
+      {
+        "name": "Ashlyn Gere",
+        "nm": 570896,
+        "roles": [
+          {
+            "char": "Feliciti OH",
+            "as Kimberly Patton": true
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "Melissa Bowen",
+        "nm": 1794641,
+        "roles": [
+          {
+            "char": "Lt. Stroud"
+          }
+        ]
+      },
+      {
+        "name": "Robert Farrior",
+        "nm": 268454,
+        "roles": [
+          {
+            "char": "Brandon",
+            "as Rob Farrior": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Keeley",
+        "nm": 444539,
+        "roles": [
+          {
+            "char": "Justin EB 774",
+            "ch": 104274
+          }
+        ]
+      },
+      {
+        "name": "Iva Franks Singer",
+        "nm": 291655,
+        "roles": [
+          {
+            "char": "Sabrine",
+            "as Iva Franks": true
+          }
+        ]
+      },
+      {
+        "name": "Chip Heller",
+        "nm": 375289,
+        "roles": [
+          {
+            "char": "Crossland"
+          }
+        ]
+      },
+      {
+        "name": "David Gardner",
+        "nm": 306883,
+        "roles": [
+          {
+            "char": "Klein"
+          }
+        ]
+      },
+      {
+        "name": "Billy Mayo",
+        "nm": 562848,
+        "roles": [
+          {
+            "char": "Webb",
+            "ch": 255200
+          }
+        ]
+      },
+      {
+        "name": "Jim Anzide",
+        "nm": 1812215,
+        "roles": [
+          {
+            "char": "Krantz"
+          }
+        ]
+      },
+      {
+        "name": "Randy Mulkey",
+        "nm": 611894,
+        "roles": [
+          {
+            "char": "Donne",
+            "ch": 127445
+          }
+        ]
+      },
+      {
+        "name": "Steven Jang",
+        "nm": 417540,
+        "roles": [
+          {
+            "char": "Connor"
+          }
+        ]
+      },
+      {
+        "name": "Susan V. Hansen",
+        "nm": 361087,
+        "roles": [
+          {
+            "char": "Gates",
+            "as Susan Vee": true
+          }
+        ]
+      },
+      {
+        "name": "Julie Michaels",
+        "nm": 584395,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Michael Reilly Burke",
+        "nm": 121805,
+        "roles": [
+          {
+            "char": "A silicate",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Stay with the Dead",
+    "tt": 706372,
+    "air_date": "1995-12-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Steven Anderson",
+        "nm": 27474,
+        "roles": [
+          {
+            "char": "Dr. Kanellos"
+          }
+        ]
+      },
+      {
+        "name": "James Parks",
+        "nm": 662960,
+        "roles": [
+          {
+            "char": "Shankowicz"
+          }
+        ]
+      },
+      {
+        "name": "Scott MacDonald",
+        "nm": 531924,
+        "roles": [
+          {
+            "char": "Hatfield"
+          }
+        ]
+      },
+      {
+        "name": "Marnie McPhail",
+        "nm": 574160,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Rich Willis",
+        "nm": 932439,
+        "roles": [
+          {
+            "char": "Mark Lindon"
+          }
+        ]
+      },
+      {
+        "name": "Edmund L. Shaff",
+        "nm": 787283,
+        "roles": [
+          {
+            "char": "Chaplain",
+            "ch": 255201,
+            "as Edmund Shaff": true
+          }
+        ]
+      },
+      {
+        "name": "Leo Garcia",
+        "nm": 305321,
+        "roles": [
+          {
+            "char": "Lt. Clayton"
+          }
+        ]
+      },
+      {
+        "name": "Sebastian Cetina",
+        "nm": 149137,
+        "roles": [
+          {
+            "char": "Delgado"
+          }
+        ]
+      },
+      {
+        "name": "Pancho Demmings",
+        "nm": 218596,
+        "roles": [
+          {
+            "char": "Paramedic"
+          }
+        ]
+      },
+      {
+        "name": "Todd 'Theo' Theodossin",
+        "nm": 1078105,
+        "roles": [
+          {
+            "char": "Arm Wound Marine",
+            "as Todd Theodossin": true
+          }
+        ]
+      },
+      {
+        "name": "William Bradberry Jr.",
+        "nm": 3187808,
+        "roles": [
+          {
+            "char": "Color Guard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "The River of Stars",
+    "tt": 706378,
+    "air_date": "1995-12-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Tasia Valenza",
+        "nm": 884419,
+        "roles": [
+          {
+            "char": "Lt. Kelly Anne Winslow",
+            "ch": 70068
+          }
+        ]
+      },
+      {
+        "name": "Leslie O'Neil",
+        "nm": 3187484,
+        "roles": [
+          {
+            "char": "Lewis"
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "J. August Richards",
+        "nm": 724124,
+        "roles": [
+          {
+            "char": "Lt. Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Kirby",
+        "nm": 456130,
+        "roles": [
+          {
+            "char": "Kelcher",
+            "as Chris Kirby": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Crow",
+        "nm": 189550,
+        "roles": [
+          {
+            "char": "Reynolds"
+          }
+        ]
+      },
+      {
+        "name": "Tyrone Batista",
+        "nm": 61177,
+        "roles": [
+          {
+            "char": "Lieutenant"
+          }
+        ]
+      },
+      {
+        "name": "Sashe Annete",
+        "nm": 30366,
+        "roles": [
+          {
+            "char": "Communications Officer",
+            "as Sharon Annett": true
+          }
+        ]
+      },
+      {
+        "name": "Billy Maddox",
+        "nm": 2556,
+        "roles": [
+          {
+            "char": "Larkin"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Wiehl",
+        "nm": 927382,
+        "roles": [
+          {
+            "char": "Ensign"
+          }
+        ]
+      },
+      {
+        "name": "Robert Arevalo",
+        "nm": 1134393,
+        "roles": [
+          {
+            "char": "Horn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Who Monitors the Birds?",
+    "tt": 706380,
+    "air_date": "1996-01-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Dale Dye",
+        "nm": 245653,
+        "roles": [
+          {
+            "char": "Major Jack Colquitt"
+          }
+        ]
+      },
+      {
+        "name": "Brian Cousins",
+        "nm": 184080,
+        "roles": [
+          {
+            "char": "Monitor"
+          }
+        ]
+      },
+      {
+        "name": "David Dean Bottrell",
+        "nm": 98746,
+        "roles": [
+          {
+            "char": "Monitor #2",
+            "as David Botrell": true
+          }
+        ]
+      },
+      {
+        "name": "Denyn Pysz",
+        "nm": 701588,
+        "roles": [
+          {
+            "char": "In Vitro Friend"
+          }
+        ]
+      },
+      {
+        "name": "Robert Thomas",
+        "nm": 859438,
+        "roles": [
+          {
+            "char": "Friendly Alien"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Level of Necessity",
+    "tt": 706364,
+    "air_date": "1996-01-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Lt. Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Richard Kind",
+        "nm": 454236,
+        "roles": [
+          {
+            "char": "Colonel Matthew Burke"
+          }
+        ]
+      },
+      {
+        "name": "Tasia Valenza",
+        "nm": 884419,
+        "roles": [
+          {
+            "char": "Lt. Kelly Anne Winslow",
+            "ch": 70068
+          }
+        ]
+      },
+      {
+        "name": "Kane Picoy",
+        "nm": 682031,
+        "roles": [
+          {
+            "char": "Lubin"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Dale Agee",
+        "nm": 12950,
+        "roles": [
+          {
+            "char": "Capt. Kremens"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Never No More",
+    "tt": 706366,
+    "air_date": "1996-02-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Michael Reilly Burke",
+        "nm": 121805,
+        "roles": [
+          {
+            "char": "Capt. John Oakes"
+          }
+        ]
+      },
+      {
+        "name": "Tasia Valenza",
+        "nm": 884419,
+        "roles": [
+          {
+            "char": "Lt. Kelly Anne Winslow",
+            "ch": 70068
+          }
+        ]
+      },
+      {
+        "name": "Michael Raynor",
+        "nm": 713516,
+        "roles": [
+          {
+            "char": "Lt. Hall"
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "Jay Montalvo",
+        "nm": 598887,
+        "roles": [
+          {
+            "char": "Sullivan",
+            "as Xavier Montalvo": true
+          }
+        ]
+      },
+      {
+        "name": "David St. James",
+        "nm": 820574,
+        "roles": [
+          {
+            "char": "Adm. Broden",
+            "ch": 76151
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Williams",
+        "nm": 3188726,
+        "roles": [
+          {
+            "char": "Burnett"
+          }
+        ]
+      },
+      {
+        "name": "Will Schaub",
+        "nm": 770270,
+        "roles": [
+          {
+            "char": "Paterno"
+          }
+        ]
+      },
+      {
+        "name": "Heinrich James",
+        "nm": 416554,
+        "roles": [
+          {
+            "char": "Fenris"
+          }
+        ]
+      },
+      {
+        "name": "David Jean Thomas",
+        "nm": 858710,
+        "roles": [
+          {
+            "char": "Alcott"
+          }
+        ]
+      },
+      {
+        "name": "Randy Stone",
+        "nm": 832114,
+        "roles": [
+          {
+            "char": "Spud"
+          }
+        ]
+      },
+      {
+        "name": "Rob Elk",
+        "nm": 253807,
+        "roles": [
+          {
+            "char": "Mr. Saber",
+            "ch": 127447
+          }
+        ]
+      },
+      {
+        "name": "Jacquelyn Houston",
+        "nm": 396835,
+        "roles": [
+          {
+            "char": "Hadden"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Smock",
+        "nm": 810525,
+        "roles": [
+          {
+            "char": "Curran"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Clunie",
+        "nm": 167342,
+        "roles": [
+          {
+            "char": "Jennifer Brandt"
+          }
+        ]
+      },
+      {
+        "name": "Jullian Dulce Vida",
+        "nm": 230897,
+        "roles": [
+          {
+            "char": "Ensign",
+            "as Julio Dolce Vita": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "The Angriest Angel",
+    "tt": 706374,
+    "air_date": "1996-02-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Doug Hutchison",
+        "nm": 6535,
+        "roles": [
+          {
+            "char": "Elroy-El",
+            "ch": 94311
+          }
+        ]
+      },
+      {
+        "name": "Tasia Valenza",
+        "nm": 884419,
+        "roles": [
+          {
+            "char": "Lt. Kelly Anne Winslow",
+            "ch": 70068
+          }
+        ]
+      },
+      {
+        "name": "Michael Mantell",
+        "nm": 544067,
+        "roles": [
+          {
+            "char": "Howard Sewell",
+            "ch": 74839
+          }
+        ]
+      },
+      {
+        "name": "Charmin Lee",
+        "nm": 496980,
+        "roles": [
+          {
+            "char": "Colonel Schrader"
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "David St. James",
+        "nm": 820574,
+        "roles": [
+          {
+            "char": "Adm. Broden",
+            "ch": 76151
+          }
+        ]
+      },
+      {
+        "name": "Edmund L. Shaff",
+        "nm": 787283,
+        "roles": [
+          {
+            "char": "Chaplain",
+            "ch": 255201,
+            "as Edmund Shaff": true
+          }
+        ]
+      },
+      {
+        "name": "David Jean Thomas",
+        "nm": 858710,
+        "roles": [
+          {
+            "char": "Alcott"
+          }
+        ]
+      },
+      {
+        "name": "Rob Elk",
+        "nm": 253807,
+        "roles": [
+          {
+            "char": "Mr. Saber",
+            "ch": 127447
+          }
+        ]
+      },
+      {
+        "name": "Robert Crow",
+        "nm": 189550,
+        "roles": [
+          {
+            "char": "Controller",
+            "ch": 105418
+          }
+        ]
+      },
+      {
+        "name": "Randy Stone",
+        "nm": 832114,
+        "roles": [
+          {
+            "char": "Spud"
+          }
+        ]
+      },
+      {
+        "name": "David Ramsey",
+        "nm": 708981,
+        "roles": [
+          {
+            "char": "Supervisor"
+          }
+        ]
+      },
+      {
+        "name": "James Black",
+        "nm": 85316,
+        "roles": [
+          {
+            "char": "Security Operator"
+          }
+        ]
+      },
+      {
+        "name": "Gunther Jenson",
+        "nm": 421753,
+        "roles": [
+          {
+            "char": "Engineer",
+            "as Gunther Jensen": true
+          }
+        ]
+      },
+      {
+        "name": "John L. Bennett",
+        "nm": 1470069,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "William Bradberry Jr.",
+        "nm": 3187808,
+        "roles": [
+          {
+            "char": "Gunnery Sgt."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Toy Soldiers",
+    "tt": 706379,
+    "air_date": "1996-02-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Marc Worden",
+        "nm": 941404,
+        "roles": [
+          {
+            "char": "Neil West",
+            "ch": 150452
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "Christian Hoff",
+        "nm": 388706,
+        "roles": [
+          {
+            "char": "Miller"
+          }
+        ]
+      },
+      {
+        "name": "P.J. Ochlan",
+        "nm": 643702,
+        "roles": [
+          {
+            "char": "Eichler"
+          }
+        ]
+      },
+      {
+        "name": "Al Garrett",
+        "nm": 308074,
+        "roles": [
+          {
+            "char": "Donovan"
+          }
+        ]
+      },
+      {
+        "name": "Steven Jang",
+        "nm": 417540,
+        "roles": [
+          {
+            "char": "Intelligence Officer Connor"
+          }
+        ]
+      },
+      {
+        "name": "Michael Malota",
+        "nm": 540638,
+        "roles": [
+          {
+            "char": "Young Nathan"
+          }
+        ]
+      },
+      {
+        "name": "Adam Sutton",
+        "nm": 1391864,
+        "roles": [
+          {
+            "char": "Young Neil"
+          }
+        ]
+      },
+      {
+        "name": "David Barrera",
+        "nm": 56876,
+        "roles": [
+          {
+            "char": "2nd Lt. James Herrick"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Dear Earth",
+    "tt": 706361,
+    "air_date": "1996-03-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Lt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Steve Hytner",
+        "nm": 405337,
+        "roles": [
+          {
+            "char": "Kolbe"
+          }
+        ]
+      },
+      {
+        "name": "Charles Carpenter",
+        "nm": 139295,
+        "roles": [
+          {
+            "char": "Wagner"
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "Darren Gray Ward",
+        "nm": 911478,
+        "roles": [
+          {
+            "char": "Lt. John Hill"
+          }
+        ]
+      },
+      {
+        "name": "Bob Clendenin",
+        "nm": 3928,
+        "roles": [
+          {
+            "char": "Mank"
+          }
+        ]
+      },
+      {
+        "name": "John Battle",
+        "nm": 61508,
+        "roles": [
+          {
+            "char": "Supply Sgt."
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Burns",
+        "nm": 122714,
+        "roles": [
+          {
+            "char": "Ann"
+          }
+        ]
+      },
+      {
+        "name": "Rock Reiser",
+        "nm": 718430,
+        "roles": [
+          {
+            "char": "Armed Guard"
+          }
+        ]
+      },
+      {
+        "name": "Carl Gilliard",
+        "nm": 318784,
+        "roles": [
+          {
+            "char": "Ophthalmologist"
+          }
+        ]
+      },
+      {
+        "name": "Robert Crow",
+        "nm": 189550,
+        "roles": [
+          {
+            "char": "Crow"
+          }
+        ]
+      },
+      {
+        "name": "Gibson Frazier",
+        "nm": 292579,
+        "roles": [
+          {
+            "char": "Ed"
+          }
+        ]
+      },
+      {
+        "name": "Loren Chase",
+        "nm": 153801,
+        "roles": [
+          {
+            "char": "Mrs. West"
+          }
+        ]
+      },
+      {
+        "name": "Kate McCalley",
+        "nm": 564700,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Scott Dorel",
+        "nm": 372708,
+        "roles": [
+          {
+            "char": "Sailor #1",
+            "as Scott Heath Dorel": true
+          }
+        ]
+      },
+      {
+        "name": "Jermaine Montell",
+        "nm": 599303,
+        "roles": [
+          {
+            "char": "Sailor #2"
+          }
+        ]
+      },
+      {
+        "name": "Michael Wachtel",
+        "nm": 905183,
+        "roles": [
+          {
+            "char": "Marine #1"
+          }
+        ]
+      },
+      {
+        "name": "Ted Mann",
+        "nm": 1949279,
+        "roles": [
+          {
+            "char": "Slow Talker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Pearly",
+    "tt": 706367,
+    "air_date": "1996-03-24",
+    "description": "On a Planet overrun with Chigs, the 58th encounters Major Cyril MacKendrick, the sole survivor of the 8th British Cavalry, and Wang encounters the Silicate who previously tortured him.",
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Capt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Doug Hutchison",
+        "nm": 6535,
+        "roles": [
+          {
+            "char": "Elroy-El",
+            "ch": 94311
+          }
+        ]
+      },
+      {
+        "name": "Adam Goldberg",
+        "nm": 4965,
+        "roles": [
+          {
+            "char": "Sgt. Louie Fox"
+          }
+        ]
+      },
+      {
+        "name": "Ashlyn Gere",
+        "nm": 570896,
+        "roles": [
+          {
+            "char": "Feliciti OH",
+            "as Kimberly Patton": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Jarvis",
+        "nm": 419089,
+        "roles": [
+          {
+            "char": "Major Cyril MacKendrick"
+          }
+        ]
+      },
+      {
+        "name": "Guy Garner",
+        "nm": 307710,
+        "roles": [
+          {
+            "char": "Marine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "R & R",
+    "tt": 706369,
+    "air_date": "1996-04-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Capt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Janet Gunn",
+        "nm": 348186,
+        "roles": [
+          {
+            "char": "Suzy"
+          }
+        ]
+      },
+      {
+        "name": "Coolio",
+        "nm": 4839,
+        "roles": [
+          {
+            "char": "The Bacchus Host"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Guastaferro",
+        "nm": 345466,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "The Blazers",
+        "nm": 3207558,
+        "roles": [
+          {
+            "char": "Bacchus Bar Band"
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Crystal Foley",
+        "nm": 190571,
+        "roles": [
+          {
+            "char": "Nurse Larlee",
+            "as Jennifer Crystal": true
+          }
+        ]
+      },
+      {
+        "name": "Julius Branca",
+        "nm": 104318,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "David Scott Gordon",
+        "nm": 3207483,
+        "roles": [
+          {
+            "char": "Guy"
+          }
+        ]
+      },
+      {
+        "name": "David Duchovny",
+        "nm": 141,
+        "roles": [
+          {
+            "char": "Handsome Alvin",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Stardust",
+    "tt": 706371,
+    "air_date": "1996-04-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Capt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Ronald G. Joseph",
+        "nm": 430692,
+        "roles": [
+          {
+            "char": "Gen. Oliver Ranford"
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "Edmund L. Shaff",
+        "nm": 787283,
+        "roles": [
+          {
+            "char": "Chaplain",
+            "ch": 255201
+          }
+        ]
+      },
+      {
+        "name": "Pato Hoffmann",
+        "nm": 389239,
+        "roles": [
+          {
+            "char": "James Dark Moon"
+          }
+        ]
+      },
+      {
+        "name": "Robert Crow",
+        "nm": 189550,
+        "roles": [
+          {
+            "char": "Officer Crow"
+          }
+        ]
+      },
+      {
+        "name": "Tim Hutchinson",
+        "nm": 404408,
+        "roles": [
+          {
+            "char": "Military Officer"
+          }
+        ]
+      },
+      {
+        "name": "David A.R. White",
+        "nm": 924684,
+        "roles": [
+          {
+            "char": "Ensign Lewis"
+          }
+        ]
+      },
+      {
+        "name": "Eric Whitmore",
+        "nm": 926232,
+        "roles": [
+          {
+            "char": "Commando"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Kirby",
+        "nm": 456130,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Belen Greene",
+        "nm": 1490253,
+        "roles": [
+          {
+            "char": "Colonel",
+            "as Onico Edain": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Sugar Dirt",
+    "tt": 706373,
+    "air_date": "1996-04-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Capt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Granville Van Dusen",
+        "nm": 886686,
+        "roles": [
+          {
+            "char": "General Weirick"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Balgobin",
+        "nm": 50177,
+        "roles": [
+          {
+            "char": "Lt. Price"
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "David St. James",
+        "nm": 820574,
+        "roles": [
+          {
+            "char": "Adm. Broden",
+            "ch": 76151
+          }
+        ]
+      },
+      {
+        "name": "David Jean Thomas",
+        "nm": 858710,
+        "roles": [
+          {
+            "char": "General Alcott"
+          }
+        ]
+      },
+      {
+        "name": "Edmund L. Shaff",
+        "nm": 787283,
+        "roles": [
+          {
+            "char": "Chaplain",
+            "ch": 255201
+          }
+        ]
+      },
+      {
+        "name": "James Kiriyama-Lem",
+        "nm": 456419,
+        "roles": [
+          {
+            "char": "General Ming"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Linehan Charles",
+        "nm": 153108,
+        "roles": [
+          {
+            "char": "Admiral Vetter"
+          }
+        ]
+      },
+      {
+        "name": "Iqbal Theba",
+        "nm": 857290,
+        "roles": [
+          {
+            "char": "General Siraj"
+          }
+        ]
+      },
+      {
+        "name": "Bill Kalmenson",
+        "nm": 436105,
+        "roles": [
+          {
+            "char": "Comm. Preising"
+          }
+        ]
+      },
+      {
+        "name": "Mark Adair-Rios",
+        "nm": 10486,
+        "roles": [
+          {
+            "char": "Lt. Smith",
+            "as Mark Adair Rios": true
+          }
+        ]
+      },
+      {
+        "name": "Joshua Abramson",
+        "nm": 9262,
+        "roles": [
+          {
+            "char": "Lt. Nelson",
+            "as Josh Abramson": true
+          }
+        ]
+      },
+      {
+        "name": "David Cooley",
+        "nm": 177592,
+        "roles": [
+          {
+            "char": "Lt. Feeley"
+          }
+        ]
+      },
+      {
+        "name": "Keith Rosary",
+        "nm": 1430010,
+        "roles": [
+          {
+            "char": "Lidar Operator"
+          }
+        ]
+      },
+      {
+        "name": "Chris Villa",
+        "nm": 897583,
+        "roles": [
+          {
+            "char": "Marine",
+            "as Christopher Villa": true
+          }
+        ]
+      },
+      {
+        "name": "Richie Solomon",
+        "nm": 1167730,
+        "roles": [
+          {
+            "char": "Commando #6",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "And If They Lay Us Down to Rest...",
+    "tt": 706359,
+    "air_date": "1996-05-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Capt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Don Pugsley",
+        "nm": 700130,
+        "roles": [
+          {
+            "char": "Colonel Rabborn",
+            "ch": 127446
+          }
+        ]
+      },
+      {
+        "name": "Derek Mark Lochran",
+        "nm": 517031,
+        "roles": [
+          {
+            "char": "Pasty"
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "Robert Crow",
+        "nm": 189550,
+        "roles": [
+          {
+            "char": "Communications Officer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "...Tell Our Moms We Done Our Best",
+    "tt": 706358,
+    "air_date": "1996-06-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Morgan Weisser",
+        "nm": 919255,
+        "roles": [
+          {
+            "char": "Lt. Nathan West",
+            "ch": 74834
+          }
+        ]
+      },
+      {
+        "name": "Kristen Cloke",
+        "nm": 167028,
+        "roles": [
+          {
+            "char": "Capt. Shane Vansen",
+            "ch": 103253
+          }
+        ]
+      },
+      {
+        "name": "Rodney Rowland",
+        "nm": 746737,
+        "roles": [
+          {
+            "char": "Lt. Cooper Hawkes",
+            "ch": 74835
+          }
+        ]
+      },
+      {
+        "name": "Joel de la Fuente",
+        "nm": 209249,
+        "roles": [
+          {
+            "char": "Lt. Paul Wang",
+            "ch": 74836
+          }
+        ]
+      },
+      {
+        "name": "Lanei Chapman",
+        "nm": 152435,
+        "roles": [
+          {
+            "char": "Lt. Vanessa Damphousse",
+            "ch": 103254
+          }
+        ]
+      },
+      {
+        "name": "James Morrison",
+        "nm": 607175,
+        "roles": [
+          {
+            "char": "Col. Tyrus Cassius 'T.C.' McQueen",
+            "ch": 167811
+          }
+        ]
+      },
+      {
+        "name": "Richard Fancy",
+        "nm": 266697,
+        "roles": [
+          {
+            "char": "E. Allen Wayne"
+          }
+        ]
+      },
+      {
+        "name": "Chris Ellis",
+        "nm": 254760,
+        "roles": [
+          {
+            "char": "Adm. Stenner"
+          }
+        ]
+      },
+      {
+        "name": "Amanda Douge",
+        "nm": 234807,
+        "roles": [
+          {
+            "char": "Kylen",
+            "ch": 150451
+          }
+        ]
+      },
+      {
+        "name": "Harriet Sansom Harris",
+        "nm": 364748,
+        "roles": [
+          {
+            "char": "Ambassador Diane Hayden"
+          }
+        ]
+      },
+      {
+        "name": "Don Pugsley",
+        "nm": 700130,
+        "roles": [
+          {
+            "char": "Colonel Rabborn",
+            "ch": 127446
+          }
+        ]
+      },
+      {
+        "name": "Tucker Smallwood",
+        "nm": 806613,
+        "roles": [
+          {
+            "char": "Commodore Ross",
+            "ch": 167812
+          }
+        ]
+      },
+      {
+        "name": "J. Patrick McCormack",
+        "nm": 566445,
+        "roles": [
+          {
+            "char": "Frank Shaffner"
+          }
+        ]
+      },
+      {
+        "name": "Derek Mark Lochran",
+        "nm": 517031,
+        "roles": [
+          {
+            "char": "Chig Envoy",
+            "ch": 105419
+          }
+        ]
+      },
+      {
+        "name": "David Jean Thomas",
+        "nm": 858710,
+        "roles": [
+          {
+            "char": "General Alcott"
+          }
+        ]
+      },
+      {
+        "name": "Robert Crow",
+        "nm": 189550,
+        "roles": [
+          {
+            "char": "Lt. Pruitt"
+          }
+        ]
+      },
+      {
+        "name": "D. Elliot Woods",
+        "nm": 940555,
+        "roles": [
+          {
+            "char": "Weapons Specialist",
+            "as Elliot Woods": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Monroe",
+        "nm": 598569,
+        "roles": [
+          {
+            "char": "Engineer"
+          }
+        ]
+      },
+      {
+        "name": "Marlon Young",
+        "nm": 949868,
+        "roles": [
+          {
+            "char": "Sentry",
+            "as Marlon Chopper Young": true
+          }
+        ]
+      },
+      {
+        "name": "Lisa Talerico",
+        "nm": 848041,
+        "roles": [
+          {
+            "char": "Sgt. Parker"
+          }
+        ]
+      },
+      {
+        "name": "Amy Loubalu",
+        "nm": 521613,
+        "roles": [
+          {
+            "char": "Sentry #2"
+          }
+        ]
+      },
+      {
+        "name": "Reginald C. Hayes",
+        "nm": 371196,
+        "roles": [
+          {
+            "char": "Wallace",
+            "as Reggie Hayes": true
+          }
+        ]
+      },
+      {
+        "name": "Tom Ayers",
+        "nm": 43812,
+        "roles": [
+          {
+            "char": "German Colonist"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Boyer",
+        "nm": 102020,
+        "roles": [
+          {
+            "char": "Colonist"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence T. Wrentz",
+        "nm": 942145,
+        "roles": [
+          {
+            "char": "Sims"
+          }
+        ]
+      },
+      {
+        "name": "Nilla Westerlund",
+        "nm": 3210742,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  }
+]

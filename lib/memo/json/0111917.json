@@ -1,0 +1,1473 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Take Me to the Pilot",
+    "tt": 1089163,
+    "air_date": "1995-09-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mark Harmon",
+        "nm": 1319,
+        "roles": [
+          {
+            "char": "Charlie Grace",
+            "ch": 64733
+          }
+        ]
+      },
+      {
+        "name": "Cindy Katz",
+        "nm": 441654,
+        "roles": [
+          {
+            "char": "Leslie Loeb",
+            "ch": 121154
+          }
+        ]
+      },
+      {
+        "name": "Leelee Sobieski",
+        "nm": 5447,
+        "roles": [
+          {
+            "char": "Jenny Grace",
+            "ch": 121155
+          }
+        ]
+      },
+      {
+        "name": "Robert Costanzo",
+        "nm": 182456,
+        "roles": [
+          {
+            "char": "Crawford",
+            "ch": 77718
+          }
+        ]
+      },
+      {
+        "name": "Daphne Ashbrook",
+        "nm": 38695,
+        "roles": [
+          {
+            "char": "Linda Lane",
+            "ch": 435473
+          }
+        ]
+      },
+      {
+        "name": "Castulo Guerra",
+        "nm": 346003,
+        "roles": [
+          {
+            "char": "Captain Rios",
+            "ch": 435474
+          }
+        ]
+      },
+      {
+        "name": "Don Stark",
+        "nm": 823155,
+        "roles": [
+          {
+            "char": "Detective Simms",
+            "ch": 435475
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Hilton-Jacobs",
+        "nm": 385320,
+        "roles": [
+          {
+            "char": "Detective Gossett",
+            "ch": 435476,
+            "as Lawrence-Hilton Jacobs": true
+          }
+        ]
+      },
+      {
+        "name": "Rhoda Gemignani",
+        "nm": 312564,
+        "roles": [
+          {
+            "char": "Miss Jacobs",
+            "ch": 435477
+          }
+        ]
+      },
+      {
+        "name": "Harley Jane Kozak",
+        "nm": 468772,
+        "roles": [
+          {
+            "char": "Holly",
+            "ch": 121158
+          }
+        ]
+      },
+      {
+        "name": "Janni Brenn",
+        "nm": 107232,
+        "roles": [
+          {
+            "char": "Ellen",
+            "ch": 435478
+          }
+        ]
+      },
+      {
+        "name": "Michael Kagan",
+        "nm": 434580,
+        "roles": [
+          {
+            "char": "Earl 'Mad Dog' Jonas",
+            "ch": 435479
+          }
+        ]
+      },
+      {
+        "name": "Allen Lulu",
+        "nm": 525806,
+        "roles": [
+          {
+            "char": "Benny",
+            "ch": 121156
+          }
+        ]
+      },
+      {
+        "name": "Louis Sandoval",
+        "nm": 2781770,
+        "roles": [
+          {
+            "char": "Guillermo",
+            "ch": 435480,
+            "as Lou Sandoval": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Axelrod",
+        "nm": 43498,
+        "roles": [
+          {
+            "char": "Hobbs",
+            "ch": 435481
+          }
+        ]
+      },
+      {
+        "name": "Barry Cutler",
+        "nm": 193897,
+        "roles": [
+          {
+            "char": "Drunk",
+            "ch": 435482
+          }
+        ]
+      },
+      {
+        "name": "Don Maxwell",
+        "nm": 561688,
+        "roles": [
+          {
+            "char": "Ike",
+            "ch": 435483
+          }
+        ]
+      },
+      {
+        "name": "Carlo Felix",
+        "nm": 2436422,
+        "roles": [
+          {
+            "char": "Desk Officer",
+            "ch": 435484
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Pilot",
+    "tt": 538838,
+    "air_date": "1995-09-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mark Harmon",
+        "nm": 1319,
+        "roles": [
+          {
+            "char": "Charlie Grace",
+            "ch": 64733
+          }
+        ]
+      },
+      {
+        "name": "Cindy Katz",
+        "nm": 441654,
+        "roles": [
+          {
+            "char": "Leslie Loeb",
+            "ch": 121154
+          }
+        ]
+      },
+      {
+        "name": "Leelee Sobieski",
+        "nm": 5447,
+        "roles": [
+          {
+            "char": "Jenny Grace",
+            "ch": 121155
+          }
+        ]
+      },
+      {
+        "name": "Robert Costanzo",
+        "nm": 182456,
+        "roles": [
+          {
+            "char": "Crawford",
+            "ch": 77718
+          }
+        ]
+      },
+      {
+        "name": "Harley Jane Kozak",
+        "nm": 468772,
+        "roles": [
+          {
+            "char": "Holly",
+            "ch": 121158
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Dunn",
+        "nm": 242523,
+        "roles": [
+          {
+            "char": "Martha",
+            "ch": 121157
+          }
+        ]
+      },
+      {
+        "name": "Johnny Williams",
+        "nm": 930971,
+        "roles": [
+          {
+            "char": "Vince"
+          }
+        ]
+      },
+      {
+        "name": "Bob Golic",
+        "nm": 326488,
+        "roles": [
+          {
+            "char": "Bukowski"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Ettinger",
+        "nm": 262193,
+        "roles": [
+          {
+            "char": "Biker Chick"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Alessi",
+        "nm": 18152,
+        "roles": [
+          {
+            "char": "Derek",
+            "ch": 121159,
+            "as Chris Alessi": true
+          }
+        ]
+      },
+      {
+        "name": "Allen Lulu",
+        "nm": 525806,
+        "roles": [
+          {
+            "char": "Benny",
+            "ch": 121156
+          }
+        ]
+      },
+      {
+        "name": "Iqbal Theba",
+        "nm": 857290,
+        "roles": [
+          {
+            "char": "Pakistani Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Paul Bates",
+        "nm": 61003,
+        "roles": [
+          {
+            "char": "Little Milton"
+          }
+        ]
+      },
+      {
+        "name": "Mary Major",
+        "nm": 538205,
+        "roles": [
+          {
+            "char": "Newscaster"
+          }
+        ]
+      },
+      {
+        "name": "Don Maxwell",
+        "nm": 561688,
+        "roles": [
+          {
+            "char": "Ike",
+            "ch": 435483
+          }
+        ]
+      },
+      {
+        "name": "Laura Leyva",
+        "nm": 508131,
+        "roles": [
+          {
+            "char": "Nina"
+          }
+        ]
+      },
+      {
+        "name": "Jim Michaels",
+        "nm": 4079,
+        "roles": [
+          {
+            "char": "Bar Patron",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Bring Me the Head of Darnell Sims",
+    "tt": 538833,
+    "air_date": "1995-09-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mark Harmon",
+        "nm": 1319,
+        "roles": [
+          {
+            "char": "Charlie Grace",
+            "ch": 64733
+          }
+        ]
+      },
+      {
+        "name": "Cindy Katz",
+        "nm": 441654,
+        "roles": [
+          {
+            "char": "Leslie Loeb",
+            "ch": 121154
+          }
+        ]
+      },
+      {
+        "name": "Leelee Sobieski",
+        "nm": 5447,
+        "roles": [
+          {
+            "char": "Jenny Grace",
+            "ch": 121155
+          }
+        ]
+      },
+      {
+        "name": "Robert Costanzo",
+        "nm": 182456,
+        "roles": [
+          {
+            "char": "Crawford",
+            "ch": 77718
+          }
+        ]
+      },
+      {
+        "name": "Todd Allen",
+        "nm": 21112,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kari Whitman",
+        "nm": 926154,
+        "roles": [
+          {
+            "char": "Adele"
+          }
+        ]
+      },
+      {
+        "name": "Joe Lala",
+        "nm": 482329,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Alan Blumenfeld",
+        "nm": 89781,
+        "roles": [
+          {
+            "char": "Gary Winger"
+          }
+        ]
+      },
+      {
+        "name": "Janna Michaels",
+        "nm": 584367,
+        "roles": [
+          {
+            "char": "Lynette Farrell"
+          }
+        ]
+      },
+      {
+        "name": "Michael Holden",
+        "nm": 390241,
+        "roles": [
+          {
+            "char": "Judge Cordell"
+          }
+        ]
+      },
+      {
+        "name": "Leslie Jordan",
+        "nm": 430074,
+        "roles": [
+          {
+            "char": "Darnell Sims"
+          }
+        ]
+      },
+      {
+        "name": "Marcia Strassman",
+        "nm": 833519,
+        "roles": [
+          {
+            "char": "Andrea Farrell"
+          }
+        ]
+      },
+      {
+        "name": "Allen Lulu",
+        "nm": 525806,
+        "roles": [
+          {
+            "char": "Benny",
+            "ch": 121156
+          }
+        ]
+      },
+      {
+        "name": "Amanda Fuller",
+        "nm": 298168,
+        "roles": [
+          {
+            "char": "Jordan"
+          }
+        ]
+      },
+      {
+        "name": "Leslie Bee",
+        "nm": 66225,
+        "roles": [
+          {
+            "char": "Teacher"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Kid",
+    "tt": 538840,
+    "air_date": "1995-10-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mark Harmon",
+        "nm": 1319,
+        "roles": [
+          {
+            "char": "Charlie Grace",
+            "ch": 64733
+          }
+        ]
+      },
+      {
+        "name": "Cindy Katz",
+        "nm": 441654,
+        "roles": [
+          {
+            "char": "Leslie Loeb",
+            "ch": 121154
+          }
+        ]
+      },
+      {
+        "name": "Leelee Sobieski",
+        "nm": 5447,
+        "roles": [
+          {
+            "char": "Jenny Grace",
+            "ch": 121155
+          }
+        ]
+      },
+      {
+        "name": "Robert Costanzo",
+        "nm": 182456,
+        "roles": [
+          {
+            "char": "Crawford",
+            "ch": 77718
+          }
+        ]
+      },
+      {
+        "name": "Don Stark",
+        "nm": 823155,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Elpidia Carrillo",
+        "nm": 1990,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gregory Scott Cummins",
+        "nm": 192003,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Carolyn Dunn",
+        "nm": 242523,
+        "roles": [
+          {
+            "char": "Martha",
+            "ch": 121157
+          }
+        ]
+      },
+      {
+        "name": "Boris Cabrera",
+        "nm": 127797,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sabrina Wiener",
+        "nm": 918274,
+        "roles": [
+          {
+            "char": "Carmen",
+            "ch": 435485
+          }
+        ]
+      },
+      {
+        "name": "Charles Emmett",
+        "nm": 256528,
+        "roles": [
+          {
+            "char": "Deiner",
+            "ch": 435487
+          }
+        ]
+      },
+      {
+        "name": "Gary Carlos Cervantes",
+        "nm": 148869,
+        "roles": [
+          {
+            "char": "Enrique",
+            "ch": 435486,
+            "as Gary Cervantes": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Designer Knock-Off",
+    "tt": 538834,
+    "air_date": "1995-10-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mark Harmon",
+        "nm": 1319,
+        "roles": [
+          {
+            "char": "Charlie Grace",
+            "ch": 64733
+          }
+        ]
+      },
+      {
+        "name": "Cindy Katz",
+        "nm": 441654,
+        "roles": [
+          {
+            "char": "Leslie Loeb",
+            "ch": 121154
+          }
+        ]
+      },
+      {
+        "name": "Leelee Sobieski",
+        "nm": 5447,
+        "roles": [
+          {
+            "char": "Jenny Grace",
+            "ch": 121155
+          }
+        ]
+      },
+      {
+        "name": "Robert Costanzo",
+        "nm": 182456,
+        "roles": [
+          {
+            "char": "Crawford",
+            "ch": 77718
+          }
+        ]
+      },
+      {
+        "name": "Jeri Ryan",
+        "nm": 5394,
+        "roles": [
+          {
+            "char": "Claire",
+            "as Jeri Lynn Ryan": true
+          }
+        ]
+      },
+      {
+        "name": "Matt Landers",
+        "nm": 484650,
+        "roles": [
+          {
+            "char": "Potts",
+            "ch": 310254
+          }
+        ]
+      },
+      {
+        "name": "Joseph Cali",
+        "nm": 129955,
+        "roles": [
+          {
+            "char": "Robert Castelli"
+          }
+        ]
+      },
+      {
+        "name": "Dan Ferro",
+        "nm": 274971,
+        "roles": [
+          {
+            "char": "Eric"
+          }
+        ]
+      },
+      {
+        "name": "Mary-Margaret Humes",
+        "nm": 401799,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rod Arrants",
+        "nm": 37151,
+        "roles": [
+          {
+            "char": "Castelli"
+          }
+        ]
+      },
+      {
+        "name": "Paul Kent",
+        "nm": 448824,
+        "roles": [
+          {
+            "char": "Perla"
+          }
+        ]
+      },
+      {
+        "name": "Michael White",
+        "nm": 925223,
+        "roles": [
+          {
+            "char": "Principal"
+          }
+        ]
+      },
+      {
+        "name": "Larry Cox",
+        "nm": 185124,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Edith Varon",
+        "nm": 890149,
+        "roles": [
+          {
+            "char": "Mrs. Alston"
+          }
+        ]
+      },
+      {
+        "name": "Taraika Swanson",
+        "nm": 4334062,
+        "roles": [
+          {
+            "char": "Avia"
+          }
+        ]
+      },
+      {
+        "name": "Gilles Savard",
+        "nm": 767455,
+        "roles": [
+          {
+            "char": "Henri"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "One Simple Little Favor",
+    "tt": 538837,
+    "air_date": "1995-10-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mark Harmon",
+        "nm": 1319,
+        "roles": [
+          {
+            "char": "Charlie Grace",
+            "ch": 64733
+          }
+        ]
+      },
+      {
+        "name": "Cindy Katz",
+        "nm": 441654,
+        "roles": [
+          {
+            "char": "Leslie Loeb",
+            "ch": 121154
+          }
+        ]
+      },
+      {
+        "name": "Leelee Sobieski",
+        "nm": 5447,
+        "roles": [
+          {
+            "char": "Jenny Grace",
+            "ch": 121155
+          }
+        ]
+      },
+      {
+        "name": "Robert Costanzo",
+        "nm": 182456,
+        "roles": [
+          {
+            "char": "Artie Crawford",
+            "ch": 77718
+          }
+        ]
+      },
+      {
+        "name": "Bertila Damas",
+        "nm": 198620,
+        "roles": [
+          {
+            "char": "Joann"
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Dunn",
+        "nm": 242523,
+        "roles": [
+          {
+            "char": "Martha",
+            "ch": 121157
+          }
+        ]
+      },
+      {
+        "name": "Richard Romanus",
+        "nm": 739087,
+        "roles": [
+          {
+            "char": "Rudy Novak"
+          }
+        ]
+      },
+      {
+        "name": "Allen Lulu",
+        "nm": 525806,
+        "roles": [
+          {
+            "char": "Benny",
+            "ch": 121156
+          }
+        ]
+      },
+      {
+        "name": "Anna Berger",
+        "nm": 74105,
+        "roles": [
+          {
+            "char": "Old Woman"
+          }
+        ]
+      },
+      {
+        "name": "Ethan Peck",
+        "nm": 669656,
+        "roles": [
+          {
+            "char": "Tyler"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Folk",
+        "nm": 284273,
+        "roles": [
+          {
+            "char": "Jimmy the Cop"
+          }
+        ]
+      },
+      {
+        "name": "Lenny Rose",
+        "nm": 741532,
+        "roles": [
+          {
+            "char": "George Rifkin"
+          }
+        ]
+      },
+      {
+        "name": "Dan Hildebrand",
+        "nm": 383835,
+        "roles": [
+          {
+            "char": "Palmer"
+          }
+        ]
+      },
+      {
+        "name": "Lee Ryan",
+        "nm": 752673,
+        "roles": [
+          {
+            "char": "FBI Agent"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Alessi",
+        "nm": 18152,
+        "roles": [
+          {
+            "char": "Derek",
+            "ch": 121159,
+            "as Christopher V. Alessi": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "I've Got a Secret",
+    "tt": 538835,
+    "air_date": "1996-05-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mark Harmon",
+        "nm": 1319,
+        "roles": [
+          {
+            "char": "Charlie Grace",
+            "ch": 64733
+          }
+        ]
+      },
+      {
+        "name": "Cindy Katz",
+        "nm": 441654,
+        "roles": [
+          {
+            "char": "Leslie Loeb",
+            "ch": 121154
+          }
+        ]
+      },
+      {
+        "name": "Leelee Sobieski",
+        "nm": 5447,
+        "roles": [
+          {
+            "char": "Jenny Grace",
+            "ch": 121155
+          }
+        ]
+      },
+      {
+        "name": "Robert Costanzo",
+        "nm": 182456,
+        "roles": [
+          {
+            "char": "Crawford",
+            "ch": 77718
+          }
+        ]
+      },
+      {
+        "name": "Lois Nettleton",
+        "nm": 626728,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "James O'Sullivan",
+        "nm": 642757,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Laurence Lau",
+        "nm": 490583,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Joseph Campanella",
+        "nm": 132103,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Matt Landers",
+        "nm": 484650,
+        "roles": [
+          {
+            "char": "Potts",
+            "ch": 310254
+          }
+        ]
+      },
+      {
+        "name": "Gerry McIntyre",
+        "nm": 570749,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jerry Hardin",
+        "nm": 362222,
+        "roles": [
+          {
+            "char": "Ed"
+          }
+        ]
+      },
+      {
+        "name": "Harley Jane Kozak",
+        "nm": 468772,
+        "roles": [
+          {
+            "char": "Holly",
+            "ch": 121158
+          }
+        ]
+      },
+      {
+        "name": "Robert Neary",
+        "nm": 623811,
+        "roles": [
+          {
+            "char": "Michael Petruski"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Alessi",
+        "nm": 18152,
+        "roles": [
+          {
+            "char": "Derek",
+            "ch": 121159,
+            "as Christopher V. Alessi": true
+          }
+        ]
+      },
+      {
+        "name": "John David Conti",
+        "nm": 176355,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "It's in the Cards, Charlie",
+    "tt": 538836,
+    "air_date": "1996-05-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mark Harmon",
+        "nm": 1319,
+        "roles": [
+          {
+            "char": "Charlie Grace",
+            "ch": 64733
+          }
+        ]
+      },
+      {
+        "name": "Cindy Katz",
+        "nm": 441654,
+        "roles": [
+          {
+            "char": "Leslie Loeb",
+            "ch": 121154
+          }
+        ]
+      },
+      {
+        "name": "Leelee Sobieski",
+        "nm": 5447,
+        "roles": [
+          {
+            "char": "Jenny Grace",
+            "ch": 121155
+          }
+        ]
+      },
+      {
+        "name": "Robert Costanzo",
+        "nm": 182456,
+        "roles": [
+          {
+            "char": "Crawford",
+            "ch": 77718
+          }
+        ]
+      },
+      {
+        "name": "Eugenie Ross-Leming",
+        "nm": 743935,
+        "roles": [
+          {
+            "char": "Mona"
+          }
+        ]
+      },
+      {
+        "name": "Emilio Borelli",
+        "nm": 96322,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Shawn Hoffman",
+        "nm": 389089,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "James Luca McBride",
+        "nm": 564310,
+        "roles": [
+          {
+            "char": "Phil",
+            "as James McBride": true
+          }
+        ]
+      },
+      {
+        "name": "Allan Wasserman",
+        "nm": 913667,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "James Doohan",
+        "nm": 1150,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Martineck",
+        "nm": 553317,
+        "roles": [
+          {
+            "char": "Justine Hersch",
+            "ch": 121160
+          }
+        ]
+      },
+      {
+        "name": "Barry Kramer",
+        "nm": 469461,
+        "roles": [
+          {
+            "char": "Marty"
+          }
+        ]
+      },
+      {
+        "name": "Kristopher Logan",
+        "nm": 517606,
+        "roles": [
+          {
+            "char": "Reginald"
+          }
+        ]
+      },
+      {
+        "name": "Tom Billett",
+        "nm": 82405,
+        "roles": [
+          {
+            "char": "Thug"
+          }
+        ]
+      },
+      {
+        "name": "Dayna Price",
+        "nm": 1026414,
+        "roles": [
+          {
+            "char": "Janna Hersch",
+            "ch": 121161,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Emerson St. John",
+        "nm": 2195653,
+        "roles": [
+          {
+            "char": "Adam Lane",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Steal One for the Gipper",
+    "tt": 538839,
+    "air_date": "1996-05-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mark Harmon",
+        "nm": 1319,
+        "roles": [
+          {
+            "char": "Charlie Grace",
+            "ch": 64733
+          }
+        ]
+      },
+      {
+        "name": "Cindy Katz",
+        "nm": 441654,
+        "roles": [
+          {
+            "char": "Leslie Loeb",
+            "ch": 121154
+          }
+        ]
+      },
+      {
+        "name": "Leelee Sobieski",
+        "nm": 5447,
+        "roles": [
+          {
+            "char": "Jenny Grace",
+            "ch": 121155
+          }
+        ]
+      },
+      {
+        "name": "Robert Costanzo",
+        "nm": 182456,
+        "roles": [
+          {
+            "char": "Crawford",
+            "ch": 77718
+          }
+        ]
+      },
+      {
+        "name": "Terri Garber",
+        "nm": 304965,
+        "roles": [
+          {
+            "char": "Ruby O'Conner"
+          }
+        ]
+      },
+      {
+        "name": "Craig Richard Nelson",
+        "nm": 625269,
+        "roles": [
+          {
+            "char": "Dr. McCann"
+          }
+        ]
+      },
+      {
+        "name": "John Wesley",
+        "nm": 921746,
+        "roles": [
+          {
+            "char": "Detective Horan"
+          }
+        ]
+      },
+      {
+        "name": "Alex Henteloff",
+        "nm": 378261,
+        "roles": [
+          {
+            "char": "Gabe"
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Dunn",
+        "nm": 242523,
+        "roles": [
+          {
+            "char": "Martha",
+            "ch": 121157
+          }
+        ]
+      },
+      {
+        "name": "Dick Butkus",
+        "nm": 124792,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Steve Garvey",
+        "nm": 4953,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Swann",
+        "nm": 841712,
+        "roles": [
+          {
+            "char": "Himself",
+            "as Lynn C. Swann": true
+          }
+        ]
+      },
+      {
+        "name": "Franco Harris",
+        "nm": 1268731,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Willard E. Pugh",
+        "nm": 700072,
+        "roles": [
+          {
+            "char": "Michael",
+            "as Willard Pugh": true
+          }
+        ]
+      },
+      {
+        "name": "Joey Rimatello",
+        "nm": 4241655,
+        "roles": [
+          {
+            "char": "Mr. Parris"
+          }
+        ]
+      },
+      {
+        "name": "Allen Lulu",
+        "nm": 525806,
+        "roles": [
+          {
+            "char": "Benny",
+            "ch": 121156
+          }
+        ]
+      },
+      {
+        "name": "Ken Hanes",
+        "nm": 359765,
+        "roles": [
+          {
+            "char": "Mr. Andrews"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas R. Oleson",
+        "nm": 646335,
+        "roles": [
+          {
+            "char": "Floyd Thurston"
+          }
+        ]
+      },
+      {
+        "name": "Jullian Dulce Vida",
+        "nm": 230897,
+        "roles": [
+          {
+            "char": "Leo",
+            "as Julio Dolce Vida": true
+          }
+        ]
+      },
+      {
+        "name": "Brian Wagner",
+        "nm": 905816,
+        "roles": [
+          {
+            "char": "Albert"
+          }
+        ]
+      },
+      {
+        "name": "Heather Lauren Olson",
+        "nm": 6579,
+        "roles": [
+          {
+            "char": "Dina"
+          }
+        ]
+      },
+      {
+        "name": "Paul Motley",
+        "nm": 609376,
+        "roles": [
+          {
+            "char": "Authenticator",
+            "as Paul Laurence Motley": true
+          }
+        ]
+      },
+      {
+        "name": "Ryan Holihan",
+        "nm": 390543,
+        "roles": [
+          {
+            "char": "Courier"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Chodos",
+        "nm": 158745,
+        "roles": [
+          {
+            "char": "TV Writer"
+          }
+        ]
+      }
+    ]
+  }
+]

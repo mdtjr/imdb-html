@@ -1,0 +1,2121 @@
+[
+  {
+    "se": "S01E00",
+    "title": "Pilot",
+    "tt": 741418,
+    "air_date": "1997-09-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Steven Anderson",
+        "nm": 27474,
+        "roles": [
+          {
+            "char": "Doctor",
+            "as Steve Anderson": true
+          }
+        ]
+      },
+      {
+        "name": "Diana Bellamy",
+        "nm": 68690,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Don Boomhower",
+        "nm": 3767813,
+        "roles": [
+          {
+            "char": "Soldier"
+          }
+        ]
+      },
+      {
+        "name": "J. Scott Bronson",
+        "nm": 111516,
+        "roles": [
+          {
+            "char": "Captain Marshall"
+          }
+        ]
+      },
+      {
+        "name": "Michael Buster",
+        "nm": 2147659,
+        "roles": [
+          {
+            "char": "Ensign"
+          }
+        ]
+      },
+      {
+        "name": "David Kirk Chambers",
+        "nm": 150312,
+        "roles": [
+          {
+            "char": "NSA Officer"
+          }
+        ]
+      },
+      {
+        "name": "Frank Gerrish",
+        "nm": 314754,
+        "roles": [
+          {
+            "char": "Sheriff Newsom"
+          }
+        ]
+      },
+      {
+        "name": "Richard Hamilton",
+        "nm": 358118,
+        "roles": [
+          {
+            "char": "Captain"
+          }
+        ]
+      },
+      {
+        "name": "Ben Hopkin",
+        "nm": 3437987,
+        "roles": [
+          {
+            "char": "Soldier"
+          }
+        ]
+      },
+      {
+        "name": "Lucinda Jenney",
+        "nm": 421087,
+        "roles": [
+          {
+            "char": "Nadine Walden"
+          }
+        ]
+      },
+      {
+        "name": "Jack Moore",
+        "nm": 601298,
+        "roles": [
+          {
+            "char": "Soldier #1"
+          }
+        ]
+      },
+      {
+        "name": "Logan Newell",
+        "nm": 2123474,
+        "roles": [
+          {
+            "char": "Soldier",
+            "as Joe Newell": true
+          }
+        ]
+      },
+      {
+        "name": "Mowava Pryor",
+        "nm": 699424,
+        "roles": [
+          {
+            "char": "NSA Agent"
+          }
+        ]
+      },
+      {
+        "name": "Joe Rabl",
+        "nm": 4954275,
+        "roles": [
+          {
+            "char": "FBI Agent"
+          }
+        ]
+      },
+      {
+        "name": "Dan Rudert",
+        "nm": 748730,
+        "roles": [
+          {
+            "char": "Helicopter Pilot"
+          }
+        ]
+      },
+      {
+        "name": "George Sullivan",
+        "nm": 838078,
+        "roles": [
+          {
+            "char": "NSA Superior"
+          }
+        ]
+      },
+      {
+        "name": "Brian Vaughan",
+        "nm": 891015,
+        "roles": [
+          {
+            "char": "Tyler",
+            "ch": 364484
+          }
+        ]
+      },
+      {
+        "name": "Ward Wright",
+        "nm": 942918,
+        "roles": [
+          {
+            "char": "Sergeant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E01",
+    "title": "Fear of Flying",
+    "tt": 741415,
+    "air_date": "1997-09-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Harry Shearer",
+        "nm": 733427,
+        "roles": [
+          {
+            "char": "Louis Faraday"
+          }
+        ]
+      },
+      {
+        "name": "Lucinda Jenney",
+        "nm": 421087,
+        "roles": [
+          {
+            "char": "Nadine Walden"
+          }
+        ]
+      },
+      {
+        "name": "Brian Vaughan",
+        "nm": 891015,
+        "roles": [
+          {
+            "char": "Tyler",
+            "ch": 364484
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Shinagel"
+          }
+        ]
+      },
+      {
+        "name": "Richard Cox",
+        "nm": 185210,
+        "roles": [
+          {
+            "char": "Asst. Director Grushaw",
+            "ch": 79135
+          }
+        ]
+      },
+      {
+        "name": "Matthew Bartilson",
+        "nm": 58724,
+        "roles": [
+          {
+            "char": "Glenn"
+          }
+        ]
+      },
+      {
+        "name": "Greg Callahan",
+        "nm": 130198,
+        "roles": [
+          {
+            "char": "NSA General"
+          }
+        ]
+      },
+      {
+        "name": "Chad Cox",
+        "nm": 184960,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Rob Elk",
+        "nm": 253807,
+        "roles": [
+          {
+            "char": "Father"
+          }
+        ]
+      },
+      {
+        "name": "Nichole Pelerine",
+        "nm": 670819,
+        "roles": [
+          {
+            "char": "Sarah"
+          }
+        ]
+      },
+      {
+        "name": "Sandra Thigpen",
+        "nm": 858109,
+        "roles": [
+          {
+            "char": "Female Security Guard"
+          }
+        ]
+      },
+      {
+        "name": "Chris Ufland",
+        "nm": 880034,
+        "roles": [
+          {
+            "char": "Soldier"
+          }
+        ]
+      },
+      {
+        "name": "Miguel Angel Caballero",
+        "nm": 1460753,
+        "roles": [
+          {
+            "char": "Michael",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jason Sutliff",
+        "nm": 840200,
+        "roles": [
+          {
+            "char": "Computer Police",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Devil's Rainbow",
+    "tt": 741424,
+    "air_date": "1997-10-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Charlotte MacArthur"
+          }
+        ]
+      },
+      {
+        "name": "Matt Clark",
+        "nm": 164273,
+        "roles": [
+          {
+            "char": "Monroe"
+          }
+        ]
+      },
+      {
+        "name": "Sam Anderson",
+        "nm": 27402,
+        "roles": [
+          {
+            "char": "Army General"
+          }
+        ]
+      },
+      {
+        "name": "Charles Rahi Chun",
+        "nm": 161130,
+        "roles": [
+          {
+            "char": "Satcom Officer",
+            "as Charles S. Chun": true
+          }
+        ]
+      },
+      {
+        "name": "Lola Glaudini",
+        "nm": 322164,
+        "roles": [
+          {
+            "char": "Young Constance MacArthur",
+            "ch": 96780
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Dreams",
+    "tt": 741414,
+    "air_date": "1997-10-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Robert Knepper",
+        "nm": 460694,
+        "roles": [
+          {
+            "char": "Alex Burton"
+          }
+        ]
+      },
+      {
+        "name": "Wendy Gazelle",
+        "nm": 311092,
+        "roles": [
+          {
+            "char": "Ruth Burton"
+          }
+        ]
+      },
+      {
+        "name": "Sam Gifaldi",
+        "nm": 317484,
+        "roles": [
+          {
+            "char": "Stephen Burton"
+          }
+        ]
+      },
+      {
+        "name": "Gregg Almquist",
+        "nm": 21997,
+        "roles": [
+          {
+            "char": "Congressman Hamilton"
+          }
+        ]
+      },
+      {
+        "name": "Peter Carlin",
+        "nm": 137536,
+        "roles": [
+          {
+            "char": "Spencer Davis"
+          }
+        ]
+      },
+      {
+        "name": "Eric Don",
+        "nm": 1456473,
+        "roles": [
+          {
+            "char": "Jason"
+          }
+        ]
+      },
+      {
+        "name": "Judy Kain",
+        "nm": 435071,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Mace",
+        "nm": 532068,
+        "roles": [
+          {
+            "char": "Congresswoman Wagstaff"
+          }
+        ]
+      },
+      {
+        "name": "Michael O'Hagan",
+        "nm": 641149,
+        "roles": [
+          {
+            "char": "Dr. Howard Stein"
+          }
+        ]
+      },
+      {
+        "name": "Jill Remez",
+        "nm": 718920,
+        "roles": [
+          {
+            "char": "Dr. Patricia Ryan"
+          }
+        ]
+      },
+      {
+        "name": "Jon Cowart",
+        "nm": 3192672,
+        "roles": [
+          {
+            "char": "Kid at birthday party",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Remember",
+    "tt": 741419,
+    "air_date": "1997-10-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Stephen Berra",
+        "nm": 77284,
+        "roles": [
+          {
+            "char": "Danny"
+          }
+        ]
+      },
+      {
+        "name": "Jessica Tuck",
+        "nm": 875768,
+        "roles": [
+          {
+            "char": "Lawson"
+          }
+        ]
+      },
+      {
+        "name": "Vanessa Zima",
+        "nm": 956528,
+        "roles": [
+          {
+            "char": "Melissa"
+          }
+        ]
+      },
+      {
+        "name": "Tony Amendola",
+        "nm": 24593,
+        "roles": [
+          {
+            "char": "Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Larissa Laskin",
+        "nm": 487433,
+        "roles": [
+          {
+            "char": "Katherine"
+          }
+        ]
+      },
+      {
+        "name": "Greg Callahan",
+        "nm": 130198,
+        "roles": [
+          {
+            "char": "NSA General"
+          }
+        ]
+      },
+      {
+        "name": "Granville Ames",
+        "nm": 24707,
+        "roles": [
+          {
+            "char": "Sgt. Roberts",
+            "ch": 201660
+          }
+        ]
+      },
+      {
+        "name": "Judy Jean Berns",
+        "nm": 76957,
+        "roles": [
+          {
+            "char": "Member"
+          }
+        ]
+      },
+      {
+        "name": "Eric Don",
+        "nm": 1456473,
+        "roles": [
+          {
+            "char": "Young Jason"
+          }
+        ]
+      },
+      {
+        "name": "Richard Lyons",
+        "nm": 5556858,
+        "roles": [
+          {
+            "char": "NSA Lieutenant"
+          }
+        ]
+      },
+      {
+        "name": "Joe Rabl",
+        "nm": 4954275,
+        "roles": [
+          {
+            "char": "FBI Agent"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Ryan",
+        "nm": 752660,
+        "roles": [
+          {
+            "char": "Senator"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Sloan",
+        "nm": 805941,
+        "roles": [
+          {
+            "char": "Danny's Father"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "The Black Box",
+    "tt": 741422,
+    "air_date": "1997-10-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Nicolas Surovy",
+        "nm": 839708,
+        "roles": [
+          {
+            "char": "Ben Proctor"
+          }
+        ]
+      },
+      {
+        "name": "Christine Healy",
+        "nm": 372303,
+        "roles": [
+          {
+            "char": "Elaine Barker"
+          }
+        ]
+      },
+      {
+        "name": "Turhan Bey",
+        "nm": 1947,
+        "roles": [
+          {
+            "char": "Rusha"
+          }
+        ]
+      },
+      {
+        "name": "Granville Ames",
+        "nm": 24707,
+        "roles": [
+          {
+            "char": "Sgt. Roberts",
+            "ch": 201660
+          }
+        ]
+      },
+      {
+        "name": "Peter Carlin",
+        "nm": 137536,
+        "roles": [
+          {
+            "char": "Spencer Davis"
+          }
+        ]
+      },
+      {
+        "name": "David Drew Gallagher",
+        "nm": 302360,
+        "roles": [
+          {
+            "char": "McNally",
+            "ch": 364483
+          }
+        ]
+      },
+      {
+        "name": "Teddy Lane Jr.",
+        "nm": 485215,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "Rosie Malek-Yonan",
+        "nm": 539330,
+        "roles": [
+          {
+            "char": "Maria",
+            "ch": 30649
+          }
+        ]
+      },
+      {
+        "name": "Angela Miller",
+        "nm": 587896,
+        "roles": [
+          {
+            "char": "Young Elaine",
+            "as Madison Miller": true
+          }
+        ]
+      },
+      {
+        "name": "Thomas Newton",
+        "nm": 628603,
+        "roles": [
+          {
+            "char": "Young Ben",
+            "as Thomas Jacob Newton": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Teufelsnacht",
+    "tt": 741421,
+    "air_date": "1997-10-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Michael O'Ryan",
+            "ch": 66931
+          }
+        ]
+      },
+      {
+        "name": "Charles Hallahan",
+        "nm": 356251,
+        "roles": [
+          {
+            "char": "Sheriff"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bacall",
+        "nm": 45209,
+        "roles": [
+          {
+            "char": "Carlo"
+          }
+        ]
+      },
+      {
+        "name": "Courtney Peldon",
+        "nm": 670780,
+        "roles": [
+          {
+            "char": "Donna"
+          }
+        ]
+      },
+      {
+        "name": "Granville Ames",
+        "nm": 24707,
+        "roles": [
+          {
+            "char": "Sgt. Roberts",
+            "ch": 201660
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Scott Shaw",
+        "nm": 2396,
+        "roles": [
+          {
+            "char": "James"
+          }
+        ]
+      },
+      {
+        "name": "Marte Boyle Slout",
+        "nm": 806231,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Reunion",
+    "tt": 741420,
+    "air_date": "1997-11-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Michael O'Ryan",
+            "ch": 66931
+          }
+        ]
+      },
+      {
+        "name": "Tammy Lauren",
+        "nm": 491079,
+        "roles": [
+          {
+            "char": "Charlotte MacArthur"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Bain",
+        "nm": 828,
+        "roles": [
+          {
+            "char": "Constance MacArthur",
+            "ch": 96780
+          }
+        ]
+      },
+      {
+        "name": "Bill Morey",
+        "nm": 604376,
+        "roles": [
+          {
+            "char": "Henry Milton"
+          }
+        ]
+      },
+      {
+        "name": "Greg Callahan",
+        "nm": 130198,
+        "roles": [
+          {
+            "char": "NSA General"
+          }
+        ]
+      },
+      {
+        "name": "Granville Ames",
+        "nm": 24707,
+        "roles": [
+          {
+            "char": "Sgt. Roberts",
+            "ch": 201660
+          }
+        ]
+      },
+      {
+        "name": "Jan Hoag",
+        "nm": 387431,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Paul Terrell Clayton",
+        "nm": 165760,
+        "roles": [
+          {
+            "char": "Military Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Jackie Debatin",
+        "nm": 213339,
+        "roles": [
+          {
+            "char": "Louise"
+          }
+        ]
+      },
+      {
+        "name": "Lola Glaudini",
+        "nm": 322164,
+        "roles": [
+          {
+            "char": "Young Constance MacArthur",
+            "ch": 96780
+          }
+        ]
+      },
+      {
+        "name": "Kristian Sorensen",
+        "nm": 814856,
+        "roles": [
+          {
+            "char": "Squad Leader",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Caged",
+    "tt": 741413,
+    "air_date": "1997-11-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Michael O'Ryan",
+            "ch": 66931
+          }
+        ]
+      },
+      {
+        "name": "Richard Cox",
+        "nm": 185210,
+        "roles": [
+          {
+            "char": "Asst. Director Grushaw",
+            "ch": 79135
+          }
+        ]
+      },
+      {
+        "name": "Michael Harney",
+        "nm": 363669,
+        "roles": [
+          {
+            "char": "Warden Burke"
+          }
+        ]
+      },
+      {
+        "name": "Greg Callahan",
+        "nm": 130198,
+        "roles": [
+          {
+            "char": "NSA General"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Burkley",
+        "nm": 122036,
+        "roles": [
+          {
+            "char": "Louie"
+          }
+        ]
+      },
+      {
+        "name": "Bruce French",
+        "nm": 294050,
+        "roles": [
+          {
+            "char": "Father Traylor"
+          }
+        ]
+      },
+      {
+        "name": "Adam Biesk",
+        "nm": 81649,
+        "roles": [
+          {
+            "char": "David"
+          }
+        ]
+      },
+      {
+        "name": "Steve Monroe",
+        "nm": 598569,
+        "roles": [
+          {
+            "char": "Steven"
+          }
+        ]
+      },
+      {
+        "name": "Mark Newsom",
+        "nm": 628434,
+        "roles": [
+          {
+            "char": "Federal Prison Guard #2"
+          }
+        ]
+      },
+      {
+        "name": "Burke Roberts",
+        "nm": 730902,
+        "roles": [
+          {
+            "char": "Tony"
+          }
+        ]
+      },
+      {
+        "name": "David Sawyer",
+        "nm": 768147,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Travis Wester",
+        "nm": 922563,
+        "roles": [
+          {
+            "char": "Young Vise"
+          }
+        ]
+      },
+      {
+        "name": "Louis Herthum",
+        "nm": 381043,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Going Home",
+    "tt": 741416,
+    "air_date": "1997-12-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Michael O'Ryan",
+            "ch": 66931
+          }
+        ]
+      },
+      {
+        "name": "John Carroll Lynch",
+        "nm": 2253,
+        "roles": [
+          {
+            "char": "Joe York"
+          }
+        ]
+      },
+      {
+        "name": "Richard Cox",
+        "nm": 185210,
+        "roles": [
+          {
+            "char": "Asst. Director Grushaw",
+            "ch": 79135
+          }
+        ]
+      },
+      {
+        "name": "Greg Callahan",
+        "nm": 130198,
+        "roles": [
+          {
+            "char": "NSA General"
+          }
+        ]
+      },
+      {
+        "name": "Granville Ames",
+        "nm": 24707,
+        "roles": [
+          {
+            "char": "Sgt. Roberts",
+            "ch": 201660
+          }
+        ]
+      },
+      {
+        "name": "David Drew Gallagher",
+        "nm": 302360,
+        "roles": [
+          {
+            "char": "McNally",
+            "ch": 364483
+          }
+        ]
+      },
+      {
+        "name": "Shaun Toub",
+        "nm": 869467,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rob Aigner",
+        "nm": 1477749,
+        "roles": [
+          {
+            "char": "Technician"
+          }
+        ]
+      },
+      {
+        "name": "Conrad Bachmann",
+        "nm": 45497,
+        "roles": [
+          {
+            "char": "Male Shadow"
+          }
+        ]
+      },
+      {
+        "name": "Laurie Lathem",
+        "nm": 490101,
+        "roles": [
+          {
+            "char": "Sally Wickan"
+          }
+        ]
+      },
+      {
+        "name": "Amy Parrish",
+        "nm": 663511,
+        "roles": [
+          {
+            "char": "Betty York"
+          }
+        ]
+      },
+      {
+        "name": "Glenn Taranto",
+        "nm": 850234,
+        "roles": [
+          {
+            "char": "F.B.I. Agent"
+          }
+        ]
+      },
+      {
+        "name": "Wendy Worthington",
+        "nm": 941781,
+        "roles": [
+          {
+            "char": "Female Shadow"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Miracles",
+    "tt": 741417,
+    "air_date": "1997-12-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Efrem Zimbalist Jr.",
+        "nm": 956544,
+        "roles": [
+          {
+            "char": "Wayland Scott"
+          }
+        ]
+      },
+      {
+        "name": "Lori Heuring",
+        "nm": 5010,
+        "roles": [
+          {
+            "char": "Laura Scott"
+          }
+        ]
+      },
+      {
+        "name": "Mary Carver",
+        "nm": 142571,
+        "roles": [
+          {
+            "char": "Winifred Quick"
+          }
+        ]
+      },
+      {
+        "name": "Alonzo Bodden",
+        "nm": 90785,
+        "roles": [
+          {
+            "char": "Lt. Warren Reed"
+          }
+        ]
+      },
+      {
+        "name": "Eve Brenner",
+        "nm": 107470,
+        "roles": [
+          {
+            "char": "Hospital Administrator"
+          }
+        ]
+      },
+      {
+        "name": "Michael Haywood Norris",
+        "nm": 635867,
+        "roles": [
+          {
+            "char": "Sheriff Lonnie Parks"
+          }
+        ]
+      },
+      {
+        "name": "Fred Pinkard",
+        "nm": 684339,
+        "roles": [
+          {
+            "char": "Beauregard Wilde"
+          }
+        ]
+      },
+      {
+        "name": "Jack Rader",
+        "nm": 705333,
+        "roles": [
+          {
+            "char": "Randall Craig"
+          }
+        ]
+      },
+      {
+        "name": "Rachel Winfree",
+        "nm": 934910,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "The Chain",
+    "tt": 741423,
+    "air_date": "1998-01-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Mary Mara",
+        "nm": 544721,
+        "roles": [
+          {
+            "char": "Magnolia Vale"
+          }
+        ]
+      },
+      {
+        "name": "Walter Olkewicz",
+        "nm": 647288,
+        "roles": [
+          {
+            "char": "Ozzie Faulkner"
+          }
+        ]
+      },
+      {
+        "name": "Don Brunner",
+        "nm": 116371,
+        "roles": [
+          {
+            "char": "Security Guard"
+          }
+        ]
+      },
+      {
+        "name": "Michael Bryan French",
+        "nm": 294153,
+        "roles": [
+          {
+            "char": "Dr. Raymond Pascal"
+          }
+        ]
+      },
+      {
+        "name": "Sue Goodman",
+        "nm": 329240,
+        "roles": [
+          {
+            "char": "Neighbor"
+          }
+        ]
+      },
+      {
+        "name": "Peter Hendrixson",
+        "nm": 1638085,
+        "roles": [
+          {
+            "char": "Haz-mat Member"
+          }
+        ]
+      },
+      {
+        "name": "Pip Newson",
+        "nm": 628439,
+        "roles": [
+          {
+            "char": "NSA Technician"
+          }
+        ]
+      },
+      {
+        "name": "Dominic Oliver",
+        "nm": 646821,
+        "roles": [
+          {
+            "char": "Benny"
+          }
+        ]
+      },
+      {
+        "name": "Fred Saldone",
+        "nm": 757899,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "Anne D. Shedd",
+        "nm": 5560757,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Dianne Travis",
+        "nm": 871384,
+        "roles": [
+          {
+            "char": "Dr. Pauline Greenfield",
+            "as Dianne Turley Travis": true
+          }
+        ]
+      },
+      {
+        "name": "Andre M. Johnson",
+        "nm": 2599564,
+        "roles": [
+          {
+            "char": "Lt. Wayne",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Scott L. Treger",
+        "nm": 1461082,
+        "roles": [
+          {
+            "char": "Hazmat Man #2",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "The Trial",
+    "tt": 741425,
+    "air_date": "1998-01-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "John Corbett",
+        "nm": 179173,
+        "roles": [
+          {
+            "char": "Adam MacArthur",
+            "ch": 79136
+          }
+        ]
+      },
+      {
+        "name": "Grand L. Bush",
+        "nm": 5598,
+        "roles": [
+          {
+            "char": "FBI Agent Douglas Wilcox"
+          }
+        ]
+      },
+      {
+        "name": "Leon Rippy",
+        "nm": 728132,
+        "roles": [
+          {
+            "char": "Agent Nicholas LaRue"
+          }
+        ]
+      },
+      {
+        "name": "John Storey",
+        "nm": 832472,
+        "roles": [
+          {
+            "char": "Agent Craig Van Patten"
+          }
+        ]
+      },
+      {
+        "name": "Steve Railsback",
+        "nm": 706883,
+        "roles": [
+          {
+            "char": "Colonel James Vise",
+            "ch": 117382
+          }
+        ]
+      },
+      {
+        "name": "Adam Baldwin",
+        "nm": 284,
+        "roles": [
+          {
+            "char": "Michael O'Ryan",
+            "ch": 66931
+          },
+          {
+            "char": "Joe York"
+          }
+        ]
+      },
+      {
+        "name": "Richard Cox",
+        "nm": 185210,
+        "roles": [
+          {
+            "char": "Asst. Director Grushaw",
+            "ch": 79135
+          }
+        ]
+      },
+      {
+        "name": "Adam Biesk",
+        "nm": 81649,
+        "roles": [
+          {
+            "char": "David"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Bry",
+        "nm": 116885,
+        "roles": [
+          {
+            "char": "ER Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Rosemary Murphy",
+        "nm": 614677,
+        "roles": [
+          {
+            "char": "Tour Guide"
+          }
+        ]
+      },
+      {
+        "name": "Brooks Almy",
+        "nm": 22022,
+        "roles": [
+          {
+            "char": "Sheila Logan"
+          }
+        ]
+      },
+      {
+        "name": "Alonzo Bodden",
+        "nm": 90785,
+        "roles": [
+          {
+            "char": "Lt. Warren Reed"
+          }
+        ]
+      },
+      {
+        "name": "Darwyn Carson",
+        "nm": 141219,
+        "roles": [
+          {
+            "char": "ER Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Richard Hoyt-Miller",
+        "nm": 398490,
+        "roles": [
+          {
+            "char": "Man One"
+          }
+        ]
+      },
+      {
+        "name": "Amy Parrish",
+        "nm": 663511,
+        "roles": [
+          {
+            "char": "Betty York"
+          }
+        ]
+      },
+      {
+        "name": "Paul Raci",
+        "nm": 705152,
+        "roles": [
+          {
+            "char": "Dark Grey Suit"
+          }
+        ]
+      },
+      {
+        "name": "Marte Boyle Slout",
+        "nm": 806231,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Andre M. Johnson",
+        "nm": 2599564,
+        "roles": [
+          {
+            "char": "Lt. Wayne",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  }
+]

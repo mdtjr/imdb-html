@@ -1,0 +1,4797 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Churchill, Man of the Century",
+    "tt": 918327,
+    "air_date": "1957-10-20",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E02",
+    "title": "Guided Missile",
+    "tt": 926673,
+    "air_date": "1957-10-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Wernher von Braun",
+        "nm": 902042,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Story of the F.B.I.",
+    "tt": 937159,
+    "air_date": "1957-11-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Toward the Unexplored: The Flight of the X-2",
+    "tt": 926728,
+    "air_date": "1957-11-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Mach Busters",
+    "tt": 937160,
+    "air_date": "1957-11-17",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E06",
+    "title": "Brainwashing",
+    "tt": 937158,
+    "air_date": "1957-11-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Vertijets",
+    "tt": 937163,
+    "air_date": "1957-12-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Middle East Smoke Screen",
+    "tt": 937161,
+    "air_date": "1957-12-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Winston Burdett",
+        "nm": 2256085,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Howard K. Smith",
+        "nm": 808485,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Mussolini",
+    "tt": 926689,
+    "air_date": "1957-12-15",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E10",
+    "title": "The Windsors",
+    "tt": 937162,
+    "air_date": "1957-12-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Duchess of Windsor",
+        "nm": 239846,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Duke of Windsor",
+        "nm": 241164,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "War in Spain",
+    "tt": 938251,
+    "air_date": "1958-01-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "The Face of Crime",
+    "tt": 938250,
+    "air_date": "1958-01-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "D-Day Buildup",
+    "tt": 938247,
+    "air_date": "1958-02-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "D-Day Attack",
+    "tt": 938246,
+    "air_date": "1958-02-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Crime and the Committee",
+    "tt": 938245,
+    "air_date": "1958-02-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Enter with Caution: The Atomic Age",
+    "tt": 938248,
+    "air_date": "1958-02-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Trial at Nuremberg",
+    "tt": 926011,
+    "air_date": "1958-03-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Bormann",
+        "nm": 97006,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Karl Dönitz",
+        "nm": 246872,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Hans Frank",
+        "nm": 290950,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Wilhelm Frick",
+        "nm": 294804,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Hans Fritzsche",
+        "nm": 296101,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Walther Funk",
+        "nm": 298753,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Hermann Göring",
+        "nm": 351425,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Rudolf Hess",
+        "nm": 381523,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Alfred Jodl",
+        "nm": 423513,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Ernst Kaltenbrunner",
+        "nm": 436226,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Wilhelm Keitel",
+        "nm": 445198,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Erich Raeder",
+        "nm": 706085,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Alfred Rosenberg",
+        "nm": 742169,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Fritz Sauckel",
+        "nm": 766547,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Hjalmar Schacht",
+        "nm": 769498,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Arthur Seyss-Inquart",
+        "nm": 786896,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Albert Speer",
+        "nm": 817553,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Julius Streicher",
+        "nm": 834165,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Konstantin von Neurath",
+        "nm": 902758,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Franz von Papen",
+        "nm": 902796,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Joachim von Ribbentrop",
+        "nm": 902861,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Baldur von Schirach",
+        "nm": 902947,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Hiroshima",
+    "tt": 938249,
+    "air_date": "1958-03-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Gandhi",
+    "tt": 926668,
+    "air_date": "1958-03-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mohandas K. Gandhi",
+        "nm": 3987,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Class of '58",
+    "tt": 942228,
+    "air_date": "1958-03-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Riot in East Berlin",
+    "tt": 942241,
+    "air_date": "1958-03-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Victory Over Polio",
+    "tt": 942257,
+    "air_date": "1958-04-06",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E23",
+    "title": "F.D.R.: Third Term to Pearl Harbor",
+    "tt": 926666,
+    "air_date": "1958-04-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host and Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "Ceiling Unlimited",
+    "tt": 942227,
+    "air_date": "1958-04-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Krafft A. Ehricke",
+        "nm": 1039922,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "James Van Allen",
+        "nm": 1560004,
+        "roles": [
+          {
+            "char": "Himself",
+            "as Professor James Van Allen": true
+          }
+        ]
+      },
+      {
+        "name": "Wernher von Braun",
+        "nm": 902042,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E25",
+    "title": "The Crowded Air",
+    "tt": 942247,
+    "air_date": "1958-04-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E26",
+    "title": "War in China",
+    "tt": 942258,
+    "air_date": "1958-05-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E27",
+    "title": "Auto Biography",
+    "tt": 942226,
+    "air_date": "1958-05-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E00",
+    "title": "October Classic",
+    "tt": 942239,
+    "air_date": "1958-09-28",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E01",
+    "title": "The Red Sell: The Propaganda Mill",
+    "tt": 926719,
+    "air_date": "1958-10-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Daniel Schorr",
+        "nm": 774897,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "The Red Sell: Report from the Targets",
+    "tt": 926718,
+    "air_date": "1958-11-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Austin Goodrich",
+        "nm": 329291,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Richard Hottelet",
+        "nm": 396259,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Peter Kalischer",
+        "nm": 2494350,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Rockne of Notre Dame",
+    "tt": 939500,
+    "air_date": "1958-11-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "The Russo-Finnish War",
+    "tt": 926722,
+    "air_date": "1958-11-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Peron and Evita",
+    "tt": 926696,
+    "air_date": "1958-11-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Eva Perón",
+        "nm": 675831,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Juan Domingo Perón",
+        "nm": 1090921,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "The Addicted: Profile of a Young Addict",
+    "tt": 939503,
+    "air_date": "1958-11-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "The Addicted: Criminal or Patient?",
+    "tt": 939502,
+    "air_date": "1958-12-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Revolt in Hungary",
+    "tt": 942240,
+    "air_date": "1958-12-14",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E09",
+    "title": "Mission Outer Space",
+    "tt": 926687,
+    "air_date": "1958-12-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Woodrow Wilson: The Fight for Peace",
+    "tt": 926731,
+    "air_date": "1958-12-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Woodrow Wilson",
+        "nm": 934306,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "The Remagen Bridge",
+    "tt": 926720,
+    "air_date": "1959-01-04",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E12",
+    "title": "Jet Carrier",
+    "tt": 942236,
+    "air_date": "1959-01-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "The Delinquents: A Boy Named Bob",
+    "tt": 942248,
+    "air_date": "1959-01-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "The Delinquents: The Highfields Story",
+    "tt": 942249,
+    "air_date": "1959-01-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E15",
+    "title": "Liberation of Paris",
+    "tt": 942238,
+    "air_date": "1959-02-01",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E16",
+    "title": "The Frozen War",
+    "tt": 926712,
+    "air_date": "1959-02-08",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E17",
+    "title": "The Incredible Turk",
+    "tt": 926713,
+    "air_date": "1959-02-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mustafa Kemal Atatürk",
+        "nm": 1130855,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E18",
+    "title": "Freedom for the Philippines",
+    "tt": 942231,
+    "air_date": "1959-02-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E19",
+    "title": "Generation Without a Cause: Self Portrait",
+    "tt": 942232,
+    "air_date": "1959-03-01",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E20",
+    "title": "Generation Without a Cause: The Searchers",
+    "tt": 942233,
+    "air_date": "1959-03-08",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S02E21",
+    "title": "Burma Road and the Hump",
+    "tt": 926658,
+    "air_date": "1959-03-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E22",
+    "title": "The Silent Sentinel",
+    "tt": 926724,
+    "air_date": "1959-03-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Watson-Watt",
+        "nm": 2501618,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E23",
+    "title": "The Times of Teddy Roosevelt",
+    "tt": 942253,
+    "air_date": "1959-03-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E24",
+    "title": "From Kaiser to Fuehrer",
+    "tt": 926009,
+    "air_date": "1959-04-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E25",
+    "title": "Submarine",
+    "tt": 942245,
+    "air_date": "1959-04-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E26",
+    "title": "Stalingrad",
+    "tt": 942243,
+    "air_date": "1959-04-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E00",
+    "title": "Reaching for the Moon",
+    "tt": 926699,
+    "air_date": "1959-09-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E01",
+    "title": "The Movies Learn to Talk",
+    "tt": 926715,
+    "air_date": "1959-10-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E02",
+    "title": "Suicide Run to Murmansk",
+    "tt": 939501,
+    "air_date": "1959-11-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E03",
+    "title": "Age of the Jet",
+    "tt": 939496,
+    "air_date": "1959-11-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E04",
+    "title": "Fall of China",
+    "tt": 939498,
+    "air_date": "1959-11-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Pearl S. Buck",
+        "nm": 118406,
+        "roles": [
+          {
+            "char": "Herself"
+          }
+        ]
+      },
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Albert Wedemeyer",
+        "nm": 1920639,
+        "roles": [
+          {
+            "char": "Himself",
+            "as Maj. Gen. Albert Wedemeyer": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E05",
+    "title": "Goering",
+    "tt": 939499,
+    "air_date": "1959-11-22",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S03E06",
+    "title": "Poland on a Tightrope: Satellite Back in Orbit",
+    "tt": 926697,
+    "air_date": "1959-11-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Daniel Schorr",
+        "nm": 774897,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E07",
+    "title": "Poland on a Tightrope: The Commissar and the Cardinal",
+    "tt": 926698,
+    "air_date": "1959-12-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Daniel Schorr",
+        "nm": 774897,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E08",
+    "title": "End of the Battlewagon",
+    "tt": 926663,
+    "air_date": "1959-12-20",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S03E09",
+    "title": "The Olympics",
+    "tt": 939504,
+    "air_date": "1959-12-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E10",
+    "title": "Crisis at Munich",
+    "tt": 939497,
+    "air_date": "1960-01-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E11",
+    "title": "The Week That Shook the World",
+    "tt": 942254,
+    "air_date": "1960-01-10",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S03E12",
+    "title": "Dirigible",
+    "tt": 942229,
+    "air_date": "1960-01-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E13",
+    "title": "Sabotage",
+    "tt": 942242,
+    "air_date": "1960-01-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E14",
+    "title": "Battle of the Bulge",
+    "tt": 926657,
+    "air_date": "1960-01-31",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S03E15",
+    "title": "The Dust Bowl",
+    "tt": 942250,
+    "air_date": "1960-02-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E16",
+    "title": "Tarawa",
+    "tt": 926707,
+    "air_date": "1960-02-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "David M. Shoup",
+        "nm": 795250,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E17",
+    "title": "Downrange",
+    "tt": 942230,
+    "air_date": "1960-02-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E18",
+    "title": "The Turn of the Century",
+    "tt": 926725,
+    "air_date": "1960-02-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Emperor Franz Josef",
+        "nm": 256636,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Kaiser Wilhelm II",
+        "nm": 435118,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "King Edward VII",
+        "nm": 454371,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Leo Tolstoy",
+        "nm": 866243,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Tsar Nicholas II",
+        "nm": 874739,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Wilbur Wright",
+        "nm": 2417344,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Émile Zola",
+        "nm": 957652,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E19",
+    "title": "Japan's Changing Face: Part 1",
+    "tt": 942234,
+    "air_date": "1960-03-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host and Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E20",
+    "title": "Japan's Changing Face: Part 2",
+    "tt": 942235,
+    "air_date": "1960-03-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host and Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E21",
+    "title": "Patton and the Third Army",
+    "tt": 926695,
+    "air_date": "1960-03-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "George S. Patton",
+        "nm": 666567,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E22",
+    "title": "The Power of the Sea: Part 1",
+    "tt": 942251,
+    "air_date": "1960-03-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jacques-Yves Cousteau",
+        "nm": 184150,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Athelston Spilhaus",
+        "nm": 1900312,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E23",
+    "title": "The Power of the Sea: Part 2",
+    "tt": 942252,
+    "air_date": "1960-04-03",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S03E24",
+    "title": "Rommel",
+    "tt": 926701,
+    "air_date": "1960-04-10",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S03E25",
+    "title": "Paris in the Twenties",
+    "tt": 926010,
+    "air_date": "1960-04-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Josephine Baker",
+        "nm": 1927,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Charles Chaplin",
+        "nm": 122,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Maurice Chevalier",
+        "nm": 2001,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "F. Scott Fitzgerald",
+        "nm": 280234,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "James Joyce",
+        "nm": 4656,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Kiki of Montparnasse",
+        "nm": 452816,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Mistinguett",
+        "nm": 592965,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Ezra Pound",
+        "nm": 1066317,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Man Ray",
+        "nm": 712915,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S03E26",
+    "title": "La Guardia",
+    "tt": 942237,
+    "air_date": "1960-04-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E01",
+    "title": "The Violent World of Sam Huff",
+    "tt": 926726,
+    "air_date": "1960-10-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E02",
+    "title": "The White House Story",
+    "tt": 942255,
+    "air_date": "1960-11-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host and Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E03",
+    "title": "Sub Killers",
+    "tt": 942244,
+    "air_date": "1960-11-13",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S04E04",
+    "title": "Traffic Jam Upstairs",
+    "tt": 942256,
+    "air_date": "1960-11-20",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S04E05",
+    "title": "Over Here",
+    "tt": 926693,
+    "air_date": "1960-11-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E06",
+    "title": "The Doolittle Raid",
+    "tt": 926710,
+    "air_date": "1960-12-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Doolittle",
+        "nm": 233232,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E07",
+    "title": "The Berliners: Life in a Gilded Cage",
+    "tt": 942246,
+    "air_date": "1960-12-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          },
+          {
+            "char": "Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E08",
+    "title": "Admiral Byrd",
+    "tt": 926650,
+    "air_date": "1960-12-25",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S04E09",
+    "title": "P.O.W.: Korea",
+    "tt": 926694,
+    "air_date": "1961-01-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E10",
+    "title": "P.O.W.: The Road to Resistance",
+    "tt": 932462,
+    "air_date": "1961-01-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E11",
+    "title": "Battle of Cassino",
+    "tt": 926656,
+    "air_date": "1961-01-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mark W. Clark",
+        "nm": 164254,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E12",
+    "title": "City Under the Ice",
+    "tt": 926659,
+    "air_date": "1961-01-22",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S04E13",
+    "title": "Ireland: The Tear and the Smile, Part 1",
+    "tt": 926679,
+    "air_date": "1961-01-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Brendan Behan",
+        "nm": 66848,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E14",
+    "title": "Ireland: The Tear and the Smile, Part 2",
+    "tt": 926680,
+    "air_date": "1961-02-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E15",
+    "title": "The Collage Panic",
+    "tt": 942821,
+    "air_date": "1961-02-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E16",
+    "title": "Minister of Hate",
+    "tt": 942817,
+    "air_date": "1961-02-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Joseph Goebbels",
+        "nm": 324305,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E17",
+    "title": "France in Ferment",
+    "tt": 942816,
+    "air_date": "1961-02-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "David Schoenbrun",
+        "nm": 1221772,
+        "roles": [
+          {
+            "char": "Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E18",
+    "title": "The Burma Surgeon Today",
+    "tt": 926709,
+    "air_date": "1961-03-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E19",
+    "title": "The New Marine",
+    "tt": 926716,
+    "air_date": "1961-03-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E20",
+    "title": "Minuteman!",
+    "tt": 942818,
+    "air_date": "1961-03-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E21",
+    "title": "As Others See Us",
+    "tt": 942815,
+    "air_date": "1961-03-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E22",
+    "title": "New York in the Twenties",
+    "tt": 926691,
+    "air_date": "1961-04-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Fanny Brice",
+        "nm": 108511,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Enrico Caruso",
+        "nm": 142297,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Marc Connelly",
+        "nm": 175091,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Noel Coward",
+        "nm": 2021,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "George Gershwin",
+        "nm": 6097,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Texas Guinan",
+        "nm": 347345,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Alfred A. Knopf",
+        "nm": 2957046,
+        "roles": [
+          {
+            "char": "Himself",
+            "interviewee": true
+          }
+        ]
+      },
+      {
+        "name": "Serge Koussevitzky",
+        "nm": 468075,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Gertrude Lawrence",
+        "nm": 492775,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "John McCormack",
+        "nm": 566451,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "H.L. Mencken",
+        "nm": 2494267,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Helen Morgan",
+        "nm": 604709,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "George Jean Nathan",
+        "nm": 2498595,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Eugene O'Neill",
+        "nm": 642156,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Oona O'Neill",
+        "nm": 6319241,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Ignacy Jan Paderewski",
+        "nm": 655643,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Konstantin Stanislavski",
+        "nm": 2507427,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Wally Toscanini",
+        "nm": 2501307,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Stanley Walker",
+        "nm": 6319166,
+        "roles": [
+          {
+            "char": "Himself",
+            "interviewee": true
+          }
+        ]
+      },
+      {
+        "name": "H.G. Wells",
+        "nm": 920229,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Alexander Woollcott",
+        "nm": 941233,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Florenz Ziegfeld Jr.",
+        "nm": 956067,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E23",
+    "title": "Sweden: Trouble in Paradise? Part 1",
+    "tt": 926704,
+    "air_date": "1961-04-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E24",
+    "title": "Sweden: Trouble in Paradise? Part 2",
+    "tt": 926705,
+    "air_date": "1961-04-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E25",
+    "title": "General Marshall",
+    "tt": 926669,
+    "air_date": "1961-04-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "George C. Marshall",
+        "nm": 550895,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S04E26",
+    "title": "Alert! Defense in the Missile Age",
+    "tt": 942814,
+    "air_date": "1961-04-30",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S05E01",
+    "title": "Hungary Today",
+    "tt": 926675,
+    "air_date": "1961-10-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Daniel Schorr",
+        "nm": 774897,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E02",
+    "title": "Al Smith",
+    "tt": 926654,
+    "air_date": "1961-11-05",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S05E03",
+    "title": "Guerrilla, Part 1",
+    "tt": 926671,
+    "air_date": "1961-11-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E04",
+    "title": "Guerrilla, Part 2",
+    "tt": 926672,
+    "air_date": "1961-11-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E05",
+    "title": "Typhoon at Okinawa",
+    "tt": 926729,
+    "air_date": "1961-11-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E06",
+    "title": "The Man Who Spied on Pearl Harbor",
+    "tt": 926714,
+    "air_date": "1961-12-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E07",
+    "title": "The Story of Wendell L. Willkie",
+    "tt": 942824,
+    "air_date": "1961-12-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E08",
+    "title": "The Great Weather Mystery",
+    "tt": 942822,
+    "air_date": "1961-12-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E09",
+    "title": "The Jazz of Dave Brubeck",
+    "tt": 942823,
+    "air_date": "1961-12-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dave Brubeck",
+        "nm": 115399,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E10",
+    "title": "Siege at Malta",
+    "tt": 926702,
+    "air_date": "1962-01-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          },
+          {
+            "char": "Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E11",
+    "title": "Sports Cars: The Rage to Race",
+    "tt": 942819,
+    "air_date": "1962-01-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E12",
+    "title": "The Airport Jam",
+    "tt": 942820,
+    "air_date": "1962-01-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E13",
+    "title": "Crisis at Suez",
+    "tt": 943904,
+    "air_date": "1962-01-28",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S05E14",
+    "title": "Puerto Rico: The Peaceful Revolution",
+    "tt": 943913,
+    "air_date": "1962-02-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E15",
+    "title": "Partisan: The Nazi-Soviet War",
+    "tt": 943911,
+    "air_date": "1962-02-11",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S05E16",
+    "title": "Frank Lloyd Wright",
+    "tt": 943906,
+    "air_date": "1962-02-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host and Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E17",
+    "title": "The Age of Anxiety: Part 1",
+    "tt": 943914,
+    "air_date": "1962-02-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          },
+          {
+            "char": "Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E18",
+    "title": "The Age of Anxiety: Part 2",
+    "tt": 943915,
+    "air_date": "1962-03-04",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S05E19",
+    "title": "The Women Get the Vote",
+    "tt": 943917,
+    "air_date": "1962-03-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E20",
+    "title": "Get the Graf Spee",
+    "tt": 926670,
+    "air_date": "1962-03-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E21",
+    "title": "First Man on the Moon",
+    "tt": 926667,
+    "air_date": "1962-04-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E22",
+    "title": "Czechoslovakia: From Munich to Moscow",
+    "tt": 943905,
+    "air_date": "1962-04-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E23",
+    "title": "End of an Empire",
+    "tt": 926662,
+    "air_date": "1962-04-15",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S05E24",
+    "title": "Let's Go to the Fair",
+    "tt": 943909,
+    "air_date": "1962-04-22",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S05E25",
+    "title": "The Creative Thirties",
+    "tt": 943916,
+    "air_date": "1962-04-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S05E26",
+    "title": "The Satellite That Talks",
+    "tt": 926723,
+    "air_date": "1962-05-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E00",
+    "title": "Pollsters and Politics",
+    "tt": 943912,
+    "air_date": "1962-10-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "George Gallup",
+        "nm": 303239,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E01",
+    "title": "I Remember: Dag Hammarskjold",
+    "tt": 926676,
+    "air_date": "1962-10-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Dag Hammarskjöld",
+        "nm": 358389,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E02",
+    "title": "Germany: Red Spy Target",
+    "tt": 943907,
+    "air_date": "1962-11-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E03",
+    "title": "Norstad of NATO: War or Peace?",
+    "tt": 943910,
+    "air_date": "1962-11-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Robert Kleiman",
+        "nm": 2514241,
+        "roles": [
+          {
+            "char": "Interviewer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E04",
+    "title": "The Fighting E",
+    "tt": 926711,
+    "air_date": "1962-11-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E05",
+    "title": "So That Men Are Free",
+    "tt": 926703,
+    "air_date": "1962-11-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Charles Kuralt",
+        "nm": 475559,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E06",
+    "title": "Laval: Portrait of a Traitor",
+    "tt": 926681,
+    "air_date": "1962-12-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E07",
+    "title": "Army of the Damned",
+    "tt": 946793,
+    "air_date": "1962-12-16",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S06E08",
+    "title": "Zero Hour in Greece",
+    "tt": 946826,
+    "air_date": "1963-01-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E09",
+    "title": "From Jet to Dyna-soar",
+    "tt": 946800,
+    "air_date": "1963-01-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E10",
+    "title": "Air Drop at Arnheim",
+    "tt": 926651,
+    "air_date": "1963-01-20",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S06E11",
+    "title": "Italy's Booming North",
+    "tt": 946802,
+    "air_date": "1963-01-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E12",
+    "title": "Finland's Tug of War",
+    "tt": 946796,
+    "air_date": "1963-02-03",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S06E13",
+    "title": "Beachhead at Anzio",
+    "tt": 946795,
+    "air_date": "1963-02-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          },
+          {
+            "char": "Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E14",
+    "title": "We Fed Our Enemies",
+    "tt": 946823,
+    "air_date": "1963-02-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Lucius D. Clay",
+        "nm": 165543,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E15",
+    "title": "Attack on Singapore",
+    "tt": 946794,
+    "air_date": "1963-02-24",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S06E16",
+    "title": "Franco Spain: Part 1",
+    "tt": 946797,
+    "air_date": "1963-03-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E17",
+    "title": "Franco Spain: Part 2",
+    "tt": 946798,
+    "air_date": "1963-03-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Francisco Franco",
+        "nm": 290542,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E18",
+    "title": "Rhodes Scholar",
+    "tt": 926700,
+    "air_date": "1963-03-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E19",
+    "title": "Red Ships Off Our Shores",
+    "tt": 946810,
+    "air_date": "1963-03-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host and Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E20",
+    "title": "Ethiopia: The Lion and the Cross, Part 1",
+    "tt": 926664,
+    "air_date": "1963-03-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      },
+      {
+        "name": "Blaine Littell",
+        "nm": 514466,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Haile Selassie",
+        "nm": 782952,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E21",
+    "title": "Ethiopia: The Lion and the Cross, Part 2",
+    "tt": 926665,
+    "air_date": "1963-04-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      },
+      {
+        "name": "Blaine Littell",
+        "nm": 514466,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Haile Selassie",
+        "nm": 782952,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E22",
+    "title": "The Booming World of Boats",
+    "tt": 946814,
+    "air_date": "1963-04-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S06E23",
+    "title": "The Western Hero",
+    "tt": 946822,
+    "air_date": "1963-04-21",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S06E24",
+    "title": "Frogmen of the Future",
+    "tt": 946799,
+    "air_date": "1963-04-28",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S07E01",
+    "title": "Keep It Cool",
+    "tt": 943908,
+    "air_date": "1963-10-27",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S07E02",
+    "title": "Mountbatten, Man of Action",
+    "tt": 926688,
+    "air_date": "1963-11-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Louis Mountbatten",
+        "nm": 609884,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E03",
+    "title": "The Road to Berlin",
+    "tt": 926721,
+    "air_date": "1963-11-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E04",
+    "title": "A Child Is to Love",
+    "tt": 926649,
+    "air_date": "1963-11-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E05",
+    "title": "The Battle for Norway",
+    "tt": 944807,
+    "air_date": "1963-12-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          },
+          {
+            "char": "Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E06",
+    "title": "Verdun: End of the Nightmare",
+    "tt": 944812,
+    "air_date": "1963-12-08",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S07E07",
+    "title": "SAC: Aloft and Below - Part 1",
+    "tt": 944854,
+    "air_date": "1963-12-15",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S07E08",
+    "title": "SAC: Aloft and Below - Part 2",
+    "tt": 944855,
+    "air_date": "1963-12-22",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S07E09",
+    "title": "Too Young to Hate",
+    "tt": 944809,
+    "air_date": "1963-12-29",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S07E10",
+    "title": "The Plots Against Hitler, Part 1",
+    "tt": 251332,
+    "air_date": "1964-01-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      },
+      {
+        "name": "Adolf Hitler",
+        "nm": 386944,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Daniel Schorr",
+        "nm": 774897,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E11",
+    "title": "The Plots Against Hitler, Part 2",
+    "tt": 933702,
+    "air_date": "1964-01-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Narrator"
+          }
+        ]
+      },
+      {
+        "name": "Adolf Hitler",
+        "nm": 386944,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      },
+      {
+        "name": "Daniel Schorr",
+        "nm": 774897,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E12",
+    "title": "Invasion of Sicily",
+    "tt": 926678,
+    "air_date": "1964-01-19",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S07E13",
+    "title": "Firebrand on Ice: Stan Mikita",
+    "tt": 944800,
+    "air_date": "1964-02-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      },
+      {
+        "name": "Stan Mikita",
+        "nm": 586545,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E14",
+    "title": "The Songs of Harold Arlen",
+    "tt": 944808,
+    "air_date": "1964-02-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          },
+          {
+            "char": "Narrator"
+          }
+        ]
+      },
+      {
+        "name": "Tony Bennett",
+        "nm": 4746,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Judy Garland",
+        "nm": 23,
+        "roles": [
+          {
+            "char": "Herself"
+          }
+        ]
+      },
+      {
+        "name": "Lena Horne",
+        "nm": 395043,
+        "roles": [
+          {
+            "char": "Herself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E15",
+    "title": "Deep in the Heart of Houston",
+    "tt": 926660,
+    "air_date": "1964-02-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E16",
+    "title": "Depressed Area, U.S.A.",
+    "tt": 944799,
+    "air_date": "1964-02-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E17",
+    "title": "The Agony of Austria",
+    "tt": 944806,
+    "air_date": "1964-03-01",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S07E18",
+    "title": "Traffic Round the World",
+    "tt": 944810,
+    "air_date": "1964-03-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          },
+          {
+            "char": "Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E19",
+    "title": "John L. Lewis",
+    "tt": 944802,
+    "air_date": "1964-03-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          },
+          {
+            "char": "Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E20",
+    "title": "Up Jet",
+    "tt": 944811,
+    "air_date": "1964-03-29",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S07E21",
+    "title": "Yugoslavia: Bridge or Tightrope?",
+    "tt": 944813,
+    "air_date": "1964-04-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E22",
+    "title": "Jimmy Walker",
+    "tt": 944801,
+    "air_date": "1964-04-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jimmy Walker",
+        "nm": 907860,
+        "roles": [
+          {
+            "char": "Himself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E23",
+    "title": "Man with a Mission: Dr. Howard A. Rusk",
+    "tt": 944803,
+    "air_date": "1964-04-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          },
+          {
+            "char": "Narrator"
+          }
+        ]
+      },
+      {
+        "name": "Roy Campanella",
+        "nm": 132111,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Howard Rusk",
+        "nm": 2048194,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E24",
+    "title": "Cameras Aloft, Secrets Below",
+    "tt": 944798,
+    "air_date": "1964-04-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S07E25",
+    "title": "Lenin and Trotsky",
+    "tt": 926682,
+    "air_date": "1964-05-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E00",
+    "title": "Smear, the Game of Dirty Politics",
+    "tt": 945300,
+    "air_date": "1964-10-25",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S08E01",
+    "title": "Who Killed Anne Frank?",
+    "tt": 945301,
+    "air_date": "1964-12-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E02",
+    "title": "Duke Ellington Swings Through Japan",
+    "tt": 926661,
+    "air_date": "1964-12-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Duke Ellington",
+        "nm": 254153,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E03",
+    "title": "Anthony Eden",
+    "tt": 926655,
+    "air_date": "1964-12-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Eden",
+        "nm": 249075,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Kendrick",
+        "nm": 2497220,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E04",
+    "title": "TAC: The Lightning Punch",
+    "tt": 946813,
+    "air_date": "1965-01-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E05",
+    "title": "Target: North Africa",
+    "tt": 926708,
+    "air_date": "1965-01-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E06",
+    "title": "Korea, the Line",
+    "tt": 946804,
+    "air_date": "1965-01-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      },
+      {
+        "name": "Peter Kalischer",
+        "nm": 2494350,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E07",
+    "title": "The Strange Case of Rudolf Hess",
+    "tt": 946820,
+    "air_date": "1965-01-31",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S08E08",
+    "title": "The Nisei: The Pride and the Shame",
+    "tt": 926717,
+    "air_date": "1965-01-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E09",
+    "title": "The Sailing Oysterman",
+    "tt": 946819,
+    "air_date": "1965-02-14",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S08E10",
+    "title": "Heartbreak Country, Italy's South",
+    "tt": 946801,
+    "air_date": "1965-02-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E11",
+    "title": "Siege of Leningrad",
+    "tt": 946811,
+    "air_date": "1965-02-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          },
+          {
+            "char": "Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E12",
+    "title": "Pop Buell, Hoosier at the Front",
+    "tt": 946809,
+    "air_date": "1965-03-07",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S08E13",
+    "title": "The Navajos and Annie Wauneka",
+    "tt": 946818,
+    "air_date": "1965-03-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E14",
+    "title": "Taming of the Mekong",
+    "tt": 926706,
+    "air_date": "1965-03-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E15",
+    "title": "The Warsaw Uprising",
+    "tt": 926727,
+    "air_date": "1965-03-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E16",
+    "title": "Man with a Violin: Isaac Stern",
+    "tt": 926686,
+    "air_date": "1965-04-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Daniel Schorr",
+        "nm": 774897,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Isaac Stern",
+        "nm": 827716,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E17",
+    "title": "The Dissenter, Norman Thomas",
+    "tt": 946815,
+    "air_date": "1965-04-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E18",
+    "title": "The Supersonic Jet Race",
+    "tt": 946821,
+    "air_date": "1965-04-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S08E19",
+    "title": "The Farmer, Feast or Famine",
+    "tt": 946816,
+    "air_date": "1965-04-25",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S09E01",
+    "title": "Man of the Month: Dean Rusk",
+    "tt": 926683,
+    "air_date": "1965-10-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Marvin Kalb",
+        "nm": 435582,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Dean Rusk",
+        "nm": 750807,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E02",
+    "title": "Operation Gwamba",
+    "tt": 926692,
+    "air_date": "1965-12-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E03",
+    "title": "Man of the Year: Pope Paul VI",
+    "tt": 946807,
+    "air_date": "1965-12-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E04",
+    "title": "Air Rescue: The Making of Men",
+    "tt": 926652,
+    "air_date": "1966-01-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Richard Witkin",
+        "nm": 2499761,
+        "roles": [
+          {
+            "char": "Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E05",
+    "title": "Air Rescue: Vietnam",
+    "tt": 926653,
+    "air_date": "1966-01-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E06",
+    "title": "The Majestic, Polluted Hudson",
+    "tt": 946817,
+    "air_date": "1966-01-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E07",
+    "title": "Man of the Month: Ho Chi Minh",
+    "tt": 926684,
+    "air_date": "1966-01-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Bernard Fall",
+        "nm": 266296,
+        "roles": [
+          {
+            "char": "Narrator"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E08",
+    "title": "How to Fight a Guerrilla War",
+    "tt": 926674,
+    "air_date": "1966-02-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Dan Rather",
+        "nm": 711710,
+        "roles": [
+          {
+            "char": "Correspondent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E09",
+    "title": "What a Way to Run a Railroad",
+    "tt": 946824,
+    "air_date": "1966-02-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E10",
+    "title": "Moscow U",
+    "tt": 946808,
+    "air_date": "1966-02-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E11",
+    "title": "Man of the Month: Dr. Michael Ellis DeBakey",
+    "tt": 946806,
+    "air_date": "1966-02-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E12",
+    "title": "Nehru: Man of Two Worlds",
+    "tt": 926690,
+    "air_date": "1966-03-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E13",
+    "title": "Synanon in Prison",
+    "tt": 946812,
+    "air_date": "1966-03-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E14",
+    "title": "Woman Doctor in Vietnam",
+    "tt": 926730,
+    "air_date": "1966-03-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Peter Kalischer",
+        "nm": 2494350,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Morley Safer",
+        "nm": 755824,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E15",
+    "title": "Woman of the Month: Indira Gandhi",
+    "tt": 946825,
+    "air_date": "1966-03-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      },
+      {
+        "name": "Winston Burdett",
+        "nm": 2256085,
+        "roles": [
+          {
+            "char": "Interviewer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E16",
+    "title": "Integration in the Military",
+    "tt": 926677,
+    "air_date": "1966-04-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E17",
+    "title": "Jackpot in Libya",
+    "tt": 946803,
+    "air_date": "1966-04-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S09E18",
+    "title": "Man of the Month: The Draftee",
+    "tt": 926685,
+    "air_date": "1966-04-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S??E??",
+    "title": "Where We Stand",
+    "tt": 1178996,
+    "air_date": "1958-01-05",
+    "description": "An examination of how the US and USSR compare in terms of science, economics, weapons development, education, and other topics.",
+    "cast": [
+      {
+        "name": "Walter Cronkite",
+        "nm": 4847,
+        "roles": [
+          {
+            "char": "Himself - Host"
+          }
+        ]
+      },
+      {
+        "name": "George Herman",
+        "nm": 1470538,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Kendrick",
+        "nm": 2497220,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Schorr",
+        "nm": 774897,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Howard K. Smith",
+        "nm": 808485,
+        "roles": [
+          {
+            "char": "Himself - Reporter"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,658 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Psychosomatic",
+    "tt": 709636,
+    "air_date": "1991-04-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dannel Arnold",
+        "nm": 1496119,
+        "roles": [
+          {
+            "char": "Dr. Werner"
+          }
+        ]
+      },
+      {
+        "name": "Talia Balsam",
+        "nm": 51104,
+        "roles": [
+          {
+            "char": "Rita Falco"
+          }
+        ]
+      },
+      {
+        "name": "Casey Biggs",
+        "nm": 81827,
+        "roles": [
+          {
+            "char": "Dr. Lewis 'Cowboy' Doniger"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Boutsikaris",
+        "nm": 100381,
+        "roles": [
+          {
+            "char": "Dr. Tony Menzies",
+            "ch": 220801
+          }
+        ]
+      },
+      {
+        "name": "Wren T. Brown",
+        "nm": 114931,
+        "roles": [
+          {
+            "char": "Dr. Ron Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Ron Canada",
+        "nm": 133474,
+        "roles": [
+          {
+            "char": "Anderson 'Mary' Roche"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Lea Clark",
+        "nm": 163803,
+        "roles": [
+          {
+            "char": "Nurse C"
+          }
+        ]
+      },
+      {
+        "name": "Shaun Duke",
+        "nm": 602170,
+        "roles": [
+          {
+            "char": "Paramedic #2",
+            "as Duke Moosekian": true
+          }
+        ]
+      },
+      {
+        "name": "Wayne Duvall",
+        "nm": 245145,
+        "roles": [
+          {
+            "char": "Paramedic #1"
+          }
+        ]
+      },
+      {
+        "name": "Alix Elias",
+        "nm": 253444,
+        "roles": [
+          {
+            "char": "Jeanette Lemp"
+          }
+        ]
+      },
+      {
+        "name": "Kurt Fuller",
+        "nm": 298281,
+        "roles": [
+          {
+            "char": "Mickey Weller"
+          }
+        ]
+      },
+      {
+        "name": "Alan Koss",
+        "nm": 467267,
+        "roles": [
+          {
+            "char": "Dougherty"
+          }
+        ]
+      },
+      {
+        "name": "Alison La Placa",
+        "nm": 478844,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Newberry"
+          }
+        ]
+      },
+      {
+        "name": "Jenifer Lewis",
+        "nm": 507338,
+        "roles": [
+          {
+            "char": "Felicia Brown"
+          }
+        ]
+      },
+      {
+        "name": "Donna Ponterotto",
+        "nm": 690614,
+        "roles": [
+          {
+            "char": "Mrs. Dougherty"
+          }
+        ]
+      },
+      {
+        "name": "Rudolph Willrich",
+        "nm": 932607,
+        "roles": [
+          {
+            "char": "Leland Fisk"
+          }
+        ]
+      },
+      {
+        "name": "John Michael Quinn",
+        "nm": 703894,
+        "roles": [
+          {
+            "char": "Patient",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Fantasy",
+    "tt": 757746,
+    "air_date": "1991-04-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Allan Arbus",
+        "nm": 33458,
+        "roles": [
+          {
+            "char": "Hesh Cooper",
+            "ch": 220800
+          }
+        ]
+      },
+      {
+        "name": "Lucille Bliss",
+        "nm": 88520,
+        "roles": [
+          {
+            "char": "Woman on Gurney"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Boutsikaris",
+        "nm": 100381,
+        "roles": [
+          {
+            "char": "Dr. Tony Menzies",
+            "ch": 220801
+          }
+        ]
+      },
+      {
+        "name": "Ron Canada",
+        "nm": 133474,
+        "roles": [
+          {
+            "char": "Anderson 'Mary' Roche"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Lea Clark",
+        "nm": 163803,
+        "roles": [
+          {
+            "char": "Nurse C"
+          }
+        ]
+      },
+      {
+        "name": "Gerrit Graham",
+        "nm": 334057,
+        "roles": [
+          {
+            "char": "Dr. Gus Rivers"
+          }
+        ]
+      },
+      {
+        "name": "Anne Haney",
+        "nm": 359774,
+        "roles": [
+          {
+            "char": "Disturbed Woman"
+          }
+        ]
+      },
+      {
+        "name": "Alison La Placa",
+        "nm": 478844,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Newberry"
+          }
+        ]
+      },
+      {
+        "name": "Howard McGillin",
+        "nm": 569294,
+        "roles": [
+          {
+            "char": "Randall Forbes"
+          }
+        ]
+      },
+      {
+        "name": "David Opatoshu",
+        "nm": 649055,
+        "roles": [
+          {
+            "char": "Sidney Wolff"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Ladyfinger",
+    "tt": 709635,
+    "air_date": "1991-04-30",
+    "description": null,
+    "cast": [
+      {
+        "name": "Angela Bassett",
+        "nm": 291,
+        "roles": [
+          {
+            "char": "Dr. Willie Burns"
+          }
+        ]
+      },
+      {
+        "name": "Maurice Benard",
+        "nm": 1939,
+        "roles": [
+          {
+            "char": "Jorge Rosario"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Boutsikaris",
+        "nm": 100381,
+        "roles": [
+          {
+            "char": "Dr. Tony Menzies",
+            "ch": 220801
+          }
+        ]
+      },
+      {
+        "name": "Ron Canada",
+        "nm": 133474,
+        "roles": [
+          {
+            "char": "Anderson 'Mary' Roche"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Lea Clark",
+        "nm": 163803,
+        "roles": [
+          {
+            "char": "Nurse C"
+          }
+        ]
+      },
+      {
+        "name": "Gerrit Graham",
+        "nm": 334057,
+        "roles": [
+          {
+            "char": "Dr. Gus Rivers"
+          }
+        ]
+      },
+      {
+        "name": "Alison La Placa",
+        "nm": 478844,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Newberry"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Lacamara",
+        "nm": 479801,
+        "roles": [
+          {
+            "char": "Orderly"
+          }
+        ]
+      },
+      {
+        "name": "Julio Oscar Mechoso",
+        "nm": 575339,
+        "roles": [
+          {
+            "char": "First Orderly"
+          }
+        ]
+      },
+      {
+        "name": "Frank Mora",
+        "nm": 4713551,
+        "roles": [
+          {
+            "char": "Hospital Orderly"
+          }
+        ]
+      },
+      {
+        "name": "Robert Symonds",
+        "nm": 843367,
+        "roles": [
+          {
+            "char": "Cassidy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Wilding",
+    "tt": 709638,
+    "air_date": "1991-05-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Casey Biggs",
+        "nm": 81827,
+        "roles": [
+          {
+            "char": "Cowboy"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Boutsikaris",
+        "nm": 100381,
+        "roles": [
+          {
+            "char": "Dr. Tony Menzies",
+            "ch": 220801
+          }
+        ]
+      },
+      {
+        "name": "David Bowe",
+        "nm": 100762,
+        "roles": [
+          {
+            "char": "Dr. Neff"
+          }
+        ]
+      },
+      {
+        "name": "Ron Canada",
+        "nm": 133474,
+        "roles": [
+          {
+            "char": "Anderson 'Mary' Roche"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Lea Clark",
+        "nm": 163803,
+        "roles": [
+          {
+            "char": "Nurse C"
+          }
+        ]
+      },
+      {
+        "name": "Allen Garfield",
+        "nm": 307255,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Alison La Placa",
+        "nm": 478844,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Newberry"
+          }
+        ]
+      },
+      {
+        "name": "Julio Oscar Mechoso",
+        "nm": 575339,
+        "roles": [
+          {
+            "char": "Julio Oscar",
+            "ch": 80145
+          }
+        ]
+      },
+      {
+        "name": "Allan Rich",
+        "nm": 723590,
+        "roles": [
+          {
+            "char": "Bauer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "High Society",
+    "tt": 709634,
+    "air_date": "1991-05-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Denis Arndt",
+        "nm": 36127,
+        "roles": [
+          {
+            "char": "Dr. Deardorf"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Boutsikaris",
+        "nm": 100381,
+        "roles": [
+          {
+            "char": "Dr. Tony Menzies",
+            "ch": 220801
+          }
+        ]
+      },
+      {
+        "name": "Ron Canada",
+        "nm": 133474,
+        "roles": [
+          {
+            "char": "Anderson 'Mary' Roche"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Lea Clark",
+        "nm": 163803,
+        "roles": [
+          {
+            "char": "Nurse C"
+          }
+        ]
+      },
+      {
+        "name": "Alison La Placa",
+        "nm": 478844,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Newberry"
+          }
+        ]
+      },
+      {
+        "name": "Julio Oscar Mechoso",
+        "nm": 575339,
+        "roles": [
+          {
+            "char": "Julio Oscar",
+            "ch": 80145
+          }
+        ]
+      },
+      {
+        "name": "Brian Patrick",
+        "nm": 665821,
+        "roles": [
+          {
+            "char": "Dr. Ulrich"
+          }
+        ]
+      },
+      {
+        "name": "Brian Smiar",
+        "nm": 806875,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Brynn Thayer",
+        "nm": 857201,
+        "roles": [
+          {
+            "char": "Katherine Faraday"
+          }
+        ]
+      },
+      {
+        "name": "Ann Weldon",
+        "nm": 919710,
+        "roles": [
+          {
+            "char": "Winona"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Safe Smuggling",
+    "tt": 709637,
+    "air_date": "1991-05-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Allan Arbus",
+        "nm": 33458,
+        "roles": [
+          {
+            "char": "Hesh Cooper",
+            "ch": 220800
+          }
+        ]
+      },
+      {
+        "name": "Fausto Bara",
+        "nm": 52759,
+        "roles": [
+          {
+            "char": "Jose"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Boutsikaris",
+        "nm": 100381,
+        "roles": [
+          {
+            "char": "Dr. Tony Menzies",
+            "ch": 220801
+          }
+        ]
+      },
+      {
+        "name": "Ron Canada",
+        "nm": 133474,
+        "roles": [
+          {
+            "char": "Anderson 'Mary' Roche"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Lea Clark",
+        "nm": 163803,
+        "roles": [
+          {
+            "char": "Nurse C"
+          }
+        ]
+      },
+      {
+        "name": "Alix Elias",
+        "nm": 253444,
+        "roles": [
+          {
+            "char": "Jeanette Lemp"
+          }
+        ]
+      },
+      {
+        "name": "Peter Michael Goetz",
+        "nm": 324533,
+        "roles": [
+          {
+            "char": "Ira"
+          }
+        ]
+      },
+      {
+        "name": "Saveliy Kramarov",
+        "nm": 469434,
+        "roles": [
+          {
+            "char": "Dimitri"
+          }
+        ]
+      },
+      {
+        "name": "Alison La Placa",
+        "nm": 478844,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Newberry"
+          }
+        ]
+      }
+    ]
+  }
+]

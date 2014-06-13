@@ -1,0 +1,5196 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Saga of a Star World",
+    "tt": 519749,
+    "air_date": "1978-09-17",
+    "description": "The Twelve Colonies of man are annihilated by the Cylons. Adama, commanding the last surviving Battlestar, takes it upon himself to lead all remaining survivors aboard 220 ships to find a new home. After the Galactica's fighter pilots successfully navigate a path through the Nova of Madagon minefield, the spoiled Sire Uri proposes to settle down on Carillon, where food and entertainment are provided by the natives. Adama however, suspects a Cylon trap.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Lew Ayres",
+        "nm": 817,
+        "roles": [
+          {
+            "char": "President Adar",
+            "ch": 8109
+          }
+        ]
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "nm": 405035,
+        "roles": [
+          {
+            "char": "Anton"
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "John Fink",
+        "nm": 277822,
+        "roles": [
+          {
+            "char": "Dr. Payne",
+            "ch": 91847
+          }
+        ]
+      },
+      {
+        "name": "Jane Seymour",
+        "nm": 5412,
+        "roles": [
+          {
+            "char": "Serina",
+            "ch": 8083
+          }
+        ]
+      },
+      {
+        "name": "Ray Milland",
+        "nm": 1537,
+        "roles": [
+          {
+            "char": "Sire Uri",
+            "ch": 8089
+          }
+        ]
+      },
+      {
+        "name": "Ed Begley Jr.",
+        "nm": 893,
+        "roles": [
+          {
+            "char": "Ensign Greenbean",
+            "ch": 91858
+          }
+        ]
+      },
+      {
+        "name": "Rick Springfield",
+        "nm": 819782,
+        "roles": [
+          {
+            "char": "Lieutenant Zac",
+            "ch": 43284
+          }
+        ]
+      },
+      {
+        "name": "Randi Oakes",
+        "nm": 642974,
+        "roles": [
+          {
+            "char": "Young Taurus woman"
+          }
+        ]
+      },
+      {
+        "name": "Norman Stuart",
+        "nm": 835821,
+        "roles": [
+          {
+            "char": "Statesman"
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Bridge officer"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Rush",
+        "nm": 750706,
+        "roles": [
+          {
+            "char": "Woman on duty"
+          }
+        ]
+      },
+      {
+        "name": "David Matthau",
+        "nm": 559880,
+        "roles": [
+          {
+            "char": "Operative"
+          }
+        ]
+      },
+      {
+        "name": "Chip Johnson",
+        "nm": 424766,
+        "roles": [
+          {
+            "char": "First warrior"
+          }
+        ]
+      },
+      {
+        "name": "Geoffrey Binney",
+        "nm": 83062,
+        "roles": [
+          {
+            "char": "Second Warrior"
+          }
+        ]
+      },
+      {
+        "name": "Paul Coufos",
+        "nm": 183310,
+        "roles": [
+          {
+            "char": "Pilot"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Wright",
+        "nm": 942257,
+        "roles": [
+          {
+            "char": "Deck hand"
+          }
+        ]
+      },
+      {
+        "name": "Carol Baxter",
+        "nm": 62698,
+        "roles": [
+          {
+            "char": "Woman in Elevator",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Pattie Brooks",
+        "nm": 112188,
+        "roles": [
+          {
+            "char": "Tucana Singer",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Diane Burgdorf",
+        "nm": 1178274,
+        "roles": [
+          {
+            "char": "Ovion Queen",
+            "ch": 91854,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Paula Crist",
+        "nm": 188042,
+        "roles": [
+          {
+            "char": "Ovion",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Dick Durock",
+        "nm": 244270,
+        "roles": [
+          {
+            "char": "Imperious Leader",
+            "ch": 8085,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sandra Lee Gimpel",
+        "nm": 319831,
+        "roles": [
+          {
+            "char": "Seetol",
+            "ch": 91849,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Opening narrator",
+            "voice": true
+          },
+          {
+            "char": "Imperious Leader",
+            "ch": 8085,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Myrna Matthews",
+        "nm": 560120,
+        "roles": [
+          {
+            "char": "Space Angel",
+            "ch": 359453,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Marti McCall",
+        "nm": 564665,
+        "roles": [
+          {
+            "char": "Space Angel",
+            "ch": 359453,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Reggie Nalder",
+        "nm": 620513,
+        "roles": [
+          {
+            "char": "Bartender",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "David Tress",
+        "nm": 872261,
+        "roles": [
+          {
+            "char": "Sandell",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Carolyn Willis",
+        "nm": 932288,
+        "roles": [
+          {
+            "char": "Space Angel",
+            "ch": 359453,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Lost Planet of the Gods: Part 1",
+    "tt": 519746,
+    "air_date": "1978-09-24",
+    "description": "Out on patrol, Apollo and Starbuck come across a great void, while Boomer and Jolly are infected with a plague that soon infects the remaining Viper pilots. Soon, Apollo and Starbuck find themselves having to train a group of female cadets, including Apollo's fiancée, Serina.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "George Murdock",
+        "nm": 613787,
+        "roles": [
+          {
+            "char": "Dr. Salik",
+            "ch": 71039
+          }
+        ]
+      },
+      {
+        "name": "Ed Begley Jr.",
+        "nm": 893,
+        "roles": [
+          {
+            "char": "Flight Sgt. Greenbean",
+            "ch": 91858
+          }
+        ]
+      },
+      {
+        "name": "Sheila Wills",
+        "nm": 223179,
+        "roles": [
+          {
+            "char": "Lieutenant Deitra",
+            "ch": 91859,
+            "as Sheila DeWindt": true
+          }
+        ]
+      },
+      {
+        "name": "Janet Julian",
+        "nm": 432201,
+        "roles": [
+          {
+            "char": "Lt. Brie",
+            "ch": 91860,
+            "as Janet Louise Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Jane Seymour",
+        "nm": 5412,
+        "roles": [
+          {
+            "char": "Serina",
+            "ch": 8083
+          }
+        ]
+      },
+      {
+        "name": "Sarah Rush",
+        "nm": 750706,
+        "roles": [
+          {
+            "char": "Flight Cpl. Rigel",
+            "ch": 89103
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Bruce Wright",
+        "nm": 942257,
+        "roles": [
+          {
+            "char": "1st Lt. Guard"
+          }
+        ]
+      },
+      {
+        "name": "Paul Coufos",
+        "nm": 183310,
+        "roles": [
+          {
+            "char": "2nd Guard"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Joseph",
+        "nm": 430619,
+        "roles": [
+          {
+            "char": "2nd Girl Warrior"
+          }
+        ]
+      },
+      {
+        "name": "Janet Lynn Curtis",
+        "nm": 193371,
+        "roles": [
+          {
+            "char": "Sorrell",
+            "ch": 91861
+          }
+        ]
+      },
+      {
+        "name": "Leann Hunley",
+        "nm": 402264,
+        "roles": [
+          {
+            "char": "1st Girl Warrior"
+          }
+        ]
+      },
+      {
+        "name": "Gay Thomas Wilson",
+        "nm": 858858,
+        "roles": [
+          {
+            "char": "3rd Girl Warrior",
+            "as Gay Thomas": true
+          }
+        ]
+      },
+      {
+        "name": "Millicent Crisp",
+        "nm": 1206628,
+        "roles": [
+          {
+            "char": "Girl Warrior"
+          }
+        ]
+      },
+      {
+        "name": "Larry Manetti",
+        "nm": 542027,
+        "roles": [
+          {
+            "char": "Giles",
+            "ch": 91863
+          }
+        ]
+      },
+      {
+        "name": "Dick Durock",
+        "nm": 244270,
+        "roles": [
+          {
+            "char": "Imperious Leader",
+            "ch": 8085,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Harris",
+        "nm": 364893,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Opening Credit Announcer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Lost Planet of the Gods: Part 2",
+    "tt": 519747,
+    "air_date": "1978-10-01",
+    "description": "Adama orders the fleet to set a course into the seemingly endless void, where he expects to find the lost planet of Kobol, mother-world of the twelve tribes of man. Apollo and Serina are 'sealed' in marriage while Starbuck is being held captive on Baltar's Basestar. When Baltar learns of the search for Kobol, he follows the Colonial fleet for a face to face confrontation with Adama.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "George Murdock",
+        "nm": 613787,
+        "roles": [
+          {
+            "char": "Dr. Salik",
+            "ch": 71039
+          }
+        ]
+      },
+      {
+        "name": "Ed Begley Jr.",
+        "nm": 893,
+        "roles": [
+          {
+            "char": "Flight Sgt. Greenbean",
+            "ch": 91858
+          }
+        ]
+      },
+      {
+        "name": "Sheila Wills",
+        "nm": 223179,
+        "roles": [
+          {
+            "char": "Lieutenant Deitra",
+            "ch": 91859,
+            "as Sheila DeWindt": true
+          }
+        ]
+      },
+      {
+        "name": "Janet Julian",
+        "nm": 432201,
+        "roles": [
+          {
+            "char": "Lt. Brie",
+            "ch": 91860,
+            "as Janet Louise Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Jane Seymour",
+        "nm": 5412,
+        "roles": [
+          {
+            "char": "Serina",
+            "ch": 8083
+          }
+        ]
+      },
+      {
+        "name": "Larry Manetti",
+        "nm": 542027,
+        "roles": [
+          {
+            "char": "Giles",
+            "ch": 91863
+          }
+        ]
+      },
+      {
+        "name": "Sarah Rush",
+        "nm": 750706,
+        "roles": [
+          {
+            "char": "Flight Cpl. Rigel",
+            "ch": 89103
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Joseph",
+        "nm": 430619,
+        "roles": [
+          {
+            "char": "2nd Girl Warrior"
+          }
+        ]
+      },
+      {
+        "name": "Janet Lynn Curtis",
+        "nm": 193371,
+        "roles": [
+          {
+            "char": "Sorrell",
+            "ch": 91861
+          }
+        ]
+      },
+      {
+        "name": "Millicent Crisp",
+        "nm": 1206628,
+        "roles": [
+          {
+            "char": "3rd Girl Warrior"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Harris",
+        "nm": 364893,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Leann Hunley",
+        "nm": 402264,
+        "roles": [
+          {
+            "char": "1st Girl Warrior",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Opening Credit Announcer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Lost Warrior",
+    "tt": 519755,
+    "air_date": "1978-10-08",
+    "description": "Apollo crashes on the Wild West like planet Equellus after being pursued by four Cylon fighters. Taken in by a widow named Bella and her son Puppis, Apollo takes on crime boss La Certa and Red-Eye, a Cylon centurion turned formidable gunfighter who killed Bella's husband Martin.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Katherine Cannon",
+        "nm": 134223,
+        "roles": [
+          {
+            "char": "Vella",
+            "ch": 91864,
+            "as Kathy Cannon": true
+          }
+        ]
+      },
+      {
+        "name": "Lance LeGault",
+        "nm": 499223,
+        "roles": [
+          {
+            "char": "Bootes",
+            "ch": 91865
+          }
+        ]
+      },
+      {
+        "name": "Claude Earl Jones",
+        "nm": 427779,
+        "roles": [
+          {
+            "char": "Lacerta",
+            "ch": 91866
+          }
+        ]
+      },
+      {
+        "name": "Red West",
+        "nm": 922307,
+        "roles": [
+          {
+            "char": "Marco"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Timko",
+        "nm": 863610,
+        "roles": [
+          {
+            "char": "Puppis",
+            "ch": 91877
+          }
+        ]
+      },
+      {
+        "name": "Larry Manetti",
+        "nm": 542027,
+        "roles": [
+          {
+            "char": "Giles",
+            "ch": 91863
+          }
+        ]
+      },
+      {
+        "name": "Jay Donahue",
+        "nm": 231952,
+        "roles": [
+          {
+            "char": "Jason"
+          }
+        ]
+      },
+      {
+        "name": "Carol Baxter",
+        "nm": 62698,
+        "roles": [
+          {
+            "char": "Macy",
+            "ch": 91844
+          }
+        ]
+      },
+      {
+        "name": "Mary Kay Mars",
+        "nm": 550325,
+        "roles": [
+          {
+            "char": "Vi",
+            "ch": 91884
+          }
+        ]
+      },
+      {
+        "name": "Rex Cutter",
+        "nm": 194009,
+        "roles": [
+          {
+            "char": "Red Eye",
+            "ch": 91883,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Opening Credit Announcer",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "The Long Patrol",
+    "tt": 519754,
+    "air_date": "1978-10-15",
+    "description": "Starbuck's unplanned double-date with Cassiopeia and Athena on the recently-reopened luxury liner Rising Star is interrupted when the Galactica picks up long-range transmission traffic indicting human life in a distant solar system on the other side of a vast asteroid dust field. Starbuck is recalled to duty to pilot the Starchaser, an up-powered reconnaissance viper denuded of weaponry and bearing a voice-activated computer - Computer, Oral Response Activated, known simply as CORA - that can handle the vast increase in performance in the new viper. Starbuck is enthralled by the new viper, but less enthusiastic about CORA, who bears a personality that grates on Starbucks nerves. Starbuck picks up two star-craft from hundreds of years vintage and in the process he is double-crossed and knocked unconscious by a smuggler of liquor. Starbuck later finds himself incarcerated on Proteus, a prison planetoid that is a surviving body from hundreds of such penal facilities scattered through the stars by the Colonies during the Cylon War, facilities that made munitions and liquor for the war effort. Proteus is now manned by the distant antecedents of its original guards and prisoners and continues to make ambrosia for Colonial warriors, even though hundreds of years worth of ambrosia have never left the planet - and the planet may not even survive, as a Cylon patrol that has detected Starbuck's now-stolen viper has spotted the planetoid while the stolen viper is being pursued by Apollo and Boomer.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "James Whitmore Jr.",
+        "nm": 926215,
+        "roles": [
+          {
+            "char": "Robber"
+          }
+        ]
+      },
+      {
+        "name": "Ted Gehring",
+        "nm": 311811,
+        "roles": [
+          {
+            "char": "Croad",
+            "ch": 91887
+          }
+        ]
+      },
+      {
+        "name": "Sean McClory",
+        "nm": 565887,
+        "roles": [
+          {
+            "char": "Assault 9",
+            "ch": 91888
+          }
+        ]
+      },
+      {
+        "name": "Arlene Martel",
+        "nm": 551458,
+        "roles": [
+          {
+            "char": "Adulteress 58",
+            "ch": 91890,
+            "as Tasha Martel": true
+          }
+        ]
+      },
+      {
+        "name": "Ian Abercrombie",
+        "nm": 718,
+        "roles": [
+          {
+            "char": "Forger 7",
+            "ch": 91891
+          }
+        ]
+      },
+      {
+        "name": "Sarah Rush",
+        "nm": 750706,
+        "roles": [
+          {
+            "char": "Flight Cpl. Rigel",
+            "ch": 89103
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Robert Hathaway",
+        "nm": 1382203,
+        "roles": [
+          {
+            "char": "Enforcer"
+          }
+        ]
+      },
+      {
+        "name": "Nancy DeCarl",
+        "nm": 1049328,
+        "roles": [
+          {
+            "char": "Slayer",
+            "ch": 91892
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Harris",
+        "nm": 364893,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Holland",
+        "nm": 390710,
+        "roles": [
+          {
+            "char": "Waiter",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Opening Credit Announcer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Cathey Paine",
+        "nm": 656826,
+        "roles": [
+          {
+            "char": "C.O.R.A.",
+            "ch": 91893,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Gun on Ice Planet Zero: Part 1",
+    "tt": 519744,
+    "air_date": "1978-10-22",
+    "description": "A special task force, mostly made up out of convicts, is dispatched to destroy a giant Cylon operated pulsar cannon on the planet Aracta directly in the Colonial Fleet's path. Having lost a cadet on the planet earlier, Starbuck is eager to join the expedition for once. Boxey and Muffit also join the group as stowaways.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Roy Thinnes",
+        "nm": 858186,
+        "roles": [
+          {
+            "char": "Croft",
+            "ch": 91894
+          }
+        ]
+      },
+      {
+        "name": "James Olson",
+        "nm": 647921,
+        "roles": [
+          {
+            "char": "Thane",
+            "ch": 91895
+          }
+        ]
+      },
+      {
+        "name": "Christine Belford",
+        "nm": 67785,
+        "roles": [
+          {
+            "char": "Leda",
+            "ch": 8122
+          }
+        ]
+      },
+      {
+        "name": "Richard Lynch",
+        "nm": 528433,
+        "roles": [
+          {
+            "char": "Wolfe",
+            "ch": 91896
+          }
+        ]
+      },
+      {
+        "name": "Denny Miller",
+        "nm": 588225,
+        "roles": [
+          {
+            "char": "Ser 5-9",
+            "ch": 91897
+          }
+        ]
+      },
+      {
+        "name": "Britt Ekland",
+        "nm": 1180,
+        "roles": [
+          {
+            "char": "Tenna",
+            "ch": 91898
+          }
+        ]
+      },
+      {
+        "name": "Larry Manetti",
+        "nm": 542027,
+        "roles": [
+          {
+            "char": "Giles",
+            "ch": 91863
+          }
+        ]
+      },
+      {
+        "name": "Alan Stock",
+        "nm": 830711,
+        "roles": [
+          {
+            "char": "Cadet Cree",
+            "ch": 91899
+          }
+        ]
+      },
+      {
+        "name": "Curtis Credel",
+        "nm": 187181,
+        "roles": [
+          {
+            "char": "Haals",
+            "ch": 88145
+          }
+        ]
+      },
+      {
+        "name": "Jeff MacKay",
+        "nm": 533171,
+        "roles": [
+          {
+            "char": "Cpl Komma",
+            "ch": 91900
+          }
+        ]
+      },
+      {
+        "name": "Sarah Rush",
+        "nm": 750706,
+        "roles": [
+          {
+            "char": "Corp. Rigel",
+            "ch": 89103
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Larry Cedar",
+        "nm": 147738,
+        "roles": [
+          {
+            "char": "Cadet Shields",
+            "ch": 91901
+          }
+        ]
+      },
+      {
+        "name": "Alex Hyde-White",
+        "nm": 405033,
+        "roles": [
+          {
+            "char": "Cadet Bow",
+            "ch": 88146
+          }
+        ]
+      },
+      {
+        "name": "Richard Milholland",
+        "nm": 587385,
+        "roles": [
+          {
+            "char": "Killian",
+            "ch": 91903
+          }
+        ]
+      },
+      {
+        "name": "Walt Davis",
+        "nm": 205636,
+        "roles": [
+          {
+            "char": "Vickers",
+            "ch": 91902
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Harris",
+        "nm": 364893,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Opening Credit Announcer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Gun on Ice Planet Zero: Part 2",
+    "tt": 519745,
+    "air_date": "1978-10-29",
+    "description": "As Apollo and the team of convicted specialists brave the snowy mountain to blow up the Ravashol Pulsar, the criminals plan their escape. Starbuck is still determined to make a detour and rescue cadet Cree, but the Theta clones object to the destruction of their creator's weapon.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Roy Thinnes",
+        "nm": 858186,
+        "roles": [
+          {
+            "char": "Croft",
+            "ch": 91894
+          }
+        ]
+      },
+      {
+        "name": "James Olson",
+        "nm": 647921,
+        "roles": [
+          {
+            "char": "Thane",
+            "ch": 91895
+          }
+        ]
+      },
+      {
+        "name": "Christine Belford",
+        "nm": 67785,
+        "roles": [
+          {
+            "char": "Leda",
+            "ch": 8122
+          }
+        ]
+      },
+      {
+        "name": "Richard Lynch",
+        "nm": 528433,
+        "roles": [
+          {
+            "char": "Wolfe",
+            "ch": 91896
+          }
+        ]
+      },
+      {
+        "name": "Denny Miller",
+        "nm": 588225,
+        "roles": [
+          {
+            "char": "Ser 5-9",
+            "ch": 91897
+          }
+        ]
+      },
+      {
+        "name": "Britt Ekland",
+        "nm": 1180,
+        "roles": [
+          {
+            "char": "Tenna",
+            "ch": 91898
+          }
+        ]
+      },
+      {
+        "name": "Dan O'Herlihy",
+        "nm": 641397,
+        "roles": [
+          {
+            "char": "Dr. Ravashol"
+          }
+        ]
+      },
+      {
+        "name": "Larry Manetti",
+        "nm": 542027,
+        "roles": [
+          {
+            "char": "Giles",
+            "ch": 91863
+          }
+        ]
+      },
+      {
+        "name": "Alan Stock",
+        "nm": 830711,
+        "roles": [
+          {
+            "char": "Cadet Cree",
+            "ch": 91899
+          }
+        ]
+      },
+      {
+        "name": "Curtis Credel",
+        "nm": 187181,
+        "roles": [
+          {
+            "char": "Haals",
+            "ch": 88145
+          }
+        ]
+      },
+      {
+        "name": "Sarah Rush",
+        "nm": 750706,
+        "roles": [
+          {
+            "char": "Corp. Rigel",
+            "ch": 89103
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Walt Davis",
+        "nm": 205636,
+        "roles": [
+          {
+            "char": "Vickers",
+            "ch": 91902
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Harris",
+        "nm": 364893,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Opening Credit Announcer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "The Magnificent Warriors",
+    "tt": 519756,
+    "air_date": "1978-11-12",
+    "description": "After the Cylon's destroy two of the fleet's Agro ships and cripple the last remaining one, Adama hopes to swap an old energizer for seed on the the planet Sectar in Quadrant Zeta. Unfortunately Siress Belloby won't give up the energizer unless the commander courts her. Down on the planet, the inhabitants of the small Agro community of Serenity are looking for a new dispensable constable to hold off the Borays who raid the town each high moon.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Brett Somers",
+        "nm": 813827,
+        "roles": [
+          {
+            "char": "Siress Belloby",
+            "ch": 91904
+          }
+        ]
+      },
+      {
+        "name": "Dennis Fimple",
+        "nm": 277344,
+        "roles": [
+          {
+            "char": "Duggy",
+            "ch": 91905
+          }
+        ]
+      },
+      {
+        "name": "Eric Server",
+        "nm": 785804,
+        "roles": [
+          {
+            "char": "Dipper",
+            "ch": 91906
+          }
+        ]
+      },
+      {
+        "name": "Ed Begley Jr.",
+        "nm": 893,
+        "roles": [
+          {
+            "char": "Flight Sgt. Greenbean",
+            "ch": 91858
+          }
+        ]
+      },
+      {
+        "name": "Barry Nelson",
+        "nm": 625167,
+        "roles": [
+          {
+            "char": "Bogan",
+            "ch": 91907
+          }
+        ]
+      },
+      {
+        "name": "Olan Soule",
+        "nm": 815825,
+        "roles": [
+          {
+            "char": "Carmichael",
+            "ch": 91908,
+            "as Olan Soulé": true
+          }
+        ]
+      },
+      {
+        "name": "Rance Howard",
+        "nm": 397555,
+        "roles": [
+          {
+            "char": "Farnes",
+            "ch": 91909
+          }
+        ]
+      },
+      {
+        "name": "Sarah Rush",
+        "nm": 750706,
+        "roles": [
+          {
+            "char": "Rigel",
+            "ch": 89103
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Ben Frommer",
+        "nm": 296370,
+        "roles": [
+          {
+            "char": "Nogow",
+            "ch": 91910
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Opening Credit Announcer",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "The Young Lords",
+    "tt": 519759,
+    "air_date": "1978-11-19",
+    "description": "Shot down by Cylons, Starbuck crash lands on Attila, a planet on the far edge of Omega Sector and finds himself rescued from a phalanx of Cylons by a family of children. Kyle, the young leader of these self proclaimed warriors, soon hatches a plan to trade Starbuck to Outpost commander Spectre for his captured father.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Charles Bloom",
+        "nm": 89145,
+        "roles": [
+          {
+            "char": "Kyle"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Glover",
+        "nm": 323098,
+        "roles": [
+          {
+            "char": "Megan"
+          }
+        ]
+      },
+      {
+        "name": "Audrey Landers",
+        "nm": 484626,
+        "roles": [
+          {
+            "char": "Miri",
+            "ch": 91911
+          }
+        ]
+      },
+      {
+        "name": "Brigitte Muller",
+        "nm": 612097,
+        "roles": [
+          {
+            "char": "Ariadne",
+            "ch": 91912
+          }
+        ]
+      },
+      {
+        "name": "Jonathan B. Woodward",
+        "nm": 940949,
+        "roles": [
+          {
+            "char": "Robus",
+            "ch": 91913
+          }
+        ]
+      },
+      {
+        "name": "Adam Mann",
+        "nm": 542633,
+        "roles": [
+          {
+            "char": "Nilz",
+            "ch": 91914
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Harris",
+        "nm": 364893,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Opening Credit Announcer",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Murray Matheson",
+        "nm": 558569,
+        "roles": [
+          {
+            "char": "Specter",
+            "ch": 91915,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "The Living Legend: Part 1",
+    "tt": 519752,
+    "air_date": "1978-11-26",
+    "description": "While suffering from a fuel shortage, The Galactica finds the supposedly lost Battlestar Pegasus, led by the legendary Commander Cain.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113
+          }
+        ]
+      },
+      {
+        "name": "Jack Stauffer",
+        "nm": 823923,
+        "roles": [
+          {
+            "char": "Lieutenant Bojay",
+            "ch": 120214
+          }
+        ]
+      },
+      {
+        "name": "Rod Haase",
+        "nm": 352069,
+        "roles": [
+          {
+            "char": "Tolan",
+            "ch": 91916
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Commander Cain",
+            "ch": 8088
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Officer Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Junero Jennings",
+        "nm": 421191,
+        "roles": [
+          {
+            "char": "Launch Officer on Pegasus"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Harris",
+        "nm": 364893,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "The Living Legend: Part 2",
+    "tt": 519753,
+    "air_date": "1978-12-03",
+    "description": "After Baltar's attack is repulsed, the crews of the Galactica and Pegasus carry out an attack on the planet Gamoray to acquire fuel supplies.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113
+          }
+        ]
+      },
+      {
+        "name": "Jack Stauffer",
+        "nm": 823923,
+        "roles": [
+          {
+            "char": "Lieutenant Bojay",
+            "ch": 120214
+          }
+        ]
+      },
+      {
+        "name": "Rod Haase",
+        "nm": 352069,
+        "roles": [
+          {
+            "char": "Tolan",
+            "ch": 91916
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Commander Cain",
+            "ch": 8088
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Officer Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Ted Hamaguchi",
+        "nm": 357288,
+        "roles": [
+          {
+            "char": "Helmsman"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Harris",
+        "nm": 364893,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Imperious Leader",
+            "ch": 8085,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Fire in Space",
+    "tt": 519742,
+    "air_date": "1978-12-17",
+    "description": "The crew of the Galactica struggle to fight massive fires on board caused by Cylon suicide incendiary attacks.",
+    "cast": [
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113
+          }
+        ]
+      },
+      {
+        "name": "George Murdock",
+        "nm": 613787,
+        "roles": [
+          {
+            "char": "Dr. Salik",
+            "ch": 71039
+          }
+        ]
+      },
+      {
+        "name": "William Bryant",
+        "nm": 117252,
+        "roles": [
+          {
+            "char": "Fire Leader",
+            "ch": 232660
+          }
+        ]
+      },
+      {
+        "name": "Jeff MacKay",
+        "nm": 533171,
+        "roles": [
+          {
+            "char": "2nd Crewman"
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Officer Omega",
+            "ch": 91843
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "War of the Gods: Part 1",
+    "tt": 519758,
+    "air_date": "1979-01-14",
+    "description": "Silver Spar Squadron is overtaken by a Ship of Lights and subsequently disappears. Investigating a red planet, Apollo, Starbuck and Sheba find a crashed starship and a lone survivor, the mysterious Count Iblis. After Sheba takes him on a tour of the Galactica and other ships in the fleet, the charismatic Count offers to perform three miracles of the Colonial's choosing if they will surrender leadership of the fleet to him.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "John Williams",
+        "nm": 2369,
+        "roles": [
+          {
+            "char": "Sire Montrose",
+            "ch": 137837
+          }
+        ]
+      },
+      {
+        "name": "George Murdock",
+        "nm": 613787,
+        "roles": [
+          {
+            "char": "Dr. Salik",
+            "ch": 71039
+          }
+        ]
+      },
+      {
+        "name": "Janet Julian",
+        "nm": 432201,
+        "roles": [
+          {
+            "char": "Lt. Brie",
+            "ch": 91860,
+            "as Janet Louise Johnson": true
+          }
+        ]
+      },
+      {
+        "name": "Jack Stauffer",
+        "nm": 823923,
+        "roles": [
+          {
+            "char": "Captain Bojay",
+            "ch": 89087
+          }
+        ]
+      },
+      {
+        "name": "Ed Begley Jr.",
+        "nm": 893,
+        "roles": [
+          {
+            "char": "Flight Sgt. Greenbean",
+            "ch": 91858
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Count Iblis",
+            "ch": 82735
+          }
+        ]
+      },
+      {
+        "name": "John Dullaghan",
+        "nm": 227647,
+        "roles": [
+          {
+            "char": "Dr. Wilker",
+            "ch": 91955
+          }
+        ]
+      },
+      {
+        "name": "Kirk Alyn",
+        "nm": 1906,
+        "roles": [
+          {
+            "char": "Old Man"
+          }
+        ]
+      },
+      {
+        "name": "Paula Victor",
+        "nm": 896138,
+        "roles": [
+          {
+            "char": "Old Woman"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Rush",
+        "nm": 750706,
+        "roles": [
+          {
+            "char": "Flight Cpl. Rigel",
+            "ch": 89103
+          }
+        ]
+      },
+      {
+        "name": "Paul Coufos",
+        "nm": 183310,
+        "roles": [
+          {
+            "char": "1st Pilot"
+          }
+        ]
+      },
+      {
+        "name": "Chip Johnson",
+        "nm": 424766,
+        "roles": [
+          {
+            "char": "3rd Pilot"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Wright",
+        "nm": 942257,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Leann Hunley",
+        "nm": 402264,
+        "roles": [
+          {
+            "char": "Girl Warrior"
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Olan Soule",
+        "nm": 815825,
+        "roles": [
+          {
+            "char": "Carmichael",
+            "ch": 91908
+          }
+        ]
+      },
+      {
+        "name": "Norman Stuart",
+        "nm": 835821,
+        "roles": [
+          {
+            "char": "2nd Statesman"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Harris",
+        "nm": 364893,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Felix Silla",
+        "nm": 798061,
+        "roles": [
+          {
+            "char": "Lucifer",
+            "ch": 121748,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "War of the Gods: Part 2",
+    "tt": 519760,
+    "air_date": "1979-01-21",
+    "description": "Count Iblis has delivered the Colonials enemy, Baltar before the Counsil of Twelve. As the Colonials celebrate, Adama and Apollo come to the conclusion that the secret to Iblis' identity can only be found within the wreckage of the ship where he was first encountered.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "John Williams",
+        "nm": 2369,
+        "roles": [
+          {
+            "char": "Sire Montrose",
+            "ch": 137837
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Count Iblis",
+            "ch": 82735
+          }
+        ]
+      },
+      {
+        "name": "John Dullaghan",
+        "nm": 227647,
+        "roles": [
+          {
+            "char": "Dr. Wilker",
+            "ch": 91955
+          }
+        ]
+      },
+      {
+        "name": "Sarah Rush",
+        "nm": 750706,
+        "roles": [
+          {
+            "char": "Rigel",
+            "ch": 89103
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Norman Stuart",
+        "nm": 835821,
+        "roles": [
+          {
+            "char": "2nd Statesman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "The Man with Nine Lives",
+    "tt": 519757,
+    "air_date": "1979-01-28",
+    "description": "On the Rising Star, Three Borellian Nomen on a Blood Hunt are searching for a certain Captain Dimitri. Their prey, an old con artist now calling himself Chameleon, convinces Starbuck there is a chance he might be his long lost father in order to sneak past his pursuers and onto the Galactica.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Anne Jeffreys",
+        "nm": 420331,
+        "roles": [
+          {
+            "char": "Siress Blassie",
+            "ch": 91917
+          }
+        ]
+      },
+      {
+        "name": "Lance LeGault",
+        "nm": 499223,
+        "roles": [
+          {
+            "char": "Maga",
+            "ch": 91918
+          }
+        ]
+      },
+      {
+        "name": "Robert Feero",
+        "nm": 270366,
+        "roles": [
+          {
+            "char": "Bora",
+            "ch": 79165
+          }
+        ]
+      },
+      {
+        "name": "Anthony De Longis",
+        "nm": 209815,
+        "roles": [
+          {
+            "char": "Taba",
+            "ch": 91919
+          }
+        ]
+      },
+      {
+        "name": "Fred Astaire",
+        "nm": 1,
+        "roles": [
+          {
+            "char": "Chameleon",
+            "ch": 91920
+          },
+          {
+            "char": "Captain Dimitri",
+            "ch": 91921
+          }
+        ]
+      },
+      {
+        "name": "Bruce Wright",
+        "nm": 942257,
+        "roles": [
+          {
+            "char": "Corporal Lomas",
+            "ch": 91922
+          }
+        ]
+      },
+      {
+        "name": "Dan Barton",
+        "nm": 59114,
+        "roles": [
+          {
+            "char": "Crewman"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Stich",
+        "nm": 829986,
+        "roles": [
+          {
+            "char": "Zara",
+            "ch": 91923
+          }
+        ]
+      },
+      {
+        "name": "Frank Parker",
+        "nm": 662243,
+        "roles": [
+          {
+            "char": "Zed",
+            "ch": 88144
+          }
+        ]
+      },
+      {
+        "name": "Leann Hunley",
+        "nm": 402264,
+        "roles": [
+          {
+            "char": "Female Pilot"
+          }
+        ]
+      },
+      {
+        "name": "Alex Hyde-White",
+        "nm": 405033,
+        "roles": [
+          {
+            "char": "Male Pilot"
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "John Holland",
+        "nm": 390710,
+        "roles": [
+          {
+            "char": "Waiter"
+          }
+        ]
+      },
+      {
+        "name": "Lynn Halpern",
+        "nm": 2113972,
+        "roles": [
+          {
+            "char": "Dealer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Murder on the Rising Star",
+    "tt": 519748,
+    "air_date": "1979-02-18",
+    "description": "Starbuck is engaged in a game of triad (by Earth standards a mixture of basketball and football) and is consistently struck by hot-tempered bullying Flight Sergeant Ortega, whose low-blows to Starbuck finally result in a fight and ejection of both from the game. Starbuck nearly resumed the fight with Ortega but is stopped by Cassiopeia. Both men separate and after Ortega cleans up he is confronted - and found shot to death. Starbuck is seen rushing to the shuttle bay before Ortega's body is found - and when Starbuck's laser gun is tested it is found to be the murder weapon. Now incarcerated, Starbuck is at wit's end protesting his innocence and driven to force an escape. He boards his viper but is persuaded to stop by Apollo, and Apollo, checking on Ortega's background, learns that Ortega knew a man named Charybdis - who turns out to be the man who was Baltar's personal pilot and a co-conspirator whose sabotage of Inter-Colony Defense computer systems made possible the complete success of the Cylon attack on the Colonies. Apollo and Boomer learn that Ortega had blackmailed three men into boarding the Rising Star illegally during the Cylon attack, but the only way to smoke out the real traitor is to get the cooperation of Baltar, who proves to be the unlikeliest of heroes in saving Apollo and Starbuck.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Brock Peters",
+        "nm": 676349,
+        "roles": [
+          {
+            "char": "Chief Opposer Solon",
+            "ch": 91925
+          }
+        ]
+      },
+      {
+        "name": "W.K. Stratton",
+        "nm": 833688,
+        "roles": [
+          {
+            "char": "Lieutenant Barton",
+            "ch": 91927
+          }
+        ]
+      },
+      {
+        "name": "Ben Frank",
+        "nm": 290843,
+        "roles": [
+          {
+            "char": "Chella",
+            "ch": 91929
+          },
+          {
+            "char": "Riftis",
+            "ch": 91931
+          }
+        ]
+      },
+      {
+        "name": "Lyman Ward",
+        "nm": 911700,
+        "roles": [
+          {
+            "char": "Pallon",
+            "ch": 91933
+          },
+          {
+            "char": "Karibdis",
+            "ch": 91934
+          }
+        ]
+      },
+      {
+        "name": "Frank Ashmore",
+        "nm": 39149,
+        "roles": [
+          {
+            "char": "Flight Sgt. Ortega",
+            "ch": 91936
+          }
+        ]
+      },
+      {
+        "name": "John Dullaghan",
+        "nm": 227647,
+        "roles": [
+          {
+            "char": "Dr. Wilker",
+            "ch": 91955
+          }
+        ]
+      },
+      {
+        "name": "Jeff MacKay",
+        "nm": 533171,
+        "roles": [
+          {
+            "char": "CPI Komma"
+          }
+        ]
+      },
+      {
+        "name": "Newell Alexander",
+        "nm": 18646,
+        "roles": [
+          {
+            "char": "Elias",
+            "ch": 91938
+          }
+        ]
+      },
+      {
+        "name": "Frank Parker",
+        "nm": 662243,
+        "roles": [
+          {
+            "char": "Zed",
+            "ch": 88144
+          }
+        ]
+      },
+      {
+        "name": "Patricia Stich",
+        "nm": 829986,
+        "roles": [
+          {
+            "char": "Zara",
+            "ch": 91923
+          }
+        ]
+      },
+      {
+        "name": "Ted Noose",
+        "nm": 634810,
+        "roles": [
+          {
+            "char": "Official"
+          }
+        ]
+      },
+      {
+        "name": "Paul LeClair",
+        "nm": 496158,
+        "roles": [
+          {
+            "char": "1st Guard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Greetings from Earth",
+    "tt": 519743,
+    "air_date": "1979-02-25",
+    "description": "Apollo and Starbuck come across a vessel they think may have come from Earth and take it aboard the Galactica. On board are two adults and four children in a state of suspended animation. Adama disagrees with the Council of Twelve about opening the sleeping chambers, for that may mean endangering the humans within. When the adult male, Michael, wakes up, he finds it difficult to breath the air on board the Galactica. Apollo, Starbuck and Cassiopea decide to escort the Lunar Shuttle Avion to its destination, hoping to find out if the travelers home, Terra, may be related to the planet Earth.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Randolph Mantooth",
+        "nm": 544168,
+        "roles": [
+          {
+            "char": "Michael"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Harmon",
+        "nm": 363520,
+        "roles": [
+          {
+            "char": "Sarah"
+          }
+        ]
+      },
+      {
+        "name": "Murray Matheson",
+        "nm": 558569,
+        "roles": [
+          {
+            "char": "Statesman Geller",
+            "ch": 91940
+          }
+        ]
+      },
+      {
+        "name": "George Murdock",
+        "nm": 613787,
+        "roles": [
+          {
+            "char": "Dr. Salik",
+            "ch": 71039
+          }
+        ]
+      },
+      {
+        "name": "John Dullaghan",
+        "nm": 227647,
+        "roles": [
+          {
+            "char": "Dr. Wilker",
+            "ch": 91955
+          }
+        ]
+      },
+      {
+        "name": "Lesley Woods",
+        "nm": 940683,
+        "roles": [
+          {
+            "char": "Aggie Moreland",
+            "ch": 91941
+          }
+        ]
+      },
+      {
+        "name": "Frank Marth",
+        "nm": 551731,
+        "roles": [
+          {
+            "char": "Josh Moreland",
+            "ch": 91943
+          }
+        ]
+      },
+      {
+        "name": "Curt Lowens",
+        "nm": 523142,
+        "roles": [
+          {
+            "char": "Krebbs",
+            "ch": 91944
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Bochner",
+        "nm": 1957,
+        "roles": [
+          {
+            "char": "Commandant Leiter",
+            "ch": 91945
+          }
+        ]
+      },
+      {
+        "name": "Bobby Van",
+        "nm": 888399,
+        "roles": [
+          {
+            "char": "Hector"
+          }
+        ]
+      },
+      {
+        "name": "Ray Bolger",
+        "nm": 1961,
+        "roles": [
+          {
+            "char": "Vector",
+            "ch": 8104
+          }
+        ]
+      },
+      {
+        "name": "Gary Vinson",
+        "nm": 899090,
+        "roles": [
+          {
+            "char": "Doyle",
+            "ch": 91946
+          }
+        ]
+      },
+      {
+        "name": "Ron Kelly",
+        "nm": 446835,
+        "roles": [
+          {
+            "char": "Security Officer Reese",
+            "ch": 91947
+          }
+        ]
+      },
+      {
+        "name": "Alex Rodine",
+        "nm": 734858,
+        "roles": [
+          {
+            "char": "Lanceman",
+            "ch": 91948
+          }
+        ]
+      },
+      {
+        "name": "Lester Fletcher",
+        "nm": 282059,
+        "roles": [
+          {
+            "char": "Donner",
+            "ch": 91949
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Michele Carol Larson",
+        "nm": 2548069,
+        "roles": [
+          {
+            "char": "Charity",
+            "ch": 91950
+          }
+        ]
+      },
+      {
+        "name": "Gillian Greene",
+        "nm": 1200693,
+        "roles": [
+          {
+            "char": "Melanie"
+          }
+        ]
+      },
+      {
+        "name": "Eric Larson",
+        "nm": 488982,
+        "roles": [
+          {
+            "char": "Todd",
+            "as G. Eric Larson": true
+          }
+        ]
+      },
+      {
+        "name": "Kimberly Woodward",
+        "nm": 940957,
+        "roles": [
+          {
+            "char": "Loma",
+            "ch": 91951
+          }
+        ]
+      },
+      {
+        "name": "D.G. Larson",
+        "nm": 1856932,
+        "roles": [
+          {
+            "char": "Baby Walker",
+            "ch": 91952,
+            "as David G. Larson": true
+          }
+        ]
+      },
+      {
+        "name": "Don Mantooth",
+        "nm": 544167,
+        "roles": [
+          {
+            "char": "Medtech",
+            "as Donald Mantooth": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Baltar's Escape",
+    "tt": 519740,
+    "air_date": "1979-03-11",
+    "description": "With all of their enemies seemingly defeated, the Counsil of Twelve proposes to revoke the martial law that has been in effect since the destruction of the Colonies and give Commander Adama a permanent Council envoy, Siress Tinia. Meanwhile, Baltar plans his escape from the prison barge by enlisting the help of the Borelian Nomen and Commandant Leiter's enforcers.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Jolly",
+            "ch": 8126,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Ina Balin",
+        "nm": 839,
+        "roles": [
+          {
+            "char": "Siress Tinia",
+            "ch": 91953
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Bochner",
+        "nm": 1957,
+        "roles": [
+          {
+            "char": "Commandant Leiter",
+            "ch": 91945
+          }
+        ]
+      },
+      {
+        "name": "John Hoyt",
+        "nm": 398466,
+        "roles": [
+          {
+            "char": "Sire Domra",
+            "ch": 91954
+          }
+        ]
+      },
+      {
+        "name": "Robert Feero",
+        "nm": 270366,
+        "roles": [
+          {
+            "char": "Bora",
+            "ch": 79165
+          }
+        ]
+      },
+      {
+        "name": "Anthony De Longis",
+        "nm": 209815,
+        "roles": [
+          {
+            "char": "Taba",
+            "ch": 91919
+          }
+        ]
+      },
+      {
+        "name": "Lance LeGault",
+        "nm": 499223,
+        "roles": [
+          {
+            "char": "Maga",
+            "ch": 91918
+          }
+        ]
+      },
+      {
+        "name": "Bruce Wright",
+        "nm": 942257,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "John Dullaghan",
+        "nm": 227647,
+        "roles": [
+          {
+            "char": "Dr. Wilker",
+            "ch": 91955
+          }
+        ]
+      },
+      {
+        "name": "Ron Kelly",
+        "nm": 446835,
+        "roles": [
+          {
+            "char": "Security Officer Reese",
+            "ch": 91947
+          }
+        ]
+      },
+      {
+        "name": "Sarah Rush",
+        "nm": 750706,
+        "roles": [
+          {
+            "char": "Flight Cpl. Rigel",
+            "ch": 89103
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Mitchell Reta",
+        "nm": 2530887,
+        "roles": [
+          {
+            "char": "Control Operator"
+          }
+        ]
+      },
+      {
+        "name": "Paul Tinder",
+        "nm": 863892,
+        "roles": [
+          {
+            "char": "5th Guard"
+          }
+        ]
+      },
+      {
+        "name": "Paul LeClair",
+        "nm": 496158,
+        "roles": [
+          {
+            "char": "2nd Guard"
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113,
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Experiment in Terra",
+    "tt": 519741,
+    "air_date": "1979-03-18",
+    "description": "The mysterious Ship of Lights reappears, hijacks Apollo and his viper in space and sends him on a quest to save the planet Terra during peace negotiations with the Eastern Alliance. One of the beings of light takes human form to guide Apollo, and makes him take on the appearance of a missing Terran named Charlie.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Melody Anderson",
+        "nm": 758,
+        "roles": [
+          {
+            "char": "Brenda Maxwell",
+            "ch": 91956
+          }
+        ]
+      },
+      {
+        "name": "Peter MacLean",
+        "nm": 533806,
+        "roles": [
+          {
+            "char": "President",
+            "as Peter D. MacLean": true
+          }
+        ]
+      },
+      {
+        "name": "Edward Mulhare",
+        "nm": 611811,
+        "roles": [
+          {
+            "char": "John"
+          }
+        ]
+      },
+      {
+        "name": "Nehemiah Persoff",
+        "nm": 675490,
+        "roles": [
+          {
+            "char": "Eastern Alliance Leader",
+            "ch": 91957
+          }
+        ]
+      },
+      {
+        "name": "Logan Ramsey",
+        "nm": 709029,
+        "roles": [
+          {
+            "char": "Moore",
+            "ch": 91962
+          }
+        ]
+      },
+      {
+        "name": "Ken Swofford",
+        "nm": 842855,
+        "roles": [
+          {
+            "char": "General Maxwell",
+            "ch": 91961
+          }
+        ]
+      },
+      {
+        "name": "Sidney Clute",
+        "nm": 167368,
+        "roles": [
+          {
+            "char": "Stone",
+            "ch": 91960
+          }
+        ]
+      },
+      {
+        "name": "Ken Lynch",
+        "nm": 528373,
+        "roles": [
+          {
+            "char": "Dr. Horning",
+            "ch": 91959,
+            "as Kenneth Lynch": true
+          }
+        ]
+      },
+      {
+        "name": "Jordan Rhodes",
+        "nm": 722468,
+        "roles": [
+          {
+            "char": "Brace",
+            "ch": 91958
+          }
+        ]
+      },
+      {
+        "name": "John de Lancie",
+        "nm": 209496,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Russ Marin",
+        "nm": 547501,
+        "roles": [
+          {
+            "char": "Alliance Member"
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Milton James",
+        "nm": 55742,
+        "roles": [
+          {
+            "char": "Alliance Leader",
+            "as Milt Jamin": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Take the Celestra",
+    "tt": 519750,
+    "air_date": "1979-04-01",
+    "description": "During a celebration honoring Commander Kronus, Starbuck recognizes an old flame of his, Aurora and breaks off a date with Cassiopeia to follow his lost love to the Celestra. On their arrival, Starbuck and Apollo find themselves in the midst of a mutiny.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "Paul Fix",
+        "nm": 280707,
+        "roles": [
+          {
+            "char": "Commander Kronus",
+            "ch": 91963
+          }
+        ]
+      },
+      {
+        "name": "Nick Holt",
+        "nm": 392492,
+        "roles": [
+          {
+            "char": "Charka",
+            "ch": 91964
+          }
+        ]
+      },
+      {
+        "name": "Ana Alicia",
+        "nm": 19578,
+        "roles": [
+          {
+            "char": "Aurora",
+            "ch": 91965
+          }
+        ]
+      },
+      {
+        "name": "Randy Stumpf",
+        "nm": 836224,
+        "roles": [
+          {
+            "char": "Damon",
+            "ch": 91966
+          }
+        ]
+      },
+      {
+        "name": "Richard Styles",
+        "nm": 836575,
+        "roles": [
+          {
+            "char": "Hermes",
+            "ch": 91967
+          }
+        ]
+      },
+      {
+        "name": "James R. Parkes",
+        "nm": 662731,
+        "roles": [
+          {
+            "char": "Mutineer #1"
+          }
+        ]
+      },
+      {
+        "name": "Michael Horsley",
+        "nm": 395449,
+        "roles": [
+          {
+            "char": "Mutineer #2"
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      },
+      {
+        "name": "Ted Hamaguchi",
+        "nm": 357288,
+        "roles": [
+          {
+            "char": "3rd Crewman"
+          }
+        ]
+      },
+      {
+        "name": "Robert Murvin",
+        "nm": 615489,
+        "roles": [
+          {
+            "char": "Duty Officer"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Macnee",
+        "nm": 1495,
+        "roles": [
+          {
+            "char": "Opening Credit Announcer",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "The Hand of God",
+    "tt": 519751,
+    "air_date": "1979-04-29",
+    "description": "On a night off, Apollo takes Starbuck, Cassiopeia, and Sheba to one of the least-explored areas of the Galactica - the last of the ancient battlestar's astro-navigational domes, an area Apollo has been repairing in his spare time as relaxation and as an outlet for his passion for deep-star exploration. The dome's scanner is set for long-range communication, and to their surprise they receive a signal, an image of an ancient spacecraft similar to what the Colonies once flew. After showing the signal to Boomer and Commander Adama, they are sent on a long-range Viper patrol to a distant solar system on the transmission's line - and to their horror they discover a Cylon basestar orbiting one of the system's planets in its search for the Colonial Fleet. They escape to the Galactica undetected, and Adama considers avoiding the system, but then decides that he's tired of running and begins preparation to attack the basestar. Apollo recommends infiltrating the basestar to cripple its centralized command chamber before the Galactica attacks, and to their surprise Adama is able to secure information from Baltar, who is allowed to barter knowledge of the Cylons in exchange for freedom, Adama willing to risk that Baltar will also see eventual rescue by the Cylons. The Galactica thus begins its most important mission yet as battle is joined between the ancient battlestar and her Viper fleet against the stronger Cylon raider phalanx of the basestar.",
+    "cast": [
+      {
+        "name": "Richard Hatch",
+        "nm": 368745,
+        "roles": [
+          {
+            "char": "Capt. Apollo",
+            "ch": 38218
+          }
+        ]
+      },
+      {
+        "name": "Dirk Benedict",
+        "nm": 70767,
+        "roles": [
+          {
+            "char": "Lt. Starbuck",
+            "ch": 8092
+          }
+        ]
+      },
+      {
+        "name": "Lorne Greene",
+        "nm": 1296,
+        "roles": [
+          {
+            "char": "Commander Adama",
+            "ch": 8100
+          }
+        ]
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "nm": 420170,
+        "roles": [
+          {
+            "char": "Lt. Boomer",
+            "ch": 54348
+          }
+        ]
+      },
+      {
+        "name": "John Colicos",
+        "nm": 171475,
+        "roles": [
+          {
+            "char": "Baltar",
+            "ch": 8120
+          }
+        ]
+      },
+      {
+        "name": "Maren Jensen",
+        "nm": 421596,
+        "roles": [
+          {
+            "char": "Athena",
+            "ch": 220355,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Noah Hathaway",
+        "nm": 441,
+        "roles": [
+          {
+            "char": "Boxey",
+            "ch": 8101,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Cassiopeia",
+            "ch": 8121
+          }
+        ]
+      },
+      {
+        "name": "Tony Swartz",
+        "nm": 841985,
+        "roles": [
+          {
+            "char": "Flight Sgt. Jolly",
+            "ch": 8126
+          }
+        ]
+      },
+      {
+        "name": "Anne Lockhart",
+        "nm": 516860,
+        "roles": [
+          {
+            "char": "Sheba",
+            "ch": 8113
+          }
+        ]
+      },
+      {
+        "name": "Terry Carter",
+        "nm": 141956,
+        "roles": [
+          {
+            "char": "Colonel Tigh",
+            "ch": 8123
+          }
+        ]
+      },
+      {
+        "name": "David Greenan",
+        "nm": 338427,
+        "roles": [
+          {
+            "char": "Omega",
+            "ch": 91843
+          }
+        ]
+      }
+    ]
+  }
+]

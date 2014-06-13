@@ -1,0 +1,119 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Whole Hog",
+    "tt": 1005941,
+    "air_date": "1989-10-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mel Smith",
+        "nm": 809321,
+        "roles": [
+          {
+            "char": "Giles"
+          }
+        ]
+      },
+      {
+        "name": "Griff Rhys Jones",
+        "nm": 722619,
+        "roles": [
+          {
+            "char": "Maurice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Boat People",
+    "tt": 1005940,
+    "air_date": "1989-10-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Griff Rhys Jones",
+        "nm": 722619,
+        "roles": [
+          {
+            "char": "Colin"
+          }
+        ]
+      },
+      {
+        "name": "Mel Smith",
+        "nm": 809321,
+        "roles": [
+          {
+            "char": "Derek"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Second Thoughts",
+    "tt": 1005939,
+    "air_date": "1989-11-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Griff Rhys Jones",
+        "nm": 722619,
+        "roles": [
+          {
+            "char": "Boswell"
+          }
+        ]
+      },
+      {
+        "name": "Mel Smith",
+        "nm": 809321,
+        "roles": [
+          {
+            "char": "Sam"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Waiting Room",
+    "tt": 703300,
+    "air_date": "1989-11-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Mel Smith",
+        "nm": 809321,
+        "roles": [
+          {
+            "char": "Rev. Benjamin 'Ben' Bottomley"
+          }
+        ]
+      },
+      {
+        "name": "Griff Rhys Jones",
+        "nm": 722619,
+        "roles": [
+          {
+            "char": "Rev. Andrew Pennycuick"
+          }
+        ]
+      },
+      {
+        "name": "Deborah Norton",
+        "nm": 636193,
+        "roles": [
+          {
+            "char": "Receptionist"
+          }
+        ]
+      }
+    ]
+  }
+]

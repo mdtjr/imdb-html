@@ -1,0 +1,6840 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 650165,
+    "air_date": "1994-06-29",
+    "description": "Hillary Michaels is the owner, CEO and president of Models Incorporated, a top modeling agency in Los Angeles which she runs with her son David, the younger half-brother of Amanda Woodward from D&D advertising, one of the agency's biggest clients (from the series 'Melrose Place'). Tired of Hillary's aggressive and tyrant-like influence, Teri Spencer, the top model, wants out of her contract. But during an agency party, a drunken Teri is pushed from the balcony of a high-rise building to her death. The suspects include Hillary because of her anger over financial loses the agency will suffer if Teri quit; the agency's Australian photographer, Brian Peterson, Teri's one-time boyfriend; and Carrie Spencer, Teri's older sister, whom the snobbish Teri taunted about her spiraling career and the child she had to give up for adoption. Meanwhile, newcomer Sarah Owens settles in at the agency's beach front house with help from her friends Jo and Jake (also from 'Melrose Place'). David takes an interest in Sarah, sparking jealousy in his cynical Australian model girlfriend Julie Dante. Sarah tries to win over Julie's friendship by helping her expose a photographer who promised Julie career advances in exchange for sex. Later during a trip to New York City for a fashion show, Julie goes on a drinking binge and loses the gig to Sarah. Also, the agency's receptionist, Stephanie Smith, deals with all of the chaotic problems, while model Linda Holden tries to hide the truth about her abusive relationship with Eric Dearborn, a sleazy musician.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Heather Medway",
+        "nm": 575977,
+        "roles": [
+          {
+            "char": "Stephanie Smith"
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Teri Spencer"
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Grant Show",
+        "nm": 5424,
+        "roles": [
+          {
+            "char": "Jake Hanson",
+            "ch": 23209
+          }
+        ]
+      },
+      {
+        "name": "Daphne Zuniga",
+        "nm": 1879,
+        "roles": [
+          {
+            "char": "Jo Reynolds",
+            "ch": 23190
+          }
+        ]
+      },
+      {
+        "name": "Nolan Miller",
+        "nm": 589039,
+        "roles": [
+          {
+            "char": "Gerard Monty"
+          }
+        ]
+      },
+      {
+        "name": "Julian Stone",
+        "nm": 831979,
+        "roles": [
+          {
+            "char": "Josh Lange",
+            "ch": 78468
+          }
+        ]
+      },
+      {
+        "name": "Robert Beltran",
+        "nm": 296,
+        "roles": [
+          {
+            "char": "Lt. Louis Soto",
+            "ch": 64796
+          }
+        ]
+      },
+      {
+        "name": "Danny Darst",
+        "nm": 201719,
+        "roles": [
+          {
+            "char": "Jimmy Kester"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Philip Moon",
+        "nm": 600657,
+        "roles": [
+          {
+            "char": "John Woo"
+          }
+        ]
+      },
+      {
+        "name": "Mark Conley",
+        "nm": 174792,
+        "roles": [
+          {
+            "char": "Mark Rosen"
+          }
+        ]
+      },
+      {
+        "name": "Jim Curley",
+        "nm": 192756,
+        "roles": [
+          {
+            "char": "Tom Kline",
+            "as James Curley": true
+          }
+        ]
+      },
+      {
+        "name": "Lynnda Ferguson",
+        "nm": 272522,
+        "roles": [
+          {
+            "char": "Designer's Rep"
+          }
+        ]
+      },
+      {
+        "name": "J. David Krassner",
+        "nm": 469979,
+        "roles": [
+          {
+            "char": "Arthur"
+          }
+        ]
+      },
+      {
+        "name": "Kymberly Newberry",
+        "nm": 627637,
+        "roles": [
+          {
+            "char": "Dresser",
+            "as Kymberly S. Newberry": true
+          }
+        ]
+      },
+      {
+        "name": "George C. Simms",
+        "nm": 799962,
+        "roles": [
+          {
+            "char": "Security Chief",
+            "as George Simms": true
+          }
+        ]
+      },
+      {
+        "name": "Leah Ahuja",
+        "nm": 2438592,
+        "roles": [
+          {
+            "char": "Fashion Show Model #1"
+          }
+        ]
+      },
+      {
+        "name": "Darienne Arnold",
+        "nm": 36402,
+        "roles": [
+          {
+            "char": "Fashion Show Model #2"
+          }
+        ]
+      },
+      {
+        "name": "Lizanne Falsetto",
+        "nm": 2440613,
+        "roles": [
+          {
+            "char": "Fashion Show Model #3"
+          }
+        ]
+      },
+      {
+        "name": "Gayle Glynn",
+        "nm": 2436660,
+        "roles": [
+          {
+            "char": "Fashion Show Model #4"
+          }
+        ]
+      },
+      {
+        "name": "Zane Hunter",
+        "nm": 2436609,
+        "roles": [
+          {
+            "char": "Fashion Show Model #5"
+          }
+        ]
+      },
+      {
+        "name": "Leslie Reynolds",
+        "nm": 721831,
+        "roles": [
+          {
+            "char": "Fashion Show Model #6"
+          }
+        ]
+      },
+      {
+        "name": "Rena Riffel",
+        "nm": 726457,
+        "roles": [
+          {
+            "char": "Fashion Model"
+          }
+        ]
+      },
+      {
+        "name": "Lou Cass",
+        "nm": 992223,
+        "roles": [
+          {
+            "char": "Photographer",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Caryn Cheever",
+        "nm": 154936,
+        "roles": [
+          {
+            "char": "Party Goer",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Carol Mayo Jenkins",
+        "nm": 420797,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Christopher Riordan",
+        "nm": 727849,
+        "roles": [
+          {
+            "char": "Photographer's Assistant",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Be My, Be My Baby",
+    "tt": 650146,
+    "air_date": "1994-07-06",
+    "description": "After a scuffle erupts during Teri's funeral, Hillary angers David by ordering him to stay away from Sarah because she considers their relationship unprofessional. When suspicion on Teri's death falls on Hillary, she tries to put the moves on Lt. Louis Soto, the man in charge of the murder investigation. Meanwhile, Julie is plagued by her slip-up in New York when a newspaper publishes the news which gives her a bad reputation, and she vows revenge against Sarah. Carrie investigates her adoptive son's whereabouts with a little help from Lt. Soto and finally contacts her son's adoptive father for a \"business proposition.\" Also, Eric begins to blackmail Linda with a porno videotape that she appeared in during her pre-modeling days in order to prevent her from leaving him.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Heather Medway",
+        "nm": 575977,
+        "roles": [
+          {
+            "char": "Stephanie Smith"
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Teri Spencer"
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "William Katt",
+        "nm": 1411,
+        "roles": [
+          {
+            "char": "Paul Carson",
+            "ch": 41256
+          }
+        ]
+      },
+      {
+        "name": "Victor Bevine",
+        "nm": 79782,
+        "roles": [
+          {
+            "char": "Jay Silvestri"
+          }
+        ]
+      },
+      {
+        "name": "Margot Rose",
+        "nm": 741558,
+        "roles": [
+          {
+            "char": "Marie Colvin"
+          }
+        ]
+      },
+      {
+        "name": "Robert Beltran",
+        "nm": 296,
+        "roles": [
+          {
+            "char": "Lt. Louis Soto",
+            "ch": 64796
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Chaton Anderson",
+        "nm": 26508,
+        "roles": [
+          {
+            "char": "Teen Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Tracii Show",
+        "nm": 2002740,
+        "roles": [
+          {
+            "char": "Claire Dubois",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "It'll Never Happen Again and Again and Again",
+    "tt": 650156,
+    "air_date": "1994-07-13",
+    "description": "Sarah, still haunted by memories of an abusive relationship, pushes David away. He eventually gets drunk and spends the night with Julie, who gets angry the morning after when he tell her that it was a mistake. Lt. Soto loses objectivity on the murder case because of his involvement with Hillary. Meanwhile, Eric uses Linda and his blackmail money to further his musical ambitions. Also, Carrie finally meets her five-year-old son, Kyle Carson, who's father Paul Carson, a wealthy car dealer, meets Carrie for the first time where she masquerades as Hillary to get close to them.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Heather Medway",
+        "nm": 575977,
+        "roles": [
+          {
+            "char": "Stephanie Smith"
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Teri Spencer"
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Leann Hunley",
+        "nm": 402264,
+        "roles": [
+          {
+            "char": "Marcia Carson"
+          }
+        ]
+      },
+      {
+        "name": "William Katt",
+        "nm": 1411,
+        "roles": [
+          {
+            "char": "Paul Carson",
+            "ch": 41256
+          }
+        ]
+      },
+      {
+        "name": "Trenton Knight",
+        "nm": 461109,
+        "roles": [
+          {
+            "char": "Kyle Carson"
+          }
+        ]
+      },
+      {
+        "name": "Nick Richert",
+        "nm": 724922,
+        "roles": [
+          {
+            "char": "Avery"
+          }
+        ]
+      },
+      {
+        "name": "John Sanderford",
+        "nm": 761438,
+        "roles": [
+          {
+            "char": "Carl Gibson"
+          }
+        ]
+      },
+      {
+        "name": "Robert Beltran",
+        "nm": 296,
+        "roles": [
+          {
+            "char": "Lt. Louis Soto",
+            "ch": 64796
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Fumi Shishino",
+        "nm": 2310501,
+        "roles": [
+          {
+            "char": "Jennie"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Tracii Show",
+        "nm": 2002740,
+        "roles": [
+          {
+            "char": "Claire Dubois",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Skin Deep",
+    "tt": 650167,
+    "air_date": "1994-07-20",
+    "description": "Paul Carson joins Carrie on an out-of-town shoot in Cabo San Lucas where they are drawn to each other. Back in Los Angeles, Brian becomes attracted to Sarah and objects to her renewed relationship with David. When Sarah decides to break up with David, he counters with a proposal, but Julie breaks it up by revealing to Sarah that she and David slept together. Also, Eric's potential music break does nothing to ease his pressure on Linda for more blackmail money.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Heather Medway",
+        "nm": 575977,
+        "roles": [
+          {
+            "char": "Stephanie Smith"
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Teri Spencer",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Leann Hunley",
+        "nm": 402264,
+        "roles": [
+          {
+            "char": "Marcia Carson"
+          }
+        ]
+      },
+      {
+        "name": "William Katt",
+        "nm": 1411,
+        "roles": [
+          {
+            "char": "Paul Carson",
+            "ch": 41256
+          }
+        ]
+      },
+      {
+        "name": "Trenton Knight",
+        "nm": 461109,
+        "roles": [
+          {
+            "char": "Kyle Carson"
+          }
+        ]
+      },
+      {
+        "name": "Nick Richert",
+        "nm": 724922,
+        "roles": [
+          {
+            "char": "Avery"
+          }
+        ]
+      },
+      {
+        "name": "Steven Williams",
+        "nm": 931736,
+        "roles": [
+          {
+            "char": "Marcus Ballard"
+          }
+        ]
+      },
+      {
+        "name": "Robert Beltran",
+        "nm": 296,
+        "roles": [
+          {
+            "char": "Lt. Louis Soto",
+            "ch": 64796
+          }
+        ]
+      },
+      {
+        "name": "Randy Oglesby",
+        "nm": 644750,
+        "roles": [
+          {
+            "char": "Justice of the Peace"
+          }
+        ]
+      },
+      {
+        "name": "Michael Tomlinson",
+        "nm": 866863,
+        "roles": [
+          {
+            "char": "Photographer"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Haas",
+        "nm": 352016,
+        "roles": [
+          {
+            "char": "Producer",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Tracii Show",
+        "nm": 2002740,
+        "roles": [
+          {
+            "char": "Claire Dubois",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Strictly Business",
+    "tt": 650169,
+    "air_date": "1994-07-27",
+    "description": "As Carrie and Paul's relationship intensifies, Paul's wife, Marcia, issues a stern warning to Carrie to stay away from him. Meanwhile, Cynthia Nichols, a brash new Afro-American model, impresses Hillary who hires her on the spot. When Eric demands more and more money from Linda, she finally turns him down and moves out of his apartment and into the beach house. When suspicion on Teri's death falls on Brian because of his obsession with her, Stephanie becomes a nervous wreak after lying to Lt. Soto to give Brian an alibi on the day of the murder. Problems arise for David and Sarah because of Julie's constant meddling in trying to keep them apart. At the end, someone makes a violent attack on David.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Heather Medway",
+        "nm": 575977,
+        "roles": [
+          {
+            "char": "Stephanie Smith"
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Teri Spencer",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Kurt Deutsch",
+        "nm": 222084,
+        "roles": [
+          {
+            "char": "Chris White",
+            "ch": 64797
+          }
+        ]
+      },
+      {
+        "name": "Leann Hunley",
+        "nm": 402264,
+        "roles": [
+          {
+            "char": "Marcia Carson"
+          }
+        ]
+      },
+      {
+        "name": "William Katt",
+        "nm": 1411,
+        "roles": [
+          {
+            "char": "Paul Carson",
+            "ch": 41256
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Trenton Knight",
+        "nm": 461109,
+        "roles": [
+          {
+            "char": "Kyle Carson"
+          }
+        ]
+      },
+      {
+        "name": "Joan Pringle",
+        "nm": 697824,
+        "roles": [
+          {
+            "char": "Roberta Williamson"
+          }
+        ]
+      },
+      {
+        "name": "Robert Beltran",
+        "nm": 296,
+        "roles": [
+          {
+            "char": "Lt. Louis Soto",
+            "ch": 64796
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Victoria Fischer",
+        "nm": 279153,
+        "roles": [
+          {
+            "char": "Lisa Leonard"
+          }
+        ]
+      },
+      {
+        "name": "Louahn Lowe",
+        "nm": 522999,
+        "roles": [
+          {
+            "char": "Paramedic"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Tracii Show",
+        "nm": 2002740,
+        "roles": [
+          {
+            "char": "Claire Dubois",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "When Girls Collide",
+    "tt": 650172,
+    "air_date": "1994-08-03",
+    "description": "Julie takes control of the company while Hillary is in jail charged with Teri's murder and David is in the hospital recovering from the attack whom he thinks was Teri's killer. Julie then begins giving Sarah a hard time by giving most of her jobs to Linda. Linda then learns about Carrie's affair with Paul from Marcia and forms a tirade against Carrie, while little Kyle tells Carrie that he objects to her interference with his parents marriage. Meanwhile, Stephanie offers financial aid to Eric who takes a risk. Sarah acknowledges her feelings for Brian who's haunted by Teri. After breaking up with Eric, Linda accepts a date with a certain Chris White, a handsome heir to a soap company.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Heather Medway",
+        "nm": 575977,
+        "roles": [
+          {
+            "char": "Stephanie Smith"
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Teri Spencer"
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Kurt Deutsch",
+        "nm": 222084,
+        "roles": [
+          {
+            "char": "Chris White",
+            "ch": 64797
+          }
+        ]
+      },
+      {
+        "name": "Leann Hunley",
+        "nm": 402264,
+        "roles": [
+          {
+            "char": "Marcia Carson"
+          }
+        ]
+      },
+      {
+        "name": "William Katt",
+        "nm": 1411,
+        "roles": [
+          {
+            "char": "Paul Carson",
+            "ch": 41256
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Pamela Hudacek",
+        "nm": 2450106,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Trenton Knight",
+        "nm": 461109,
+        "roles": [
+          {
+            "char": "Kyle Carson"
+          }
+        ]
+      },
+      {
+        "name": "Joan Pringle",
+        "nm": 697824,
+        "roles": [
+          {
+            "char": "Roberta Williamson"
+          }
+        ]
+      },
+      {
+        "name": "Nick Richert",
+        "nm": 724922,
+        "roles": [
+          {
+            "char": "Avery"
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Dr. Townsend"
+          }
+        ]
+      },
+      {
+        "name": "Robert Beltran",
+        "nm": 296,
+        "roles": [
+          {
+            "char": "Lt. Louis Soto",
+            "ch": 64796
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Allegra Growden",
+        "nm": 2407118,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Nothing Is as It Seems",
+    "tt": 650161,
+    "air_date": "1994-08-10",
+    "description": "After Hillary is released from jail on bail, she and Julie try to nurse David back to health, while he resolves to separate Brian and Sarah. Sarah finds reason to fear Brian after David confronts him about his past. When Lt. Soto finds out of Brian's criminal record, he arrests him as another suspect in Teri's murder. Meanwhile, Linda falls in love with Chris after she finally stands up to Eric to leave her alone. Also, Paul suggests a new arrangement to Carrie who finally confesses her past to Hillary and about her masquerading as Hillary to Paul.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Heather Medway",
+        "nm": 575977,
+        "roles": [
+          {
+            "char": "Stephanie Smith"
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Teri Spencer",
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Kurt Deutsch",
+        "nm": 222084,
+        "roles": [
+          {
+            "char": "Chris White",
+            "ch": 64797
+          }
+        ]
+      },
+      {
+        "name": "William Katt",
+        "nm": 1411,
+        "roles": [
+          {
+            "char": "Paul Carson",
+            "ch": 41256
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Andrew Bloch",
+        "nm": 88594,
+        "roles": [
+          {
+            "char": "Lt. Conrad Zuker"
+          }
+        ]
+      },
+      {
+        "name": "Robert Beltran",
+        "nm": 296,
+        "roles": [
+          {
+            "char": "Lt. Louis Soto",
+            "ch": 64796
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Susan Merson",
+        "nm": 581518,
+        "roles": [
+          {
+            "char": "Dr. Alicia Bentson"
+          }
+        ]
+      },
+      {
+        "name": "Cal Clark",
+        "nm": 2436865,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Sandy Martin",
+        "nm": 553036,
+        "roles": [
+          {
+            "char": "Female Police Officer"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Tracii Show",
+        "nm": 2002740,
+        "roles": [
+          {
+            "char": "Claire Dubois",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Meltdown",
+    "tt": 650159,
+    "air_date": "1994-08-17",
+    "description": "After Brian is released on bail, the spooked Sarah tries to keep her distance despite his innocent pleads and he's taken off a photo shoot when Sarah refuses to work with him. Carrie finally confesses to Paul that she is Kyle's biological mother. Paul explodes with anger that Carrie lied to him all this time and breaks off their relationship. Meanwhile, Hillary finally learns about Eric's blackmailing of Linda and threatens to destroy Eric's music career unless he stays out of Linda's life. Although David expresses frustration at Julie's attempts to play nursemaid to him, he seems surprisingly conciliatory as she sees him home from the hospital. That night, Sarah gets trapped alone at the beach house during a power outage with Teri's killer, who is finally revealed to be Stephanie, who reveals that she killed Teri in a jealous rage because of her fixation on Brian and now plans to do the same for Sarah. But Brian and David finally show up in the nick of time to save Sarah and subdue Stephanie.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Heather Medway",
+        "nm": 575977,
+        "roles": [
+          {
+            "char": "Stephanie Smith"
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Kurt Deutsch",
+        "nm": 222084,
+        "roles": [
+          {
+            "char": "Chris White",
+            "ch": 64797
+          }
+        ]
+      },
+      {
+        "name": "William Katt",
+        "nm": 1411,
+        "roles": [
+          {
+            "char": "Paul Carson",
+            "ch": 41256
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Robert Beltran",
+        "nm": 296,
+        "roles": [
+          {
+            "char": "Lt. Louis Soto",
+            "ch": 64796
+          }
+        ]
+      },
+      {
+        "name": "Gregg Daniel",
+        "nm": 199637,
+        "roles": [
+          {
+            "char": "CHP Officer"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Drew"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Old Models Never Die",
+    "tt": 650163,
+    "air_date": "1994-09-07",
+    "description": "Carrie appears to be the most affected by Hillary's hiring of Monique Duran, a new model who is the dead splitting image of Teri, who moves into the beach house, prompting the fragile Carrie to move out. Meanwhile, Linda moves in with Chris at his mansion, but she reluctantly agrees to aid Eric when he is stalked by former business partners wanting revenge. Sarah hits the bottle after Brian tells her that things cannot work between them. Hillary rejects a smitten Lt. Soto's request for a renewed relationship between them and with the murder case of Teri Spencer wrapped up, he leaves Hillary for good.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Kurt Deutsch",
+        "nm": 222084,
+        "roles": [
+          {
+            "char": "Chris White",
+            "ch": 64797
+          }
+        ]
+      },
+      {
+        "name": "Robert Beltran",
+        "nm": 296,
+        "roles": [
+          {
+            "char": "Lt. Louis Soto",
+            "ch": 64796
+          }
+        ]
+      },
+      {
+        "name": "Steven Williams",
+        "nm": 931736,
+        "roles": [
+          {
+            "char": "Marcus Ballard"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Ted Haler",
+        "nm": 355045,
+        "roles": [
+          {
+            "char": "Weldon"
+          }
+        ]
+      },
+      {
+        "name": "Dan Bell",
+        "nm": 68125,
+        "roles": [
+          {
+            "char": "Thug"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Tara",
+        "nm": 850146,
+        "roles": [
+          {
+            "char": "Betsy"
+          }
+        ]
+      },
+      {
+        "name": "Betty Carvalho",
+        "nm": 142420,
+        "roles": [
+          {
+            "char": "Maura"
+          }
+        ]
+      },
+      {
+        "name": "Anne O'Sullivan",
+        "nm": 642721,
+        "roles": [
+          {
+            "char": "Vicki"
+          }
+        ]
+      },
+      {
+        "name": "Cary Bolton",
+        "nm": 2247495,
+        "roles": [
+          {
+            "char": "Limo Driver",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Toland",
+        "nm": 865853,
+        "roles": [
+          {
+            "char": "Contractor",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Good Girls Finish Last",
+    "tt": 650153,
+    "air_date": "1994-09-14",
+    "description": "Monique has a difficult first meeting with Adam Louder, the owner of Stage 99 nightclub when she becomes attracted to him. Linda gives a warning to Eric who finally pays off his debt to his business partners and cleans up his act. But later, Eric finds some dirt on Chris that he was arrested as a suspect years ago on rape and murder charges. A favor from Monique fails to move Julie who views Monique as competition rather than a friend. Meanwhile, Hillary tries to break up David and Julie with an lucrative job offer for Julie in Europe. Sarah reacts against her better judgment to continue modeling. Also, Carrie's mental health continues to go downhill after a talk with Paul who tells her to stay away from him.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Kurt Deutsch",
+        "nm": 222084,
+        "roles": [
+          {
+            "char": "Chris White",
+            "ch": 64797
+          }
+        ]
+      },
+      {
+        "name": "William Katt",
+        "nm": 1411,
+        "roles": [
+          {
+            "char": "Paul Carson",
+            "ch": 41256
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Denise Crosby",
+        "nm": 344,
+        "roles": [
+          {
+            "char": "Ursula Edwards"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Nozick",
+        "nm": 637598,
+        "roles": [
+          {
+            "char": "Fred Meyers"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Dan Bell",
+        "nm": 68125,
+        "roles": [
+          {
+            "char": "Thug"
+          }
+        ]
+      },
+      {
+        "name": "Peggy Mannix",
+        "nm": 543448,
+        "roles": [
+          {
+            "char": "Dresser"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Coleman McClary",
+        "nm": 1759292,
+        "roles": [
+          {
+            "char": "Record Producer",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Ultimatums Are Us",
+    "tt": 650171,
+    "air_date": "1994-09-21",
+    "description": "Julie forgoes a job to Europe to help David form his own agency called J&D. They try to seal away Monique, Linda and Cynthia, but exclude Sarah. But when Hillary finds out, she threatens legal action to bring the models back into the fold. Frustrated, David leaves for Europe to set up his own modeling agency there, but refuses to take Julie with him. Meanwhile, Adam hires Eric as the bartender for Stage 99 and asks Monique out on a date, while Brian has his eyes on her too. But Monique is hurt when Adam just wants her as a escort for social functions only. Sarah's downward spiral continues with increased drinking which lands her in jail for being drunk and disorderly. Linda gets an business offer from Chris's father to become spokes model for his company. Also, Carrie visits a plastic surgeon to ask about a face lift.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Kurt Deutsch",
+        "nm": 222084,
+        "roles": [
+          {
+            "char": "Chris White",
+            "ch": 64797
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Arthur Taxier",
+        "nm": 851833,
+        "roles": [
+          {
+            "char": "Harold White"
+          }
+        ]
+      },
+      {
+        "name": "Dee Hoty",
+        "nm": 396271,
+        "roles": [
+          {
+            "char": "Gretchen"
+          }
+        ]
+      },
+      {
+        "name": "Bernie McInerney",
+        "nm": 570554,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Nick Richert",
+        "nm": 724922,
+        "roles": [
+          {
+            "char": "Avery"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "David Drummond",
+        "nm": 238551,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "K.C. Storm",
+        "nm": 2501367,
+        "roles": [
+          {
+            "char": "Delivery Boy"
+          }
+        ]
+      },
+      {
+        "name": "Ann Walker",
+        "nm": 907529,
+        "roles": [
+          {
+            "char": "Saleslady"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Ghosts",
+    "tt": 650152,
+    "air_date": "1994-09-28",
+    "description": "Linda becomes uncomfortable about her relationship with Chris after signing an exclusive contract with his company because she feels that she is being possessed and controlled by him. Monique pressures Adam about his aversion to relationships and he finally explains that he is still haunted by memories of his late wife. Meanwhile, a mystery man rescues Sarah after she gets into a car accident whom she decides to seek out. After getting a face lift, Carrie returns to work in a new capacity as Hillary's assistant.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "Brian Gaskill",
+        "nm": 309129,
+        "roles": [
+          {
+            "char": "David Michaels",
+            "ch": 23251,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Kurt Deutsch",
+        "nm": 222084,
+        "roles": [
+          {
+            "char": "Chris White",
+            "ch": 64797
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "John Newton",
+        "nm": 628542,
+        "roles": [
+          {
+            "char": "Mark Warriner",
+            "ch": 78469,
+            "as John Haymes Newton": true
+          }
+        ]
+      },
+      {
+        "name": "Arthur Taxier",
+        "nm": 851833,
+        "roles": [
+          {
+            "char": "Harold White"
+          }
+        ]
+      },
+      {
+        "name": "Martin Cassidy",
+        "nm": 144219,
+        "roles": [
+          {
+            "char": "Cop #1"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "John H. Evans",
+        "nm": 262910,
+        "roles": [
+          {
+            "char": "Cop #2"
+          }
+        ]
+      },
+      {
+        "name": "Barry Kramer",
+        "nm": 469461,
+        "roles": [
+          {
+            "char": "Photographer"
+          }
+        ]
+      },
+      {
+        "name": "Chris Nelson Norris",
+        "nm": 635781,
+        "roles": [
+          {
+            "char": "Cop #3"
+          }
+        ]
+      },
+      {
+        "name": "Eric Whitmore",
+        "nm": 926232,
+        "roles": [
+          {
+            "char": "Cop #4"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "In Models We Trust",
+    "tt": 650155,
+    "air_date": "1994-10-12",
+    "description": "Linda accepts a marriage proposal from Chris, but when Eric finds out, he tries to talk her out of it. While in a scuffle with Linda, Chris falls down a flight of stairs and she asks Eric for help. Meanwhile, Adam decides to start a new life by dating Monique. A new neighbor, a surfer named Craig Bodi, briefly impresses Julie, so she bets him that she can claim Adam for herself. Sarah discovers that her rescuer, Mark Warriner, may not be all that charming when she finds out that he is a priest. Cynthia begins receiving threatening phone calls and letters from an unseen psychotic admirer. Also, Carrie's tries too hard to emulate Hillary and puts the agency at risk by seducing potential new clients.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Kurt Deutsch",
+        "nm": 222084,
+        "roles": [
+          {
+            "char": "Chris White",
+            "ch": 64797
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "John Newton",
+        "nm": 628542,
+        "roles": [
+          {
+            "char": "Rev. Mark Warriner",
+            "ch": 78469,
+            "as John Haymes Newton": true
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Dr. Townsend"
+          }
+        ]
+      },
+      {
+        "name": "Myles O'Brien",
+        "nm": 639743,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Amzie Strickland",
+        "nm": 834351,
+        "roles": [
+          {
+            "char": "Opal"
+          }
+        ]
+      },
+      {
+        "name": "Kirk Baily",
+        "nm": 47663,
+        "roles": [
+          {
+            "char": "Barry"
+          }
+        ]
+      },
+      {
+        "name": "Frank Bruynbroek",
+        "nm": 116834,
+        "roles": [
+          {
+            "char": "French Businessman"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Robin Dreaux",
+        "nm": 1364961,
+        "roles": [
+          {
+            "char": "Photographer"
+          }
+        ]
+      },
+      {
+        "name": "Neal Kaz",
+        "nm": 443525,
+        "roles": [
+          {
+            "char": "Delivery Man"
+          }
+        ]
+      },
+      {
+        "name": "Anne O'Sullivan",
+        "nm": 642721,
+        "roles": [
+          {
+            "char": "Vicki"
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Wendy Johnson",
+        "nm": 1920061,
+        "roles": [
+          {
+            "char": "Blonde Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Kadi",
+        "nm": 252832,
+        "roles": [
+          {
+            "char": "Border guard",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Love and War",
+    "tt": 650158,
+    "air_date": "1994-10-19",
+    "description": "A revenge-seeking Chris lies to the police that Eric attacked him, in which Linda tries to persuade him to drop the assault charges. Chris refuses and Linda breaks up with him. Julie is told by Monique to stop interfering in her relationship with Adam. So, Julie asks Craig to pose as her boyfriend to disguise her intention with Adam. Meanwhile, Cynthia's stalker makes his presence known. Brian's concern for Cynthia's safety increases as her stalker becomes more aggressive. Pardoned by Hillary, Carrie throws herself into securing financing for the agency. Also, Mark violates his vows after sleeping with Sarah, but later regrets it.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "John Newton",
+        "nm": 628542,
+        "roles": [
+          {
+            "char": "Rev. Mark Warriner",
+            "ch": 78469,
+            "as John Haymes Newton": true
+          }
+        ]
+      },
+      {
+        "name": "Mariann Aalda",
+        "nm": 7363,
+        "roles": [
+          {
+            "char": "Janet Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Lee Grahn",
+        "nm": 334398,
+        "roles": [
+          {
+            "char": "Det. Towers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Richert",
+        "nm": 724922,
+        "roles": [
+          {
+            "char": "Avery"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Anne O'Sullivan",
+        "nm": 642721,
+        "roles": [
+          {
+            "char": "Vicki"
+          }
+        ]
+      },
+      {
+        "name": "Paul Tulley",
+        "nm": 876375,
+        "roles": [
+          {
+            "char": "Father Wilson",
+            "ch": 350147
+          }
+        ]
+      },
+      {
+        "name": "Larry Williams",
+        "nm": 931123,
+        "roles": [
+          {
+            "char": "Bruce Jolicker"
+          }
+        ]
+      },
+      {
+        "name": "Dan Stanley",
+        "nm": 1080013,
+        "roles": [
+          {
+            "char": "Tommy"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Clash of the Super Vixens",
+    "tt": 650150,
+    "air_date": "1994-10-26",
+    "description": "Cynthia identifies her stalker as Frank Thompson, a former boyfriend. Brian continues to watch over Cynthia and throws her a Halloween costume party at his loft to cheer her up. Adam continues to drift away from Monique as the one-year anniversary of his wife's death approaches. Meanwhile, Julie takes advantage of the friction between Adam and Monique to invade their relationship during a charity show at Stage 99. Hillary sees the extent of Carrie's mental problems and lies to her in order to see a psychiatrist. Also, a question of commitment plaques Sarah and Mark, for he wants to give up his priesthood to be with Sarah.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "John Newton",
+        "nm": 628542,
+        "roles": [
+          {
+            "char": "Rev. Mark Warriner",
+            "ch": 78469,
+            "as John Haymes Newton": true
+          }
+        ]
+      },
+      {
+        "name": "Harley Venton",
+        "nm": 893271,
+        "roles": [
+          {
+            "char": "Dr. Richard Heller",
+            "ch": 127267
+          }
+        ]
+      },
+      {
+        "name": "Johnathon Schaech",
+        "nm": 628,
+        "roles": [
+          {
+            "char": "Frank Thompson",
+            "ch": 244916
+          }
+        ]
+      },
+      {
+        "name": "Walter Borchert",
+        "nm": 96038,
+        "roles": [
+          {
+            "char": "Punk"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Nigel Gibbs",
+        "nm": 316708,
+        "roles": [
+          {
+            "char": "Adam's Attorney"
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Paul Tulley",
+        "nm": 876375,
+        "roles": [
+          {
+            "char": "Father Wilson",
+            "ch": 350147
+          }
+        ]
+      },
+      {
+        "name": "Larry Williams",
+        "nm": 931123,
+        "roles": [
+          {
+            "char": "Bruce Jolicker"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Look Who's Stalking",
+    "tt": 650157,
+    "air_date": "1994-11-09",
+    "description": "Cynthia's stalker, Frank, continues to spy on her from an apartment across the street from hers and Brian's loft. Cynthia tries to get a restraining order against Frank, but she is denied. Then Frank successfully baits Brian into attacking him and gets him arrested. After Adam rejects Julie's advances, Craig tells her to give up on him and find that they have feelings for each other. Meanwhile, Adam tries to convince Monique that he wants to move forward with their relationship. When Eric's record deal falls apart, he does not tell Linda, but later finds that his and her careers are on a same pattern. Carrie's psychiatrist, Dr. Richard Heller, takes advantage of her in an attempt to seduce her, and then makes a play for Hillary. When Carrie rebuffs Heller's advances and tells Hillary, the unscrupulous Heller counters that Carrie is the one with the problem and has her committed to a mental hospital. Also, Sarah has second thoughts about Mark's decision to leave his priesthood.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Harley Venton",
+        "nm": 893271,
+        "roles": [
+          {
+            "char": "Dr. Richard Heller",
+            "ch": 127267
+          }
+        ]
+      },
+      {
+        "name": "Nancy Lee Grahn",
+        "nm": 334398,
+        "roles": [
+          {
+            "char": "Det. Towers"
+          }
+        ]
+      },
+      {
+        "name": "Joan Pringle",
+        "nm": 697824,
+        "roles": [
+          {
+            "char": "Roberta Williamson"
+          }
+        ]
+      },
+      {
+        "name": "Nick Richert",
+        "nm": 724922,
+        "roles": [
+          {
+            "char": "Avery"
+          }
+        ]
+      },
+      {
+        "name": "Pierre Epstein",
+        "nm": 258527,
+        "roles": [
+          {
+            "char": "Judge Marovitz"
+          }
+        ]
+      },
+      {
+        "name": "Johnathon Schaech",
+        "nm": 628,
+        "roles": [
+          {
+            "char": "Frank Thompson",
+            "ch": 244916
+          }
+        ]
+      },
+      {
+        "name": "John Vargas",
+        "nm": 889855,
+        "roles": [
+          {
+            "char": "Roberto Martinez"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Nichols",
+        "nm": 5552964,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Christine Romeo",
+        "nm": 739221,
+        "roles": [
+          {
+            "char": "Director"
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Stevens",
+        "nm": 828483,
+        "roles": [
+          {
+            "char": "Woman",
+            "as Jennifer L. Stevens": true
+          }
+        ]
+      },
+      {
+        "name": "Jorge Bosch",
+        "nm": 962126,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Burke Bryant",
+        "nm": 1328603,
+        "roles": [
+          {
+            "char": "Featured Stalker",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Blind by Love",
+    "tt": 650147,
+    "air_date": "1994-11-16",
+    "description": "Brian decides to seek revenge against Frank by either discouraging him, or provoke a reaction that will lead to his arrest. Julie finds out that Craig isn't a poor boy that he says he is because of his financial condition. Meanwhile, Monique learns of a plot to ruin the Stage 99 when police suspect drug sales in Adam's club after a woman dies there from a heroin overdose. Carrie enlists Sarah's help against Dr. Heller before she faces the medical panel that's to review her commitment, with Sarah posing as a former patient to claim that Heller too molested her, but it doesn't work. Also, an unemployed Eric begins working as a male prostitute to pay off his bills.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Harley Venton",
+        "nm": 893271,
+        "roles": [
+          {
+            "char": "Dr. Richard Heller",
+            "ch": 127267
+          }
+        ]
+      },
+      {
+        "name": "Teri Austin",
+        "nm": 42535,
+        "roles": [
+          {
+            "char": "Dinah"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Lee Grahn",
+        "nm": 334398,
+        "roles": [
+          {
+            "char": "Det. Towers"
+          }
+        ]
+      },
+      {
+        "name": "Nick Richert",
+        "nm": 724922,
+        "roles": [
+          {
+            "char": "Avery"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Stafford",
+        "nm": 821325,
+        "roles": [
+          {
+            "char": "Girl in the toilets"
+          }
+        ]
+      },
+      {
+        "name": "Johnathon Schaech",
+        "nm": 628,
+        "roles": [
+          {
+            "char": "Frank Thompson",
+            "ch": 244916
+          }
+        ]
+      },
+      {
+        "name": "Jon Bruno",
+        "nm": 116498,
+        "roles": [
+          {
+            "char": "Clint Huber"
+          }
+        ]
+      },
+      {
+        "name": "Jonathan Nichols",
+        "nm": 5552964,
+        "roles": [
+          {
+            "char": "Cop #2"
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Sue Bugden",
+        "nm": 119469,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Durmick",
+        "nm": 244226,
+        "roles": [
+          {
+            "char": "Young man"
+          }
+        ]
+      },
+      {
+        "name": "Douglas McDonald",
+        "nm": 2449873,
+        "roles": [
+          {
+            "char": "Vince"
+          }
+        ]
+      },
+      {
+        "name": "Steve O'Connor",
+        "nm": 640523,
+        "roles": [
+          {
+            "char": "Cop #1"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Symons",
+        "nm": 843388,
+        "roles": [
+          {
+            "char": "Patrolman"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Till Death Do Us Part",
+    "tt": 650170,
+    "air_date": "1994-11-23",
+    "description": "Carrie makes a secret deal with Dr. Heller for her release from the institution in exchange for sexual favors. But not surprisingly, Heller goes back on their deal and continues to keep Carrie in confinement. Julie has difficulty in breaking up with Craig and has an change of heart because she likes him too much. Meanwhile, Brian attempts to rescue Cynthia after she is kidnapped by Frank, but only ends up a captive and is forced to watch helplessly as Frank rapes and beats her, until she manages to fight back and shoot him dead. Eric gets another customer as a result of a good word. Monique gets a new dress from Hillary. At the end, Adam's gets a shocking phone call from his long-missing wife, Grayson Louder, which threatens his engagement to Monique.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Harley Venton",
+        "nm": 893271,
+        "roles": [
+          {
+            "char": "Dr. Richard Heller",
+            "ch": 127267
+          }
+        ]
+      },
+      {
+        "name": "Teri Austin",
+        "nm": 42535,
+        "roles": [
+          {
+            "char": "Dinah"
+          }
+        ]
+      },
+      {
+        "name": "Kim Zimmer",
+        "nm": 956631,
+        "roles": [
+          {
+            "char": "Joan"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Lee Grahn",
+        "nm": 334398,
+        "roles": [
+          {
+            "char": "Det. Towers"
+          }
+        ]
+      },
+      {
+        "name": "Will Kempe",
+        "nm": 447394,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Johnathon Schaech",
+        "nm": 628,
+        "roles": [
+          {
+            "char": "Frank Thompson",
+            "ch": 244916
+          }
+        ]
+      },
+      {
+        "name": "Lara Harris",
+        "nm": 364973,
+        "roles": [
+          {
+            "char": "Herself"
+          }
+        ]
+      },
+      {
+        "name": "Diana Castle",
+        "nm": 145262,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Alexandra Styron",
+        "nm": 836608,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Bad Moon Rising",
+    "tt": 650145,
+    "air_date": "1994-11-30",
+    "description": "Julie learns that Craig is actually a famous author named Blane Tudor, posing as a surfer, who's looking for material for his new book. Julie is furious that Craig used her and her friends all this time, but it changes when he shows her the book's manuscript with a passage about his love for her. Cynthia moves away from Brian over her reaction to her rape. Meanwhile, Dr. Heller lets Hillary have a visit to Carrie before she's moved away to another institution, where they finally turn the tables where a wired Hillary gets Heller to admit about his unethical ways towards Carrie, in which Heller gets fired from his job and Carrie is released. Also, Grayson's return makes Adam re-valuate his relationship with Monique.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Harley Venton",
+        "nm": 893271,
+        "roles": [
+          {
+            "char": "Dr. Richard Heller",
+            "ch": 127267
+          }
+        ]
+      },
+      {
+        "name": "Kim Zimmer",
+        "nm": 956631,
+        "roles": [
+          {
+            "char": "Joan"
+          }
+        ]
+      },
+      {
+        "name": "Margot Rose",
+        "nm": 741558,
+        "roles": [
+          {
+            "char": "Marie Colvin"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Dorian Spencer",
+        "nm": 817928,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "JD Glickman",
+        "nm": 2397436,
+        "roles": [
+          {
+            "char": "Hair dresser",
+            "as Jeffrey Glickman": true
+          }
+        ]
+      },
+      {
+        "name": "Stephen Howard",
+        "nm": 397615,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Michael Klesic",
+        "nm": 1645646,
+        "roles": [
+          {
+            "char": "Jack",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Of Models and Men",
+    "tt": 650162,
+    "air_date": "1994-12-14",
+    "description": "The evil and devious Grayson begins her plan to break up Adam and Monique by playing on Adam's sympathy in which he moves her into his house. But when Adam continues to spend time with Monique, Grayson deliberately fakes a suicide attempt. Meanwhile, Craig takes Julie on a fantasy evening where he pulls out all stops to make up with her. Rape victim Cynthia enters a therapy group to deal with her trauma. Also, Sarah's continued drinking seals her fate with Hillary who catches Sarah during one of her drunken stages.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Nancy Lee Grahn",
+        "nm": 334398,
+        "roles": [
+          {
+            "char": "Det. Towers"
+          }
+        ]
+      },
+      {
+        "name": "Yvonne Farrow",
+        "nm": 268534,
+        "roles": [
+          {
+            "char": "Dr. Brennan"
+          }
+        ]
+      },
+      {
+        "name": "Todd McKee",
+        "nm": 571219,
+        "roles": [
+          {
+            "char": "Mike McClain"
+          }
+        ]
+      },
+      {
+        "name": "Geraldine Farrell",
+        "nm": 268222,
+        "roles": [
+          {
+            "char": "Nora"
+          }
+        ]
+      },
+      {
+        "name": "Cindy Katz",
+        "nm": 441654,
+        "roles": [
+          {
+            "char": "Jody"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Grant McKenna",
+        "nm": 5555047,
+        "roles": [
+          {
+            "char": "Wardrobe assistant"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Sullivan",
+        "nm": 5474,
+        "roles": [
+          {
+            "char": "Elaine"
+          }
+        ]
+      },
+      {
+        "name": "Scott Stevens",
+        "nm": 1093761,
+        "roles": [
+          {
+            "char": "Doctor",
+            "as Scott M. Stevens": true
+          }
+        ]
+      },
+      {
+        "name": "Mark Fauser",
+        "nm": 269226,
+        "roles": [
+          {
+            "char": "Hair expert"
+          }
+        ]
+      },
+      {
+        "name": "John Leone",
+        "nm": 1752736,
+        "roles": [
+          {
+            "char": "Executive"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Guzman",
+        "nm": 1684610,
+        "roles": [
+          {
+            "char": "Hector Suaro",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Out of Control",
+    "tt": 650164,
+    "air_date": "1994-12-21",
+    "description": "Craig takes Julie to Hawaii for a vacation where she ruins the trip by making business connections to further advance her career. Afterwards, Craig finally breaks up with Julie after she admits that she cares more about her career than him. After Adam learns that Grayson faked a suicide attempt, he officially files for divorce. But Grayson blocks Adam's plans for their divorce by refusing to yield her shares of Stage 99 during a divorce settlement. After her success in a photo shoot, Sarah gets an overconfident, egotistical leap and gets on everyone's nerves. Also, Cynthia still has problems despite dropping group therapy when she becomes obsessed with her looks and begins eating and purging.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Kim Zimmer",
+        "nm": 956631,
+        "roles": [
+          {
+            "char": "Joan"
+          }
+        ]
+      },
+      {
+        "name": "Charley Hayward",
+        "nm": 371720,
+        "roles": [
+          {
+            "char": "Ronnie Lumet"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Sills",
+        "nm": 798123,
+        "roles": [
+          {
+            "char": "Drew Harding",
+            "ch": 153099
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Robert Mailhouse",
+        "nm": 537567,
+        "roles": [
+          {
+            "char": "Walter Klein"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Ogie Zulueta",
+        "nm": 958620,
+        "roles": [
+          {
+            "char": "Bellboy"
+          }
+        ]
+      },
+      {
+        "name": "Richard Molnar",
+        "nm": 2955252,
+        "roles": [
+          {
+            "char": "Dr. Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Marlene Mitsuko Yamane",
+        "nm": 945547,
+        "roles": [
+          {
+            "char": "Waitress"
+          }
+        ]
+      },
+      {
+        "name": "Cary Bolton",
+        "nm": 2247495,
+        "roles": [
+          {
+            "char": "Chauffeur"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Grayson Inc.",
+    "tt": 650154,
+    "air_date": "1995-01-02",
+    "description": "Although Adam offers Grayson a generous sum to buy out her share of the Stage 99, she has another price in mind to spend one night with him. Adam agrees, but only sees sex as a business transaction. Grayson is offended and sells her shares back to him. Meanwhile, Hillary tries to obtain financing to keep the agency in business, while in an attempt to break from her loneliness, she makes a play for Jack Michaels, her ex-husband from her second marriage. Later, after Jack rejects Hillary's advances, she calls a male escort service and gets a surprise when Eric is her date in which the two end up talking and laughing about their messed up lives. Meanwhile, Craig's new book, 'Skin Deep,' detailing all about him and Models Inc. becomes a best-seller. Sarah goes on national TV to try to set the record straight, but only says negative things about everyone. Then Linda gets the last laugh when she tampers with Sarah's shampoo causing her hair to temporarily turn green. Also, Cynthia's career is upbringing, but her secret battle with bulimia is slowly destroying her. At the end, Grayson turns her plans towards Hillary when she uses her new windfall to buy Models Inc.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Kim Zimmer",
+        "nm": 956631,
+        "roles": [
+          {
+            "char": "Joan"
+          }
+        ]
+      },
+      {
+        "name": "Jim Fyfe",
+        "nm": 299474,
+        "roles": [
+          {
+            "char": "Friedman"
+          }
+        ]
+      },
+      {
+        "name": "Lyman Ward",
+        "nm": 911700,
+        "roles": [
+          {
+            "char": "Jack Michaels"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Purcell",
+        "nm": 5329,
+        "roles": [
+          {
+            "char": "Herself"
+          }
+        ]
+      },
+      {
+        "name": "Steve Bernie",
+        "nm": 76860,
+        "roles": [
+          {
+            "char": "Stage Manager"
+          }
+        ]
+      },
+      {
+        "name": "Nigel Gibbs",
+        "nm": 316708,
+        "roles": [
+          {
+            "char": "Stu Jackson"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E23",
+    "title": "Men Don't Leave",
+    "tt": 650160,
+    "air_date": "1995-01-09",
+    "description": "With Grayson in charge of the agency, she puts Hillary in a second chair to her and now sets out to ruin Monique's career, but is met with aggressive resistance. When Grayson decides to put the beach house up for sail, Julie approaches Craig to buy the house in order to prevent the models from being evicted. Mark invites Sarah to his first church mass as an ordained priest, but Sarah makes a startling discovery about herself that could jeopardize her and Mark future. Brian finally learns about Cynthia's bulimia after finding her junk food stash after she faints during a photo shoot. Craig gets competition as he seeks to reconcile with Julie. Also, Eric becomes a kept man after he quits his male escort profession and enters a relationship with a wealthy client: Hillary's married friend Joan.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Kim Zimmer",
+        "nm": 956631,
+        "roles": [
+          {
+            "char": "Joan"
+          }
+        ]
+      },
+      {
+        "name": "John Newton",
+        "nm": 628542,
+        "roles": [
+          {
+            "char": "Rev. Mark Warriner",
+            "ch": 78469,
+            "as John Haymes Newton": true
+          }
+        ]
+      },
+      {
+        "name": "Brett Miller",
+        "nm": 587990,
+        "roles": [
+          {
+            "char": "Mike Bentson"
+          }
+        ]
+      },
+      {
+        "name": "Julian Stone",
+        "nm": 831979,
+        "roles": [
+          {
+            "char": "Josh Lange",
+            "ch": 78468
+          }
+        ]
+      },
+      {
+        "name": "Margot Rose",
+        "nm": 741558,
+        "roles": [
+          {
+            "char": "Marie Colvin"
+          }
+        ]
+      },
+      {
+        "name": "Susan Merson",
+        "nm": 581518,
+        "roles": [
+          {
+            "char": "Dr. Alicia Bentson"
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "John Mossman",
+        "nm": 609161,
+        "roles": [
+          {
+            "char": "Ted"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Gregg Almquist",
+        "nm": 21997,
+        "roles": [
+          {
+            "char": "Tony Schulz"
+          }
+        ]
+      },
+      {
+        "name": "Ezra Gabey",
+        "nm": 128614,
+        "roles": [
+          {
+            "char": "Punk"
+          }
+        ]
+      },
+      {
+        "name": "Webster Williams",
+        "nm": 931919,
+        "roles": [
+          {
+            "char": "Jimmy"
+          }
+        ]
+      },
+      {
+        "name": "Howard S. Miller",
+        "nm": 588484,
+        "roles": [
+          {
+            "char": "Client"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Belholdt",
+        "nm": 2447448,
+        "roles": [
+          {
+            "char": "Belinda",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E24",
+    "title": "Bring the Family",
+    "tt": 650148,
+    "air_date": "1995-01-23",
+    "description": "Grayson arranges another plan of revenge after Monique crashes a invitation audition. After dropping hints to Adam, he and Eric investigate and find Grayson's two-year-old son Daniel. Julie befriends a female writer who could jeopardize her relationship with Craig while she is working on turning Craig's book into a TV movie with the intention to cast herself in the lead. Meanwhile, Sarah is forced to make certain decisions about her pregnancy, especially telling Mark that he is the father. Also, Brian tries to persuade Cynthia to get help, but she denies having a problem with bulimia, until she passes out in a hot tub and Craig and Julie have to revive her.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "John Newton",
+        "nm": 628542,
+        "roles": [
+          {
+            "char": "Rev. Mark Warriner",
+            "ch": 78469,
+            "as John Haymes Newton": true
+          }
+        ]
+      },
+      {
+        "name": "John Beck",
+        "nm": 65183,
+        "roles": [
+          {
+            "char": "Lyle Edwards"
+          }
+        ]
+      },
+      {
+        "name": "Yvonne Farrow",
+        "nm": 268534,
+        "roles": [
+          {
+            "char": "Dr. Brennan"
+          }
+        ]
+      },
+      {
+        "name": "Darcie Michaels",
+        "nm": 2444566,
+        "roles": [
+          {
+            "char": "Rebecca"
+          }
+        ]
+      },
+      {
+        "name": "Jodi Russell",
+        "nm": 751242,
+        "roles": [
+          {
+            "char": "Lisa Gilbert"
+          }
+        ]
+      },
+      {
+        "name": "Mark Fauser",
+        "nm": 269226,
+        "roles": [
+          {
+            "char": "Ann York executive"
+          }
+        ]
+      },
+      {
+        "name": "Jared Thorne",
+        "nm": 861390,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Taylor Thorne",
+        "nm": 861432,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E25",
+    "title": "Really Big Problems",
+    "tt": 650166,
+    "air_date": "1995-02-06",
+    "description": "Grayson sets out to prove that Adam is the father of Daniel while Monique is determined not to let this interfere with her wedding plans and ends up tampering Adam's paternity test. Meanwhile, Julie learns that her new writer friend was previously engaged to Craig, and she then takes a gamble on her future with him. Sarah's pregnancy becomes an issue for pro-choice Linda and pro-life Carrie. When Sarah finally decides on an abortion, her freedom of choice is taken from her when she gets hit by a car and miscarries. Mark visits Sarah in the hospital, but angry that she chose an abortion in the first place, he leaves her for good. Also, Cynthia tries to cut short her hospital stay by saying that she's cured of her bulimia despite her doctor's objections.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "John Newton",
+        "nm": 628542,
+        "roles": [
+          {
+            "char": "Rev. Mark Warriner",
+            "ch": 78469,
+            "as John Haymes Newton": true
+          }
+        ]
+      },
+      {
+        "name": "John Beck",
+        "nm": 65183,
+        "roles": [
+          {
+            "char": "Lyle Edwards"
+          }
+        ]
+      },
+      {
+        "name": "Yvonne Farrow",
+        "nm": 268534,
+        "roles": [
+          {
+            "char": "Dr. Brennan"
+          }
+        ]
+      },
+      {
+        "name": "Darcie Michaels",
+        "nm": 2444566,
+        "roles": [
+          {
+            "char": "Rebecca"
+          }
+        ]
+      },
+      {
+        "name": "Jodi Russell",
+        "nm": 751242,
+        "roles": [
+          {
+            "char": "Lisa Gilbert"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Gina Tuttle",
+        "nm": 1218179,
+        "roles": [
+          {
+            "char": "E. R. Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Jenny Woo",
+        "nm": 939481,
+        "roles": [
+          {
+            "char": "Center Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Sean Rolf",
+        "nm": 738194,
+        "roles": [
+          {
+            "char": "Photographer"
+          }
+        ]
+      },
+      {
+        "name": "Michael Holden",
+        "nm": 390241,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Jared Thorne",
+        "nm": 861390,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Taylor Thorne",
+        "nm": 861432,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Roger Nehls",
+        "nm": 624566,
+        "roles": [
+          {
+            "char": "Photographer's Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Craig Shoemaker",
+        "nm": 794705,
+        "roles": [
+          {
+            "char": "Roger",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E26",
+    "title": "Adam's Family Values",
+    "tt": 650144,
+    "air_date": "1995-02-13",
+    "description": "Julie rejects an overtone of reconciliation from her visiting, estranged stepsister, Anna Jacobs, from Australia because Julie still bitterly hates Anna for affecting her relationship with her father. Meanwhile, Grayson recruits Carrie for a call-girl program to infuse the struggling agency with quick cash, while Grayson also uses little Daniel to get Adam back and hires Adam's right-hand man, Ben, as a guardian to Sarah, who begins giving Sarah booze and drugs as part of Grayson's plan to destroy her too. Adam and Monique lease a house for three, including young Daniel, but she thinks it's one too many for she isn't ready to be a mother yet.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Lisa Akey",
+        "nm": 15231,
+        "roles": [
+          {
+            "char": "Anna Jacobs"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Sills",
+        "nm": 798123,
+        "roles": [
+          {
+            "char": "Drew Harding",
+            "ch": 153099
+          }
+        ]
+      },
+      {
+        "name": "Caroline Williams",
+        "nm": 930226,
+        "roles": [
+          {
+            "char": "Leslie Newcomb"
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Don Gettinger",
+        "nm": 315247,
+        "roles": [
+          {
+            "char": "George Farnham"
+          }
+        ]
+      },
+      {
+        "name": "Darcie Michaels",
+        "nm": 2444566,
+        "roles": [
+          {
+            "char": "Rebecca"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Dave Higgins",
+        "nm": 3099499,
+        "roles": [
+          {
+            "char": "Ira Drinkwater"
+          }
+        ]
+      },
+      {
+        "name": "Jared Thorne",
+        "nm": 861390,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Taylor Thorne",
+        "nm": 861432,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Todd Patrick Breaugh",
+        "nm": 106465,
+        "roles": [
+          {
+            "char": "Dr. Garner"
+          }
+        ]
+      },
+      {
+        "name": "John Gowans",
+        "nm": 332944,
+        "roles": [
+          {
+            "char": "Real estate agent"
+          }
+        ]
+      },
+      {
+        "name": "Allegra Growden",
+        "nm": 2407118,
+        "roles": [
+          {
+            "char": "Nurse",
+            "as Allegra Growdon": true
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E27",
+    "title": "By Crook or by Hook",
+    "tt": 650149,
+    "air_date": "1995-02-20",
+    "description": "Anna joins the agency, much to Carrie's chagrin. Anna then starts making advances towards Craig as part of her plan to land the lead for a movie role of his book about Models Inc. But Craig turns Anna down and now realizes the reason for Julie to detest her Meanwhile, after Grayson pulls a trick on Adam by having him arrested for an \"unauthorized visit\" with Daniel, both sides agree to an abiding arbitration for custody of their son. But both Grayson and Monique play dirty to get Adam to pick one of them. Also, Hillary warns Sarah to stay away from Ben, but to no avail as he continues to supply her with liquor and drugs.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262,
+            "credit only": true
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Lisa Akey",
+        "nm": 15231,
+        "roles": [
+          {
+            "char": "Anna Jacobs"
+          }
+        ]
+      },
+      {
+        "name": "Terrence E. McNally",
+        "nm": 573644,
+        "roles": [
+          {
+            "char": "Judge Moore",
+            "ch": 272956
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Caroline Williams",
+        "nm": 930226,
+        "roles": [
+          {
+            "char": "Leslie Newcomb"
+          }
+        ]
+      },
+      {
+        "name": "Steve Vinovich",
+        "nm": 899079,
+        "roles": [
+          {
+            "char": "Michael Carpenter",
+            "ch": 128360
+          }
+        ]
+      },
+      {
+        "name": "Richard Molnar",
+        "nm": 2955252,
+        "roles": [
+          {
+            "char": "Dr. Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Darcie Michaels",
+        "nm": 2444566,
+        "roles": [
+          {
+            "char": "Rebecca"
+          }
+        ]
+      },
+      {
+        "name": "Loyda Ramos",
+        "nm": 708693,
+        "roles": [
+          {
+            "char": "Marta Lopez"
+          }
+        ]
+      },
+      {
+        "name": "Clement von Franckenstein",
+        "nm": 820527,
+        "roles": [
+          {
+            "char": "Maitre D'"
+          }
+        ]
+      },
+      {
+        "name": "Wendi Westbrook",
+        "nm": 922475,
+        "roles": [
+          {
+            "char": "Deirdre"
+          }
+        ]
+      },
+      {
+        "name": "Granville Ames",
+        "nm": 24707,
+        "roles": [
+          {
+            "char": "Customer"
+          }
+        ]
+      },
+      {
+        "name": "Durrell Nelson",
+        "nm": 625337,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Stacy Sullivan",
+        "nm": 838351,
+        "roles": [
+          {
+            "char": "Secretary"
+          }
+        ]
+      },
+      {
+        "name": "Jared Thorne",
+        "nm": 861390,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Taylor Thorne",
+        "nm": 861432,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Mekhi Phifer",
+        "nm": 1616,
+        "roles": [
+          {
+            "char": "Model #2",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E28",
+    "title": "Exposure",
+    "tt": 650151,
+    "air_date": "1995-02-27",
+    "description": "During Adam and Grayson's court battle for custody of Daniel, Grayson tries to blackmail their arbitration judge to rule on her behalf after finding out that Judge Moore is one of her clients for her call-girl ring. But when Carrie learns what Grayson did, she exerts some influence of her own and threatens Judge Moore to reverse his ruling, and turns the tables on Grayson. Meanwhile, Brian give Anna a place to stay after Julie throws her out of the beach house. Cynthia is devastated when Brian tells her that her bulimia has made her unattractive. Sarah's wild parting and drinking begins to catch up with her, and later endangers her when Ben tries to get her to work in a strip club. Also, Joan's ex-husband tells Eric to break up with her for an annuity of $10,000, or she will lose a million dollars in an alimony claim. After thinking about it, Eric decides to accept the offer and he leaves Joan for good.",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Lisa Akey",
+        "nm": 15231,
+        "roles": [
+          {
+            "char": "Anna Jacobs"
+          }
+        ]
+      },
+      {
+        "name": "Kim Zimmer",
+        "nm": 956631,
+        "roles": [
+          {
+            "char": "Joan"
+          }
+        ]
+      },
+      {
+        "name": "Terrence E. McNally",
+        "nm": 573644,
+        "roles": [
+          {
+            "char": "Judge Moore",
+            "ch": 272956
+          }
+        ]
+      },
+      {
+        "name": "Bruce Thomas",
+        "nm": 858573,
+        "roles": [
+          {
+            "char": "Trevor Winslow"
+          }
+        ]
+      },
+      {
+        "name": "Caroline Williams",
+        "nm": 930226,
+        "roles": [
+          {
+            "char": "Leslie Newcomb"
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Stephen Howard",
+        "nm": 397615,
+        "roles": [
+          {
+            "char": "Bob"
+          }
+        ]
+      },
+      {
+        "name": "Gary Simpson",
+        "nm": 801002,
+        "roles": [
+          {
+            "char": "Bailif"
+          }
+        ]
+      },
+      {
+        "name": "William Akey",
+        "nm": 15233,
+        "roles": [
+          {
+            "char": "Client"
+          }
+        ]
+      },
+      {
+        "name": "Peggy W. Anger",
+        "nm": 2370780,
+        "roles": [
+          {
+            "char": "Casting director",
+            "as Peggy Anker": true
+          }
+        ]
+      },
+      {
+        "name": "Jared Thorne",
+        "nm": 861390,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Taylor Thorne",
+        "nm": 861432,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Van B. Poole",
+        "nm": 690892,
+        "roles": [
+          {
+            "char": "Williams"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Jack Kyle",
+        "nm": 477385,
+        "roles": [
+          {
+            "char": "Sarah's Boyfriend",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E29",
+    "title": "Sometimes a Great Commotion",
+    "tt": 650168,
+    "air_date": "1995-03-06",
+    "description": "In the two-hour, nail-biting, cliff-hanging series final, Sarah's father arrives in Los Angeles for a visit, and tries to get her to alter her behavior over her drinking and drug use. Mr. Owens then confronts and beats up Ben for abusing his daughter and finally gets Sarah checked into a rehab center. Meanwhile, a smitten Cynthia wants to reconcile with Brian, but catches him in a compromising position with Anna, while at the same time Anna tries to get herself included as a bridesmaid for Adam and Monique's wedding. But Julie, Linda and Cynthia \"encourage\" Anna to back out when they push her down a small flight of stairs. After Carrie resigns from the agency, she finally tells Hillary about Grayson's new models who are all ultra-high priced call girls. After Hillary threatens to blow the whistle on Grayson, she figures out that Carrie betrayed her. So, Grayson successfully gets revenge when one of her prostitutes and a strong-armed bodyguard set up Carrie in a sting, whom they drug and then ship Carrie to a brothel in an unnamed Central American country as a prisoner, knowing that no one will notice her gone. In a last ditch effort to stop the wedding, Grayson tries drugging Adam, but he wises up and turns the tables on her again by switching his drugged drink with hers. Infuriated, Grayson hires a hit man to kill Adam during the wedding ceremony. When the hit man, perched like a sniper atop the church balcony, tries to shoot Adam at the alter, things go wrong when little Daniel gets in the way and Grayson too gets in the way to save her son from getting shot and in the confusion, the sniper opens fire...",
+    "cast": [
+      {
+        "name": "Linda Gray",
+        "nm": 336782,
+        "roles": [
+          {
+            "char": "Hillary Michaels",
+            "ch": 23208
+          }
+        ]
+      },
+      {
+        "name": "Garcelle Beauvais",
+        "nm": 4731,
+        "roles": [
+          {
+            "char": "Cynthia Nichols",
+            "ch": 23195
+          }
+        ]
+      },
+      {
+        "name": "Cameron Daddo",
+        "nm": 196592,
+        "roles": [
+          {
+            "char": "Brian Peterson",
+            "ch": 23237
+          }
+        ]
+      },
+      {
+        "name": "David Goldsmith",
+        "nm": 326059,
+        "roles": [
+          {
+            "char": "Eric Dearborn",
+            "ch": 23262
+          }
+        ]
+      },
+      {
+        "name": "Teresa Hill",
+        "nm": 384711,
+        "roles": [
+          {
+            "char": "Linda Holden",
+            "ch": 23250
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Carrie Spencer",
+            "ch": 23173
+          }
+        ]
+      },
+      {
+        "name": "Cassidy Rae",
+        "nm": 5333,
+        "roles": [
+          {
+            "char": "Sarah Owens",
+            "ch": 23235
+          }
+        ]
+      },
+      {
+        "name": "Stephanie Romanov",
+        "nm": 739013,
+        "roles": [
+          {
+            "char": "Monique Duran",
+            "ch": 23217
+          }
+        ]
+      },
+      {
+        "name": "Kylie Travis",
+        "nm": 871406,
+        "roles": [
+          {
+            "char": "Julie Dante",
+            "ch": 23253
+          }
+        ]
+      },
+      {
+        "name": "Emma Samms",
+        "nm": 759924,
+        "roles": [
+          {
+            "char": "Grayson Louder",
+            "ch": 23225
+          }
+        ]
+      },
+      {
+        "name": "James Wilder",
+        "nm": 5554,
+        "roles": [
+          {
+            "char": "Adam Louder",
+            "ch": 23239
+          }
+        ]
+      },
+      {
+        "name": "Don Michael Paul",
+        "nm": 666806,
+        "roles": [
+          {
+            "char": "Craig Bodi",
+            "ch": 23240
+          }
+        ]
+      },
+      {
+        "name": "Lisa Akey",
+        "nm": 15231,
+        "roles": [
+          {
+            "char": "Anna Jacobs"
+          }
+        ]
+      },
+      {
+        "name": "Robert Pine",
+        "nm": 683986,
+        "roles": [
+          {
+            "char": "Mr. Owens"
+          }
+        ]
+      },
+      {
+        "name": "Mitch Pileggi",
+        "nm": 683379,
+        "roles": [
+          {
+            "char": "The Hit Man"
+          }
+        ]
+      },
+      {
+        "name": "Lonnie Schuyler",
+        "nm": 776947,
+        "roles": [
+          {
+            "char": "Ben Singer",
+            "ch": 23266
+          }
+        ]
+      },
+      {
+        "name": "Joe Marinelli",
+        "nm": 547584,
+        "roles": [
+          {
+            "char": "Stan Driscoll"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Marchiano",
+        "nm": 545622,
+        "roles": [
+          {
+            "char": "Minister"
+          }
+        ]
+      },
+      {
+        "name": "Kaela Dobkin",
+        "nm": 229695,
+        "roles": [
+          {
+            "char": "Kristy",
+            "ch": 23260
+          }
+        ]
+      },
+      {
+        "name": "Wendi Westbrook",
+        "nm": 922475,
+        "roles": [
+          {
+            "char": "Deirdre"
+          }
+        ]
+      },
+      {
+        "name": "David Stenstrom",
+        "nm": 826691,
+        "roles": [
+          {
+            "char": "A. A. man"
+          }
+        ]
+      },
+      {
+        "name": "Megan Blake",
+        "nm": 86650,
+        "roles": [
+          {
+            "char": "Stripper"
+          }
+        ]
+      },
+      {
+        "name": "Jared Thorne",
+        "nm": 861390,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Taylor Thorne",
+        "nm": 861432,
+        "roles": [
+          {
+            "char": "Daniel Louder"
+          }
+        ]
+      },
+      {
+        "name": "Perry D'Marco",
+        "nm": 195784,
+        "roles": [
+          {
+            "char": "Diego, the pimp"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Krasner",
+        "nm": 1478469,
+        "roles": [
+          {
+            "char": "Model",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  }
+]

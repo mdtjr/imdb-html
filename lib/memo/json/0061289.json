@@ -1,0 +1,1362 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Angriff aus dem All",
+    "tt": 682852,
+    "air_date": "1966-09-17",
+    "description": "On their first mission after being reprimanded and transferred to space patrol service, the crew of the Orion investigate an outpost gone silent and promptly discover a new extra-terrestrial threat.",
+    "cast": [
+      {
+        "name": "Dietmar Schönherr",
+        "nm": 778220,
+        "roles": [
+          {
+            "char": "Cliff Allister McLane",
+            "ch": 69791
+          }
+        ]
+      },
+      {
+        "name": "Eva Pflug",
+        "nm": 679538,
+        "roles": [
+          {
+            "char": "Tamara Jagellovsk",
+            "ch": 253384
+          }
+        ]
+      },
+      {
+        "name": "Wolfgang Völz",
+        "nm": 905061,
+        "roles": [
+          {
+            "char": "Mario de Monti",
+            "ch": 245743
+          }
+        ]
+      },
+      {
+        "name": "Claus Holm",
+        "nm": 391485,
+        "roles": [
+          {
+            "char": "Hasso Sigbjörnson",
+            "ch": 220790
+          }
+        ]
+      },
+      {
+        "name": "Friedrich G. Beckhaus",
+        "nm": 65754,
+        "roles": [
+          {
+            "char": "Atan Shubashi",
+            "ch": 220789,
+            "as F.G. Beckhaus": true
+          }
+        ]
+      },
+      {
+        "name": "Ursula Lillig",
+        "nm": 510407,
+        "roles": [
+          {
+            "char": "Helga Legrelle"
+          }
+        ]
+      },
+      {
+        "name": "Benno Sterzenbach",
+        "nm": 828044,
+        "roles": [
+          {
+            "char": "General Wamsler",
+            "ch": 401637
+          }
+        ]
+      },
+      {
+        "name": "Friedrich Joloff",
+        "nm": 427230,
+        "roles": [
+          {
+            "char": "Oberst Villa",
+            "ch": 401638
+          }
+        ]
+      },
+      {
+        "name": "Franz Schafheitlin",
+        "nm": 769888,
+        "roles": [
+          {
+            "char": "Sir Arthur",
+            "ch": 401639
+          }
+        ]
+      },
+      {
+        "name": "Hans Cossy",
+        "nm": 182015,
+        "roles": [
+          {
+            "char": "Marshall Kublai-Krim"
+          }
+        ]
+      },
+      {
+        "name": "Charlotte Kerr",
+        "nm": 449667,
+        "roles": [
+          {
+            "char": "General Lydia van Dyke"
+          }
+        ]
+      },
+      {
+        "name": "Liselotte Quilling",
+        "nm": 703625,
+        "roles": [
+          {
+            "char": "Ingrid Sigbjörnson"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Reiner",
+        "nm": 707030,
+        "roles": [
+          {
+            "char": "Adjutant Michael Spring-Brauner"
+          }
+        ]
+      },
+      {
+        "name": "Claus Biederstaedt",
+        "nm": 81314,
+        "roles": [
+          {
+            "char": "Introduction",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Wolfgang Hess",
+        "nm": 381538,
+        "roles": [
+          {
+            "char": "Ship Commander",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Planet außer Kurs",
+    "tt": 682858,
+    "air_date": "1966-10-01",
+    "description": "When the Frogs send a rogue planet on a collision course to Earth, only the Orion may be able to stop it.",
+    "cast": [
+      {
+        "name": "Dietmar Schönherr",
+        "nm": 778220,
+        "roles": [
+          {
+            "char": "Cliff Allister McLane",
+            "ch": 69791
+          }
+        ]
+      },
+      {
+        "name": "Eva Pflug",
+        "nm": 679538,
+        "roles": [
+          {
+            "char": "Tamara Jagellovsk",
+            "ch": 253384
+          }
+        ]
+      },
+      {
+        "name": "Wolfgang Völz",
+        "nm": 905061,
+        "roles": [
+          {
+            "char": "Mario de Monti",
+            "ch": 245743
+          }
+        ]
+      },
+      {
+        "name": "Claus Holm",
+        "nm": 391485,
+        "roles": [
+          {
+            "char": "Hasso Sigbjörnson",
+            "ch": 220790
+          }
+        ]
+      },
+      {
+        "name": "Friedrich G. Beckhaus",
+        "nm": 65754,
+        "roles": [
+          {
+            "char": "Atan Shubashi",
+            "ch": 220789,
+            "as F.G. Beckhaus": true
+          }
+        ]
+      },
+      {
+        "name": "Ursula Lillig",
+        "nm": 510407,
+        "roles": [
+          {
+            "char": "Helga Legrelle"
+          }
+        ]
+      },
+      {
+        "name": "Benno Sterzenbach",
+        "nm": 828044,
+        "roles": [
+          {
+            "char": "General Wamsler",
+            "ch": 401637
+          }
+        ]
+      },
+      {
+        "name": "Friedrich Joloff",
+        "nm": 427230,
+        "roles": [
+          {
+            "char": "Oberst Villa",
+            "ch": 401638
+          }
+        ]
+      },
+      {
+        "name": "Franz Schafheitlin",
+        "nm": 769888,
+        "roles": [
+          {
+            "char": "Sir Arthur",
+            "ch": 401639
+          }
+        ]
+      },
+      {
+        "name": "Hans Cossy",
+        "nm": 182015,
+        "roles": [
+          {
+            "char": "Marshall Kublai-Krim"
+          }
+        ]
+      },
+      {
+        "name": "Charlotte Kerr",
+        "nm": 449667,
+        "roles": [
+          {
+            "char": "General Lydia van Dyke"
+          }
+        ]
+      },
+      {
+        "name": "Herbert Fleischmann",
+        "nm": 281534,
+        "roles": [
+          {
+            "char": "Dr. Schiller",
+            "ch": 182666
+          }
+        ]
+      },
+      {
+        "name": "Emil Stöhr",
+        "nm": 836706,
+        "roles": [
+          {
+            "char": "von Wennerstein"
+          }
+        ]
+      },
+      {
+        "name": "Heinz Beck",
+        "nm": 65144,
+        "roles": [
+          {
+            "char": "GSD-Beamter"
+          }
+        ]
+      },
+      {
+        "name": "Gerhard Jentsch",
+        "nm": 1273724,
+        "roles": [
+          {
+            "char": "Hydra-Astrogator"
+          }
+        ]
+      },
+      {
+        "name": "Norbert Gastell",
+        "nm": 309410,
+        "roles": [
+          {
+            "char": "Hydra-Offizier",
+            "ch": 401640
+          }
+        ]
+      },
+      {
+        "name": "Claus Biederstaedt",
+        "nm": 81314,
+        "roles": [
+          {
+            "char": "Introduction",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Reinhard Glemnitz",
+        "nm": 322495,
+        "roles": [
+          {
+            "char": "Voice of von Wennerstein",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Thomas Reiner",
+        "nm": 707030,
+        "roles": [
+          {
+            "char": "Adjutant Michael Spring-Brauner",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Hüter des Gesetzes",
+    "tt": 682855,
+    "air_date": "1966-10-15",
+    "description": "The crew of the Orion investigates a mining outpost not responding to calls and discovers a problem with the robotic workforce.",
+    "cast": [
+      {
+        "name": "Dietmar Schönherr",
+        "nm": 778220,
+        "roles": [
+          {
+            "char": "Cliff Allister McLane",
+            "ch": 69791
+          }
+        ]
+      },
+      {
+        "name": "Eva Pflug",
+        "nm": 679538,
+        "roles": [
+          {
+            "char": "Tamara Jagellovsk",
+            "ch": 253384
+          }
+        ]
+      },
+      {
+        "name": "Wolfgang Völz",
+        "nm": 905061,
+        "roles": [
+          {
+            "char": "Mario de Monti",
+            "ch": 245743
+          }
+        ]
+      },
+      {
+        "name": "Claus Holm",
+        "nm": 391485,
+        "roles": [
+          {
+            "char": "Hasso Sigbjörnson",
+            "ch": 220790
+          }
+        ]
+      },
+      {
+        "name": "Friedrich G. Beckhaus",
+        "nm": 65754,
+        "roles": [
+          {
+            "char": "Atan Shubashi",
+            "ch": 220789,
+            "as F.G. Beckhaus": true
+          }
+        ]
+      },
+      {
+        "name": "Ursula Lillig",
+        "nm": 510407,
+        "roles": [
+          {
+            "char": "Helga Legrelle"
+          }
+        ]
+      },
+      {
+        "name": "Benno Sterzenbach",
+        "nm": 828044,
+        "roles": [
+          {
+            "char": "General Wamsler",
+            "ch": 401637
+          }
+        ]
+      },
+      {
+        "name": "Friedrich Joloff",
+        "nm": 427230,
+        "roles": [
+          {
+            "char": "Oberst Villa",
+            "ch": 401638
+          }
+        ]
+      },
+      {
+        "name": "Thomas Reiner",
+        "nm": 707030,
+        "roles": [
+          {
+            "char": "Adjutant Michael Spring-Brauner"
+          }
+        ]
+      },
+      {
+        "name": "Alfons Höckmann",
+        "nm": 388392,
+        "roles": [
+          {
+            "char": "Rott",
+            "ch": 220792
+          }
+        ]
+      },
+      {
+        "name": "Helmut Brasch",
+        "nm": 105341,
+        "roles": [
+          {
+            "char": "Kommodore Ruyther"
+          }
+        ]
+      },
+      {
+        "name": "Nino Korda",
+        "nm": 466108,
+        "roles": [
+          {
+            "char": "GSD-Ordonanz"
+          }
+        ]
+      },
+      {
+        "name": "Herwig Walter",
+        "nm": 910047,
+        "roles": [
+          {
+            "char": "Richard Hall"
+          }
+        ]
+      },
+      {
+        "name": "Hans Wengefeld",
+        "nm": 920954,
+        "roles": [
+          {
+            "char": "Sprengmeister"
+          }
+        ]
+      },
+      {
+        "name": "Kunibert Gensichen",
+        "nm": 312999,
+        "roles": [
+          {
+            "char": "Abschnittsleiter"
+          }
+        ]
+      },
+      {
+        "name": "Siegfried Fetscher",
+        "nm": 275334,
+        "roles": [
+          {
+            "char": "Hyperion-29 Offizier",
+            "ch": 220788
+          }
+        ]
+      },
+      {
+        "name": "Christine Isensee",
+        "nm": 1430138,
+        "roles": [
+          {
+            "char": "T.R.A.V.-Ordonanz"
+          }
+        ]
+      },
+      {
+        "name": "Claus Biederstaedt",
+        "nm": 81314,
+        "roles": [
+          {
+            "char": "Introduction",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Reinhard Glemnitz",
+        "nm": 322495,
+        "roles": [
+          {
+            "char": "Spectator at Roboter Presentation",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Ursula Herwig",
+        "nm": 381209,
+        "roles": [
+          {
+            "char": "TRAV-Vorzimmerdame",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Deserteure",
+    "tt": 682854,
+    "air_date": "1966-10-29",
+    "description": "A human commander tries to defect to the Frogs, later saying he doesn't remember the incident. When the Orion is ordered to the sector where it took place, similar things happen to the Orion crew and loyalties are put to the test.",
+    "cast": [
+      {
+        "name": "Dietmar Schönherr",
+        "nm": 778220,
+        "roles": [
+          {
+            "char": "Cliff Allister McLane",
+            "ch": 69791
+          }
+        ]
+      },
+      {
+        "name": "Eva Pflug",
+        "nm": 679538,
+        "roles": [
+          {
+            "char": "Tamara Jagellovsk",
+            "ch": 253384
+          }
+        ]
+      },
+      {
+        "name": "Wolfgang Völz",
+        "nm": 905061,
+        "roles": [
+          {
+            "char": "Mario de Monti",
+            "ch": 245743
+          }
+        ]
+      },
+      {
+        "name": "Claus Holm",
+        "nm": 391485,
+        "roles": [
+          {
+            "char": "Hasso Sigbjörnson",
+            "ch": 220790
+          }
+        ]
+      },
+      {
+        "name": "Friedrich G. Beckhaus",
+        "nm": 65754,
+        "roles": [
+          {
+            "char": "Atan Shubashi",
+            "ch": 220789,
+            "as F.G. Beckhaus": true
+          }
+        ]
+      },
+      {
+        "name": "Ursula Lillig",
+        "nm": 510407,
+        "roles": [
+          {
+            "char": "Helga Legrelle"
+          }
+        ]
+      },
+      {
+        "name": "Benno Sterzenbach",
+        "nm": 828044,
+        "roles": [
+          {
+            "char": "General Wamsler",
+            "ch": 401637
+          }
+        ]
+      },
+      {
+        "name": "Friedrich Joloff",
+        "nm": 427230,
+        "roles": [
+          {
+            "char": "Oberst Villa",
+            "ch": 401638
+          }
+        ]
+      },
+      {
+        "name": "Franz Schafheitlin",
+        "nm": 769888,
+        "roles": [
+          {
+            "char": "Sir Arthur",
+            "ch": 401639
+          }
+        ]
+      },
+      {
+        "name": "Hans Cossy",
+        "nm": 182015,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Charlotte Kerr",
+        "nm": 449667,
+        "roles": [
+          {
+            "char": "General Lydia van Dyke"
+          }
+        ]
+      },
+      {
+        "name": "Erwin Linder",
+        "nm": 511704,
+        "roles": [
+          {
+            "char": "Professor Sherkoff"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Reiner",
+        "nm": 707030,
+        "roles": [
+          {
+            "char": "Adjutant Michael Spring-Brauner"
+          }
+        ]
+      },
+      {
+        "name": "Alfons Höckmann",
+        "nm": 388392,
+        "roles": [
+          {
+            "char": "Rott",
+            "ch": 220792
+          }
+        ]
+      },
+      {
+        "name": "Gerhard Jentsch",
+        "nm": 1273724,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Norbert Gastell",
+        "nm": 309410,
+        "roles": [
+          {
+            "char": "Hydra-Offizier",
+            "ch": 401640
+          }
+        ]
+      },
+      {
+        "name": "Nino Korda",
+        "nm": 466108,
+        "roles": [
+          {
+            "char": "GSD-Ordonanz"
+          }
+        ]
+      },
+      {
+        "name": "Wolf Petersen",
+        "nm": 676974,
+        "roles": [
+          {
+            "char": "Commander Alonzo Pietro"
+          }
+        ]
+      },
+      {
+        "name": "Hans-Dieter Asner",
+        "nm": 39582,
+        "roles": [
+          {
+            "char": "Offizier"
+          }
+        ]
+      },
+      {
+        "name": "Claus Biederstaedt",
+        "nm": 81314,
+        "roles": [
+          {
+            "char": "Introduction",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Der Kampf um die Sonne",
+    "tt": 682853,
+    "air_date": "1966-11-12",
+    "description": "Variations in the sun's energy output threaten the Earth's climate. The Orion crew investigates and discovers a long forgotten colony of humanity which may be responsible.",
+    "cast": [
+      {
+        "name": "Dietmar Schönherr",
+        "nm": 778220,
+        "roles": [
+          {
+            "char": "Cliff Allister McLane",
+            "ch": 69791
+          }
+        ]
+      },
+      {
+        "name": "Eva Pflug",
+        "nm": 679538,
+        "roles": [
+          {
+            "char": "Tamara Jagellovsk",
+            "ch": 253384
+          }
+        ]
+      },
+      {
+        "name": "Wolfgang Völz",
+        "nm": 905061,
+        "roles": [
+          {
+            "char": "Mario de Monti",
+            "ch": 245743
+          }
+        ]
+      },
+      {
+        "name": "Claus Holm",
+        "nm": 391485,
+        "roles": [
+          {
+            "char": "Hasso Sigbjörnson",
+            "ch": 220790
+          }
+        ]
+      },
+      {
+        "name": "Friedrich G. Beckhaus",
+        "nm": 65754,
+        "roles": [
+          {
+            "char": "Atan Shubashi",
+            "ch": 220789,
+            "as F.G. Beckhaus": true
+          }
+        ]
+      },
+      {
+        "name": "Ursula Lillig",
+        "nm": 510407,
+        "roles": [
+          {
+            "char": "Helga Legrelle"
+          }
+        ]
+      },
+      {
+        "name": "Benno Sterzenbach",
+        "nm": 828044,
+        "roles": [
+          {
+            "char": "General Wamsler",
+            "ch": 401637
+          }
+        ]
+      },
+      {
+        "name": "Friedrich Joloff",
+        "nm": 427230,
+        "roles": [
+          {
+            "char": "Oberst Villa",
+            "ch": 401638
+          }
+        ]
+      },
+      {
+        "name": "Franz Schafheitlin",
+        "nm": 769888,
+        "roles": [
+          {
+            "char": "Sir Arthur",
+            "ch": 401639
+          }
+        ]
+      },
+      {
+        "name": "Hans Cossy",
+        "nm": 182015,
+        "roles": [
+          {
+            "char": "Marshall Kublai-Krim"
+          }
+        ]
+      },
+      {
+        "name": "Herbert Fleischmann",
+        "nm": 281534,
+        "roles": [
+          {
+            "char": "Dr. Schiller",
+            "ch": 182666
+          }
+        ]
+      },
+      {
+        "name": "Alexander Hegarth",
+        "nm": 373668,
+        "roles": [
+          {
+            "char": "Dr. Heine"
+          }
+        ]
+      },
+      {
+        "name": "Alfons Höckmann",
+        "nm": 388392,
+        "roles": [
+          {
+            "char": "Rott",
+            "ch": 220792
+          }
+        ]
+      },
+      {
+        "name": "Sigfrit Steiner",
+        "nm": 826005,
+        "roles": [
+          {
+            "char": "Dr. Stass"
+          }
+        ]
+      },
+      {
+        "name": "Vivi Bach",
+        "nm": 45363,
+        "roles": [
+          {
+            "char": "Chroma-Ordonanz"
+          }
+        ]
+      },
+      {
+        "name": "Rosemarie von Schacht",
+        "nm": 902930,
+        "roles": [
+          {
+            "char": "Chroma-Ordonanz",
+            "as Rosemarie v. Schach": true
+          }
+        ]
+      },
+      {
+        "name": "Walter Gnilka",
+        "nm": 323510,
+        "roles": [
+          {
+            "char": "Chroma-Wissenschaftler"
+          }
+        ]
+      },
+      {
+        "name": "Wilfried von Aacken",
+        "nm": 901855,
+        "roles": [
+          {
+            "char": "Chroma-Wissenschaftler",
+            "as Wilfried v. Aacken": true
+          }
+        ]
+      },
+      {
+        "name": "Margot Trooger",
+        "nm": 873549,
+        "roles": [
+          {
+            "char": "SIE"
+          }
+        ]
+      },
+      {
+        "name": "Claus Biederstaedt",
+        "nm": 81314,
+        "roles": [
+          {
+            "char": "Introduction",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Die Raumfalle",
+    "tt": 682856,
+    "air_date": "1966-11-26",
+    "description": "The Orion takes aboard a writer looking for inspiration for his next novel, which doesn't make things easier when the crew encounter a colony of outcasts with dangerous ambitions.",
+    "cast": [
+      {
+        "name": "Dietmar Schönherr",
+        "nm": 778220,
+        "roles": [
+          {
+            "char": "Cliff Allister McLane",
+            "ch": 69791
+          }
+        ]
+      },
+      {
+        "name": "Eva Pflug",
+        "nm": 679538,
+        "roles": [
+          {
+            "char": "Tamara Jagellovsk",
+            "ch": 253384
+          }
+        ]
+      },
+      {
+        "name": "Wolfgang Völz",
+        "nm": 905061,
+        "roles": [
+          {
+            "char": "Mario de Monti",
+            "ch": 245743
+          }
+        ]
+      },
+      {
+        "name": "Claus Holm",
+        "nm": 391485,
+        "roles": [
+          {
+            "char": "Hasso Sigbjörnson",
+            "ch": 220790
+          }
+        ]
+      },
+      {
+        "name": "Friedrich G. Beckhaus",
+        "nm": 65754,
+        "roles": [
+          {
+            "char": "Atan Shubashi",
+            "ch": 220789,
+            "as F.G. Beckhaus": true
+          }
+        ]
+      },
+      {
+        "name": "Ursula Lillig",
+        "nm": 510407,
+        "roles": [
+          {
+            "char": "Helga Legrelle"
+          }
+        ]
+      },
+      {
+        "name": "Benno Sterzenbach",
+        "nm": 828044,
+        "roles": [
+          {
+            "char": "General Wamsler",
+            "ch": 401637
+          }
+        ]
+      },
+      {
+        "name": "Hans Epskamp",
+        "nm": 258413,
+        "roles": [
+          {
+            "char": "Minister für außerplanetare Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Reiner",
+        "nm": 707030,
+        "roles": [
+          {
+            "char": "Adjutant Michael Spring-Brauner"
+          }
+        ]
+      },
+      {
+        "name": "Siegurd Fitzek",
+        "nm": 280157,
+        "roles": [
+          {
+            "char": "Henryk, Verbannter auf Mura"
+          }
+        ]
+      },
+      {
+        "name": "Wolfgang Büttner",
+        "nm": 127351,
+        "roles": [
+          {
+            "char": "Tourenne"
+          }
+        ]
+      },
+      {
+        "name": "Reinhard Glemnitz",
+        "nm": 322495,
+        "roles": [
+          {
+            "char": "Pieter-Paul Ibsen",
+            "ch": 220787
+          }
+        ]
+      },
+      {
+        "name": "Claus Biederstaedt",
+        "nm": 81314,
+        "roles": [
+          {
+            "char": "Introduction",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Invasion",
+    "tt": 682857,
+    "air_date": "1966-12-10",
+    "description": "Unusual behavior by high-ranking intelligence officials makes Commander McLane suspect a conspiracy. No one listens to his warnings until it is too late: the invasion by the Frogs is already underway.",
+    "cast": [
+      {
+        "name": "Dietmar Schönherr",
+        "nm": 778220,
+        "roles": [
+          {
+            "char": "Cliff Allister McLane",
+            "ch": 69791
+          }
+        ]
+      },
+      {
+        "name": "Eva Pflug",
+        "nm": 679538,
+        "roles": [
+          {
+            "char": "Tamara Jagellovsk",
+            "ch": 253384
+          }
+        ]
+      },
+      {
+        "name": "Wolfgang Völz",
+        "nm": 905061,
+        "roles": [
+          {
+            "char": "Mario de Monti",
+            "ch": 245743
+          }
+        ]
+      },
+      {
+        "name": "Claus Holm",
+        "nm": 391485,
+        "roles": [
+          {
+            "char": "Hasso Sigbjörnson",
+            "ch": 220790
+          }
+        ]
+      },
+      {
+        "name": "Friedrich G. Beckhaus",
+        "nm": 65754,
+        "roles": [
+          {
+            "char": "Atan Shubashi",
+            "ch": 220789,
+            "as F.G. Beckhaus": true
+          }
+        ]
+      },
+      {
+        "name": "Ursula Lillig",
+        "nm": 510407,
+        "roles": [
+          {
+            "char": "Helga Legrelle"
+          }
+        ]
+      },
+      {
+        "name": "Benno Sterzenbach",
+        "nm": 828044,
+        "roles": [
+          {
+            "char": "General Wamsler",
+            "ch": 401637
+          }
+        ]
+      },
+      {
+        "name": "Friedrich Joloff",
+        "nm": 427230,
+        "roles": [
+          {
+            "char": "Oberst Villa",
+            "ch": 401638
+          }
+        ]
+      },
+      {
+        "name": "Franz Schafheitlin",
+        "nm": 769888,
+        "roles": [
+          {
+            "char": "Sir Arthur",
+            "ch": 401639
+          }
+        ]
+      },
+      {
+        "name": "Hans Cossy",
+        "nm": 182015,
+        "roles": [
+          {
+            "char": "Marshall Kublai-Krim"
+          }
+        ]
+      },
+      {
+        "name": "Charlotte Kerr",
+        "nm": 449667,
+        "roles": [
+          {
+            "char": "General Lydia van Dyke"
+          }
+        ]
+      },
+      {
+        "name": "Konrad Georg",
+        "nm": 313309,
+        "roles": [
+          {
+            "char": "Dr. Regwart"
+          }
+        ]
+      },
+      {
+        "name": "Thomas Reiner",
+        "nm": 707030,
+        "roles": [
+          {
+            "char": "Adjutant Michael Spring-Brauner"
+          }
+        ]
+      },
+      {
+        "name": "Maurice Teynac",
+        "nm": 856764,
+        "roles": [
+          {
+            "char": "Chefingenieur Kranz"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Hegarth",
+        "nm": 373668,
+        "roles": [
+          {
+            "char": "Dr. Heine"
+          }
+        ]
+      },
+      {
+        "name": "Emil Stöhr",
+        "nm": 836706,
+        "roles": [
+          {
+            "char": "von Wennerstein"
+          }
+        ]
+      },
+      {
+        "name": "Wolf Rahtjen",
+        "nm": 711725,
+        "roles": [
+          {
+            "char": "Oberst Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Gerhard Jentsch",
+        "nm": 1273724,
+        "roles": [
+          {
+            "char": "Hydra-Astrogator"
+          }
+        ]
+      },
+      {
+        "name": "Erich Fritze",
+        "nm": 296087,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Albert Hehn",
+        "nm": 373828,
+        "roles": [
+          {
+            "char": "Commander Lindley",
+            "ch": 220791
+          }
+        ]
+      },
+      {
+        "name": "Paul Glawion",
+        "nm": 322195,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Willy Schäfer",
+        "nm": 778095,
+        "roles": [
+          {
+            "char": "Tau-Astrogator"
+          }
+        ]
+      },
+      {
+        "name": "Claus Biederstaedt",
+        "nm": 81314,
+        "roles": [
+          {
+            "char": "Introduction",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Niels Clausnitzer",
+        "nm": 165274,
+        "roles": [
+          {
+            "char": "Ship Commander 'Lupus 12'",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Norbert Gastell",
+        "nm": 309410,
+        "roles": [
+          {
+            "char": "Hydra-Bordingenieur",
+            "ch": 401640,
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Reinhard Glemnitz",
+        "nm": 322495,
+        "roles": [
+          {
+            "char": "von Wennerstein",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Ursula Herwig",
+        "nm": 381209,
+        "roles": [
+          {
+            "char": "TRAV-Vorzimmerdame",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Wolfgang Hess",
+        "nm": 381538,
+        "roles": [
+          {
+            "char": "Ground Control",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,5305 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Legacy: Part 1",
+    "tt": 711272,
+    "air_date": "1991-09-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Frank Annese",
+        "nm": 30344,
+        "roles": [
+          {
+            "char": "Frank Loper"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Bennett",
+        "nm": 71922,
+        "roles": [
+          {
+            "char": "Henry",
+            "as Matthew Ray Bennett": true
+          }
+        ]
+      },
+      {
+        "name": "Leam Blackwood",
+        "nm": 85980,
+        "roles": [
+          {
+            "char": "Lieutenant Charles Pine"
+          }
+        ]
+      },
+      {
+        "name": "Lindsey Ginter",
+        "nm": 320163,
+        "roles": [
+          {
+            "char": "Thomas Hardin",
+            "ch": 99524
+          }
+        ]
+      },
+      {
+        "name": "Sandra P. Grant",
+        "nm": 335640,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jeff Irvine",
+        "nm": 410186,
+        "roles": [
+          {
+            "char": "Lenski"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Jackson",
+        "nm": 413864,
+        "roles": [
+          {
+            "char": "Brimley"
+          }
+        ]
+      },
+      {
+        "name": "Lon Katzman",
+        "nm": 441941,
+        "roles": [
+          {
+            "char": "Motorcycle Cop",
+            "as Lon Katzmann": true
+          }
+        ]
+      },
+      {
+        "name": "Tamsin Kelsey",
+        "nm": 447064,
+        "roles": [
+          {
+            "char": "A.D.A. Specter"
+          }
+        ]
+      },
+      {
+        "name": "Devon LaChance",
+        "nm": 1755751,
+        "roles": [
+          {
+            "char": "Grady age 8"
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Ted Willis"
+          }
+        ]
+      },
+      {
+        "name": "Francine Nguyen",
+        "nm": 1755787,
+        "roles": [
+          {
+            "char": "Mrs. Nguyen"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Piros",
+        "nm": 685264,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Kymberly Sheppard",
+        "nm": 791959,
+        "roles": [
+          {
+            "char": "Riordan"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Webber",
+        "nm": 916448,
+        "roles": [
+          {
+            "char": "Det. Traynor",
+            "ch": 99522
+          }
+        ]
+      },
+      {
+        "name": "Lee Mary Weilnau",
+        "nm": 918057,
+        "roles": [
+          {
+            "char": "Mrs. Tran"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Legacy: Part 2",
+    "tt": 711273,
+    "air_date": "1991-09-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Frank Annese",
+        "nm": 30344,
+        "roles": [
+          {
+            "char": "Frank Loper"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Bennett",
+        "nm": 71922,
+        "roles": [
+          {
+            "char": "Henry",
+            "as Matthew Ray Bennett": true
+          }
+        ]
+      },
+      {
+        "name": "Lindsey Ginter",
+        "nm": 320163,
+        "roles": [
+          {
+            "char": "Thomas Hardin",
+            "ch": 99524
+          }
+        ]
+      },
+      {
+        "name": "Jeff Irvine",
+        "nm": 410186,
+        "roles": [
+          {
+            "char": "Lenski"
+          }
+        ]
+      },
+      {
+        "name": "Michael A. Jackson",
+        "nm": 413864,
+        "roles": [
+          {
+            "char": "Brimley"
+          }
+        ]
+      },
+      {
+        "name": "Lon Katzman",
+        "nm": 441941,
+        "roles": [
+          {
+            "char": "Motorcycle Cop",
+            "as Lon Katzmann": true
+          }
+        ]
+      },
+      {
+        "name": "Devon LaChance",
+        "nm": 1755751,
+        "roles": [
+          {
+            "char": "Grady age 8"
+          }
+        ]
+      },
+      {
+        "name": "Francine Nguyen",
+        "nm": 1755787,
+        "roles": [
+          {
+            "char": "Mrs. Nguyen"
+          }
+        ]
+      },
+      {
+        "name": "Joanna Piros",
+        "nm": 685264,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Kymberly Sheppard",
+        "nm": 791959,
+        "roles": [
+          {
+            "char": "Riordan"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Webber",
+        "nm": 916448,
+        "roles": [
+          {
+            "char": "Det. Traynor",
+            "ch": 99522
+          }
+        ]
+      },
+      {
+        "name": "Lee Mary Weilnau",
+        "nm": 918057,
+        "roles": [
+          {
+            "char": "Mrs. Tran"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Loyalties",
+    "tt": 711274,
+    "air_date": "1991-10-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Suzy Joachim",
+        "nm": 423296,
+        "roles": [
+          {
+            "char": "Inez Valens"
+          }
+        ]
+      },
+      {
+        "name": "Steve Bacic",
+        "nm": 45584,
+        "roles": [
+          {
+            "char": "'Loco' Luis Gomez",
+            "ch": 74380
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Leam Blackwood",
+        "nm": 85980,
+        "roles": [
+          {
+            "char": "Lt. Charles Pine"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Bunting",
+        "nm": 120575,
+        "roles": [
+          {
+            "char": "Valerie Stein"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Vultaggio",
+        "nm": 904432,
+        "roles": [
+          {
+            "char": "Cristina Valens"
+          }
+        ]
+      },
+      {
+        "name": "Cam Avril",
+        "nm": 1755666,
+        "roles": [
+          {
+            "char": "K. Street Boy no. 1"
+          }
+        ]
+      },
+      {
+        "name": "Roger Barnes",
+        "nm": 55757,
+        "roles": [
+          {
+            "char": "Officer Hardigan"
+          }
+        ]
+      },
+      {
+        "name": "Hugo Peña",
+        "nm": 679178,
+        "roles": [
+          {
+            "char": "Quatro Leader"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Kid Stuff",
+    "tt": 711271,
+    "air_date": "1991-10-12",
+    "description": "When a girl Grady is seeing tells him that she has a son whom she gave up for adoption. She also tells him that she thinks her son is being abused by the people who adopted him. Grady tells Adam who is hesitant to get involved because the last time he took on a child abuse case, he lost it. When Adam is unable to prove it, she decides to grab her son and run.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Candus Churchill",
+        "nm": 161419,
+        "roles": [
+          {
+            "char": "Cassandra Harris"
+          }
+        ]
+      },
+      {
+        "name": "Larry N. Hill",
+        "nm": 384462,
+        "roles": [
+          {
+            "char": "Doctor",
+            "as Larry Hill": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Makaj",
+        "nm": 538363,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Jennifer",
+            "as Carrie Ann Moss": true
+          }
+        ]
+      },
+      {
+        "name": "Gregory Smith",
+        "nm": 808376,
+        "roles": [
+          {
+            "char": "Joey",
+            "ch": 233707
+          }
+        ]
+      },
+      {
+        "name": "Timothy Webber",
+        "nm": 916448,
+        "roles": [
+          {
+            "char": "Det. Traynor",
+            "ch": 99522
+          }
+        ]
+      },
+      {
+        "name": "Cheryl Wilson",
+        "nm": 933170,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Tables Turned",
+    "tt": 711286,
+    "air_date": "1991-10-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Patricia Dahlquist",
+        "nm": 197137,
+        "roles": [
+          {
+            "char": "Woman"
+          }
+        ]
+      },
+      {
+        "name": "Fred Henderson",
+        "nm": 376436,
+        "roles": [
+          {
+            "char": "Judge Gendelman"
+          }
+        ]
+      },
+      {
+        "name": "Beverley Hendry",
+        "nm": 376911,
+        "roles": [
+          {
+            "char": "Victoria Langford"
+          }
+        ]
+      },
+      {
+        "name": "Tamsin Kelsey",
+        "nm": 447064,
+        "roles": [
+          {
+            "char": "A.D.A. Specter"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Maxwell",
+        "nm": 561831,
+        "roles": [
+          {
+            "char": "Jesse Peck"
+          }
+        ]
+      },
+      {
+        "name": "Ryan Michael",
+        "nm": 584202,
+        "roles": [
+          {
+            "char": "Jack Walker"
+          }
+        ]
+      },
+      {
+        "name": "Tasha Simms",
+        "nm": 800014,
+        "roles": [
+          {
+            "char": "Linda Grossman"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Webber",
+        "nm": 916448,
+        "roles": [
+          {
+            "char": "Det. Traynor",
+            "ch": 99522
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Shadows",
+    "tt": 711285,
+    "air_date": "1991-10-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Janne Mortil",
+        "nm": 607838,
+        "roles": [
+          {
+            "char": "Det. Tricia Kelsey"
+          }
+        ]
+      },
+      {
+        "name": "Ken Tremblett",
+        "nm": 871993,
+        "roles": [
+          {
+            "char": "Det. Paul Schuham",
+            "ch": 79504
+          }
+        ]
+      },
+      {
+        "name": "Aki Aleong",
+        "nm": 18080,
+        "roles": [
+          {
+            "char": "Old Kim",
+            "ch": 75471
+          }
+        ]
+      },
+      {
+        "name": "Katherine Banwell",
+        "nm": 52582,
+        "roles": [
+          {
+            "char": "Reporter #2"
+          }
+        ]
+      },
+      {
+        "name": "Ken Camroux",
+        "nm": 133400,
+        "roles": [
+          {
+            "char": "Det. Chase"
+          }
+        ]
+      },
+      {
+        "name": "Jaylene Hamilton",
+        "nm": 357939,
+        "roles": [
+          {
+            "char": "Reporter #1"
+          }
+        ]
+      },
+      {
+        "name": "Sherman Hu",
+        "nm": 1755736,
+        "roles": [
+          {
+            "char": "John Hieu"
+          }
+        ]
+      },
+      {
+        "name": "Derek Lowe",
+        "nm": 522922,
+        "roles": [
+          {
+            "char": "Shadow Dragon Leader"
+          }
+        ]
+      },
+      {
+        "name": "Sean Orr",
+        "nm": 650604,
+        "roles": [
+          {
+            "char": "Police Officer"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Webber",
+        "nm": 916448,
+        "roles": [
+          {
+            "char": "Det. Traynor",
+            "ch": 99522
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Sanctuary",
+    "tt": 711283,
+    "air_date": "1991-11-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Janne Mortil",
+        "nm": 607838,
+        "roles": [
+          {
+            "char": "Det. Tricia Kelsey"
+          }
+        ]
+      },
+      {
+        "name": "Ken Tremblett",
+        "nm": 871993,
+        "roles": [
+          {
+            "char": "Det. Paul Schuham",
+            "ch": 79504
+          }
+        ]
+      },
+      {
+        "name": "Norman Browning",
+        "nm": 115198,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Joy Coghill",
+        "nm": 169064,
+        "roles": [
+          {
+            "char": "Rosemary Lyttle"
+          }
+        ]
+      },
+      {
+        "name": "Beverley Hendry",
+        "nm": 376911,
+        "roles": [
+          {
+            "char": "Victoria Langford"
+          }
+        ]
+      },
+      {
+        "name": "Christianne Hirt",
+        "nm": 386709,
+        "roles": [
+          {
+            "char": "Helena Dusebout"
+          }
+        ]
+      },
+      {
+        "name": "Walter Marsh",
+        "nm": 550685,
+        "roles": [
+          {
+            "char": "Dr. Washburne",
+            "as Wally Marsh": true
+          }
+        ]
+      },
+      {
+        "name": "David Palffy",
+        "nm": 657640,
+        "roles": [
+          {
+            "char": "Pietr"
+          }
+        ]
+      },
+      {
+        "name": "Sonny Surowiec",
+        "nm": 839709,
+        "roles": [
+          {
+            "char": "Henrik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "The Group",
+    "tt": 711288,
+    "air_date": "1991-11-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Janne Mortil",
+        "nm": 607838,
+        "roles": [
+          {
+            "char": "Det. Tricia Kelsey"
+          }
+        ]
+      },
+      {
+        "name": "Ken Tremblett",
+        "nm": 871993,
+        "roles": [
+          {
+            "char": "Det. Paul Schuham",
+            "ch": 79504
+          }
+        ]
+      },
+      {
+        "name": "Roger Barnes",
+        "nm": 55757,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "Julian Christopher",
+        "nm": 160589,
+        "roles": [
+          {
+            "char": "Ross Wiltons"
+          }
+        ]
+      },
+      {
+        "name": "Jerome Eden",
+        "nm": 249093,
+        "roles": [
+          {
+            "char": "Worker"
+          }
+        ]
+      },
+      {
+        "name": "Merrilyn Gann",
+        "nm": 304422,
+        "roles": [
+          {
+            "char": "Psychologist"
+          }
+        ]
+      },
+      {
+        "name": "Tamsin Kelsey",
+        "nm": 447064,
+        "roles": [
+          {
+            "char": "A.D.A. Specter"
+          }
+        ]
+      },
+      {
+        "name": "Alvin Sanders",
+        "nm": 761452,
+        "roles": [
+          {
+            "char": "Walter"
+          }
+        ]
+      },
+      {
+        "name": "Ema Tanaka",
+        "nm": 1756704,
+        "roles": [
+          {
+            "char": "Asian Girl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Friendly Fire",
+    "tt": 711266,
+    "air_date": "1991-11-16",
+    "description": "When Adam and another cop are involved in the accidental shooting of a young man, the other cop points the finger at Adam as the one who shot him which Adam denies. Grady tries to help him by locating a witness but when he testifies he says Adam was the shooter.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Janne Mortil",
+        "nm": 607838,
+        "roles": [
+          {
+            "char": "Det. Tricia Kelsey"
+          }
+        ]
+      },
+      {
+        "name": "Ken Tremblett",
+        "nm": 871993,
+        "roles": [
+          {
+            "char": "Det. Paul Schuham",
+            "ch": 79504
+          }
+        ]
+      },
+      {
+        "name": "Linda Darlow",
+        "nm": 201437,
+        "roles": [
+          {
+            "char": "Joyce"
+          }
+        ]
+      },
+      {
+        "name": "Steve Kahan",
+        "nm": 434676,
+        "roles": [
+          {
+            "char": "Det. James Halloran"
+          }
+        ]
+      },
+      {
+        "name": "Robert Metcalfe",
+        "nm": 582477,
+        "roles": [
+          {
+            "char": "Mendoza"
+          }
+        ]
+      },
+      {
+        "name": "Donna Peerless",
+        "nm": 670291,
+        "roles": [
+          {
+            "char": "Louise Halloran"
+          }
+        ]
+      },
+      {
+        "name": "John Tench",
+        "nm": 854900,
+        "roles": [
+          {
+            "char": "Thurman"
+          }
+        ]
+      },
+      {
+        "name": "Janie Woods-Morris",
+        "nm": 940837,
+        "roles": [
+          {
+            "char": "Hearing Officer"
+          }
+        ]
+      },
+      {
+        "name": "Victor A. Young",
+        "nm": 950142,
+        "roles": [
+          {
+            "char": "Karch",
+            "as Victor Young": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Self Defense",
+    "tt": 711284,
+    "air_date": "1991-11-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Pat Bermel",
+        "nm": 75894,
+        "roles": [
+          {
+            "char": "Eliot Hirsch"
+          }
+        ]
+      },
+      {
+        "name": "John 'Bear' Curtis",
+        "nm": 193395,
+        "roles": [
+          {
+            "char": "Wendell Evans"
+          }
+        ]
+      },
+      {
+        "name": "Sandra Ferens",
+        "nm": 272316,
+        "roles": [
+          {
+            "char": "Lisa"
+          }
+        ]
+      },
+      {
+        "name": "Deryl Hayes",
+        "nm": 370971,
+        "roles": [
+          {
+            "char": "Jeff Field"
+          }
+        ]
+      },
+      {
+        "name": "Eric Keenleyside",
+        "nm": 444776,
+        "roles": [
+          {
+            "char": "Doug"
+          }
+        ]
+      },
+      {
+        "name": "Larry Musser",
+        "nm": 615858,
+        "roles": [
+          {
+            "char": "Malone"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Bashing",
+    "tt": 711252,
+    "air_date": "1991-11-30",
+    "description": "When Malloy's brother Danny comes for a visit. When he goes to a gay bar and upon leaving he gets beaten up. When Adam learns what happened, he doesn't do anything. So Malloy goes out to find the ones who did it.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Janne Mortil",
+        "nm": 607838,
+        "roles": [
+          {
+            "char": "Det. Tricia Kelsey"
+          }
+        ]
+      },
+      {
+        "name": "Ken Tremblett",
+        "nm": 871993,
+        "roles": [
+          {
+            "char": "Det. Paul Schuham",
+            "ch": 79504
+          }
+        ]
+      },
+      {
+        "name": "Charles Andre",
+        "nm": 28136,
+        "roles": [
+          {
+            "char": "Baer",
+            "as Charles André": true
+          }
+        ]
+      },
+      {
+        "name": "Noah Beggs",
+        "nm": 66737,
+        "roles": [
+          {
+            "char": "Wayne"
+          }
+        ]
+      },
+      {
+        "name": "Jed Dixon",
+        "nm": 228865,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Todd Dulmage",
+        "nm": 241352,
+        "roles": [
+          {
+            "char": "Josh"
+          }
+        ]
+      },
+      {
+        "name": "Adrian G. Griffiths",
+        "nm": 2343,
+        "roles": [
+          {
+            "char": "Chuck",
+            "as Adrian Hughes": true
+          }
+        ]
+      },
+      {
+        "name": "Andrew Johnston",
+        "nm": 426526,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Stephen E. Miller",
+        "nm": 589358,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sean O'Byrne",
+        "nm": 639944,
+        "roles": [
+          {
+            "char": "Danny Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Rick Poltaruk",
+        "nm": 689868,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Wren Roberts",
+        "nm": 731686,
+        "roles": [
+          {
+            "char": "Fuller",
+            "as Wren Robertz": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Homecoming",
+    "tt": 711268,
+    "air_date": "1992-01-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Steve Bacic",
+        "nm": 45584,
+        "roles": [
+          {
+            "char": "'Loco' Luis Gomez",
+            "ch": 74380
+          }
+        ]
+      },
+      {
+        "name": "Lindsay Bourne",
+        "nm": 100074,
+        "roles": [
+          {
+            "char": "Martin Tetrick"
+          }
+        ]
+      },
+      {
+        "name": "John Cassini",
+        "nm": 144307,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Glynis Davies",
+        "nm": 203728,
+        "roles": [
+          {
+            "char": "Paula Farren"
+          }
+        ]
+      },
+      {
+        "name": "William B. Davis",
+        "nm": 205657,
+        "roles": [
+          {
+            "char": "Badgely",
+            "as William Davis": true
+          }
+        ]
+      },
+      {
+        "name": "Victor Favrin",
+        "nm": 269472,
+        "roles": [
+          {
+            "char": "G-Rock Gang Member #3"
+          }
+        ]
+      },
+      {
+        "name": "Salma Hayek",
+        "nm": 161,
+        "roles": [
+          {
+            "char": "Andrea"
+          }
+        ]
+      },
+      {
+        "name": "Michèle Lonsdale Smith",
+        "nm": 2676461,
+        "roles": [
+          {
+            "char": "Rachel Carson",
+            "as Michele Lonsdale-Smith": true
+          }
+        ]
+      },
+      {
+        "name": "Paulo Ribeiro",
+        "nm": 722920,
+        "roles": [
+          {
+            "char": "Rico"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Parenthood",
+    "tt": 711279,
+    "air_date": "1992-01-18",
+    "description": "Miguel's mother shows up with a baby and asks for his help. The baby's father is a dangerous man.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Oliver Becker",
+        "nm": 65548,
+        "roles": [
+          {
+            "char": "The Man in the Van"
+          }
+        ]
+      },
+      {
+        "name": "Laurie Briscoe",
+        "nm": 109798,
+        "roles": [
+          {
+            "char": "Kris Newman"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Harrison",
+        "nm": 365480,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "Scott McNeil",
+        "nm": 573926,
+        "roles": [
+          {
+            "char": "Crackhouse Junkie"
+          }
+        ]
+      },
+      {
+        "name": "Robert Metcalfe",
+        "nm": 582477,
+        "roles": [
+          {
+            "char": "Arnold Mendoza"
+          }
+        ]
+      },
+      {
+        "name": "Lorraine Morin",
+        "nm": 605551,
+        "roles": [
+          {
+            "char": "Carmen Mendez"
+          }
+        ]
+      },
+      {
+        "name": "Marco Rodríguez",
+        "nm": 735424,
+        "roles": [
+          {
+            "char": "Antonio Delgado",
+            "as Marco Rodriguez": true
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Stewart",
+        "nm": 829121,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Partner in Crime",
+    "tt": 711280,
+    "air_date": "1992-01-25",
+    "description": "Adam is sent on an undercover assignment with a female detective. He gets close to her. But Grady senses something about so he checks her out and finds out she doesn't work where she says she does. Upon learning this Adam deduces that she's an IA cop sent to find out if he was the one who took some cash out of evidence.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Cuthbert",
+        "nm": 193851,
+        "roles": [
+          {
+            "char": "Murphy",
+            "as Jon Cuthbert": true
+          }
+        ]
+      },
+      {
+        "name": "Alex Datcher",
+        "nm": 202131,
+        "roles": [
+          {
+            "char": "Lynn Kirkwood"
+          }
+        ]
+      },
+      {
+        "name": "Jano Frandsen",
+        "nm": 290742,
+        "roles": [
+          {
+            "char": "Simpson"
+          }
+        ]
+      },
+      {
+        "name": "Merrilyn Gann",
+        "nm": 304422,
+        "roles": [
+          {
+            "char": "Psychologist"
+          }
+        ]
+      },
+      {
+        "name": "Myron Natwick",
+        "nm": 622452,
+        "roles": [
+          {
+            "char": "DePalma"
+          }
+        ]
+      },
+      {
+        "name": "David Nerman",
+        "nm": 626247,
+        "roles": [
+          {
+            "char": "Detective Marks"
+          }
+        ]
+      },
+      {
+        "name": "Jill Teed",
+        "nm": 853805,
+        "roles": [
+          {
+            "char": "Officer Rice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Protectors",
+    "tt": 711281,
+    "air_date": "1992-02-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Forbes Angus",
+        "nm": 29973,
+        "roles": [
+          {
+            "char": "Lee Milford"
+          }
+        ]
+      },
+      {
+        "name": "Roark Critchlow",
+        "nm": 188220,
+        "roles": [
+          {
+            "char": "Jerry Mitchell"
+          }
+        ]
+      },
+      {
+        "name": "Dee Jay Jackson",
+        "nm": 413402,
+        "roles": [
+          {
+            "char": "Cab Driver"
+          }
+        ]
+      },
+      {
+        "name": "Suzette Meyers",
+        "nm": 583635,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "John Novak",
+        "nm": 636868,
+        "roles": [
+          {
+            "char": "Simmons"
+          }
+        ]
+      },
+      {
+        "name": "Roman Podhora",
+        "nm": 687999,
+        "roles": [
+          {
+            "char": "Allen"
+          }
+        ]
+      },
+      {
+        "name": "Beau Starr",
+        "nm": 823462,
+        "roles": [
+          {
+            "char": "Emmett Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Wendy Van Riesen",
+        "nm": 887835,
+        "roles": [
+          {
+            "char": "Marnie Rayburn"
+          }
+        ]
+      },
+      {
+        "name": "Mark Walker",
+        "nm": 908008,
+        "roles": [
+          {
+            "char": "Principal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "Backbeat",
+    "tt": 711250,
+    "air_date": "1992-02-15",
+    "description": "Grady gets an offer to work for a singer. He accepts and they become close. Adam learns that the singer is being investigated of being associated with money launderers. And he can't tell Grady.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Pat Bermel",
+        "nm": 75894,
+        "roles": [
+          {
+            "char": "Eliot Hirsh"
+          }
+        ]
+      },
+      {
+        "name": "Robert Collins",
+        "nm": 172639,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Brigitta Dau",
+        "nm": 202203,
+        "roles": [
+          {
+            "char": "Karen"
+          }
+        ]
+      },
+      {
+        "name": "Jackson Davies",
+        "nm": 203768,
+        "roles": [
+          {
+            "char": "Agent Smith"
+          }
+        ]
+      },
+      {
+        "name": "Deborah Gibson",
+        "nm": 316933,
+        "roles": [
+          {
+            "char": "Gabrielle",
+            "as Debbie Gibson": true
+          }
+        ]
+      },
+      {
+        "name": "Biski Gugushe",
+        "nm": 346607,
+        "roles": [
+          {
+            "char": "Larry"
+          }
+        ]
+      },
+      {
+        "name": "Philip Maurice Hayes",
+        "nm": 371190,
+        "roles": [
+          {
+            "char": "Mark",
+            "as Phil Hayes": true
+          }
+        ]
+      },
+      {
+        "name": "Byron Lucas",
+        "nm": 524092,
+        "roles": [
+          {
+            "char": "Kurt"
+          }
+        ]
+      },
+      {
+        "name": "Joe Maruzzo",
+        "nm": 555488,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sean Orr",
+        "nm": 650604,
+        "roles": [
+          {
+            "char": "Officer Richman",
+            "ch": 99523
+          }
+        ]
+      },
+      {
+        "name": "Raimund Stamm",
+        "nm": 821857,
+        "roles": [
+          {
+            "char": "Tony"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Debt of Honor",
+    "tt": 711261,
+    "air_date": "1992-02-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Tony Colitti",
+        "nm": 171559,
+        "roles": [
+          {
+            "char": "Scolari"
+          }
+        ]
+      },
+      {
+        "name": "Jackson Davies",
+        "nm": 203768,
+        "roles": [
+          {
+            "char": "Det. Smith"
+          }
+        ]
+      },
+      {
+        "name": "John B. Destry",
+        "nm": 221838,
+        "roles": [
+          {
+            "char": "Guard #1",
+            "as John Blackwell Destrey": true
+          }
+        ]
+      },
+      {
+        "name": "Michael Harris",
+        "nm": 365107,
+        "roles": [
+          {
+            "char": "Gary Torrey"
+          }
+        ]
+      },
+      {
+        "name": "Tom McBeath",
+        "nm": 564245,
+        "roles": [
+          {
+            "char": "Hamilton"
+          }
+        ]
+      },
+      {
+        "name": "Bill H. McKenzie",
+        "nm": 1978481,
+        "roles": [
+          {
+            "char": "Guard #2"
+          }
+        ]
+      },
+      {
+        "name": "Sean Orr",
+        "nm": 650604,
+        "roles": [
+          {
+            "char": "Officer Richman",
+            "ch": 99523
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Bad Choices",
+    "tt": 711251,
+    "air_date": "1992-02-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Janne Mortil",
+        "nm": 607838,
+        "roles": [
+          {
+            "char": "Det. Tricia Kelsey"
+          }
+        ]
+      },
+      {
+        "name": "Ken Tremblett",
+        "nm": 871993,
+        "roles": [
+          {
+            "char": "Det. Paul Schuham",
+            "ch": 79504
+          }
+        ]
+      },
+      {
+        "name": "Aki Aleong",
+        "nm": 18080,
+        "roles": [
+          {
+            "char": "Old Kim",
+            "ch": 75471
+          }
+        ]
+      },
+      {
+        "name": "Michael Paul Chan",
+        "nm": 151033,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Randy Lee",
+        "nm": 498055,
+        "roles": [
+          {
+            "char": "Trong"
+          }
+        ]
+      },
+      {
+        "name": "Akiko Morison",
+        "nm": 605682,
+        "roles": [
+          {
+            "char": "Miss Pham"
+          }
+        ]
+      },
+      {
+        "name": "Dustin Nguyen",
+        "nm": 629006,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "Eye Witness",
+    "tt": 711264,
+    "air_date": "1992-03-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marc Baur",
+        "nm": 61883,
+        "roles": [
+          {
+            "char": "Frank Harmon"
+          }
+        ]
+      },
+      {
+        "name": "Scott Bellis",
+        "nm": 69069,
+        "roles": [
+          {
+            "char": "Terry Harmon"
+          }
+        ]
+      },
+      {
+        "name": "John Finn",
+        "nm": 278125,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kim Kondrashoff",
+        "nm": 464940,
+        "roles": [
+          {
+            "char": "Joe Sandusky"
+          }
+        ]
+      },
+      {
+        "name": "Clif Kosterman",
+        "nm": 467414,
+        "roles": [
+          {
+            "char": "Uniform Cop"
+          }
+        ]
+      },
+      {
+        "name": "Michael MacRae",
+        "nm": 534298,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "David Marr",
+        "nm": 549975,
+        "roles": [
+          {
+            "char": "Investigator"
+          }
+        ]
+      },
+      {
+        "name": "Nancy Sorel",
+        "nm": 814807,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Linda Van Houton",
+        "nm": 1556702,
+        "roles": [
+          {
+            "char": "Hostess"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "The Long Way Home",
+    "tt": 711289,
+    "air_date": "1992-05-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Leam Blackwood",
+        "nm": 85980,
+        "roles": [
+          {
+            "char": "Lt. Charle Pine"
+          }
+        ]
+      },
+      {
+        "name": "Janne Mortil",
+        "nm": 607838,
+        "roles": [
+          {
+            "char": "Det. Tricia Kelsey"
+          }
+        ]
+      },
+      {
+        "name": "Ken Tremblett",
+        "nm": 871993,
+        "roles": [
+          {
+            "char": "Det. Paul Schuham",
+            "ch": 79504
+          }
+        ]
+      },
+      {
+        "name": "Henry Beckman",
+        "nm": 65798,
+        "roles": [
+          {
+            "char": "Pine's Father",
+            "as Henry Beckerman": true
+          }
+        ]
+      },
+      {
+        "name": "Roger R. Cross",
+        "nm": 3078,
+        "roles": [
+          {
+            "char": "Davey"
+          }
+        ]
+      },
+      {
+        "name": "Deanne Henry",
+        "nm": 377794,
+        "roles": [
+          {
+            "char": "Mrs. Ronald"
+          }
+        ]
+      },
+      {
+        "name": "Sharlene Martin",
+        "nm": 553057,
+        "roles": [
+          {
+            "char": "Katey"
+          }
+        ]
+      },
+      {
+        "name": "Freda Perry",
+        "nm": 675073,
+        "roles": [
+          {
+            "char": "Mrs. Lloyd"
+          }
+        ]
+      },
+      {
+        "name": "Margot Pinvidic",
+        "nm": 684749,
+        "roles": [
+          {
+            "char": "Sarah Walker"
+          }
+        ]
+      },
+      {
+        "name": "Joe Norman Shaw",
+        "nm": 789793,
+        "roles": [
+          {
+            "char": "Eddie",
+            "as Joe-Norman Shaw": true
+          }
+        ]
+      },
+      {
+        "name": "William S. Taylor",
+        "nm": 853335,
+        "roles": [
+          {
+            "char": "Bobby",
+            "ch": 233706
+          }
+        ]
+      },
+      {
+        "name": "Andrew Wheeler",
+        "nm": 923766,
+        "roles": [
+          {
+            "char": "Bill Walker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Catcher",
+    "tt": 711255,
+    "air_date": "1992-05-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Janne Mortil",
+        "nm": 607838,
+        "roles": [
+          {
+            "char": "Det. Tricia Kelsey"
+          }
+        ]
+      },
+      {
+        "name": "Ken Tremblett",
+        "nm": 871993,
+        "roles": [
+          {
+            "char": "Det. Paul Schuham",
+            "ch": 79504
+          }
+        ]
+      },
+      {
+        "name": "Lisa Bunting",
+        "nm": 120575,
+        "roles": [
+          {
+            "char": "Valerie Stein"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Dale",
+        "nm": 197714,
+        "roles": [
+          {
+            "char": "Sherry Rivers"
+          }
+        ]
+      },
+      {
+        "name": "Danielle Fraser",
+        "nm": 292096,
+        "roles": [
+          {
+            "char": "Erin Frank"
+          }
+        ]
+      },
+      {
+        "name": "Tom Heaton",
+        "nm": 372784,
+        "roles": [
+          {
+            "char": "Hotel Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Kevin McNulty",
+        "nm": 574081,
+        "roles": [
+          {
+            "char": "Mr. Frank"
+          }
+        ]
+      },
+      {
+        "name": "Vince Metcalfe",
+        "nm": 582482,
+        "roles": [
+          {
+            "char": "Mr. Jones"
+          }
+        ]
+      },
+      {
+        "name": "Richard Newman",
+        "nm": 628236,
+        "roles": [
+          {
+            "char": "Rudy Karp"
+          }
+        ]
+      },
+      {
+        "name": "Melanie Nicholls-King",
+        "nm": 629517,
+        "roles": [
+          {
+            "char": "Adrienne Howell"
+          }
+        ]
+      },
+      {
+        "name": "David Palffy",
+        "nm": 657640,
+        "roles": [
+          {
+            "char": "Krueger"
+          }
+        ]
+      },
+      {
+        "name": "Gabrielle Rose",
+        "nm": 741388,
+        "roles": [
+          {
+            "char": "Mrs. Frank"
+          }
+        ]
+      },
+      {
+        "name": "Robert Thurston",
+        "nm": 862265,
+        "roles": [
+          {
+            "char": "Jerrold Price"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Missing",
+    "tt": 711275,
+    "air_date": "1992-05-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Aki Aleong",
+        "nm": 18080,
+        "roles": [
+          {
+            "char": "Old Kim",
+            "ch": 75471
+          }
+        ]
+      },
+      {
+        "name": "Jackson Davies",
+        "nm": 203768,
+        "roles": [
+          {
+            "char": "Agent Smith"
+          }
+        ]
+      },
+      {
+        "name": "Fred Henderson",
+        "nm": 376436,
+        "roles": [
+          {
+            "char": "John Dunaway"
+          }
+        ]
+      },
+      {
+        "name": "Akiko Morison",
+        "nm": 605682,
+        "roles": [
+          {
+            "char": "Bay Ly"
+          }
+        ]
+      },
+      {
+        "name": "Sean Orr",
+        "nm": 650604,
+        "roles": [
+          {
+            "char": "Officer Richman",
+            "ch": 99523
+          }
+        ]
+      },
+      {
+        "name": "Patricia Ayame Thomson",
+        "nm": 861069,
+        "roles": [
+          {
+            "char": "Lan Dunaway"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Death Warmed Over",
+    "tt": 711260,
+    "air_date": "1992-10-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Janne Mortil",
+        "nm": 607838,
+        "roles": [
+          {
+            "char": "Det. Tricia Kelsey"
+          }
+        ]
+      },
+      {
+        "name": "Ken Tremblett",
+        "nm": 871993,
+        "roles": [
+          {
+            "char": "Det. Paul Schuhan",
+            "ch": 79504
+          }
+        ]
+      },
+      {
+        "name": "Steve Bacic",
+        "nm": 45584,
+        "roles": [
+          {
+            "char": "'Loco' Luis Gomez",
+            "ch": 74380
+          }
+        ]
+      },
+      {
+        "name": "Kathryn Bracht",
+        "nm": 1630971,
+        "roles": [
+          {
+            "char": "Faye Jameson"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Cuthbert",
+        "nm": 193851,
+        "roles": [
+          {
+            "char": "Michael Sunks",
+            "as Jon Cuthbert": true
+          }
+        ]
+      },
+      {
+        "name": "Derek Lowe",
+        "nm": 522922,
+        "roles": [
+          {
+            "char": "Trong"
+          }
+        ]
+      },
+      {
+        "name": "D. David Morin",
+        "nm": 605514,
+        "roles": [
+          {
+            "char": "Dennis Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Alfonso Quijada",
+        "nm": 703544,
+        "roles": [
+          {
+            "char": "Clavo",
+            "ch": 99526
+          }
+        ]
+      },
+      {
+        "name": "Eric Schneider",
+        "nm": 773796,
+        "roles": [
+          {
+            "char": "Dr. Muntner"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Ulc",
+        "nm": 880387,
+        "roles": [
+          {
+            "char": "Paramedic"
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Wong",
+        "nm": 939142,
+        "roles": [
+          {
+            "char": "Nurse Lee"
+          }
+        ]
+      },
+      {
+        "name": "Richard Yee",
+        "nm": 947184,
+        "roles": [
+          {
+            "char": "Dustin Hai"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "Circle of Death",
+    "tt": 711256,
+    "air_date": "1992-10-03",
+    "description": "When a young man is found dead with his neck broken and with an usual mark on his foot Adam investigates. When Grady hears about it, it brings up some old memories. It leads to fight to the death tournament.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Janne Mortil",
+        "nm": 607838,
+        "roles": [
+          {
+            "char": "Det. Tricia Kelsey"
+          }
+        ]
+      },
+      {
+        "name": "Ken Tremblett",
+        "nm": 871993,
+        "roles": [
+          {
+            "char": "Det. Paul Schuhan",
+            "ch": 79504
+          }
+        ]
+      },
+      {
+        "name": "Billy Blanks",
+        "nm": 87593,
+        "roles": [
+          {
+            "char": "Tsiet Na Champion"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Conway",
+        "nm": 176724,
+        "roles": [
+          {
+            "char": "Ritchie Pierce",
+            "as Kevin John Conway": true
+          }
+        ]
+      },
+      {
+        "name": "Martin Cummins",
+        "nm": 192024,
+        "roles": [
+          {
+            "char": "Seth Pierce"
+          }
+        ]
+      },
+      {
+        "name": "Scott Hylands",
+        "nm": 405111,
+        "roles": [
+          {
+            "char": "Nigel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "Cross Fire",
+    "tt": 711259,
+    "air_date": "1992-10-17",
+    "description": "Kelsey is on a stake out with Schuham and they're fooling around, when someone is shot. They go to check it out and Schuham is killed. Later detectives from a special branch are placed in charge of the investigation. They're told by one of their informants that it's someone named Moore. The guy just happens to be a friend of Grady and when he tries to run, he's caught. Later at the line up Adam notices that they're pushing Kelsey to pick Moore. He learns that some time ago Moore filed a brutality complaint against them. Grady insists Moore is innocent. Adam decides to reexamine the case by checking the person was killed before Schuham.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Janne Mortil",
+        "nm": 607838,
+        "roles": [
+          {
+            "char": "Det. Tricia Kelsey"
+          }
+        ]
+      },
+      {
+        "name": "Ken Tremblett",
+        "nm": 871993,
+        "roles": [
+          {
+            "char": "Det. Paul Schuham",
+            "ch": 79504
+          }
+        ]
+      },
+      {
+        "name": "Gillian Barber",
+        "nm": 53390,
+        "roles": [
+          {
+            "char": "Drugdealer's Girlfriend"
+          }
+        ]
+      },
+      {
+        "name": "Robin Mossley",
+        "nm": 609157,
+        "roles": [
+          {
+            "char": "Café Owner"
+          }
+        ]
+      },
+      {
+        "name": "John Novak",
+        "nm": 636868,
+        "roles": [
+          {
+            "char": "Allen"
+          }
+        ]
+      },
+      {
+        "name": "Roman Podhora",
+        "nm": 687999,
+        "roles": [
+          {
+            "char": "Simmons"
+          }
+        ]
+      },
+      {
+        "name": "Tasha Simms",
+        "nm": 800014,
+        "roles": [
+          {
+            "char": "Lawyer"
+          }
+        ]
+      },
+      {
+        "name": "Lahmard J. Tate",
+        "nm": 851159,
+        "roles": [
+          {
+            "char": "Damon Moore",
+            "as Lahmard Tate": true
+          }
+        ]
+      },
+      {
+        "name": "Larron Tate",
+        "nm": 851160,
+        "roles": [
+          {
+            "char": "Henry Williams"
+          }
+        ]
+      },
+      {
+        "name": "James Thom",
+        "nm": 858368,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Feet of Clay",
+    "tt": 711265,
+    "air_date": "1992-10-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Andrew Kavadas",
+        "nm": 442515,
+        "roles": [
+          {
+            "char": "Velarde"
+          }
+        ]
+      },
+      {
+        "name": "Tamsin Kelsey",
+        "nm": 447064,
+        "roles": [
+          {
+            "char": "A.D.A. Specter"
+          }
+        ]
+      },
+      {
+        "name": "Katie Mitchell",
+        "nm": 593497,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Alan C. Peterson",
+        "nm": 12586,
+        "roles": [
+          {
+            "char": "Foster"
+          }
+        ]
+      },
+      {
+        "name": "Frank C. Turner",
+        "nm": 3964,
+        "roles": [
+          {
+            "char": "Homeless Man"
+          }
+        ]
+      },
+      {
+        "name": "Wendell Wright",
+        "nm": 942922,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Each One, Teach One",
+    "tt": 711263,
+    "air_date": "1992-10-31",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Eric McCormack",
+        "nm": 5202,
+        "roles": [
+          {
+            "char": "Off."
+          },
+          {
+            "char": "Det. Eric Rothman"
+          }
+        ]
+      },
+      {
+        "name": "Natino Bellantoni",
+        "nm": 68751,
+        "roles": [
+          {
+            "char": "Store Manager"
+          }
+        ]
+      },
+      {
+        "name": "Walter Bonshor",
+        "nm": 95188,
+        "roles": [
+          {
+            "char": "Rothman's Lawyer",
+            "as Mark Walker Bonshor": true
+          }
+        ]
+      },
+      {
+        "name": "Lani Cope",
+        "nm": 1853081,
+        "roles": [
+          {
+            "char": "Sheila"
+          }
+        ]
+      },
+      {
+        "name": "Bill Croft",
+        "nm": 188457,
+        "roles": [
+          {
+            "char": "Frankie"
+          }
+        ]
+      },
+      {
+        "name": "Deborah Lee Crum",
+        "nm": 1853698,
+        "roles": [
+          {
+            "char": "Call Girl"
+          }
+        ]
+      },
+      {
+        "name": "David Glyn-Jones",
+        "nm": 323332,
+        "roles": [
+          {
+            "char": "Hotel Customer"
+          }
+        ]
+      },
+      {
+        "name": "Barney McFadden",
+        "nm": 568653,
+        "roles": [
+          {
+            "char": "Michael Rothman"
+          }
+        ]
+      },
+      {
+        "name": "Jason Schombing",
+        "nm": 774721,
+        "roles": [
+          {
+            "char": "Calvin Dunn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "Country Justice",
+    "tt": 711258,
+    "air_date": "1992-11-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "George Josef",
+        "nm": 430491,
+        "roles": [
+          {
+            "char": "Angel's Henchman"
+          }
+        ]
+      },
+      {
+        "name": "Martin Martinuzzi",
+        "nm": 554205,
+        "roles": [
+          {
+            "char": "Angel"
+          }
+        ]
+      },
+      {
+        "name": "Collin Raye",
+        "nm": 713097,
+        "roles": [
+          {
+            "char": "Billy"
+          }
+        ]
+      },
+      {
+        "name": "Drew Reichelt",
+        "nm": 717015,
+        "roles": [
+          {
+            "char": "Dwayne Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Michael Rogers",
+        "nm": 1558628,
+        "roles": [
+          {
+            "char": "Arnie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Back from the Dead Again",
+    "tt": 711249,
+    "air_date": "1992-11-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Patti Allan",
+        "nm": 19997,
+        "roles": [
+          {
+            "char": "Nurse Rina",
+            "as Patti Allen": true
+          }
+        ]
+      },
+      {
+        "name": "Angela Bohn",
+        "nm": 92094,
+        "roles": [
+          {
+            "char": "Mother"
+          }
+        ]
+      },
+      {
+        "name": "Jackson Davies",
+        "nm": 203768,
+        "roles": [
+          {
+            "char": "Agent Smith"
+          }
+        ]
+      },
+      {
+        "name": "Aurelio Dinunzio",
+        "nm": 227858,
+        "roles": [
+          {
+            "char": "Security Guard"
+          }
+        ]
+      },
+      {
+        "name": "Duncan Fraser",
+        "nm": 292114,
+        "roles": [
+          {
+            "char": "Rafferty"
+          }
+        ]
+      },
+      {
+        "name": "Lindsey Ginter",
+        "nm": 320163,
+        "roles": [
+          {
+            "char": "Thomas Hardin",
+            "ch": 99524
+          }
+        ]
+      },
+      {
+        "name": "J.J. McColl",
+        "nm": 566102,
+        "roles": [
+          {
+            "char": "Mable"
+          }
+        ]
+      },
+      {
+        "name": "Justine Priestley",
+        "nm": 697364,
+        "roles": [
+          {
+            "char": "Secretary",
+            "as Justine Priestly": true
+          }
+        ]
+      },
+      {
+        "name": "Gordon Tipple",
+        "nm": 864154,
+        "roles": [
+          {
+            "char": "Gun Dealer"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Winton",
+        "nm": 936071,
+        "roles": [
+          {
+            "char": "Dr. Marcy Wright"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Innocent Blood",
+    "tt": 711270,
+    "air_date": "1992-11-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "R. Lee Ermey",
+        "nm": 388,
+        "roles": [
+          {
+            "char": "Special Agent Landau"
+          }
+        ]
+      },
+      {
+        "name": "Ernie Jackson",
+        "nm": 413505,
+        "roles": [
+          {
+            "char": "Landau's Agent"
+          }
+        ]
+      },
+      {
+        "name": "Ken Kramer",
+        "nm": 469584,
+        "roles": [
+          {
+            "char": "Pathologist"
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Teddy Willis"
+          }
+        ]
+      },
+      {
+        "name": "Frederick Pleasure II",
+        "nm": 1319861,
+        "roles": [
+          {
+            "char": "Lauden"
+          }
+        ]
+      },
+      {
+        "name": "Berma Skill",
+        "nm": 1561790,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Victor A. Young",
+        "nm": 950142,
+        "roles": [
+          {
+            "char": "Aga Nador"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Angel of Death",
+    "tt": 711248,
+    "air_date": "1992-11-28",
+    "description": "Beaudreaux's chasing a serial killer. He's been advised not to give the media any info because it's what he craves. And when a reporter, who only cares about making a scoop comes to cover the story, and whom Adam has had history with, makes things more difficult. Especially when Grady's taken with the man.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Kelli Fox",
+        "nm": 289093,
+        "roles": [
+          {
+            "char": "Nurse Fox"
+          }
+        ]
+      },
+      {
+        "name": "Pat Harrington Jr.",
+        "nm": 364224,
+        "roles": [
+          {
+            "char": "Felker"
+          }
+        ]
+      },
+      {
+        "name": "Ron Sauvé",
+        "nm": 767205,
+        "roles": [
+          {
+            "char": "Homeless Man"
+          }
+        ]
+      },
+      {
+        "name": "William S. Taylor",
+        "nm": 853335,
+        "roles": [
+          {
+            "char": "Bobby",
+            "ch": 233706
+          }
+        ]
+      },
+      {
+        "name": "Eric Trask",
+        "nm": 871128,
+        "roles": [
+          {
+            "char": "The Angel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E10",
+    "title": "Remember Me",
+    "tt": 711282,
+    "air_date": "1993-01-09",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Janet Craig",
+        "nm": 185888,
+        "roles": [
+          {
+            "char": "Mrs. Lambert"
+          }
+        ]
+      },
+      {
+        "name": "Peter DeLuise",
+        "nm": 217938,
+        "roles": [
+          {
+            "char": "Frank Gurston"
+          }
+        ]
+      },
+      {
+        "name": "Judith Maxie",
+        "nm": 561562,
+        "roles": [
+          {
+            "char": "Candace Hunt"
+          }
+        ]
+      },
+      {
+        "name": "Joanne Mikita",
+        "nm": 586541,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Jay Ono",
+        "nm": 648755,
+        "roles": [
+          {
+            "char": "Forensic Assistant"
+          }
+        ]
+      },
+      {
+        "name": "Fred Pinkard",
+        "nm": 684339,
+        "roles": [
+          {
+            "char": "Joseph Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Alfonso Quijada",
+        "nm": 703544,
+        "roles": [
+          {
+            "char": "Paco"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E11",
+    "title": "Black or Blue",
+    "tt": 711254,
+    "air_date": "1993-01-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Roger Barnes",
+        "nm": 55757,
+        "roles": [
+          {
+            "char": "Officer #2"
+          }
+        ]
+      },
+      {
+        "name": "Fulvio Cecere",
+        "nm": 147661,
+        "roles": [
+          {
+            "char": "Anthony"
+          }
+        ]
+      },
+      {
+        "name": "Garvin Cross",
+        "nm": 189162,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Roger R. Cross",
+        "nm": 3078,
+        "roles": [
+          {
+            "char": "Doug"
+          }
+        ]
+      },
+      {
+        "name": "Omar Epps",
+        "nm": 4898,
+        "roles": [
+          {
+            "char": "Clint"
+          }
+        ]
+      },
+      {
+        "name": "Adrian Formosa",
+        "nm": 286436,
+        "roles": [
+          {
+            "char": "Uniformed Cop"
+          }
+        ]
+      },
+      {
+        "name": "Eric Keenleyside",
+        "nm": 444776,
+        "roles": [
+          {
+            "char": "Councilman Wallace"
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Wallace"
+          }
+        ]
+      },
+      {
+        "name": "David T. McKay",
+        "nm": 1853719,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Danny McNulty",
+        "nm": 1105858,
+        "roles": [
+          {
+            "char": "Brad Turner"
+          }
+        ]
+      },
+      {
+        "name": "Peter Stebbings",
+        "nm": 824220,
+        "roles": [
+          {
+            "char": "Jeffrey"
+          }
+        ]
+      },
+      {
+        "name": "Michael Tiernan",
+        "nm": 862913,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E12",
+    "title": "Bitter Fruit",
+    "tt": 711253,
+    "air_date": "1993-01-23",
+    "description": "Doc Nash, the medic who save Adam's life during the war comes to town to tell him that a guy they knew died. Later Doc is arrested for burglary. And Grady catches him shooting up, thinking he's a junkie but he claims he's just medicating himself. He claims he was trying to get proof that a defense contractor manufactured a biological weapon that would also kill Americans as well as the enemy. When he couldn't prove Adam has no choice but to turn him in. But he later learns from Willis that the biological weapon is true and that the drug Doc was taking is what is given to people who are exposed to it meaning that Doc is infected. So Adam tries to help him prove it.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Katherine Banwell",
+        "nm": 52582,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Larry Manetti",
+        "nm": 542027,
+        "roles": [
+          {
+            "char": "Doc Nash"
+          }
+        ]
+      },
+      {
+        "name": "Blu Mankuma",
+        "nm": 542558,
+        "roles": [
+          {
+            "char": "Willis"
+          }
+        ]
+      },
+      {
+        "name": "Maxine Miller",
+        "nm": 588948,
+        "roles": [
+          {
+            "char": "Mrs. Tyler"
+          }
+        ]
+      },
+      {
+        "name": "Rolando Molina",
+        "nm": 596789,
+        "roles": [
+          {
+            "char": "Simmy"
+          }
+        ]
+      },
+      {
+        "name": "Myron Natwick",
+        "nm": 622452,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Frank Pellegrino",
+        "nm": 671022,
+        "roles": [
+          {
+            "char": "Dr. Harris"
+          }
+        ]
+      },
+      {
+        "name": "William Samples",
+        "nm": 760138,
+        "roles": [
+          {
+            "char": "Chemist"
+          }
+        ]
+      },
+      {
+        "name": "Des Smiley",
+        "nm": 806952,
+        "roles": [
+          {
+            "char": "Dr. Russell Tyler"
+          }
+        ]
+      },
+      {
+        "name": "Nisha Wuttunee",
+        "nm": 1851290,
+        "roles": [
+          {
+            "char": "Messenger"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E13",
+    "title": "A Sense of Duty",
+    "tt": 711247,
+    "air_date": "1993-01-30",
+    "description": "Jennifer is close to getting custody of her son Joey, whom she gave up for adoption. But he witnesses a crime committed by a gang. Adam tries to help her but an ambitious D.A. wants him to testify but Jennifer chooses not to let him. So the D.A. threatens to report her to child services, which might make her getting custody difficult.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Eddie Frias",
+        "nm": 294720,
+        "roles": [
+          {
+            "char": "Ramon Velasquez"
+          }
+        ]
+      },
+      {
+        "name": "Hrothgar Mathews",
+        "nm": 558645,
+        "roles": [
+          {
+            "char": "Little Jimmy"
+          }
+        ]
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "nm": 5251,
+        "roles": [
+          {
+            "char": "Jennifer"
+          }
+        ]
+      },
+      {
+        "name": "Agustin Rodriguez",
+        "nm": 735230,
+        "roles": [
+          {
+            "char": "Number Two"
+          }
+        ]
+      },
+      {
+        "name": "Tony Sagastizado I",
+        "nm": 756022,
+        "roles": [
+          {
+            "char": "Henchman"
+          }
+        ]
+      },
+      {
+        "name": "Garwin Sanford",
+        "nm": 762560,
+        "roles": [
+          {
+            "char": "D.A. Sperling"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Smith",
+        "nm": 808376,
+        "roles": [
+          {
+            "char": "Joey",
+            "ch": 233707
+          }
+        ]
+      },
+      {
+        "name": "Alisa Wiebe",
+        "nm": 1528711,
+        "roles": [
+          {
+            "char": "Ramon's Girl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E14",
+    "title": "Obsession",
+    "tt": 711277,
+    "air_date": "1993-02-06",
+    "description": "When a detective helps Adam, Adam praises him. But things change when the man develops an unhealthy obsession for Malloy.",
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Jim Bearden",
+        "nm": 1683919,
+        "roles": [
+          {
+            "char": "Judge Gordon"
+          }
+        ]
+      },
+      {
+        "name": "André Daniels",
+        "nm": 1478051,
+        "roles": [
+          {
+            "char": "Shaeffer"
+          }
+        ]
+      },
+      {
+        "name": "Michael Dobson",
+        "nm": 229923,
+        "roles": [
+          {
+            "char": "Weeks"
+          }
+        ]
+      },
+      {
+        "name": "Scott Jaeck",
+        "nm": 415327,
+        "roles": [
+          {
+            "char": "Det. Dave Hobart"
+          }
+        ]
+      },
+      {
+        "name": "Terence Kelly",
+        "nm": 446892,
+        "roles": [
+          {
+            "char": "Kemp"
+          }
+        ]
+      },
+      {
+        "name": "Tamsin Kelsey",
+        "nm": 447064,
+        "roles": [
+          {
+            "char": "A.D.A. Specter"
+          }
+        ]
+      },
+      {
+        "name": "Nina Roman",
+        "nm": 738730,
+        "roles": [
+          {
+            "char": "Marge Ronkama"
+          }
+        ]
+      },
+      {
+        "name": "Bobby Stewart",
+        "nm": 829216,
+        "roles": [
+          {
+            "char": "Brett"
+          }
+        ]
+      },
+      {
+        "name": "William S. Taylor",
+        "nm": 853335,
+        "roles": [
+          {
+            "char": "Bobby",
+            "ch": 233706
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E15",
+    "title": "Honor and Trust",
+    "tt": 711269,
+    "air_date": "1993-02-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Don S. Davis",
+        "nm": 204493,
+        "roles": [
+          {
+            "char": "Sargeant Pritchard"
+          }
+        ]
+      },
+      {
+        "name": "Dana Lee",
+        "nm": 497086,
+        "roles": [
+          {
+            "char": "Chen Dao"
+          }
+        ]
+      },
+      {
+        "name": "Dana Lee",
+        "nm": 1648647,
+        "roles": [
+          {
+            "char": "Chen Dao"
+          }
+        ]
+      },
+      {
+        "name": "Randy Lee",
+        "nm": 498055,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tzi Ma",
+        "nm": 2245,
+        "roles": [
+          {
+            "char": "Bryn To Chi"
+          }
+        ]
+      },
+      {
+        "name": "Robert Metcalfe",
+        "nm": 582477,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E16",
+    "title": "On My Honor",
+    "tt": 711278,
+    "air_date": "1993-02-20",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Paul Bittante",
+        "nm": 84501,
+        "roles": [
+          {
+            "char": "Guard"
+          }
+        ]
+      },
+      {
+        "name": "Kim Coates",
+        "nm": 167649,
+        "roles": [
+          {
+            "char": "Joe Cannon"
+          }
+        ]
+      },
+      {
+        "name": "Chilton Crane",
+        "nm": 186322,
+        "roles": [
+          {
+            "char": "Mary Peterson"
+          }
+        ]
+      },
+      {
+        "name": "Michael LaRochelle",
+        "nm": 1851083,
+        "roles": [
+          {
+            "char": "John Peterson"
+          }
+        ]
+      },
+      {
+        "name": "Richard Lautsch",
+        "nm": 491634,
+        "roles": [
+          {
+            "char": "Buyer"
+          }
+        ]
+      },
+      {
+        "name": "Dwight McFee",
+        "nm": 568847,
+        "roles": [
+          {
+            "char": "Smith"
+          }
+        ]
+      },
+      {
+        "name": "Michael Philip",
+        "nm": 679950,
+        "roles": [
+          {
+            "char": "Mitch Cannon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E17",
+    "title": "The Cost of Peace",
+    "tt": 711287,
+    "air_date": "1993-02-27",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Ken Camroux",
+        "nm": 133400,
+        "roles": [
+          {
+            "char": "Sgt. Robert Martin"
+          }
+        ]
+      },
+      {
+        "name": "Alfonso Quijada",
+        "nm": 703544,
+        "roles": [
+          {
+            "char": "Clavo",
+            "ch": 99526
+          }
+        ]
+      },
+      {
+        "name": "Christopher Racasa",
+        "nm": 705037,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Maria Rangel",
+        "nm": 710085,
+        "roles": [
+          {
+            "char": "Andrea"
+          }
+        ]
+      },
+      {
+        "name": "Paulo Ribeiro",
+        "nm": 722920,
+        "roles": [
+          {
+            "char": "Rico"
+          }
+        ]
+      },
+      {
+        "name": "Tony Sagastizado I",
+        "nm": 756022,
+        "roles": [
+          {
+            "char": "Javier"
+          }
+        ]
+      },
+      {
+        "name": "Joe Wandell",
+        "nm": 910768,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E18",
+    "title": "Countdown",
+    "tt": 711257,
+    "air_date": "1993-03-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Charles Andre",
+        "nm": 28136,
+        "roles": [
+          {
+            "char": "Frank"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Arthurs",
+        "nm": 37856,
+        "roles": [
+          {
+            "char": "Jack"
+          }
+        ]
+      },
+      {
+        "name": "Alex Bruhanski",
+        "nm": 115813,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John Dadey",
+        "nm": 196601,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "Judy Reyes",
+        "nm": 721332,
+        "roles": [
+          {
+            "char": "Jody"
+          }
+        ]
+      },
+      {
+        "name": "Sonny Surowiec",
+        "nm": 839709,
+        "roles": [
+          {
+            "char": "Bo"
+          }
+        ]
+      },
+      {
+        "name": "Bo Svenson",
+        "nm": 4149,
+        "roles": [
+          {
+            "char": "Captain Stryker"
+          }
+        ]
+      },
+      {
+        "name": "Steven Williams",
+        "nm": 931736,
+        "roles": [
+          {
+            "char": "Tyson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E19",
+    "title": "Hello... Again",
+    "tt": 711267,
+    "air_date": "1993-05-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Alex Datcher",
+        "nm": 202131,
+        "roles": [
+          {
+            "char": "Lynn Kirkwood"
+          }
+        ]
+      },
+      {
+        "name": "Billie Dobereiner",
+        "nm": 1561484,
+        "roles": [
+          {
+            "char": "Baby Robin Kirkwood"
+          }
+        ]
+      },
+      {
+        "name": "Melanie Nicholls-King",
+        "nm": 629517,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "David Palffy",
+        "nm": 657640,
+        "roles": [
+          {
+            "char": "Det. Michael Ritter"
+          }
+        ]
+      },
+      {
+        "name": "Brent Stait",
+        "nm": 821609,
+        "roles": [
+          {
+            "char": "Scott"
+          }
+        ]
+      },
+      {
+        "name": "John Tench",
+        "nm": 854900,
+        "roles": [
+          {
+            "char": "Smith"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E20",
+    "title": "The Wall",
+    "tt": 711290,
+    "air_date": "1993-05-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "April Banigan",
+        "nm": 1850881,
+        "roles": [
+          {
+            "char": "Helen"
+          }
+        ]
+      },
+      {
+        "name": "Jim Byrnes",
+        "nm": 126325,
+        "roles": [
+          {
+            "char": "The Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Dean Haglund",
+        "nm": 353750,
+        "roles": [
+          {
+            "char": "Junkie"
+          }
+        ]
+      },
+      {
+        "name": "Travis MacDonald",
+        "nm": 531960,
+        "roles": [
+          {
+            "char": "Donnie Ellis"
+          }
+        ]
+      },
+      {
+        "name": "Sheri D. Wilson",
+        "nm": 934137,
+        "roles": [
+          {
+            "char": "Ruth Ellis"
+          }
+        ]
+      },
+      {
+        "name": "Amy Yasbeck",
+        "nm": 1865,
+        "roles": [
+          {
+            "char": "Nancy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E21",
+    "title": "My Brother's Keeper",
+    "tt": 711276,
+    "air_date": "1993-05-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Jay Brazeau",
+        "nm": 106319,
+        "roles": [
+          {
+            "char": "Sheriff Andy"
+          }
+        ]
+      },
+      {
+        "name": "Alex Diakun",
+        "nm": 224477,
+        "roles": [
+          {
+            "char": "Ricky"
+          }
+        ]
+      },
+      {
+        "name": "Aaron Joseph",
+        "nm": 430530,
+        "roles": [
+          {
+            "char": "Runaway"
+          }
+        ]
+      },
+      {
+        "name": "Earl Pastko",
+        "nm": 664387,
+        "roles": [
+          {
+            "char": "Deputy Otis"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Robbins",
+        "nm": 730303,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Craig Shoemaker",
+        "nm": 794705,
+        "roles": [
+          {
+            "char": "Ben"
+          }
+        ]
+      },
+      {
+        "name": "William S. Taylor",
+        "nm": 853335,
+        "roles": [
+          {
+            "char": "Bobby",
+            "ch": 233706
+          }
+        ]
+      },
+      {
+        "name": "Kevin Williams",
+        "nm": 931069,
+        "roles": [
+          {
+            "char": "Curtis Beaudreaux"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E22",
+    "title": "Desperate",
+    "tt": 711262,
+    "air_date": "1993-05-29",
+    "description": null,
+    "cast": [
+      {
+        "name": "Carl Weathers",
+        "nm": 1835,
+        "roles": [
+          {
+            "char": "Adam Beaudreaux",
+            "ch": 75706
+          }
+        ]
+      },
+      {
+        "name": "Bryan Genesse",
+        "nm": 312768,
+        "roles": [
+          {
+            "char": "Grady Jameson",
+            "ch": 99520
+          }
+        ]
+      },
+      {
+        "name": "Charlene Fernetz",
+        "nm": 273127,
+        "roles": [
+          {
+            "char": "Malloy"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Chong",
+        "nm": 159059,
+        "roles": [
+          {
+            "char": "Miguel Mendez",
+            "ch": 99521
+          }
+        ]
+      },
+      {
+        "name": "Jasper Cole",
+        "nm": 170594,
+        "roles": [
+          {
+            "char": "Steve"
+          }
+        ]
+      },
+      {
+        "name": "Tamsin Kelsey",
+        "nm": 447064,
+        "roles": [
+          {
+            "char": "A.D.A. Specter"
+          }
+        ]
+      },
+      {
+        "name": "Kathy Long",
+        "nm": 519054,
+        "roles": [
+          {
+            "char": "Lisa J Hansen"
+          }
+        ]
+      },
+      {
+        "name": "Kevin McNulty",
+        "nm": 574081,
+        "roles": [
+          {
+            "char": "Special Agent Simpson"
+          }
+        ]
+      },
+      {
+        "name": "Rob Morton",
+        "nm": 608080,
+        "roles": [
+          {
+            "char": "Kincaid"
+          }
+        ]
+      },
+      {
+        "name": "Benjamin Ratner",
+        "nm": 711838,
+        "roles": [
+          {
+            "char": "Sylvan"
+          }
+        ]
+      },
+      {
+        "name": "Don Thompson",
+        "nm": 860065,
+        "roles": [
+          {
+            "char": "Samuelson"
+          }
+        ]
+      }
+    ]
+  }
+]

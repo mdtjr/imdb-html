@@ -1,0 +1,936 @@
+[
+  {
+    "se": "S01E00",
+    "title": "Pilot",
+    "tt": 76421,
+    "air_date": "1977-06-20",
+    "description": "A high school football coach and his wife are struggling to raise their three children, and must suddenly take in four more children when his sister and her husband are killed in a plane crash.",
+    "cast": [
+      {
+        "name": "Lawrence Pressman",
+        "nm": 696303,
+        "roles": [
+          {
+            "char": "Michael Mulligan",
+            "ch": 111000
+          }
+        ]
+      },
+      {
+        "name": "Elinor Donahue",
+        "nm": 231942,
+        "roles": [
+          {
+            "char": "Jane Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Whitaker",
+        "nm": 924278,
+        "roles": [
+          {
+            "char": "Mark Mulligan",
+            "ch": 110998
+          }
+        ]
+      },
+      {
+        "name": "Christopher Ciampa",
+        "nm": 161775,
+        "roles": [
+          {
+            "char": "Adam 'Moose' Freedman"
+          }
+        ]
+      },
+      {
+        "name": "K.C. Martel",
+        "nm": 551502,
+        "roles": [
+          {
+            "char": "Jimmy Mulligan",
+            "ch": 110999
+          }
+        ]
+      },
+      {
+        "name": "Julie Anne Haddock",
+        "nm": 352718,
+        "roles": [
+          {
+            "char": "Melinda Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Crough",
+        "nm": 189476,
+        "roles": [
+          {
+            "char": "Stevie Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Lory Walsh",
+        "nm": 462503,
+        "roles": [
+          {
+            "char": "Polaris 'Polly' Freedman",
+            "as Lory Kochheim": true
+          }
+        ]
+      },
+      {
+        "name": "Sunshine Lee",
+        "nm": 6531599,
+        "roles": [
+          {
+            "char": "Kimmy Nguyen Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Alex Karras",
+        "nm": 440090,
+        "roles": [
+          {
+            "char": "Mr. Hollenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Timko",
+        "nm": 863610,
+        "roles": [
+          {
+            "char": "Matt Hollenbeck"
+          }
+        ]
+      },
+      {
+        "name": "Zandor Taylor",
+        "nm": 853356,
+        "roles": [
+          {
+            "char": "Zandor"
+          }
+        ]
+      },
+      {
+        "name": "Jaime Pola",
+        "nm": 688763,
+        "roles": [
+          {
+            "char": "Polo"
+          }
+        ]
+      },
+      {
+        "name": "Katy Kurtzman",
+        "nm": 476070,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "David Jolliffe",
+        "nm": 427174,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jamie Silvani",
+        "nm": 798573,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Adam Gunn",
+        "nm": 348148,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Steve Butts",
+        "nm": 125453,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Pamela Serpe",
+        "nm": 785341,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Lynn Holly",
+        "nm": 391409,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sally Marr",
+        "nm": 550022,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Paul Lambert",
+        "nm": 483279,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E01",
+    "title": "Biggest Mansion",
+    "tt": 652681,
+    "air_date": "1977-10-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christopher Ciampa",
+        "nm": 161775,
+        "roles": [
+          {
+            "char": "Adam 'Moose' Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Crough",
+        "nm": 189476,
+        "roles": [
+          {
+            "char": "Stevie Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Gigi De Montford",
+        "nm": 1912815,
+        "roles": [
+          {
+            "char": "Katie"
+          }
+        ]
+      },
+      {
+        "name": "Elinor Donahue",
+        "nm": 231942,
+        "roles": [
+          {
+            "char": "Jane Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Doran",
+        "nm": 233380,
+        "roles": [
+          {
+            "char": "Mark Mulligan",
+            "ch": 110998
+          }
+        ]
+      },
+      {
+        "name": "Julie Anne Haddock",
+        "nm": 352718,
+        "roles": [
+          {
+            "char": "Melinda Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Labyorteaux",
+        "nm": 479612,
+        "roles": [
+          {
+            "char": "Duane"
+          }
+        ]
+      },
+      {
+        "name": "Rae Sunshine Lee",
+        "nm": 498314,
+        "roles": [
+          {
+            "char": "Kimmy Nguyen Freedman",
+            "as Sunshine Lee": true
+          }
+        ]
+      },
+      {
+        "name": "K.C. Martel",
+        "nm": 551502,
+        "roles": [
+          {
+            "char": "Jimmy Mulligan",
+            "ch": 110999
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Pressman",
+        "nm": 696303,
+        "roles": [
+          {
+            "char": "Michael Mulligan",
+            "ch": 111000
+          }
+        ]
+      },
+      {
+        "name": "Lory Walsh",
+        "nm": 462503,
+        "roles": [
+          {
+            "char": "Polaris 'Polly' Freedman",
+            "as Lory Kochheim": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Melinda Special",
+    "tt": 652683,
+    "air_date": "1977-11-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Jaime Alba",
+        "nm": 16172,
+        "roles": [
+          {
+            "char": "Polo"
+          }
+        ]
+      },
+      {
+        "name": "Charles Bloom",
+        "nm": 89145,
+        "roles": [
+          {
+            "char": "McGinnis"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Ciampa",
+        "nm": 161775,
+        "roles": [
+          {
+            "char": "Adam 'Moose' Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Crough",
+        "nm": 189476,
+        "roles": [
+          {
+            "char": "Stevie Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Elinor Donahue",
+        "nm": 231942,
+        "roles": [
+          {
+            "char": "Jane Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Doran",
+        "nm": 233380,
+        "roles": [
+          {
+            "char": "Mark Mulligan",
+            "ch": 110998
+          }
+        ]
+      },
+      {
+        "name": "Jon Gries",
+        "nm": 340973,
+        "roles": [
+          {
+            "char": "Adams"
+          }
+        ]
+      },
+      {
+        "name": "Julie Anne Haddock",
+        "nm": 352718,
+        "roles": [
+          {
+            "char": "Melinda Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Mark Lambert",
+        "nm": 483251,
+        "roles": [
+          {
+            "char": "Denny"
+          }
+        ]
+      },
+      {
+        "name": "Rae Sunshine Lee",
+        "nm": 498314,
+        "roles": [
+          {
+            "char": "Kimmy Nguyen Freedman",
+            "as Sunshine Lee": true
+          }
+        ]
+      },
+      {
+        "name": "K.C. Martel",
+        "nm": 551502,
+        "roles": [
+          {
+            "char": "Jimmy Mulligan",
+            "ch": 110999
+          }
+        ]
+      },
+      {
+        "name": "Steve Nevil",
+        "nm": 627414,
+        "roles": [
+          {
+            "char": "Maynard"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Pressman",
+        "nm": 696303,
+        "roles": [
+          {
+            "char": "Michael Mulligan",
+            "ch": 111000
+          }
+        ]
+      },
+      {
+        "name": "Lory Walsh",
+        "nm": 462503,
+        "roles": [
+          {
+            "char": "Polaris 'Polly' Freedman",
+            "as Lory Kochheim": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "A New Grandpa",
+    "tt": 652679,
+    "air_date": "1977-11-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "William Bogert",
+        "nm": 91722,
+        "roles": [
+          {
+            "char": "Stevenson"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Ciampa",
+        "nm": 161775,
+        "roles": [
+          {
+            "char": "Adam 'Moose' Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Crough",
+        "nm": 189476,
+        "roles": [
+          {
+            "char": "Stevie Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Elinor Donahue",
+        "nm": 231942,
+        "roles": [
+          {
+            "char": "Jane Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Doran",
+        "nm": 233380,
+        "roles": [
+          {
+            "char": "Mark Mulligan",
+            "ch": 110998
+          }
+        ]
+      },
+      {
+        "name": "Richard Gautier",
+        "nm": 310370,
+        "roles": [
+          {
+            "char": "Dempsey",
+            "as Dick Gautier": true
+          }
+        ]
+      },
+      {
+        "name": "Julie Anne Haddock",
+        "nm": 352718,
+        "roles": [
+          {
+            "char": "Melinda Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "David Jolliffe",
+        "nm": 427174,
+        "roles": [
+          {
+            "char": "Boots Greeley"
+          }
+        ]
+      },
+      {
+        "name": "Katy Kurtzman",
+        "nm": 476070,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rae Sunshine Lee",
+        "nm": 498314,
+        "roles": [
+          {
+            "char": "Kimmy Nguyen Freedman",
+            "as Sunshine Lee": true
+          }
+        ]
+      },
+      {
+        "name": "Dave Madden",
+        "nm": 534573,
+        "roles": [
+          {
+            "char": "Elliot"
+          }
+        ]
+      },
+      {
+        "name": "K.C. Martel",
+        "nm": 551502,
+        "roles": [
+          {
+            "char": "Jimmy Mulligan",
+            "ch": 110999
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Pressman",
+        "nm": 696303,
+        "roles": [
+          {
+            "char": "Michael Mulligan",
+            "ch": 111000
+          }
+        ]
+      },
+      {
+        "name": "Lory Walsh",
+        "nm": 462503,
+        "roles": [
+          {
+            "char": "Polaris 'Polly' Freedman",
+            "as Lory Kochheim": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Little Grey Bird",
+    "tt": 652682,
+    "air_date": "1977-11-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "John David Carson",
+        "nm": 141268,
+        "roles": [
+          {
+            "char": "Tom D'Andrea"
+          }
+        ]
+      },
+      {
+        "name": "Christopher Ciampa",
+        "nm": 161775,
+        "roles": [
+          {
+            "char": "Adam 'Moose' Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Crough",
+        "nm": 189476,
+        "roles": [
+          {
+            "char": "Stevie Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Elinor Donahue",
+        "nm": 231942,
+        "roles": [
+          {
+            "char": "Jane Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Doran",
+        "nm": 233380,
+        "roles": [
+          {
+            "char": "Mark Mulligan",
+            "ch": 110998
+          }
+        ]
+      },
+      {
+        "name": "Julie Anne Haddock",
+        "nm": 352718,
+        "roles": [
+          {
+            "char": "Melinda Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Rae Sunshine Lee",
+        "nm": 498314,
+        "roles": [
+          {
+            "char": "Kimmy Nguyen Freedman",
+            "as Sunshine Lee": true
+          }
+        ]
+      },
+      {
+        "name": "Jon Locke",
+        "nm": 516759,
+        "roles": [
+          {
+            "char": "Sergeant Spelling"
+          }
+        ]
+      },
+      {
+        "name": "K.C. Martel",
+        "nm": 551502,
+        "roles": [
+          {
+            "char": "Jimmy Mulligan",
+            "ch": 110999
+          }
+        ]
+      },
+      {
+        "name": "Marc McClure",
+        "nm": 566013,
+        "roles": [
+          {
+            "char": "Arthur"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Pressman",
+        "nm": 696303,
+        "roles": [
+          {
+            "char": "Michael Mulligan",
+            "ch": 111000
+          }
+        ]
+      },
+      {
+        "name": "Lory Walsh",
+        "nm": 462503,
+        "roles": [
+          {
+            "char": "Polaris 'Polly' Freedman",
+            "as Lory Kochheim": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Ah, Wilderness",
+    "tt": 652680,
+    "air_date": "1977-12-06",
+    "description": null,
+    "cast": [
+      {
+        "name": "Thomas Babson",
+        "nm": 45057,
+        "roles": [
+          {
+            "char": "Paramedic",
+            "as Thomas W. Babson": true
+          }
+        ]
+      },
+      {
+        "name": "Christopher Ciampa",
+        "nm": 161775,
+        "roles": [
+          {
+            "char": "Adam 'Moose' Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Crough",
+        "nm": 189476,
+        "roles": [
+          {
+            "char": "Stevie Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Elinor Donahue",
+        "nm": 231942,
+        "roles": [
+          {
+            "char": "Jane Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Doran",
+        "nm": 233380,
+        "roles": [
+          {
+            "char": "Mark Mulligan",
+            "ch": 110998
+          }
+        ]
+      },
+      {
+        "name": "Steve Eastin",
+        "nm": 247611,
+        "roles": [
+          {
+            "char": "Ranger"
+          }
+        ]
+      },
+      {
+        "name": "Julie Anne Haddock",
+        "nm": 352718,
+        "roles": [
+          {
+            "char": "Melinda Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Rae Sunshine Lee",
+        "nm": 498314,
+        "roles": [
+          {
+            "char": "Kimmy Nguyen Freedman",
+            "as Sunshine Lee": true
+          }
+        ]
+      },
+      {
+        "name": "K.C. Martel",
+        "nm": 551502,
+        "roles": [
+          {
+            "char": "Jimmy Mulligan",
+            "ch": 110999
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Pressman",
+        "nm": 696303,
+        "roles": [
+          {
+            "char": "Michael Mulligan",
+            "ch": 111000
+          }
+        ]
+      },
+      {
+        "name": "Lory Walsh",
+        "nm": 462503,
+        "roles": [
+          {
+            "char": "Polaris 'Polly' Freedman",
+            "as Lory Kochheim": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Winning the Big Ones",
+    "tt": 652684,
+    "air_date": "1977-12-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Christopher Ciampa",
+        "nm": 161775,
+        "roles": [
+          {
+            "char": "Adam 'Moose' Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Crough",
+        "nm": 189476,
+        "roles": [
+          {
+            "char": "Stevie Freedman"
+          }
+        ]
+      },
+      {
+        "name": "Elinor Donahue",
+        "nm": 231942,
+        "roles": [
+          {
+            "char": "Jane Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Johnny Doran",
+        "nm": 233380,
+        "roles": [
+          {
+            "char": "Mark Mulligan",
+            "ch": 110998
+          }
+        ]
+      },
+      {
+        "name": "Julie Anne Haddock",
+        "nm": 352718,
+        "roles": [
+          {
+            "char": "Melinda Mulligan"
+          }
+        ]
+      },
+      {
+        "name": "Rae Sunshine Lee",
+        "nm": 498314,
+        "roles": [
+          {
+            "char": "Kimmy Nguyen Freedman",
+            "as Sunshine Lee": true
+          }
+        ]
+      },
+      {
+        "name": "Todd Lookinland",
+        "nm": 519656,
+        "roles": [
+          {
+            "char": "Gary"
+          }
+        ]
+      },
+      {
+        "name": "K.C. Martel",
+        "nm": 551502,
+        "roles": [
+          {
+            "char": "Jimmy Mulligan",
+            "ch": 110999
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Pressman",
+        "nm": 696303,
+        "roles": [
+          {
+            "char": "Michael Mulligan",
+            "ch": 111000
+          }
+        ]
+      },
+      {
+        "name": "Christopher Stone",
+        "nm": 831791,
+        "roles": [
+          {
+            "char": "Brian"
+          }
+        ]
+      },
+      {
+        "name": "Lory Walsh",
+        "nm": 462503,
+        "roles": [
+          {
+            "char": "Polaris 'Polly' Freedman",
+            "as Lory Kochheim": true
+          }
+        ]
+      }
+    ]
+  }
+]

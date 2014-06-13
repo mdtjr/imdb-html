@@ -1,0 +1,4006 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Fallen Nation",
+    "tt": 718651,
+    "air_date": "1997-10-09",
+    "description": "Team Knight Rider stops a US General's plans to take over the country by destroying a nuclear missile aimed at Washington D.C. before it enters the earth's atmosphere.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Conrad Bachmann",
+        "nm": 45497,
+        "roles": [
+          {
+            "char": "General Stephen Butler"
+          }
+        ]
+      },
+      {
+        "name": "Cheryl Carter",
+        "nm": 141526,
+        "roles": [
+          {
+            "char": "Marine Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Douglas Fisher",
+        "nm": 279466,
+        "roles": [
+          {
+            "char": "James the Butler"
+          }
+        ]
+      },
+      {
+        "name": "Penny Griego",
+        "nm": 340921,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Tiiu Leek",
+        "nm": 498634,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Paul Michael",
+        "nm": 584185,
+        "roles": [
+          {
+            "char": "Lieutenant Mark Davis"
+          }
+        ]
+      },
+      {
+        "name": "Jonas Morales",
+        "nm": 602643,
+        "roles": [
+          {
+            "char": "Davis' Driver"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Magnificent T.K.R.",
+    "tt": 718665,
+    "air_date": "1997-10-16",
+    "description": "When a former French government official, Jean-Claude Laval, steals a top-secret device form the US government, Team Knight Rider must follow him into a Mexican town to recover it.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Roger Callard",
+        "nm": 130320,
+        "roles": [
+          {
+            "char": "Driver"
+          }
+        ]
+      },
+      {
+        "name": "David Q. Combs",
+        "nm": 173641,
+        "roles": [
+          {
+            "char": "FBI Agent Daniel Waldo",
+            "as David Combs": true
+          }
+        ]
+      },
+      {
+        "name": "Aymara De Llano",
+        "nm": 209803,
+        "roles": [
+          {
+            "char": "Maria"
+          }
+        ]
+      },
+      {
+        "name": "Russell Gannon",
+        "nm": 301041,
+        "roles": [
+          {
+            "char": "Desperado #2"
+          }
+        ]
+      },
+      {
+        "name": "Alan Gelfant",
+        "nm": 312297,
+        "roles": [
+          {
+            "char": "Jean-Claude Laval"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Hayden",
+        "nm": 370729,
+        "roles": [
+          {
+            "char": "Desperado #1"
+          }
+        ]
+      },
+      {
+        "name": "Pete Leal",
+        "nm": 495090,
+        "roles": [
+          {
+            "char": "Pablo"
+          }
+        ]
+      },
+      {
+        "name": "Noon Orsatti",
+        "nm": 650687,
+        "roles": [
+          {
+            "char": "Desperado #3"
+          }
+        ]
+      },
+      {
+        "name": "Rick Smith",
+        "nm": 1643128,
+        "roles": [
+          {
+            "char": "Desperado #4"
+          }
+        ]
+      },
+      {
+        "name": "Rick Smith",
+        "nm": 1814333,
+        "roles": [
+          {
+            "char": "Desperado #4"
+          }
+        ]
+      },
+      {
+        "name": "Abraham Verduzco",
+        "nm": 893927,
+        "roles": [
+          {
+            "char": "Jesus"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "The 'A' List",
+    "tt": 718660,
+    "air_date": "1997-10-23",
+    "description": "Trek and Erica go undercover and discover that a corporate giant is responsible for brainwashing and killing some of the world's leading technological geniuses.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Bill Bishop",
+        "nm": 83993,
+        "roles": [
+          {
+            "char": "Engineer"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Bowen",
+        "nm": 100832,
+        "roles": [
+          {
+            "char": "Scientist"
+          }
+        ]
+      },
+      {
+        "name": "Chris Cote",
+        "nm": 182775,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Thomas Dewier",
+        "nm": 223172,
+        "roles": [
+          {
+            "char": "Rieley",
+            "as Tom Dewier": true
+          }
+        ]
+      },
+      {
+        "name": "Dennis Howard",
+        "nm": 397243,
+        "roles": [
+          {
+            "char": "Gene Duncan"
+          }
+        ]
+      },
+      {
+        "name": "Brian La Rosa",
+        "nm": 478953,
+        "roles": [
+          {
+            "char": "Jimmy the Valet"
+          }
+        ]
+      },
+      {
+        "name": "George Murdock",
+        "nm": 613787,
+        "roles": [
+          {
+            "char": "Bowman"
+          }
+        ]
+      },
+      {
+        "name": "Monika Schnarre",
+        "nm": 773635,
+        "roles": [
+          {
+            "char": "Dr. Magda Matleonski",
+            "as Monika Schnarr": true
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "K.R.O.",
+    "tt": 718654,
+    "air_date": "1997-10-30",
+    "description": "TKR is called in to stop a deranged Knight Foundation Ferrari sports car that escaped while being transported to Maryland Industries for reprogramming.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "William Bumiller",
+        "nm": 120301,
+        "roles": [
+          {
+            "char": "James Marland",
+            "as Bill Bumiller": true
+          }
+        ]
+      },
+      {
+        "name": "Alan Coates",
+        "nm": 167607,
+        "roles": [
+          {
+            "char": "Martin Jantzen"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Frankel",
+        "nm": 1316537,
+        "roles": [
+          {
+            "char": "Secret Service Agent"
+          }
+        ]
+      },
+      {
+        "name": "Bruce French",
+        "nm": 294050,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "John B. Wells",
+        "nm": 920278,
+        "roles": [
+          {
+            "char": "K.R.O.",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Inside Traitor",
+    "tt": 718653,
+    "air_date": "1997-11-06",
+    "description": "When Erica goes undercover with an elite group of thieves, Team Knight Rider questions her loyalty to F.L.A.G.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Newell Alexander",
+        "nm": 18646,
+        "roles": [
+          {
+            "char": "F.L.A.G. Officer",
+            "ch": 81212
+          }
+        ]
+      },
+      {
+        "name": "Shawn Christian",
+        "nm": 160085,
+        "roles": [
+          {
+            "char": "Adam Galbreth"
+          }
+        ]
+      },
+      {
+        "name": "David McCallum",
+        "nm": 564724,
+        "roles": [
+          {
+            "char": "Mobius",
+            "ch": 67964
+          }
+        ]
+      },
+      {
+        "name": "Kahlil G. Sabbagh",
+        "nm": 754616,
+        "roles": [
+          {
+            "char": "Chad Jamal",
+            "as Kahlil Sabbagh": true
+          }
+        ]
+      },
+      {
+        "name": "Buckley Sampson",
+        "nm": 1817778,
+        "roles": [
+          {
+            "char": "Chelsea O'Reilley"
+          }
+        ]
+      },
+      {
+        "name": "Craig Tsuyumine",
+        "nm": 850795,
+        "roles": [
+          {
+            "char": "Akito Hiroshi"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Choctaw L-9",
+    "tt": 718647,
+    "air_date": "1997-11-13",
+    "description": "Team Knight Rider must recover the stolen Choctaw L-9, the government's latest war bird. In the process, Kyle is suspended as the team leader and the rest of the team must work to clear his name while outsmarting their new leader, FBI agent Kobak.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Newell Alexander",
+        "nm": 18646,
+        "roles": [
+          {
+            "char": "F.L.A.G. Officer",
+            "ch": 81212
+          }
+        ]
+      },
+      {
+        "name": "Jesse Corti",
+        "nm": 181425,
+        "roles": [
+          {
+            "char": "Maddox"
+          }
+        ]
+      },
+      {
+        "name": "David Cowgill",
+        "nm": 184748,
+        "roles": [
+          {
+            "char": "Special Agent Kobak"
+          }
+        ]
+      },
+      {
+        "name": "Doug Cox",
+        "nm": 185003,
+        "roles": [
+          {
+            "char": "Keith"
+          }
+        ]
+      },
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Shadow",
+            "ch": 108875
+          }
+        ]
+      },
+      {
+        "name": "Steven Kriozere",
+        "nm": 471386,
+        "roles": [
+          {
+            "char": "Man in Black"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Riordan",
+        "nm": 727850,
+        "roles": [
+          {
+            "char": "'Judd'"
+          },
+          {
+            "char": "Reid Northmoor"
+          }
+        ]
+      },
+      {
+        "name": "Randy Rudy",
+        "nm": 749042,
+        "roles": [
+          {
+            "char": "Ray"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Everything to Fear",
+    "tt": 718650,
+    "air_date": "1997-11-20",
+    "description": "When Jenny's abducted, the team goes searching for her. Duke and Beast follow her signal and discover the man who grabbed her. The man demands that Duke bring him where he wants to go. He takes away Duke's communicator and they go off carrying a powerful explosive in the back. The team tries to find Jenny and Duke when he doesn't call in.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Anthony Crivello",
+        "nm": 188266,
+        "roles": [
+          {
+            "char": "Linder"
+          }
+        ]
+      },
+      {
+        "name": "Craig Littler",
+        "nm": 514738,
+        "roles": [
+          {
+            "char": "Webster"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Sky One",
+    "tt": 718658,
+    "air_date": "1998-11-27",
+    "description": "Terrorists hijack SkyOne and threaten Team Knight Rider with a deadly gas stolen from the Gulf War.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rick Copp",
+        "nm": 178769,
+        "roles": [
+          {
+            "char": "Clayton, the SkyOne Chef"
+          }
+        ]
+      },
+      {
+        "name": "Lowell Dean",
+        "nm": 212862,
+        "roles": [
+          {
+            "char": "Captain J.P. Wyatt",
+            "ch": 81213
+          }
+        ]
+      },
+      {
+        "name": "Jim Fyfe",
+        "nm": 299474,
+        "roles": [
+          {
+            "char": "Dennis"
+          }
+        ]
+      },
+      {
+        "name": "Brett Miller",
+        "nm": 587990,
+        "roles": [
+          {
+            "char": "Dariam"
+          }
+        ]
+      },
+      {
+        "name": "Brook Susan Parker",
+        "nm": 662096,
+        "roles": [
+          {
+            "char": "Charlotte"
+          }
+        ]
+      },
+      {
+        "name": "Jim Piddock",
+        "nm": 682063,
+        "roles": [
+          {
+            "char": "Max Amendas",
+            "ch": 103396
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "The Iron Maiden",
+    "tt": 718663,
+    "air_date": "1997-12-04",
+    "description": "Team Knight Rider must stop three super powered Exo-Troopers under the control of the evil Starr.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rainer Grant",
+        "nm": 335611,
+        "roles": [
+          {
+            "char": "Starr"
+          }
+        ]
+      },
+      {
+        "name": "Brent Jasmer",
+        "nm": 419209,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Roland Kickinger",
+        "nm": 452199,
+        "roles": [
+          {
+            "char": "Roland",
+            "ch": 81214
+          }
+        ]
+      },
+      {
+        "name": "David McCallum",
+        "nm": 564724,
+        "roles": [
+          {
+            "char": "Mobius",
+            "ch": 67964
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Oil & Water",
+    "tt": 718656,
+    "air_date": "1997-12-11",
+    "description": "When cars begin to spontaneously explode, TKR discovers that it is part of German inventor/artist Otto Bruckheimer's diabolical plot.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Steven Barr",
+        "nm": 56575,
+        "roles": [
+          {
+            "char": "Husband"
+          }
+        ]
+      },
+      {
+        "name": "Andrew Steel",
+        "nm": 824387,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Tom Virtue",
+        "nm": 899487,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Nancy Young",
+        "nm": 1790979,
+        "roles": [
+          {
+            "char": "Viper Girl",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Et Tu Dante",
+    "tt": 718649,
+    "air_date": "1998-01-05",
+    "description": "While Team Knight Rider works to stop a mysterious mad man from bombing local Washington D.C. historical sites, the TKR cars are infected by a virus that makes them turn on their drivers.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rick Copp",
+        "nm": 178769,
+        "roles": [
+          {
+            "char": "Clayton, the SkyOne Chef"
+          }
+        ]
+      },
+      {
+        "name": "Jim Fyfe",
+        "nm": 299474,
+        "roles": [
+          {
+            "char": "Dennis"
+          }
+        ]
+      },
+      {
+        "name": "David McCallum",
+        "nm": 564724,
+        "roles": [
+          {
+            "char": "Mobius",
+            "ch": 67964
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "The Bad Seed",
+    "tt": 718661,
+    "air_date": "1998-01-12",
+    "description": "Team Knight Rider must stop Dr. Toma from infecting the world's biggest rivers with the deadly compound he has been making in his secret lab on the island of San Cartega.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Laurie Carrasco",
+        "nm": 140064,
+        "roles": [
+          {
+            "char": "Beautiful Woman #1"
+          }
+        ]
+      },
+      {
+        "name": "Elan Carter",
+        "nm": 141604,
+        "roles": [
+          {
+            "char": "Beautiful Woman #2"
+          }
+        ]
+      },
+      {
+        "name": "Lowell Dean",
+        "nm": 212862,
+        "roles": [
+          {
+            "char": "Captain J.P. Wyatt",
+            "ch": 81213
+          }
+        ]
+      },
+      {
+        "name": "Lucy Goncalves",
+        "nm": 1020084,
+        "roles": [
+          {
+            "char": "Security Officer"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Hobgood",
+        "nm": 387687,
+        "roles": [
+          {
+            "char": "Bather #1"
+          }
+        ]
+      },
+      {
+        "name": "Jim Meskimen",
+        "nm": 2350,
+        "roles": [
+          {
+            "char": "Ned"
+          }
+        ]
+      },
+      {
+        "name": "Marc Silver",
+        "nm": 2510151,
+        "roles": [
+          {
+            "char": "Dan"
+          }
+        ]
+      },
+      {
+        "name": "Vince Waldron",
+        "nm": 1156691,
+        "roles": [
+          {
+            "char": "Gil"
+          }
+        ]
+      },
+      {
+        "name": "Kevin West",
+        "nm": 922182,
+        "roles": [
+          {
+            "char": "Dr. Adam Toma"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "Out of the Past",
+    "tt": 718657,
+    "air_date": "1998-01-19",
+    "description": "Team Knight Rider is shocked when they find out that Kyle is wanted for robbery in South America, and must travel deep into the jungle to locate him and find out the truth.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Rick Copp",
+        "nm": 178769,
+        "roles": [
+          {
+            "char": "Clayton, the SkyOne Chef"
+          }
+        ]
+      },
+      {
+        "name": "Gladise Jiminez",
+        "nm": 5054,
+        "roles": [
+          {
+            "char": "Pilar",
+            "as Gladis Jimenez": true
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Lowe",
+        "nm": 522990,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Sonya Maddox",
+        "nm": 534730,
+        "roles": [
+          {
+            "char": "Minion 2"
+          }
+        ]
+      },
+      {
+        "name": "Rand McClain",
+        "nm": 565618,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vince Waldron",
+        "nm": 1156691,
+        "roles": [
+          {
+            "char": "Gil"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "The Return of Megaman",
+    "tt": 718666,
+    "air_date": "1998-01-26",
+    "description": "A strategic weapon capable of releasing a neutron blast that can wipe out millions is on the loose in New Mexico.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Georg Stanford Brown",
+        "nm": 113617,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Rick Copp",
+        "nm": 178769,
+        "roles": [
+          {
+            "char": "Clayton, the SkyOne Chef"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Del Olmo",
+        "nm": 2795258,
+        "roles": [
+          {
+            "char": "Army Sergeant"
+          }
+        ]
+      },
+      {
+        "name": "Richard Kuhlman",
+        "nm": 474056,
+        "roles": [
+          {
+            "char": "Ken Savage a.k.a. Megaman"
+          }
+        ]
+      },
+      {
+        "name": "George Lazenby",
+        "nm": 493872,
+        "roles": [
+          {
+            "char": "Nigel Davies"
+          }
+        ]
+      },
+      {
+        "name": "Lex Medlin",
+        "nm": 575843,
+        "roles": [
+          {
+            "char": "Bud"
+          }
+        ]
+      },
+      {
+        "name": "Vince Waldron",
+        "nm": 1156691,
+        "roles": [
+          {
+            "char": "Gil"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Angels in Chains",
+    "tt": 718645,
+    "air_date": "1998-02-02",
+    "description": "Jenny has been accused of stealing confidential files and Team Knight Rider must clear her of all charges.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Newell Alexander",
+        "nm": 18646,
+        "roles": [
+          {
+            "char": "F.L.A.G. Officer",
+            "ch": 81212
+          }
+        ]
+      },
+      {
+        "name": "Fran Bennett",
+        "nm": 71754,
+        "roles": [
+          {
+            "char": "Miss Barrett"
+          }
+        ]
+      },
+      {
+        "name": "Rick Copp",
+        "nm": 178769,
+        "roles": [
+          {
+            "char": "Clayton, the SkyOne Chef"
+          }
+        ]
+      },
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Shadow",
+            "ch": 108875
+          }
+        ]
+      },
+      {
+        "name": "Rainer Grant",
+        "nm": 335611,
+        "roles": [
+          {
+            "char": "Starr"
+          }
+        ]
+      },
+      {
+        "name": "Diana Lee Inosanto",
+        "nm": 409262,
+        "roles": [
+          {
+            "char": "Jill"
+          }
+        ]
+      },
+      {
+        "name": "David McCallum",
+        "nm": 564724,
+        "roles": [
+          {
+            "char": "Mobius",
+            "ch": 67964
+          }
+        ]
+      },
+      {
+        "name": "Troy Vincent",
+        "nm": 898779,
+        "roles": [
+          {
+            "char": "Ed"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "The Blonde Woman",
+    "tt": 718662,
+    "air_date": "1998-02-09",
+    "description": "When Team Knight Rider captures who they believe to be the infamous assassin, Eve, they discover it's a man posing as Eve. They must infiltrate an exclusive party to locate the real assassin and identify the man they hold captive before the real Eve kills her next victim.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kabir Bedi",
+        "nm": 1934,
+        "roles": [
+          {
+            "char": "Aristotle Drago"
+          }
+        ]
+      },
+      {
+        "name": "Victor Bevine",
+        "nm": 79782,
+        "roles": [
+          {
+            "char": "Marcus"
+          }
+        ]
+      },
+      {
+        "name": "Tamara Clatterbuck",
+        "nm": 4830,
+        "roles": [
+          {
+            "char": "Andria"
+          }
+        ]
+      },
+      {
+        "name": "Rick Copp",
+        "nm": 178769,
+        "roles": [
+          {
+            "char": "Clayton, the SkyOne Chef"
+          }
+        ]
+      },
+      {
+        "name": "Sonny Marinelli",
+        "nm": 547578,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vince Waldron",
+        "nm": 1156691,
+        "roles": [
+          {
+            "char": "Gil"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "The Ixtafa Affair",
+    "tt": 718664,
+    "air_date": "1998-02-16",
+    "description": "When Jenny encounters an old boyfriend, she discovers that he is being coerced into rescuing a Guatemalan drug lord from a remote mountain top prison.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kristofer Lindquist",
+        "nm": 512114,
+        "roles": [
+          {
+            "char": "Scotty"
+          }
+        ]
+      },
+      {
+        "name": "Tonyo Meléndez",
+        "nm": 577604,
+        "roles": [
+          {
+            "char": "General Navarro"
+          }
+        ]
+      },
+      {
+        "name": "Drew Pillsbury",
+        "nm": 683570,
+        "roles": [
+          {
+            "char": "Matthew Foster"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E18",
+    "title": "Home Away from Home",
+    "tt": 718652,
+    "air_date": "1998-02-23",
+    "description": "When Team Knight Rider loses the infamous hacker Cork Flemming to the KGB, the team must travel to the mysteriously \"perfect\" town of Rockwell, Iowa to locate her.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Janelle Ginestra",
+        "nm": 319966,
+        "roles": [
+          {
+            "char": "Precocious Girl"
+          }
+        ]
+      },
+      {
+        "name": "Michelle Joyner",
+        "nm": 431662,
+        "roles": [
+          {
+            "char": "Mayor Holly Statton"
+          }
+        ]
+      },
+      {
+        "name": "Roz McHenry",
+        "nm": 3816332,
+        "roles": [
+          {
+            "char": "Librarian"
+          }
+        ]
+      },
+      {
+        "name": "Kim Robillard",
+        "nm": 732152,
+        "roles": [
+          {
+            "char": "Sheriff Cassidy"
+          }
+        ]
+      },
+      {
+        "name": "Herman Sinitzyn",
+        "nm": 802433,
+        "roles": [
+          {
+            "char": "KGB Officer Markov"
+          }
+        ]
+      },
+      {
+        "name": "Sadie Stratton",
+        "nm": 470066,
+        "roles": [
+          {
+            "char": "Corky Fleming",
+            "as Sadie Kratzig": true
+          },
+          {
+            "char": "'Captain Zap'",
+            "as Sadie Kratzig": true
+          }
+        ]
+      },
+      {
+        "name": "George Tasudis",
+        "nm": 1128492,
+        "roles": [
+          {
+            "char": "Russian Mob"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E19",
+    "title": "EMP",
+    "tt": 718648,
+    "air_date": "1998-04-27",
+    "description": "A device that can shut down sophisticated electronic equipment is stolen and Team Knight Rider must get it back.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Jim Fyfe",
+        "nm": 299474,
+        "roles": [
+          {
+            "char": "Dennis"
+          }
+        ]
+      },
+      {
+        "name": "Michael Irpino",
+        "nm": 410097,
+        "roles": [
+          {
+            "char": "David"
+          }
+        ]
+      },
+      {
+        "name": "Hap Lawrence",
+        "nm": 492789,
+        "roles": [
+          {
+            "char": "Melvin"
+          }
+        ]
+      },
+      {
+        "name": "Marta Martin",
+        "nm": 19580,
+        "roles": [
+          {
+            "char": "Kaila Gordon"
+          }
+        ]
+      },
+      {
+        "name": "Jay Montalvo",
+        "nm": 598887,
+        "roles": [
+          {
+            "char": "Carlos"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E20",
+    "title": "Apocalypse Maybe",
+    "tt": 718646,
+    "air_date": "1998-05-04",
+    "description": "Team Knight Rider must stop the Reverend Ransom from using his seismic weapon to destroy Las Vegas.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Robert Alan Beuth",
+        "nm": 79612,
+        "roles": [
+          {
+            "char": "Cal Tech Engineer #1",
+            "as Bob Beuth": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Braman",
+        "nm": 104175,
+        "roles": [
+          {
+            "char": "Cal Tech Engineer #2"
+          }
+        ]
+      },
+      {
+        "name": "Stuart Charno",
+        "nm": 153385,
+        "roles": [
+          {
+            "char": "Engineer",
+            "as Stu Charno": true
+          }
+        ]
+      },
+      {
+        "name": "William Christopher",
+        "nm": 160639,
+        "roles": [
+          {
+            "char": "Professor Roykirk",
+            "ch": 105967
+          }
+        ]
+      },
+      {
+        "name": "Rick Copp",
+        "nm": 178769,
+        "roles": [
+          {
+            "char": "Clayton, the SkyOne Chef"
+          }
+        ]
+      },
+      {
+        "name": "Mack Dryden",
+        "nm": 238713,
+        "roles": [
+          {
+            "char": "Bobby Shane"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Kosh",
+        "nm": 467015,
+        "roles": [
+          {
+            "char": "Elder",
+            "as Pam Kosh": true
+          }
+        ]
+      },
+      {
+        "name": "Peter Lavin",
+        "nm": 492092,
+        "roles": [
+          {
+            "char": "Dr. Bryant"
+          }
+        ]
+      },
+      {
+        "name": "Rod McCary",
+        "nm": 565450,
+        "roles": [
+          {
+            "char": "Reverend Ransom"
+          }
+        ]
+      },
+      {
+        "name": "Carol Wade",
+        "nm": 905397,
+        "roles": [
+          {
+            "char": "Strange Woman"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E21",
+    "title": "Spy Girls",
+    "tt": 718659,
+    "air_date": "1998-05-11",
+    "description": "Team Knight Rider must work with a team of three women in order to locate a stolen microfiche and stop the production of a dangerous nerve gas.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Dan Cashman",
+        "nm": 143650,
+        "roles": [
+          {
+            "char": "Fred"
+          }
+        ]
+      },
+      {
+        "name": "Meredith Holcomb",
+        "nm": 1477794,
+        "roles": [
+          {
+            "char": "Josie",
+            "as Meredith Autry": true
+          }
+        ]
+      },
+      {
+        "name": "Myrna Niles",
+        "nm": 632046,
+        "roles": [
+          {
+            "char": "Joan"
+          }
+        ]
+      },
+      {
+        "name": "Roberta Renaud",
+        "nm": 3274252,
+        "roles": [
+          {
+            "char": "Emma"
+          }
+        ]
+      },
+      {
+        "name": "Marcelo Tubert",
+        "nm": 875641,
+        "roles": [
+          {
+            "char": "Bracco"
+          }
+        ]
+      },
+      {
+        "name": "Renee Victor",
+        "nm": 896149,
+        "roles": [
+          {
+            "char": "Rosa"
+          }
+        ]
+      },
+      {
+        "name": "Felicity Waterman",
+        "nm": 913997,
+        "roles": [
+          {
+            "char": "April"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E22",
+    "title": "Legion of Doom",
+    "tt": 718655,
+    "air_date": "1998-05-18",
+    "description": "Team Knight Rider must track down Mobius after he frees several of their enemies out of prison.",
+    "cast": [
+      {
+        "name": "Brixton Karnes",
+        "nm": 439811,
+        "roles": [
+          {
+            "char": "Kyle Stewart",
+            "ch": 23904
+          }
+        ]
+      },
+      {
+        "name": "Christine Steel",
+        "nm": 824399,
+        "roles": [
+          {
+            "char": "Jenny Andrews",
+            "ch": 23902
+          }
+        ]
+      },
+      {
+        "name": "Duane Davis",
+        "nm": 204523,
+        "roles": [
+          {
+            "char": "Duke DePalma",
+            "ch": 23900
+          }
+        ]
+      },
+      {
+        "name": "Kathy Trageser",
+        "nm": 870632,
+        "roles": [
+          {
+            "char": "Erica West",
+            "ch": 23903
+          }
+        ]
+      },
+      {
+        "name": "Nick Wechsler",
+        "nm": 917060,
+        "roles": [
+          {
+            "char": "Kevin \"Trek\" Sanders",
+            "ch": 51758
+          }
+        ]
+      },
+      {
+        "name": "Tom Kane",
+        "nm": 437454,
+        "roles": [
+          {
+            "char": "Dante",
+            "ch": 81211,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Nia Vardalos",
+        "nm": 889522,
+        "roles": [
+          {
+            "char": "Domino",
+            "ch": 289301,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kerrigan Mahan",
+        "nm": 536748,
+        "roles": [
+          {
+            "char": "Beast",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Andrea Hutchman",
+        "nm": 79618,
+        "roles": [
+          {
+            "char": "Kat",
+            "ch": 23905,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "John Kassir",
+        "nm": 440885,
+        "roles": [
+          {
+            "char": "Plato",
+            "ch": 103395,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Frank Farmer",
+        "nm": 267746,
+        "roles": [
+          {
+            "char": "William Key"
+          }
+        ]
+      },
+      {
+        "name": "Eddie L. Fauria",
+        "nm": 1265723,
+        "roles": [
+          {
+            "char": "Ramsey"
+          }
+        ]
+      },
+      {
+        "name": "Steve Forrest",
+        "nm": 2079,
+        "roles": [
+          {
+            "char": "Shadow",
+            "ch": 108875
+          }
+        ]
+      },
+      {
+        "name": "Rainer Grant",
+        "nm": 335611,
+        "roles": [
+          {
+            "char": "Starr"
+          }
+        ]
+      },
+      {
+        "name": "Roland Kickinger",
+        "nm": 452199,
+        "roles": [
+          {
+            "char": "Roland",
+            "ch": 81214
+          }
+        ]
+      },
+      {
+        "name": "Marta Martin",
+        "nm": 19580,
+        "roles": [
+          {
+            "char": "Kaila Gordon"
+          }
+        ]
+      },
+      {
+        "name": "David McCallum",
+        "nm": 564724,
+        "roles": [
+          {
+            "char": "Mobius",
+            "ch": 67964
+          }
+        ]
+      },
+      {
+        "name": "David O'Shea",
+        "nm": 642640,
+        "roles": [
+          {
+            "char": "Dr. Doug Key"
+          }
+        ]
+      },
+      {
+        "name": "Jim Piddock",
+        "nm": 682063,
+        "roles": [
+          {
+            "char": "Max Amendas",
+            "ch": 103396
+          }
+        ]
+      },
+      {
+        "name": "Vince Waldron",
+        "nm": 1156691,
+        "roles": [
+          {
+            "char": "Gil"
+          }
+        ]
+      },
+      {
+        "name": "Don LaFontaine",
+        "nm": 480963,
+        "roles": [
+          {
+            "char": "Opening Narrator",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  }
+]

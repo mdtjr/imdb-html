@@ -1,0 +1,1980 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 578939,
+    "air_date": "1990-08-23",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "Bojesse Christopher",
+        "nm": 160541,
+        "roles": [
+          {
+            "char": "Greaser"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Maynard",
+        "nm": 562763,
+        "roles": [
+          {
+            "char": "Arthur Petrelli",
+            "ch": 393001
+          }
+        ]
+      },
+      {
+        "name": "Tony Nittoli",
+        "nm": 633043,
+        "roles": [
+          {
+            "char": "Skinhead"
+          }
+        ]
+      },
+      {
+        "name": "Alan Rachins",
+        "nm": 705118,
+        "roles": [
+          {
+            "char": "Lawyer Impersonator"
+          }
+        ]
+      },
+      {
+        "name": "Troy Shire",
+        "nm": 794254,
+        "roles": [
+          {
+            "char": "Jock"
+          }
+        ]
+      },
+      {
+        "name": "Gregory D. Smith",
+        "nm": 1002503,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "Suzanne Tara",
+        "nm": 850146,
+        "roles": [
+          {
+            "char": "Surfer Girl"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Tullos",
+        "nm": 876411,
+        "roles": [
+          {
+            "char": "Mr. Rickets",
+            "ch": 112709
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Behind Every Dirtbag",
+    "tt": 578936,
+    "air_date": "1990-09-17",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "James Calvert",
+        "nm": 130808,
+        "roles": [
+          {
+            "char": "Gary Hammerschmidt",
+            "as Jim Calvert": true
+          }
+        ]
+      },
+      {
+        "name": "Melanie MacQueen",
+        "nm": 504057,
+        "roles": [
+          {
+            "char": "Librarian"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Maynard",
+        "nm": 562763,
+        "roles": [
+          {
+            "char": "Arthur Petrelli",
+            "ch": 393001
+          }
+        ]
+      },
+      {
+        "name": "Jerry Tullos",
+        "nm": 876411,
+        "roles": [
+          {
+            "char": "Mr. Rickets",
+            "ch": 112709
+          }
+        ]
+      },
+      {
+        "name": "Matthew Walker",
+        "nm": 908024,
+        "roles": [
+          {
+            "char": "Shred"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Bush",
+        "nm": 124093,
+        "roles": [
+          {
+            "char": "Herself",
+            "archive footage": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Custodian of the People",
+    "tt": 578937,
+    "air_date": "1990-09-24",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "Jim DeMarse",
+        "nm": 1478064,
+        "roles": [
+          {
+            "char": "Mr. Prescott",
+            "as James DeMarse": true
+          }
+        ]
+      },
+      {
+        "name": "Dennis Lipscomb",
+        "nm": 513731,
+        "roles": [
+          {
+            "char": "Janitor Lou"
+          }
+        ]
+      },
+      {
+        "name": "Tai Thai",
+        "nm": 856872,
+        "roles": [
+          {
+            "char": "Noi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Without You I'm Nothing",
+    "tt": 578942,
+    "air_date": "1990-10-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "Chris Claridge",
+        "nm": 163562,
+        "roles": [
+          {
+            "char": "Student"
+          }
+        ]
+      },
+      {
+        "name": "Kenny Eckman",
+        "nm": 248717,
+        "roles": [
+          {
+            "char": "Alex"
+          }
+        ]
+      },
+      {
+        "name": "David Glasser",
+        "nm": 322047,
+        "roles": [
+          {
+            "char": "Dork"
+          }
+        ]
+      },
+      {
+        "name": "Randy Kaplan",
+        "nm": 438353,
+        "roles": [
+          {
+            "char": "Mike"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Maynard",
+        "nm": 562763,
+        "roles": [
+          {
+            "char": "Arthur Petrelli",
+            "ch": 393001
+          }
+        ]
+      },
+      {
+        "name": "Kent Minault",
+        "nm": 590987,
+        "roles": [
+          {
+            "char": "Director"
+          }
+        ]
+      },
+      {
+        "name": "Brandon Rane",
+        "nm": 709977,
+        "roles": [
+          {
+            "char": "Wimp"
+          }
+        ]
+      },
+      {
+        "name": "Kelly Read",
+        "nm": 713842,
+        "roles": [
+          {
+            "char": "Cindy"
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Shaffer",
+        "nm": 787320,
+        "roles": [
+          {
+            "char": "Algebra Teacher"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Between a Rock and Rooney's Place",
+    "tt": 578931,
+    "air_date": "1990-10-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "Michael Ciotti",
+        "nm": 162589,
+        "roles": [
+          {
+            "char": "Stevie"
+          }
+        ]
+      },
+      {
+        "name": "Chris Claridge",
+        "nm": 163562,
+        "roles": [
+          {
+            "char": "Surfer"
+          }
+        ]
+      },
+      {
+        "name": "Linda Karlkin",
+        "nm": 2997226,
+        "roles": [
+          {
+            "char": "Stacy"
+          }
+        ]
+      },
+      {
+        "name": "Tone Loc",
+        "nm": 5159,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Ted Lothrop",
+        "nm": 1589852,
+        "roles": [
+          {
+            "char": "Skutch McGuffin"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Maynard",
+        "nm": 562763,
+        "roles": [
+          {
+            "char": "Arthur Petrelli",
+            "ch": 393001
+          }
+        ]
+      },
+      {
+        "name": "David Sheinkopf",
+        "nm": 790912,
+        "roles": [
+          {
+            "char": "Tony"
+          }
+        ]
+      },
+      {
+        "name": "Tai Thai",
+        "nm": 856872,
+        "roles": [
+          {
+            "char": "Noi"
+          }
+        ]
+      },
+      {
+        "name": "Myra Turley",
+        "nm": 877252,
+        "roles": [
+          {
+            "char": "Miss Connelly"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "A Dog and His Boy",
+    "tt": 578933,
+    "air_date": "1990-10-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "David Glasser",
+        "nm": 322047,
+        "roles": [
+          {
+            "char": "Dork"
+          }
+        ]
+      },
+      {
+        "name": "Mary Gregory",
+        "nm": 339889,
+        "roles": [
+          {
+            "char": "Mrs. Finch"
+          }
+        ]
+      },
+      {
+        "name": "Joe Lerer",
+        "nm": 503514,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Maynard",
+        "nm": 562763,
+        "roles": [
+          {
+            "char": "Arthur Petrelli",
+            "ch": 393001
+          }
+        ]
+      },
+      {
+        "name": "Brandon Rane",
+        "nm": 709977,
+        "roles": [
+          {
+            "char": "Wimp"
+          }
+        ]
+      },
+      {
+        "name": "Micah Rowe",
+        "nm": 746572,
+        "roles": [
+          {
+            "char": "Timmy"
+          }
+        ]
+      },
+      {
+        "name": "Chuck Sloan",
+        "nm": 805941,
+        "roles": [
+          {
+            "char": "Mr. Sugarbaker"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Tullos",
+        "nm": 876411,
+        "roles": [
+          {
+            "char": "Mr. Rickets",
+            "ch": 112709
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Ferris Bueller Can't Win",
+    "tt": 578938,
+    "air_date": "1990-10-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "Anthony Gordon",
+        "nm": 329997,
+        "roles": [
+          {
+            "char": "Geoffrey"
+          }
+        ]
+      },
+      {
+        "name": "Karen Kondazian",
+        "nm": 464875,
+        "roles": [
+          {
+            "char": "Marjorie Ganesha"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Maynard",
+        "nm": 562763,
+        "roles": [
+          {
+            "char": "Arthur Petrelli",
+            "ch": 393001
+          }
+        ]
+      },
+      {
+        "name": "Mary Portser",
+        "nm": 692524,
+        "roles": [
+          {
+            "char": "Ms Reynolds"
+          }
+        ]
+      },
+      {
+        "name": "Dale Raoul",
+        "nm": 710632,
+        "roles": [
+          {
+            "char": "Mrs. Bickel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Sloan Again, Naturally",
+    "tt": 578940,
+    "air_date": "1990-11-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "Frank Birney",
+        "nm": 83712,
+        "roles": [
+          {
+            "char": "Instructor"
+          }
+        ]
+      },
+      {
+        "name": "Robert M. Bouffard",
+        "nm": 99252,
+        "roles": [
+          {
+            "char": "Delinquent"
+          }
+        ]
+      },
+      {
+        "name": "Ellen Bry",
+        "nm": 116885,
+        "roles": [
+          {
+            "char": "Ms. Behlman"
+          }
+        ]
+      },
+      {
+        "name": "Karen Lombardo",
+        "nm": 2368941,
+        "roles": [
+          {
+            "char": "Allison"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Maynard",
+        "nm": 562763,
+        "roles": [
+          {
+            "char": "Arthur Petrelli",
+            "ch": 393001
+          }
+        ]
+      },
+      {
+        "name": "Digger Phelps",
+        "nm": 1099363,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Marco Rufo",
+        "nm": 749360,
+        "roles": [
+          {
+            "char": "Giancarlo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Scenes from a Grandma",
+    "tt": 578932,
+    "air_date": "1990-11-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "Robert M. Bouffard",
+        "nm": 99252,
+        "roles": [
+          {
+            "char": "Delinquent"
+          }
+        ]
+      },
+      {
+        "name": "Chris Claridge",
+        "nm": 163562,
+        "roles": [
+          {
+            "char": "Tim"
+          }
+        ]
+      },
+      {
+        "name": "Cloris Leachman",
+        "nm": 1458,
+        "roles": [
+          {
+            "char": "Grandma Margaret"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Maynard",
+        "nm": 562763,
+        "roles": [
+          {
+            "char": "Arthur Petrelli",
+            "ch": 393001
+          }
+        ]
+      },
+      {
+        "name": "David Powledge",
+        "nm": 694656,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Sean Whalen",
+        "nm": 923490,
+        "roles": [
+          {
+            "char": "Fast-Food Manager"
+          }
+        ]
+      },
+      {
+        "name": "Mark Taormino",
+        "nm": 1742537,
+        "roles": [
+          {
+            "char": "Student",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Greg Watkins",
+        "nm": 914311,
+        "roles": [
+          {
+            "char": "Spike",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Stand-In Deliver",
+    "tt": 578941,
+    "air_date": "1990-11-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "Robert M. Bouffard",
+        "nm": 99252,
+        "roles": [
+          {
+            "char": "Delinquent"
+          }
+        ]
+      },
+      {
+        "name": "David Graf",
+        "nm": 333701,
+        "roles": [
+          {
+            "char": "Officer Peyson"
+          }
+        ]
+      },
+      {
+        "name": "Carla Gugino",
+        "nm": 1303,
+        "roles": [
+          {
+            "char": "Ann Peyson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Baby You Can't Drive My Car",
+    "tt": 578935,
+    "air_date": "1990-12-03",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "Jack Kehler",
+        "nm": 444940,
+        "roles": [
+          {
+            "char": "Mr. Fusco"
+          }
+        ]
+      },
+      {
+        "name": "Dick Martin",
+        "nm": 552189,
+        "roles": [
+          {
+            "char": "Mr. McFarland"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Maynard",
+        "nm": 562763,
+        "roles": [
+          {
+            "char": "Arthur Petrelli",
+            "ch": 393001
+          }
+        ]
+      },
+      {
+        "name": "Danny Nucci",
+        "nm": 1572,
+        "roles": [
+          {
+            "char": "Greg Knecht"
+          }
+        ]
+      },
+      {
+        "name": "Paige Pengra",
+        "nm": 671843,
+        "roles": [
+          {
+            "char": "Annette"
+          }
+        ]
+      },
+      {
+        "name": "Gina August",
+        "nm": 2427873,
+        "roles": [
+          {
+            "char": "Policeman",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "Grace Under Pressure",
+    "tt": 578930,
+    "air_date": "1990-12-16",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "Michael Adler",
+        "nm": 12209,
+        "roles": [
+          {
+            "char": "Fred Worthman"
+          }
+        ]
+      },
+      {
+        "name": "Robert M. Bouffard",
+        "nm": 99252,
+        "roles": [
+          {
+            "char": "Delinquent"
+          }
+        ]
+      },
+      {
+        "name": "David Chemel",
+        "nm": 155115,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Cronin",
+        "nm": 188795,
+        "roles": [
+          {
+            "char": "Superintendent Phil Weldon"
+          }
+        ]
+      },
+      {
+        "name": "Jim DeMarse",
+        "nm": 1478064,
+        "roles": [
+          {
+            "char": "Mr. Tenser",
+            "as James DeMarse": true
+          }
+        ]
+      },
+      {
+        "name": "David Glasser",
+        "nm": 322047,
+        "roles": [
+          {
+            "char": "Dork"
+          }
+        ]
+      },
+      {
+        "name": "Buddy Hackett",
+        "nm": 4983,
+        "roles": [
+          {
+            "char": "Himself"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Maynard",
+        "nm": 562763,
+        "roles": [
+          {
+            "char": "Arthur Petrelli",
+            "ch": 393001
+          }
+        ]
+      },
+      {
+        "name": "Brandon Rane",
+        "nm": 709977,
+        "roles": [
+          {
+            "char": "Wimp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "A Night in the Life",
+    "tt": 578934,
+    "air_date": "1991-08-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Charlie Schlatter",
+        "nm": 772116,
+        "roles": [
+          {
+            "char": "Ferris Bueller",
+            "ch": 5859
+          }
+        ]
+      },
+      {
+        "name": "Richard Riehle",
+        "nm": 726223,
+        "roles": [
+          {
+            "char": "Principal Ed Rooney",
+            "ch": 5860
+          }
+        ]
+      },
+      {
+        "name": "Sam Freed",
+        "nm": 293133,
+        "roles": [
+          {
+            "char": "Bill Bueller",
+            "ch": 5868
+          }
+        ]
+      },
+      {
+        "name": "Jennifer Aniston",
+        "nm": 98,
+        "roles": [
+          {
+            "char": "Jeannie Bueller",
+            "ch": 5858
+          }
+        ]
+      },
+      {
+        "name": "Ami Dolenz",
+        "nm": 371,
+        "roles": [
+          {
+            "char": "Sloan Peterson",
+            "ch": 5861
+          }
+        ]
+      },
+      {
+        "name": "Brandon Douglas",
+        "nm": 234969,
+        "roles": [
+          {
+            "char": "Cameron Frye",
+            "ch": 5863
+          }
+        ]
+      },
+      {
+        "name": "Judith Kahan",
+        "nm": 434668,
+        "roles": [
+          {
+            "char": "Grace",
+            "ch": 80825
+          }
+        ]
+      },
+      {
+        "name": "Cristine Rose",
+        "nm": 4284,
+        "roles": [
+          {
+            "char": "Barbara Bueller",
+            "ch": 5862
+          }
+        ]
+      },
+      {
+        "name": "Steve Artiaga",
+        "nm": 37878,
+        "roles": [
+          {
+            "char": "Hector"
+          }
+        ]
+      },
+      {
+        "name": "Roy Brocksmith",
+        "nm": 110735,
+        "roles": [
+          {
+            "char": "Mr. Carter"
+          }
+        ]
+      },
+      {
+        "name": "Allen Covert",
+        "nm": 184445,
+        "roles": [
+          {
+            "char": "Steve"
+          }
+        ]
+      },
+      {
+        "name": "Arnold Johnson",
+        "nm": 424523,
+        "roles": [
+          {
+            "char": "Grandpa"
+          }
+        ]
+      },
+      {
+        "name": "Valente Rodriguez",
+        "nm": 735538,
+        "roles": [
+          {
+            "char": "Raoul"
+          }
+        ]
+      },
+      {
+        "name": "Al Ruscio",
+        "nm": 750596,
+        "roles": [
+          {
+            "char": "Tony"
+          }
+        ]
+      },
+      {
+        "name": "Robert Schuch",
+        "nm": 775860,
+        "roles": [
+          {
+            "char": "Jimmy"
+          }
+        ]
+      },
+      {
+        "name": "Larron Tate",
+        "nm": 851160,
+        "roles": [
+          {
+            "char": "Mike"
+          }
+        ]
+      }
+    ]
+  }
+]

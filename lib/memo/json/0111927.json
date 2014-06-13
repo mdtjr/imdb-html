@@ -1,0 +1,2185 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Rat Tamer",
+    "tt": 546878,
+    "air_date": "1995-07-26",
+    "description": "Kevin Jones arrives at Blackstream prison beaten, bruised, and suffering from brain damage-a state he wasn't in at his sentencing. Something happened to Kevin during his transfer, and though the prison psychologist tries to help him remember...he can't. But someone at the prison knows Kevin's secrets; and when they meet, a deadly war will be ignited, thrusting the entire prison into a battle of hate and revenge...",
+    "cast": [
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Louisa Correlli",
+            "ch": 166374
+          }
+        ]
+      },
+      {
+        "name": "Hugh Jackman",
+        "nm": 413168,
+        "roles": [
+          {
+            "char": "Kevin Jones",
+            "ch": 140339
+          }
+        ]
+      },
+      {
+        "name": "Sue Jones",
+        "nm": 429299,
+        "roles": [
+          {
+            "char": "Sister Pat"
+          }
+        ]
+      },
+      {
+        "name": "Richard Piper",
+        "nm": 684927,
+        "roles": [
+          {
+            "char": "Sam Melville",
+            "ch": 296405
+          }
+        ]
+      },
+      {
+        "name": "Neil Melville",
+        "nm": 578498,
+        "roles": [
+          {
+            "char": "Governor Jim Sanderson",
+            "ch": 296404
+          }
+        ]
+      },
+      {
+        "name": "John Brumpton",
+        "nm": 115979,
+        "roles": [
+          {
+            "char": "Officer Gilbert",
+            "ch": 355019
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Danielle Correlli"
+          }
+        ]
+      },
+      {
+        "name": "Paul Reardon",
+        "nm": 714137,
+        "roles": [
+          {
+            "char": "Anthony Correlli",
+            "ch": 296406
+          }
+        ]
+      },
+      {
+        "name": "William Zappa",
+        "nm": 953265,
+        "roles": [
+          {
+            "char": "Officer Ben Costa"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Eyre",
+        "nm": 264231,
+        "roles": [
+          {
+            "char": "Officer 'Fatz' Bingham"
+          }
+        ]
+      },
+      {
+        "name": "Anthea Davis",
+        "nm": 204182,
+        "roles": [
+          {
+            "char": "Officer Narelle Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "Robert Morgan",
+        "nm": 604989,
+        "roles": [
+          {
+            "char": "Officer Ross Bannerman",
+            "ch": 375718
+          }
+        ]
+      },
+      {
+        "name": "Tom Considine",
+        "nm": 175922,
+        "roles": [
+          {
+            "char": "Officer Cross"
+          }
+        ]
+      },
+      {
+        "name": "John Atkinson",
+        "nm": 40744,
+        "roles": [
+          {
+            "char": "Officer Reidf"
+          }
+        ]
+      },
+      {
+        "name": "Damien Pree",
+        "nm": 695768,
+        "roles": [
+          {
+            "char": "Officer Mark Bagley",
+            "ch": 375719
+          }
+        ]
+      },
+      {
+        "name": "Andrew Baker",
+        "nm": 2818031,
+        "roles": [
+          {
+            "char": "Officer Ian Wisher"
+          }
+        ]
+      },
+      {
+        "name": "Dana Wong",
+        "nm": 2816846,
+        "roles": [
+          {
+            "char": "Officer David Chan"
+          }
+        ]
+      },
+      {
+        "name": "Nield Schneider",
+        "nm": 773965,
+        "roles": [
+          {
+            "char": "Officer Buttrose",
+            "as Neild Schneider": true
+          }
+        ]
+      },
+      {
+        "name": "Tim Homewood",
+        "nm": 2822563,
+        "roles": [
+          {
+            "char": "Officer Marchman"
+          }
+        ]
+      },
+      {
+        "name": "Jon Concannon",
+        "nm": 174218,
+        "roles": [
+          {
+            "char": "Ian 'Johnno' Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Grant Piro",
+        "nm": 685221,
+        "roles": [
+          {
+            "char": "Toby Miller",
+            "ch": 296403
+          }
+        ]
+      },
+      {
+        "name": "Dan Reaper",
+        "nm": 1772902,
+        "roles": [
+          {
+            "char": "Slug"
+          }
+        ]
+      },
+      {
+        "name": "Suzi Dougherty",
+        "nm": 234885,
+        "roles": [
+          {
+            "char": "Trina"
+          }
+        ]
+      },
+      {
+        "name": "James Ryan",
+        "nm": 752589,
+        "roles": [
+          {
+            "char": "Dean"
+          }
+        ]
+      },
+      {
+        "name": "Doug Bowles",
+        "nm": 101231,
+        "roles": [
+          {
+            "char": "Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Julian Branagan",
+        "nm": 104306,
+        "roles": [
+          {
+            "char": "Downs"
+          }
+        ]
+      },
+      {
+        "name": "Chris Bidlo",
+        "nm": 81208,
+        "roles": [
+          {
+            "char": "Dirt"
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Sutherland",
+        "nm": 2821836,
+        "roles": [
+          {
+            "char": "Blacker"
+          }
+        ]
+      },
+      {
+        "name": "Stan Dryden",
+        "nm": 1507755,
+        "roles": [
+          {
+            "char": "Danny Freeman"
+          }
+        ]
+      },
+      {
+        "name": "Phil Motherwell",
+        "nm": 609345,
+        "roles": [
+          {
+            "char": "Kirby"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Moss",
+        "nm": 2816762,
+        "roles": [
+          {
+            "char": "Baldy"
+          }
+        ]
+      },
+      {
+        "name": "Helen Trenos",
+        "nm": 1112152,
+        "roles": [
+          {
+            "char": "Debbie Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Warwick Begg",
+        "nm": 66723,
+        "roles": [
+          {
+            "char": "Head of Security"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Thorpe",
+        "nm": 4915232,
+        "roles": [
+          {
+            "char": "Denny Freeman's Wife"
+          }
+        ]
+      },
+      {
+        "name": "Natasha Cajkovac",
+        "nm": 2122667,
+        "roles": [
+          {
+            "char": "Slug's Wife"
+          }
+        ]
+      },
+      {
+        "name": "Cherise Donovan",
+        "nm": 232961,
+        "roles": [
+          {
+            "char": "Slug's Daughter"
+          }
+        ]
+      },
+      {
+        "name": "David Le Page",
+        "nm": 494507,
+        "roles": [
+          {
+            "char": "Soggie Co-ordinator"
+          }
+        ]
+      },
+      {
+        "name": "Justin Bechtold",
+        "nm": 2122832,
+        "roles": [
+          {
+            "char": "Prison Guard",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Roman Holiday",
+    "tt": 546880,
+    "air_date": "1995-08-02",
+    "description": "Louisa discovers the truth about Jones, but before she exposes him, she must establish why he chose the path of deceit.",
+    "cast": [
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Louisa Correlli",
+            "ch": 166374
+          }
+        ]
+      },
+      {
+        "name": "Hugh Jackman",
+        "nm": 413168,
+        "roles": [
+          {
+            "char": "Kevin Jones",
+            "ch": 140339
+          }
+        ]
+      },
+      {
+        "name": "Sue Jones",
+        "nm": 429299,
+        "roles": [
+          {
+            "char": "Sister Pat"
+          }
+        ]
+      },
+      {
+        "name": "Richard Piper",
+        "nm": 684927,
+        "roles": [
+          {
+            "char": "Sam Melville",
+            "ch": 296405
+          }
+        ]
+      },
+      {
+        "name": "Neil Melville",
+        "nm": 578498,
+        "roles": [
+          {
+            "char": "Governor Jim Sanderson",
+            "ch": 296404
+          }
+        ]
+      },
+      {
+        "name": "John Brumpton",
+        "nm": 115979,
+        "roles": [
+          {
+            "char": "Officer Gilbert",
+            "ch": 355019
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Danielle Correlli"
+          }
+        ]
+      },
+      {
+        "name": "Paul Reardon",
+        "nm": 714137,
+        "roles": [
+          {
+            "char": "Anthony Correlli",
+            "ch": 296406
+          }
+        ]
+      },
+      {
+        "name": "Alberto Vila",
+        "nm": 897298,
+        "roles": [
+          {
+            "char": "Alfredo"
+          }
+        ]
+      },
+      {
+        "name": "Cecily Polson",
+        "nm": 689850,
+        "roles": [
+          {
+            "char": "Jean"
+          }
+        ]
+      },
+      {
+        "name": "Anthea Davis",
+        "nm": 204182,
+        "roles": [
+          {
+            "char": "Officer Narelle Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "Tom Considine",
+        "nm": 175922,
+        "roles": [
+          {
+            "char": "Officer Cross"
+          }
+        ]
+      },
+      {
+        "name": "John Atkinson",
+        "nm": 1669068,
+        "roles": [
+          {
+            "char": "Officer Reid"
+          }
+        ]
+      },
+      {
+        "name": "Grant Piro",
+        "nm": 685221,
+        "roles": [
+          {
+            "char": "Toby Miller",
+            "ch": 296403
+          }
+        ]
+      },
+      {
+        "name": "Dan Reaper",
+        "nm": 1772902,
+        "roles": [
+          {
+            "char": "Slug"
+          }
+        ]
+      },
+      {
+        "name": "Doug Bowles",
+        "nm": 101231,
+        "roles": [
+          {
+            "char": "Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Julian Branagan",
+        "nm": 104306,
+        "roles": [
+          {
+            "char": "Downs"
+          }
+        ]
+      },
+      {
+        "name": "Terry Kenwrick",
+        "nm": 448964,
+        "roles": [
+          {
+            "char": "Minister"
+          }
+        ]
+      },
+      {
+        "name": "Helen Trenos",
+        "nm": 1112152,
+        "roles": [
+          {
+            "char": "Debbie Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Luke Elliot",
+        "nm": 254275,
+        "roles": [
+          {
+            "char": "Howard Phillips"
+          }
+        ]
+      },
+      {
+        "name": "Penny Schlam",
+        "nm": 772089,
+        "roles": [
+          {
+            "char": "Helen"
+          }
+        ]
+      },
+      {
+        "name": "Neil Foley",
+        "nm": 284206,
+        "roles": [
+          {
+            "char": "Prisoner"
+          }
+        ]
+      },
+      {
+        "name": "Roger O'Conner",
+        "nm": 640218,
+        "roles": [
+          {
+            "char": "Officer Tilse"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Shots in the Dark",
+    "tt": 546882,
+    "air_date": "1995-08-09",
+    "description": "Louisa is confronted by the parallels of life and work when a prisoner, Brett Hodges, little older than her son, Anthony, arrives at the prison. Hodges' attitude problem and naivete make him vulnerable to the drug network.",
+    "cast": [
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Louisa Correlli",
+            "ch": 166374
+          }
+        ]
+      },
+      {
+        "name": "Hugh Jackman",
+        "nm": 413168,
+        "roles": [
+          {
+            "char": "Kevin Jones",
+            "ch": 140339
+          }
+        ]
+      },
+      {
+        "name": "Sue Jones",
+        "nm": 429299,
+        "roles": [
+          {
+            "char": "Sister Pat"
+          }
+        ]
+      },
+      {
+        "name": "Richard Piper",
+        "nm": 684927,
+        "roles": [
+          {
+            "char": "Sam Melville",
+            "ch": 296405
+          }
+        ]
+      },
+      {
+        "name": "John Brumpton",
+        "nm": 115979,
+        "roles": [
+          {
+            "char": "Officer Gilbert",
+            "ch": 355019
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Danielle Correlli"
+          }
+        ]
+      },
+      {
+        "name": "Paul Reardon",
+        "nm": 714137,
+        "roles": [
+          {
+            "char": "Anthony Correlli",
+            "ch": 296406
+          }
+        ]
+      },
+      {
+        "name": "Jonathon Brooks",
+        "nm": 112071,
+        "roles": [
+          {
+            "char": "Brett Hodges"
+          }
+        ]
+      },
+      {
+        "name": "Robert Morgan",
+        "nm": 604989,
+        "roles": [
+          {
+            "char": "Officer Ross Bannerman",
+            "ch": 375718
+          }
+        ]
+      },
+      {
+        "name": "Tom Considine",
+        "nm": 175922,
+        "roles": [
+          {
+            "char": "Officer Cross"
+          }
+        ]
+      },
+      {
+        "name": "Grant Piro",
+        "nm": 685221,
+        "roles": [
+          {
+            "char": "Toby Miller",
+            "ch": 296403
+          }
+        ]
+      },
+      {
+        "name": "Dan Reaper",
+        "nm": 1772902,
+        "roles": [
+          {
+            "char": "Slug"
+          }
+        ]
+      },
+      {
+        "name": "Doug Bowles",
+        "nm": 101231,
+        "roles": [
+          {
+            "char": "Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Julian Branagan",
+        "nm": 104306,
+        "roles": [
+          {
+            "char": "Downs"
+          }
+        ]
+      },
+      {
+        "name": "Phil Motherwell",
+        "nm": 609345,
+        "roles": [
+          {
+            "char": "Kirby"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Moss",
+        "nm": 2816762,
+        "roles": [
+          {
+            "char": "Baldy"
+          }
+        ]
+      },
+      {
+        "name": "Vashti Hughes",
+        "nm": 1785265,
+        "roles": [
+          {
+            "char": "Kerry"
+          }
+        ]
+      },
+      {
+        "name": "Bianca Griffin",
+        "nm": 2731520,
+        "roles": [
+          {
+            "char": "Beck"
+          }
+        ]
+      },
+      {
+        "name": "Natasha Cajkovac",
+        "nm": 2122667,
+        "roles": [
+          {
+            "char": "Slug's Wife"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Solitary",
+    "tt": 546883,
+    "air_date": "1995-08-16",
+    "description": "Officer Helen Buckley joins Blackstream Prison staff, and is unwittingly seduced by Specs Redman, a prisoner who has his own hidden agenda.",
+    "cast": [
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Louisa Correlli",
+            "ch": 166374
+          }
+        ]
+      },
+      {
+        "name": "Hugh Jackman",
+        "nm": 413168,
+        "roles": [
+          {
+            "char": "Kevin Jones",
+            "ch": 140339
+          }
+        ]
+      },
+      {
+        "name": "Sue Jones",
+        "nm": 429299,
+        "roles": [
+          {
+            "char": "Sister Pat"
+          }
+        ]
+      },
+      {
+        "name": "Richard Piper",
+        "nm": 684927,
+        "roles": [
+          {
+            "char": "Sam Melville",
+            "ch": 296405
+          }
+        ]
+      },
+      {
+        "name": "Neil Melville",
+        "nm": 578498,
+        "roles": [
+          {
+            "char": "Governor Jim Sanderson",
+            "ch": 296404
+          }
+        ]
+      },
+      {
+        "name": "John Brumpton",
+        "nm": 115979,
+        "roles": [
+          {
+            "char": "Officer Gilbert",
+            "ch": 355019
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Danielle Correlli"
+          }
+        ]
+      },
+      {
+        "name": "Paul Reardon",
+        "nm": 714137,
+        "roles": [
+          {
+            "char": "Anthony Correlli",
+            "ch": 296406
+          }
+        ]
+      },
+      {
+        "name": "Denise Roberts",
+        "nm": 731011,
+        "roles": [
+          {
+            "char": "Helen Buckley"
+          }
+        ]
+      },
+      {
+        "name": "Bill Young",
+        "nm": 949303,
+        "roles": [
+          {
+            "char": "Dean 'Space' Redman"
+          }
+        ]
+      },
+      {
+        "name": "Gerald Lepkowski",
+        "nm": 503319,
+        "roles": [
+          {
+            "char": "Officer Tyler"
+          }
+        ]
+      },
+      {
+        "name": "Damien Pree",
+        "nm": 695768,
+        "roles": [
+          {
+            "char": "Officer Mark Bagley",
+            "ch": 375719
+          }
+        ]
+      },
+      {
+        "name": "Jonathon Brooks",
+        "nm": 112071,
+        "roles": [
+          {
+            "char": "Brett Hodges"
+          }
+        ]
+      },
+      {
+        "name": "David Glazebrook",
+        "nm": 322217,
+        "roles": [
+          {
+            "char": "Maxi Gregg"
+          }
+        ]
+      },
+      {
+        "name": "Grant Piro",
+        "nm": 685221,
+        "roles": [
+          {
+            "char": "Toby Miller",
+            "ch": 296403
+          }
+        ]
+      },
+      {
+        "name": "Doug Bowles",
+        "nm": 101231,
+        "roles": [
+          {
+            "char": "Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Julian Branagan",
+        "nm": 104306,
+        "roles": [
+          {
+            "char": "Downs"
+          }
+        ]
+      },
+      {
+        "name": "Dan Reaper",
+        "nm": 1772902,
+        "roles": [
+          {
+            "char": "Slug"
+          }
+        ]
+      },
+      {
+        "name": "Malcolm Sutherland",
+        "nm": 2821836,
+        "roles": [
+          {
+            "char": "Blacker"
+          }
+        ]
+      },
+      {
+        "name": "Bruce Kerr",
+        "nm": 449657,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Jules Hutchinson",
+        "nm": 404363,
+        "roles": [
+          {
+            "char": "Nurse"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Lock-Down",
+    "tt": 546877,
+    "air_date": "1995-08-23",
+    "description": "After Redman's shooting, Buckley must regain her position of power in the face of isolation among her peers and the scorn of the prisoners.",
+    "cast": [
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Louisa Correlli",
+            "ch": 166374
+          }
+        ]
+      },
+      {
+        "name": "Hugh Jackman",
+        "nm": 413168,
+        "roles": [
+          {
+            "char": "Kevin Jones",
+            "ch": 140339
+          }
+        ]
+      },
+      {
+        "name": "Sue Jones",
+        "nm": 429299,
+        "roles": [
+          {
+            "char": "Sister Pat"
+          }
+        ]
+      },
+      {
+        "name": "Neil Melville",
+        "nm": 578498,
+        "roles": [
+          {
+            "char": "Governor Jim Sanderson",
+            "ch": 296404
+          }
+        ]
+      },
+      {
+        "name": "John Brumpton",
+        "nm": 115979,
+        "roles": [
+          {
+            "char": "Officer Gilbert",
+            "ch": 355019
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Danielle Correlli"
+          }
+        ]
+      },
+      {
+        "name": "Paul Reardon",
+        "nm": 714137,
+        "roles": [
+          {
+            "char": "Anthony Correlli",
+            "ch": 296406
+          }
+        ]
+      },
+      {
+        "name": "Denise Roberts",
+        "nm": 731011,
+        "roles": [
+          {
+            "char": "Helen Buckley"
+          }
+        ]
+      },
+      {
+        "name": "Pepe Trevor",
+        "nm": 872479,
+        "roles": [
+          {
+            "char": "Karen Hodges"
+          }
+        ]
+      },
+      {
+        "name": "Anthea Davis",
+        "nm": 204182,
+        "roles": [
+          {
+            "char": "Officer Narelle Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "Vince D'Amico",
+        "nm": 195167,
+        "roles": [
+          {
+            "char": "Officer Landa"
+          }
+        ]
+      },
+      {
+        "name": "Tom Considine",
+        "nm": 175922,
+        "roles": [
+          {
+            "char": "Officer Cross"
+          }
+        ]
+      },
+      {
+        "name": "Tony Rickards",
+        "nm": 725456,
+        "roles": [
+          {
+            "char": "Officer McAlpine",
+            "ch": 140338
+          }
+        ]
+      },
+      {
+        "name": "Nicholas Bell",
+        "nm": 68431,
+        "roles": [
+          {
+            "char": "Officer Holland"
+          }
+        ]
+      },
+      {
+        "name": "John Atkinson",
+        "nm": 1669068,
+        "roles": [
+          {
+            "char": "Officer Reid"
+          }
+        ]
+      },
+      {
+        "name": "Jonathon Brooks",
+        "nm": 112071,
+        "roles": [
+          {
+            "char": "Brett Hodges"
+          }
+        ]
+      },
+      {
+        "name": "Grant Piro",
+        "nm": 685221,
+        "roles": [
+          {
+            "char": "Toby Miller",
+            "ch": 296403
+          }
+        ]
+      },
+      {
+        "name": "Dan Reaper",
+        "nm": 1772902,
+        "roles": [
+          {
+            "char": "Slug"
+          }
+        ]
+      },
+      {
+        "name": "Doug Bowles",
+        "nm": 101231,
+        "roles": [
+          {
+            "char": "Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Julian Branagan",
+        "nm": 104306,
+        "roles": [
+          {
+            "char": "Downs"
+          }
+        ]
+      },
+      {
+        "name": "John Penman",
+        "nm": 671941,
+        "roles": [
+          {
+            "char": "Cash"
+          }
+        ]
+      },
+      {
+        "name": "Vashti Hughes",
+        "nm": 1785265,
+        "roles": [
+          {
+            "char": "Kerry"
+          }
+        ]
+      },
+      {
+        "name": "Helen Trenos",
+        "nm": 1112152,
+        "roles": [
+          {
+            "char": "Debbie Wilson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Spoons",
+    "tt": 546884,
+    "air_date": "1995-08-30",
+    "description": "Louisa and Sister Pat encourage three Aboriginals to form a band to keep them out of trouble. Louisa is also faced with the problem of dealing with a self-mutilator, known as \"Spoons\", whom she is trying to have transferred to a psychiatric facility.",
+    "cast": [
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Louisa Correlli",
+            "ch": 166374
+          }
+        ]
+      },
+      {
+        "name": "Hugh Jackman",
+        "nm": 413168,
+        "roles": [
+          {
+            "char": "Kevin Jones",
+            "ch": 140339
+          }
+        ]
+      },
+      {
+        "name": "Sue Jones",
+        "nm": 429299,
+        "roles": [
+          {
+            "char": "Sister Pat"
+          }
+        ]
+      },
+      {
+        "name": "Richard Piper",
+        "nm": 684927,
+        "roles": [
+          {
+            "char": "Sam Melville",
+            "ch": 296405
+          }
+        ]
+      },
+      {
+        "name": "Neil Melville",
+        "nm": 578498,
+        "roles": [
+          {
+            "char": "Governor Jim Sanderson",
+            "ch": 296404
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Danielle Correlli"
+          }
+        ]
+      },
+      {
+        "name": "Paul Reardon",
+        "nm": 714137,
+        "roles": [
+          {
+            "char": "Anthony Correlli",
+            "ch": 296406
+          }
+        ]
+      },
+      {
+        "name": "David Ngoombujarra",
+        "nm": 628954,
+        "roles": [
+          {
+            "char": "Warren 'Budgie' Keating"
+          }
+        ]
+      },
+      {
+        "name": "Bradley Byquar",
+        "nm": 125972,
+        "roles": [
+          {
+            "char": "Eddie",
+            "as Brad Byquar": true
+          }
+        ]
+      },
+      {
+        "name": "David Schofield",
+        "nm": 774516,
+        "roles": [
+          {
+            "char": "Officer 'Spoons' Morton"
+          }
+        ]
+      },
+      {
+        "name": "Tommy Lewis",
+        "nm": 507835,
+        "roles": [
+          {
+            "char": "Fred"
+          }
+        ]
+      },
+      {
+        "name": "Anthea Davis",
+        "nm": 204182,
+        "roles": [
+          {
+            "char": "Officer Narelle Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "Tom Considine",
+        "nm": 175922,
+        "roles": [
+          {
+            "char": "Officer Cross"
+          }
+        ]
+      },
+      {
+        "name": "Tony Rickards",
+        "nm": 725456,
+        "roles": [
+          {
+            "char": "Officer McAlpine",
+            "ch": 140338
+          }
+        ]
+      },
+      {
+        "name": "Damien Pree",
+        "nm": 695768,
+        "roles": [
+          {
+            "char": "Officer Mark Bagley",
+            "ch": 375719
+          }
+        ]
+      },
+      {
+        "name": "Jonathon Brooks",
+        "nm": 112071,
+        "roles": [
+          {
+            "char": "Brett Hodges"
+          }
+        ]
+      },
+      {
+        "name": "Grant Piro",
+        "nm": 685221,
+        "roles": [
+          {
+            "char": "Toby Miller",
+            "ch": 296403
+          }
+        ]
+      },
+      {
+        "name": "Simon Wood",
+        "nm": 1222996,
+        "roles": [
+          {
+            "char": "Older Boy"
+          }
+        ]
+      },
+      {
+        "name": "Sue Giles",
+        "nm": 3592267,
+        "roles": [
+          {
+            "char": "Reporter"
+          }
+        ]
+      },
+      {
+        "name": "Luke Sparkes",
+        "nm": 4919636,
+        "roles": [
+          {
+            "char": "Young Spoons"
+          }
+        ]
+      },
+      {
+        "name": "Ruby Hunter",
+        "nm": 403024,
+        "roles": [
+          {
+            "char": "Judy Roberts"
+          }
+        ]
+      },
+      {
+        "name": "Helen Trenos",
+        "nm": 1112152,
+        "roles": [
+          {
+            "char": "Debbie Wilson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Wishin' and Hopin'",
+    "tt": 546885,
+    "air_date": "1995-09-06",
+    "description": "Terri and Kim anxiously await the outcome of the court cases of their respective partners, Gazza and Rod, and make a pact to leave them if the sentence exceeds five years.",
+    "cast": [
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Louisa Correlli",
+            "ch": 166374
+          }
+        ]
+      },
+      {
+        "name": "Hugh Jackman",
+        "nm": 413168,
+        "roles": [
+          {
+            "char": "Kevin Jones",
+            "ch": 140339
+          }
+        ]
+      },
+      {
+        "name": "Sue Jones",
+        "nm": 429299,
+        "roles": [
+          {
+            "char": "Sister Pat"
+          }
+        ]
+      },
+      {
+        "name": "Richard Piper",
+        "nm": 684927,
+        "roles": [
+          {
+            "char": "Sam Melville",
+            "ch": 296405
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Danielle Correlli"
+          }
+        ]
+      },
+      {
+        "name": "Paul Reardon",
+        "nm": 714137,
+        "roles": [
+          {
+            "char": "Anthony Correlli",
+            "ch": 296406
+          }
+        ]
+      },
+      {
+        "name": "Elena Mandalis",
+        "nm": 541605,
+        "roles": [
+          {
+            "char": "Kim"
+          }
+        ]
+      },
+      {
+        "name": "Kaarin Fairfax",
+        "nm": 265569,
+        "roles": [
+          {
+            "char": "Terri"
+          }
+        ]
+      },
+      {
+        "name": "Anthony Hayes",
+        "nm": 370892,
+        "roles": [
+          {
+            "char": "Gazza"
+          }
+        ]
+      },
+      {
+        "name": "Roger Stephen",
+        "nm": 826940,
+        "roles": [
+          {
+            "char": "Rod"
+          }
+        ]
+      },
+      {
+        "name": "Anthea Davis",
+        "nm": 204182,
+        "roles": [
+          {
+            "char": "Officer Narelle Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "Tom Considine",
+        "nm": 175922,
+        "roles": [
+          {
+            "char": "Officer Cross"
+          }
+        ]
+      },
+      {
+        "name": "Dan Reaper",
+        "nm": 1772902,
+        "roles": [
+          {
+            "char": "Slug"
+          }
+        ]
+      },
+      {
+        "name": "David Swann",
+        "nm": 841698,
+        "roles": [
+          {
+            "char": "Dan"
+          }
+        ]
+      },
+      {
+        "name": "Dylan Foss",
+        "nm": 3694175,
+        "roles": [
+          {
+            "char": "Tom"
+          }
+        ]
+      },
+      {
+        "name": "Sally Christie",
+        "nm": 2946884,
+        "roles": [
+          {
+            "char": "Julie"
+          }
+        ]
+      },
+      {
+        "name": "Paul Teiwes",
+        "nm": 854080,
+        "roles": [
+          {
+            "char": "Officer 1"
+          }
+        ]
+      },
+      {
+        "name": "Alan Spalding",
+        "nm": 3454236,
+        "roles": [
+          {
+            "char": "Male Barrister"
+          }
+        ]
+      },
+      {
+        "name": "Ross Mueller",
+        "nm": 611105,
+        "roles": [
+          {
+            "char": "Man in Bar 1"
+          }
+        ]
+      },
+      {
+        "name": "Rod Catteral",
+        "nm": 146363,
+        "roles": [
+          {
+            "char": "Man in Bar 2",
+            "as Rod Catterall": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "An Early Release",
+    "tt": 546876,
+    "air_date": "1995-09-13",
+    "description": "Louisa faces a personal and professional crisis when she has to negotiate a meeting with Haines, a psychopathic sadist, and the parents of one of his victims.",
+    "cast": [
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Louisa Correlli",
+            "ch": 166374
+          }
+        ]
+      },
+      {
+        "name": "Hugh Jackman",
+        "nm": 413168,
+        "roles": [
+          {
+            "char": "Kevin Jones",
+            "ch": 140339
+          }
+        ]
+      },
+      {
+        "name": "Sue Jones",
+        "nm": 429299,
+        "roles": [
+          {
+            "char": "Sister Pat"
+          }
+        ]
+      },
+      {
+        "name": "Richard Piper",
+        "nm": 684927,
+        "roles": [
+          {
+            "char": "Sam Melville",
+            "ch": 296405
+          }
+        ]
+      },
+      {
+        "name": "Neil Melville",
+        "nm": 578498,
+        "roles": [
+          {
+            "char": "Governor Jim Sanderson",
+            "ch": 296404
+          }
+        ]
+      },
+      {
+        "name": "John Brumpton",
+        "nm": 115979,
+        "roles": [
+          {
+            "char": "Officer Gilbert",
+            "ch": 355019
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Danielle Correlli"
+          }
+        ]
+      },
+      {
+        "name": "Paul Reardon",
+        "nm": 714137,
+        "roles": [
+          {
+            "char": "Anthony Correlli",
+            "ch": 296406
+          }
+        ]
+      },
+      {
+        "name": "David Argue",
+        "nm": 34541,
+        "roles": [
+          {
+            "char": "Stephen Haines"
+          }
+        ]
+      },
+      {
+        "name": "Maggie Dence",
+        "nm": 218925,
+        "roles": [
+          {
+            "char": "Maureen Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Gary Files",
+        "nm": 276872,
+        "roles": [
+          {
+            "char": "Henry Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Anthea Davis",
+        "nm": 204182,
+        "roles": [
+          {
+            "char": "Officer Narelle Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "Stan Dryden",
+        "nm": 1507755,
+        "roles": [
+          {
+            "char": "Danny Freeman"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Maywald",
+        "nm": 563127,
+        "roles": [
+          {
+            "char": "Norma Whitton"
+          }
+        ]
+      },
+      {
+        "name": "Helen Trenos",
+        "nm": 1112152,
+        "roles": [
+          {
+            "char": "Debbie Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Dana Wong",
+        "nm": 2816846,
+        "roles": [
+          {
+            "char": "Officer David Chan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Revelations",
+    "tt": 546879,
+    "air_date": "1995-09-20",
+    "description": "Sister Pat's emotions are in disarray when Margaret, her support of many years, decides to leave the order. Hodges leaves Blackstream and rejects Jones's support.",
+    "cast": [
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Louisa Correlli",
+            "ch": 166374
+          }
+        ]
+      },
+      {
+        "name": "Hugh Jackman",
+        "nm": 413168,
+        "roles": [
+          {
+            "char": "Kevin Jones",
+            "ch": 140339
+          }
+        ]
+      },
+      {
+        "name": "Sue Jones",
+        "nm": 429299,
+        "roles": [
+          {
+            "char": "Sister Pat"
+          }
+        ]
+      },
+      {
+        "name": "Richard Piper",
+        "nm": 684927,
+        "roles": [
+          {
+            "char": "Sam Melville",
+            "ch": 296405
+          }
+        ]
+      },
+      {
+        "name": "Neil Melville",
+        "nm": 578498,
+        "roles": [
+          {
+            "char": "Governor Jim Sanderson",
+            "ch": 296404
+          }
+        ]
+      },
+      {
+        "name": "John Brumpton",
+        "nm": 115979,
+        "roles": [
+          {
+            "char": "Officer Gilbert",
+            "ch": 355019
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Danielle Correlli"
+          }
+        ]
+      },
+      {
+        "name": "Paul Reardon",
+        "nm": 714137,
+        "roles": [
+          {
+            "char": "Anthony Correlli",
+            "ch": 296406
+          }
+        ]
+      },
+      {
+        "name": "Ray Barrett",
+        "nm": 57254,
+        "roles": [
+          {
+            "char": "Harry Powell",
+            "ch": 375720
+          }
+        ]
+      },
+      {
+        "name": "Roger Oakley",
+        "nm": 643035,
+        "roles": [
+          {
+            "char": "Jack Glennon"
+          }
+        ]
+      },
+      {
+        "name": "Pat Bishop",
+        "nm": 84160,
+        "roles": [
+          {
+            "char": "Sister Margaret"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Eyre",
+        "nm": 264231,
+        "roles": [
+          {
+            "char": "Officer 'Fatz' Bingham"
+          }
+        ]
+      },
+      {
+        "name": "Anthea Davis",
+        "nm": 204182,
+        "roles": [
+          {
+            "char": "Officer Narelle Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "John Atkinson",
+        "nm": 1669068,
+        "roles": [
+          {
+            "char": "Officer Reid"
+          }
+        ]
+      },
+      {
+        "name": "Jonathon Brooks",
+        "nm": 112071,
+        "roles": [
+          {
+            "char": "Brett Hodges"
+          }
+        ]
+      },
+      {
+        "name": "Grant Piro",
+        "nm": 685221,
+        "roles": [
+          {
+            "char": "Toby Miller",
+            "ch": 296403
+          }
+        ]
+      },
+      {
+        "name": "Doug Bowles",
+        "nm": 101231,
+        "roles": [
+          {
+            "char": "Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Julian Branagan",
+        "nm": 104306,
+        "roles": [
+          {
+            "char": "Downs"
+          }
+        ]
+      },
+      {
+        "name": "Clive Hearne",
+        "nm": 372482,
+        "roles": [
+          {
+            "char": "Parole Chairperson"
+          }
+        ]
+      },
+      {
+        "name": "Liam Sutherland",
+        "nm": 2423177,
+        "roles": [
+          {
+            "char": "Matt Jones"
+          }
+        ]
+      },
+      {
+        "name": "Patrick Moffatt",
+        "nm": 1245313,
+        "roles": [
+          {
+            "char": "Prison Medical Officer"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Fuller",
+        "nm": 1370711,
+        "roles": [
+          {
+            "char": "Cop"
+          }
+        ]
+      },
+      {
+        "name": "Barbara Cutting",
+        "nm": 4922885,
+        "roles": [
+          {
+            "char": "Shoe Store Salesperson"
+          }
+        ]
+      },
+      {
+        "name": "Helen Trenos",
+        "nm": 1112152,
+        "roles": [
+          {
+            "char": "Debbie Wilson"
+          }
+        ]
+      },
+      {
+        "name": "Judith Roberts",
+        "nm": 731288,
+        "roles": [
+          {
+            "char": "Sister Claire"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Rumours",
+    "tt": 546881,
+    "air_date": "1995-09-27",
+    "description": "Blackstream is a prison riddled with drugs, and a cloud of suspicion hangs over some of the officers. Sister Pat struggles with Harry, an old-timer in a fast-changing prison world, who carries a fatal secret.",
+    "cast": [
+      {
+        "name": "Deborra-Lee Furness",
+        "nm": 299028,
+        "roles": [
+          {
+            "char": "Louisa Correlli",
+            "ch": 166374
+          }
+        ]
+      },
+      {
+        "name": "Hugh Jackman",
+        "nm": 413168,
+        "roles": [
+          {
+            "char": "Kevin Jones",
+            "ch": 140339
+          }
+        ]
+      },
+      {
+        "name": "Sue Jones",
+        "nm": 429299,
+        "roles": [
+          {
+            "char": "Sister Pat"
+          }
+        ]
+      },
+      {
+        "name": "Richard Piper",
+        "nm": 684927,
+        "roles": [
+          {
+            "char": "Sam Melville",
+            "ch": 296405
+          }
+        ]
+      },
+      {
+        "name": "Neil Melville",
+        "nm": 578498,
+        "roles": [
+          {
+            "char": "Governor Jim Sanderson",
+            "ch": 296404
+          }
+        ]
+      },
+      {
+        "name": "John Brumpton",
+        "nm": 115979,
+        "roles": [
+          {
+            "char": "Officer Gilbert",
+            "ch": 355019
+          }
+        ]
+      },
+      {
+        "name": "Tenley Gillmore",
+        "nm": 319359,
+        "roles": [
+          {
+            "char": "Danielle Correlli"
+          }
+        ]
+      },
+      {
+        "name": "Paul Reardon",
+        "nm": 714137,
+        "roles": [
+          {
+            "char": "Anthony Correlli",
+            "ch": 296406
+          }
+        ]
+      },
+      {
+        "name": "Ray Barrett",
+        "nm": 57254,
+        "roles": [
+          {
+            "char": "Harry Powell",
+            "ch": 375720
+          }
+        ]
+      },
+      {
+        "name": "Anthea Davis",
+        "nm": 204182,
+        "roles": [
+          {
+            "char": "Officer Narelle Jenkins"
+          }
+        ]
+      },
+      {
+        "name": "Marcus Eyre",
+        "nm": 264231,
+        "roles": [
+          {
+            "char": "Officer 'Fatz' Bingham"
+          }
+        ]
+      },
+      {
+        "name": "Robert Morgan",
+        "nm": 604989,
+        "roles": [
+          {
+            "char": "Officer Ross Bannerman",
+            "ch": 375718
+          }
+        ]
+      },
+      {
+        "name": "Julian Branagan",
+        "nm": 104306,
+        "roles": [
+          {
+            "char": "Downs"
+          }
+        ]
+      },
+      {
+        "name": "Doug Bowles",
+        "nm": 101231,
+        "roles": [
+          {
+            "char": "Murphy"
+          }
+        ]
+      },
+      {
+        "name": "Grant Piro",
+        "nm": 685221,
+        "roles": [
+          {
+            "char": "Toby Miller",
+            "ch": 296403
+          }
+        ]
+      },
+      {
+        "name": "Dan Reaper",
+        "nm": 1772902,
+        "roles": [
+          {
+            "char": "Slug"
+          }
+        ]
+      },
+      {
+        "name": "Syd Brisbane",
+        "nm": 109771,
+        "roles": [
+          {
+            "char": "Steve Morrissey"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,3543 @@
+[
+  {
+    "se": "S01E00",
+    "title": "Pilot",
+    "tt": 1048898,
+    "air_date": "1996-02-05",
+    "description": "Ricky ignores his chores hang out with his girlfriend. Danny has looks for his biological mom and Bethany feels adversity at school due to her race.",
+    "cast": [
+      {
+        "name": "Joey Lauren Adams",
+        "nm": 725,
+        "roles": [
+          {
+            "char": "Darby"
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Benjamin Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Russell Breslow",
+        "nm": 2690519,
+        "roles": [
+          {
+            "char": "Robbie"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956
+          }
+        ]
+      },
+      {
+        "name": "Micah May",
+        "nm": 562070,
+        "roles": [
+          {
+            "char": "Messenger",
+            "as Micah M. May": true
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Cole Evan Weiss",
+        "nm": 1196907,
+        "roles": [
+          {
+            "char": "Mark"
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E01",
+    "title": "Second Noah",
+    "tt": 697179,
+    "air_date": "1996-02-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Justina Machado",
+        "nm": 532461,
+        "roles": [
+          {
+            "char": "Roxanna"
+          }
+        ]
+      },
+      {
+        "name": "Sean Naegeli",
+        "nm": 619001,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "RuDee Sade",
+        "nm": 513739,
+        "roles": [
+          {
+            "char": "Bethany",
+            "as RuDee Lipscomb": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      },
+      {
+        "name": "Gustavo Perez",
+        "nm": 673505,
+        "roles": [
+          {
+            "char": "Basketball Referee",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "Hoops and Dreams",
+    "tt": 697176,
+    "air_date": "1996-02-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Dwayne Adway",
+        "nm": 2391,
+        "roles": [
+          {
+            "char": "Kevin"
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "John P. Connolly",
+        "nm": 175297,
+        "roles": [
+          {
+            "char": "Coach Casemeyer"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Peggy O'Neal",
+        "nm": 641932,
+        "roles": [
+          {
+            "char": "Sheila"
+          }
+        ]
+      },
+      {
+        "name": "Michael Wayne Thomas",
+        "nm": 2529627,
+        "roles": [
+          {
+            "char": "Coach 1996"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      },
+      {
+        "name": "Ryan Paul James",
+        "nm": 1458974,
+        "roles": [
+          {
+            "char": "Basketball Player",
+            "uncredited": true
+          }
+        ]
+      },
+      {
+        "name": "Gustavo Perez",
+        "nm": 673505,
+        "roles": [
+          {
+            "char": "Basketball Referee",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Close Encounters",
+    "tt": 697167,
+    "air_date": "1996-02-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Wilmer Calderon",
+        "nm": 129551,
+        "roles": [
+          {
+            "char": "Alex",
+            "ch": 210394
+          }
+        ]
+      },
+      {
+        "name": "Jim R. Coleman",
+        "nm": 171078,
+        "roles": [
+          {
+            "char": "The Official"
+          }
+        ]
+      },
+      {
+        "name": "Peter D'Alessio",
+        "nm": 194953,
+        "roles": [
+          {
+            "char": "Dancer"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Andrew Masset",
+        "nm": 557259,
+        "roles": [
+          {
+            "char": "Wayne"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Melendez",
+        "nm": 1645332,
+        "roles": [
+          {
+            "char": "Geoff Silverman"
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Stella Ross",
+        "nm": 1605192,
+        "roles": [
+          {
+            "char": "Dancer"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Stormy Weather",
+    "tt": 697181,
+    "air_date": "1996-02-26",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Joe Candelora",
+        "nm": 133722,
+        "roles": [
+          {
+            "char": "Andy"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Cindy Long",
+        "nm": 5945658,
+        "roles": [
+          {
+            "char": "Hotel Guest"
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      },
+      {
+        "name": "Grace Zabriskie",
+        "nm": 951471,
+        "roles": [
+          {
+            "char": "Mrs. Cheval"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "The Good Samaritan",
+    "tt": 697184,
+    "air_date": "1996-03-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Ann Bronston",
+        "nm": 111563,
+        "roles": [
+          {
+            "char": "Susan Cooper"
+          }
+        ]
+      },
+      {
+        "name": "Wilmer Calderon",
+        "nm": 129551,
+        "roles": [
+          {
+            "char": "Alex",
+            "ch": 210394
+          }
+        ]
+      },
+      {
+        "name": "Michael Costello",
+        "nm": 182591,
+        "roles": [
+          {
+            "char": "Peter"
+          }
+        ]
+      },
+      {
+        "name": "Greg Davis Jr.",
+        "nm": 1486299,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Greg Davis",
+        "nm": 1772137,
+        "roles": [
+          {
+            "char": "Boy #2"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Gary Grubbs",
+        "nm": 344196,
+        "roles": [
+          {
+            "char": "David Cooper"
+          }
+        ]
+      },
+      {
+        "name": "Michael Hagerty",
+        "nm": 353548,
+        "roles": [
+          {
+            "char": "Tom Sinclair"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Ryan Paul James",
+        "nm": 1458974,
+        "roles": [
+          {
+            "char": "Basketball Player"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Mark Lainer",
+        "nm": 481884,
+        "roles": [
+          {
+            "char": "Process Server"
+          }
+        ]
+      },
+      {
+        "name": "Betsy Licon",
+        "nm": 509130,
+        "roles": [
+          {
+            "char": "Sophia"
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Saadia Persad",
+        "nm": 675394,
+        "roles": [
+          {
+            "char": "Mona"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Sommer",
+        "nm": 813945,
+        "roles": [
+          {
+            "char": "Boy #1"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Julio Is My Dad",
+    "tt": 697177,
+    "air_date": "1996-03-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Krista Adair",
+        "nm": 10454,
+        "roles": [
+          {
+            "char": "Woman"
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Kaleo Quenzer",
+        "nm": 703243,
+        "roles": [
+          {
+            "char": "Stitch"
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Storms",
+        "nm": 832653,
+        "roles": [
+          {
+            "char": "Ashley"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Brian Wagner",
+        "nm": 905816,
+        "roles": [
+          {
+            "char": "Rex"
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      },
+      {
+        "name": "Gil Zuniga",
+        "nm": 958678,
+        "roles": [
+          {
+            "char": "Hector"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "Ghost Story",
+    "tt": 697173,
+    "air_date": "1996-03-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      },
+      {
+        "name": "Paul Winfield",
+        "nm": 934902,
+        "roles": [
+          {
+            "char": "Ramses",
+            "ch": 6186
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "The Rendezvous",
+    "tt": 697185,
+    "air_date": "1996-03-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Shawn Boyachek",
+        "nm": 101578,
+        "roles": [
+          {
+            "char": "Alex",
+            "ch": 210394
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Wilmer Calderon",
+        "nm": 129551,
+        "roles": [
+          {
+            "char": "Derrick"
+          }
+        ]
+      },
+      {
+        "name": "Bill Cordell",
+        "nm": 179450,
+        "roles": [
+          {
+            "char": "Mr. Pritchard"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Marc Macaulay",
+        "nm": 531333,
+        "roles": [
+          {
+            "char": "Coach Gordon"
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Todd Sheeler",
+        "nm": 790665,
+        "roles": [
+          {
+            "char": "Joe Reynolds"
+          }
+        ]
+      },
+      {
+        "name": "JoAnna Garcia Swisher",
+        "nm": 305272,
+        "roles": [
+          {
+            "char": "Katherine Ortega",
+            "as Joanna Garcia": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      },
+      {
+        "name": "Steve Zurk",
+        "nm": 958791,
+        "roles": [
+          {
+            "char": "Cooper"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "The Big Chief",
+    "tt": 697182,
+    "air_date": "1996-04-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Lloyd Bridges",
+        "nm": 978,
+        "roles": [
+          {
+            "char": "Jessie's Father"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Dreamboat",
+    "tt": 697170,
+    "air_date": "1996-04-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Janis Benson",
+        "nm": 72525,
+        "roles": [
+          {
+            "char": "Mme. Cluet"
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Robert Gossett",
+        "nm": 331666,
+        "roles": [
+          {
+            "char": "Lyle Battle"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Kelly Lintz",
+        "nm": 172439,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Marguerite Moreau",
+        "nm": 603413,
+        "roles": [
+          {
+            "char": "Megan Robinson"
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "JoAnna Garcia Swisher",
+        "nm": 305272,
+        "roles": [
+          {
+            "char": "Katherine Ortega",
+            "as Joanna Garcia": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      },
+      {
+        "name": "Mike Agresta",
+        "nm": 2706788,
+        "roles": [
+          {
+            "char": "Mr. Robinson",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "A Dog's Life",
+    "tt": 697166,
+    "air_date": "1996-04-15",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Wilmer Calderon",
+        "nm": 129551,
+        "roles": [
+          {
+            "char": "Alex",
+            "ch": 210394
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Chris Mills",
+        "nm": 589943,
+        "roles": [
+          {
+            "char": "Mr. Cavanaugh"
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Mike Pniewski",
+        "nm": 687772,
+        "roles": [
+          {
+            "char": "Gus Morgan"
+          }
+        ]
+      },
+      {
+        "name": "Kirsten Storms",
+        "nm": 832653,
+        "roles": [
+          {
+            "char": "Ashley"
+          }
+        ]
+      },
+      {
+        "name": "Jack Swanson",
+        "nm": 841805,
+        "roles": [
+          {
+            "char": "Mr. Landers"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "King of the Road",
+    "tt": 697178,
+    "air_date": "1996-04-22",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Wilmer Calderon",
+        "nm": 129551,
+        "roles": [
+          {
+            "char": "Alex",
+            "ch": 210394
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "John Terry",
+        "nm": 856012,
+        "roles": [
+          {
+            "char": "Travis Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E01",
+    "title": "Fly Like a Bird",
+    "tt": 697172,
+    "air_date": "1996-09-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Jean Marie Barnwell",
+        "nm": 56149,
+        "roles": [
+          {
+            "char": "Marsha"
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Michael McLafferty",
+        "nm": 565582,
+        "roles": [
+          {
+            "char": "JoJo",
+            "ch": 302232
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E02",
+    "title": "God's Last Laugh",
+    "tt": 697174,
+    "air_date": "1996-09-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Neil Brown Jr.",
+        "nm": 112932,
+        "roles": [
+          {
+            "char": "Box Boy"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Michael McLafferty",
+        "nm": 565582,
+        "roles": [
+          {
+            "char": "JoJo",
+            "ch": 302232
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E03",
+    "title": "The Big Hurt",
+    "tt": 763289,
+    "air_date": "1996-09-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Michael McLafferty",
+        "nm": 565582,
+        "roles": [
+          {
+            "char": "JoJo",
+            "ch": 302232
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "David Polk",
+        "nm": 2213969,
+        "roles": [
+          {
+            "char": "Country Patron"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E04",
+    "title": "Faith, Hope and Charity",
+    "tt": 697171,
+    "air_date": "1996-10-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Rus Blackwell",
+        "nm": 85952,
+        "roles": [
+          {
+            "char": "Ranger Bob"
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Tom Chapman",
+        "nm": 152541,
+        "roles": [
+          {
+            "char": "Rupert"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Michael McLafferty",
+        "nm": 565582,
+        "roles": [
+          {
+            "char": "JoJo",
+            "ch": 302232
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Angel Schmiedt",
+        "nm": 773350,
+        "roles": [
+          {
+            "char": "Ms. Harden"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E05",
+    "title": "Slings and Arrows",
+    "tt": 697180,
+    "air_date": "1996-10-12",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Michael McLafferty",
+        "nm": 565582,
+        "roles": [
+          {
+            "char": "JoJo",
+            "ch": 302232
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Richard Venture",
+        "nm": 893390,
+        "roles": [
+          {
+            "char": "Dr. Hollis"
+          }
+        ]
+      },
+      {
+        "name": "Gregory Vignolle",
+        "nm": 897088,
+        "roles": [
+          {
+            "char": "Mike Palomino",
+            "ch": 210395,
+            "as Greg Vignolle": true
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E06",
+    "title": "The Choice",
+    "tt": 697183,
+    "air_date": "1996-10-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Kevin Brown",
+        "nm": 114018,
+        "roles": [
+          {
+            "char": "Herbie"
+          }
+        ]
+      },
+      {
+        "name": "Robert Catrini",
+        "nm": 146304,
+        "roles": [
+          {
+            "char": "Coach Hanson"
+          }
+        ]
+      },
+      {
+        "name": "Jim R. Coleman",
+        "nm": 171078,
+        "roles": [
+          {
+            "char": "The Umpire"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Tony Major",
+        "nm": 538220,
+        "roles": [
+          {
+            "char": "The Male Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Michael McLafferty",
+        "nm": 565582,
+        "roles": [
+          {
+            "char": "JoJo",
+            "ch": 302232
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Lee Perkins",
+        "nm": 674101,
+        "roles": [
+          {
+            "char": "COP"
+          }
+        ]
+      },
+      {
+        "name": "Brett Rice",
+        "nm": 723365,
+        "roles": [
+          {
+            "char": "Major Ed Thomas"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Gregory Vignolle",
+        "nm": 897088,
+        "roles": [
+          {
+            "char": "Mike Palomino",
+            "ch": 210395,
+            "as Greg Vignolle": true
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E07",
+    "title": "Heart Matters",
+    "tt": 697175,
+    "air_date": "1997-05-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Wilmer Calderon",
+        "nm": 129551,
+        "roles": [
+          {
+            "char": "The Housefly Band Member"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Heather Hegeman",
+        "nm": 373722,
+        "roles": [
+          {
+            "char": "Student"
+          }
+        ]
+      },
+      {
+        "name": "Randy Herman",
+        "nm": 2743450,
+        "roles": [
+          {
+            "char": "Dream date"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Ted Manson",
+        "nm": 361381,
+        "roles": [
+          {
+            "char": "Doc"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Martinez",
+        "nm": 553569,
+        "roles": [
+          {
+            "char": "The Vice-Principal"
+          }
+        ]
+      },
+      {
+        "name": "Michael McLafferty",
+        "nm": 565582,
+        "roles": [
+          {
+            "char": "JoJo",
+            "ch": 302232
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Robby Preddy",
+        "nm": 695745,
+        "roles": [
+          {
+            "char": "Marianne Cavanaugh"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Reaves",
+        "nm": 714180,
+        "roles": [
+          {
+            "char": "Sergeant Carl Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Charles Nelson Reilly",
+        "nm": 717650,
+        "roles": [
+          {
+            "char": "Harold Hamilton"
+          }
+        ]
+      },
+      {
+        "name": "JoAnna Garcia Swisher",
+        "nm": 305272,
+        "roles": [
+          {
+            "char": "Catherine",
+            "as Joanna Garcia": true
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E08",
+    "title": "Desperately Seeking Mickey",
+    "tt": 697168,
+    "air_date": "1997-06-01",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Nancy Barber",
+        "nm": 53441,
+        "roles": [
+          {
+            "char": "The Sunbather"
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Ann Bronston",
+        "nm": 111563,
+        "roles": [
+          {
+            "char": "Jerry's Mom"
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Judith Jones",
+        "nm": 428475,
+        "roles": [
+          {
+            "char": "Kaylie Kavanaugh"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Michael McLafferty",
+        "nm": 565582,
+        "roles": [
+          {
+            "char": "JoJo",
+            "ch": 302232
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Elizabeth Omilami",
+        "nm": 648417,
+        "roles": [
+          {
+            "char": "Elaine"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Ben Vereen",
+        "nm": 893965,
+        "roles": [
+          {
+            "char": "Sweet Billy"
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S02E09",
+    "title": "Diving In",
+    "tt": 697169,
+    "air_date": "1997-06-08",
+    "description": null,
+    "cast": [
+      {
+        "name": "James Marsden",
+        "nm": 5188,
+        "roles": [
+          {
+            "char": "Ricky Beckett",
+            "ch": 171956,
+            "as Jimmy Marsden": true
+          }
+        ]
+      },
+      {
+        "name": "Gemini Barnett",
+        "nm": 55891,
+        "roles": [
+          {
+            "char": "Ben",
+            "ch": 302231
+          }
+        ]
+      },
+      {
+        "name": "Pat Boone",
+        "nm": 4769,
+        "roles": [
+          {
+            "char": "Pat Boone"
+          }
+        ]
+      },
+      {
+        "name": "Betsy Brantley",
+        "nm": 105280,
+        "roles": [
+          {
+            "char": "Jessie Beckett"
+          }
+        ]
+      },
+      {
+        "name": "Kathie Lee Gifford",
+        "nm": 317537,
+        "roles": [
+          {
+            "char": "Kathie Lee Gifford",
+            "ch": 29400
+          }
+        ]
+      },
+      {
+        "name": "Ashley Gorrell",
+        "nm": 331283,
+        "roles": [
+          {
+            "char": "Hannah"
+          }
+        ]
+      },
+      {
+        "name": "Zelda Harris",
+        "nm": 365450,
+        "roles": [
+          {
+            "char": "Bethany"
+          }
+        ]
+      },
+      {
+        "name": "Michael Jeter",
+        "nm": 5052,
+        "roles": [
+          {
+            "char": "The Chicken Man"
+          }
+        ]
+      },
+      {
+        "name": "Judith Jones",
+        "nm": 428475,
+        "roles": [
+          {
+            "char": "Kaylie Kavanaugh"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Hugh Kelly",
+        "nm": 446298,
+        "roles": [
+          {
+            "char": "Noah Beckett",
+            "ch": 171957
+          }
+        ]
+      },
+      {
+        "name": "Jeffrey Licon",
+        "nm": 509131,
+        "roles": [
+          {
+            "char": "Luis",
+            "ch": 302230
+          }
+        ]
+      },
+      {
+        "name": "Michael McLafferty",
+        "nm": 565582,
+        "roles": [
+          {
+            "char": "JoJo",
+            "ch": 302232
+          }
+        ]
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "nm": 640055,
+        "roles": [
+          {
+            "char": "Shirley Crockmeyer"
+          }
+        ]
+      },
+      {
+        "name": "Regis Philbin",
+        "nm": 5310,
+        "roles": [
+          {
+            "char": "Regis Philbin",
+            "ch": 220529
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Torgerson",
+        "nm": 867993,
+        "roles": [
+          {
+            "char": "Ranny Beckett",
+            "ch": 302234
+          }
+        ]
+      },
+      {
+        "name": "Jon Torgerson",
+        "nm": 867994,
+        "roles": [
+          {
+            "char": "Danny Beckett",
+            "ch": 302233
+          }
+        ]
+      },
+      {
+        "name": "Erika Page White",
+        "nm": 5291,
+        "roles": [
+          {
+            "char": "Roxanna",
+            "as Erika Page": true
+          }
+        ]
+      },
+      {
+        "name": "Dweezil Zappa",
+        "nm": 5574,
+        "roles": [
+          {
+            "char": "Cirrus Rose"
+          }
+        ]
+      },
+      {
+        "name": "Wendy Klassen",
+        "nm": 6399129,
+        "roles": [
+          {
+            "char": "Waitress",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  }
+]

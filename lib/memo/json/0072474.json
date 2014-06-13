@@ -1,0 +1,157 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 1955294,
+    "air_date": "1975-08-25",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E02",
+    "title": "The Colonel and the Fawn",
+    "tt": 1955295,
+    "air_date": "1975-09-02",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E03",
+    "title": "The Marblehead Club",
+    "tt": 1955296,
+    "air_date": "1975-09-09",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E04",
+    "title": "The Poor Little Thing",
+    "tt": 1955297,
+    "air_date": "1975-09-16",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E05",
+    "title": "The Soliders",
+    "tt": 1955299,
+    "air_date": "1975-09-23",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E06",
+    "title": "The Shining Example",
+    "tt": 1955298,
+    "air_date": "1975-09-30",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E07",
+    "title": "The Speakeasy",
+    "tt": 1955300,
+    "air_date": "1975-10-07",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E08",
+    "title": "The Million Dollar Gate",
+    "tt": 520215,
+    "air_date": "1975-10-14",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ken Kercheval",
+        "nm": 449242,
+        "roles": [
+          {
+            "char": "Dist. Attorney"
+          }
+        ]
+      },
+      {
+        "name": "Robert Prosky",
+        "nm": 698764,
+        "roles": [
+          {
+            "char": "McLeague"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "The Suitors",
+    "tt": 1955301,
+    "air_date": "1975-10-21",
+    "description": null,
+    "cast": null
+  },
+  {
+    "se": "S01E10",
+    "title": "The Test",
+    "tt": 520217,
+    "air_date": "1975-10-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Roberts Blossom",
+        "nm": 89348,
+        "roles": [
+          {
+            "char": "D.W. Griffith",
+            "ch": 28810
+          }
+        ]
+      },
+      {
+        "name": "Peter Coffield",
+        "nm": 168908,
+        "roles": [
+          {
+            "char": "Larry Greene"
+          }
+        ]
+      },
+      {
+        "name": "Robin Mary Paris",
+        "nm": 661619,
+        "roles": [
+          {
+            "char": "Alix Greene"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "The Pretenders",
+    "tt": 520216,
+    "air_date": "1975-11-04",
+    "description": null,
+    "cast": [
+      {
+        "name": "Peter Coffield",
+        "nm": 168908,
+        "roles": [
+          {
+            "char": "Larry Greene"
+          }
+        ]
+      },
+      {
+        "name": "Robin Mary Paris",
+        "nm": 661619,
+        "roles": [
+          {
+            "char": "Alix Greene"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,2253 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Man from Atlantis",
+    "tt": 76357,
+    "air_date": "1977-03-04",
+    "description": "A water-breathing human, the sole survivor of an underwater civilization called Atlantis, emerges from the ocean and has to learn to deal with the air-breathers on the surface.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Dean Santoro",
+        "nm": 763886,
+        "roles": [
+          {
+            "char": "Ernie Smith"
+          }
+        ]
+      },
+      {
+        "name": "Art Lund",
+        "nm": 526136,
+        "roles": [
+          {
+            "char": "Adm. Dewey Pierce"
+          }
+        ]
+      },
+      {
+        "name": "Victor Buono",
+        "nm": 120658,
+        "roles": [
+          {
+            "char": "Mr. Schubert",
+            "ch": 239939
+          }
+        ]
+      },
+      {
+        "name": "Lawrence Pressman",
+        "nm": 696303,
+        "roles": [
+          {
+            "char": "Cmdr. Phil Roth"
+          }
+        ]
+      },
+      {
+        "name": "Mark Jenkins",
+        "nm": 420920,
+        "roles": [
+          {
+            "char": "Lt. Ainsley"
+          }
+        ]
+      },
+      {
+        "name": "Allen Case",
+        "nm": 143175,
+        "roles": [
+          {
+            "char": "Lt. Cmdr. Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Joshua Bryant",
+        "nm": 117145,
+        "roles": [
+          {
+            "char": "Dr. Doug Berkley"
+          }
+        ]
+      },
+      {
+        "name": "Steve Franken",
+        "nm": 291266,
+        "roles": [
+          {
+            "char": "Doctor"
+          }
+        ]
+      },
+      {
+        "name": "Virginia Gregg",
+        "nm": 339615,
+        "roles": [
+          {
+            "char": "Whale Scientist"
+          }
+        ]
+      },
+      {
+        "name": "Curt Lowens",
+        "nm": 523142,
+        "roles": [
+          {
+            "char": "Emil"
+          }
+        ]
+      },
+      {
+        "name": "Charles Davis",
+        "nm": 204332,
+        "roles": [
+          {
+            "char": "British Scientist"
+          }
+        ]
+      },
+      {
+        "name": "Lilyan Chauvin",
+        "nm": 154412,
+        "roles": [
+          {
+            "char": "French Scientist"
+          }
+        ]
+      },
+      {
+        "name": "Vincent Milana",
+        "nm": 586801,
+        "roles": [
+          {
+            "char": "American Scientist"
+          }
+        ]
+      },
+      {
+        "name": "Alex Rodine",
+        "nm": 734858,
+        "roles": [
+          {
+            "char": "Russian Scientist"
+          }
+        ]
+      },
+      {
+        "name": "Philip Baker Hall",
+        "nm": 1311,
+        "roles": [
+          {
+            "char": "George"
+          }
+        ]
+      },
+      {
+        "name": "Marguerite DeLain",
+        "nm": 216171,
+        "roles": [
+          {
+            "char": "First Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Trudy Marshall",
+        "nm": 551221,
+        "roles": [
+          {
+            "char": "Woman at Party"
+          }
+        ]
+      },
+      {
+        "name": "Michael J. London",
+        "nm": 518760,
+        "roles": [
+          {
+            "char": "Popeye"
+          }
+        ]
+      },
+      {
+        "name": "Robert Dore",
+        "nm": 233491,
+        "roles": [
+          {
+            "char": "Diver"
+          }
+        ]
+      },
+      {
+        "name": "Michael Watson",
+        "nm": 914798,
+        "roles": [
+          {
+            "char": "Diver"
+          }
+        ]
+      },
+      {
+        "name": "Connie Izay",
+        "nm": 412730,
+        "roles": [
+          {
+            "char": "First Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Judd Laurance",
+        "nm": 491003,
+        "roles": [
+          {
+            "char": "Intern"
+          }
+        ]
+      },
+      {
+        "name": "James Chandler",
+        "nm": 151383,
+        "roles": [
+          {
+            "char": "Man on Beach",
+            "as Jim Chandler": true
+          }
+        ]
+      },
+      {
+        "name": "Patricia Anderson",
+        "nm": 27265,
+        "roles": [
+          {
+            "char": "Second Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Akemi Kikumura",
+        "nm": 452871,
+        "roles": [
+          {
+            "char": "Third Receptionist"
+          }
+        ]
+      },
+      {
+        "name": "Larry Holt",
+        "nm": 392470,
+        "roles": [
+          {
+            "char": "Ambulance Driver"
+          }
+        ]
+      },
+      {
+        "name": "Peter Weiss",
+        "nm": 919143,
+        "roles": [
+          {
+            "char": "Test Lab Technician"
+          }
+        ]
+      },
+      {
+        "name": "Maralyn Thuma",
+        "nm": 862044,
+        "roles": [
+          {
+            "char": "Second Nurse"
+          }
+        ]
+      },
+      {
+        "name": "Philip Roye",
+        "nm": 747347,
+        "roles": [
+          {
+            "char": "Intern"
+          }
+        ]
+      },
+      {
+        "name": "Cheryl Robinson",
+        "nm": 732465,
+        "roles": [
+          {
+            "char": "X-Ray Technician"
+          }
+        ]
+      },
+      {
+        "name": "Scott Stevenson",
+        "nm": 829055,
+        "roles": [
+          {
+            "char": "Boy on Beach"
+          }
+        ]
+      },
+      {
+        "name": "Philip Tanzini",
+        "nm": 849910,
+        "roles": [
+          {
+            "char": "Boy at Phone Booth"
+          }
+        ]
+      },
+      {
+        "name": "Robert Phalen",
+        "nm": 679606,
+        "roles": [
+          {
+            "char": "Habitat Technician"
+          }
+        ]
+      },
+      {
+        "name": "Eddie Garrett",
+        "nm": 308111,
+        "roles": [
+          {
+            "char": "Technichan",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Death Scouts",
+    "tt": 247278,
+    "air_date": "1977-04-22",
+    "description": "Second pilot film for TV series \"The Man from Atlantis;\" a human scientist capable of living underwater discovers similar alien life inhabiting human bodies, and looks to them for a clue to his origin.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Tigar",
+        "nm": 863024,
+        "roles": [
+          {
+            "char": "Dr. Miller Simon",
+            "ch": 152953
+          }
+        ]
+      },
+      {
+        "name": "Tiffany Bolling",
+        "nm": 93147,
+        "roles": [
+          {
+            "char": "Lioa"
+          },
+          {
+            "char": "Dilly"
+          }
+        ]
+      },
+      {
+        "name": "Burr DeBenning",
+        "nm": 213392,
+        "roles": [
+          {
+            "char": "Xos"
+          },
+          {
+            "char": "Chazz"
+          }
+        ]
+      },
+      {
+        "name": "Annette Charles",
+        "nm": 152975,
+        "roles": [
+          {
+            "char": "Ginny Mendoza",
+            "as Anette Courset": true
+          }
+        ]
+      },
+      {
+        "name": "Alan Mandell",
+        "nm": 541715,
+        "roles": [
+          {
+            "char": "Grant Stockwood"
+          }
+        ]
+      },
+      {
+        "name": "Vince Deadrick Sr.",
+        "nm": 212605,
+        "roles": [
+          {
+            "char": "Herb Wayland"
+          }
+        ]
+      },
+      {
+        "name": "Hank Stohl",
+        "nm": 831129,
+        "roles": [
+          {
+            "char": "Wes"
+          }
+        ]
+      },
+      {
+        "name": "Russell Arms",
+        "nm": 35589,
+        "roles": [
+          {
+            "char": "Medical Examiner"
+          }
+        ]
+      },
+      {
+        "name": "Arch Archambault",
+        "nm": 33584,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Stanley Bennett Clay",
+        "nm": 165574,
+        "roles": [
+          {
+            "char": "Boy",
+            "as Stanley Clay": true
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Maurice Hill",
+        "nm": 384509,
+        "roles": [
+          {
+            "char": "Lou"
+          }
+        ]
+      },
+      {
+        "name": "Joel Lawrence",
+        "nm": 492830,
+        "roles": [
+          {
+            "char": "Manager"
+          }
+        ]
+      },
+      {
+        "name": "Michael J. London",
+        "nm": 518760,
+        "roles": [
+          {
+            "char": "Crewman"
+          }
+        ]
+      },
+      {
+        "name": "Maralyn Thoma",
+        "nm": 1046980,
+        "roles": [
+          {
+            "char": "Myrtle"
+          }
+        ]
+      },
+      {
+        "name": "Dick Winslow",
+        "nm": 935483,
+        "roles": [
+          {
+            "char": "Clerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "The Killer Spores",
+    "tt": 247449,
+    "air_date": "1977-05-17",
+    "description": "The Cetacean is called upon to recover a space probe that crashes in the sea, and Mark soon learns that the probe is covered with thousands of tiny alien beings. They intend to learn all they can about the human race by invading host bodies and controlling them. Mark must return them to space before they destroy all humanity.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Brian Baker",
+        "nm": 48293,
+        "roles": [
+          {
+            "char": "Sub Navigator"
+          }
+        ]
+      },
+      {
+        "name": "Fred Beir",
+        "nm": 67262,
+        "roles": [
+          {
+            "char": "Sub Captain"
+          }
+        ]
+      },
+      {
+        "name": "Ivan Bonar",
+        "nm": 93780,
+        "roles": [
+          {
+            "char": "Edwin Shirley"
+          }
+        ]
+      },
+      {
+        "name": "Lawrence P. Casey",
+        "nm": 143472,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Brad David",
+        "nm": 78525,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Carole Demas",
+        "nm": 218180,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Erik Holland",
+        "nm": 390683,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "James Parkes",
+        "nm": 1448603,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "James Sikking",
+        "nm": 797725,
+        "roles": [
+          {
+            "char": "Captain Manzone"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Tigar",
+        "nm": 863024,
+        "roles": [
+          {
+            "char": "Dr. Miller Simon",
+            "ch": 152953
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "The Disappearances",
+    "tt": 247293,
+    "air_date": "1977-06-20",
+    "description": "Elizabeth is kidnapped, one of dozens of scientists held prisoner on the island of Felicitos, controlled by special mineral springs that render their victims completely happy and compliant. Dr. Smith is using them to build a rocket to take her away from our troubled planet in search of some better world, and Mark must find a way to counter the brain-washing and free the captives.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Brian Baker",
+        "nm": 48293,
+        "roles": [
+          {
+            "char": "Sub Navigator"
+          }
+        ]
+      },
+      {
+        "name": "Fred Beir",
+        "nm": 67262,
+        "roles": [
+          {
+            "char": "Sub Captain"
+          }
+        ]
+      },
+      {
+        "name": "Darleen Carr",
+        "nm": 139669,
+        "roles": [
+          {
+            "char": "Dr. Mary Smith"
+          }
+        ]
+      },
+      {
+        "name": "Jeff Chamberlain",
+        "nm": 150170,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Ivor Francis",
+        "nm": 290179,
+        "roles": [
+          {
+            "char": "Dr. Medlow"
+          }
+        ]
+      },
+      {
+        "name": "Ernie Hudson",
+        "nm": 1368,
+        "roles": [
+          {
+            "char": "Minion"
+          }
+        ]
+      },
+      {
+        "name": "Ruth Manning",
+        "nm": 543371,
+        "roles": [
+          {
+            "char": "Clara"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Redfield",
+        "nm": 714836,
+        "roles": [
+          {
+            "char": "Dick Redstone"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Peters Solow",
+        "nm": 676614,
+        "roles": [
+          {
+            "char": "Jane Smith"
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Tigar",
+        "nm": 863024,
+        "roles": [
+          {
+            "char": "Dr. Miller Simon",
+            "ch": 152953
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Melt Down",
+    "tt": 641010,
+    "air_date": "1977-09-22",
+    "description": "Water levels are rising all over the Earth. Mr. Schubert offers to stop the disaster in exchange for Mark Harris, but it's the villain himself who is melting the world's ice caps with microwaves. Schubert agrees to stop the melt down if Mark will stay on of his own free will as a test subject, though his true plan is to flood the world and repopulate it with a new species of water-breathing men.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Victor Buono",
+        "nm": 120658,
+        "roles": [
+          {
+            "char": "Mr. Schubert",
+            "ch": 239939
+          }
+        ]
+      },
+      {
+        "name": "Robert Lussier",
+        "nm": 523832,
+        "roles": [
+          {
+            "char": "Brent"
+          }
+        ]
+      },
+      {
+        "name": "James Brodhead",
+        "nm": 110385,
+        "roles": [
+          {
+            "char": "Trubshawe"
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Jean Marie Hon",
+        "nm": 393059,
+        "roles": [
+          {
+            "char": "Jane"
+          }
+        ]
+      },
+      {
+        "name": "Dee Wallace",
+        "nm": 908914,
+        "roles": [
+          {
+            "char": "Hot Dog Stand Owner",
+            "as Dee Wallace-Stone": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "The Mudworm",
+    "tt": 641017,
+    "air_date": "1977-10-13",
+    "description": "Ships are being damaged by an unknown agent hidden at a depth impossible for the Navy to reach, where the Cetacean finds an automated robot, the Mud Worm. It is programmed to crawl along the sea bottom collecting mineral samples, but was damaged, and now resists all efforts to approach it with deadly force. Mark manages to shut down the robot and haul it inside the Cetacean, but when it reactivates, it will destroy everything in its path in an effort to escape.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Brandyn Artis",
+        "nm": 37911,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Victor Buono",
+        "nm": 120658,
+        "roles": [
+          {
+            "char": "Mr. Schubert",
+            "ch": 239939
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Duncan Gamble",
+        "nm": 303778,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jean Marie Hon",
+        "nm": 393059,
+        "roles": [
+          {
+            "char": "Jane"
+          }
+        ]
+      },
+      {
+        "name": "James Ingersoll",
+        "nm": 408786,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Robert Lussier",
+        "nm": 523832,
+        "roles": [
+          {
+            "char": "Brent"
+          }
+        ]
+      },
+      {
+        "name": "Jack Somack",
+        "nm": 813755,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E07",
+    "title": "The Hawk of Mu",
+    "tt": 641015,
+    "air_date": "1977-10-18",
+    "description": "Schubert's tracking of a mysterious power source causes a blackout, at the center of which, Mark discovers an ancient statue of a hawk. When he rescues Schubert's daughter Juliette from drowning, the villain learns of the hawk and steals it to discover the secret of its power.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Victor Buono",
+        "nm": 120658,
+        "roles": [
+          {
+            "char": "Mr. Schubert",
+            "ch": 239939
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Jean Marie Hon",
+        "nm": 393059,
+        "roles": [
+          {
+            "char": "Jane"
+          }
+        ]
+      },
+      {
+        "name": "Victoria Huxtable",
+        "nm": 404733,
+        "roles": [
+          {
+            "char": "Juliette Schubert"
+          }
+        ]
+      },
+      {
+        "name": "Sydney Lassick",
+        "nm": 489861,
+        "roles": [
+          {
+            "char": "Smith"
+          }
+        ]
+      },
+      {
+        "name": "Robert Lussier",
+        "nm": 523832,
+        "roles": [
+          {
+            "char": "Brent"
+          }
+        ]
+      },
+      {
+        "name": "Carole Mallory",
+        "nm": 540098,
+        "roles": [
+          {
+            "char": "Vicki"
+          }
+        ]
+      },
+      {
+        "name": "Russ Dodson",
+        "nm": 230308,
+        "roles": [
+          {
+            "char": "Constable",
+            "uncredited": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E08",
+    "title": "Giant",
+    "tt": 641006,
+    "air_date": "1977-10-25",
+    "description": "The world is endangered when a vortex opens in the ocean, and Mark must find where its going and some how stop it before all the water is drained away.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Kareem Abdul-Jabbar",
+        "nm": 717,
+        "roles": [
+          {
+            "char": "Thark"
+          }
+        ]
+      },
+      {
+        "name": "John Dennis",
+        "nm": 112392,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Jean Marie Hon",
+        "nm": 393059,
+        "roles": [
+          {
+            "char": "Jane"
+          }
+        ]
+      },
+      {
+        "name": "Gene LeBell",
+        "nm": 494061,
+        "roles": [
+          {
+            "char": "Ditcher"
+          }
+        ]
+      },
+      {
+        "name": "Ted Neeley",
+        "nm": 624189,
+        "roles": [
+          {
+            "char": "Jack Muldoon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E09",
+    "title": "Man O'War",
+    "tt": 641008,
+    "air_date": "1977-11-01",
+    "description": "Strapped for cash from his many expensive bids for world domination, Schubert breeds an aggressive genetically-altered jellyfish ten feet across named Poobah, and uses it for blackmail purposes. When the creature attacks a swim meet, Mark must battle the jellyfish.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Victor Buono",
+        "nm": 120658,
+        "roles": [
+          {
+            "char": "Mr. Schubert",
+            "ch": 239939
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Harvey Jason",
+        "nm": 419256,
+        "roles": [
+          {
+            "char": "Dashki"
+          }
+        ]
+      },
+      {
+        "name": "Monte Landis",
+        "nm": 484842,
+        "roles": [
+          {
+            "char": "Maitre'D"
+          }
+        ]
+      },
+      {
+        "name": "Robert Lussier",
+        "nm": 523832,
+        "roles": [
+          {
+            "char": "Brent"
+          }
+        ]
+      },
+      {
+        "name": "Hanns Manship",
+        "nm": 543845,
+        "roles": [
+          {
+            "char": "Policeman"
+          }
+        ]
+      },
+      {
+        "name": "Gary Owens",
+        "nm": 654365,
+        "roles": [
+          {
+            "char": "Announcer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E10",
+    "title": "Shoot-Out at Land's End",
+    "tt": 641012,
+    "air_date": "1977-11-08",
+    "description": "While investigating an underwater volcano, Mark is stricken with sudden pain in the shoulder. This is not the first time he's felt pain for no reason, and his instincts lead him to a deserted beach and, inexplicably, to a frontier town of the old west called Land's End. There he meets his identical twin, Billy, another water-breather who washed up on a beach with no knowledge of his true identity. Billy takes Mark's place aboard the Cetacean, leaving the Man from Atlantis to face the villains of Land's End.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Tony Epper",
+        "nm": 258353,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jean Marie Hon",
+        "nm": 393059,
+        "roles": [
+          {
+            "char": "Jane"
+          }
+        ]
+      },
+      {
+        "name": "J. Víctor López",
+        "nm": 530164,
+        "roles": [
+          {
+            "char": "Chuey"
+          }
+        ]
+      },
+      {
+        "name": "Pernell Roberts",
+        "nm": 731490,
+        "roles": [
+          {
+            "char": "Clint Hollister"
+          }
+        ]
+      },
+      {
+        "name": "Jamie Smith-Jackson",
+        "nm": 810404,
+        "roles": [
+          {
+            "char": "Bettina Washburn"
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Jomo"
+          }
+        ]
+      },
+      {
+        "name": "Noble Willingham",
+        "nm": 932244,
+        "roles": [
+          {
+            "char": "Artemus Washburn"
+          }
+        ]
+      },
+      {
+        "name": "Bill Zuckert",
+        "nm": 958451,
+        "roles": [
+          {
+            "char": "Virgil"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E11",
+    "title": "Crystal Water, Sudden Death",
+    "tt": 641004,
+    "air_date": "1977-11-22",
+    "description": "The Cetacean finds an underwater forcefield, which shelters a race of air-breathers with a strange clicking language. Mr. Schubert forces the Clicks to mine crystals for him, but taking the crystals will cause the field to collapse and kill them all unless Mark can intervene.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Victor Buono",
+        "nm": 120658,
+        "roles": [
+          {
+            "char": "Mr. Schubert",
+            "ch": 239939
+          }
+        ]
+      },
+      {
+        "name": "Rene Auberjonois",
+        "nm": 41281,
+        "roles": [
+          {
+            "char": "Havergal"
+          }
+        ]
+      },
+      {
+        "name": "Tina Lenert",
+        "nm": 1024736,
+        "roles": [
+          {
+            "char": "Click One"
+          }
+        ]
+      },
+      {
+        "name": "Flip Reade",
+        "nm": 1663544,
+        "roles": [
+          {
+            "char": "Click Two"
+          }
+        ]
+      },
+      {
+        "name": "Whitney Rydbeck",
+        "nm": 753044,
+        "roles": [
+          {
+            "char": "Click Three"
+          }
+        ]
+      },
+      {
+        "name": "Richard Laurance Williams",
+        "nm": 3178744,
+        "roles": [
+          {
+            "char": "Cetacean crew"
+          }
+        ]
+      },
+      {
+        "name": "J. Víctor López",
+        "nm": 530164,
+        "roles": [
+          {
+            "char": "Cetacean crew",
+            "as Victor J. Lopez": true
+          }
+        ]
+      },
+      {
+        "name": "Penelope Willis",
+        "nm": 932429,
+        "roles": [
+          {
+            "char": "Cetacean crew"
+          }
+        ]
+      },
+      {
+        "name": "Brandyn Barbara Artis",
+        "nm": 37910,
+        "roles": [
+          {
+            "char": "Cetacean crew",
+            "as Brandyn Artise": true
+          }
+        ]
+      },
+      {
+        "name": "Rozelle Gayle",
+        "nm": 310906,
+        "roles": [
+          {
+            "char": "Conrad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E12",
+    "title": "The Naked Montague",
+    "tt": 641018,
+    "air_date": "1977-12-06",
+    "description": "When a sea quake opens a fissure and Mark investigates he finds himself in a real life Romeo and Juliet.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Lewis Arquette",
+        "nm": 794,
+        "roles": [
+          {
+            "char": "Friar Laurence"
+          }
+        ]
+      },
+      {
+        "name": "Ahna Capri",
+        "nm": 135622,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Lisa Eilbacher",
+        "nm": 2060,
+        "roles": [
+          {
+            "char": "Juliet"
+          }
+        ]
+      },
+      {
+        "name": "David Gautreaux",
+        "nm": 310390,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jean Marie Hon",
+        "nm": 393059,
+        "roles": [
+          {
+            "char": "Jane"
+          }
+        ]
+      },
+      {
+        "name": "Scott Porter",
+        "nm": 692288,
+        "roles": [
+          {
+            "char": "Mercutio",
+            "ch": 528
+          }
+        ]
+      },
+      {
+        "name": "John Shea",
+        "nm": 790291,
+        "roles": [
+          {
+            "char": "Romeo"
+          }
+        ]
+      },
+      {
+        "name": "Norman Snow",
+        "nm": 811302,
+        "roles": [
+          {
+            "char": "Tybalt"
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Jomo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E13",
+    "title": "C.W. Hyde",
+    "tt": 641003,
+    "air_date": "1977-12-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Val Avery",
+        "nm": 43088,
+        "roles": [
+          {
+            "char": "Lew"
+          }
+        ]
+      },
+      {
+        "name": "Frank Bonner",
+        "nm": 94894,
+        "roles": [
+          {
+            "char": "Bartender"
+          }
+        ]
+      },
+      {
+        "name": "Michele Carey",
+        "nm": 137004,
+        "roles": [
+          {
+            "char": "Belle"
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Jean Marie Hon",
+        "nm": 393059,
+        "roles": [
+          {
+            "char": "Jane"
+          }
+        ]
+      },
+      {
+        "name": "Pamela Peters Solow",
+        "nm": 676614,
+        "roles": [
+          {
+            "char": "Sarah"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E14",
+    "title": "Scavenger Hunt",
+    "tt": 641011,
+    "air_date": "1978-04-18",
+    "description": null,
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Ted Cassidy",
+        "nm": 144252,
+        "roles": [
+          {
+            "char": "Canja"
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Jean Marie Hon",
+        "nm": 393059,
+        "roles": [
+          {
+            "char": "Jane"
+          }
+        ]
+      },
+      {
+        "name": "Peter Kwong",
+        "nm": 477286,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Ted Neeley",
+        "nm": 624189,
+        "roles": [
+          {
+            "char": "Jack Muldoon"
+          }
+        ]
+      },
+      {
+        "name": "Yabo Obien",
+        "nm": 1663536,
+        "roles": [
+          {
+            "char": "Toba"
+          }
+        ]
+      },
+      {
+        "name": "Michael Swan",
+        "nm": 841613,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Tony Urbano",
+        "nm": 881691,
+        "roles": [
+          {
+            "char": "Oscar"
+          }
+        ]
+      },
+      {
+        "name": "Eugenia Wright",
+        "nm": 942386,
+        "roles": [
+          {
+            "char": "Trivi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E15",
+    "title": "Imp",
+    "tt": 641007,
+    "air_date": "1978-04-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Belinda Montgomery",
+        "nm": 599727,
+        "roles": [
+          {
+            "char": "Dr. Elizabeth Merrill",
+            "ch": 109210
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "William 'Billy' Benedict",
+        "nm": 70827,
+        "roles": [
+          {
+            "char": "Guard",
+            "as William Benedict": true
+          }
+        ]
+      },
+      {
+        "name": "Larry Breeding",
+        "nm": 106688,
+        "roles": [
+          {
+            "char": "Buddy O'Toole"
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Richard Gautier",
+        "nm": 310370,
+        "roles": [
+          {
+            "char": "Duke"
+          }
+        ]
+      },
+      {
+        "name": "Harvey J. Goldenberg",
+        "nm": 325522,
+        "roles": [
+          {
+            "char": "Man"
+          }
+        ]
+      },
+      {
+        "name": "Jean Marie Hon",
+        "nm": 393059,
+        "roles": [
+          {
+            "char": "Jane"
+          }
+        ]
+      },
+      {
+        "name": "James Ingersoll",
+        "nm": 408786,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Allen Joseph",
+        "nm": 430543,
+        "roles": [
+          {
+            "char": "Proprietor"
+          }
+        ]
+      },
+      {
+        "name": "Pat Morita",
+        "nm": 1552,
+        "roles": [
+          {
+            "char": "Moby"
+          }
+        ]
+      },
+      {
+        "name": "Mel Scott",
+        "nm": 779562,
+        "roles": [
+          {
+            "char": "Bert Davis"
+          }
+        ]
+      },
+      {
+        "name": "Lyman Ward",
+        "nm": 911700,
+        "roles": [
+          {
+            "char": "Clavius"
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Jomo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E16",
+    "title": "The Siren",
+    "tt": 641019,
+    "air_date": "1978-05-02",
+    "description": null,
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Neville Brand",
+        "nm": 104507,
+        "roles": [
+          {
+            "char": "Stringer"
+          }
+        ]
+      },
+      {
+        "name": "Colleen Camp",
+        "nm": 131974,
+        "roles": [
+          {
+            "char": "Amanda #2"
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Kim Lankford",
+        "nm": 486905,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Carol Miyaoka",
+        "nm": 973532,
+        "roles": [
+          {
+            "char": "Siren",
+            "ch": 417731
+          }
+        ]
+      },
+      {
+        "name": "Lisa Blake Richards",
+        "nm": 724216,
+        "roles": [
+          {
+            "char": "Jenny Reynolds"
+          }
+        ]
+      },
+      {
+        "name": "Timothy Scott",
+        "nm": 779850,
+        "roles": [
+          {
+            "char": "Caine"
+          }
+        ]
+      },
+      {
+        "name": "Laurette Spang",
+        "nm": 816783,
+        "roles": [
+          {
+            "char": "Amanda Trevanian"
+          }
+        ]
+      },
+      {
+        "name": "Michael Strong",
+        "nm": 835021,
+        "roles": [
+          {
+            "char": "Hugh Trevanian"
+          }
+        ]
+      },
+      {
+        "name": "Gary Tomlin",
+        "nm": 866801,
+        "roles": [
+          {
+            "char": "Helmsman"
+          }
+        ]
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "nm": 930454,
+        "roles": [
+          {
+            "char": "Jomo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E17",
+    "title": "Deadly Carnival",
+    "tt": 641005,
+    "air_date": "1978-06-06",
+    "description": "When a man who works in a carnival dies from drowning, Mark is sent to investigate. He learns that two men who work at the carnival are planning something that requires a someone who can hold their breath under water.",
+    "cast": [
+      {
+        "name": "Patrick Duffy",
+        "nm": 1155,
+        "roles": [
+          {
+            "char": "Mark Harris",
+            "ch": 68648
+          }
+        ]
+      },
+      {
+        "name": "Alan Fudge",
+        "nm": 297322,
+        "roles": [
+          {
+            "char": "C.W. Crawford",
+            "ch": 151404
+          }
+        ]
+      },
+      {
+        "name": "Billy Barty",
+        "nm": 863,
+        "roles": [
+          {
+            "char": "Moxie"
+          }
+        ]
+      },
+      {
+        "name": "Anson Downes",
+        "nm": 235930,
+        "roles": [
+          {
+            "char": "Airlock Officer"
+          }
+        ]
+      },
+      {
+        "name": "Sharon Farrell",
+        "nm": 268331,
+        "roles": [
+          {
+            "char": "Charlene Baker"
+          }
+        ]
+      },
+      {
+        "name": "Donna Garrett",
+        "nm": 308108,
+        "roles": [
+          {
+            "char": "Student"
+          }
+        ]
+      },
+      {
+        "name": "James Ingersoll",
+        "nm": 408786,
+        "roles": [
+          {
+            "char": "Officer"
+          }
+        ]
+      },
+      {
+        "name": "Anthony James",
+        "nm": 416279,
+        "roles": [
+          {
+            "char": "Summersday"
+          }
+        ]
+      }
+    ]
+  }
+]

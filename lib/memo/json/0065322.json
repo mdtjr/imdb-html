@@ -1,0 +1,48 @@
+[
+  {
+    "se": "S01E01",
+    "title": "The Red Knight",
+    "tt": 1200192,
+    "air_date": "1971-02-25",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ray Brooks",
+        "nm": 112211,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "The Clown",
+    "tt": 1211110,
+    "air_date": "1971-03-11",
+    "description": null,
+    "cast": [
+      {
+        "name": "Ray Brooks",
+        "nm": 112211,
+        "roles": [
+          {
+            "char": "Narrator",
+            "voice": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Mr Benn Goes Ballooning",
+    "tt": 1240730,
+    "air_date": "1971-03-18",
+    "description": null,
+    "cast": null
+  }
+]

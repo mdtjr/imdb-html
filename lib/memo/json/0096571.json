@@ -1,0 +1,802 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Pilot",
+    "tt": 1710684,
+    "air_date": "1989-04-13",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dale Midkiff",
+        "nm": 1535,
+        "roles": [
+          {
+            "char": "Denis DeBeau",
+            "ch": 232096
+          }
+        ]
+      },
+      {
+        "name": "Peter Frechette",
+        "nm": 292691,
+        "roles": [
+          {
+            "char": "Harry DeBeau",
+            "ch": 232095
+          }
+        ]
+      },
+      {
+        "name": "David Barry Gray",
+        "nm": 336558,
+        "roles": [
+          {
+            "char": "Eric DeBeau",
+            "ch": 232097
+          }
+        ]
+      },
+      {
+        "name": "Tom Signorelli",
+        "nm": 797529,
+        "roles": [
+          {
+            "char": "Pete DeBeau",
+            "ch": 232098
+          }
+        ]
+      },
+      {
+        "name": "Thomas Calabro",
+        "nm": 129248,
+        "roles": [
+          {
+            "char": "Joey Coltrera",
+            "ch": 69295
+          }
+        ]
+      },
+      {
+        "name": "Cecil Hoffman",
+        "nm": 388839,
+        "roles": [
+          {
+            "char": "Joni Goldstein",
+            "ch": 399130
+          }
+        ]
+      },
+      {
+        "name": "Jo Anderson",
+        "nm": 26910,
+        "roles": [
+          {
+            "char": "Marianne McKinney",
+            "ch": 399131
+          }
+        ]
+      },
+      {
+        "name": "Victor Argo",
+        "nm": 34519,
+        "roles": [
+          {
+            "char": "Anthony Coltrera",
+            "ch": 232094
+          }
+        ]
+      },
+      {
+        "name": "Debra Mooney",
+        "nm": 600717,
+        "roles": [
+          {
+            "char": "Lillian DeBeau"
+          }
+        ]
+      },
+      {
+        "name": "Charles Brown",
+        "nm": 113225,
+        "roles": [
+          {
+            "char": "Cesar Clemons"
+          }
+        ]
+      },
+      {
+        "name": "Cara Buono",
+        "nm": 120648,
+        "roles": [
+          {
+            "char": "Joann"
+          }
+        ]
+      },
+      {
+        "name": "Mark Casella",
+        "nm": 143291,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Victor Colicchio",
+        "nm": 171470,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Gina DeAngeles",
+        "nm": 213059,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Richard Grund",
+        "nm": 344512,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Mia Korf",
+        "nm": 2786,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Kahlena Marie",
+        "nm": 547263,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Christine Moore",
+        "nm": 1746798,
+        "roles": [
+          {
+            "char": "Kara"
+          }
+        ]
+      },
+      {
+        "name": "LaTanya Richardson",
+        "nm": 724665,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Joe Spinell",
+        "nm": 818874,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Bradford Tatum",
+        "nm": 851348,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Jake Weber",
+        "nm": 916617,
+        "roles": [
+
+        ]
+      },
+      {
+        "name": "Vanessa Williams",
+        "nm": 4539,
+        "roles": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E02",
+    "title": "True Love",
+    "tt": 1136190,
+    "air_date": "1989-04-21",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dale Midkiff",
+        "nm": 1535,
+        "roles": [
+          {
+            "char": "Denis DeBeau",
+            "ch": 232096
+          }
+        ]
+      },
+      {
+        "name": "Peter Frechette",
+        "nm": 292691,
+        "roles": [
+          {
+            "char": "Harry DeBeau",
+            "ch": 232095
+          }
+        ]
+      },
+      {
+        "name": "David Barry Gray",
+        "nm": 336558,
+        "roles": [
+          {
+            "char": "Eric DeBeau",
+            "ch": 232097
+          }
+        ]
+      },
+      {
+        "name": "Tom Signorelli",
+        "nm": 797529,
+        "roles": [
+          {
+            "char": "Pete DeBeau",
+            "ch": 232098
+          }
+        ]
+      },
+      {
+        "name": "Thomas Calabro",
+        "nm": 129248,
+        "roles": [
+          {
+            "char": "Joey Coltrera",
+            "ch": 69295
+          }
+        ]
+      },
+      {
+        "name": "Cecil Hoffman",
+        "nm": 388839,
+        "roles": [
+          {
+            "char": "Joni Goldstein",
+            "ch": 399130
+          }
+        ]
+      },
+      {
+        "name": "Jo Anderson",
+        "nm": 26910,
+        "roles": [
+          {
+            "char": "Marianne McKinney",
+            "ch": 399131
+          }
+        ]
+      },
+      {
+        "name": "Victor Argo",
+        "nm": 34519,
+        "roles": [
+          {
+            "char": "Anthony Coltrera",
+            "ch": 232094
+          }
+        ]
+      },
+      {
+        "name": "Debra Mooney",
+        "nm": 600717,
+        "roles": [
+          {
+            "char": "Lillian DeBeau"
+          }
+        ]
+      },
+      {
+        "name": "Wendy Makkena",
+        "nm": 538655,
+        "roles": [
+          {
+            "char": "Harry's Ex-Wife"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E03",
+    "title": "Money for Nothing",
+    "tt": 1710683,
+    "air_date": "1989-04-28",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dale Midkiff",
+        "nm": 1535,
+        "roles": [
+          {
+            "char": "Denis DeBeau",
+            "ch": 232096
+          }
+        ]
+      },
+      {
+        "name": "Peter Frechette",
+        "nm": 292691,
+        "roles": [
+          {
+            "char": "Harry DeBeau",
+            "ch": 232095
+          }
+        ]
+      },
+      {
+        "name": "David Barry Gray",
+        "nm": 336558,
+        "roles": [
+          {
+            "char": "Eric DeBeau",
+            "ch": 232097
+          }
+        ]
+      },
+      {
+        "name": "Tom Signorelli",
+        "nm": 797529,
+        "roles": [
+          {
+            "char": "Pete DeBeau",
+            "ch": 232098
+          }
+        ]
+      },
+      {
+        "name": "Thomas Calabro",
+        "nm": 129248,
+        "roles": [
+          {
+            "char": "Joey Coltrera",
+            "ch": 69295
+          }
+        ]
+      },
+      {
+        "name": "Cecil Hoffman",
+        "nm": 388839,
+        "roles": [
+          {
+            "char": "Joni Goldstein",
+            "ch": 399130
+          }
+        ]
+      },
+      {
+        "name": "Jo Anderson",
+        "nm": 26910,
+        "roles": [
+          {
+            "char": "Marianne McKinney",
+            "ch": 399131
+          }
+        ]
+      },
+      {
+        "name": "Victor Argo",
+        "nm": 34519,
+        "roles": [
+          {
+            "char": "Anthony Coltrera",
+            "ch": 232094
+          }
+        ]
+      },
+      {
+        "name": "Debra Mooney",
+        "nm": 600717,
+        "roles": [
+          {
+            "char": "Lillian DeBeau"
+          }
+        ]
+      },
+      {
+        "name": "James A. Baffico",
+        "nm": 46490,
+        "roles": [
+          {
+            "char": "Frank"
+          }
+        ]
+      },
+      {
+        "name": "Cara Buono",
+        "nm": 120648,
+        "roles": [
+          {
+            "char": "Joann"
+          }
+        ]
+      },
+      {
+        "name": "John Costelloe",
+        "nm": 182569,
+        "roles": [
+          {
+            "char": "Alex"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E04",
+    "title": "Girl's Talk",
+    "tt": 1136189,
+    "air_date": "1989-05-05",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dale Midkiff",
+        "nm": 1535,
+        "roles": [
+          {
+            "char": "Denis DeBeau",
+            "ch": 232096
+          }
+        ]
+      },
+      {
+        "name": "Peter Frechette",
+        "nm": 292691,
+        "roles": [
+          {
+            "char": "Harry DeBeau",
+            "ch": 232095
+          }
+        ]
+      },
+      {
+        "name": "David Barry Gray",
+        "nm": 336558,
+        "roles": [
+          {
+            "char": "Eric DeBeau",
+            "ch": 232097
+          }
+        ]
+      },
+      {
+        "name": "Tom Signorelli",
+        "nm": 797529,
+        "roles": [
+          {
+            "char": "Pete DeBeau",
+            "ch": 232098
+          }
+        ]
+      },
+      {
+        "name": "Thomas Calabro",
+        "nm": 129248,
+        "roles": [
+          {
+            "char": "Joey Coltrera",
+            "ch": 69295
+          }
+        ]
+      },
+      {
+        "name": "Cecil Hoffman",
+        "nm": 388839,
+        "roles": [
+          {
+            "char": "Joni Goldstein",
+            "ch": 399130
+          }
+        ]
+      },
+      {
+        "name": "Jo Anderson",
+        "nm": 26910,
+        "roles": [
+          {
+            "char": "Marianne McKinney",
+            "ch": 399131
+          }
+        ]
+      },
+      {
+        "name": "Victor Argo",
+        "nm": 34519,
+        "roles": [
+          {
+            "char": "Anthony Coltrera",
+            "ch": 232094
+          }
+        ]
+      },
+      {
+        "name": "Debra Mooney",
+        "nm": 600717,
+        "roles": [
+          {
+            "char": "Lillian DeBeau"
+          }
+        ]
+      },
+      {
+        "name": "Dennis Boutsikaris",
+        "nm": 100381,
+        "roles": [
+          {
+            "char": "Michael"
+          }
+        ]
+      },
+      {
+        "name": "Christine Moore",
+        "nm": 1746798,
+        "roles": [
+          {
+            "char": "Kara"
+          }
+        ]
+      },
+      {
+        "name": "Sam Rockwell",
+        "nm": 5377,
+        "roles": [
+          {
+            "char": "Joey"
+          }
+        ]
+      },
+      {
+        "name": "Marsha Waterbury",
+        "nm": 913942,
+        "roles": [
+          {
+            "char": "Theresa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E05",
+    "title": "Father of the Year",
+    "tt": 1347668,
+    "air_date": "1989-05-19",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dale Midkiff",
+        "nm": 1535,
+        "roles": [
+          {
+            "char": "Denis DeBeau",
+            "ch": 232096
+          }
+        ]
+      },
+      {
+        "name": "Peter Frechette",
+        "nm": 292691,
+        "roles": [
+          {
+            "char": "Harry DeBeau",
+            "ch": 232095
+          }
+        ]
+      },
+      {
+        "name": "David Barry Gray",
+        "nm": 336558,
+        "roles": [
+          {
+            "char": "Eric DeBeau",
+            "ch": 232097
+          }
+        ]
+      },
+      {
+        "name": "Tom Signorelli",
+        "nm": 797529,
+        "roles": [
+          {
+            "char": "Pete DeBeau",
+            "ch": 232098
+          }
+        ]
+      },
+      {
+        "name": "Thomas Calabro",
+        "nm": 129248,
+        "roles": [
+          {
+            "char": "Joey Coltrera",
+            "ch": 69295
+          }
+        ]
+      },
+      {
+        "name": "Cecil Hoffman",
+        "nm": 388839,
+        "roles": [
+          {
+            "char": "Joni Goldstein",
+            "ch": 399130
+          }
+        ]
+      },
+      {
+        "name": "Jo Anderson",
+        "nm": 26910,
+        "roles": [
+          {
+            "char": "Marianne McKinney",
+            "ch": 399131
+          }
+        ]
+      },
+      {
+        "name": "Victor Argo",
+        "nm": 34519,
+        "roles": [
+          {
+            "char": "Anthony Coltrera",
+            "ch": 232094
+          }
+        ]
+      },
+      {
+        "name": "Debra Mooney",
+        "nm": 600717,
+        "roles": [
+          {
+            "char": "Lillian DeBeau"
+          }
+        ]
+      },
+      {
+        "name": "Gene Canfield",
+        "nm": 133932,
+        "roles": [
+          {
+            "char": "O'Rouke"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "se": "S01E06",
+    "title": "Bachelor Party",
+    "tt": 566224,
+    "air_date": "1989-06-07",
+    "description": null,
+    "cast": [
+      {
+        "name": "Dale Midkiff",
+        "nm": 1535,
+        "roles": [
+          {
+            "char": "Denis DeBeau",
+            "ch": 232096
+          }
+        ]
+      },
+      {
+        "name": "Peter Frechette",
+        "nm": 292691,
+        "roles": [
+          {
+            "char": "Harry DeBeau",
+            "ch": 232095
+          }
+        ]
+      },
+      {
+        "name": "David Barry Gray",
+        "nm": 336558,
+        "roles": [
+          {
+            "char": "Eric DeBeau",
+            "ch": 232097
+          }
+        ]
+      },
+      {
+        "name": "Tom Signorelli",
+        "nm": 797529,
+        "roles": [
+          {
+            "char": "Pete DeBeau",
+            "ch": 232098
+          }
+        ]
+      },
+      {
+        "name": "Thomas Calabro",
+        "nm": 129248,
+        "roles": [
+          {
+            "char": "Joey Coltrera",
+            "ch": 69295
+          }
+        ]
+      },
+      {
+        "name": "Cecil Hoffman",
+        "nm": 388839,
+        "roles": [
+          {
+            "char": "Joni Goldstein",
+            "ch": 399130
+          }
+        ]
+      },
+      {
+        "name": "Jo Anderson",
+        "nm": 26910,
+        "roles": [
+          {
+            "char": "Marianne McKinney",
+            "ch": 399131
+          }
+        ]
+      },
+      {
+        "name": "Victor Argo",
+        "nm": 34519,
+        "roles": [
+          {
+            "char": "Anthony Coltrera",
+            "ch": 232094
+          }
+        ]
+      },
+      {
+        "name": "Debra Mooney",
+        "nm": 600717,
+        "roles": [
+          {
+            "char": "Lillian DeBeau"
+          }
+        ]
+      },
+      {
+        "name": "John D. Bair",
+        "nm": 2922525,
+        "roles": [
+          {
+            "char": "Jimmy"
+          }
+        ]
+      },
+      {
+        "name": "Joe James",
+        "nm": 1946346,
+        "roles": [
+          {
+            "char": "Student #1"
+          }
+        ]
+      },
+      {
+        "name": "Mia Korf",
+        "nm": 2786,
+        "roles": [
+          {
+            "char": "Mari"
+          }
+        ]
+      }
+    ]
+  }
+]

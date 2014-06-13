@@ -1,0 +1,52 @@
+[
+  {
+    "se": "S01E01",
+    "title": "Invasion of the Booby Hatchers",
+    "tt": 1182107,
+    "air_date": "1981-10-10",
+    "description": null,
+    "cast": [
+      {
+        "name": "Penny Marshall",
+        "nm": 1508,
+        "roles": [
+          {
+            "char": "Laverne DeFazio",
+            "ch": 26363,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Cindy Williams",
+        "nm": 930286,
+        "roles": [
+          {
+            "char": "Shirley Feeney",
+            "ch": 30722,
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Kenneth Mars",
+        "nm": 550318,
+        "roles": [
+          {
+            "char": "Sgt. Turnbuckle",
+            "voice": true
+          }
+        ]
+      },
+      {
+        "name": "Lou Richards",
+        "nm": 724224,
+        "roles": [
+          {
+            "char": "Outlaw"
+          }
+        ]
+      }
+    ]
+  }
+]
