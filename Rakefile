@@ -22,7 +22,7 @@ Jeweler::Tasks.new do |gem|
   gem.email = "gametheoretic@gmail.com"
   gem.authors = ["michael d. towle"]
   gem.files.include "lib/**/*"
-  gem.version = "0.0.1"
+  gem.version = "0.0.2"
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
