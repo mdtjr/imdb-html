@@ -1,3 +1,6 @@
+require 'nokogiri'
+require 'httparty'
+
 require 'imdb-html/const'
 require 'imdb-html/regexp/html'
 require 'imdb-html/regexp/content'
