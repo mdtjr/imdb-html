@@ -17,10 +17,12 @@ Jeweler::Tasks.new do |gem|
   gem.name = "imdb-html"
   gem.homepage = "http://github.com/gametheoretic/imdb-html"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{1}
+  gem.description = %Q{2}
   gem.email = "gametheoretic@gmail.com"
   gem.authors = ["michael d. towle"]
+  gem.files.include "lib/**/*"
+  gem.version = "0.0.1"
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
